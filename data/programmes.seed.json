@@ -427,5 +427,122 @@
     "stage": "doctorado",
     "entry": "Consultar requisitos académicos de la sede",
     "eligibilityNote": "Red de doctorado con supervisión e intercambio entre sedes. Considera únicamente sedes europeas; salario, admisión y financiación dependen de la institución."
+  },
+  {
+    "title": "Aalto Doctoral Programme in Science — Computer Science and Mathematics",
+    "institution": "Aalto University",
+    "country": "FI",
+    "url": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Máster afín o equivalente",
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés, finés o sueco; acordar idioma de la tesis"
+    ],
+    "feeNote": "Los estudios doctorales y la inscripción no tienen tasas académicas.",
+    "funding": {
+      "kind": "unconfirmed",
+      "text": "Contrato o beca por separado. La admisión a tiempo completo exige financiación de al menos 6 meses."
+    },
+    "eligibilityNote": "Esta ficha comprende las áreas de informática y matemáticas. Se requiere acordar supervisión antes de solicitar admisión. La admisión no asigna automáticamente salario."
+  },
+  {
+    "title": "Doctoral Programme in Science — Computer Science, Mathematics and Statistics",
+    "institution": "University of Helsinki",
+    "country": "FI",
+    "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-science",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Consultar requisitos de admisión doctoral",
+    "eligibilityNote": "Se incluyen las áreas de informática, ciencia de datos, machine learning, matemáticas y estadística del programa SciDoc; las otras áreas del programa quedan fuera de esta ficha.",
+    "researchNote": "SciDoc reúne varias áreas. Identifica primero un grupo y un supervisor en tu disciplina; comprueba por separado admisión, contrato y financiación."
+  },
+  {
+    "title": "PhD in Information Technology",
+    "institution": "Uppsala University",
+    "country": "SE",
+    "url": "https://www.uu.se/en/department/information-technology/doctoral-studies.html",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Consultar requisitos de cada plaza",
+    "duration": "240 créditos: 4 años de investigación y cursos; hasta 1 año adicional de tareas departamentales.",
+    "funding": {
+      "kind": "salary",
+      "text": "Habitualmente contrato remunerado tras obtener una plaza; existen excepciones con beca o empleador externo."
+    },
+    "eligibilityNote": "Primero se solicita una vacante financiada; la admisión formal se tramita después con los supervisores."
+  },
+  {
+    "title": "PhD in Applied Mathematics and Statistics",
+    "institution": "Uppsala University",
+    "country": "SE",
+    "url": "https://www.uu.se/en/department/mathematics/study/phd-studies",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Consultar requisitos de la convocatoria",
+    "duration": "240 créditos; normalmente se añade un año de docencia.",
+    "funding": {
+      "kind": "salary",
+      "text": "El departamento declara contratación y salario para sus doctorandos admitidos."
+    },
+    "eligibilityNote": "La ficha se refiere al área de matemáticas aplicadas y estadística. Los requisitos y el plazo los fija cada anuncio; el departamento valora especialmente la tesis de máster."
+  },
+  {
+    "title": "MSc Statistics and Data Science",
+    "institution": "Uppsala University",
+    "country": "SE",
+    "url": "https://www.uu.se/en/study/programme/masters-programme-statistics-and-data-science.html",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado y formación previa en estadística",
+    "duration": "2 años · 120 créditos",
+    "languages": [
+      "Inglés; acreditación equivalente a English 6"
+    ],
+    "researchNote": "El último semestre se dedica a una tesis de 30 créditos. El itinerario prepara también para estudios doctorales en estadística.",
+    "eligibilityNote": "Requiere 90 créditos de estadística, o 60 de estadística y 30 de matemáticas o informática. La salida de un año tiene una tesis de menor extensión.",
+    "feeNote": "La matrícula depende de nacionalidad y exenciones; consultar la cohorte de ingreso en la fuente."
+  },
+  {
+    "title": "MSc Computer Science",
+    "institution": "KTH Royal Institute of Technology",
+    "country": "SE",
+    "url": "https://www.kth.se/en/studies/master/computer-science",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado afín de 180 ECTS o equivalente",
+    "duration": "2 años",
+    "researchEvidenceUrl": "https://www.kth.se/en/studies/master/computer-science/courses-computer-science-1.502267",
+    "researchNote": "Tres semestres de cursos y un semestre final de proyecto de máster. Incluye metodología de investigación y especializaciones en IA, datos, sistemas y teoría.",
+    "eligibilityNote": "Se exigen cursos previos concretos de matemáticas e informática; revisa los requisitos detallados antes de solicitar."
+  },
+  {
+    "title": "MSc Mathematical Sciences — Applied Mathematics and Statistics",
+    "institution": "NTNU",
+    "country": "NO",
+    "url": "https://www.ntnu.edu/studies/msmnfma",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado con al menos 80 créditos de matemáticas",
+    "duration": "2 años · 120 créditos",
+    "languages": [
+      "Inglés"
+    ],
+    "researchEvidenceUrl": "https://www.ntnu.edu/studies/msmnfma/structure",
+    "researchNote": "Tesis supervisada de 45 créditos y 75 créditos de cursos. Permite especializarse en matemáticas aplicadas o estadística.",
+    "eligibilityNote": "Esta ficha cubre las especialidades aplicadas y estadísticas, no las de matemáticas puras. La admisión exige además la nota mínima especificada por NTNU."
+  },
+  {
+    "title": "Research Master in Methodology, Statistics and Data Science",
+    "institution": "Utrecht University",
+    "country": "NL",
+    "url": "https://www.uu.nl/en/masters/methodology-statistics-and-data-science/study-programme",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Consultar titulaciones y formación estadística admitidas",
+    "duration": "2 años",
+    "programmeType": "Máster de investigación en metodología, estadística y datos",
+    "researchNote": "La formación incluye experiencia de investigación y preparación de tesis. La tesis adopta el formato de un artículo científico; puede realizarse con grupos de distintas disciplinas."
   }
 ]

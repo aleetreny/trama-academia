@@ -5,15 +5,17 @@ export const hash = s => createHash('sha256').update(s).digest('hex');
 export const idFor = url => hash(canonicalUrl(url)).slice(0,20);
 export function canonicalUrl(raw) { const u=new URL(raw);u.hash='';for(const k of [...u.searchParams.keys()])if(k.startsWith('utm_')||['fbclid','gclid','ref'].includes(k))u.searchParams.delete(k);u.searchParams.sort();return u.toString().replace(/\/$/,''); }
 export function fieldsFrom(text){
-  const rules=[['Machine learning',/machine learning|deep learning|artificial intelligence|intelligence artificielle|apprentissage|neural network|foundation model|reinforcement learning|federated learning|distributed learning|large language model|\bLLM\b|computer vision|natural language processing/i],['Ciencia de datos',/data science|data mining|data analytics|big data|data-driven|science des donn[ée]es|scientific computing/i],['Estadística',/statistic|statistique|stochastic|probabilistic|bayesian|causal inference/i],['Informática',/computer science|computing|informatics|informatique|algorithm|software|cybersecurity|cybers[ée]curit[ée]|computer graphics|human.computer|distributed systems|computational|information theory|data structures|database/i],['Matemáticas aplicadas',/applied math|math[ée]matiques appliqu[ée]es|numerical|optimization|optimisation|inverse problem|partial differential|mathematical model|operations research|control theory/i]];
+  const rules=[['Machine learning',/machine[ -]learning|deep learning|artificial intelligence|intelligence artificielle|apprentissage|neural network|foundation model|reinforcement learning|federated learning|distributed learning|large language model|\bLLM\b|computer vision|natural language processing|maskinl[æä]ring|kunstig intelligens|artificiell intelligens/i],['Ciencia de datos',/data science|data mining|data analytics|big data|data-driven|science des donn[ée]es|scientific computing|datavitenskap/i],['Estadística',/statistic|statistique|stochastic|probabilistic|bayesian|causal inference|statistikk?|stokastisk/i],['Informática',/computer science|computing|informatics|informatique|algorithm|software|cybersecurity|cybers[ée]curit[ée]|computer graphics|human.computer|distributed systems|computational|information theory|data structures|database|informatikk?|datavetenskap|datalogi|algoritm/i],['Matemáticas aplicadas',/applied math|math[ée]matiques appliqu[ée]es|numerical|optimization|optimisation|inverse problem|partial differential|mathematical model|operations research|control theory|anvendt matematikk?|till[äa]mpad matematik|optimalisering|numerisk/i]];
   return rules.filter(([,re])=>re.test(text)).map(([name])=>name);
 }
 export function stageFrom(title,profile='',qualification=''){
   if(/research engineer|ing[ée]nieur/i.test(title)&&/PhD|Doctoral|doctorat/i.test(qualification))return 'postdoc';
-  if(/post.?doc|postdoctoral|research fellow|research associate/i.test(title))return 'postdoc';
-  if(/professor|lecturer|tenure|faculty|group leader|chair |ma[iî]tre de conf|charg[ée].? de recherche|directeur de recherche/i.test(title))return 'faculty';
-  if(/ph\.?d|doctoral|doctorant|doctorate|studentship|doktorand|predoctoral/i.test(title))return 'doctorado';
-  if(/\bintern(?:ship)?s?\b|research assistant|student assistant|research engineer|ing[ée]nieur|stage |stagiaire|wissenschaftliche.*hilf/i.test(title))return 'grado';
+  if(/post.?doc|postdoctoral|postdoktor/i.test(title))return 'postdoc';
+  if(/professor|lecturer|tenure|faculty|group leader|chair |ma[iî]tre de conf|charg[ée].? de recherche|directeur de recherche|f[øö]rsteamanuensis|universitetslektor|universitetsadjunkt|dosent/i.test(title))return 'faculty';
+  if(/ph\.?d|doctoral|doctorant|doctorate|studentship|doktorand|predoctoral|stipendiat/i.test(title))return 'doctorado';
+  if(/research fellow|research associate/i.test(title))return 'postdoc';
+  if(/research(?:er| scientist)|forskare|forsker/i.test(title)&&/Ph\.?D|doctoral degree|doctorate|doktorgrad/i.test(qualification))return 'postdoc';
+  if(/\bintern(?:ship)?s?\b|research assistant|student assistant|research engineer|ing[ée]nieur|stage |stagiaire|wissenschaftliche.*hilf|master[’']?s? thesis|forskningsassistent/i.test(title))return 'grado';
   if(/R2/.test(profile)&&/PhD|Doctoral/.test(qualification))return 'postdoc';
   return null;
 }
@@ -27,13 +29,13 @@ export function effectiveStatus(record,now=Date.now()){
   return ['rolling','listed'].includes(record.status)?record.status:'unverified';
 }
 export function entryLevel(text){
-  const s=clean(text);if(/PhD|Ph\.D|Doctoral degree|doctorat|doctorate/i.test(s))return 'Doctorado';
+  const s=clean(text);if(/PhD|Ph\.D|Doctoral degree|doctorat|doctorate|doktorgrad/i.test(s))return 'Doctorado';
   if(/Master|MSc|bac\s?\+\s?5|5.year university degree/i.test(s))return 'Máster';
   if(/Bachelor|BSc|Licence|bac\s?\+\s?3/i.test(s))return 'Grado';
   if(/undergraduate|enrolled.*student/i.test(s))return 'Estudiante de grado';return 'Consultar requisitos';
 }
 export function requiredDegree(text){
- const s=clean(text);const match=s.match(/(?:must|should|will|need to)\s+(?:have|hold|possess)(?:.{0,90}?)(?:Ph\.?D|doctorate|master[’']?s?|bachelor[’']?s?|MSc|BSc)(?:\s+degree)?|(?:requirements?\s*:?\s*|you have\s+|hold\s+)(?:a |an )?(?:master[’']?s?|bachelor[’']?s?|Ph\.?D|MSc|BSc)(?:\s+degree)?/i);
+ const s=clean(text);const match=s.match(/(?:(?:must|should|will|shall|need to)\s+(?:have|hold|possess)\s+|requirements?\s*:?\s*|you have\s+|hold\s+)(?:(?:completed|obtained|a|an|their|your|relevant|applicable|equivalent|foreign|at least)\s+)*(?:Ph\.?D|doctoral degree|doctorate|master[’']?s?|bachelor[’']?s?|MSc|BSc)(?:\s+degree)?/i);
  return match?entryLevel(match[0]):'Consultar requisitos';
 }
 export function durationFrom(text){

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:55:14.401Z",
+  "generatedAt": "2026-09-19T19:26:09.190Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -4015,8 +4015,8 @@
       "sourceId": "programme-742b9a4ddf9b36b2eb09",
       "sourceName": "ETH Zurich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:14.718Z",
-      "seenAt": "2026-09-19T18:55:14.718Z",
+      "verifiedAt": "2026-09-19T18:18:17.898Z",
+      "seenAt": "2026-09-19T18:18:17.898Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4033,7 +4033,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "fb6fcbc441b5dfb74c0abcff56fc10fadade7ff5f09ce14d113f5c21ce5ac7e9",
+        "contentHash": "f4bb4c7a7a7a331136ca411b208bbe4d13d6355b1a48abc7cbd8632cf637a58c",
         "checkedUrl": "https://inf.ethz.ch/studies/master/master-ds.html",
         "method": "official-programme-page",
         "researchUrl": "https://inf.ethz.ch/studies/master/master-ds.html"
@@ -4055,8 +4055,8 @@
       "sourceId": "programme-26cf88c539b296f0eb52",
       "sourceName": "University of Cambridge",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:15.890Z",
-      "seenAt": "2026-09-19T18:55:15.890Z",
+      "verifiedAt": "2026-09-19T18:18:19.152Z",
+      "seenAt": "2026-09-19T18:18:19.152Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4091,8 +4091,8 @@
       "sourceId": "programme-3b2b2a9cadb4964b74be",
       "sourceName": "Aalto University",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:16.340Z",
-      "seenAt": "2026-09-19T18:55:16.340Z",
+      "verifiedAt": "2026-09-19T18:18:20.039Z",
+      "seenAt": "2026-09-19T18:18:20.039Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4111,7 +4111,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "0780377b447a1be5bd5aa0b59aa23b40a70ca65ecaebafe2743a6445963dc676",
+        "contentHash": "9ae9d775a3a0072dd94104a26b1b7d858d3ea9d6f6daa44a070d25ae588e01cf",
         "checkedUrl": "https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology",
         "method": "official-programme-page",
         "researchUrl": "https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology"
@@ -4131,8 +4131,8 @@
       "sourceId": "programme-f58d05a8c81587f76076",
       "sourceName": "Technical University of Munich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:18.333Z",
-      "seenAt": "2026-09-19T18:55:18.333Z",
+      "verifiedAt": "2026-09-19T18:18:20.375Z",
+      "seenAt": "2026-09-19T18:18:20.375Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4148,7 +4148,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "4a491346adc69302a419a766787d5b3b8013865c4b89df27692733e5f18a5eed",
+        "contentHash": "b672a863dcebbe2b9f2d0035cb5cbfb367eec29ba7e9fb179bb4df45041a6c06",
         "checkedUrl": "https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/",
         "method": "official-programme-page",
         "researchUrl": "https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/"
@@ -4170,8 +4170,8 @@
       "sourceId": "programme-5323974d20f0de6a501a",
       "sourceName": "KTH Royal Institute of Technology",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:16.745Z",
-      "seenAt": "2026-09-19T18:55:16.745Z",
+      "verifiedAt": "2026-09-19T18:18:20.049Z",
+      "seenAt": "2026-09-19T18:18:20.049Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4188,7 +4188,7 @@
       "contract": null,
       "programmeType": "Máster con componente de investigación",
       "evidence": {
-        "contentHash": "1eb96a186104109212b30282071877d8ebf394d3afe52ec5363f51e2a4dbfc43",
+        "contentHash": "7b0ca4c961b949cc0ee0da04935ba1942e98997b847d9a0d20d85f8addfc1971",
         "checkedUrl": "https://www.kth.se/studies/master/machine-learning/",
         "method": "official-programme-page",
         "researchUrl": "https://www.kth.se/en/2.985/machine-learning/courses-machine-learning-1.412669"
@@ -4208,8 +4208,8 @@
       "sourceId": "programme-a3f448090c283a748286",
       "sourceName": "Université Paris-Saclay",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:19.106Z",
-      "seenAt": "2026-09-19T18:55:19.106Z",
+      "verifiedAt": "2026-09-19T18:18:21.767Z",
+      "seenAt": "2026-09-19T18:18:21.767Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4227,7 +4227,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "619db1b50e6648ff0098d2ebba34a8c09718d879ba5d8e104dd84c3936eae70c",
+        "contentHash": "e077cdf73d0de0989789e65e0691a2988ffaf5d57969999f6a96a14e8bf6f6ec",
         "checkedUrl": "https://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m2-data-knowledge-and-hybrid-artificial-intelligence-dkai",
         "method": "official-programme-page",
         "researchUrl": "https://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m2-data-knowledge-and-hybrid-artificial-intelligence-dkai"
@@ -4247,8 +4247,8 @@
       "sourceId": "programme-68bdc8268abe09cf0196",
       "sourceName": "Université Paris-Saclay",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:20.216Z",
-      "seenAt": "2026-09-19T18:55:20.216Z",
+      "verifiedAt": "2026-09-19T18:18:23.038Z",
+      "seenAt": "2026-09-19T18:18:23.038Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4268,7 +4268,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "691a26b5ff45435a7994ff72420ab6681987b7eb88f4c93b06c7d705ef74ec6e",
+        "contentHash": "74ff5f458fce2764f8db00207f20846c6a45fd697998cfbb4776a2087c1633e6",
         "checkedUrl": "https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-et-apprentissage-statistique",
         "method": "official-programme-page",
         "researchUrl": "https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-et-apprentissage-statistique"
@@ -4288,8 +4288,8 @@
       "sourceId": "programme-cde279e3b4b0fe254908",
       "sourceName": "Université Paris-Saclay",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:20.235Z",
-      "seenAt": "2026-09-19T18:55:20.235Z",
+      "verifiedAt": "2026-09-19T18:18:22.761Z",
+      "seenAt": "2026-09-19T18:18:22.761Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4329,8 +4329,8 @@
       "sourceId": "programme-fb23baa1c11d09487c6c",
       "sourceName": "University of Amsterdam",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:20.694Z",
-      "seenAt": "2026-09-19T18:55:20.694Z",
+      "verifiedAt": "2026-09-19T18:18:23.176Z",
+      "seenAt": "2026-09-19T18:18:23.176Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4371,8 +4371,8 @@
       "sourceId": "programme-705144db32d839ecfee6",
       "sourceName": "University of Edinburgh",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:21.304Z",
-      "seenAt": "2026-09-19T18:55:21.304Z",
+      "verifiedAt": "2026-09-19T18:18:24.534Z",
+      "seenAt": "2026-09-19T18:18:24.534Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4409,8 +4409,8 @@
       "sourceId": "programme-59e604da0808be19cfdb",
       "sourceName": "University of Amsterdam",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:22.054Z",
-      "seenAt": "2026-09-19T18:55:22.054Z",
+      "verifiedAt": "2026-09-19T18:18:24.657Z",
+      "seenAt": "2026-09-19T18:18:24.657Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4455,8 +4455,8 @@
       "sourceId": "programme-0e630a37ec6790b99dd8",
       "sourceName": "ETH Zurich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:22.063Z",
-      "seenAt": "2026-09-19T18:55:22.063Z",
+      "verifiedAt": "2026-09-19T18:18:24.665Z",
+      "seenAt": "2026-09-19T18:18:24.665Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4487,8 +4487,8 @@
       "sourceId": "programme-c578de6555292597c0de",
       "sourceName": "University of Helsinki",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:18.443Z",
-      "seenAt": "2026-09-19T18:55:18.443Z",
+      "verifiedAt": "2026-09-19T18:18:21.593Z",
+      "seenAt": "2026-09-19T18:18:21.593Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4528,8 +4528,8 @@
       "sourceId": "programme-9d492cb7a21bd0d457e7",
       "sourceName": "ETH Zurich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:22.555Z",
-      "seenAt": "2026-09-19T18:55:22.555Z",
+      "verifiedAt": "2026-09-19T18:18:25.698Z",
+      "seenAt": "2026-09-19T18:18:25.698Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4570,8 +4570,8 @@
       "sourceId": "programme-8eb85fbf548b2e2285f4",
       "sourceName": "EPFL",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:23.034Z",
-      "seenAt": "2026-09-19T18:55:23.034Z",
+      "verifiedAt": "2026-09-19T18:18:26.594Z",
+      "seenAt": "2026-09-19T18:18:26.594Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4601,8 +4601,8 @@
       "sourceId": "programme-789ea9875df6575abf24",
       "sourceName": "EPFL",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:22.224Z",
-      "seenAt": "2026-09-19T18:55:22.224Z",
+      "verifiedAt": "2026-09-19T18:18:25.698Z",
+      "seenAt": "2026-09-19T18:18:25.698Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4619,7 +4619,7 @@
       "contract": null,
       "programmeType": "Programa doctoral",
       "evidence": {
-        "contentHash": "77c81e9903a8575614e365e9ee8d54ee245eba50e054b6bd38710e0e2efa9d2a",
+        "contentHash": "0757340a65cb53a160b3f5a6d8d6a57073bab5e5ba86acec8c93da6a126e57ee",
         "checkedUrl": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/",
         "method": "official-programme-page",
         "researchUrl": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/"
@@ -4644,8 +4644,8 @@
       "sourceId": "programme-9113b829af873f897693",
       "sourceName": "Institute of Science and Technology Austria",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:22.824Z",
-      "seenAt": "2026-09-19T18:55:22.824Z",
+      "verifiedAt": "2026-09-19T18:18:25.996Z",
+      "seenAt": "2026-09-19T18:18:25.996Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4681,8 +4681,8 @@
       "sourceId": "programme-ef36d54d298d5f5f3fb0",
       "sourceName": "ETH Zurich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:23.906Z",
-      "seenAt": "2026-09-19T18:55:23.906Z",
+      "verifiedAt": "2026-09-19T18:18:27.803Z",
+      "seenAt": "2026-09-19T18:18:27.803Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4702,7 +4702,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "b3ccd3f5d9359f71897e675b3aadcf86afca52334a21a12cc21649a6fbc77853",
+        "contentHash": "c9e43ddc148e897daef588a01194619013e44dd3c1d0b4faafc05d6089908bce",
         "checkedUrl": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
         "method": "official-programme-page",
         "researchUrl": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
@@ -4727,8 +4727,8 @@
       "sourceId": "programme-43e4c5f563c17477f5c9",
       "sourceName": "Confederación Suiza",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:24.352Z",
-      "seenAt": "2026-09-19T18:55:24.352Z",
+      "verifiedAt": "2026-09-19T18:18:28.512Z",
+      "seenAt": "2026-09-19T18:18:28.512Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4747,7 +4747,7 @@
       "contract": null,
       "programmeType": "Programa de financiación",
       "evidence": {
-        "contentHash": "2830971e5d85f69e9c393c54deb49f51be695f7d69b9a89a2f9ee62ceba9432e",
+        "contentHash": "ab6062e1ee10e5dd17e9bd9e5546bca69289d26637a4fdcb0bfcfe96677189cf",
         "checkedUrl": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships",
         "method": "official-programme-page",
         "researchUrl": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships"
@@ -4771,8 +4771,8 @@
       "sourceId": "programme-95a9965f77b303c0cb8c",
       "sourceName": "Alexander von Humboldt Foundation",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:24.959Z",
-      "seenAt": "2026-09-19T18:55:24.959Z",
+      "verifiedAt": "2026-09-19T18:18:28.930Z",
+      "seenAt": "2026-09-19T18:18:28.930Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4815,8 +4815,8 @@
       "sourceId": "programme-59851f95df5e05838d26",
       "sourceName": "EPFL",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:27.313Z",
-      "seenAt": "2026-09-19T18:55:27.313Z",
+      "verifiedAt": "2026-09-19T18:18:29.747Z",
+      "seenAt": "2026-09-19T18:18:29.747Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4836,7 +4836,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "e184a2c8e55502c2570ab9bc5a99bf62849b1ccd2ec1d2d02afc5fb707b50ec7",
+        "contentHash": "9124837aba9018b18b021c5223ca0607fccf3830aa714f238448c0fc5d560a45",
         "checkedUrl": "https://www.epfl.ch/education/master/master-excellence-fellowships/",
         "method": "official-programme-page",
         "researchUrl": "https://www.epfl.ch/education/master/master-excellence-fellowships/"
@@ -4860,8 +4860,8 @@
       "sourceId": "programme-bbab9cfea5188930b831",
       "sourceName": "DAAD",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:26.251Z",
-      "seenAt": "2026-09-19T18:55:26.251Z",
+      "verifiedAt": "2026-09-19T18:18:29.935Z",
+      "seenAt": "2026-09-19T18:18:29.935Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4880,7 +4880,7 @@
       "contract": null,
       "programmeType": "Programa de financiación",
       "evidence": {
-        "contentHash": "92e82d1501eba78b0f3cc5226a2cb50f0512a587b120d5c3ff6c669398debabf",
+        "contentHash": "5b88c78f5bb31afdaa2c18a556ed2cc74f61c0c03238aa3708c564b85b9030e4",
         "checkedUrl": "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/gssp/",
         "method": "official-programme-page",
         "researchUrl": "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/gssp/"
@@ -4904,8 +4904,8 @@
       "sourceId": "programme-c20470c844d684074698",
       "sourceName": "Comisión Europea",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:27.327Z",
-      "seenAt": "2026-09-19T18:55:27.327Z",
+      "verifiedAt": "2026-09-19T18:18:31.423Z",
+      "seenAt": "2026-09-19T18:18:31.423Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4951,8 +4951,8 @@
       "sourceId": "programme-dd88f0fc0413c418bdc8",
       "sourceName": "DAAD",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:27.466Z",
-      "seenAt": "2026-09-19T18:55:27.466Z",
+      "verifiedAt": "2026-09-19T18:18:32.785Z",
+      "seenAt": "2026-09-19T18:18:32.785Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -4972,7 +4972,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "e8087ac297ba3e517ee9a29fe336d8727f5ec5b515d5e4c2c2ef7e82afc67a13",
+        "contentHash": "b234a093955af95273d0511ac1af2034d1439fd02f01d2ff2ab72bfba0dd3356",
         "checkedUrl": "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/",
         "method": "official-programme-page",
         "researchUrl": "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
@@ -14051,8 +14051,8 @@
       "sourceId": "programme-24657e4e43dfdeca7576",
       "sourceName": "ETH Zurich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:15.881Z",
-      "seenAt": "2026-09-19T18:55:15.881Z",
+      "verifiedAt": "2026-09-19T18:18:19.134Z",
+      "seenAt": "2026-09-19T18:18:19.134Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14072,7 +14072,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "8b6d3231a3e4bb2229f8bf64c9bf6378c663d6957ef91faa608f341a1b43ec8e",
+        "contentHash": "a43953062050013ad2e9027fa48518d85a7fbaa0fc9c39e04ab442ffa721759a",
         "checkedUrl": "https://inf.ethz.ch/studies/master/master-cs-2020.html",
         "method": "official-programme-page",
         "researchUrl": "https://inf.ethz.ch/studies/semester-and-master-theses.html"
@@ -14092,8 +14092,8 @@
       "sourceId": "programme-9bef1b13cef2fa05d21f",
       "sourceName": "EPFL",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:15.632Z",
-      "seenAt": "2026-09-19T18:55:15.632Z",
+      "verifiedAt": "2026-09-19T18:18:19.132Z",
+      "seenAt": "2026-09-19T18:18:19.132Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14111,7 +14111,7 @@
       "programmeType": "Máster con componente de investigación",
       "researchNote": "La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.",
       "evidence": {
-        "contentHash": "41c1c66f1308a9bc24b75bf0c911a3803ed1236d48559f0fc1820c2cc7ac508d",
+        "contentHash": "496e4f4f30a4f62c99486fe4c0b1d12b37cbb8b7b1a7e2f048a96bd9cf194882",
         "checkedUrl": "https://www.epfl.ch/education/master/programs/data-science/",
         "method": "official-programme-page",
         "researchUrl": "https://edu.epfl.ch/studyplan/en/master/data-science/"
@@ -14131,16 +14131,13 @@
       "sourceId": "programme-ceb47cd0448e3c15f884",
       "sourceName": "Technical University of Munich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:17.730Z",
-      "seenAt": "2026-09-19T18:55:17.730Z",
+      "verifiedAt": "2026-09-19T18:18:20.239Z",
+      "seenAt": "2026-09-19T18:18:20.239Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
         "Machine learning",
-        "Ciencia de datos",
-        "Estadística",
-        "Informática",
-        "Matemáticas aplicadas"
+        "Ciencia de datos"
       ],
       "funding": {
         "kind": "unconfirmed",
@@ -14172,8 +14169,8 @@
       "sourceId": "programme-dc6ce1e37c0d0c75ca12",
       "sourceName": "ETH Zurich",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:14.718Z",
-      "seenAt": "2026-09-19T18:55:14.718Z",
+      "verifiedAt": "2026-09-19T18:38:38.742Z",
+      "seenAt": "2026-09-19T18:38:38.742Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14214,8 +14211,8 @@
       "sourceId": "programme-8d41136e410811a29310",
       "sourceName": "Comisión Europea",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:27.478Z",
-      "seenAt": "2026-09-19T18:55:27.478Z",
+      "verifiedAt": "2026-09-19T18:38:40.002Z",
+      "seenAt": "2026-09-19T18:38:40.002Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14258,8 +14255,8 @@
       "sourceId": "programme-cdb0e5a921d2002054da",
       "sourceName": "Comisión Europea",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:28.240Z",
-      "seenAt": "2026-09-19T18:55:28.240Z",
+      "verifiedAt": "2026-09-19T18:38:40.504Z",
+      "seenAt": "2026-09-19T18:38:40.504Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14299,8 +14296,8 @@
       "sourceId": "programme-fb77a6a54e3cbd4a6a5a",
       "sourceName": "ISTA",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:28.727Z",
-      "seenAt": "2026-09-19T18:55:28.727Z",
+      "verifiedAt": "2026-09-19T18:38:41.272Z",
+      "seenAt": "2026-09-19T18:38:41.272Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14338,8 +14335,8 @@
       "sourceId": "programme-2fb07f72a02b2b930c7d",
       "sourceName": "Max Planck Institutes for Informatics, Software Systems and Security and Privacy",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:28.413Z",
-      "seenAt": "2026-09-19T18:55:28.413Z",
+      "verifiedAt": "2026-09-19T18:38:40.511Z",
+      "seenAt": "2026-09-19T18:38:40.511Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14354,7 +14351,7 @@
       "contract": null,
       "programmeType": "Programa doctoral",
       "evidence": {
-        "contentHash": "f59517e5c8d5a18f264e4f30628fde14f4f2e04aaa60a70fbad4cec9608ef7dd",
+        "contentHash": "5f88ac25fd93388dcf8af1b757a51146bca18c6f30e0ea38f798bd3c64bf2812",
         "checkedUrl": "https://www.cis.mpg.de/internships/",
         "method": "official-programme-page",
         "researchUrl": "https://www.cis.mpg.de/internships/"
@@ -14375,8 +14372,8 @@
       "sourceId": "programme-2dedbf642de5ddc98965",
       "sourceName": "ELLIS",
       "status": "programme",
-      "verifiedAt": "2026-09-19T18:55:29.128Z",
-      "seenAt": "2026-09-19T18:55:29.128Z",
+      "verifiedAt": "2026-09-19T18:38:41.330Z",
+      "seenAt": "2026-09-19T18:38:41.330Z",
       "deadline": null,
       "deadlinePrecision": null,
       "fields": [
@@ -14391,7 +14388,7 @@
       "contract": null,
       "programmeType": "Programa doctoral",
       "evidence": {
-        "contentHash": "011e30339dcf87361683eb3a6236b198c521257b0582d81d9cc2fa5746b79062",
+        "contentHash": "d32db78830219e5c8946e7a59aa1389b685021071420573e5af3f5843a5b51f1",
         "checkedUrl": "https://ellis.eu/research/phd-postdoc",
         "method": "official-programme-page",
         "researchUrl": "https://ellis.eu/research/phd-postdoc"
@@ -14777,7 +14774,7 @@
       "applyUrl": "https://www.uc3m.es/master/statistics-data-science",
       "sourceId": "programme-172c4b8a1c759689e5e1",
       "sourceName": "Universidad Carlos III de Madrid",
-      "status": "programme",
+      "status": "unverified",
       "verifiedAt": "2026-09-19T18:55:20.264Z",
       "seenAt": "2026-09-19T18:55:20.264Z",
       "deadline": null,
@@ -14802,6 +14799,3546 @@
         "checkedUrl": "https://www.uc3m.es/master/statistics-data-science",
         "method": "official-programme-page",
         "researchUrl": "https://www.uc3m.es/master/statistics-data-science"
+      },
+      "lastError": "fetch failed"
+    },
+    {
+      "id": "b26b61b12ade7880e967",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoc in modelling and digital twin development",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/968257?l=en",
+      "applyUrl": "https://kth.varbi.com/en/what:login/jobID:968257/type:job/where:4/apply:1",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:18:54.300Z",
+      "seenAt": "2026-09-19T19:18:54.300Z",
+      "status": "open",
+      "deadline": "2026-09-19",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100 %",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "31b99d926ddb432836212c0e8c50af3783020b304f9df12e505b9182e6047871",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/968257?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "6ff16bb9258a0df1441e",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Assistant, Associate or Full Professor, Ship Hydrodynamics",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/assistant-associate-or-full-professor-ship-hydrodynamics",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Assistant--Associate-or-Full-Professor--Ship-Hydrodynamics_R46955/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:18:53.982Z",
+      "seenAt": "2026-09-19T19:18:53.982Z",
+      "status": "open",
+      "deadline": "2026-09-20",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones por confirmar en la convocatoria"
+      },
+      "evidence": {
+        "contentHash": "ccff2002eccb31b982cd5cb547ac121488131f2b7d9bf7e5969cea9d8a3f3acc",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/assistant-associate-or-full-professor-ship-hydrodynamics",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "9f0cd1a3e8c3a7912620",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "University Lecturer in Digital Humanities",
+      "institution": "University of Helsinki",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://jobs.helsinki.fi/job/Helsinki-University-Lecturer-in-Digital-Humanities/1370930757/",
+      "applyUrl": "https://jobs.helsinki.fi/talentcommunity/apply/1370930757/?locale=en_GB",
+      "sourceId": "helsinki",
+      "sourceName": "University of Helsinki · Vacantes",
+      "verifiedAt": "2026-09-19T19:18:55.878Z",
+      "seenAt": "2026-09-19T19:18:55.878Z",
+      "status": "open",
+      "deadline": "2026-10-03",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Fecha del anuncio; confirma la hora de Helsinki en la convocatoria.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según el sistema de las universidades finlandesas; consultar importe y complementos.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "956e307596deae9caa2057d6c41afa94ba8aa3d395abe11729437c042877ddd0",
+        "checkedUrl": "https://jobs.helsinki.fi/job/Helsinki-University-Lecturer-in-Digital-Humanities/1370930757/",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "14498f3585d30807080f",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Assistant Professor in Physics specialising in Quantum Information Theory",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=945617",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:945617",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:18:57.343Z",
+      "seenAt": "2026-09-19T19:18:57.343Z",
+      "status": "open",
+      "deadline": "2026-10-05",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "Individually negotiated salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "4de05a0a911354d61514b11ec6084dc337204a9967c182d26bdf8253b34db74e",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=945617",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "2e4b953692ed358e41a7",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD student in core optimisation using machine learning",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=947191",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:947191",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:05:26.580Z",
+      "seenAt": "2026-09-19T19:05:26.580Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning",
+        "Matemáticas aplicadas",
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Fixed salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "bd9e19e9ba8c124e16caed4fa016ae37ff48f8b84aeec7032db1cc4b86329652",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=947191",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "05c6634f8be6f462c9fa",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "4 Doctoral Researchers in robotics",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/4-doctoral-researchers-in-robotics",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/XMLNAME-4-Doctoral-Researchers-in-robotics_R47985-5/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:18:57.984Z",
+      "seenAt": "2026-09-19T19:18:57.984Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Machine learning",
+        "Estadística"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": null,
+      "hours": null,
+      "duration": "four years",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según la convocatoria; cuantía individual por confirmar.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "eaedeba0ee85985f07dd65c6d2f308aafc9bbccf8670f8b2d130f9cbd62e32dc",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/4-doctoral-researchers-in-robotics",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "f546187ab079c6b26964",
+      "kind": "position",
+      "stage": "grado",
+      "title": "Master’s Thesis Position in Sustainability-Based Structural Optimisation",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/masters-thesis-position-in-sustainability-based-structural-optimisation",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Master-s-Thesis-Position-in-Sustainability-Based-Structural-Optimisation_R47542/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:18:58.807Z",
+      "seenAt": "2026-09-19T19:18:58.807Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Estudiante de máster",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones por confirmar en la convocatoria"
+      },
+      "evidence": {
+        "contentHash": "75f86d0f0768afc03a3a87c23ffbc02ebed7c46481e9a905051986d460d27687",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/masters-thesis-position-in-sustainability-based-structural-optimisation",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "e230e5122d7bae352bd6",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in acoustic source characterisation",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/962556?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/962556/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:18:59.692Z",
+      "seenAt": "2026-09-19T19:18:59.692Z",
+      "status": "open",
+      "deadline": "2026-09-24",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "91ac0ee95103a4aac169db3015d7bb4ff21fee0f1bce9bb094d215f87ac2d943",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/962556?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "340deb8cda885dac0859",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral Researcher in Simulation of Variable Speed Electric Machines with Advanced Magnetic Material",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-simulation-of-variable-speed-electric-machines-with-advanced-magnetic",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Doctoral-Researcher-in-Simulation-of-Variable-Speed-Electric-Machines-with-Advanced-Magnetic-Material_R47493-3/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:00.939Z",
+      "seenAt": "2026-09-19T19:19:00.939Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster",
+      "contract": null,
+      "hours": null,
+      "duration": "four years",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según la convocatoria; cuantía individual por confirmar.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "e5d88da98804a44da14216d5e6c333192b823c1ee09ccb000eb60b485ccac934",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-simulation-of-variable-speed-electric-machines-with-advanced-magnetic",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "98ab3161f84b517f3162",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in quantum information theory",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/962675?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/962675/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:01.280Z",
+      "seenAt": "2026-09-19T19:19:01.280Z",
+      "status": "open",
+      "deadline": "2026-09-24",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "c928001c2f0b4e165e3f22bb24a9f5367a3f284b377fb724ffa32b6ea148f010",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/962675?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "c469d8d40c27abc89972",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in Feminist AI Addressing Gender-Based Violence",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/963228?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/963228/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:02.102Z",
+      "seenAt": "2026-09-19T19:19:02.102Z",
+      "status": "open",
+      "deadline": "2026-09-24",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning",
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "1cae173f82371926995726c94305ff3b688750f980ed6810da9f566129594b57",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/963228?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "3d84da0bac4363d8b0e6",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "HIIT: Postdoctoral Fellow positions in Computer Science",
+      "institution": "HIIT · Aalto University / University of Helsinki",
+      "country": "FI",
+      "city": "Helsinki / Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/hiit-postdoctoral-fellow-positions-in-computer-science-0",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/HIIT--Postdoctoral-Fellow-positions-in-Computer-Science_R47830/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:04:05.288Z",
+      "seenAt": "2026-09-19T19:04:05.288Z",
+      "status": "open",
+      "deadline": "2026-10-04",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Doctorado",
+      "contract": null,
+      "hours": null,
+      "duration": "Hasta 3 años; duración y fecha de inicio se negocian individualmente.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según la universidad anfitriona; incluye viajes y publicaciones.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "aa05da381b6b444d822321c291ec9a060280a569683d10ce6c32808a1f229038",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/hiit-postdoctoral-fellow-positions-in-computer-science-0",
+        "method": "official-vacancy-html"
+      },
+      "eligibilityNote": "La universidad que contrata depende del supervisor. Se admite un doctorado que vaya a completarse antes de incorporarse.",
+      "lastError": null
+    },
+    {
+      "id": "e22f0690fc97fcb7a918",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in information and coding theory for federated learning",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/963264?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/963264/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:05:26.579Z",
+      "seenAt": "2026-09-19T19:05:26.579Z",
+      "status": "open",
+      "deadline": "2026-09-24",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "1895f9a6e9a525090fd9b21ef47011d28b2ee2a2706357f7a9b860fdf26c4997",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/963264?l=en",
+        "method": "official-vacancy-html"
+      },
+      "eligibilityNote": "Movilidad obligatoria: al menos un año en DTU (Dinamarca), distribuible en varias estancias.",
+      "lastError": null
+    },
+    {
+      "id": "57be9968dad30a0bd7f2",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral Student in Urban Heat Prediction Using AI and Earth Observation",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/964277?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/964277/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:02.926Z",
+      "seenAt": "2026-09-19T19:19:02.926Z",
+      "status": "open",
+      "deadline": "2026-09-24",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "27d59d39742ef173aaa5a197302a04fca2aa87b2b415fbdb526c5baac82d7edf",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/964277?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "58846944ec1fdcdb0e32",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral Researcher (PhD student) in Butterfly Ecology and Climate Change across Europe",
+      "institution": "University of Helsinki",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://jobs.helsinki.fi/job/Helsinki-Doctoral-Researcher-%28PhD-student%29-in-Butterfly-Ecology-and-Climate-Change-across-Europe/1369608257/",
+      "applyUrl": "https://jobs.helsinki.fi/talentcommunity/apply/1369608257/?locale=en_GB",
+      "sourceId": "helsinki",
+      "sourceName": "University of Helsinki · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:03.913Z",
+      "seenAt": "2026-09-19T19:19:03.913Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Fecha del anuncio; confirma la hora de Helsinki en la convocatoria.",
+      "fields": [
+        "Estadística"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según el sistema de las universidades finlandesas; consultar importe y complementos.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "e481f8cf363b93b4b34f240c655637a1d442827df4de6729ed49aa0469db3097",
+        "checkedUrl": "https://jobs.helsinki.fi/job/Helsinki-Doctoral-Researcher-%28PhD-student%29-in-Butterfly-Ecology-and-Climate-Change-across-Europe/1369608257/",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "b2174fc403a2e63c332b",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral researcher",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/doctoral-researcher",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Doctoral-researcher_R47962/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:03.596Z",
+      "seenAt": "2026-09-19T19:19:03.596Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Machine learning",
+        "Informática"
+      ],
+      "entry": "Máster",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones por confirmar en la convocatoria"
+      },
+      "evidence": {
+        "contentHash": "f7bf0f28a0aadb034414f7aeb1ca300dcd6630e4fb79c304bf2ca1012a9a2651",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/doctoral-researcher",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "dd5e9add0bb7188145be",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in Techno-economic Optimization of Thermal Energy Storage",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/960474?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/960474/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:05.311Z",
+      "seenAt": "2026-09-19T19:19:05.311Z",
+      "status": "open",
+      "deadline": "2026-09-25",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "8d110a18cef939874d21315752ec3419d5e0b6000e9aa27c52f9c8c9a5be3caa",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/960474?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "c73e67b5d184c71bd5ee",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoc in complex fluid flows",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/949470?l=en",
+      "applyUrl": "https://kth.varbi.com/en/what:login/jobID:949470/type:job/where:4/apply:1",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:06.114Z",
+      "seenAt": "2026-09-19T19:19:06.114Z",
+      "status": "open",
+      "deadline": "2026-09-25",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100 %",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "195dc38fb1998194289a372da4eb07a136f3095fdcc67889330a693e26cc4bd5",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/949470?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "42c569ef3045888fcca0",
+      "kind": "position",
+      "stage": "grado",
+      "title": "Research Engineer",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/research-engineer-0",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Research-Engineer_R48005/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:05.193Z",
+      "seenAt": "2026-09-19T19:19:05.193Z",
+      "status": "open",
+      "deadline": "2026-10-16",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según la convocatoria; cuantía individual por confirmar.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "3fda0065e109e7e4070027a1ee1e0f2a24627a889b858b7532506ea8d31b1569",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/research-engineer-0",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "16a0e3d7ab5300daa7d7",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral Researcher in Backscatter-Assisted Wireless Positioning",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-backscatter-assisted-wireless-positioning",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Doctoral-Researcher-in-Backscatter-Assisted-Wireless-Positioning_R48027/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:06.009Z",
+      "seenAt": "2026-09-19T19:19:06.009Z",
+      "status": "open",
+      "deadline": "2026-10-18",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": null,
+      "hours": null,
+      "duration": "four years",
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según la convocatoria; cuantía individual por confirmar.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "6958728dd7ad7da0c0ccd7705a13d9b9ece8b977e0bf3ede5881cd501462cc9d",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-backscatter-assisted-wireless-positioning",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "9eb5af94c5bd2a078f2a",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Research Fellows in Proteomics: Neurodevelopment, Cancer and Drug Toxicity, 3 positions",
+      "institution": "University of Helsinki",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Research-Fellows-in-Proteomics-Neurodevelopment%2C-Cancer-and-Drug-Toxicity%2C-3-positions/1370111857/",
+      "applyUrl": "https://jobs.helsinki.fi/talentcommunity/apply/1370111857/?locale=en_GB",
+      "sourceId": "helsinki",
+      "sourceName": "University of Helsinki · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:06.303Z",
+      "seenAt": "2026-09-19T19:19:06.303Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Fecha del anuncio; confirma la hora de Helsinki en la convocatoria.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según el sistema de las universidades finlandesas; consultar importe y complementos.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "a74def79317a66c80060737d8f943ffc9ad676c71f279c84de1527b7c4aa29cf",
+        "checkedUrl": "https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Research-Fellows-in-Proteomics-Neurodevelopment%2C-Cancer-and-Drug-Toxicity%2C-3-positions/1370111857/",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "bb687ba32b6a1326550c",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD students in Computer Vision to estimate breathing and pulse from video",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/960673?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/960673/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:07.726Z",
+      "seenAt": "2026-09-19T19:19:07.726Z",
+      "status": "open",
+      "deadline": "2026-09-27",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning",
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "5311eda52b936ea067516fd37b8e92bff4ee7a6952d51d156020c5436fddb32c",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/960673?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "4c2940be21a5d19a8684",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD student in nuclear fuel performance modelling using machine learning",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959437",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:959437",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:06.106Z",
+      "seenAt": "2026-09-19T19:19:06.106Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning",
+        "Estadística"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Fixed salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "f79ebf339d3faf806c4a689f938cee5fcdf8aaaa0587d5d0f71ba011f66a894c",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959437",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "9ff61b7742651ecaf403",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral Researcher in Probabilistic Machine Learning",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-probabilistic-machine-learning",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Doctoral-Researcher-in-Probabilistic-Machine-Learning_R47634/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:08.121Z",
+      "seenAt": "2026-09-19T19:19:08.121Z",
+      "status": "open",
+      "deadline": "2026-10-21",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones por confirmar en la convocatoria"
+      },
+      "evidence": {
+        "contentHash": "f1fd8a0b2eb4a6752eca635ce19424cd40c351910e10fe422a2a8084f2dcfcc4",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-probabilistic-machine-learning",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "ff9e6cf59120b343f221",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD student in Algorithmic foundations of AI-assisted consensus and ranking",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/968044?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/968044/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:08.523Z",
+      "seenAt": "2026-09-19T19:19:08.523Z",
+      "status": "open",
+      "deadline": "2026-09-29",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "6a6df3487451bb1ad4253dcca8b74cf13e4a05b4166e3f7b27cea451659cd5a6",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/968044?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "487b3393d09573a12023",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960428",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:960428",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:06.912Z",
+      "seenAt": "2026-09-19T19:19:06.912Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "fixed salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "c826e54f4a8fef1afcbc37e4420ad79a38c461bdae9d32184bd2fa49cb9bc7c0",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960428",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "3ad2d7859851d347c38d",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Professor or tenure track Assistant / Associate professor in Animal science",
+      "institution": "University of Helsinki",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://jobs.helsinki.fi/job/Helsinki-Professor-or-tenure-track-Assistant-Associate-professor-in-Animal-science/1371798957/",
+      "applyUrl": "https://jobs.helsinki.fi/talentcommunity/apply/1371798957/?locale=en_GB",
+      "sourceId": "helsinki",
+      "sourceName": "University of Helsinki · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:07.915Z",
+      "seenAt": "2026-09-19T19:19:07.915Z",
+      "status": "open",
+      "deadline": "2026-10-19",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Fecha del anuncio; confirma la hora de Helsinki en la convocatoria.",
+      "fields": [
+        "Ciencia de datos"
+      ],
+      "entry": "Doctorado",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salario según el sistema de las universidades finlandesas; consultar importe y complementos.",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "eba5b83f4c965b813abb554fabccc7c09ded81e9a5276d2613341e6c688e4265",
+        "checkedUrl": "https://jobs.helsinki.fi/job/Helsinki-Professor-or-tenure-track-Assistant-Associate-professor-in-Animal-science/1371798957/",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "b0fc6205479e4cfa9a6f",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral Researcher in Speech and Language Technology",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-speech-and-language-technology",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Doctoral-Researcher-in-Speech-and-Language-Technology_R48125-1/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:10.009Z",
+      "seenAt": "2026-09-19T19:19:10.009Z",
+      "status": "open",
+      "deadline": "2026-10-31",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "entry": "Máster",
+      "contract": null,
+      "hours": null,
+      "duration": "four years",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones por confirmar en la convocatoria"
+      },
+      "evidence": {
+        "contentHash": "b642930ef5e4aabe289e4e54b7265c0d8e8f29308c5aa9a3f6d32257b23c1a1b",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/doctoral-researcher-in-speech-and-language-technology",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "65061058b68c4490a8b4",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Researcher in Speech and Language Technology",
+      "institution": "Aalto University",
+      "country": "FI",
+      "city": "Otaniemi Espoo",
+      "url": "https://www.aalto.fi/en/open-positions/postdoctoral-researcher-in-speech-and-language-technology",
+      "applyUrl": "https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Postdoctoral-Researcher-in-Speech-and-Language-Technology_R48126-2/apply",
+      "sourceId": "aalto",
+      "sourceName": "Aalto University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:11.100Z",
+      "seenAt": "2026-09-19T19:19:11.100Z",
+      "status": "open",
+      "deadline": "2026-10-31",
+      "deadlinePrecision": "day",
+      "deadlineNote": "Se conserva la fecha visible. Confirma la hora en el texto de la convocatoria; el marcado automático puede discrepar.",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "entry": "Doctorado",
+      "contract": null,
+      "hours": null,
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones por confirmar en la convocatoria"
+      },
+      "evidence": {
+        "contentHash": "094c5beeedf45149235898c7848e1deb6cc582fd586159ffc92dc9d467aa266f",
+        "checkedUrl": "https://www.aalto.fi/en/open-positions/postdoctoral-researcher-in-speech-and-language-technology",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "e91baf0d6d4cc59094df",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Researcher in Modelling for Materials Design",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/968158?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/968158/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:11.730Z",
+      "seenAt": "2026-09-19T19:19:11.730Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": "Special fixed-term employment",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "3384ae25c49a13e19ca3734d02d7dc3b2b32da00e85edd6499822a8431e16523",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/968158?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "7551c996cc2e9bc6878e",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in AI and Robotics for Production",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/949190?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/949190/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:13.336Z",
+      "seenAt": "2026-09-19T19:19:13.336Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning",
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "2261cf8a88c3fdfe769cdd4c869735b23cafa11928ca1604ff8f11dce90d0ea8",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/949190?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "8f03fc367255f26e59db",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD student focusing on Scalable Quantum Program Verification",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961891",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:961891",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:12.524Z",
+      "seenAt": "2026-09-19T19:19:12.524Z",
+      "status": "open",
+      "deadline": "2026-11-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Fixed salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "ed6c80292e6715600681aa9b61a8a705b74fa322a0bc7e96873d2bb66dba0a33",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961891",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "85bc753bed2d2fe68d98",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in mobile wireless sub-THz MIMO communication for 7G",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/962649?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/962649/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:14.951Z",
+      "seenAt": "2026-09-19T19:19:14.951Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "09acb81cedc131ced4ea1139d7b950c29776ca8bb05820a26dac7b930215db96",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/962649?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "969fdb973ddc58516e3b",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoc position in AI-Driven Modelling of High-Entropy Electrolytes",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962371",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:962371",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:15.738Z",
+      "seenAt": "2026-09-19T19:19:15.738Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "individuell",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "d36bb983c2e110463be83dc79e0eb8a85b55192c51e22310a97ca8236df2f708",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962371",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "95b45e847ef4e9efc255",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in Neuronics",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/962477?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/962477/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:18.161Z",
+      "seenAt": "2026-09-19T19:19:18.161Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "09bd5f96caa0ce707beff7350f4d4df6e776d2a819987c2fb8f6a5eae8249c85",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/962477?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "0b952c0a8ccbae61e644",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoc in AI, Learning, and Control for Sustainable Food Systems",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/964758?l=en",
+      "applyUrl": "https://kth.varbi.com/en/what:login/jobID:964758/type:job/where:4/apply:1",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:19.762Z",
+      "seenAt": "2026-09-19T19:19:19.762Z",
+      "status": "open",
+      "deadline": "2026-10-05",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "7f62cef4e5c4197c7e5e473c2482ae38db33e340723de72ec822202b04c92c5f",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/964758?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "1720e91aed7dc0bfb3af",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in Astrophysics",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/960180?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/960180/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:20.554Z",
+      "seenAt": "2026-09-19T19:19:20.554Z",
+      "status": "open",
+      "deadline": "2026-10-06",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Ciencia de datos"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "2f6ed6e3d5378b3b58125e8da1e43a4fe547fe12c591819b0fe80c3b040536b9",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/960180?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "594bb7bde495a7612e36",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in Theoretical Condensed Matter Physics",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/958746?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/958746/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:21.429Z",
+      "seenAt": "2026-09-19T19:19:21.429Z",
+      "status": "open",
+      "deadline": "2026-10-07",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "01926b4bab36348025daa05b070668764eb85b0f2c6e4eb82736b68db35ba3e1",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/958746?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "47f64f52b2340cd60da2",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral student in Remote Fault Attacks on Cryptographic Algorithms",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/963604?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/963604/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:22.953Z",
+      "seenAt": "2026-09-19T19:19:22.953Z",
+      "status": "open",
+      "deadline": "2026-10-10",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "7bb199af5156c07e5d0baa64ca6a28c8c3f2e7f95bc866bcff8b689cc81d5984",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/963604?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "c37a0b41605de488b85c",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoc in Computational Methods for Games and Multi-Agent Decision Making",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/970594?l=en",
+      "applyUrl": "https://kth.varbi.com/en/what:login/jobID:970594/type:job/where:4/apply:1",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:25.372Z",
+      "seenAt": "2026-09-19T19:19:25.372Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100 %",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "e5f8d3c4fa55e7b3721cd9c54a235f4e8cafafc19a334ffd9a3e4eef51c2b48d",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/970594?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "b17be8bbdbf68cf4d563",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Assistant Professor in Mathematics with Specialization in Applied Mathematics",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/936948?l=en",
+      "applyUrl": "https://kth.varbi.com/en/what:login/jobID:936948/type:job/where:4/apply:1",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:26.967Z",
+      "seenAt": "2026-09-19T19:19:26.967Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly pay",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "966bd0199cbcf5f05fb25d107208059e6e48446abab1ac7f36c19b46b02cbcb2",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/936948?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "c68f31cc468e2835088b",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral researcher in learning, control, and games",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/964263?l=en",
+      "applyUrl": "https://kth.varbi.com/en/what:login/jobID:964263/type:job/where:4/apply:1",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:27.766Z",
+      "seenAt": "2026-09-19T19:19:27.766Z",
+      "status": "open",
+      "deadline": "2026-10-16",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "41fbae8e25446ec2aff9e70ed0e601d43b0319bce8b0cd6ae4c31ab2aa00ff31",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/964263?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "64c94e947892104c8561",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoc position in AI-guided mechanistic understanding of coupled redox–dissolution pathways in multi-metal systems",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=965401",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:965401",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:24.284Z",
+      "seenAt": "2026-09-19T19:19:24.284Z",
+      "status": "open",
+      "deadline": "2026-09-23",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Individuell lönesättning",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "f11cd6472c9abfb4040bad6aa6cb191dfdf1c25b3eb840856731838e5072d62a",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=965401",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "449829ade93ca6a8d524",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Doctoral students in Networked Systems Security",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "city": "Stockholm",
+      "url": "https://www.kth.se/lediga-jobb/939588?l=en",
+      "applyUrl": "https://kth.varbi.com/en/apply/positionquick/939588/?where=4",
+      "sourceId": "kth",
+      "sourceName": "KTH · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:29.368Z",
+      "seenAt": "2026-09-19T19:19:29.368Z",
+      "status": "open",
+      "deadline": "2026-10-31",
+      "deadlinePrecision": "day",
+      "deadlineNote": "La convocatoria fija el cierre a medianoche, hora CET/CEST. Confirma la hora en la fuente.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": "Contrato inicial de hasta 1 año; renovable. Doctorado: hasta 4 años a tiempo completo.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Monthly salary according to KTH's doctoral student salary agreement",
+        "amount": null,
+        "currency": null,
+        "period": "month"
+      },
+      "evidence": {
+        "contentHash": "080c6ce769049f54eaa9e89092bf04a4c0a4787496e6209ec6c14cae4f770591",
+        "checkedUrl": "https://www.kth.se/lediga-jobb/939588?l=en",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "d5500d3d6f94eca52989",
+      "kind": "position",
+      "stage": "grado",
+      "title": "Research assistant for the project “Political Change and Local Governance in Emerging Cities”",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=966598",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:966598",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:30.681Z",
+      "seenAt": "2026-09-19T19:19:30.681Z",
+      "status": "open",
+      "deadline": "2026-09-21",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Estadística"
+      ],
+      "entry": "Máster en curso o terminado",
+      "contract": "Special fixed-term employment",
+      "hours": "Part-time · 50%",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "Individuell lönesättning",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "39e48ae27ff08c8c1d3e18a3e0d62611c3215202d6b368e0cc5aa1aed6dd03d0",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=966598",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "79e6f7447f901b9dabdc",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Assistant Professor in Engineering Sciences",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967945",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:967945",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:39.500Z",
+      "seenAt": "2026-09-19T19:19:39.500Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "Individually negotiated salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "535eb1247aa1f2edffae0654ac83273aaa825eba00296f38d5e01534d7a860cb",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967945",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "018bb54556455b0409d9",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral position in simulation-based inference for particle physics",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=969552",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:969552",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:19:56.354Z",
+      "seenAt": "2026-09-19T19:19:56.354Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Individual salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "222d80b5a70cb47dac5897911c2e1c5bd2e93ab452dbb4f7e35ffc74766e5a68",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=969552",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "1444e2c7dd93185e78d6",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoc position in probabilistic methods for foundation and world models",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "city": "Uppsala",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=970449",
+      "applyUrl": "https://uu.varbi.com/en/what:login/type:job/jobID:970449",
+      "sourceId": "uppsala",
+      "sourceName": "Uppsala University · Vacantes",
+      "verifiedAt": "2026-09-19T19:20:00.338Z",
+      "seenAt": "2026-09-19T19:20:00.338Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": null,
+      "fields": [
+        "Estadística",
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary position",
+      "hours": "Full time · 100%",
+      "duration": null,
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Individual salary",
+        "amount": null,
+        "currency": null,
+        "period": null
+      },
+      "evidence": {
+        "contentHash": "13130694fd305800cd6b396bb634b0f25fc21a8718552b7c928054bc7c2229c6",
+        "checkedUrl": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=970449",
+        "method": "official-vacancy-html"
+      },
+      "lastError": null
+    },
+    {
+      "id": "031c45cf5033ea6adad8",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in Computer Science",
+      "institution": "Western Norway University of Applied Sciences",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307713",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307713",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-11",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307713"
+      },
+      "lastError": null
+    },
+    {
+      "id": "be7bb1ce9fa1f3e8c6f9",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD in Computational Neuroscience",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307990",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307990",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-11",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307990"
+      },
+      "lastError": null
+    },
+    {
+      "id": "be5d6c24749e0512bfd2",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in High Performance Computing and Simulation",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308321",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308321",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-07",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308321"
+      },
+      "lastError": null
+    },
+    {
+      "id": "163e50c1e343fbf39510",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in AI-Assisted Software and Systems Engineering",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308416",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308416",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-08",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308416"
+      },
+      "lastError": null
+    },
+    {
+      "id": "e1b7bf28c058b0e321fc",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD research fellow in \"Distributed Optimization and Control of Reactive Power\"",
+      "institution": "University of South-Eastern Norway",
+      "country": "NO",
+      "city": "Porsgrunn",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308001",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308001",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-11",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308001"
+      },
+      "lastError": null
+    },
+    {
+      "id": "aaa37c2c98d0bbd27e8f",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Information Systems",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308320",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308320",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308320"
+      },
+      "lastError": null
+    },
+    {
+      "id": "ccd57d326b2d71c03eb0",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Empirical Software Engineering",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308322",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308322",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-08",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308322"
+      },
+      "lastError": null
+    },
+    {
+      "id": "40578779405ee808d0a4",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Digital Sovereignty",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308151",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308151",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-04",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308151"
+      },
+      "lastError": null
+    },
+    {
+      "id": "2f1d4af2fef705e78199",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Trustworthy Agentic Artificial Intelligence",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Ålesund",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308144",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308144",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-31",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308144"
+      },
+      "lastError": null
+    },
+    {
+      "id": "a6f5c78430572a7596b5",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in fairness in artificial intelligence",
+      "institution": "University of Oslo",
+      "country": "NO",
+      "city": "Oslo",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307994",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307994",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-09",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Engagement",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307994"
+      },
+      "lastError": null
+    },
+    {
+      "id": "c2c43d15c01b1eba93ae",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in Machine Learning and Statistics",
+      "institution": "University of Oslo",
+      "country": "NO",
+      "city": "Oslo",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308211",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308211",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-16",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning",
+        "Estadística"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "308211"
+      },
+      "lastError": null
+    },
+    {
+      "id": "809c0bdd60ef1df70546",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Ph.D.-scholarship in numerical optimisation of wind assisted propulsion systems",
+      "institution": "Western Norway University of Applied Sciences",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307512",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307512",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-07",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307512"
+      },
+      "lastError": null
+    },
+    {
+      "id": "881f245ef0d23fc3e34d",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Fellow in Unconventional Close-to-Physics Computation",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307873",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307873",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-23",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307873"
+      },
+      "lastError": null
+    },
+    {
+      "id": "780f19c322fa957f7da7",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Efficient Edge Intelligence Models",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307886",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307886",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-23",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307886"
+      },
+      "lastError": null
+    },
+    {
+      "id": "3b40b57dcd457b156f57",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Fellow in Machine Learning and Digital Health Services for Frail Older People",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307898",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307898",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-05",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307898"
+      },
+      "lastError": null
+    },
+    {
+      "id": "2403793cce369537257e",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Research Fellow position within Physics-Informed Machine Learning for Offshore Wind",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307924",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307924",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-12",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307924"
+      },
+      "lastError": null
+    },
+    {
+      "id": "53b403bb1de6b8928491",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "3-years PhD position in probabilistic machine learning and statistics",
+      "institution": "University of Oslo",
+      "country": "NO",
+      "city": "Oslo",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307053",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307053",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-04",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning",
+        "Estadística"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307053"
+      },
+      "lastError": null
+    },
+    {
+      "id": "7e763f887efa676bb449",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate for Developing Efficient Search Engines",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307690",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307690",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-02",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307690"
+      },
+      "lastError": null
+    },
+    {
+      "id": "eecb0151b400692e5268",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Explainable AI for Synthetic Media Analysis",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Gjøvik",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307712",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307712",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-21",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307712"
+      },
+      "lastError": null
+    },
+    {
+      "id": "cb774d0b4356676a71e9",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in large language models(LLMs) for data extraction and reasoning in materials science",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307723",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307723",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-20",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307723"
+      },
+      "lastError": null
+    },
+    {
+      "id": "f326d18e502376a533a2",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD position - Logic and Artificial Intelligence (LAI)",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307728",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307728",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307728"
+      },
+      "lastError": null
+    },
+    {
+      "id": "8ea35a1b79b89b0743b9",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "3 year postdoc in embryology with emphasis on molecular biology/bioinformatics and microscopy",
+      "institution": "University of Inland Norway",
+      "country": "NO",
+      "city": "Hamar",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307118",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307118",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-27",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307118"
+      },
+      "lastError": null
+    },
+    {
+      "id": "b688fc811f6ffaa2b537",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate to conduct research on Artificial Intelligence for managing Shipbuilding Supply Chains",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307594",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307594",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307594"
+      },
+      "lastError": null
+    },
+    {
+      "id": "e79b22b61d07c1b8cb7b",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Machine Learning & Signal Processing for Industrial Applications",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307240",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307240",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307240"
+      },
+      "lastError": null
+    },
+    {
+      "id": "0c1aad031b7b21d2de1d",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Deep Learning Enhanced FSI analysis of Modular Floating Structures",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307151",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307151",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-25",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "307151"
+      },
+      "lastError": null
+    },
+    {
+      "id": "25f0500f013495374600",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in Data-Driven Computational Mechanics for Offshore Wind Energy",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/306698",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/306698",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-28",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "306698"
+      },
+      "lastError": null
+    },
+    {
+      "id": "6687d24e4d6870a92fa0",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Professor/førsteamanuensis innen e-helse",
+      "institution": "Nord University",
+      "country": "NO",
+      "city": "Bodø",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/303020",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/303020",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-23",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Permanent",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "303020"
+      },
+      "lastError": null
+    },
+    {
+      "id": "ebebd032b18fa3249e07",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in climate data analysis and machine learning emulation of hydrological models",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/306394",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/306394",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "306394"
+      },
+      "lastError": null
+    },
+    {
+      "id": "6b39bddcbad3565caac7",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Research Fellow in Quantum Machine Learning for Multimode Mechanics",
+      "institution": "University of Oslo",
+      "country": "NO",
+      "city": "Oslo",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/305567",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/305567",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Engagement",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "305567"
+      },
+      "lastError": null
+    },
+    {
+      "id": "a4ca38df1fb1c0f4887d",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Associate Professor in Pharmacoepidemiology and Health Data Analytics",
+      "institution": "University of Oslo",
+      "country": "NO",
+      "city": "Oslo",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/305171",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/305171",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-20",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Ciencia de datos"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Permanent",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "305171"
+      },
+      "lastError": null
+    },
+    {
+      "id": "3d0fb8c9a56501b47fb5",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Research Fellow in Trustworthy GenAI-assisted Software Engineering",
+      "institution": "Western Norway University of Applied Sciences",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/304450",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/304450",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-20",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Consultar requisitos",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": null,
+      "languages": [],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+      },
+      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "evidence": {
+        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "method": "official-vacancy-feed",
+        "sourceRecordId": "304450"
+      },
+      "lastError": null
+    },
+    {
+      "title": "Aalto Doctoral Programme in Science — Computer Science and Mathematics",
+      "institution": "Aalto University",
+      "country": "FI",
+      "url": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0",
+      "kind": "programme",
+      "stage": "doctorado",
+      "entry": "Máster afín o equivalente",
+      "duration": "4 años a tiempo completo",
+      "languages": [
+        "Inglés, finés o sueco; acordar idioma de la tesis"
+      ],
+      "feeNote": "Los estudios doctorales y la inscripción no tienen tasas académicas.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Contrato o beca por separado. La admisión a tiempo completo exige financiación de al menos 6 meses."
+      },
+      "eligibilityNote": "Esta ficha comprende las áreas de informática y matemáticas. Se requiere acordar supervisión antes de solicitar admisión. La admisión no asigna automáticamente salario.",
+      "id": "24d1a55df163e1e54348",
+      "applyUrl": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0",
+      "sourceId": "programme-24d1a55df163e1e54348",
+      "sourceName": "Aalto University",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:26:35.089Z",
+      "seenAt": "2026-09-19T19:26:35.089Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "evidence": {
+        "contentHash": "385eae0dd0a52831cb56db760b407114e2d08556a5b7262733848386dfa616a4",
+        "checkedUrl": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0"
+      },
+      "lastError": null
+    },
+    {
+      "title": "Doctoral Programme in Science — Computer Science, Mathematics and Statistics",
+      "institution": "University of Helsinki",
+      "country": "FI",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-science",
+      "kind": "programme",
+      "stage": "doctorado",
+      "entry": "Consultar requisitos de admisión doctoral",
+      "eligibilityNote": "Se incluyen las áreas de informática, ciencia de datos, machine learning, matemáticas y estadística del programa SciDoc; las otras áreas del programa quedan fuera de esta ficha.",
+      "researchNote": "SciDoc reúne varias áreas. Identifica primero un grupo y un supervisor en tu disciplina; comprueba por separado admisión, contrato y financiación.",
+      "id": "7d928a4de9198a986f00",
+      "applyUrl": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-science",
+      "sourceId": "programme-7d928a4de9198a986f00",
+      "sourceName": "University of Helsinki",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:28:12.416Z",
+      "seenAt": "2026-09-19T19:28:12.416Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "evidence": {
+        "contentHash": "2c6a892e80787d01d32151b2f4e7e308fbd2d453d8d9daf1dcf2db50ec6c8237",
+        "checkedUrl": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-science",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-science"
+      },
+      "lastError": null
+    },
+    {
+      "title": "PhD in Information Technology",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "url": "https://www.uu.se/en/department/information-technology/doctoral-studies.html",
+      "kind": "programme",
+      "stage": "doctorado",
+      "entry": "Consultar requisitos de cada plaza",
+      "duration": "240 créditos: 4 años de investigación y cursos; hasta 1 año adicional de tareas departamentales.",
+      "funding": {
+        "kind": "salary",
+        "text": "Habitualmente contrato remunerado tras obtener una plaza; existen excepciones con beca o empleador externo."
+      },
+      "eligibilityNote": "Primero se solicita una vacante financiada; la admisión formal se tramita después con los supervisores.",
+      "id": "b90a620fd6fbbda7e3a9",
+      "applyUrl": "https://www.uu.se/en/department/information-technology/doctoral-studies.html",
+      "sourceId": "programme-b90a620fd6fbbda7e3a9",
+      "sourceName": "Uppsala University",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:26:36.086Z",
+      "seenAt": "2026-09-19T19:26:36.086Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "evidence": {
+        "contentHash": "da7b12b7bdd4a03d5ee321ac5e0d0f8a394fac891d85fa305dae38460655f66a",
+        "checkedUrl": "https://www.uu.se/en/department/information-technology/doctoral-studies.html",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uu.se/en/department/information-technology/doctoral-studies.html"
+      },
+      "lastError": null
+    },
+    {
+      "title": "PhD in Applied Mathematics and Statistics",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "url": "https://www.uu.se/en/department/mathematics/study/phd-studies",
+      "kind": "programme",
+      "stage": "doctorado",
+      "entry": "Consultar requisitos de la convocatoria",
+      "duration": "240 créditos; normalmente se añade un año de docencia.",
+      "funding": {
+        "kind": "salary",
+        "text": "El departamento declara contratación y salario para sus doctorandos admitidos."
+      },
+      "eligibilityNote": "La ficha se refiere al área de matemáticas aplicadas y estadística. Los requisitos y el plazo los fija cada anuncio; el departamento valora especialmente la tesis de máster.",
+      "id": "ecca76d5bda3badde1e3",
+      "applyUrl": "https://www.uu.se/en/department/mathematics/study/phd-studies",
+      "sourceId": "programme-ecca76d5bda3badde1e3",
+      "sourceName": "Uppsala University",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:26:36.656Z",
+      "seenAt": "2026-09-19T19:26:36.656Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "evidence": {
+        "contentHash": "2da132a75d78ac23496af3f5ab36ee1b8aa8e4db39c69ae50da85d14eecb35a8",
+        "checkedUrl": "https://www.uu.se/en/department/mathematics/study/phd-studies",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uu.se/en/department/mathematics/study/phd-studies"
+      },
+      "lastError": null
+    },
+    {
+      "title": "MSc Statistics and Data Science",
+      "institution": "Uppsala University",
+      "country": "SE",
+      "url": "https://www.uu.se/en/study/programme/masters-programme-statistics-and-data-science.html",
+      "kind": "programme",
+      "stage": "master",
+      "entry": "Grado y formación previa en estadística",
+      "duration": "2 años · 120 créditos",
+      "languages": [
+        "Inglés; acreditación equivalente a English 6"
+      ],
+      "researchNote": "El último semestre se dedica a una tesis de 30 créditos. El itinerario prepara también para estudios doctorales en estadística.",
+      "eligibilityNote": "Requiere 90 créditos de estadística, o 60 de estadística y 30 de matemáticas o informática. La salida de un año tiene una tesis de menor extensión.",
+      "feeNote": "La matrícula depende de nacionalidad y exenciones; consultar la cohorte de ingreso en la fuente.",
+      "id": "85f1fc5d7936ab03942b",
+      "applyUrl": "https://www.uu.se/en/study/programme/masters-programme-statistics-and-data-science.html",
+      "sourceId": "programme-85f1fc5d7936ab03942b",
+      "sourceName": "Uppsala University",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:26:58.155Z",
+      "seenAt": "2026-09-19T19:26:58.155Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Ciencia de datos",
+        "Estadística",
+        "Informática"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "evidence": {
+        "contentHash": "c07c57c5339690ed596c06146144f902a23869a08d9e9989d98e6c4290f37e4c",
+        "checkedUrl": "https://www.uu.se/en/study/programme/masters-programme-statistics-and-data-science.html",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uu.se/en/study/programme/masters-programme-statistics-and-data-science.html"
+      },
+      "lastError": null
+    },
+    {
+      "title": "MSc Mathematical Sciences — Applied Mathematics and Statistics",
+      "institution": "NTNU",
+      "country": "NO",
+      "url": "https://www.ntnu.edu/studies/msmnfma",
+      "kind": "programme",
+      "stage": "master",
+      "entry": "Grado con al menos 80 créditos de matemáticas",
+      "duration": "2 años · 120 créditos",
+      "languages": [
+        "Inglés"
+      ],
+      "researchNote": "Tesis supervisada de 45 créditos y 75 créditos de cursos. Permite especializarse en matemáticas aplicadas o estadística.",
+      "eligibilityNote": "Esta ficha cubre las especialidades aplicadas y estadísticas, no las de matemáticas puras. La admisión exige además la nota mínima especificada por NTNU.",
+      "id": "efacaa791f001dc43602",
+      "applyUrl": "https://www.ntnu.edu/studies/msmnfma",
+      "sourceId": "programme-efacaa791f001dc43602",
+      "sourceName": "NTNU",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:28:16.447Z",
+      "seenAt": "2026-09-19T19:28:16.447Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "evidence": {
+        "contentHash": "f01664c561b180403fb2f9b30ac8643160cd8df60caf6b55284bf884e83c1fc7",
+        "checkedUrl": "https://www.ntnu.edu/studies/msmnfma",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.ntnu.edu/studies/msmnfma/structure"
+      },
+      "lastError": null
+    },
+    {
+      "title": "Research Master in Methodology, Statistics and Data Science",
+      "institution": "Utrecht University",
+      "country": "NL",
+      "url": "https://www.uu.nl/en/masters/methodology-statistics-and-data-science/study-programme",
+      "kind": "programme",
+      "stage": "master",
+      "entry": "Consultar titulaciones y formación estadística admitidas",
+      "duration": "2 años",
+      "programmeType": "Máster de investigación en metodología, estadística y datos",
+      "researchNote": "La formación incluye experiencia de investigación y preparación de tesis. La tesis adopta el formato de un artículo científico; puede realizarse con grupos de distintas disciplinas.",
+      "id": "06621104536c7a8fd3d9",
+      "applyUrl": "https://www.uu.nl/en/masters/methodology-statistics-and-data-science/study-programme",
+      "sourceId": "programme-06621104536c7a8fd3d9",
+      "sourceName": "Utrecht University",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:28:17.255Z",
+      "seenAt": "2026-09-19T19:28:17.255Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Estadística",
+        "Informática"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "evidence": {
+        "contentHash": "8cb1153008a7f772f205794a5f32d67c987f10ffa91b180899f607ced87365ec",
+        "checkedUrl": "https://www.uu.nl/en/masters/methodology-statistics-and-data-science/study-programme",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uu.nl/en/masters/methodology-statistics-and-data-science/study-programme"
+      },
+      "lastError": null
+    },
+    {
+      "title": "MSc Computer Science",
+      "institution": "KTH Royal Institute of Technology",
+      "country": "SE",
+      "url": "https://www.kth.se/en/studies/master/computer-science",
+      "kind": "programme",
+      "stage": "master",
+      "entry": "Grado afín de 180 ECTS o equivalente",
+      "duration": "2 años",
+      "researchNote": "Tres semestres de cursos y un semestre final de proyecto de máster. Incluye metodología de investigación y especializaciones en IA, datos, sistemas y teoría.",
+      "eligibilityNote": "Se exigen cursos previos concretos de matemáticas e informática; revisa los requisitos detallados antes de solicitar.",
+      "id": "dcb2365698c2e6796d2a",
+      "applyUrl": "https://www.kth.se/en/studies/master/computer-science",
+      "sourceId": "programme-dcb2365698c2e6796d2a",
+      "sourceName": "KTH Royal Institute of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T19:27:27.712Z",
+      "seenAt": "2026-09-19T19:27:27.712Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "evidence": {
+        "contentHash": "656c5a5db31ef71588b58ce0906eeb69fe965448fbe230a1f22116a79173d536",
+        "checkedUrl": "https://www.kth.se/en/studies/master/computer-science",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.kth.se/en/studies/master/computer-science/courses-computer-science-1.502267"
       },
       "lastError": null
     }
@@ -14892,16 +18429,34 @@
       "id": "jobbnorge",
       "name": "Jobbnorge",
       "url": "https://www.jobbnorge.no/search/en",
-      "adapter": "discovery",
+      "adapter": "jobbnorge",
       "type": "aggregator",
       "scope": "Noruega",
       "stages": [
+        "grado",
         "doctorado",
         "postdoc",
         "faculty"
       ],
-      "enabled": false,
-      "status": "planned"
+      "enabled": true,
+      "note": "Verificados los metadatos del portal. Requisitos y financiación del anuncio completo pendientes de comprobación.",
+      "status": "partial",
+      "report": {
+        "id": "jobbnorge",
+        "pages": 1,
+        "totalListings": 1201,
+        "discovered": 1201,
+        "accepted": 31,
+        "excluded": 1170,
+        "complete": false,
+        "errors": [
+          {
+            "error": "full_description_not_verified"
+          }
+        ],
+        "checkedAt": "2026-09-19T19:10:01.615Z",
+        "note": "Public feed fully traversed. Full-text endpoints unavailable; generic titles and detailed eligibility still need verification. Norwegian workplaces required."
+      }
     },
     {
       "id": "jobsacuk",
@@ -15023,7 +18578,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:14.718Z",
+        "checkedAt": "2026-09-19T18:18:17.898Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15042,7 +18597,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:15.881Z",
+        "checkedAt": "2026-09-19T18:18:19.134Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15061,7 +18616,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:15.632Z",
+        "checkedAt": "2026-09-19T18:18:19.132Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15080,7 +18635,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:15.890Z",
+        "checkedAt": "2026-09-19T18:18:19.152Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15099,7 +18654,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:16.340Z",
+        "checkedAt": "2026-09-19T18:18:20.039Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15118,7 +18673,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:17.730Z",
+        "checkedAt": "2026-09-19T18:18:20.239Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15137,7 +18692,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:18.333Z",
+        "checkedAt": "2026-09-19T18:18:20.375Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15156,7 +18711,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:16.745Z",
+        "checkedAt": "2026-09-19T18:18:20.049Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15175,7 +18730,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:19.106Z",
+        "checkedAt": "2026-09-19T18:18:21.767Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15192,12 +18747,16 @@
         "master"
       ],
       "enabled": true,
-      "status": "healthy",
+      "status": "partial",
       "report": {
-        "checkedAt": "2026-09-19T18:55:20.264Z",
-        "accepted": 1,
-        "complete": true,
-        "errors": []
+        "checkedAt": "2026-09-19T19:32:45.832Z",
+        "accepted": 0,
+        "complete": false,
+        "errors": [
+          {
+            "error": "fetch failed"
+          }
+        ]
       }
     },
     {
@@ -15213,7 +18772,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:20.216Z",
+        "checkedAt": "2026-09-19T18:18:23.038Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15232,7 +18791,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:20.235Z",
+        "checkedAt": "2026-09-19T18:18:22.761Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15251,7 +18810,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:20.694Z",
+        "checkedAt": "2026-09-19T18:18:23.176Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15270,7 +18829,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:21.304Z",
+        "checkedAt": "2026-09-19T18:18:24.534Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15289,7 +18848,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:22.054Z",
+        "checkedAt": "2026-09-19T18:18:24.657Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15308,7 +18867,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:22.063Z",
+        "checkedAt": "2026-09-19T18:18:24.665Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15327,7 +18886,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:18.443Z",
+        "checkedAt": "2026-09-19T18:18:21.593Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15346,7 +18905,7 @@
       "enabled": true,
       "status": "partial",
       "report": {
-        "checkedAt": "2026-09-19T18:55:22.824Z",
+        "checkedAt": "2026-09-19T19:32:39.895Z",
         "accepted": 0,
         "complete": false,
         "errors": [
@@ -15369,7 +18928,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:22.555Z",
+        "checkedAt": "2026-09-19T18:18:25.698Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15388,7 +18947,7 @@
       "enabled": true,
       "status": "partial",
       "report": {
-        "checkedAt": "2026-09-19T18:55:23.201Z",
+        "checkedAt": "2026-09-19T19:32:40.487Z",
         "accepted": 0,
         "complete": false,
         "errors": [
@@ -15411,7 +18970,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:23.034Z",
+        "checkedAt": "2026-09-19T18:18:26.594Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15430,7 +18989,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:22.224Z",
+        "checkedAt": "2026-09-19T18:18:25.698Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15449,7 +19008,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:22.824Z",
+        "checkedAt": "2026-09-19T18:18:25.996Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15468,7 +19027,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:23.906Z",
+        "checkedAt": "2026-09-19T18:18:27.803Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15487,7 +19046,7 @@
       "enabled": true,
       "status": "partial",
       "report": {
-        "checkedAt": "2026-09-19T18:55:27.326Z",
+        "checkedAt": "2026-09-19T19:32:39.784Z",
         "accepted": 0,
         "complete": false,
         "errors": [
@@ -15511,7 +19070,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:24.352Z",
+        "checkedAt": "2026-09-19T18:18:28.512Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15530,7 +19089,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:24.959Z",
+        "checkedAt": "2026-09-19T18:18:28.930Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15549,7 +19108,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:27.313Z",
+        "checkedAt": "2026-09-19T18:18:29.747Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15568,7 +19127,7 @@
       "enabled": true,
       "status": "partial",
       "report": {
-        "checkedAt": "2026-09-19T18:55:26.395Z",
+        "checkedAt": "2026-09-19T19:32:40.477Z",
         "accepted": 0,
         "complete": false,
         "errors": [
@@ -15591,7 +19150,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:26.251Z",
+        "checkedAt": "2026-09-19T18:18:29.935Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15610,7 +19169,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:27.327Z",
+        "checkedAt": "2026-09-19T18:18:31.423Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15631,7 +19190,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:27.466Z",
+        "checkedAt": "2026-09-19T18:18:32.785Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15678,7 +19237,7 @@
       "enabled": true,
       "status": "partial",
       "report": {
-        "checkedAt": "2026-09-19T18:55:15.632Z",
+        "checkedAt": "2026-09-19T19:32:39.588Z",
         "accepted": 0,
         "complete": false,
         "errors": [
@@ -15701,7 +19260,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:14.718Z",
+        "checkedAt": "2026-09-19T18:38:38.742Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15720,7 +19279,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:27.478Z",
+        "checkedAt": "2026-09-19T18:38:40.002Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15739,7 +19298,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:28.240Z",
+        "checkedAt": "2026-09-19T18:38:40.504Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15758,7 +19317,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:28.727Z",
+        "checkedAt": "2026-09-19T18:38:41.272Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15777,7 +19336,7 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:28.413Z",
+        "checkedAt": "2026-09-19T18:38:40.511Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15796,7 +19355,275 @@
       "enabled": true,
       "status": "healthy",
       "report": {
-        "checkedAt": "2026-09-19T18:55:29.128Z",
+        "checkedAt": "2026-09-19T18:38:41.330Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "kth",
+      "name": "KTH · Vacantes",
+      "url": "https://www.kth.se/lediga-jobb/?l=en",
+      "adapter": "kth",
+      "scope": "Suecia; lugar de trabajo confirmado en el anuncio",
+      "type": "institution",
+      "stages": [
+        "grado",
+        "doctorado",
+        "postdoc",
+        "faculty"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "id": "kth",
+        "pages": 1,
+        "discovered": 47,
+        "totalListings": 47,
+        "accepted": 22,
+        "excluded": 25,
+        "complete": true,
+        "errors": [],
+        "checkedAt": "2026-09-19T19:24:43.526Z",
+        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
+      }
+    },
+    {
+      "id": "aalto",
+      "name": "Aalto University · Vacantes",
+      "url": "https://www.aalto.fi/en/open-positions",
+      "adapter": "aalto",
+      "scope": "Finlandia; todas las páginas del portal institucional",
+      "type": "institution",
+      "stages": [
+        "grado",
+        "doctorado",
+        "postdoc",
+        "faculty"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "id": "aalto",
+        "pages": 3,
+        "discovered": 24,
+        "totalListings": 24,
+        "accepted": 11,
+        "excluded": 13,
+        "complete": true,
+        "errors": [],
+        "checkedAt": "2026-09-19T19:24:43.429Z",
+        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
+      }
+    },
+    {
+      "id": "uppsala",
+      "name": "Uppsala University · Vacantes",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies.html",
+      "adapter": "uppsala",
+      "scope": "Suecia; todas las páginas, incluidas ofertas sin título descriptivo",
+      "type": "institution",
+      "stages": [
+        "grado",
+        "doctorado",
+        "postdoc",
+        "faculty"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "id": "uppsala",
+        "pages": 9,
+        "discovered": 82,
+        "totalListings": 82,
+        "accepted": 11,
+        "excluded": 71,
+        "complete": true,
+        "errors": [],
+        "checkedAt": "2026-09-19T19:24:43.699Z",
+        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
+      }
+    },
+    {
+      "id": "helsinki",
+      "name": "University of Helsinki · Vacantes",
+      "url": "https://jobs.helsinki.fi/go/Teaching-and-research-positions/8703802/?q=&sortColumn=referencedate&sortDirection=asc",
+      "adapter": "helsinki",
+      "scope": "Finlandia; personal investigador y docente",
+      "startUrls": [
+        "https://jobs.helsinki.fi/go/Teaching-and-research-positions/8703802/?q=&sortColumn=referencedate&sortDirection=asc",
+        "https://jobs.helsinki.fi/go/Professors-and-assistant-associate-professors/8703702/"
+      ],
+      "type": "institution",
+      "stages": [
+        "grado",
+        "doctorado",
+        "postdoc",
+        "faculty"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "id": "helsinki",
+        "pages": 2,
+        "discovered": 23,
+        "totalListings": 23,
+        "accepted": 4,
+        "excluded": 19,
+        "complete": true,
+        "errors": [],
+        "checkedAt": "2026-09-19T19:24:43.424Z",
+        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
+      }
+    },
+    {
+      "id": "programme-24d1a55df163e1e54348",
+      "name": "Aalto University · Aalto Doctoral Programme in Science — Computer Science and Mathematics",
+      "url": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "FI",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:26:35.089Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7d928a4de9198a986f00",
+      "name": "University of Helsinki · Doctoral Programme in Science — Computer Science, Mathematics and Statistics",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programme-science",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "FI",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:28:12.416Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-b90a620fd6fbbda7e3a9",
+      "name": "Uppsala University · PhD in Information Technology",
+      "url": "https://www.uu.se/en/department/information-technology/doctoral-studies.html",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "SE",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:26:36.086Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-ecca76d5bda3badde1e3",
+      "name": "Uppsala University · PhD in Applied Mathematics and Statistics",
+      "url": "https://www.uu.se/en/department/mathematics/study/phd-studies",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "SE",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:26:36.656Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-85f1fc5d7936ab03942b",
+      "name": "Uppsala University · MSc Statistics and Data Science",
+      "url": "https://www.uu.se/en/study/programme/masters-programme-statistics-and-data-science.html",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "SE",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:26:58.155Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-dcb2365698c2e6796d2a",
+      "name": "KTH Royal Institute of Technology · MSc Computer Science",
+      "url": "https://www.kth.se/en/studies/master/computer-science",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "SE",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:27:27.712Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-efacaa791f001dc43602",
+      "name": "NTNU · MSc Mathematical Sciences — Applied Mathematics and Statistics",
+      "url": "https://www.ntnu.edu/studies/msmnfma",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "NO",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:28:16.447Z",
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-06621104536c7a8fd3d9",
+      "name": "Utrecht University · Research Master in Methodology, Statistics and Data Science",
+      "url": "https://www.uu.nl/en/masters/methodology-statistics-and-data-science/study-programme",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "NL",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T19:28:17.255Z",
         "accepted": 1,
         "complete": true,
         "errors": []
@@ -15804,72 +19631,28 @@
     }
   ],
   "run": {
-    "id": "d67e41fe-5059-42d5-8729-303307b18db0",
-    "startedAt": "2026-09-19T18:50:02.586Z",
-    "finishedAt": "2026-09-19T18:55:14.401Z",
+    "id": "e90e2610-b409-4eca-a9e8-a765c3c65780",
+    "startedAt": "2026-09-19T19:26:09.180Z",
+    "finishedAt": "2026-09-19T19:26:09.190Z",
     "status": "partial",
     "sources": [
       {
-        "id": "eth-jobs",
+        "id": "jobbnorge",
         "pages": 1,
-        "totalListings": 105,
-        "discovered": 57,
-        "accepted": 33,
-        "excluded": 24,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T18:50:49.498Z",
-        "note": "Scientific career titles checked against research content; European workplace required. Faculty recruitment may use a separate portal."
-      },
-      {
-        "id": "inria",
-        "pages": 1,
-        "discovered": 83,
-        "accepted": 67,
-        "excluded": 16,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T18:51:13.653Z"
-      },
-      {
-        "id": "jobsacuk",
-        "pages": 14,
-        "discovered": 321,
-        "accepted": 183,
-        "excluded": 138,
-        "complete": false,
-        "errors": [
-          {
-            "url": "https://www.jobs.ac.uk/search/?activeFacet=academicDisciplineFacet&sortOrder=1&pageSize=25&startIndex=26&academicDisciplineFacet%5B0%5D=mathematics-and-statistics",
-            "error": "listing_structure_changed"
-          }
-        ],
-        "checkedAt": "2026-09-19T18:55:07.027Z",
-        "note": "Computer sciences and mathematics/statistics categories, all accessible pages; overseas job locations excluded."
-      },
-      {
-        "id": "academictransfer",
-        "pages": 1,
-        "discovered": 31,
-        "totalListings": 718,
+        "totalListings": 1201,
+        "discovered": 1201,
         "accepted": 31,
-        "excluded": 0,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T18:55:14.401Z",
-        "note": "Discovery limited to discipline-bearing vacancy titles; jobs with generic titles require another pass."
-      },
-      {
-        "id": "euraxess",
+        "excluded": 1170,
         "complete": false,
         "errors": [
           {
-            "error": "Error: http_403"
+            "error": "full_description_not_verified"
           }
         ],
-        "checkedAt": "2026-09-19T18:55:14.401Z"
+        "checkedAt": "2026-09-19T19:10:01.615Z",
+        "note": "Public feed fully traversed. Full-text endpoints unavailable; generic titles and detailed eligibility still need verification. Norwegian workplaces required."
       }
     ]
   },
-  "programmesCheckedAt": "2026-09-19T18:55:31.891Z"
+  "programmesCheckedAt": "2026-09-19T19:32:45.839Z"
 }

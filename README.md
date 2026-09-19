@@ -8,7 +8,7 @@ TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, invest
 
 ## Qué contiene
 
-- Vacantes recogidas de EURAXESS, Inria, AcademicTransfer, jobs.ac.uk y ETH Zurich, con filtrado de disciplina y destino europeo.
+- Vacantes de EURAXESS, Inria, AcademicTransfer, jobs.ac.uk, ETH Zurich, KTH, Aalto, Uppsala y Helsinki, con filtrado de disciplina y destino europeo. Jobbnorge aporta metadatos públicos de vacantes noruegas; sus requisitos y financiación detallados se señalan como pendientes.
 - Programas académicos y de financiación comprobados en las páginas de sus instituciones. Un máster necesita evidencia de tesis o componente de investigación.
 - Fuente, última comprobación, plazo, requisitos, tipo de contrato, duración y financiación cuando están publicados. Los campos desconocidos se mantienen como desconocidos.
 - Una instantánea pública en `data/catalogue.json` y una base PostgreSQL en Neon. La web utiliza Neon y conserva una copia de respaldo si la consulta falla.
@@ -54,7 +54,11 @@ El recolector respeta `robots.txt`, los tiempos de espera, `Retry-After`, ETag y
 
 Una plaza con varias vacantes cuenta como un anuncio. La deduplicación actual usa URL canónica y conserva los parámetros que identifican ofertas. No se fusionan automáticamente anuncios parecidos entre portales: aún puede haber duplicados entre fuentes o idiomas. Los importes conservan moneda y periodo; no se calcula un salario neto ni se compara una beca anual con un salario mensual sin contexto.
 
-Las líneas interdisciplinares se incluyen cuando la descripción documenta trabajo en los métodos o herramientas del ámbito indicado. La clasificación se basa en reglas auditables y puede necesitar revisión; no sustituye la lectura de la convocatoria.
+Las líneas interdisciplinares se incluyen cuando la descripción documenta investigación en métodos del ámbito indicado. Una mención incidental de software, una base de datos o conocimientos estadísticos auxiliares no basta. La clasificación se basa en reglas auditables y puede necesitar revisión; no sustituye la lectura de la convocatoria. Los conectores nórdicos recorren también los anuncios con títulos genéricos y comprueban el contenido antes de clasificarlos.
+
+Las fechas con horas discordantes se conservan con precisión de día y una nota para consultar la convocatoria. Un contrato doctoral inicial de un año renovable no se presenta como cuatro años garantizados. Las observaciones de ejecuciones sucesivas conservan su identificador de origen.
+
+El comportamiento y las limitaciones de los nuevos conectores se documentan en [docs/source-adapters.md](docs/source-adapters.md).
 
 ## Ampliar la cobertura
 

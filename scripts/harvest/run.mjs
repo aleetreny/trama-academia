@@ -2,11 +2,13 @@ import fs from 'node:fs/promises';
 import {randomUUID} from 'node:crypto';
 import {crawlEuraxess,crawlInria,crawlAcademicTransfer} from './adapters.mjs';
 import {crawlJobsAcUk,crawlEth} from './extra-adapters.mjs';
+import {crawlNordic} from './nordic-adapters.mjs';
+import {crawlJobbnorge} from './jobbnorge.mjs';
 import {effectiveStatus,canonicalUrl} from './domain.mjs';
-import {observations} from './http.mjs';
+import {observations,persistObservations} from './http.mjs';
 
 const args=process.argv.slice(2),maxPages=Number(args.find(x=>x.startsWith('--pages='))?.split('=')[1]||1000);
-const only=args.find(x=>x.startsWith('--source='))?.split('=')[1];
+const only=args.find(x=>x.startsWith('--source='))?.split('=')[1]?.split(',');
 const sourceRegistry=JSON.parse(await fs.readFile('data/sources.json','utf8'));
 const initial=JSON.parse(await fs.readFile('data/catalogue.json','utf8'));
 const exclusions=new Set(JSON.parse(await fs.readFile('data/exclusions.json','utf8')).map(e=>e.id));
@@ -16,9 +18,9 @@ await fs.mkdir('.cache',{recursive:true});
 let writes=Promise.resolve();
 function checkpoint(){writes=writes.then(()=>fs.writeFile('.cache/harvest-progress.json',JSON.stringify({run,records:records.size,observations:observations.length},null,2)));return writes;}
 function onRecord(record){records.set(record.id,{...records.get(record.id),...record,lastError:null});if(records.size%25===0)return checkpoint();}
-const active=sourceRegistry.filter(s=>s.enabled&&(!only||s.id===only));
+const active=sourceRegistry.filter(s=>s.enabled&&(!only||only.includes(s.id)));
 const results=await Promise.allSettled(active.map(async source=>{
-  const fn={euraxess:crawlEuraxess,inria:crawlInria,'sitemap-jobposting':crawlAcademicTransfer,jobsacuk:crawlJobsAcUk,eth:crawlEth}[source.adapter];if(!fn)throw new Error('adapter_not_implemented');
+  const fn={euraxess:crawlEuraxess,inria:crawlInria,'sitemap-jobposting':crawlAcademicTransfer,jobsacuk:crawlJobsAcUk,eth:crawlEth,kth:crawlNordic,aalto:crawlNordic,uppsala:crawlNordic,helsinki:crawlNordic,jobbnorge:crawlJobbnorge}[source.adapter];if(!fn)throw new Error('adapter_not_implemented');
   const result=await fn(source,{maxPages,onRecord,onProgress:p=>{console.log(JSON.stringify(p));checkpoint();}});run.sources.push(result.report);return result;
 }));
 for(const [i,result]of results.entries())if(result.status==='rejected')run.sources.push({id:active[i].id,complete:false,errors:[{error:String(result.reason)}],checkedAt:new Date().toISOString()});
@@ -29,5 +31,5 @@ const byUrl=new Map();for(const r of records.values()){if(exclusions.has(r.id))c
 const all=[...byUrl.values()];const registry=[...new Map([...initial.sources,...sourceRegistry].map(s=>[s.id,s])).values()];const sources=registry.map(s=>{const report=run.sources.find(r=>r.id===s.id)||initial.sources.find(r=>r.id===s.id)?.report;return {...s,status:report?(report.complete&&!report.errors.length?'healthy':'partial'):s.enabled?'pending':'planned',report};});
 const snapshot={generatedAt:run.finishedAt,records:all,sources,run};
 await fs.writeFile('data/catalogue.json.tmp',JSON.stringify(snapshot,null,2)+'\n');await fs.rename('data/catalogue.json.tmp','data/catalogue.json');
-await fs.writeFile('.cache/observations.json',JSON.stringify({runId:run.id,observations},null,2));await checkpoint();
+await persistObservations({runId:run.id});await checkpoint();
 console.log(JSON.stringify({run:run.id,status:run.status,records:all.length,open:all.filter(r=>r.status==='open').length,sources:run.sources}));

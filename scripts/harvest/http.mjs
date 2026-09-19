@@ -56,14 +56,17 @@ export async function getPage(url,{refresh=false}={}){
    if(httpStatus===304&&cached){const value={...cached,checkedAt,status:304};await fs.writeFile(file,JSON.stringify(value));observations.push({url,checkedAt,httpStatus,hash:value.hash,outcome:'not_modified'});return value;}
    if(!response?.ok)throw new Error('http_'+httpStatus);
    const body=await response.text();if(body.length>5_000_000)throw new Error('response_too_large');
-   if(body.length<100||/Just a moment\.\.\.|cf-chl-|verify you are human|Access Denied/i.test(body.slice(0,12000)))throw new Error('challenge_or_empty');
+   const isJson=/application\/(?:[\w.+-]*\+)?json/i.test(response.headers.get('content-type')||'');
+   if((body.length<100&&!isJson)||/Just a moment\.\.\.|cf-chl-|verify you are human|Access Denied/i.test(body.slice(0,12000)))throw new Error('challenge_or_empty');
+   if(isJson){try{JSON.parse(body);}catch{throw new Error('invalid_json');}}
    const result={url,finalUrl,body,checkedAt,status:httpStatus,hash:hash(body),etag:response.headers.get('etag'),lastModified:response.headers.get('last-modified')};
    await fs.writeFile(file,JSON.stringify(result));observations.push({url,checkedAt,httpStatus,hash:result.hash,outcome:'ok'});return result;
   }catch(error){observations.push({url,checkedAt,httpStatus,hash:null,outcome:error.message});throw error;}
  });
 }
-export async function persistObservations(){
+export async function persistObservations({runId}={}){
  let prev={};try{prev=JSON.parse(await fs.readFile('.cache/observations.json','utf8'));}catch{}
- const all=[...(prev.observations||[]),...observations];const unique=new Map(all.map(o=>[o.url+'|'+o.checkedAt,o]));
- await fs.writeFile('.cache/observations.json',JSON.stringify({...prev,observations:[...unique.values()]},null,2));
+ const currentRunId=runId||prev.runId;
+ const all=[...(prev.observations||[]).map(o=>({...o,runId:o.runId||prev.runId})),...observations.map(o=>({...o,runId:currentRunId}))];const unique=new Map(all.map(o=>[o.url+'|'+o.checkedAt,o]));
+ await fs.writeFile('.cache/observations.json',JSON.stringify({runId:currentRunId,observations:[...unique.values()]},null,2));
 }

@@ -49,15 +49,17 @@
     "id": "jobbnorge",
     "name": "Jobbnorge",
     "url": "https://www.jobbnorge.no/search/en",
-    "adapter": "discovery",
+    "adapter": "jobbnorge",
     "type": "aggregator",
     "scope": "Noruega",
     "stages": [
+      "grado",
       "doctorado",
       "postdoc",
       "faculty"
     ],
-    "enabled": false
+    "enabled": true,
+    "note": "Verificados los metadatos del portal. Requisitos y financiación del anuncio completo pendientes de comprobación."
   },
   {
     "id": "jobsacuk",
@@ -151,6 +153,70 @@
     "adapter": "eth",
     "type": "institution",
     "scope": "Suiza; se excluyen los destinos extraeuropeos",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "kth",
+    "name": "KTH · Vacantes",
+    "url": "https://www.kth.se/lediga-jobb/?l=en",
+    "adapter": "kth",
+    "scope": "Suecia; lugar de trabajo confirmado en el anuncio",
+    "type": "institution",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "aalto",
+    "name": "Aalto University · Vacantes",
+    "url": "https://www.aalto.fi/en/open-positions",
+    "adapter": "aalto",
+    "scope": "Finlandia; todas las páginas del portal institucional",
+    "type": "institution",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "uppsala",
+    "name": "Uppsala University · Vacantes",
+    "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies.html",
+    "adapter": "uppsala",
+    "scope": "Suecia; todas las páginas, incluidas ofertas sin título descriptivo",
+    "type": "institution",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "helsinki",
+    "name": "University of Helsinki · Vacantes",
+    "url": "https://jobs.helsinki.fi/go/Teaching-and-research-positions/8703802/?q=&sortColumn=referencedate&sortDirection=asc",
+    "adapter": "helsinki",
+    "scope": "Finlandia; personal investigador y docente",
+    "startUrls": [
+      "https://jobs.helsinki.fi/go/Teaching-and-research-positions/8703802/?q=&sortColumn=referencedate&sortDirection=asc",
+      "https://jobs.helsinki.fi/go/Professors-and-assistant-associate-professors/8703702/"
+    ],
+    "type": "institution",
     "stages": [
       "grado",
       "doctorado",
