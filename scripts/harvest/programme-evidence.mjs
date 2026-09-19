@@ -1,7 +1,7 @@
 import {load} from 'cheerio';
 import {clean} from './domain.mjs';
 export function programmeText(html){
- const $=load(html);$('script,style,nav,header,footer,[hidden],[aria-hidden="true"]').remove();
+ const $=load(html);$('script,style,noscript,nav,header,footer,[hidden],[aria-hidden="true"]').remove();
  return clean(($('main').length?$('main'):$('body')).text());
 }
 export function hasResearchComponent(text){

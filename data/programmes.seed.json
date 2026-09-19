@@ -544,5 +544,1204 @@
     "duration": "2 años",
     "programmeType": "Máster de investigación en metodología, estadística y datos",
     "researchNote": "La formación incluye experiencia de investigación y preparación de tesis. La tesis adopta el formato de un artículo científico; puede realizarse con grupos de distintas disciplinas."
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "Master of Statistics and Data Science — on campus",
+    "institution": "KU Leuven",
+    "country": "BE",
+    "city": "Leuven",
+    "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/SC_58938898",
+    "entry": "Grado con formación cuantitativa; admisión según titulación",
+    "fields": [
+      "Estadística",
+      "Ciencia de datos"
+    ],
+    "duration": "2 cursos · 120 ECTS",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Máster presencial con tesis de 24 ECTS",
+    "researchNote": "Plan reformado para quienes empiezan en 2026/27. Incluye una tesis de 24 ECTS y especialidades en estadística teórica, biometría, ciencias sociales, empresa, industria y estadística oficial.",
+    "eligibilityNote": "Los títulos obtenidos fuera de Flandes pasan por admisión. Se valoran las asignaturas cuantitativas y se exigen pruebas y documentos según la titulación; consulta los requisitos de esta versión del plan.",
+    "feeNote": "La matrícula depende del programa y la nacionalidad. Comprueba el calculador institucional y las becas por separado.",
+    "evidencePages": [
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58938898/toelatingsvoorwaarden",
+        "label": "Admisión del plan 2026/27"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "120 ECTS"
+        ]
+      },
+      {
+        "field": "researchNote",
+        "phrases": [
+          "Master's Thesis 24 ECTS"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Bachelor"
+        ],
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58938898/toelatingsvoorwaarden"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "MSc Data Science",
+    "institution": "Università di Trento",
+    "country": "IT",
+    "city": "Trento",
+    "url": "https://corsi.unitn.it/en/data-science/program/overview",
+    "entry": "Consultar requisitos curriculares de admisión",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística"
+    ],
+    "researchEvidenceUrl": "https://corsi.unitn.it/en/data-science/graduation/final-exam",
+    "programmeType": "Máster con tesis y prácticas",
+    "researchNote": "El plan incluye una tesis de 18 créditos y prácticas de 9 créditos. El trabajo final es una disertación original escrita en inglés; puede abordar investigación aplicada, desarrollo o un caso de estudio. Para una carrera académica, acuerda un proyecto y supervisión de investigación.",
+    "eligibilityNote": "La admisión tiene convocatorias distintas para candidaturas europeas/equivalentes y no europeas. El trabajo final puede realizarse en un laboratorio o con una entidad externa.",
+    "evidenceChecks": [
+      {
+        "field": "researchNote",
+        "phrases": [
+          "Thesis 18 CFU",
+          "Internship 9 CFU"
+        ]
+      },
+      {
+        "field": "researchNote",
+        "phrases": [
+          "original dissertation",
+          "applied research"
+        ],
+        "url": "https://corsi.unitn.it/en/data-science/graduation/final-exam"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "MSc Data Science and Engineering",
+    "institution": "Instituto Superior Técnico · Universidade de Lisboa",
+    "country": "PT",
+    "city": "Lisboa",
+    "url": "https://tecnico.ulisboa.pt/en/education/courses/masters-programmes/data-science-and-engineering/",
+    "entry": "Grado afín y formación en estadística, álgebra y programación",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "duration": "2 años · 120 ECTS",
+    "languages": [
+      "Portugués; las unidades pasan a inglés si hay alumnado internacional o de movilidad"
+    ],
+    "programmeType": "Máster con opción de tesis científica",
+    "researchNote": "El bloque final tiene 30 ECTS y permite elegir tesis científica o prácticas en empresa. Para preparar un doctorado, confirma la modalidad científica, la supervisión y el tema antes de escoger proyecto.",
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "4 semesters (2 years)",
+          "120 ECTS"
+        ]
+      },
+      {
+        "field": "researchNote",
+        "phrases": [
+          "Dissertation (30 ECTS)",
+          "Scientific thesis",
+          "Internship at a company"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "statistics, algebra and programming"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "taught in Portuguese",
+          "taught in English"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "MSc Artificial Intelligence",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://www.mff.cuni.cz/en/students/master-of-computer-science/2020-or-later/artificial-intelligence",
+    "entry": "Consultar los requisitos de acceso al máster",
+    "fields": [
+      "Machine learning",
+      "Informática"
+    ],
+    "programmeType": "Máster con tesis en inteligencia artificial",
+    "researchNote": "Especializaciones en agentes inteligentes, machine learning y robótica. La tesis se desarrolla en tres asignaturas, de 6, 9 y 15 créditos, junto con formación en fundamentos y métodos.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-requirements",
+        "label": "Requisitos y procedimiento de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "researchNote",
+        "phrases": [
+          "Diploma Thesis I",
+          "Diploma Thesis II",
+          "Diploma Thesis III"
+        ]
+      },
+      {
+        "field": "fields",
+        "phrases": [
+          "Machine learning",
+          "Intelligent agents"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "MSc Computer Science",
+    "institution": "University of Tartu",
+    "country": "EE",
+    "city": "Tartu",
+    "url": "https://ut.ee/en/curriculum/computer-science",
+    "entry": "Grado afín; otras titulaciones requieren al menos 24 ECTS de informática",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Ciencia de datos"
+    ],
+    "duration": "2 años · 120 ECTS",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Máster con tesis y posibilidad de prácticas en un grupo",
+    "researchNote": "Permite especializarse en sistemas distribuidos, criptografía, verificación o inteligencia artificial. Se puede realizar la estancia práctica con un grupo de investigación. La vía DIGILINK desarrolla la tesis con una empresa; compara esa opción con la supervisión académica.",
+    "eligibilityNote": "Los 24 ECTS deben incluir programación, algoritmos y estructuras de datos. La selección evalúa motivación y expediente; se exige acreditar el idioma.",
+    "feeNote": "La página indica 7.200 €/año para alumnado no UE/EEE y exención para ciudadanos UE/EEE/Suiza y residentes permanentes; revisa la categoría y las reducciones aplicables.",
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "2 years",
+          "120 ECTS"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "at least 24 ECTS",
+          "algorithms and data structures"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "€7,200 per year",
+          "Free tuition for EU/EEA/Swiss"
+        ]
+      },
+      {
+        "field": "researchNote",
+        "phrases": [
+          "master's thesis",
+          "research groups"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "MSc Machine Learning",
+    "institution": "University of Warsaw · Faculty of Mathematics, Informatics and Mechanics",
+    "country": "PL",
+    "city": "Varsovia",
+    "url": "https://www.mimuw.edu.pl/en/admissions/",
+    "entry": "Consultar requisitos de admisión de segundo ciclo",
+    "fields": [
+      "Machine learning",
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "researchEvidenceUrl": "https://mimuw.edu.pl/en/student-guide-abridged-version/information-for-students-of-machine-learning/",
+    "programmeType": "Máster con seminario de investigación y tesis",
+    "researchNote": "Programa orientado también a continuar un doctorado en informática. El seminario exige aprobar el tema de tesis durante el primer año y presentar la tesis durante el segundo; el examen final incluye una presentación y preguntas sobre el trabajo.",
+    "eligibilityNote": "Esta ficha se refiere exclusivamente al máster en Machine Learning impartido en inglés; la misma página describe otros estudios impartidos en polaco.",
+    "evidenceChecks": [
+      {
+        "field": "fields",
+        "phrases": [
+          "Machine Learning (in English)"
+        ]
+      },
+      {
+        "field": "researchNote",
+        "phrases": [
+          "master thesis topic approved"
+        ],
+        "url": "https://mimuw.edu.pl/en/student-guide-abridged-version/information-for-students-of-machine-learning/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "Master of Computer and Data Science",
+    "institution": "University of Ljubljana · Faculty of Computer and Information Science",
+    "country": "SI",
+    "city": "Liubliana",
+    "url": "https://datascience.fri.uni-lj.si/masters/",
+    "entry": "Grado técnico o equivalente con base matemática suficiente",
+    "fields": [
+      "Ciencia de datos",
+      "Informática"
+    ],
+    "duration": "2 años · 120 ECTS",
+    "languages": [
+      "Inglés"
+    ],
+    "researchEvidenceUrl": "https://fri.uni-lj.si/en/masters-thesis",
+    "evidencePages": [
+      {
+        "url": "https://fri.uni-lj.si/en/study-programme/data-science",
+        "label": "Plan, selección y tasas del itinerario"
+      }
+    ],
+    "programmeType": "Itinerario de ciencia de datos con tesis de máster",
+    "researchNote": "Itinerario del máster de Computer and Information Science. La tesis culmina con presentación y defensa pública. Conviene escoger un tema y un supervisor de investigación dentro del itinerario de datos.",
+    "eligibilityNote": "Si se limita la admisión, la facultad utiliza expediente y examen de matemáticas, programación, algoritmos y sistemas. Las exenciones de matrícula dependen de la nacionalidad.",
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "two years",
+          "120 ECTS"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "first-cycle programme"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Teaching is in English"
+        ]
+      },
+      {
+        "field": "researchNote",
+        "phrases": [
+          "master’s thesis"
+        ],
+        "url": "https://fri.uni-lj.si/en/masters-thesis"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "grado",
+    "title": "ETH Student Summer Research Fellowship — Computer Science",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "city": "Zúrich",
+    "url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
+    "entry": "Estudiantes de grado o posgrado de otras universidades",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "2 meses de verano",
+    "programmeType": "Primera estancia de investigación en informática",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Fellowship; importe y condiciones de la próxima edición por confirmar"
+    },
+    "researchNote": "Investigación con grupos de machine learning, seguridad, sistemas, robótica, lenguajes, interacción, teoría o computación visual. Permite probar una línea de investigación antes de solicitar un máster o doctorado.",
+    "eligibilityNote": "El programa admite estudiantes de todo el mundo, excepto quienes ya están matriculados en ETH Zurich. Consulta la siguiente edición para comprobar requisitos y fechas.",
+    "evidenceChecks": [
+      {
+        "field": "entry",
+        "phrases": [
+          "undergraduate and graduate students",
+          "except for students enrolled at ETH Zurich"
+        ]
+      },
+      {
+        "field": "duration",
+        "phrases": [
+          "two summer months"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "grado",
+    "title": "AScI International Summer Research Programme — Computer Science and Machine Learning",
+    "institution": "Aalto University",
+    "country": "FI",
+    "city": "Espoo",
+    "url": "https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme",
+    "entry": "Estudiantes de grado o máster; doctorado solo excepcionalmente",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "12 semanas en verano; flexibilidad según grupo",
+    "languages": [
+      "Acreditar competencias en inglés según la convocatoria"
+    ],
+    "programmeType": "Ayudantía de investigación de verano",
+    "contract": "Empleo a tiempo completo con el grupo de investigación",
+    "funding": {
+      "kind": "salary",
+      "text": "Edición 2026: desde 2.000 €/mes, según años cursados; ayuda de viaje adicional según procedencia"
+    },
+    "researchNote": "Esta ficha se limita a proyectos de informática, machine learning y áreas computacionales. La edición 2026 incluye 22 proyectos del departamento de informática. La estancia concluye con exposición de pósteres.",
+    "eligibilityNote": "La convocatoria 2026 cerró el 31 de enero. Se requiere presencia en Finlandia; no se ofrece empleo remoto. El nivel de acceso debe comprobarse en cada proyecto.",
+    "evidencePages": [
+      {
+        "url": "https://www.aalto.fi/en/aalto-science-institute-asci/asci-international-summer-research-programme-project-list",
+        "label": "Áreas y nivel académico de los proyectos"
+      },
+      {
+        "url": "https://www.aalto.fi/sites/default/files/2026-01/AScI_summer_research_project_list_2026.pdf",
+        "label": "Proyectos de investigación de 2026 · PDF",
+        "format": "pdf"
+      },
+      {
+        "url": "https://www.aalto.fi/en/aalto-science-institute-asci/how-to-apply-for-the-asci-international-summer-research-programme",
+        "label": "Solicitud y acreditación del idioma"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "12 weeks"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "2000+ EUR/month"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "bachelor's, master's"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "31 January 2026",
+          "remote employment is not possible"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "grado",
+    "title": "CERN Summer Studentship — Computing and Mathematics",
+    "institution": "CERN",
+    "country": "CH",
+    "city": "Ginebra",
+    "url": "https://careers.cern/programmes/summer-studentship/",
+    "entry": "Grado o máster en curso; al menos 6 semestres completados",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "De 8 a 13 semanas",
+    "languages": [
+      "Buen nivel de inglés"
+    ],
+    "programmeType": "Estancia de investigación de verano",
+    "contract": "Contrato de asociación",
+    "funding": {
+      "kind": "allowance",
+      "text": "94 CHF netos por día natural; la contribución al seguro médico ya está descontada. Viaje según circunstancias.",
+      "amount": 94,
+      "currency": "CHF",
+      "period": "day",
+      "gross": false
+    },
+    "researchNote": "Se incluyen las opciones de computación y matemáticas aplicadas del programa. El trabajo se desarrolla en un proyecto científico o técnico y culmina con un informe; confirma el contenido de investigación del proyecto asignado.",
+    "eligibilityNote": "No admite estudiantes de doctorado. Se debe mantener la matrícula hasta el inicio de la estancia y cumplir los límites de experiencia previa en CERN.",
+    "evidenceChecks": [
+      {
+        "field": "funding",
+        "phrases": [
+          "94 CHF per calendar day net subsistence allowance"
+        ]
+      },
+      {
+        "field": "duration",
+        "phrases": [
+          "8 to 13 weeks"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "6 semesters",
+          "not a PhD"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "grado",
+    "title": "CERN openlab Summer Student Programme",
+    "institution": "CERN openlab",
+    "country": "CH",
+    "city": "Ginebra",
+    "url": "https://openlab.cern/cern-openlab-summer-student-programme/",
+    "entry": "Grado o máster en curso; al menos 3 años universitarios y perfil de computación",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Ciencia de datos"
+    ],
+    "duration": "9 semanas",
+    "programmeType": "Proyecto supervisado de investigación en computación",
+    "funding": {
+      "kind": "allowance",
+      "text": "Edición 2026: 94 CHF por día natural, ayuda de viaje y cobertura del seguro de CERN; confirmar condiciones de la próxima edición",
+      "amount": 94,
+      "currency": "CHF",
+      "period": "day"
+    },
+    "researchNote": "Cada proyecto tiene supervisor de CERN y termina con un informe y una presentación pública. Las líneas incluyen sistemas de computación, datos, machine learning y nuevas tecnologías.",
+    "eligibilityNote": "La convocatoria 2026 está cerrada. Es un programa distinto del Summer Studentship general; comprueba qué solicitud corresponde a tu perfil.",
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Duration: 9-weeks"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "Allowance: 94 CHF per calendar day"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "at least three years"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "2026 CERN openlab summer student programme is now closed"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "grado",
+    "title": "Summer Research Internships — Computer Science and Artificial Intelligence",
+    "institution": "INESC TEC",
+    "country": "PT",
+    "city": "Oporto y centros participantes",
+    "url": "https://www.inesctec.pt/en/work-with-us",
+    "entry": "Estudiantes de grado o máster",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "Edición 2026: entre 4 y 5 semanas",
+    "programmeType": "Primera estancia de investigación",
+    "researchNote": "Selecciona los temas de informática e inteligencia artificial. La estancia puede aportar créditos de prácticas o servir para iniciar una futura tesis de máster. Las posibles becas de continuación requieren selección posterior.",
+    "eligibilityNote": "La edición de 2026 está cerrada. Los proyectos de otras áreas de INESC TEC quedan fuera de esta ficha. Revisa lugar, formato y condiciones de cada tema; no se ha confirmado remuneración para toda la estancia.",
+    "evidencePages": [
+      {
+        "url": "https://www.inesctec.pt/en/news/inesc-tec-will-welcome-future-scientists-applications-for-summer-research-internships-are-now-open",
+        "label": "Áreas, duración y acceso de la edición 2026"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "entry",
+        "phrases": [
+          "bachelor’s or master’s student"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "2026 Edition - Applications are Closed"
+        ]
+      },
+      {
+        "field": "duration",
+        "phrases": [
+          "four to five weeks"
+        ],
+        "url": "https://www.inesctec.pt/en/news/inesc-tec-will-welcome-future-scientists-applications-for-summer-research-internships-are-now-open"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Theoretical Computer Science and Artificial Intelligence",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=35611&fakulta=11320",
+    "entry": "Máster afín; selección académica y consentimiento de supervisor",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Programa doctoral · modalidad presencial",
+    "funding": {
+      "kind": "mixed",
+      "text": "La facultad declara un ingreso doctoral mínimo de 1,2 veces el salario mínimo para la modalidad presencial, mediante beca y/o empleo. Confirma su composición en la oferta."
+    },
+    "feeNote": "El portal de este programa indica 1.000 CZK/año. Las fuentes discrepan en la tasa de solicitud (730 o 1.500 CZK); confirma el importe con la facultad.",
+    "researchNote": "Programa de investigación en Theoretical Computer Science and Artificial Intelligence. La admisión evalúa el encaje del máster, referencias, motivación y trayectoria; los temas y supervisores se consultan en la facultad.",
+    "eligibilityNote": "Esta ficha recoge la modalidad presencial. La modalidad combinada tiene condiciones de financiación distintas. La página consultada corresponde a la convocatoria 2026/27 y ya no acepta solicitudes.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/",
+        "label": "Admisión, supervisión y financiación por modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Standard length of study: 4 years"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Language of instruction: English"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Master’s degree"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "1000 CZK / year"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "You cannot apply for study"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "1.2 times the minimum wage"
+        ],
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Computer Science – Software Systems",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=35667&fakulta=11320",
+    "entry": "Máster afín; selección académica y consentimiento de supervisor",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Programa doctoral · modalidad presencial",
+    "funding": {
+      "kind": "mixed",
+      "text": "La facultad declara un ingreso doctoral mínimo de 1,2 veces el salario mínimo para la modalidad presencial, mediante beca y/o empleo. Confirma su composición en la oferta."
+    },
+    "feeNote": "El portal de este programa indica 1.000 CZK/año. Las fuentes discrepan en la tasa de solicitud (730 o 1.500 CZK); confirma el importe con la facultad.",
+    "researchNote": "Programa de investigación en Computer Science – Software Systems. La admisión evalúa el encaje del máster, referencias, motivación y trayectoria; los temas y supervisores se consultan en la facultad.",
+    "eligibilityNote": "Esta ficha recoge la modalidad presencial. La modalidad combinada tiene condiciones de financiación distintas. La página consultada corresponde a la convocatoria 2026/27 y ya no acepta solicitudes.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/",
+        "label": "Admisión, supervisión y financiación por modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Standard length of study: 4 years"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Language of instruction: English"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Master’s degree"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "1000 CZK / year"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "You cannot apply for study"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "1.2 times the minimum wage"
+        ],
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Computational Linguistics",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=35617&fakulta=11320",
+    "entry": "Máster afín; selección académica y consentimiento de supervisor",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Programa doctoral · modalidad presencial",
+    "funding": {
+      "kind": "mixed",
+      "text": "La facultad declara un ingreso doctoral mínimo de 1,2 veces el salario mínimo para la modalidad presencial, mediante beca y/o empleo. Confirma su composición en la oferta."
+    },
+    "feeNote": "El portal de este programa indica 1.000 CZK/año. Las fuentes discrepan en la tasa de solicitud (730 o 1.500 CZK); confirma el importe con la facultad.",
+    "researchNote": "Programa de investigación en Computational Linguistics. La admisión evalúa el encaje del máster, referencias, motivación y trayectoria; los temas y supervisores se consultan en la facultad.",
+    "eligibilityNote": "Esta ficha recoge la modalidad presencial. La modalidad combinada tiene condiciones de financiación distintas. La página consultada corresponde a la convocatoria 2026/27 y ya no acepta solicitudes.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/",
+        "label": "Admisión, supervisión y financiación por modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Standard length of study: 4 years"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Language of instruction: English"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Master’s degree"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "1000 CZK / year"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "You cannot apply for study"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "1.2 times the minimum wage"
+        ],
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Computer Science – Theory of Computing, Discrete Models and Optimization",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=35599&fakulta=11320",
+    "entry": "Máster afín; selección académica y consentimiento de supervisor",
+    "fields": [
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Programa doctoral · modalidad presencial",
+    "funding": {
+      "kind": "mixed",
+      "text": "La facultad declara un ingreso doctoral mínimo de 1,2 veces el salario mínimo para la modalidad presencial, mediante beca y/o empleo. Confirma su composición en la oferta."
+    },
+    "feeNote": "El portal de este programa indica 1.000 CZK/año. Las fuentes discrepan en la tasa de solicitud (730 o 1.500 CZK); confirma el importe con la facultad.",
+    "researchNote": "Programa de investigación en Computer Science – Theory of Computing, Discrete Models and Optimization. La admisión evalúa el encaje del máster, referencias, motivación y trayectoria; los temas y supervisores se consultan en la facultad.",
+    "eligibilityNote": "Esta ficha recoge la modalidad presencial. La modalidad combinada tiene condiciones de financiación distintas. La página consultada corresponde a la convocatoria 2026/27 y ya no acepta solicitudes.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/",
+        "label": "Admisión, supervisión y financiación por modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Standard length of study: 4 years"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Language of instruction: English"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Master’s degree"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "1000 CZK / year"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "You cannot apply for study"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "1.2 times the minimum wage"
+        ],
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Computer Science – Visual Computing and Computer Games",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=35595&fakulta=11320",
+    "entry": "Máster afín; selección académica y consentimiento de supervisor",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Programa doctoral · modalidad presencial",
+    "funding": {
+      "kind": "mixed",
+      "text": "La facultad declara un ingreso doctoral mínimo de 1,2 veces el salario mínimo para la modalidad presencial, mediante beca y/o empleo. Confirma su composición en la oferta."
+    },
+    "feeNote": "El portal de este programa indica 1.000 CZK/año. Las fuentes discrepan en la tasa de solicitud (730 o 1.500 CZK); confirma el importe con la facultad.",
+    "researchNote": "Programa de investigación en Computer Science – Visual Computing and Computer Games. La admisión evalúa el encaje del máster, referencias, motivación y trayectoria; los temas y supervisores se consultan en la facultad.",
+    "eligibilityNote": "Esta ficha recoge la modalidad presencial. La modalidad combinada tiene condiciones de financiación distintas. La página consultada corresponde a la convocatoria 2026/27 y ya no acepta solicitudes.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/",
+        "label": "Admisión, supervisión y financiación por modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Standard length of study: 4 years"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Language of instruction: English"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Master’s degree"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "1000 CZK / year"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "You cannot apply for study"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "1.2 times the minimum wage"
+        ],
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Computational Mathematics",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=35623&fakulta=11320",
+    "entry": "Máster afín; selección académica y consentimiento de supervisor",
+    "fields": [
+      "Matemáticas aplicadas"
+    ],
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Programa doctoral · modalidad presencial",
+    "funding": {
+      "kind": "mixed",
+      "text": "La facultad declara un ingreso doctoral mínimo de 1,2 veces el salario mínimo para la modalidad presencial, mediante beca y/o empleo. Confirma su composición en la oferta."
+    },
+    "feeNote": "El portal de este programa indica 1.000 CZK/año. Las fuentes discrepan en la tasa de solicitud (730 o 1.500 CZK); confirma el importe con la facultad.",
+    "researchNote": "Investigación en métodos numéricos para resolver problemas matemáticos, analizar algoritmos e implementar y evaluar soluciones computacionales.",
+    "eligibilityNote": "Esta ficha recoge la modalidad presencial. La modalidad combinada tiene condiciones de financiación distintas. La página consultada corresponde a la convocatoria 2026/27 y ya no acepta solicitudes.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/",
+        "label": "Admisión, supervisión y financiación por modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Standard length of study: 4 years"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Language of instruction: English"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Master’s degree"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "1000 CZK / year"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "You cannot apply for study"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "1.2 times the minimum wage"
+        ],
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Probability and Statistics, Econometrics and Financial Mathematics",
+    "institution": "Charles University · Faculty of Mathematics and Physics",
+    "country": "CZ",
+    "city": "Praga",
+    "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=35589&fakulta=11320",
+    "entry": "Máster afín; selección académica y consentimiento de supervisor",
+    "fields": [
+      "Estadística"
+    ],
+    "duration": "4 años a tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Programa doctoral · modalidad presencial",
+    "funding": {
+      "kind": "mixed",
+      "text": "La facultad declara un ingreso doctoral mínimo de 1,2 veces el salario mínimo para la modalidad presencial, mediante beca y/o empleo. Confirma su composición en la oferta."
+    },
+    "feeNote": "El portal de este programa indica 1.000 CZK/año. Las fuentes discrepan en la tasa de solicitud (730 o 1.500 CZK); confirma el importe con la facultad.",
+    "researchNote": "Doctorado en probabilidad, estadística, econometría y matemáticas financieras. Selecciona una línea metodológica de estadística o matemáticas aplicadas y acuerda supervisión.",
+    "eligibilityNote": "Esta ficha recoge la modalidad presencial. La modalidad combinada tiene condiciones de financiación distintas. La página consultada corresponde a la convocatoria 2026/27 y ya no acepta solicitudes.",
+    "evidencePages": [
+      {
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/",
+        "label": "Admisión, supervisión y financiación por modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Standard length of study: 4 years"
+        ]
+      },
+      {
+        "field": "languages",
+        "phrases": [
+          "Language of instruction: English"
+        ]
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "Master’s degree"
+        ]
+      },
+      {
+        "field": "feeNote",
+        "phrases": [
+          "1000 CZK / year"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "You cannot apply for study"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "1.2 times the minimum wage"
+        ],
+        "url": "https://www.mff.cuni.cz/en/admissions/admission-procedure-in-phd-programmes/"
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "doctorado",
+    "title": "PhD in Theoretical and Scientific Data Science",
+    "institution": "SISSA",
+    "country": "IT",
+    "city": "Trieste",
+    "url": "https://www.sissa.it/it/ricerca/fisica/data-science-excellence-department-initiative-ds",
+    "entry": "Máster o equivalente antes de la matrícula",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "duration": "4 años; posible obtención del título al final del tercero",
+    "programmeType": "Programa doctoral con beca",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Bando 2026/27: 16.242,96 € brutos anuales durante el curso; ayudas adicionales de instalación, vivienda y otros conceptos sujetas a condiciones.",
+      "amount": 16242.96,
+      "currency": "EUR",
+      "period": "year",
+      "gross": true
+    },
+    "researchNote": "Investigación en métodos bayesianos, redes neuronales, teoría de la información, inferencia y aprendizaje para ciencias naturales. La convocatoria de 2026/27 ofrece cinco becas FSE+ y evalúa expediente, examen escrito y entrevista.",
+    "eligibilityNote": "El plazo de Data Science de la edición 2026/27 terminó el 27 de febrero de 2026. La etiqueta general «Open» de la página conjunta no significa que esta especialidad siga abierta.",
+    "evidencePages": [
+      {
+        "url": "https://www.sissa.it/bandi/ammissione-ai-corsi-di-phd-della-sissa-lanno-accademico-202627-admission-sissa-phd-courses",
+        "label": "Convocatoria y fechas por especialidad · 2026/27"
+      },
+      {
+        "url": "https://www.sissa.it/sites/default/files/2025-12/Bando_Italiano_2026_27.pdf",
+        "label": "Bases: acceso, beca y duración · PDF",
+        "format": "pdf"
+      },
+      {
+        "url": "https://www.sissa.it/sites/default/files/2025-12/TSDS.pdf",
+        "label": "Líneas y selección de Data Science · PDF",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "durata di 4 anni"
+        ],
+        "url": "https://www.sissa.it/sites/default/files/2025-12/Bando_Italiano_2026_27.pdf"
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "16.242.96 annui"
+        ],
+        "url": "https://www.sissa.it/sites/default/files/2025-12/Bando_Italiano_2026_27.pdf"
+      },
+      {
+        "field": "entry",
+        "phrases": [
+          "laurea magistrale"
+        ],
+        "url": "https://www.sissa.it/sites/default/files/2025-12/Bando_Italiano_2026_27.pdf"
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "Theoretical and Scientific Data Science",
+          "27 February 2026"
+        ],
+        "url": "https://www.sissa.it/bandi/ammissione-ai-corsi-di-phd-della-sissa-lanno-accademico-202627-admission-sissa-phd-courses"
+      }
+    ]
+  },
+  {
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "title": "FWO PhD Fellowship — Fundamental Research",
+    "institution": "Research Foundation – Flanders (FWO)",
+    "country": "BE",
+    "url": "https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-fundamental-research/",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "entry": "Máster o equivalente; límites de antigüedad y experiencia investigadora",
+    "duration": "4 años; sin prórroga ordinaria",
+    "programmeType": "Beca competitiva para doctorado en Flandes",
+    "funding": {
+      "kind": "scholarship",
+      "text": "La página publica 2.600 €/mes con antigüedad cero, al índice indicado desde marzo de 2025; consultar actualización y composición. Presupuesto de investigación separado.",
+      "amount": 2600,
+      "currency": "EUR",
+      "period": "month"
+    },
+    "researchNote": "Financia un proyecto propio de investigación fundamental con institución anfitriona elegible. Se puede solicitar para informática, aprendizaje automático, datos, estadística o matemáticas aplicadas con el panel adecuado.",
+    "eligibilityNote": "La ronda de 2026 está cerrada. Se exige vinculación con una institución elegible de Flandes, se limita la experiencia científica y solo se permiten dos intentos. Los requisitos de equivalencia del máster dependen del país del título.",
+    "evidenceChecks": [
+      {
+        "field": "duration",
+        "phrases": [
+          "Duration of the fellowship: 4 years"
+        ]
+      },
+      {
+        "field": "funding",
+        "phrases": [
+          "€ 2,600 /month",
+          "1/3/2025"
+        ]
+      },
+      {
+        "field": "eligibilityNote",
+        "phrases": [
+          "Closed",
+          "02/03/2026",
+          "only apply twice"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "programme",
+    "stage": "master",
+    "title": "Master in Information and Computer Sciences",
+    "institution": "University of Luxembourg",
+    "country": "LU",
+    "url": "https://www.uni.lu/fstm-en/study-programs/master-in-information-and-computer-sciences/",
+    "entry": "Consultar requisitos de admisión",
+    "fields": [
+      "Informática"
+    ],
+    "researchNote": "Pendiente de comprobar el programa y su tesis en una página institucional accesible al recolector."
   }
 ]

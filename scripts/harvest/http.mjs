@@ -7,6 +7,13 @@ const queues=new Map(),robots=new Map(),lastRequest=new Map();
 const delay=ms=>new Promise(r=>setTimeout(r,ms));
 const cacheDir=path.resolve('.cache/http');
 export const observations=[];
+export async function readResponseBytes(response,limit=10_000_000){
+ const reader=response.body?.getReader();if(!reader)return Buffer.alloc(0);
+ const chunks=[];let size=0;
+ try{while(true){const {done,value}=await reader.read();if(done)break;size+=value.byteLength;if(size>limit){await reader.cancel();throw new Error('response_too_large');}chunks.push(Buffer.from(value));}}
+ finally{reader.releaseLock();}
+ return Buffer.concat(chunks,size);
+}
 async function serial(host,fn){const before=queues.get(host)||Promise.resolve();const current=before.catch(()=>{}).then(fn);queues.set(host,current.catch(()=>{}));return current;}
 async function policy(origin){
  if(!robots.has(origin))robots.set(origin,(async()=>{
@@ -56,7 +63,7 @@ export async function getPage(url,{refresh=false,format='text'}={}){
    }
    if(httpStatus===304&&cached){const value={...cached,checkedAt,status:304};await fs.writeFile(file,JSON.stringify(value));observations.push({url,checkedAt,httpStatus,hash:value.hash,outcome:'not_modified'});return value;}
    if(!response?.ok)throw new Error('http_'+httpStatus);
-   const bytes=Buffer.from(await response.arrayBuffer());if(bytes.length>(format==='pdf'?10_000_000:5_000_000))throw new Error('response_too_large');
+   const bytes=await readResponseBytes(response);
    if(format==='pdf'&&bytes.subarray(0,5).toString()!=='%PDF-')throw new Error('invalid_pdf_response');
    const body=format==='pdf'?bytes.toString('base64'):bytes.toString('utf8');
    const isJson=/application\/(?:[\w.+-]*\+)?json/i.test(response.headers.get('content-type')||'');

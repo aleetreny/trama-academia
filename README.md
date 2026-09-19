@@ -10,6 +10,7 @@ TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, invest
 
 - Vacantes de EURAXESS, Inria, AcademicTransfer, jobs.ac.uk, ETH Zurich, KTH, Aalto, Uppsala, Helsinki y Jobbnorge, con filtrado de disciplina y destino europeo. En Jobbnorge se contrasta el listado público con los PDF oficiales para comprobar proyectos, requisitos y condiciones.
 - Programas académicos y de financiación comprobados en las páginas de sus instituciones. Un máster necesita evidencia de tesis o componente de investigación.
+- Las fichas detalladas enlazan los documentos de admisión, financiación y plan académico, incluidos PDF oficiales. Las nuevas incorporaciones verifican también frases que sustentan sus condiciones: si cambian, conservan la última ficha y la marcan para revisión.
 - Fuente, última comprobación, plazo, requisitos, tipo de contrato, duración y financiación cuando están publicados. Los campos desconocidos se mantienen como desconocidos.
 - Una instantánea pública en `data/catalogue.json` y una base PostgreSQL en Neon. La web utiliza Neon y conserva una copia de respaldo si la consulta falla.
 
@@ -69,6 +70,10 @@ Las líneas interdisciplinares se incluyen cuando la descripción documenta inve
 Las fechas con horas discordantes se conservan con precisión de día y una nota para consultar la convocatoria. Un contrato doctoral inicial de un año renovable no se presenta como cuatro años garantizados. Las observaciones de ejecuciones sucesivas conservan su identificador de origen.
 
 Los PDF se descargan con la misma política de acceso que las páginas. Se validan formato, identidad y fecha; la lectura tiene límites de tamaño, páginas y tiempo. Una descarga fallida no reemplaza requisitos o financiación ya comprobados ni convierte un fallo del exportador en un cierre de la plaza. Los intervalos salariales se conservan como intervalos y no se reducen a su extremo inferior. Se distingue la duración del empleo de los años exigidos de formación.
+
+Los programas pueden aportar varias páginas y documentos mediante `evidencePages`, y controles de condiciones mediante `evidenceChecks`. Se guarda la huella y fecha de cada documento; la fecha de verificación de la ficha es la más antigua de sus fuentes necesarias. Los controles de frases detectan cambios, pero no sustituyen la revisión editorial de todos los requisitos. Las fichas anteriores aún no cuentan todas con estos controles. Las respuestas HTTP se limitan a 10 MB durante la descarga, también cuando el servidor comunica un tamaño incorrecto.
+
+Para revisar solo programas sin reutilizar el identificador de una ejecución anterior: `npm run harvest:programmes -- --standalone`. Este modo crea una ejecución trazable independiente; la actualización semanal incorpora la revisión al barrido completo.
 
 El comportamiento y las limitaciones de los nuevos conectores se documentan en [docs/source-adapters.md](docs/source-adapters.md).
 
