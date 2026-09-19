@@ -32,6 +32,8 @@ test('Spanish and Portuguese programme evidence is recognised without claiming r
  assert.ok(fieldsFrom('Mestrado em Inteligência Artificial').includes('Machine learning'));
  assert.ok(hasResearchComponent('Dissertação de natureza científica'));
  assert.equal(hasResearchComponent('Mestrado em Ciência de Dados'),false);
+ assert.equal(hasResearchComponent('Hypothesis testing and speech synthesis are taught in this course.'),false);
+ assert.ok(hasResearchComponent('Examples of master theses'));
  assert.ok(hasResearchComponent("Travail de fin d'études 36"));assert.ok(hasResearchComponent('Treball final de màster 20'));
  assert.ok(hasResearchComponent('Stage en entreprise ou laboratoire de recherche 16 ECTS'));assert.ok(hasResearchComponent('Master’s Degree Final Project 30 ECTS'));
  assert.ok(hasResearchComponent('stage au deuxième semestre de M2 et pourra être réalisé dans un laboratoire de recherche'));

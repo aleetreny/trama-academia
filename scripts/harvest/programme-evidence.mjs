@@ -13,5 +13,5 @@ export function programmeText(html){
  return clean(($('main').length?$('main'):$('body')).text());
 }
 export function hasResearchComponent(text){
- return /thesis|dissertation|disserta[çc][aã]o|tesi (?:di laurea|magistrale)|research project|research.oriented|research skills|master[’']?s?\s+(?:degree\s+)?(?:final\s+)?project|mémoire|stage de recherche|stage[^.!?;]{0,90}laboratoire de recherche|travail de fin d[’']études|masterarbeit|trabajo\s+(?:de\s+)?fin\s+(?:de\s+)?m[aá]ster|treball final de m[aà]ster|projet\s+(?:de\s+)?recherche/i.test(text);
+ return /\bthes(?:is|es)\b|dissertation|disserta[çc][aã]o|tesi (?:di laurea|magistrale)|research project|research.oriented|research skills|master[’']?s?\s+(?:degree\s+)?(?:final\s+)?project|mémoire|stage de recherche|stage[^.!?;]{0,90}laboratoire de recherche|travail de fin d[’']études|masterarbeit|trabajo\s+(?:de\s+)?fin\s+(?:de\s+)?m[aá]ster|treball final de m[aà]ster|projet\s+(?:de\s+)?recherche/i.test(text);
 }
