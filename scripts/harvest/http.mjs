@@ -33,7 +33,7 @@ async function allowedFetch(url,headers){
  }
  throw new Error('redirect_limit');
 }
-export async function getPage(url,{refresh=false}={}){
+export async function getPage(url,{refresh=false,format='text'}={}){
  const u=new URL(url);if(u.protocol!=='https:')throw new Error('https_required');
  return serial(u.origin,async()=>{
   const checkedAt=new Date().toISOString();let httpStatus=null;
@@ -41,8 +41,9 @@ export async function getPage(url,{refresh=false}={}){
    await fs.mkdir(cacheDir,{recursive:true});const file=path.join(cacheDir,hash(url)+'.json');let cached;
    try{cached=JSON.parse(await fs.readFile(file,'utf8'));}catch{}
    // A cached body is not a new network check: retain its original timestamp.
+   if(cached&&(cached.format||'text')!==format)cached=null;
    if(!refresh&&cached&&Date.now()-Date.parse(cached.checkedAt)<6*3600000)return {...cached,cached:true};
-   const headers={'User-Agent':AGENT,Accept:'text/html,application/xhtml+xml,application/xml,text/xml;q=0.9,*/*;q=0.5'};
+   const headers={'User-Agent':AGENT,Accept:format==='pdf'?'application/pdf':'text/html,application/xhtml+xml,application/xml,text/xml;q=0.9,*/*;q=0.5'};
    if(cached?.etag)headers['If-None-Match']=cached.etag;
    if(cached?.lastModified)headers['If-Modified-Since']=cached.lastModified;
    let response,finalUrl;
@@ -55,11 +56,13 @@ export async function getPage(url,{refresh=false}={}){
    }
    if(httpStatus===304&&cached){const value={...cached,checkedAt,status:304};await fs.writeFile(file,JSON.stringify(value));observations.push({url,checkedAt,httpStatus,hash:value.hash,outcome:'not_modified'});return value;}
    if(!response?.ok)throw new Error('http_'+httpStatus);
-   const body=await response.text();if(body.length>5_000_000)throw new Error('response_too_large');
+   const bytes=Buffer.from(await response.arrayBuffer());if(bytes.length>(format==='pdf'?10_000_000:5_000_000))throw new Error('response_too_large');
+   if(format==='pdf'&&bytes.subarray(0,5).toString()!=='%PDF-')throw new Error('invalid_pdf_response');
+   const body=format==='pdf'?bytes.toString('base64'):bytes.toString('utf8');
    const isJson=/application\/(?:[\w.+-]*\+)?json/i.test(response.headers.get('content-type')||'');
-   if((body.length<100&&!isJson)||/Just a moment\.\.\.|cf-chl-|verify you are human|Access Denied/i.test(body.slice(0,12000)))throw new Error('challenge_or_empty');
-   if(isJson){try{JSON.parse(body);}catch{throw new Error('invalid_json');}}
-   const result={url,finalUrl,body,checkedAt,status:httpStatus,hash:hash(body),etag:response.headers.get('etag'),lastModified:response.headers.get('last-modified')};
+   if(format!=='pdf'&&((body.length<100&&!isJson)||/Just a moment\.\.\.|cf-chl-|verify you are human|Access Denied/i.test(body.slice(0,12000))))throw new Error('challenge_or_empty');
+   if(isJson&&format!=='pdf'){try{JSON.parse(body);}catch{throw new Error('invalid_json');}}
+   const result={url,finalUrl,body,format,checkedAt,status:httpStatus,hash:hash(bytes),etag:response.headers.get('etag'),lastModified:response.headers.get('last-modified')};
    await fs.writeFile(file,JSON.stringify(result));observations.push({url,checkedAt,httpStatus,hash:result.hash,outcome:'ok'});return result;
   }catch(error){observations.push({url,checkedAt,httpStatus,hash:null,outcome:error.message});throw error;}
  });

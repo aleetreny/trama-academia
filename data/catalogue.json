@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:26:09.190Z",
+  "generatedAt": "2026-09-19T20:08:46.858Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -16816,30 +16816,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307713",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:48:47.090Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-11",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "PhD research fellow position (3 years)",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "The Research Fellow position is compensated according to position code 1017 Research Fellow.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): a master's degree in computer science or in a closely related field. Movilidad MSCA: máximo 12 meses de residencia o actividad principal en Noruega durante los 36 meses anteriores a la contratación.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307713"
+        "contentHash": "7147096d2ba56cb7d73ac0bab77e6ffd700f46b4843ef309c3825ca49cc3af71",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307713",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307713",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -16855,30 +16864,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307990",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:56:14.908Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-11",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,- per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Masters' degree in mathematics, physics, neuroscience or computer science. El máster debe estar terminado antes de incorporarse. La plaza está condicionada a financiación externa.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307990"
+        "contentHash": "90ddf022140eee55206721c856d46e2c3dd81778b5d46bf7ec12fc120129a14b",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307990",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307990",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -16894,30 +16912,40 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308321",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:56:29.913Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-07",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
-        "Informática"
+        "Informática",
+        "Matemáticas aplicadas"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 4 years, including 3 years of doctoral work and 1 year of career promoting work as assigned by the department.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission according to Section 6-1 of the PhD regulations.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308321"
+        "contentHash": "5cbc5ec0d425cb42f7a624c60500173969ff351b34a9952235435e7fcc741dc9",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308321",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308321",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -16933,30 +16961,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308416",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:56:31.143Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-08",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years for the doctoral work in addition to 1 year of career promotion work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the Doctoral Programme in Computer Science, see Section 6-1 of the PhD regulations for more information. El máster debe estar terminado antes de incorporarse.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308416"
+        "contentHash": "3b5685ad112aa42a0b1c92aee2f027483f95c2aedf87dc2cc6c2c96c0e6a513d",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308416",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308416",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -16972,30 +17009,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308001",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:56:33.793Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-11",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Matemáticas aplicadas"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "fellowship is for a fixed term of three years with pure organised research training.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Salary in accordance with the Norwegian State salary scale for PhD research fellows (position code 1017) NOK 550,800.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Master’s degree (120 ECTS credits) (or equivalent qualifications) within the field of STEM (e.g. electrical power engineering, control system engineering, Physics or environmental engineering, Mathematics (Operations research) or Computer Science or Machine Learning).",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308001"
+        "contentHash": "3986266e95bc19ea4e149afd1228b8b8bfdca17c2e1c78469c6405900bf3b9fe",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308001",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308001",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17011,30 +17057,37 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308320",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:56:42.023Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-30",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
+      "duration": "The total employment period is 4 years, 3 of which is for the doctoral work, and 1 for the career promoting work.",
       "languages": [],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty´s doctoral program, see Section 6-1 of the PhD regulations for more information.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308320"
+        "contentHash": "200dea3e655308f0be62ce3f3094ec7193494454fc8f55f2fff54c575948a003",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308320",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308320",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17050,30 +17103,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308322",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:56:42.808Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-08",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 4 years for the doctoral work in addition to 1 year of career promotion work. (A minimum of three work years of the total term period must be dedicated to doctoral work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty's Doctoral Programme, see Section 6-1 of the PhD regulations for more information.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308322"
+        "contentHash": "3a75b5ed1927cea206782a8116b7c9dcf98db69156911393b4fab758359fcb7b",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308322",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308322",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17089,30 +17151,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308151",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:56:51.754Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-04",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 4 years with 25% teaching duties for the right candidate.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty's PhD program in Computer Science, see Section 6-1 of the PhD regulations for more information.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308151"
+        "contentHash": "9c225b3158f826979cf8e57930e7d75c1397e074b735e377d084abf8c2c1e06a",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308151",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308151",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17128,30 +17199,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308144",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:00.725Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-31",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years for the doctoral work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in computer science, artificial intelligence, data science, engineering cybernetics, applied mathematics, electrical engineering, or equivalent. El máster debe estar terminado antes de incorporarse.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308144"
+        "contentHash": "0a93a7d6ca2ae21fccba226c53712e90454aadb7128d34a873de1657b71f80d1",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308144",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308144",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17167,30 +17247,41 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307994",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:07.420Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-09",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
-        "Machine learning"
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Engagement",
       "hours": "Fulltime",
       "duration": null,
-      "languages": [],
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Salary in position as PhD Research Fellow, position code 1017 in salary range NOK from 550 800 - 595 000, depending on competence and experience.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Master’s degree or equivalent in informatics/computer science, mathematics, statistics, or a closely related field.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307994"
+        "contentHash": "c49d3f6039043e066de73f4652126e0ab1b95f69d8f32886f1d579676f473ced",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307994",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307994",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17206,31 +17297,42 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308211",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:08.430Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-16",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning",
-        "Estadística"
+        "Estadística",
+        "Ciencia de datos",
+        "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The fellowship period is three years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Salary in position as PhD Research Fellow, position code 1017 in salary range NOK 550 800 - 595 000, depending on competence and experience.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Master’s degree or equivalent in computer science, statistics, data science, mathematics, or related field Foreign completed degree (M.Sc.-level) corresponding to a minimum of four years in the Norwegian educational system Fluent oral and written communication skills in English.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "308211"
+        "contentHash": "8e0bd6ba9d0cb559f2068b8110b6af0bede174c6639c2172a37c9ea6fdb820fc",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308211",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308211",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17246,30 +17348,37 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307512",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:28.527Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-07",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Matemáticas aplicadas"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
+      "duration": "The position is announced for a period of 4 years with 25% of the 4-year period will be designated to duties such as teaching, development and administrative tasks.",
       "languages": [],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "The Research Fellow position is compensated according to position code 1017 Research Fellow.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): •Admission to the PhD programme requires that the applicant holds a master’s degree in computer science or a closely related field, such as a master’s degree in informatics, software engineering, communication systems, engineering computing, scientific computing, or computational engineering.…",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307512"
+        "contentHash": "59e9825d3a9e68ea8869bcc3585ad1ef2e794f85227c11af9ff8b5137fcb0b23",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307512",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307512",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17285,30 +17394,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307873",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:40.076Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-23",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The period of employment is 4 years including career promotion work / teaching duties.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "From the salary, 2% is deducted as a contribution to the Norwegian Public Service Pension Fund.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have completed a doctoral degree in Computer Science Good programming skills Documented experience in unconventional computing systems (e.g., publications) Documented experience with nanoscale metamaterial computational substrates (e.g., publications and/or experimental experience)…",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307873"
+        "contentHash": "96930adcdb69fae30aa2b51f98653cb388991d8ec557b060f450239253edeeb7",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307873",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307873",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17324,30 +17442,40 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307886",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:41.245Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-23",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
+        "Machine learning",
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is four years, with 25% of the time devoted to career enhancing work assigned by the unit or the department.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty's Doctoral Programme, see Section 6-1 of the PhD regulations for more information.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307886"
+        "contentHash": "5a50aa022b74a45fb907838d9df8dcf24d2bb656c1b633dc111c51ba0386f4b8",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307886",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307886",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17363,30 +17491,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307898",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:42.366Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-05",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The period of employment is 3 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "From the salary, 2% is deducted as a contribution to the Norwegian Public Service Pension Fund.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have completed a PhD in engineering or computer science, or an equivalent foreign doctoral degree recognised as comparable to a Norwegian PhD.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307898"
+        "contentHash": "4c1d2f8c1b10becebaf67d862d0d16cde9fad757c0b733991c46548fe6e2671e",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307898",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307898",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17402,30 +17539,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307924",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:44.572Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-12",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The position is for a fixed term of 3 years and is associated with a recently granted Horizon Europe project where the University of Bergen is a partner.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "This currently amounts to an annual salary of NOK 685 900 before taxes.",
+        "amount": 685900,
+        "currency": "NOK",
+        "period": "year",
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a degree equivalent to a Norwegian doctoral degree (PhD) within Marine engineering, applied mechanics, physics, computer science or similar fields; or must have submitted his/her doctoral thesis for assessment prior to the application deadline.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307924"
+        "contentHash": "5d55300bc3b63d574df33dadf1ffc4e7f01bb3b2fe61aa9783a0dbea937a2ee6",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307924",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307924",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17441,31 +17587,41 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307053",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:48:41.967Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-04",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning",
-        "Estadística"
+        "Estadística",
+        "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "three-year PhD Research Fellowship",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Salary in position as PhD Research Fellow, position code 1017 in salary range NOK 550 800 - 595 000, depending on competence and experience.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Master’s degree or equivalent in statistics, machine learning, mathematics, computer science, physics, or a closely related quantitative discipline. Posible ampliación de hasta 12 meses para tareas docentes; sujeta a las condiciones del anuncio.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307053"
+        "contentHash": "ec1692a01c194035205c571f0b3ac73d67742192f2ea90effc5492bdc007b9e1",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307053",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307053",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17481,30 +17637,40 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307690",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:57:58.861Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-02",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
+        "Ciencia de datos",
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years for the doctoral work, or 4 years including 1 year of career promotion work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the IE faculty's Doctoral Programme (https://www.ntnu.edu/ie/research/phd/), see Section 6-1 of the PhD regulations for more information. El máster debe estar terminado antes de incorporarse.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307690"
+        "contentHash": "e82087b03fdb29ccfcfd05c55d3eae65094bbb2351e8c55465908f666ac11858",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307690",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307690",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17520,30 +17686,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307712",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:58:00.130Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-21",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
-        "Informática"
+        "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is three years, with the full period dedicated to doctoral work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the IE faculty's Doctoral Programme, see Section 6-1 of the PhD regulations for more information.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307712"
+        "contentHash": "09a3829b0adab3a5955307cb200dc4fbf4dcb5a66dd3184e43286d21e8a8d2a4",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307712",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307712",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17559,30 +17734,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307723",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:48:44.712Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-20",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,-per annum.",
+        "amount": 550800,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in materials science, solid-state chemistry, condensed matter physics, or a closely related discipline. El máster debe estar terminado antes de incorporarse. La plaza está condicionada a financiación externa.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307723"
+        "contentHash": "6acdaab3565458b27a9bb1b99417006c04d63a5ac6d3fbecd61abf9c14ce2061",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307723",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307723",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17598,30 +17782,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307728",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:58:13.354Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-15",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The position is for a fixed-term period of 4 years, of which 25% will be dedicated to teaching, supervision and administrative tasks at the Department.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Salary as PhD (code 1017) NOK 593 700, - per year.",
+        "amount": 593700,
+        "currency": "NOK",
+        "period": "year",
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): The applicant must hold a master's degree in information science, computer science, cognitive science, logic, artificial intelligence, or equivalent.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307728"
+        "contentHash": "18e3828554a5ef8bc14256b4d1f86def022fe4631abc0263b8a18bd91b54d40f",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307728",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307728",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17637,30 +17830,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307118",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:58:20.094Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-27",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Fixed Term",
       "hours": "Fulltime",
       "duration": null,
-      "languages": [],
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Position is paid and placed in position code 1352 Postdoctor in the Government Salary Scale Membership in the Norwegian Public Service Pension, with among other things, good pension and insurance schemes.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have a PhD with a strong experimental background in embryology and/or relevant topics, along with a thorough understanding of the relevant biology.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307118"
+        "contentHash": "f63f07a16a7b6f7d3c1bd4a461eabefb9e6e699f928a7fb5a27b03ae46b7071f",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307118",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307118",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17676,30 +17878,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307594",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:58:27.597Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-01",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,-per annum depending on qualifications and seniority.",
+        "amount": 550800,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in Industrial Engineering, Logistics Engineering, Production Management, Supply Chain Management, Mechanical Engineering, Project management or equivalent. El máster debe estar terminado antes de incorporarse. La plaza está condicionada a financiación externa.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307594"
+        "contentHash": "d7620db2ed617fb23b3da12a8800d5adba1d02fbdfa99d186e8709e34a247b2a",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307594",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307594",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17715,30 +17926,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307240",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:58:45.352Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-01",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years for the doctoral work in addition to 4 month year of career promotion and duty work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,-per annum depending on qualifications and seniority.",
+        "amount": 550800,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in Electrical Engineering, Computer Science, Applied Mathematics, or other relevant disciplines. El máster debe estar terminado antes de incorporarse. La plaza está condicionada a financiación externa.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307240"
+        "contentHash": "16bc9b26f15380543c6893a87c00ede671662831b818b14a02742abe9d5c2dec",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307240",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307240",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17754,30 +17974,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307151",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:58:47.191Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-25",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Temporary",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The employment period is 3 years for the doctoral work in addition to 4 months/year of teaching assistance.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,- per annum depending on qualifications and seniority.",
+        "amount": 550800,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): You must have a relevant master’s degree in marine technology, civil engineering, mechanical engineering, applied mathematics or equivalent.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "307151"
+        "contentHash": "61b0d49cff5a3b3b43039067085b5cd9c1a2281621399c8d019f09d471e75ca9",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307151",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307151",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17793,31 +18022,40 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/306698",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:59:01.416Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-28",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Ciencia de datos",
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The position is for a fixed-term period of 3 years and will cover an important part of the activities at the Bergen Offshore Wind Centre (BOW) targeting at bridging fundamental and applied research within…",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "This constitutes a gross annual salary of NOK 593 700.",
+        "amount": 593700,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a master's degree or equivalent education in engineering, informatics, mathematics or physics, or have submitted his/her master’s thesis prior to the application deadline.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "306698"
+        "contentHash": "826c987db83e0a98b05955a34d92c22847c9afb708b7f7da0d5e3640d5dc8ff8",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/306698",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "306698",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17833,30 +18071,40 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/303020",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:59:02.282Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-23",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Permanent",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "Contrato permanente",
+      "languages": [
+        "Inglés; consultar nivel y acreditación",
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Stillingene lønnes etter Statens regulativ, kode 1013 for professor og kode 1011 for førsteamanuensis.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Professor: For ansettelse i stilling som professor kreves doktorgrad innen relevant fagområde, eller kompetanse på tilsvarende nivå dokumentert enten ved vitenskapelig arbeid eller kunstnerisk arbeid av samme omfang og kvalitet, Utdanningsfaglig kompetanse.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "303020"
+        "contentHash": "eb7baddbbe8acab903c97184c4e31b086d17b1b36f507ebca6be480416a54485",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/303020",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "303020",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17872,30 +18120,39 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/306394",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:59:09.275Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-30",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Machine learning"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Máster o formación equivalente",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The position is for a fixed-term period of three years, with the possibility for a fourth year with career-promoting work (e.g. teaching at the Department), under the project DYNAMIC-AI: Dynamics of…",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "This constitutes a gross annual salary of NOK 593 700.",
+        "amount": 593700,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): The applicant must hold a master's degree or equivalent in computer science, atmospheric sciences, meteorology, hydrology, or a related field, or must have submitted their master's thesis for assessment prior to the application deadline.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "306394"
+        "contentHash": "1f74693f321569feac3ae80500f98cf6b186b43146efd01c89fe5facda6c67b3",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/306394",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "306394",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17911,30 +18168,41 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/305567",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:59:19.065Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-10-01",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
-        "Machine learning"
+        "Machine learning",
+        "Informática",
+        "Matemáticas aplicadas"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Engagement",
       "hours": "Fulltime",
       "duration": null,
-      "languages": [],
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Salary in position as Postdoctoral Fellow, position code 1352 in salary range NOK 595 000 - 690 000, depending on competence and experience.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): A degree equivalent to a Norwegian doctoral degree in physics, applied mathematics, computer science, or a closely related area.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "305567"
+        "contentHash": "87c3e73b44b1740ab15065dba4e1cd8484755fd587bcbe32b83c77c18c6d366f",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/305567",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "305567",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17950,30 +18218,40 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/305171",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:59:24.508Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-20",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Ciencia de datos"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Permanent",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "Contrato permanente",
+      "languages": [
+        "Inglés; consultar nivel y acreditación",
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "Salary in position as Associate Professor (position code 1011) in salary range NOK from 750 000 - to 950 000, depending on competence and experience.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): Required qualifications that must be documented in the application:: The successful applicant must have completed a PhD in pharmacoepidemiology, epidemiology, health data science, biostatistics or closely related discipline.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "305171"
+        "contentHash": "9918a43c165fb3ad232546861b8e0ea6280a692c9c244cca4eba9b6cb71646e8",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/305171",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "305171",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -17989,30 +18267,40 @@
       "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/304450",
       "sourceId": "jobbnorge",
       "sourceName": "Jobbnorge",
-      "verifiedAt": "2026-09-19T19:10:01.615Z",
+      "verifiedAt": "2026-09-19T19:59:28.927Z",
       "seenAt": "2026-09-19T19:10:01.615Z",
       "status": "open",
       "deadline": "2026-09-20",
       "deadlinePrecision": "day",
-      "deadlineNote": "El portal publica la fecha. Confirma la hora y los requisitos en el anuncio completo.",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
       "fields": [
         "Informática"
       ],
-      "entry": "Consultar requisitos",
+      "entry": "Doctorado",
       "contract": "Fixed Term",
       "hours": "Fulltime",
-      "duration": null,
-      "languages": [],
+      "duration": "The position is for a period of up to 3 years and associated with the strategically funded TERSE project.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación",
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
       "funding": {
-        "kind": "unconfirmed",
-        "text": "Importe y condiciones pendientes de verificar en el anuncio completo"
+        "kind": "salary",
+        "text": "The position as postdoctoral researche is paid according to the Government's salary regulation, in position code 1352.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
       },
-      "eligibilityNote": "Verificados: título, institución, ubicación, dedicación y plazo publicados por Jobbnorge. El texto completo de requisitos y financiación requiere comprobación en la convocatoria.",
+      "eligibilityNote": "Acceso (extracto): The successful applicant must have earned a PhD degree in informatics/computer science/software engineering or have submitted the PhD thesis before the application deadline.",
       "evidence": {
-        "contentHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
-        "checkedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
-        "method": "official-vacancy-feed",
-        "sourceRecordId": "304450"
+        "contentHash": "0997732a3c9966fa1cb823f5ca1f5c24498ce58cec61b7b14b3a5066b25a0a60",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/304450",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "304450",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
       },
       "lastError": null
     },
@@ -18341,6 +18629,1119 @@
         "researchUrl": "https://www.kth.se/en/studies/master/computer-science/courses-computer-science-1.502267"
       },
       "lastError": null
+    },
+    {
+      "id": "bf0ee4ccfac62427d3f8",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Robotics and Intelligent Mechatronic Systems for Automated In Vitro Platforms",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308534",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308534",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:56:15.728Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "3abe4d3b1f1647c57cab3470b3a18d7b6a90af1081603477998e5408cc169b06",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308534",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308534",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty's Doctoral Programme, see Section 6-1 of the PhD regulations for more information You must have a relevant Master's degree in Mechanical Engineering, Mechatronics, Robotics, Engineering Cybernetics, Product Development, Industrial Design… La plaza está condicionada a financiación externa.",
+      "lastError": null
+    },
+    {
+      "id": "7a22a96daee2ed162fb7",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in AI-assisted medical imaging with MRI",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308332",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308332",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:48:48.258Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-18",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years for the doctoral work, with the possibility of an extension related to teaching duties upon agreement with the Department.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,- per annum.",
+        "amount": 550800,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "7b6790284f0a772dbde904fdd486d8fab971f3a8e99e4db031d8a4b221b0fb12",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308332",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308332",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in physics, mathematics, biomedical engineering, computer science or equivalent. El máster debe estar terminado antes de incorporarse.",
+      "lastError": null
+    },
+    {
+      "id": "79a7482fe0e4bc8ffc8b",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Advancing Corrosion Science Through AI and High-Throughput Experimentation",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308383",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308383",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:56:43.924Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-14",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "64866c9da4709ccc225cec14549b4891d8c9a1462bc22c23c16a0bc9e6edb745",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308383",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308383",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty's Doctoral Programme, see Section 6-1 of the PhD regulations for more information You must have a relevant Master's degree in mechanical and industrial engineering, chemical engineering, chemistry, and materials science or equivalent. El máster debe estar terminado antes de incorporarse.",
+      "lastError": null
+    },
+    {
+      "id": "7470a0b0dcec55896c44",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in Topological Data Analysis",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308312",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308312",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:56:44.980Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-14",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": "The position is for a fixed-term period of 3 years with the possibility of a 4th year with career-promoting work (e.g. teaching at the Department).",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "This currently amounts to an annual salary of NOK 593 700 before taxes.",
+        "amount": 593700,
+        "currency": "NOK",
+        "period": "year",
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "227c8e3453eaed602d0917eb96df0daec16bbbd20be81dc459415ff7ce981bdf",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308312",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308312",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a master's degree or equivalent education in mathematics.",
+      "lastError": null
+    },
+    {
+      "id": "c2b1da2be17f3dececc2",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in Learning-based Control of Autonomous Robot Manipulation",
+      "institution": "University of Agder",
+      "country": "NO",
+      "city": "Grimstad",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308334",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308334",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:56:46.926Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-28",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": "The position is for a period of three years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "The position is remunerated according to the State Salary Scale, alary plan 17.515, code 1017 PhD Research Fellow, NOK 550 800 gross salary per year.",
+        "amount": null,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "fad3dbdbc4b5707e5bf6bf71d56c93f95b34d26198d080d9b150c03693e9dadb",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308334",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308334",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a master’s degree in mechatronics, control systems, robotics, or a closely related field obtained within the last five years.",
+      "lastError": null
+    },
+    {
+      "id": "a86dbb3da4c2783b1cd8",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Cyber Risk Management in Maritime Operational Technology",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Ålesund",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308121",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308121",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:56:50.737Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 4 years for the doctoral work including 12 months of career promotion work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD research fellow, code 1017, your gross salary will normally be NOK 580 000,- per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "20e13a6b6cb79a34c3d35e81fc0181360bd7e8f80005c96ad02a507584963ca6",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308121",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308121",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): See Section 6-1 of the PhD regulations for more information.",
+      "lastError": null
+    },
+    {
+      "id": "be4ca2f160944dd19221",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "Stipendiat ved Department of Clinical Medicine",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308241",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308241",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:57:02.952Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-03",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning",
+        "Estadística"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": "The position is available for a period of four (4) years with 25% career-promoting work or a maximum of up to 4 months post-PhD completion, if the degree is achieved in less than four years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación",
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salary NOK 600 000 (code 1017) in the state salary scale.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "59c8eadc8567c323efd8dabc6e77605ed96a65e32242b0d70db5febfcd359527",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308241",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308241",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): The applicant must possess a Master`s degree or an equivalent in medicine, pharmacology/pharmacy, public health, epidemiology, statistics, biostatistics, machine learning/artificial intelligence, social economics, or a related field.",
+      "lastError": null
+    },
+    {
+      "id": "789d381358acb1d32dd9",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Multimarket Bidding Decision Support in Nordic Power Markets",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308124",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308124",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:57:11.530Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-12",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years, with the possibility of an additional 3 to 12 months of employment related to career-enhancing activities.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,-per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "9e460f5e4a5f6e77ba6a4b830f17328f073a6ccbf11a7fe7dbc4e2d9ef4ebfa2",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308124",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308124",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in either electrical power engineering, control engineering, managerial economics with strong quantitative skills, or physics or mathematics with a specialization in operations research. El máster debe estar terminado antes de incorporarse. La plaza está condicionada a financiación externa.",
+      "lastError": null
+    },
+    {
+      "id": "56ecd685f5b988424e58",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in remote sensing of the cryosphere",
+      "institution": "University of Oslo",
+      "country": "NO",
+      "city": "Oslo",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308026",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308026",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:57:26.634Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-13",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The fellowship period is three years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salary in position as PhD Research Fellow, position code 1017 in salary range NOK from 550 800 - 595 000, depending on competence and experience.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "4c2df73b78882e7a3a3ad4d0b5beedc5182a923d069cd5be47ca047be6298b4f",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308026",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308026",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Master’s degree or equivalent in in geomatics, geosciences, computer science/data science/statistics, physics, mathematics, environmental sciences, geophysics or similar.",
+      "lastError": null
+    },
+    {
+      "id": "9601482580b5778ee42f",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Research Fellow position in remote sensing and modeling of the cryosphere",
+      "institution": "University of Oslo",
+      "country": "NO",
+      "city": "Oslo",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/308033",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/308033",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:57:27.562Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-13",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The appointment is a full-time position and is for a period of three years (10% of which is devoted to other career-promoting work, usually in the form of teaching activities).",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salary in position as Postdoctoral Fellow, position code 1352 in salary range NOK 595 000 - 690 000, depending on competence and experience.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "bad03efddaeeb320a09906552e96aed14729d6f655af14ddb39b332325ff0e86",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/308033",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "308033",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a degree equivalent to a Norwegian doctoral degree in geomatics, geosciences, geophysics, environmental sciences, computer/data science or relevant topics in other fields.",
+      "lastError": null
+    },
+    {
+      "id": "6aeb0788a97ec33eb02f",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Modelling and Executing Cascading Effects within a Cyber Range",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Gjøvik",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307765",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307765",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:57:39.109Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-04",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years for the doctoral work in addition to 12 months of career promotion work, totally 4 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD research fellow, code 1017, your gross salary will normally be NOK 580 000,- per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "406ce10448debae83f6017f1b353badbc8a4d9227c98c3e6d0d4e1ef12e8734b",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307765",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307765",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty's Doctoral Programme (link), see Section 6-1 of the PhD regulations for more information.",
+      "lastError": null
+    },
+    {
+      "id": "820500b532a95b553618",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Associate professor in Media and interaction design",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307797",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307797",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:57:43.387Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-11",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Doctorado",
+      "contract": "Permanent",
+      "hours": "Fulltime",
+      "duration": "Contrato permanente",
+      "languages": [
+        "Inglés; consultar nivel y acreditación",
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "salary ranges from NOK 790 900 to 830 000 before tax, depending on qualifications and seniority.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "493ca1484ba4cc1c5615501465876a21c31d3d305e43dde159890d57ad865580",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307797",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307797",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Applicants must: Have a Norwegian PhD or equivalent in interaction design, design of intelligent user interfaces and interactive systems, human- computer interaction, information science, media technology and design, computer science, or another closely related field.",
+      "lastError": null
+    },
+    {
+      "id": "39ee0e956a6c71804c43",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Associate Professor/Professor in “Control of Power Electronic Converters and Electric Drives”",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/306473",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/306473",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:57:56.586Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-04",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Permanent",
+      "hours": "Fulltime",
+      "duration": "Contrato permanente",
+      "languages": [
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "The position as Professor is normally remunerated with gross salary from NOK 840.000 to NOK 1.274.000 a year.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "dbd7fdd6e37487be315608edea3e273b939fdef86c13aa8cff8c7e14783e0fb1",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/306473",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "306473",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Professor: You must have the following qualifications required for the position of professor: A doctoral degree in electrical engineering, with specialization in Power Electronics and Electric Drives and with a strong background in control theory.",
+      "lastError": null
+    },
+    {
+      "id": "a7979774149cf5d5ff07",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD candidate in Structure-preserving Generative Modeling",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/299879",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/299879",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:58:03.811Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Project",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years, funded by the project.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,- per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "7e3705341e04d2cc690974f47c5f512f18dff44bacc1aa4a89a5c3bd1fb90059",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/299879",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "299879",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in mathematical sciences or equivalent, in particular computational mathematics, numerical analysis and experience with AI tools. El máster debe estar terminado antes de incorporarse. La plaza está condicionada a financiación externa.",
+      "lastError": null
+    },
+    {
+      "id": "63b028800719a1cdc39d",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Advanced Physical Security of Embedded Systems",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Gjøvik",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307470",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307470",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:58:06.232Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-01",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years for the doctoral work in addition to 12 months of career promotion work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 580 000,- per annum depending on qualifications and seniority.",
+        "amount": 580000,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "b2d820d963a16f43c1ffca9e1e62af9717c6cec9515f6a50220c045e12eb13ce",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307470",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307470",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must meet the requirements for admission to the faculty's Doctoral Programme, see Section 6-1 of the PhD regulations for more information. El máster debe estar terminado antes de incorporarse.",
+      "lastError": null
+    },
+    {
+      "id": "60f3945804b06b441b63",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Research Fellow in atmospheric physics",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307573",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307573",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:58:09.555Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-12",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": "The position is for a fixed-term period of 3 years with the possibility of a 4th year with career-promoting work (e.g. teaching at the Department).",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "This constitutes a gross annual salary of NOK 593 700.",
+        "amount": 593700,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "5e31c00366b2f16895eb2b353c1ee1246aa7d4cbedf54b6a79d570d895f9a1a5",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307573",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307573",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a master's degree or equivalent education in physics, meteorology, mathematics, computer science or a related field, or must have submitted their master's thesis for assessment prior to the application deadline.",
+      "lastError": null
+    },
+    {
+      "id": "3fd6e1a73bd10db672d5",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Research Fellow in the physics of weather and climate",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307580",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307580",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:58:10.456Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-12",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": "Fixed Term",
+      "hours": "Fulltime",
+      "duration": "The position is for a fixed term of 3 years and is part of the project “Reaching AI Projections Trustworthy for Unseen Rainfall Extremes (RAPTURE)”, funded by a European Research Council (ERC) Starting Grant.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "position as postdoctoral fellow (code 1352 in the basic collective agreement) and a gross annual salary of NOK 685 900 upon appointment.",
+        "amount": 685900,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "cf15bc19456a70b84ef9376227e131ce4094afbf8cf1e7e7cd7de5ae22bcb3c8",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307580",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307580",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a PhD or equivalent doctoral degree within atmospheric physics, meteorology, climate science or machine learning.",
+      "lastError": null
+    },
+    {
+      "id": "0ec4ca8a6a79e4956f2b",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Associate Professor in Design of Safety-Critical Systems",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307476",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307476",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:58:30.296Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-12",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Doctorado",
+      "contract": "Permanent",
+      "hours": "Fulltime",
+      "duration": "Contrato permanente",
+      "languages": [
+        "Inglés; consultar nivel y acreditación",
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "As required by law, 2% of this salary will be deducted and paid into the Norwegian Public Service Pension Fund.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "273548c031fdb2f0018fe10784f8d5ef18644d9c8fa68a5eada047be484cb7fe",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307476",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307476",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must qualify for the position of associate professor in accordance with the following requirements: A doctoral degree (PhD) in design, interaction design, industrial design, or a closely related field Pedagogical competence Experience with experimental design research, user studies, interaction…",
+      "lastError": null
+    },
+    {
+      "id": "8ec70b37880803c6e0c0",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in information fusion and data assimilation for ocean space utilization",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/307402",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/307402",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:58:36.343Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-28",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years for the doctoral work.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,- per annum depending on qualifications and seniority.",
+        "amount": 550800,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "4f13f3d0c57708f322bddf9bef69d3e2781642ee484575de29e9f282b57996a9",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307402",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "307402",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Your course of study must correspond to a five-year Norwegian course, where 120 credits have been obtained at master's level. El máster debe estar terminado antes de incorporarse.",
+      "lastError": null
+    },
+    {
+      "id": "a18476ba0eadf10bd36d",
+      "kind": "position",
+      "stage": "faculty",
+      "title": "Researcher 1109 within applied mathematics and computationalscience for geological porous materials",
+      "institution": "University of Bergen",
+      "country": "NO",
+      "city": "Bergen",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/306414",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/306414",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:48:46.052Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-20",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Doctorado",
+      "contract": "Permanent",
+      "hours": "Fulltime",
+      "duration": "Contrato permanente",
+      "languages": [
+        "Inglés; consultar nivel y acreditación",
+        "Noruego o idioma escandinavo; consultar si se exige al entrar o durante el contrato"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Position as researcher (code 1109 in the basic collective agreement) and a gross annual salary of NOK 685 900 - 725 000,- upon appointment.",
+        "amount": null,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "9b460f4e419c2f78baa8533aa35d82376d29b4c88e07b7308309ace405f862d9",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/306414",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "306414",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Applicants must hold a degree equivalent to a Norwegian doctoral degree (PhD) within computational and applied mathematics, or have a PhD in a closely related field (e.g. computational physics, civil and environmental engineering, computer science), and demonstrate equivalent competence within… La convocatoria prevé el posible fin del empleo si cesa su financiación externa.",
+      "lastError": null
+    },
+    {
+      "id": "9cbd2827608b9dfae528",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD scholarship within Bioprocess Engineering",
+      "institution": "Norwegian University of Life Sciences (NMBU)",
+      "country": "NO",
+      "city": "Ås",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/306464",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/306464",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:59:11.803Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "position is for a period of 3 years, with a desired start date of 1st of October 2026.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "Salary in position as PhD Research Fellow, position code 1017, 550 800 NOK.",
+        "amount": null,
+        "currency": "NOK",
+        "period": null,
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "05148617b1b69042c6db0a299c8d1fdec09250bbce1778703ef06df0afe4ac68",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/306464",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "306464",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): A Master's degree or equivalent in Bioprocess Engineering, Biochemical Engineering, Chemical Engineering, Systems/Control Engineering, Applied Biotechnology or a related field.",
+      "lastError": null
+    },
+    {
+      "id": "7a07b02dccf5cb2e9c91",
+      "kind": "position",
+      "stage": "doctorado",
+      "title": "PhD Candidate in Human-Centered Interactive AI Agents for Maritime Simulator Training",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Ålesund",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/304735",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/304735",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:59:13.710Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-09-20",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Máster o formación equivalente",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The employment period is 3 years.",
+      "languages": [],
+      "funding": {
+        "kind": "salary",
+        "text": "In the position of PhD Candidate, code 1017, your gross salary will normally be NOK 550 800,-per annum depending on qualifications and seniority.",
+        "amount": 550800,
+        "currency": "NOK",
+        "period": "year",
+        "gross": true
+      },
+      "evidence": {
+        "contentHash": "3a5a6ef0badfa3f8a4b37c4525c63a9003f289c56a8d04f2dbed6b9e9902b49e",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/304735",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "304735",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): You must have a relevant Master's degree in computer science, automation, maritime-related engineering or equivalent. El máster debe estar terminado antes de incorporarse.",
+      "lastError": null
+    },
+    {
+      "id": "fcf62b8ebfa062d084c9",
+      "kind": "position",
+      "stage": "postdoc",
+      "title": "Postdoctoral Fellow in Business and Administration",
+      "institution": "NTNU - Norwegian University of Science and Technology",
+      "country": "NO",
+      "city": "Trondheim",
+      "url": "https://www.jobbnorge.no/ledige-stillinger/stilling/303990",
+      "applyUrl": "https://www.jobbnorge.no/ledige-stillinger/stilling/303990",
+      "sourceId": "jobbnorge",
+      "sourceName": "Jobbnorge",
+      "verifiedAt": "2026-09-19T19:59:32.336Z",
+      "seenAt": "2026-09-19T19:10:01.615Z",
+      "status": "open",
+      "deadline": "2026-10-15",
+      "deadlinePrecision": "day",
+      "deadlineNote": "El portal publica la fecha. Confirma la hora en la convocatoria original.",
+      "fields": [
+        "Machine learning"
+      ],
+      "entry": "Doctorado",
+      "contract": "Temporary",
+      "hours": "Fulltime",
+      "duration": "The period of employment is 3 years.",
+      "languages": [
+        "Inglés; consultar nivel y acreditación"
+      ],
+      "funding": {
+        "kind": "salary",
+        "text": "From the salary, 2% is deducted as a contribution to the Norwegian Public Service Pension Fund.",
+        "amount": null,
+        "currency": null,
+        "period": null,
+        "gross": false
+      },
+      "evidence": {
+        "contentHash": "29e448d1effff5af5c87fc76ca08c32068f5d1a41755930feea53160f00f01bc",
+        "checkedUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/303990",
+        "method": "official-vacancy-pdf",
+        "sourceRecordId": "303990",
+        "feedUrl": "https://publicapi.jobbnorge.no/v3/jobs?language=2",
+        "feedHash": "e20a5dbe8d08e13f80a5e9420b3ec65266ba8574a8fc3ebf939e4e539c67e6e8",
+        "feedCheckedAt": "2026-09-19T19:10:01.615Z"
+      },
+      "eligibilityNote": "Acceso (extracto): Completion of a Norwegian doctoral degree in Business Administration, Finance or Economics research, or corresponding foreign doctoral degree recognized as equivalent to a Norwegian doctoral degree is required. La plaza está condicionada a financiación externa.",
+      "researchNote": "Esta ficha recoge la vía BRIDGE AI-Lab del anuncio, que integra modelos de lenguaje a escala en investigación de economía y finanzas. La convocatoria también ofrece otras líneas; comprueba el encaje con este centro y la titulación doctoral exigida.",
+      "lastError": null
     }
   ],
   "sources": [
@@ -18439,23 +19840,22 @@
         "faculty"
       ],
       "enabled": true,
-      "note": "Verificados los metadatos del portal. Requisitos y financiación del anuncio completo pendientes de comprobación.",
-      "status": "partial",
+      "note": "Listado público y PDF oficiales de convocatorias académicas, incluidos títulos genéricos. Se contrastan identidad y fecha; los documentos inaccesibles quedan señalados.",
+      "status": "healthy",
       "report": {
         "id": "jobbnorge",
-        "pages": 1,
+        "pages": 224,
         "totalListings": 1201,
         "discovered": 1201,
-        "accepted": 31,
-        "excluded": 1170,
-        "complete": false,
-        "errors": [
-          {
-            "error": "full_description_not_verified"
-          }
-        ],
-        "checkedAt": "2026-09-19T19:10:01.615Z",
-        "note": "Public feed fully traversed. Full-text endpoints unavailable; generic titles and detailed eligibility still need verification. Norwegian workplaces required."
+        "candidates": 223,
+        "fullTextVerified": 223,
+        "accepted": 54,
+        "excluded": 1147,
+        "complete": true,
+        "errors": [],
+        "checkedAt": "2026-09-19T20:08:46.858Z",
+        "note": "Public feed fully traversed; academic candidates inspected through official PDF exports, including generic titles. Identity, deadline and Norwegian workplaces checked. Technical or unrecognized documents remain explicit failures.",
+        "editorialExclusions": 1
       }
     },
     {
@@ -19631,28 +21031,26 @@
     }
   ],
   "run": {
-    "id": "e90e2610-b409-4eca-a9e8-a765c3c65780",
-    "startedAt": "2026-09-19T19:26:09.180Z",
-    "finishedAt": "2026-09-19T19:26:09.190Z",
-    "status": "partial",
+    "id": "b4e7bb5d-fe85-46c3-96dd-ac7a8dd8c4f2",
+    "startedAt": "2026-09-19T20:08:29.750Z",
+    "finishedAt": "2026-09-19T20:08:46.858Z",
+    "status": "success",
     "sources": [
       {
         "id": "jobbnorge",
-        "pages": 1,
+        "pages": 224,
         "totalListings": 1201,
         "discovered": 1201,
-        "accepted": 31,
-        "excluded": 1170,
-        "complete": false,
-        "errors": [
-          {
-            "error": "full_description_not_verified"
-          }
-        ],
-        "checkedAt": "2026-09-19T19:10:01.615Z",
-        "note": "Public feed fully traversed. Full-text endpoints unavailable; generic titles and detailed eligibility still need verification. Norwegian workplaces required."
+        "candidates": 223,
+        "fullTextVerified": 223,
+        "accepted": 54,
+        "excluded": 1147,
+        "complete": true,
+        "errors": [],
+        "checkedAt": "2026-09-19T20:08:46.858Z",
+        "note": "Public feed fully traversed; academic candidates inspected through official PDF exports, including generic titles. Identity, deadline and Norwegian workplaces checked. Technical or unrecognized documents remain explicit failures.",
+        "editorialExclusions": 1
       }
     ]
-  },
-  "programmesCheckedAt": "2026-09-19T19:32:45.839Z"
+  }
 }

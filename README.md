@@ -8,7 +8,7 @@ TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, invest
 
 ## Qué contiene
 
-- Vacantes de EURAXESS, Inria, AcademicTransfer, jobs.ac.uk, ETH Zurich, KTH, Aalto, Uppsala y Helsinki, con filtrado de disciplina y destino europeo. Jobbnorge aporta metadatos públicos de vacantes noruegas; sus requisitos y financiación detallados se señalan como pendientes.
+- Vacantes de EURAXESS, Inria, AcademicTransfer, jobs.ac.uk, ETH Zurich, KTH, Aalto, Uppsala, Helsinki y Jobbnorge, con filtrado de disciplina y destino europeo. En Jobbnorge se contrasta el listado público con los PDF oficiales para comprobar proyectos, requisitos y condiciones.
 - Programas académicos y de financiación comprobados en las páginas de sus instituciones. Un máster necesita evidencia de tesis o componente de investigación.
 - Fuente, última comprobación, plazo, requisitos, tipo de contrato, duración y financiación cuando están publicados. Los campos desconocidos se mantienen como desconocidos.
 - Una instantánea pública en `data/catalogue.json` y una base PostgreSQL en Neon. La web utiliza Neon y conserva una copia de respaldo si la consulta falla.
@@ -18,6 +18,16 @@ TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, invest
 ## Desarrollo
 
 Node 22.13 o posterior. Instalar con `npm ci`, ejecutar `npm run dev` y abrir la dirección local impresa. La aplicación usa React, Vinext, componentes shadcn, CSS propio y un Worker de Sites.
+
+El recolector de PDF necesita además Python 3.10 o posterior y `pypdf`. La web no usa Python. Para rastrear en local:
+
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r scripts/harvest/requirements.txt
+TRAMA_PYTHON=.venv/bin/python npm run harvest
+```
+
+GitHub Actions prepara Python 3.12 y la misma versión fijada de `pypdf`. `TRAMA_PYTHON` permite seleccionar un entorno existente sin modificar la instalación global.
 
 ```sh
 npm test
@@ -57,6 +67,8 @@ Una plaza con varias vacantes cuenta como un anuncio. La deduplicación actual u
 Las líneas interdisciplinares se incluyen cuando la descripción documenta investigación en métodos del ámbito indicado. Una mención incidental de software, una base de datos o conocimientos estadísticos auxiliares no basta. La clasificación se basa en reglas auditables y puede necesitar revisión; no sustituye la lectura de la convocatoria. Los conectores nórdicos recorren también los anuncios con títulos genéricos y comprueban el contenido antes de clasificarlos.
 
 Las fechas con horas discordantes se conservan con precisión de día y una nota para consultar la convocatoria. Un contrato doctoral inicial de un año renovable no se presenta como cuatro años garantizados. Las observaciones de ejecuciones sucesivas conservan su identificador de origen.
+
+Los PDF se descargan con la misma política de acceso que las páginas. Se validan formato, identidad y fecha; la lectura tiene límites de tamaño, páginas y tiempo. Una descarga fallida no reemplaza requisitos o financiación ya comprobados ni convierte un fallo del exportador en un cierre de la plaza. Los intervalos salariales se conservan como intervalos y no se reducen a su extremo inferior. Se distingue la duración del empleo de los años exigidos de formación.
 
 El comportamiento y las limitaciones de los nuevos conectores se documentan en [docs/source-adapters.md](docs/source-adapters.md).
 

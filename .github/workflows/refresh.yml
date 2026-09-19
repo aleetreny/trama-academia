@@ -19,6 +19,13 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci --no-audit --no-fund
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/harvest/requirements.txt
+      - name: Preparar lectura de convocatorias PDF
+        run: python -m pip install -r scripts/harvest/requirements.txt
       - name: Comprobar las reglas de extracción
         run: npm test
       - name: Descubrir y comprobar vacantes
