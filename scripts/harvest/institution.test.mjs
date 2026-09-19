@@ -29,11 +29,15 @@ test('citation uncertainty and coverage protect against flattering tiny or incom
 });
 test('Spanish and Portuguese programme evidence is recognised without claiming research from the degree alone',()=>{
  assert.deepEqual(fieldsFrom('Máster en Ciencia de Datos'),['Ciencia de datos']);
+ assert.deepEqual(fieldsFrom('3D reconstruction of an object or a scene from multiple images'),['Informática']);
  assert.ok(fieldsFrom('Mestrado em Inteligência Artificial').includes('Machine learning'));
  assert.ok(hasResearchComponent('Dissertação de natureza científica'));
  assert.equal(hasResearchComponent('Mestrado em Ciência de Dados'),false);
  assert.equal(hasResearchComponent('Hypothesis testing and speech synthesis are taught in this course.'),false);
  assert.ok(hasResearchComponent('Examples of master theses'));
+ assert.ok(hasResearchComponent('Diplomovápráca'));assert.ok(hasResearchComponent('zvoliť tému diplomovej práce'));
+ assert.ok(hasResearchComponent('samostatná aj tímová projektová práca, metodológia výskumu'));
+ assert.equal(hasResearchComponent('Diploma awarded after examinations'),false);
  assert.ok(hasResearchComponent("Travail de fin d'études 36"));assert.ok(hasResearchComponent('Treball final de màster 20'));
  assert.ok(hasResearchComponent('Stage en entreprise ou laboratoire de recherche 16 ECTS'));assert.ok(hasResearchComponent('Master’s Degree Final Project 30 ECTS'));
  assert.ok(hasResearchComponent('stage au deuxième semestre de M2 et pourra être réalisé dans un laboratoire de recherche'));
@@ -51,7 +55,19 @@ test('country rotation, retry dates and institution limits bound discovery witho
  const chosen=selectDiscoveryJobs(rows,{limit:4,perInstitution:2});assert.equal(chosen.length,4);assert.deepEqual(chosen.map(x=>x.country),['DE','MT','DE','MT']);assert.equal(rows.length,10);
  rows[8].status='external-review';rows[9].nextCheckAt='2099-01-01';assert.equal(selectDiscoveryJobs(rows,{limit:4,perInstitution:2}).length,2);
 });
+test('deep links from visited institutions do not starve untouched institutions in the same country',()=>{
+ const common={country:'DE',status:'pending',attempts:0,depth:0};
+ const rows=[...Array.from({length:30},(_,i)=>({...common,id:'a'+i,institutionId:'a',priority:30})),{...common,id:'b0',institutionId:'b',priority:0},{...common,id:'c0',institutionId:'c',priority:0},{...common,id:'a-visited',institutionId:'a',priority:1,status:'read',lastAttemptAt:'2026-09-19T10:00:00Z',nextCheckAt:'2099-01-01'}];
+ assert.deepEqual(selectDiscoveryJobs(rows,{limit:3}).map(x=>x.institutionId),['b','c','a']);
+ const untouched=rows.filter(x=>x.id!=='a-visited');assert.deepEqual(selectDiscoveryJobs(untouched,{limit:3}).map(x=>x.institutionId),['a','b','c']);
+});
 test('real disclosure panels remain academic evidence while hidden templates and navigation do not',()=>{
  const html='<main><button aria-controls="plan" aria-expanded="false">Plan</button><div id="plan" hidden aria-hidden="true">Thesis 30 ECTS</div><div><button aria-expanded="false">Study</button><div class="gd-accordion-content" hidden>Research project</div></div><div hidden>Obsolete stipend</div></main><nav><button aria-controls="nav-thesis">Menu</button><div hidden id="nav-thesis">Unrelated thesis</div></nav>';
  const text=programmeText(html);assert.match(text,/Thesis 30 ECTS/);assert.match(text,/Research project/);assert.doesNotMatch(text,/Obsolete|Unrelated/);
+});
+test('completed streamed programme content replaces its fallback but unrelated hidden fragments stay excluded',()=>{
+ const html='<main><!--$?--><template id="B:0"></template><p>Old scholarship</p><!--$?--><template id="B:9"></template>Loading nested fallback<!--/$--><!--/$--></main><div hidden id="S:0"><h1>Computer Science</h1><!--$?--><template id="B:1"></template>Loading thesis<!--/$--></div><script>$RC("B:0","S:0")</script><div hidden id="S:1">Thesis 30 ECTS</div><script>$RC("B:1","S:1")</script><div hidden id="S:2">Unrelated funding</div><script>$RC("B:2","S:2")</script>';
+ const text=programmeText(html);assert.equal(text,'Computer ScienceThesis 30 ECTS');assert.doesNotMatch(text,/Old scholarship|Loading|Unrelated/);
+ const broken='<main><!--$?--><template id="B:0"></template>Loading</main><div hidden id="S:0">Unproven thesis</div><script>$RC("B:0","S:0")</script>';
+ assert.equal(programmeText(broken),'Loading');
 });

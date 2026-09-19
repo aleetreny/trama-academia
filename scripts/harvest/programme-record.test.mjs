@@ -18,6 +18,7 @@ test('a changed allowance cannot refresh the old editorial amount as verified',a
 test('programme research and discipline cannot come only from navigation or the seed title',async()=>{
  await assert.rejects(verifyProgramme({...seed,stage:'master',evidencePages:[],evidenceChecks:[]},async url=>({body:'<nav>Thesis</nav><main>'+'Computer science lectures and practical classes. '.repeat(7)+'</main>',finalUrl:url,hash:'x',checkedAt:'2026-09-19'})),/research_component_unverified/);
  await assert.rejects(verifyProgramme({...seed,evidencePages:[],evidenceChecks:[]},async url=>({body:'<main>'+'General university admissions and student services. '.repeat(7)+'</main>',finalUrl:url,hash:'x',checkedAt:'2026-09-19'})),/discipline_unverified/);
+ await assert.rejects(verifyProgramme({...seed,fields:undefined,evidencePages:[],evidenceChecks:[]},async url=>({body:'<main>'+'General university admissions and student services. '.repeat(7)+'</main>',finalUrl:url,hash:'x',checkedAt:'2026-09-19'})),/discipline_unverified/);
 });
 test('missing supporting evidence never creates a new programme from an unverified seed',async()=>{
  await assert.rejects(verifyProgramme(seed,async url=>{if(url.endsWith('/conditions'))throw new Error('http_403');return fetcher()(url);}),/http_403/);
@@ -29,4 +30,15 @@ test('a PDF used as the research reference retains its declared transport format
   if(requested===url){observed=options.format;throw new Error('pdf_transport_reached');}return fetcher()(requested);
  }),/pdf_transport_reached/);
  assert.equal(observed,'pdf');
+});
+test('an explicitly reviewed registry keeps the human programme URL and rejects a withdrawn approval',async()=>{
+ const api='https://example.edu/api/program/CS',candidate={...seed,stage:'master',primaryEvidenceUrl:api,evidencePages:[{url:api,label:'Official programme register'}],evidenceChecks:[{field:'Approval',phrases:['"id":"CS"','"status":"approved"']}]} ;
+ const requested=[],fetchRegistry=(status='approved')=>async url=>{
+  requested.push(url);if(url!==api)throw new Error('unexpected_url');
+  return {body:JSON.stringify({id:'CS',status,text:'Computer science research and a master thesis. '.repeat(8)}),finalUrl:api,hash:'registry-hash',checkedAt:'2026-09-19'};
+ };
+ const record=await verifyProgramme(candidate,fetchRegistry());
+ assert.equal(record.url,seed.url);assert.equal(record.applyUrl,seed.url);assert.equal(record.evidence.checkedUrl,api);assert.equal(record.evidence.method,'official-programme-registry');assert.equal(record.primaryEvidenceUrl,undefined);assert.deepEqual(requested,[api]);
+ await assert.rejects(verifyProgramme(candidate,fetchRegistry('withdrawn')),/evidence_changed: Approval/);
+ await assert.rejects(verifyProgramme({...candidate,evidencePages:[]},fetchRegistry()),/primary_evidence_must_be_declared/);
 });

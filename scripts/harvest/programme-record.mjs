@@ -12,7 +12,9 @@ const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").re
 export async function verifyProgramme(seed,fetchPage=getPage){
  const documents=new Map();
  const references=new Map();
- for(const reference of [{url:seed.url,label:'Información del programa'},...(seed.researchEvidenceUrl?[{url:seed.researchEvidenceUrl,label:'Plan y trabajo de investigación'}]:[]),...(seed.evidencePages||[])]){
+ const primaryUrl=seed.primaryEvidenceUrl||seed.url;
+ if(seed.primaryEvidenceUrl&&!seed.evidencePages?.some(p=>p.url===primaryUrl))throw new Error('primary_evidence_must_be_declared');
+ for(const reference of [{url:primaryUrl,label:seed.primaryEvidenceUrl?'Registro oficial del programa':'Información del programa'},...(seed.researchEvidenceUrl?[{url:seed.researchEvidenceUrl,label:'Plan y trabajo de investigación'}]:[]),...(seed.evidencePages||[])]){
   // Supporting metadata must survive when the same document is the research
   // reference. Otherwise an explicitly declared PDF is accidentally read as HTML.
   references.set(reference.url,{...references.get(reference.url),...reference});
@@ -25,21 +27,22 @@ export async function verifyProgramme(seed,fetchPage=getPage){
   if(/page not found|404 not found|page introuvable/i.test(heading)||text.length<200||/verify that you.re not a robot|javascript is disabled|enable javascript and then reload/i.test(text.slice(0,500)))throw new Error('content_missing: '+reference.url);
   documents.set(reference.url,{...page,text,label:reference.label});
  }
- const primary=documents.get(seed.url);
- const research=documents.get(seed.researchEvidenceUrl||seed.url);
+ const primary=documents.get(primaryUrl);
+ const research=documents.get(seed.researchEvidenceUrl||primaryUrl);
  const observedFields=fieldsFrom([...documents.values()].map(p=>p.text).join(' '));
- const fields=seed.fields|| (seed.kind.includes('funding')?FIELDS:fieldsFrom(seed.title+' '+primary.text.slice(0,5000)));
+ const fields=seed.fields|| (seed.kind.includes('funding')?FIELDS:fieldsFrom(seed.title+' '+primary.text.slice(0,5000)).filter(field=>observedFields.includes(field)));
  if(!fields.length||fields.some(f=>!FIELDS.includes(f)))throw new Error('discipline_unverified');
  if(seed.fields&&!seed.kind.includes('funding')&&fields.some(f=>!observedFields.includes(f)))throw new Error('discipline_unverified');
  if(seed.stage==='master'&&seed.kind==='programme'&&!hasResearchComponent(research.text))throw new Error('research_component_unverified');
  for(const check of seed.evidenceChecks||[]){
-  const document=documents.get(check.url||seed.url);
+  const document=documents.get(check.url||primaryUrl);
   if(!document)throw new Error('evidence_source_missing: '+check.field);
   if(!check.phrases?.length||check.phrases.some(phrase=>!phrase.trim()||!normalized(document.text).includes(normalized(phrase))))throw new Error('evidence_changed: '+check.field);
  }
  const checkedAt=[...documents.values()].map(p=>p.checkedAt).sort()[0];
  const record={...seed,id:idFor(seed.url),applyUrl:seed.url,sourceId:'programme-'+idFor(seed.url),sourceName:seed.institution,status:'programme',verifiedAt:checkedAt,seenAt:primary.checkedAt,deadline:null,deadlinePrecision:null,fields,funding:seed.funding||{kind:seed.kind.includes('funding')?'scholarship':'unconfirmed',text:seed.kind.includes('funding')?'Ayuda competitiva; consultar importe':'Financiación no garantizada'},duration:seed.duration||null,languages:seed.languages||[],contract:seed.contract||null,programmeType:seed.programmeType||(seed.stage==='master'?'Máster con componente de investigación':seed.kind.includes('funding')?'Programa de financiación':seed.stage==='grado'?'Estancia de investigación':'Programa doctoral'),researchNote:seed.researchNote||(seed.stage==='master'?'La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.':undefined),lastError:null,evidence:{contentHash:primary.hash,checkedUrl:primary.finalUrl,method:'official-programme-page',researchUrl:research.finalUrl,references:[...documents.values()].map(p=>({url:p.finalUrl,label:p.label,checkedAt:p.checkedAt,contentHash:p.hash})),checks:(seed.evidenceChecks||[]).map(c=>c.field)}};
- delete record.researchEvidenceUrl;delete record.evidencePages;delete record.evidenceChecks;
+ if(seed.primaryEvidenceUrl)record.evidence.method='official-programme-registry';
+ delete record.primaryEvidenceUrl;delete record.researchEvidenceUrl;delete record.evidencePages;delete record.evidenceChecks;
  return record;
 }
 

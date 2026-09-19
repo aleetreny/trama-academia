@@ -23,7 +23,7 @@ No ejecutar una reconstrucción mientras esté escribiendo el rastreador. La rec
 
 `institution-crawl.json` guarda una tarea por institución y URL canónica. Se parte de webs oficiales de ROR y de las fuentes localizadas mediante revisión. Cada enlace nuevo conserva la página desde la que se observó; no se inventan rutas institucionales. Los parámetros que identifican contenido se conservan y se eliminan los de seguimiento.
 
-Los candidatos se priorizan por disciplina y tipo de fuente, alternando países para que los sistemas grandes no consuman todo el barrido. El valor predeterminado es 900 intentos, seis trabajadores, 40 minutos y un máximo de 20 páginas por institución y ejecución. Se respetan `robots.txt`, los límites por servidor y los bloqueos; no se intenta eludirlos. Un barrido posterior continúa los pendientes.
+El recorrido alterna países e instituciones. Dentro de cada país se atiende primero a las instituciones sin intentos anteriores y después a las que llevan más tiempo sin visitar; dentro de cada institución se priorizan disciplina y tipo de fuente. Esto evita que un catálogo con muchos enlaces nuevos impida visitar otras universidades. El valor predeterminado es 900 intentos, seis trabajadores, 40 minutos y un máximo de 20 páginas por institución y ejecución. Se respetan `robots.txt`, los límites por servidor y los bloqueos; no se intenta eludirlos. Un barrido posterior continúa los pendientes.
 
 ```sh
 npm run harvest:institutions
@@ -44,6 +44,8 @@ Estados de la cola:
 Las páginas académicas se vuelven a comprobar después de siete días; las páginas iniciales, después de 30. Los fallos se reintentan después de siete días. Hay un máximo de 100 enlaces relevantes por página y se marca explícitamente cuando se ha truncado. Los catálogos paginados, APIs, formularios y sitios con JavaScript necesitan adaptadores o revisión adicional. El algoritmo no deduce que un inventario esté completo porque se agote una página o una ejecución.
 
 La cola se guarda cada 25 intentos y al terminar. Conserva las últimas 20 ejecuciones. Ningún enlace se convierte automáticamente en una oportunidad: una nueva semilla debe pasar la comprobación institucional, de disciplina, de componente investigador cuando corresponde y de condiciones publicadas. Las modalidades, vías temáticas y grados conjuntos requieren revisar duplicados.
+
+El lector reconoce paneles desplegables con controles reales y fragmentos completos de React asociados explícitamente a sus marcadores de posición. Descarta fragmentos ocultos sin asociación o con límites rotos y no ejecuta scripts descargados. Si una aplicación publica el contenido mediante un registro oficial, la semilla puede declarar `primaryEvidenceUrl` junto a `evidencePages`: se comprueba esa fuente y se conserva la URL humana como enlace del programa. Los controles de identidad, edición y aprobación del registro siguen siendo obligatorios en las semillas revisadas; un currículo de un programa retirado no demuestra que esté aprobado.
 
 ## Indicadores de fortaleza por disciplina
 

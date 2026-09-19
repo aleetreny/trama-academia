@@ -54,18 +54,24 @@ export function addDiscoveryJob(queue,institution,url,{type='home',label,depth=0
  queue.set(id,job);return job;
 }
 export function selectDiscoveryJobs(jobs,{limit=900,now=Date.now(),perInstitution=20}={}){
- const countries=new Map();
+ const countries=new Map(),lastAttempt=new Map();
+ for(const job of jobs){const checked=Date.parse(job.lastAttemptAt||job.checkedAt||'')||0;lastAttempt.set(job.institutionId,Math.max(lastAttempt.get(job.institutionId)||0,checked));}
  for(const job of jobs){
   if(['document','external-review','depth-review'].includes(job.status)||(job.nextCheckAt&&Date.parse(job.nextCheckAt)>now))continue;
   const bucket=countries.get(job.country)||[];bucket.push(job);countries.set(job.country,bucket);
  }
  for(const bucket of countries.values())bucket.sort((a,b)=>(a.status==='pending'?0:1)-(b.status==='pending'?0:1)||b.priority-a.priority||a.attempts-b.attempts||a.depth-b.depth||a.id.localeCompare(b.id));
- const selected=[],counts=new Map(),buckets=[...countries].sort(([a],[b])=>a.localeCompare(b)).map(([,rows])=>rows);
- // Round-robin countries prevent large systems from consuming every run. The
- // institution cap prevents one site's faceted catalogue from doing the same.
+ const selected=[],counts=new Map(),buckets=[...countries].sort(([a],[b])=>a.localeCompare(b)).map(([,rows])=>{
+  const groups=new Map();for(const row of rows){const group=groups.get(row.institutionId)||[];group.push(row);groups.set(row.institutionId,group);}
+  // Unvisited institutions come first. Using all jobs above also remembers visits
+  // whose page is currently waiting for its next permitted check.
+  return [...groups].map(([id,queue])=>({id,queue})).sort((a,b)=>(lastAttempt.get(a.id)||0)-(lastAttempt.get(b.id)||0)||b.queue[0].priority-a.queue[0].priority||a.id.localeCompare(b.id));
+ });
+ // Rotate both countries and institutions. A high-priority catalogue must not
+ // starve untouched institutions by continually generating more deep links.
  while(selected.length<limit){let progress=false;
   for(const bucket of buckets){
-   while(bucket.length){const job=bucket.shift();if((counts.get(job.institutionId)||0)>=perInstitution)continue;selected.push(job);counts.set(job.institutionId,(counts.get(job.institutionId)||0)+1);progress=true;break;}
+   while(bucket.length){const group=bucket.shift();if((counts.get(group.id)||0)>=perInstitution)continue;const job=group.queue.shift();selected.push(job);counts.set(group.id,(counts.get(group.id)||0)+1);if(group.queue.length&&(counts.get(group.id)||0)<perInstitution)bucket.push(group);progress=true;break;}
    if(selected.length>=limit)break;
   }
   if(!progress)break;
