@@ -2,8 +2,10 @@ import fs from 'node:fs/promises';
 import assert from 'node:assert/strict';
 import {COUNTRIES,effectiveStatus,canonicalUrl} from './domain.mjs';
 const data=JSON.parse(await fs.readFile('data/catalogue.json','utf8'));
+const exclusions=new Set(JSON.parse(await fs.readFile('data/exclusions.json','utf8')).map(r=>r.id));
 const ids=new Set(),urls=new Set(),sources=new Set(data.sources.map(s=>s.id));
 for(const r of data.records){
+ assert(!exclusions.has(r.id),'editorially excluded record still active: '+r.id);
  assert(!ids.has(r.id),'duplicate id: '+r.id);ids.add(r.id);const url=canonicalUrl(r.url);assert(!urls.has(url),'duplicate URL');urls.add(url);
  assert(r.title&&r.institution&&r.fields?.length,'required evidence missing: '+r.id);
  assert(sources.has(r.sourceId),'orphan source: '+r.id);

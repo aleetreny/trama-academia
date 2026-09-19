@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:17:04.519Z",
+  "generatedAt": "2026-09-19T20:21:51.228Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -19744,42 +19744,6 @@
       "eligibilityNote": "Acceso (extracto): Completion of a Norwegian doctoral degree in Business Administration, Finance or Economics research, or corresponding foreign doctoral degree recognized as equivalent to a Norwegian doctoral degree is required. La plaza está condicionada a financiación externa.",
       "researchNote": "Esta ficha recoge la vía BRIDGE AI-Lab del anuncio, que integra modelos de lenguaje a escala en investigación de economía y finanzas. La convocatoria también ofrece otras líneas; comprueba el encaje con este centro y la titulación doctoral exigida.",
       "lastError": null
-    },
-    {
-      "id": "fa164267fd7d7da8306b",
-      "kind": "position",
-      "stage": "doctorado",
-      "title": "Doktorand:in in Rechtswissenschaften (m/w/d)",
-      "institution": "ETH Zurich",
-      "country": "CH",
-      "city": "Zürich",
-      "url": "https://jobs.ethz.ch/job/view/JOPG_ethz_yD8SBG1VJIv6DUeuOI",
-      "applyUrl": "https://emea2.softfactors.com/job-opening/rgum-yD8SBG1VJIv6DUeuOI#!/?lang=en",
-      "sourceId": "eth-jobs",
-      "sourceName": "ETH Zurich · Vacantes",
-      "verifiedAt": "2026-09-19T20:12:14.074Z",
-      "seenAt": "2026-09-19T20:12:14.074Z",
-      "status": "listed",
-      "deadline": null,
-      "deadlinePrecision": null,
-      "fields": [
-        "Informática"
-      ],
-      "entry": "Consultar requisitos",
-      "contract": "befristet",
-      "hours": "100%",
-      "duration": null,
-      "languages": [],
-      "funding": {
-        "kind": "salary",
-        "text": "Contrato ETH; importe por confirmar en la oferta"
-      },
-      "evidence": {
-        "contentHash": "5d2739c96fc4c4752ad01e034dabfa8c0cd6e33f61e00800ca37cc25dcc5ca88",
-        "checkedUrl": "https://jobs.ethz.ch/job/view/JOPG_ethz_yD8SBG1VJIv6DUeuOI",
-        "method": "official-vacancy-html"
-      },
-      "lastError": null
     }
   ],
   "sources": [
@@ -20645,12 +20609,13 @@
         "pages": 1,
         "totalListings": 105,
         "discovered": 57,
-        "accepted": 34,
-        "excluded": 23,
+        "accepted": 33,
+        "excluded": 24,
         "complete": true,
         "errors": [],
         "checkedAt": "2026-09-19T20:12:16.480Z",
-        "note": "Scientific career titles checked against research content; European workplace required. Faculty recruitment may use a separate portal."
+        "note": "Scientific career titles checked against research content; European workplace required. Faculty recruitment may use a separate portal.",
+        "editorialExclusions": 1
       }
     },
     {
@@ -21060,128 +21025,17 @@
     }
   ],
   "run": {
-    "id": "e09df84a-9d69-4d22-9b44-55898bf5e6b5",
-    "startedAt": "2026-09-19T20:11:29.936Z",
-    "finishedAt": "2026-09-19T20:17:04.519Z",
-    "status": "partial",
-    "sources": [
+    "id": "f6146324-6cca-4bd2-af6b-491530ebb95c",
+    "startedAt": "2026-09-19T20:21:51.228Z",
+    "finishedAt": "2026-09-19T20:21:51.228Z",
+    "status": "success",
+    "type": "editorial-correction",
+    "parentRunId": "e09df84a-9d69-4d22-9b44-55898bf5e6b5",
+    "sources": [],
+    "corrections": [
       {
-        "id": "helsinki",
-        "pages": 2,
-        "discovered": 23,
-        "totalListings": 23,
-        "accepted": 4,
-        "excluded": 19,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:11:50.550Z",
-        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
-      },
-      {
-        "id": "aalto",
-        "pages": 2,
-        "discovered": 24,
-        "totalListings": 24,
-        "accepted": 11,
-        "excluded": 13,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:11:51.137Z",
-        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
-      },
-      {
-        "id": "kth",
-        "pages": 1,
-        "discovered": 47,
-        "totalListings": 47,
-        "accepted": 22,
-        "excluded": 25,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:12:08.941Z",
-        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
-      },
-      {
-        "id": "eth-jobs",
-        "pages": 1,
-        "totalListings": 105,
-        "discovered": 57,
-        "accepted": 34,
-        "excluded": 23,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:12:16.480Z",
-        "note": "Scientific career titles checked against research content; European workplace required. Faculty recruitment may use a separate portal."
-      },
-      {
-        "id": "inria",
-        "pages": 1,
-        "discovered": 83,
-        "accepted": 67,
-        "excluded": 16,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:12:38.031Z"
-      },
-      {
-        "id": "uppsala",
-        "pages": 9,
-        "discovered": 82,
-        "totalListings": 82,
-        "accepted": 11,
-        "excluded": 71,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:12:43.999Z",
-        "note": "All accessible vacancy pages inspected, including generic researcher titles. Research subject and European workplace checked in each advert."
-      },
-      {
-        "id": "jobbnorge",
-        "pages": 224,
-        "totalListings": 1201,
-        "discovered": 1201,
-        "candidates": 223,
-        "fullTextVerified": 223,
-        "accepted": 54,
-        "excluded": 1147,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:15:25.060Z",
-        "note": "Public feed fully traversed; academic candidates inspected through official PDF exports, including generic titles. Identity, deadline and Norwegian workplaces checked. Technical or unrecognized documents remain explicit failures.",
-        "editorialExclusions": 1
-      },
-      {
-        "id": "academictransfer",
-        "pages": 1,
-        "discovered": 31,
-        "totalListings": 718,
-        "accepted": 31,
-        "excluded": 0,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:16:41.153Z",
-        "note": "Discovery limited to discipline-bearing vacancy titles; jobs with generic titles require another pass."
-      },
-      {
-        "id": "jobsacuk",
-        "pages": 19,
-        "discovered": 377,
-        "accepted": 209,
-        "excluded": 168,
-        "complete": true,
-        "errors": [],
-        "checkedAt": "2026-09-19T20:17:04.519Z",
-        "note": "Computer sciences and mathematics/statistics categories, all accessible pages; overseas job locations excluded."
-      },
-      {
-        "id": "euraxess",
-        "complete": false,
-        "errors": [
-          {
-            "error": "Error: http_403"
-          }
-        ],
-        "checkedAt": "2026-09-19T20:17:04.519Z"
+        "id": "fa164267fd7d7da8306b",
+        "reason": "Doctorate in law requiring law degrees; the role evaluates judicial practice and legal/institutional effects of AI decision aids. Informatik describes the interdisciplinary context with a separate technical team, not a computing or statistical-methods research role."
       }
     ]
   },
