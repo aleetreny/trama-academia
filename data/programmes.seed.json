@@ -1,0 +1,431 @@
+[
+  {
+    "title": "MSc Data Science",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "url": "https://inf.ethz.ch/studies/master/master-ds.html",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado"
+  },
+  {
+    "title": "MSc Computer Science",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "url": "https://inf.ethz.ch/studies/master/master-cs-2020.html",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "researchEvidenceUrl": "https://inf.ethz.ch/studies/semester-and-master-theses.html"
+  },
+  {
+    "title": "MSc Statistics",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "url": "https://math.ethz.ch/studies/master-programmes/statistics/prospective-students.html",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "researchEvidenceUrl": "https://math.ethz.ch/studies/master-programmes/statistics/enrolled-students.html"
+  },
+  {
+    "title": "MSc Applied Mathematics",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "url": "https://ethz.ch/en/studies/master/application/master-mathematik.html",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "eligibilityNote": "Esta ficha se refiere al itinerario de Applied Mathematics; el departamento también ofrece matemáticas puras."
+  },
+  {
+    "title": "MSc Data Science",
+    "institution": "EPFL",
+    "country": "CH",
+    "url": "https://www.epfl.ch/education/master/programs/data-science/",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "researchEvidenceUrl": "https://edu.epfl.ch/studyplan/en/master/data-science/"
+  },
+  {
+    "title": "MPhil in Advanced Computer Science",
+    "institution": "University of Cambridge",
+    "country": "GB",
+    "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/cscsmpacs",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "programmeType": "MPhil · formación y proyecto de investigación",
+    "researchNote": "El programa incluye formación en investigación y un proyecto que se desarrolla durante dos trimestres. Está orientado a preparar la continuación a un doctorado."
+  },
+  {
+    "title": "Machine Learning, Data Science and Artificial Intelligence",
+    "institution": "Aalto University",
+    "country": "FI",
+    "url": "https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado"
+  },
+  {
+    "title": "MSc Machine Learning",
+    "institution": "KTH Royal Institute of Technology",
+    "country": "SE",
+    "url": "https://www.kth.se/studies/master/machine-learning/",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "researchEvidenceUrl": "https://www.kth.se/en/2.985/machine-learning/courses-machine-learning-1.412669",
+    "duration": "2 años",
+    "researchNote": "Tres semestres de cursos y un semestre final dedicado al trabajo de máster. El itinerario incluye metodología de investigación."
+  },
+  {
+    "title": "MSc Mathematics in Data Science",
+    "institution": "Technical University of Munich",
+    "country": "DE",
+    "url": "https://www.tum.de/en/studies/degree-programs/detail/mathematics-in-data-science-master-of-science-msc",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "researchEvidenceUrl": "https://www.cit.tum.de/cit/studium/studiengaenge/master-mathematics-data-science/"
+  },
+  {
+    "title": "MSc Informatics",
+    "institution": "Technical University of Munich",
+    "country": "DE",
+    "url": "https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado"
+  },
+  {
+    "title": "MSc Data Science",
+    "institution": "University of Helsinki",
+    "country": "FI",
+    "url": "https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "researchEvidenceUrl": "https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme/studying"
+  },
+  {
+    "title": "M2 Data, Knowledge and Hybrid Artificial Intelligence",
+    "institution": "Université Paris-Saclay",
+    "country": "FR",
+    "url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m2-data-knowledge-and-hybrid-artificial-intelligence-dkai",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "M1 o equivalente"
+  },
+  {
+    "title": "M2 Mathématiques et Apprentissage Statistique",
+    "institution": "Université Paris-Saclay",
+    "country": "FR",
+    "url": "https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-et-apprentissage-statistique",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "M1 o equivalente"
+  },
+  {
+    "title": "M2 Mathematics and Artificial Intelligence",
+    "institution": "Université Paris-Saclay",
+    "country": "FR",
+    "url": "https://www.imo.universite-paris-saclay.fr/en/students/masters-programs/mathematics-and-applications/m2/data-sciences/",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "M1 o equivalente"
+  },
+  {
+    "title": "Master in Statistics for Data Science",
+    "institution": "Universidad Carlos III de Madrid",
+    "country": "ES",
+    "url": "https://www.uc3m.es/master/statistics-data-science",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado"
+  },
+  {
+    "title": "MSc Data Science — Information Studies",
+    "institution": "University of Amsterdam",
+    "country": "NL",
+    "url": "https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/study-programme/study-programme.html",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado"
+  },
+  {
+    "title": "MSc Data Science — Data Science and Business Analytics",
+    "institution": "University of Amsterdam",
+    "country": "NL",
+    "url": "https://www.uva.nl/en/programmes/masters/data-science-and-business-analytics-data-science/study-programme/study-programme.html",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado"
+  },
+  {
+    "title": "MSc Data Science",
+    "institution": "University of Edinburgh",
+    "country": "GB",
+    "url": "https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science",
+    "kind": "programme",
+    "stage": "master",
+    "entry": "Grado",
+    "programmeType": "Máster de cursos y proyecto final"
+  },
+  {
+    "title": "Doctoral Studies in Computer Science",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "url": "https://inf.ethz.ch/doctorate.html",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Consultar requisitos de admisión",
+    "funding": {
+      "kind": "salary",
+      "text": "Normalmente contrato; revisar la plaza"
+    },
+    "researchNote": "El departamento ofrece la vía doctoral tras un máster y una vía directa. Necesitas comprobar la supervisión y la financiación de la plaza concreta."
+  },
+  {
+    "title": "Direct Doctorate in Computer Science",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "url": "https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Grado; admisión muy selectiva",
+    "eligibilityNote": "La fase inicial de máster y la fase doctoral tienen condiciones de financiación distintas. Verifica ambas antes de comparar."
+  },
+  {
+    "title": "EDIC — Computer and Communication Sciences",
+    "institution": "EPFL",
+    "country": "CH",
+    "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Consultar requisitos de admisión"
+  },
+  {
+    "title": "DPhil in Statistics",
+    "institution": "University of Oxford",
+    "country": "GB",
+    "url": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-statistics",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Grado sólido en matemáticas o estadística",
+    "eligibilityNote": "El máster se prefiere, pero la página del programa no lo establece como requisito universal. Las becas pueden añadir condiciones."
+  },
+  {
+    "title": "Computer Science MPhil/PhD",
+    "institution": "University College London",
+    "country": "GB",
+    "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-science-mphilphd",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Consultar requisitos de admisión"
+  },
+  {
+    "title": "PhD — Computer Science, Data Science and Scientific Computing",
+    "institution": "Institute of Science and Technology Austria",
+    "country": "AT",
+    "url": "https://phd.ist.ac.at/",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Grado o máster",
+    "funding": {
+      "kind": "salary",
+      "text": "Programa doctoral financiado"
+    },
+    "eligibilityNote": "Selecciona un grupo de informática, ciencia de datos o computación científica. ISTA también ofrece otras disciplinas fuera de este catálogo."
+  },
+  {
+    "title": "Summer@EPFL — Research Fellowships",
+    "institution": "EPFL",
+    "country": "CH",
+    "url": "https://summer.epfl.ch/",
+    "kind": "programme",
+    "stage": "grado",
+    "entry": "Estudiante de grado o máster",
+    "programmeType": "Estancia de investigación de verano",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Fellowship; comprobar convocatoria"
+    },
+    "eligibilityNote": "Para estudiantes matriculados en informática y áreas afines. La edición anual y su plazo deben confirmarse."
+  },
+  {
+    "title": "Research Internships — Computer and Communication Sciences",
+    "institution": "EPFL",
+    "country": "CH",
+    "url": "https://www.epfl.ch/education/international/en/coming-to-epfl/research-internships/",
+    "kind": "programme",
+    "stage": "grado",
+    "entry": "Estudiante de grado o máster",
+    "programmeType": "Estancia supervisada",
+    "eligibilityNote": "Las Excellence Research Internships están restringidas a instituciones asociadas. Revisa si tu universidad participa; escoge un laboratorio dentro de las disciplinas del catálogo."
+  },
+  {
+    "title": "Excellence Scholarship & Opportunity Programme (ESOP)",
+    "institution": "ETH Zurich",
+    "country": "CH",
+    "url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Financiación vinculada a un máster de ETH. Comprueba los requisitos académicos y la solicitud de la convocatoria vigente."
+  },
+  {
+    "title": "Master Excellence Fellowships",
+    "institution": "EPFL",
+    "country": "CH",
+    "url": "https://www.epfl.ch/education/master/master-excellence-fellowships/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Becas competitivas para másteres de EPFL. El importe y las condiciones dependen de la convocatoria y de la categoría de candidatura."
+  },
+  {
+    "title": "Swiss Government Excellence Scholarships",
+    "institution": "Confederación Suiza",
+    "country": "CH",
+    "url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado",
+      "postdoc"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Para investigación en Suiza. Tipo de beca, elegibilidad y fecha varían según el país de origen. No es una beca general para másteres impartidos."
+  },
+  {
+    "title": "Humboldt Research Fellowship",
+    "institution": "Alexander von Humboldt Foundation",
+    "country": "DE",
+    "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Investigación con una institución anfitriona en Alemania. La ruta de postdoc y la de personal investigador con experiencia tienen requisitos distintos."
+  },
+  {
+    "title": "Becas de doctorado INPhINIT Incoming",
+    "institution": "Fundación la Caixa",
+    "country": "ES",
+    "url": "https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-incoming",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Comprueba el centro elegible en España o Portugal y las condiciones de movilidad, residencia y experiencia investigadora de la convocatoria."
+  },
+  {
+    "title": "DAAD — Graduate School Scholarship Programme",
+    "institution": "DAAD",
+    "country": "DE",
+    "url": "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/gssp/",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "La candidatura se tramita a través de escuelas doctorales participantes. Debes localizar una escuela en las disciplinas del catálogo y revisar sus requisitos."
+  },
+  {
+    "title": "DAAD — Becas de estudio e investigación en Alemania",
+    "institution": "DAAD",
+    "country": "DE",
+    "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado",
+      "postdoc"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Es un directorio de financiación, no una convocatoria única. Filtra por nacionalidad, nivel académico y programa; los requisitos no son intercambiables."
+  },
+  {
+    "title": "Erasmus Mundus — itinerarios íntegramente europeos",
+    "institution": "Comisión Europea",
+    "country": "EU",
+    "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Comprueba el consorcio concreto: solo entran en el ámbito de TRAMA los itinerarios con todas las estancias obligatorias en Europa y con investigación dentro de las disciplinas seleccionadas."
+  },
+  {
+    "title": "MSCA — European Postdoctoral Fellowships",
+    "institution": "Comisión Europea",
+    "country": "EU",
+    "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "entry": "Según programa y convocatoria",
+    "eligibilityNote": "Solo se incluye aquí la modalidad European Fellowships y los destinos europeos. Comprueba la regla de movilidad, la experiencia posdoctoral y la institución de acogida."
+  },
+  {
+    "title": "MSCA — Doctoral Networks en Europa",
+    "institution": "Comisión Europea",
+    "country": "EU",
+    "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "entry": "Consultar requisitos de cada vacante doctoral",
+    "eligibilityNote": "Los investigadores solicitan vacantes de las redes beneficiarias. Se incluyen solo los destinos europeos; comprueba movilidad y no posesión previa de doctorado."
+  },
+  {
+    "title": "Research Internships in Computer Science",
+    "institution": "Max Planck Institutes for Informatics, Software Systems and Security and Privacy",
+    "country": "DE",
+    "url": "https://www.cis.mpg.de/internships/",
+    "kind": "programme",
+    "stage": "grado",
+    "entry": "Estudiantes de grado, máster o doctorado; consultar el programa",
+    "researchNote": "Estancias de investigación en informática con supervisión de investigadores. Confirma tema, fechas, compensación y requisitos de tu nivel."
+  },
+  {
+    "title": "Scientific Internships — Computer Science, Data Science and Applied Mathematics",
+    "institution": "ISTA",
+    "country": "AT",
+    "url": "https://phd.pages.ista.ac.at/scientific-internships/",
+    "kind": "programme",
+    "stage": "grado",
+    "entry": "Grado o máster en curso o finalizado; consultar grupo",
+    "researchNote": "Selecciona exclusivamente un grupo de informática, ciencia de datos o matemáticas aplicadas. La disponibilidad se acuerda con el grupo y la admisión no está garantizada."
+  },
+  {
+    "title": "ELLIS PhD Program — Machine Learning",
+    "institution": "ELLIS",
+    "country": "EU",
+    "url": "https://ellis.eu/research/phd-postdoc",
+    "kind": "programme",
+    "stage": "doctorado",
+    "entry": "Consultar requisitos académicos de la sede",
+    "eligibilityNote": "Red de doctorado con supervisión e intercambio entre sedes. Considera únicamente sedes europeas; salario, admisión y financiación dependen de la institución."
+  }
+]

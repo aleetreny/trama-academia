@@ -1,0 +1,54 @@
+name: Actualizar catálogo
+on:
+  schedule:
+    - cron: '23 4 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: catalogue-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Comprobar las reglas de extracción
+        run: npm test
+      - name: Descubrir y comprobar vacantes
+        run: npm run harvest
+      - name: Comprobar programas y financiación
+        run: npm run harvest:programmes
+      - name: Revisar páginas que dejaron de aparecer
+        run: npm run harvest:verify
+      - name: Auditar el catálogo resultante
+        run: npm run harvest:audit
+      - name: Publicar el catálogo en Neon
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: npm run db:sync
+      - name: Guardar la edición pública
+        run: |
+          git config user.name 'trama-catalogue[bot]'
+          git config user.email 'trama-catalogue[bot]@users.noreply.github.com'
+          git add data/catalogue.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh verified academic catalogue [skip ci]'
+            git push
+          fi
+      - name: Conservar diagnóstico de la ejecución
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalogue-diagnostics
+          path: |
+            .cache/audit.json
+            .cache/harvest-progress.json
+          retention-days: 14
+          if-no-files-found: ignore

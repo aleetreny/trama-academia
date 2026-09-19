@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+import {spawnSync} from 'node:child_process';
+import path from 'node:path';
+const archive=process.argv[2];if(!archive||!path.isAbsolute(archive))throw new Error('Pass an absolute archive output path');
+const manifest=JSON.parse(await fs.readFile('.openai/hosting.json','utf8'));if(!manifest.project_id)throw new Error('Missing registered Sites project');
+await fs.access('dist/server/index.js');await fs.access('dist/client');
+const r=spawnSync('tar',['-czf',archive,'.openai/hosting.json','dist'],{stdio:'inherit'});if(r.status!==0)throw new Error('Packaging failed');
+const list=spawnSync('tar',['-tzf',archive],{encoding:'utf8'});if(list.status!==0)throw new Error('Archive unreadable');
+const entries=list.stdout.trim().split('\n');if(entries.some(s=>s.startsWith('/')||s.split('/').includes('..')||!(/^dist\//.test(s)||s==='.openai/hosting.json')))throw new Error('Unexpected archive entry');
+console.log(JSON.stringify({archive,entries:entries.length,bytes:(await fs.stat(archive)).size}));

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "euraxess",
+    "name": "EURAXESS",
+    "url": "https://euraxess.ec.europa.eu/jobs/search",
+    "adapter": "euraxess",
+    "type": "aggregator",
+    "scope": "Europa; filtro de país obligatorio",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "inria",
+    "name": "Inria",
+    "url": "https://jobs.inria.fr/public/classic/en/offres",
+    "adapter": "inria",
+    "type": "institution",
+    "scope": "Francia; ciencia y tecnología digitales",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "academictransfer",
+    "name": "AcademicTransfer",
+    "url": "https://www.academictransfer.com/en/jobs/",
+    "adapter": "sitemap-jobposting",
+    "type": "aggregator",
+    "scope": "Países Bajos",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true,
+    "note": "Comprobación de JobPosting; 10 segundos entre solicitudes."
+  },
+  {
+    "id": "jobbnorge",
+    "name": "Jobbnorge",
+    "url": "https://www.jobbnorge.no/search/en",
+    "adapter": "discovery",
+    "type": "aggregator",
+    "scope": "Noruega",
+    "stages": [
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "jobsacuk",
+    "name": "jobs.ac.uk",
+    "url": "https://www.jobs.ac.uk/search/computer-sciences",
+    "adapter": "jobsacuk",
+    "type": "aggregator",
+    "scope": "Reino Unido y Europa; comprobar país",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true,
+    "startUrls": [
+      "https://www.jobs.ac.uk/search/computer-sciences",
+      "https://www.jobs.ac.uk/search/mathematics-and-statistics"
+    ]
+  },
+  {
+    "id": "academicpositions",
+    "name": "Academic Positions",
+    "url": "https://academicpositions.com/jobs/field/computer-science",
+    "adapter": "discovery",
+    "type": "aggregator",
+    "scope": "Europa y otros países; comprobar país",
+    "stages": [
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "findaphd",
+    "name": "FindAPhD",
+    "url": "https://www.findaphd.com/phds/computer-science/",
+    "adapter": "discovery",
+    "type": "aggregator",
+    "scope": "Proyectos de doctorado; comprobar país",
+    "stages": [
+      "doctorado"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "ellis",
+    "name": "ELLIS",
+    "url": "https://ellis.eu/phd-postdoc",
+    "adapter": "programme",
+    "type": "network",
+    "scope": "Red europea de investigación en machine learning",
+    "stages": [
+      "doctorado",
+      "postdoc"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "daad",
+    "name": "DAAD",
+    "url": "https://www.daad.de/en/studying-in-germany/scholarships/",
+    "adapter": "programme",
+    "type": "funder",
+    "scope": "Alemania; elegibilidad según beca",
+    "stages": [
+      "master",
+      "doctorado",
+      "postdoc"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "msca",
+    "name": "Marie Skłodowska-Curie Actions",
+    "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions",
+    "adapter": "programme",
+    "type": "funder",
+    "scope": "Doctoral Networks y Postdoctoral Fellowships",
+    "stages": [
+      "doctorado",
+      "postdoc"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "eth-jobs",
+    "name": "ETH Zurich · Vacantes",
+    "url": "https://jobs.ethz.ch",
+    "adapter": "eth",
+    "type": "institution",
+    "scope": "Suiza; se excluyen los destinos extraeuropeos",
+    "stages": [
+      "grado",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "enabled": true
+  }
+]
