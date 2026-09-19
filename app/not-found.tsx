@@ -1,2 +1,2 @@
-import Link from 'next/link';
+import Link from '@/components/site-link';
 export default function NotFound(){return <main id="contenido" className="wrap empty-results"><p className="eyebrow">ESTA PÁGINA NO ESTÁ EN EL ÍNDICE</p><h1>No encontramos esa oportunidad.</h1><p>Puede que el enlace esté incompleto. Vuelve al catálogo para buscar por institución o tema.</p><Link className="primary-button" href="/explorar">Volver al catálogo</Link></main>}

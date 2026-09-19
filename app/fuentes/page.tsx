@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/site-link';
 import {ArrowUpRight} from 'lucide-react';
 import {getCatalogue} from '@/lib/catalogue';
 import {dateLabel,statusOf,COUNTRY_NAMES} from '@/lib/types';

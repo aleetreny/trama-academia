@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/site-link';
 import {GitBranch,ArrowUpRight} from 'lucide-react';
 export function Header(){return <><a className="skip-link" href="#contenido">Saltar al contenido</a><header className="site-header wrap"><Link className="wordmark" href="/" aria-label="TRAMA, inicio"><GitBranch strokeWidth={1.8}/><span>trama<span className="brand-dot">.</span></span></Link><nav aria-label="Principal"><Link href="/#recorrido">Tu recorrido</Link><Link href="/explorar">Explorar</Link><Link href="/financiacion">Financiación</Link><Link href="/guia">El doctorado en Europa</Link></nav><Link className="header-index" href="/fuentes">Índice de fuentes <ArrowUpRight size={16}/></Link></header></>}
 export function Footer(){return <footer className="site-footer wrap"><Link className="wordmark" href="/">trama.</Link><p>Un lugar desde el que seguir preguntando.</p><Link href="/fuentes">Fuentes y metodología <ArrowUpRight size={16}/></Link><a href="https://github.com/aleetreny/trama-academia" target="_blank" rel="noreferrer">Proyecto abierto ↗</a></footer>}

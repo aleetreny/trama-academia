@@ -1,5 +1,7 @@
 # trama.
 
+[Abrir TRAMA](https://trama-academia.aleetreny.chatgpt.site) · [Consultar cobertura](https://trama-academia.aleetreny.chatgpt.site/fuentes)
+
 Un atlas de oportunidades académicas en Europa para ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas.
 
 TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, investigación posdoctoral y carrera académica. Incluye financiación, comparación de hasta tres oportunidades, condiciones del doctorado por país y un registro público de cobertura.

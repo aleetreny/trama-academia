@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/site-link';
 import {ArrowUpRight,MapPin,CalendarDays} from 'lucide-react';
 import {Checkbox} from '@/components/ui/checkbox';
 import {COUNTRY_NAMES,STAGES,dateLabel,statusOf,STATUS_NAMES,type Opportunity} from '@/lib/types';
