@@ -27,7 +27,9 @@ jobs:
       - name: Preparar lectura de convocatorias PDF
         run: python -m pip install -r scripts/harvest/requirements.txt
       - name: Comprobar las reglas de extracción
-        run: npm test
+        run: |
+          python scripts/harvest/test_pdf_text.py
+          npm test
       - name: Descubrir y comprobar vacantes
         run: npm run harvest
       - name: Comprobar programas y financiación

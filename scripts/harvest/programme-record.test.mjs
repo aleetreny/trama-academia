@@ -3,6 +3,15 @@ import assert from 'node:assert/strict';
 import {verifyProgramme,mergeProgrammeRecords} from './programme-record.mjs';
 
 const seed={title:'Summer research in Computer Science',institution:'Test university',country:'CH',url:'https://example.edu/summer',kind:'programme',stage:'grado',entry:'Grado en curso',fields:['Informática'],duration:'8 semanas',funding:{kind:'scholarship',text:'94 CHF por día'},evidencePages:[{url:'https://example.edu/conditions',label:'Condiciones'}],evidenceChecks:[{field:'funding',url:'https://example.edu/conditions',phrases:['94 CHF per calendar day']}]};
+test('an unknown career stage is rejected before fetching or publishing a programme',async()=>{
+ await assert.rejects(verifyProgramme({...seed,stage:'phd'},async()=>{throw new Error('must_not_fetch');}),/invalid_programme_stage/);
+});
+test('a supporting curriculum must remain linked from the declared official source',async()=>{
+ const candidate={...seed,evidencePages:[],evidenceChecks:[{field:'Linked curriculum',links:['https://example.edu/plan-2022.pdf']}]};
+ const page=async target=>({...await fetcher()(target),body:'<main>'+('Computer science research. '.repeat(10))+'<a href="/plan-2022.pdf?utm_source=menu">Curriculum</a></main>'});
+ assert.equal((await verifyProgramme(candidate,page)).title,seed.title);
+ await assert.rejects(verifyProgramme(candidate,async target=>({...await page(target),body:(await page(target)).body.replace('plan-2022.pdf','plan-2023.pdf')})),/evidence_link_changed: Linked curriculum/);
+});
 function fetcher(amount='94'){return async url=>({body:'<main>'+('Computer science research supervised by faculty. '.repeat(6))+(url.endsWith('/conditions')?amount+' CHF per calendar day.':'')+'</main>',finalUrl:url,hash:'hash-'+url,checkedAt:url.endsWith('/conditions')?'2026-09-18T10:00:00Z':'2026-09-19T10:00:00Z'});}
 test('programme conditions are tied to their own source and the oldest supporting check',async()=>{
  const r=await verifyProgramme(seed,fetcher());

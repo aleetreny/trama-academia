@@ -1,9 +1,10 @@
 import {execFile} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 
-export async function extractPdfText(page){
+export async function extractPdfText(page,{pages}={}){
+ if(pages!==undefined&&(!Array.isArray(pages)||pages.length<1||pages.length>50||new Set(pages).size!==pages.length||pages.some(n=>!Number.isInteger(n)||n<1||n>500)))throw new Error('invalid_pdf_page_selection');
  const result=await new Promise((resolve,reject)=>{
-  const child=execFile(process.env.TRAMA_PYTHON||'python3',[fileURLToPath(new URL('./pdf-text.py',import.meta.url))],{timeout:60000,maxBuffer:4_000_000},(error,stdout)=>{
+  const child=execFile(process.env.TRAMA_PYTHON||'python3',[fileURLToPath(new URL('./pdf-text.py',import.meta.url)),...(pages?[JSON.stringify(pages)]:[])],{timeout:60000,maxBuffer:4_000_000},(error,stdout)=>{
    if(error)return reject(new Error('pdf_extraction_failed'));
    try{resolve(JSON.parse(stdout));}catch{reject(new Error('pdf_extraction_invalid'));}
   });

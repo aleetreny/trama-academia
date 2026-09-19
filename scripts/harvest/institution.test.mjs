@@ -11,6 +11,16 @@ test('transcontinental registry location is never sufficient evidence of a Europ
  const result=buildUniverse([record('europe','DE'),record('review','RU'),record('outside','US'),{...record('inactive','FR'),status:'inactive'}],release);
  assert.equal(result.institutions.length,2);assert.equal(result.institutions.find(x=>x.country==='RU').geography,'campus-review');assert.ok(result.institutions.every(x=>x.sources.length===0&&x.reviewStatus==='candidate'));
 });
+test('the EHEA extension is labelled separately and cannot inherit partial bibliometric counts',()=>{
+ const universe=buildUniverse([record('armenia','AM'),record('georgia','GE'),record('azerbaijan','AZ')],release);
+ assert.equal(universe.institutions.length,3);assert.ok(universe.institutions.every(x=>x.geography==='ehea-extension'));
+ const institutions=Array.from({length:25},(_,n)=>({id:String(n),ror:String(n),country:'GE',geography:'ehea-extension'}));
+ const directory=Object.fromEntries(institutions.map(x=>[x.ror,{id:x.id}]));
+ const metric=count=>({complete:true,groups:institutions.map(x=>({key:x.id,count}))});
+ const subject={countryScope:['DE'],metrics:{volume:metric(100),impactTotal:metric(100),impactEligible:metric(100),top10:metric(20)}};
+ const pending=computeTiers(institutions,subject,directory);assert.ok(pending.every(x=>x.reason==='scope-pending'&&x.tier===null&&x.volume===null));
+ subject.countryScope=['DE','GE'];assert.ok(computeTiers(institutions,subject,directory).every(x=>x.tier));
+});
 test('small or missing bibliometric samples are not assigned a low tier; equal results get equal tiers',()=>{
  const institutions=Array.from({length:25},(_,n)=>({id:String(n),ror:String(n),geography:'europe'}));
  const directory=Object.fromEntries(institutions.map(x=>[x.ror,{id:x.id}]));
@@ -30,8 +40,18 @@ test('citation uncertainty and coverage protect against flattering tiny or incom
 test('Spanish and Portuguese programme evidence is recognised without claiming research from the degree alone',()=>{
  assert.deepEqual(fieldsFrom('Máster en Ciencia de Datos'),['Ciencia de datos']);
  assert.deepEqual(fieldsFrom('3D reconstruction of an object or a scene from multiple images'),['Informática']);
+ assert.deepEqual(fieldsFrom('Research in cyber security and cyber-security'),['Informática']);
+ assert.ok(hasResearchComponent('Du afslutter uddannelsen med at skrive dit kandidatspeciale.'));
+ assert.ok(hasResearchComponent('Studimet e këtij cikli përmbyllen me një mikrotezë.'));
+ assert.ok(hasResearchComponent('masterverkætlan (30 ECTS)'));
+ assert.ok(hasResearchComponent('Ein masterritgerð á 30 ECTS'));
+ assert.equal(hasResearchComponent('Masterlestur with general programme information'),false);
+ assert.equal(hasResearchComponent('Speciale menu and candidate programmes'),false);
  assert.ok(fieldsFrom('Mestrado em Inteligência Artificial').includes('Machine learning'));
  assert.ok(hasResearchComponent('Dissertação de natureza científica'));
+ assert.ok(hasResearchComponent('Dissertações com Impacto no Mundo Real'));
+ assert.ok(hasResearchComponent('Tese de mestrado não apenas de 6 meses'));
+ assert.ok(hasResearchComponent('43795Trabajo final de máster6Proyecto fin de máster'));
  assert.equal(hasResearchComponent('Mestrado em Ciência de Dados'),false);
  assert.equal(hasResearchComponent('Hypothesis testing and speech synthesis are taught in this course.'),false);
  assert.ok(hasResearchComponent('Examples of master theses'));

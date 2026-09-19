@@ -21,13 +21,15 @@
     "db:sync": "node scripts/db/sync.mjs",
     "db:migrate": "node scripts/db/migrate.mjs",
     "harvest:institutions": "node scripts/harvest/discover-institutions.mjs",
-    "db:sync:institutions": "node scripts/db/sync-institutions.mjs"
+    "db:sync:institutions": "node scripts/db/sync-institutions.mjs",
+    "harvest:candidates": "node scripts/harvest/review-candidates.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
     "@hookform/resolvers": "^5.7.1",
     "@neondatabase/serverless": "^1.1.0",
     "@shadcn/react": "^0.3.0",
+    "acorn": "8.16.0",
     "cheerio": "^1.2.0",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",

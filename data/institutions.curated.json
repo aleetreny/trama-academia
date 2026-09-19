@@ -11956,10 +11956,10 @@
   },
   {
     "id": "me-montenegro",
-    "name": "University of Montenegro computer science mathematics",
+    "name": "University of Montenegro",
     "country": "ME",
     "city": "Podgorica",
-    "officialUrl": "https://www.ucg.ac.me/studprog/7/4/3/2025-racunarstvo-i-informacione-tehnologije",
+    "officialUrl": "https://ucg.ac.me/pmf",
     "domain": "ucg.ac.me",
     "sources": [
       {
@@ -12011,6 +12011,69 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://ucg.ac.me/pmf",
+        "label": "All study programme routes in faculty navigation, grouped by official study level and curriculum edition",
+        "checkedAt": "2026-09-19T22:43:23.551Z",
+        "observedAt": "2026-09-19T22:43:23.551Z",
+        "contentHash": "0bac465d1c52f38922eccfefa216661d2aab9de49e39eeb75a7e56fc49838f1f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ucg.ac.me/studprog/7/1/14/2025-matematika-2017",
+        "label": "Master Mathematics",
+        "checkedAt": "2026-09-19T22:45:14.786Z",
+        "observedAt": "2026-09-19T22:45:14.786Z",
+        "contentHash": "42dd2f8808c8507d821b03100ba6c0789e109d95b1d68c7bd7385927b18eb7b6",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ucg.ac.me/studprog/7/1/15/2025-matematika-i-racunarske-nauke-2017",
+        "label": "Master Mathematics and Computer Science",
+        "checkedAt": "2026-09-19T22:45:15.850Z",
+        "observedAt": "2026-09-19T22:45:15.850Z",
+        "contentHash": "8fd6f336b52e68bc311ae7dd162da6c0f9b6d928d5bafd284fb313b75e8e0300",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ucg.ac.me/studprog/7/1/16/2025-racunarske-nauke-2017",
+        "label": "Master Computer Science",
+        "checkedAt": "2026-09-19T22:45:16.684Z",
+        "observedAt": "2026-09-19T22:45:16.684Z",
+        "contentHash": "ab18dee6c2d5dce572d2e75301c8abb4732b6b27fbcd5cbf1b4ec8665ca52114",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ucg.ac.me/studprog/7/4/3/2025-racunarstvo-i-informacione-tehnologije-2017",
+        "label": "Applied Master Computing and Information Technology",
+        "checkedAt": "2026-09-19T22:45:17.462Z",
+        "observedAt": "2026-09-19T22:45:17.462Z",
+        "contentHash": "e7041fff49df9417a500c78c350d6e2929b3a3f8b7bbddc135b3761f1661e5bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://ucg.ac.me/studprog/7/1/11/2025-matematika-2017",
+        "label": "PhD Mathematics",
+        "checkedAt": "2026-09-19T22:45:18.339Z",
+        "observedAt": "2026-09-19T22:45:18.339Z",
+        "contentHash": "8700c80d47406e064c33db063e2b31a7d3de9344eabcac3442d21231d7e6c36f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://ucg.ac.me/studprog/7/1/13/2025-racunarske-nauke-2017",
+        "label": "PhD Computer Science",
+        "checkedAt": "2026-09-19T22:45:18.935Z",
+        "observedAt": "2026-09-19T22:45:18.935Z",
+        "contentHash": "66d7153c45d92f66570e82547b60b10831b7e048a0dd83848f5c1f88fbcbe7c8",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -13432,5 +13495,332 @@
       "entityType": "university",
       "reviewedAt": "2026-09-19T21:26:41Z"
     }
+  },
+  {
+    "id": "university-of-liechtenstein",
+    "name": "University of Liechtenstein",
+    "country": "LI",
+    "city": "Vaduz",
+    "officialUrl": "https://www.uni.li/en/studies/study-programmes",
+    "sources": [
+      {
+        "type": "research",
+        "url": "https://www.uni.li/en/studies/study-programmes",
+        "label": "Complete university degree index, all levels",
+        "checkedAt": "2026-09-19T22:43:23.254Z",
+        "observedAt": "2026-09-19T22:43:23.254Z",
+        "contentHash": "2772850b30c99d52f4756328c0a02d44f24432e7d8d83795d9652228ba13469b",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uni.li/en/studies/study-programmes/msc-information-systems",
+        "label": "MSc Information Systems",
+        "checkedAt": "2026-09-19T22:45:11.344Z",
+        "observedAt": "2026-09-19T22:45:11.344Z",
+        "contentHash": "8adf5c72a162925cf5970454951b480da9b4e5b864ff4c13c932e4894b97d8a3",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uni.li/en/studies/study-programmes/doctoral-programme-business-economics",
+        "label": "PhD Business Economics — línea Information Systems",
+        "checkedAt": "2026-09-19T22:45:11.738Z",
+        "observedAt": "2026-09-19T22:45:11.738Z",
+        "contentHash": "3bdfa9220b45183166c7ce0cfbdea5d41b6ff18e68e72c36892c8aeb638c770d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uni.li/en/studies/study-programmes/msc-innovative-finance",
+        "label": "MSc Innovative Finance",
+        "checkedAt": "2026-09-19T22:45:12.471Z",
+        "observedAt": "2026-09-19T22:45:12.471Z",
+        "contentHash": "f8c9acbd6b6916f71261817f1c09ee49561e7228c4ecd4709466c0b3aba438a0",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "universitat-andorra",
+    "name": "Universitat d’Andorra",
+    "country": "AD",
+    "city": "Sant Julià de Lòria",
+    "officialUrl": "https://www.uda.ad/estudis-reglats/masters/",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.uda.ad/estudis-reglats/masters/",
+        "label": "Complete masters index",
+        "checkedAt": "2026-09-19T22:43:24.934Z",
+        "observedAt": "2026-09-19T22:43:24.934Z",
+        "contentHash": "90448dae64cbe2fb081bddd111491d630134bb89d025478a5515d4622cdc1dc8",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uda.ad/programa-de-doctorat/",
+        "label": "Programa de Doctorat — línea Tecnologia",
+        "checkedAt": "2026-09-19T22:43:26.339Z",
+        "observedAt": "2026-09-19T22:43:26.339Z",
+        "contentHash": "f63c57273a73468765fbdf0734c5cf03ea8278e438a2d60c28ec61f0394b5940",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uda.ad/master-en-analitica-de-dades/",
+        "label": "Màster en Analítica de dades",
+        "checkedAt": "2026-09-19T22:43:27.363Z",
+        "observedAt": "2026-09-19T22:43:27.363Z",
+        "contentHash": "93d170bdd0d910a5c702c6fa5f10e0671827641ebbd7b8b24800f9e67e737ee9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "funding",
+        "url": "https://www.uda.ad/luda-convoca-ajuts-personal-investigador-en-formacio/",
+        "label": "Ajut per a personal investigador en formació · febrero 2027",
+        "checkedAt": "2026-09-19T22:47:45.515Z",
+        "observedAt": "2026-09-19T22:47:45.515Z",
+        "contentHash": "53cea9bfc3695889db8bcd46aa25c7db8a65fe20ed6f5e99ab41ae80e4112f7f",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "universita-san-marino",
+    "name": "Università degli Studi della Repubblica di San Marino",
+    "country": "SM",
+    "city": "San Marino / Dogana",
+    "officialUrl": "https://www.unirsm.sm/offerta-formativa/",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.unirsm.sm/offerta-formativa/",
+        "label": "Complete central educational offer, all qualification types",
+        "checkedAt": "2026-09-19T22:43:29.141Z",
+        "observedAt": "2026-09-19T22:43:29.141Z",
+        "contentHash": "d3e06218819997ecbab27328d1d3975914844838439fa9d1747c407c782831b7",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://design.unirsm.sm/laurea-magistrale-in-interaction-experience-design/",
+        "label": "Laurea magistrale Interaction & Experience Design",
+        "checkedAt": "2026-09-19T22:43:50.062Z",
+        "observedAt": "2026-09-19T22:43:50.062Z",
+        "contentHash": "7d95f10736ad4801aba696cfacfa935ec1d6c8ad3c0e5a311938760feafea867",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.unirsm.sm/dottorato-ingegneria-economico-gestionale/",
+        "label": "Dottorato Ingegneria Economico-Gestionale",
+        "checkedAt": "2026-09-19T22:47:40.395Z",
+        "observedAt": "2026-09-19T22:47:40.395Z",
+        "contentHash": "c21fc837e8954f200f7a64f37b72a4583bba070053f9a93ec849fc37e48c2a0f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.unirsm.sm/ingegneria-gestionale-magistrale/",
+        "label": "Laurea magistrale Ingegneria Gestionale",
+        "checkedAt": "2026-09-19T22:47:39.862Z",
+        "observedAt": "2026-09-19T22:47:39.862Z",
+        "contentHash": "d7deee6e2db75a8d691e7a67a554c5ade8bbb37476c34dcd4ad40231327efa90",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "university-faroe-islands",
+    "name": "University of the Faroe Islands",
+    "country": "FO",
+    "city": "Tórshavn",
+    "officialUrl": "https://www.setur.fo/fo/utbugving/master/datuvisindi",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.setur.fo/fo/utbugving/master/datuvisindi",
+        "label": "MSc Data Science (Dátuvísindi)",
+        "checkedAt": "2026-09-19T22:43:47.709Z",
+        "observedAt": "2026-09-19T22:43:47.709Z",
+        "contentHash": "a6d87772fb2f2cd81c8a1e9785dcdbf37bb1d94f848102590537a29162365df4",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "university-gibraltar",
+    "name": "University of Gibraltar",
+    "country": "GI",
+    "city": "Europa Point",
+    "officialUrl": "https://www.unigib.edu.gi/courses/?course_type=postgraduate",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.unigib.edu.gi/courses/?course_type=postgraduate",
+        "label": "All 12 cards returned for official postgraduate filter",
+        "checkedAt": "2026-09-19T22:47:28.816Z",
+        "observedAt": "2026-09-19T22:47:28.816Z",
+        "contentHash": "d1f1947f8b8942c5a4df3bbb1e5215a06c2614d22ab756c1899bd0f0fbd4a499",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.unigib.edu.gi/courses/research/by-research-phd/",
+        "label": "PhD by Research",
+        "checkedAt": "2026-09-19T22:47:29.696Z",
+        "observedAt": "2026-09-19T22:47:29.696Z",
+        "contentHash": "4793f02fed7a9b313f1ffedc93a2f6d8622c33e7332e29b37de070321405f6d7",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "funding",
+        "url": "https://www.unigib.edu.gi/choose-unigib/scholarships/",
+        "label": "Becas de posgrado y doctorado · University of Gibraltar",
+        "checkedAt": "2026-09-19T22:43:49.595Z",
+        "observedAt": "2026-09-19T22:43:49.595Z",
+        "contentHash": "1411b0e5492ca6300c1b00c655ad3f2a40f600575bc59e34364f1230d3053391",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "american-university-armenia",
+    "name": "American University of Armenia",
+    "country": "AM",
+    "city": "Yerevan",
+    "officialUrl": "https://cse.aua.am/cis/",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://cse.aua.am/cis/",
+        "label": "MSc Computer and Information Science",
+        "checkedAt": "2026-09-19T22:44:15.277Z",
+        "observedAt": "2026-09-19T22:44:15.277Z",
+        "contentHash": "2e00c804bd847efe0a7bc64a7b9e478d2881a69dbebe13ac8c60adad2393c59c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://cse.aua.am/iesm-home/",
+        "label": "ME Industrial Engineering and Systems Management",
+        "checkedAt": "2026-09-19T22:47:41.607Z",
+        "observedAt": "2026-09-19T22:47:41.607Z",
+        "contentHash": "43fe75b31b2e977303620143a641439d573253bf44d2f7970933f43c092b83dd",
+        "accessOutcome": "ok"
+      }
+    ],
+    "geographyNote": "Ampliación académica del EEES; sede en Yerevan. No se presume localización en la Europa geográfica."
+  },
+  {
+    "id": "ada-university",
+    "name": "ADA University",
+    "country": "AZ",
+    "city": "Baku",
+    "officialUrl": "https://www.ada.edu.az/en/admission/find-your-program",
+    "sources": [
+      {
+        "type": "research",
+        "url": "https://www.ada.edu.az/en/admission/find-your-program",
+        "label": "Complete Find Your Program index, all levels",
+        "checkedAt": "2026-09-19T22:45:52.801Z",
+        "observedAt": "2026-09-19T22:45:52.801Z",
+        "contentHash": "db9f06c54b95205e8d628f7c6fb873b8575d68f830b494222982f165b9e97273",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.ada.edu.az/en/schools/site/programs/site-phd",
+        "label": "Oferta doctoral SITE — informática y áreas afines",
+        "checkedAt": "2026-09-19T22:44:17.608Z",
+        "observedAt": "2026-09-19T22:44:17.608Z",
+        "contentHash": "d85dd3cb92c82bfffd2a577e7963fec83fea2e4a89197e05f3e1c3b2557ceed2",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ada.edu.az/en/schools/site/programs/computer-science-and-data-analytics",
+        "label": "MSc Computer Science and Data Analytics · ADA/GW",
+        "checkedAt": "2026-09-19T22:44:16.725Z",
+        "observedAt": "2026-09-19T22:44:16.725Z",
+        "contentHash": "35dbc763e7dfabb28e59603237b850d622fbb07523cd952595fb4c69c6bb7ec8",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ada.edu.az/en/schools/site/programs/computer-engineering-and-high-performance-computing",
+        "label": "MSc Computer Engineering and High Performance Computing · ADA/GW",
+        "checkedAt": "2026-09-19T22:47:42.538Z",
+        "observedAt": "2026-09-19T22:47:42.538Z",
+        "contentHash": "17791c2676dd6ab20c77fd3164655b35bc44d63e8c0ca0f035c8af3f0a3c5a6f",
+        "accessOutcome": "ok"
+      }
+    ],
+    "geographyNote": "Ampliación académica del EEES; sede en Baku. No se presume localización en la Europa geográfica."
+  },
+  {
+    "id": "tbilisi-state-university",
+    "name": "Ivane Javakhishvili Tbilisi State University",
+    "country": "GE",
+    "city": "Tbilisi",
+    "officialUrl": "https://www.computing.tsu.ge/en/programs/2",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.computing.tsu.ge/en/programs/2",
+        "label": "Complete computing department masters index",
+        "checkedAt": "2026-09-19T22:47:43.181Z",
+        "observedAt": "2026-09-19T22:47:43.181Z",
+        "contentHash": "8763aec447b7c24707a89ef501487e47db4638d194c3462be2783925bc8926a4",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.computing.tsu.ge/en/programs/3",
+        "label": "Complete computing department doctoral index",
+        "checkedAt": "2026-09-19T22:49:29.686Z",
+        "observedAt": "2026-09-19T22:49:29.686Z",
+        "contentHash": "98344a3ab22be668b4807cbf0ecd7a2121b3028f4a5880731c6e7cda643749f5",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.computing.tsu.ge/en/programsIn/2",
+        "label": "Master Computer Science",
+        "checkedAt": "2026-09-19T22:45:19.786Z",
+        "observedAt": "2026-09-19T22:45:19.786Z",
+        "contentHash": "f9b3eb25ea75e099612cf50a8153f6b2eb48d6ad5f2fc589a3e0b565784733b2",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.computing.tsu.ge/en/programsIn/4",
+        "label": "Master Information Technology",
+        "checkedAt": "2026-09-19T22:50:22.312Z",
+        "observedAt": "2026-09-19T22:50:22.312Z",
+        "contentHash": "6a9b854d997b9a8c8e0be378bd0cc592795e1c9f87b137d89b9f6177fad683fe",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.computing.tsu.ge/en/programsIn/5",
+        "label": "Doctor of Computing — Computer Science",
+        "checkedAt": "2026-09-19T22:50:19.140Z",
+        "observedAt": "2026-09-19T22:50:19.140Z",
+        "contentHash": "5bf8513ec6269df2fd692fceb035235ed1c830c81d928859ebf56edbcfdd9f9e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.computing.tsu.ge/en/programsIn/3",
+        "label": "Master Information Systems",
+        "checkedAt": "2026-09-19T22:50:20.697Z",
+        "observedAt": "2026-09-19T22:50:20.697Z",
+        "contentHash": "204f1dcb1d1b4606b91252b04a5201447e35e66a3d13a4d397f9ece2ab307fd5",
+        "accessOutcome": "ok"
+      }
+    ],
+    "geographyNote": "Ampliación académica del EEES; sede en Tbilisi. No se presume localización en la Europa geográfica."
   }
 ]
