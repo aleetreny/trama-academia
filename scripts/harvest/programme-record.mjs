@@ -1,8 +1,9 @@
 import {load} from 'cheerio';
 import {getPage} from './http.mjs';
-import {clean,idFor,fieldsFrom} from './domain.mjs';
+import {clean,idFor,fieldsFrom,canonicalUrl} from './domain.mjs';
 import {programmeText,hasResearchComponent} from './programme-evidence.mjs';
 import {extractPdfText} from './pdf.mjs';
+import {nuxtProgrammeText} from './nuxt-programme.mjs';
 
 const FIELDS=['Ciencia de datos','Machine learning','Estadística','Informática','Matemáticas aplicadas'];
 const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").replace(/[–—−]/g,'-').toLowerCase();
@@ -10,6 +11,7 @@ const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").re
 // Detailed editorial facts remain verified only while their supporting text exists.
 // A failed check is handled by the runner without overwriting the last good record.
 export async function verifyProgramme(seed,fetchPage=getPage){
+ if(!['grado','master','doctorado','postdoc','faculty'].includes(seed.stage))throw new Error('invalid_programme_stage');
  const documents=new Map();
  const references=new Map();
  const primaryUrl=seed.primaryEvidenceUrl||seed.url;
@@ -22,10 +24,11 @@ export async function verifyProgramme(seed,fetchPage=getPage){
  for(const reference of references.values()){
   const isPdf=reference.format==='pdf';
   const page=await fetchPage(reference.url,isPdf?{format:'pdf'}:{});
-  const text=isPdf?clean(await extractPdfText(page)):programmeText(page.body);
+  if(reference.pages&&!isPdf)throw new Error('page_selection_requires_pdf');
+  const text=isPdf?clean(await extractPdfText(page,{pages:reference.pages})):reference.format==='nuxt-programme'?nuxtProgrammeText(page.body,page.finalUrl,reference.programmeId):programmeText(page.body);
   const heading=isPdf?'':clean(load(page.body)('h1').text());
   if(/page not found|404 not found|page introuvable/i.test(heading)||text.length<200||/verify that you.re not a robot|javascript is disabled|enable javascript and then reload/i.test(text.slice(0,500)))throw new Error('content_missing: '+reference.url);
-  documents.set(reference.url,{...page,text,label:reference.label});
+  documents.set(reference.url,{...page,text,label:reference.label,...(reference.pages?{pages:reference.pages}:{})});
  }
  const primary=documents.get(primaryUrl);
  const research=documents.get(seed.researchEvidenceUrl||primaryUrl);
@@ -37,11 +40,18 @@ export async function verifyProgramme(seed,fetchPage=getPage){
  for(const check of seed.evidenceChecks||[]){
   const document=documents.get(check.url||primaryUrl);
   if(!document)throw new Error('evidence_source_missing: '+check.field);
-  if(!check.phrases?.length||check.phrases.some(phrase=>!phrase.trim()||!normalized(document.text).includes(normalized(phrase))))throw new Error('evidence_changed: '+check.field);
+  if(!check.phrases?.length&&!check.links?.length)throw new Error('evidence_check_empty: '+check.field);
+  if(check.phrases?.some(phrase=>!phrase.trim()||!normalized(document.text).includes(normalized(phrase))))throw new Error('evidence_changed: '+check.field);
+  if(check.links?.length){
+   const $=load(document.body),links=new Set();
+   $('a[href]').each((_,element)=>{try{links.add(canonicalUrl(new URL($(element).attr('href'),document.finalUrl).href));}catch{}});
+   if(check.links.some(url=>!links.has(canonicalUrl(url))))throw new Error('evidence_link_changed: '+check.field);
+  }
  }
  const checkedAt=[...documents.values()].map(p=>p.checkedAt).sort()[0];
- const record={...seed,id:idFor(seed.url),applyUrl:seed.url,sourceId:'programme-'+idFor(seed.url),sourceName:seed.institution,status:'programme',verifiedAt:checkedAt,seenAt:primary.checkedAt,deadline:null,deadlinePrecision:null,fields,funding:seed.funding||{kind:seed.kind.includes('funding')?'scholarship':'unconfirmed',text:seed.kind.includes('funding')?'Ayuda competitiva; consultar importe':'Financiación no garantizada'},duration:seed.duration||null,languages:seed.languages||[],contract:seed.contract||null,programmeType:seed.programmeType||(seed.stage==='master'?'Máster con componente de investigación':seed.kind.includes('funding')?'Programa de financiación':seed.stage==='grado'?'Estancia de investigación':'Programa doctoral'),researchNote:seed.researchNote||(seed.stage==='master'?'La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.':undefined),lastError:null,evidence:{contentHash:primary.hash,checkedUrl:primary.finalUrl,method:'official-programme-page',researchUrl:research.finalUrl,references:[...documents.values()].map(p=>({url:p.finalUrl,label:p.label,checkedAt:p.checkedAt,contentHash:p.hash})),checks:(seed.evidenceChecks||[]).map(c=>c.field)}};
+ const record={...seed,id:idFor(seed.url),applyUrl:seed.url,sourceId:'programme-'+idFor(seed.url),sourceName:seed.institution,status:'programme',verifiedAt:checkedAt,seenAt:primary.checkedAt,deadline:null,deadlinePrecision:null,fields,funding:seed.funding||{kind:seed.kind.includes('funding')?'scholarship':'unconfirmed',text:seed.kind.includes('funding')?'Ayuda competitiva; consultar importe':'Financiación no garantizada'},duration:seed.duration||null,languages:seed.languages||[],contract:seed.contract||null,programmeType:seed.programmeType||(seed.stage==='master'?'Máster con componente de investigación':seed.kind.includes('funding')?'Programa de financiación':seed.stage==='grado'?'Estancia de investigación':'Programa doctoral'),researchNote:seed.researchNote||(seed.stage==='master'?'La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.':undefined),lastError:null,evidence:{contentHash:primary.hash,checkedUrl:primary.finalUrl,method:'official-programme-page',researchUrl:research.finalUrl,references:[...documents.values()].map(p=>({url:p.finalUrl,label:p.label+(p.pages?' · págs. '+p.pages.join(', '):''),checkedAt:p.checkedAt,contentHash:p.hash,...(p.pages?{pages:p.pages}:{})})),checks:(seed.evidenceChecks||[]).map(c=>c.field)}};
  if(seed.primaryEvidenceUrl)record.evidence.method='official-programme-registry';
+ else if(references.get(primaryUrl).format==='nuxt-programme')record.evidence.method='official-programme-embedded-data';
  delete record.primaryEvidenceUrl;delete record.researchEvidenceUrl;delete record.evidencePages;delete record.evidenceChecks;
  return record;
 }

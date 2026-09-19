@@ -20,9 +20,11 @@ export function computeTiers(institutions,subject,directory){
   value.top10Share=value.impactEligible?value.top10/value.impactEligible:null;
   value.impactLower=wilsonLower(value.top10,value.impactEligible);
   if(!id)value.reason='identity-unmatched';
-  else if(i.geography!=='europe')value.reason='geography-pending';
+  else if(i.geography==='ehea-extension'&&!subject.countryScope?.includes(i.country))value.reason='scope-pending';
+  else if(!['europe','ehea-extension'].includes(i.geography))value.reason='geography-pending';
   else if(value.volume<50||value.impactEligible<50)value.reason='small-sample';
   else if(value.impactCoverage<0.8)value.reason='citation-coverage';
+  if(value.reason==='scope-pending')for(const key of ['volume','impactTotal','impactEligible','top10','impactCoverage','top10Share','impactLower'])value[key]=null;
   return value;
  });
  const eligible=rows.filter(x=>x.reason===null);

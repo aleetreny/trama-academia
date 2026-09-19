@@ -5,10 +5,11 @@ import {getPage,observations,persistObservations} from './http.mjs';
 import {programmeText} from './programme-evidence.mjs';
 import {fieldsFrom,idFor} from './domain.mjs';
 import {addDiscoveryJob,selectDiscoveryJobs,discoverLinks,publicUrl} from './institution-discovery.mjs';
+import {readCrawlState,writeCrawlState} from './crawl-state.mjs';
 
-const registryFile='data/institutions.json',queueFile='data/institution-crawl.json';
+const registryFile='data/institutions.json';
 const registry=JSON.parse(await fs.readFile(registryFile,'utf8'));
-let state={schemaVersion:1,jobs:[],runs:[]};try{state=JSON.parse(await fs.readFile(queueFile,'utf8'));}catch(error){if(error.code!=='ENOENT')throw error;}
+const state=await readCrawlState();
 const jobs=new Map(state.jobs.map(x=>[x.id,x])),institutions=new Map(registry.institutions.map(x=>[x.id,x]));
 for(const institution of institutions.values()){
  const active=Object.values(institution.researchMetrics||{}).some(x=>(x.volume||0)>=20);
@@ -26,7 +27,7 @@ function summary(){
 }
 function save(){saving=saving.then(async()=>{
  const snapshot={...state,generatedAt:new Date().toISOString(),summary:summary(),jobs:[...jobs.values()],runs:[...state.runs.slice(-19),run]};
- await fs.writeFile(queueFile+'.tmp',JSON.stringify(snapshot)+'\n');await fs.rename(queueFile+'.tmp',queueFile);
+ await writeCrawlState(snapshot);
  });return saving;}
 async function worker(){while(next<selected.length&&Date.now()<deadline){
  const job=selected[next++],institution=institutions.get(job.institutionId);if(!institution)continue;

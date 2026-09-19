@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import {openAlex,allGroups} from './openalex-client.mjs';
-import {EUROPE_CODES,TRANSCONTINENTAL_CODES} from './institution-universe.mjs';
+import {EUROPE_CODES,ACADEMIC_EXTENSION_CODES,TRANSCONTINENTAL_CODES} from './institution-universe.mjs';
 
 const universeFile=process.argv[2]||'work/ror/universe.json';
 const output=process.argv[3]||'work/openalex/indicators.json';
@@ -22,7 +22,8 @@ const subjects=[
  {id:'applied-math',name:'Matemáticas aplicadas',filter:'primary_topic.subfield.id:2604',taxonomy:['https://openalex.org/subfields/2604']}
 ];
 const data={generatedAt:new Date().toISOString(),provider:'OpenAlex',license:'CC0-1.0',status:'in_progress',workTypes:['article','conference-paper','data-paper','software-paper'],universeProvenance:universe.provenance,identityCount:Object.keys(directory).length,subjects:[]};
-const countries=[...EUROPE_CODES,...TRANSCONTINENTAL_CODES].join('|');
+const countryScope=[...EUROPE_CODES,...ACADEMIC_EXTENSION_CODES,...TRANSCONTINENTAL_CODES];
+const countries=countryScope.join('|');
 for(const subject of subjects){
  const metrics={};
  const base=subject.filter+',is_retracted:false,authorships.institutions.country_code:'+countries;
@@ -42,7 +43,7 @@ for(const subject of subjects){
   await fs.mkdir('work/openalex/groups',{recursive:true});
   await fs.writeFile('work/openalex/groups/'+subject.id+'-'+metric+'.json',JSON.stringify(metrics[metric]));
  }
- data.subjects.push({...subject,metrics});
+ data.subjects.push({...subject,countryScope,metrics});
  await fs.writeFile(output,JSON.stringify(data));
 }
 data.status='complete';data.generatedAt=new Date().toISOString();await fs.writeFile(output,JSON.stringify(data));

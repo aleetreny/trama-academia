@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import {createHash} from 'node:crypto';
-import {EUROPE_CODES} from './institution-universe.mjs';
+import {institutionGeography} from './institution-universe.mjs';
 import {computeTiers} from './research-tiers.mjs';
 const normal=s=>String(s||'').normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
 const host=url=>{try{return new URL(url).hostname.replace(/^www\./,'');}catch{return null;}};
@@ -30,7 +30,7 @@ for(const item of curated){
  let record=institutions.get(id);
  if(!record){
   const location=ror?.locations.find(x=>x.geonames_details.country_code===item.country)?.geonames_details;
-  record={id,ror:ror?.id||null,name:ror?.names.find(x=>x.types.includes('ror_display'))?.value||item.name,aliases:ror?.names.map(x=>x.value)||[],country:item.country,city:location?.name||item.city||null,coordinates:location?{lat:location.lat,lng:location.lng}:null,officialUrl:ror?.links.find(x=>x.type==='website')?.value||item.officialUrl||null,domains:ror?.domains||[],types:ror?.types||['research-source'],geography:EUROPE_CODES.includes(item.country)?'europe':'campus-review',reviewStatus:'candidate',sources:[],researchMetrics:{},provenance:ror?{source:'ROR',release:data.provenance.url}:{source:'official-source-review'}};
+  record={id,ror:ror?.id||null,name:ror?.names.find(x=>x.types.includes('ror_display'))?.value||item.name,aliases:ror?.names.map(x=>x.value)||[],country:item.country,city:location?.name||item.city||null,coordinates:location?{lat:location.lat,lng:location.lng}:null,officialUrl:ror?.links.find(x=>x.type==='website')?.value||item.officialUrl||null,domains:ror?.domains||[],types:ror?.types||['research-source'],geography:institutionGeography(item.country),reviewStatus:'candidate',sources:[],researchMetrics:{},provenance:ror?{source:'ROR',release:data.provenance.url}:{source:'official-source-review'}};
  }
  const sourceMap=new Map(record.sources.map(x=>[x.url,x]));
  for(const source of item.sources||[]){
@@ -62,7 +62,7 @@ try{
  data.research={provider:'OpenAlex',license:'CC0-1.0',generatedAt:metrics.generatedAt,status:metrics.status,workTypes:metrics.workTypes,activityWindow:[2020,2024],impactWindow:[2020,2022],subjects:[]};
  for(const subject of metrics.subjects){
   const rows=computeTiers(data.institutions,subject,identities.directory);
-  data.research.subjects.push({id:subject.id,name:subject.name,taxonomy:subject.taxonomy,cohortSize:rows.filter(x=>x.tier).length,references:Object.fromEntries(Object.entries(subject.metrics).map(([name,m])=>[name,{url:m.references[0]?.url,urls:m.references.filter(x=>new URL(x.url).searchParams.get('cursor')==='*').map(x=>x.url),pages:m.references.length,groups:m.groups.length,checkedAt:m.references.map(x=>x.checkedAt).sort()[0]}]))});
+  data.research.subjects.push({id:subject.id,name:subject.name,taxonomy:subject.taxonomy,countryScope:subject.countryScope,cohortSize:rows.filter(x=>x.tier).length,references:Object.fromEntries(Object.entries(subject.metrics).map(([name,m])=>[name,{url:m.references[0]?.url,urls:m.references.filter(x=>new URL(x.url).searchParams.get('cursor')==='*').map(x=>x.url),pages:m.references.length,groups:m.groups.length,checkedAt:m.references.map(x=>x.checkedAt).sort()[0]}]))});
   for(const row of rows){const {institutionId,...metric}=row;institutions.get(institutionId).researchMetrics[subject.id]=metric;}
  }
 }catch(error){if(error.code!=='ENOENT')throw error;}

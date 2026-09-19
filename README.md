@@ -4,6 +4,8 @@
 
 Un atlas de oportunidades académicas en Europa para ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas.
 
+El ámbito principal es Europa; Armenia, Azerbaiyán y Georgia se identifican como ampliación académica del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Se incluyen países pequeños y territorios.
+
 TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, investigación posdoctoral y carrera académica. Incluye financiación, comparación de hasta tres oportunidades, condiciones del doctorado por país y un registro público de cobertura.
 
 ## Qué contiene
@@ -90,7 +92,7 @@ El universo de búsqueda, la cola reanudable y el método de tiers se documentan
 - `data/programmes.seed.json`: programas y evidencia institucional.
 - `data/institutions.curated.json`: fuentes institucionales localizadas y asociaciones revisadas con ROR.
 - `data/institutions.json`: inventario público, indicadores y avance por institución.
-- `data/institution-crawl.json`: cola persistente, procedencia de enlaces y últimas ejecuciones.
+- `data/institution-crawl.json.gz`: cola persistente comprimida, procedencia de enlaces y últimas ejecuciones; `institution-crawl.summary.json` mantiene un resumen legible.
 - `scripts/harvest/`: adquisición, parsers, reglas, auditoría y revisión.
 - `data/country-guides.ts`: comparaciones con referencias oficiales y fecha.
 
@@ -98,6 +100,6 @@ Una fuente nueva debe declarar la geografía, recorrer su paginación, mantener 
 
 ## Publicación
 
-El proyecto está registrado en Sites mediante `.openai/hosting.json`. El Worker compilado y sus activos se generan en `dist/`. Antes de publicar, el código exacto se confirma en Git, se envía al repositorio de origen de Sites y se guarda una versión con ese SHA. El archivo desplegable contiene solo el resultado compilado y el manifiesto de alojamiento, nunca archivos de entorno ni páginas brutas del rastreador.
+El proyecto está registrado en Sites mediante `.openai/hosting.json`. El Worker compilado y sus activos se generan en `dist/`. Antes de publicar, el código exacto se confirma en Git. La rama `sites-source` conserva un historial de publicación con el mismo árbol de archivos de la edición de `main`, sin arrastrar objetos históricos que superen el límite del alojamiento. Cada commit de publicación identifica el commit de `main` y debe tener el mismo árbol. Se envía esa rama al repositorio de Sites, se compila desde su checkout y se guarda la versión con su SHA exacto; `main` conserva íntegro su historial. El archivo desplegable contiene solo el resultado compilado y el manifiesto de alojamiento, nunca archivos de entorno ni páginas brutas del rastreador.
 
 Los datos y textos de convocatorias pertenecen a sus fuentes. TRAMA publica metadatos y extractos breves con enlaces al anuncio original; no almacena ni publica candidaturas o información de solicitantes.
