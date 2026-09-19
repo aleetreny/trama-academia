@@ -19,7 +19,9 @@
     "harvest:verify": "node scripts/harvest/verify-known.mjs",
     "harvest:audit": "node scripts/harvest/audit.mjs",
     "db:sync": "node scripts/db/sync.mjs",
-    "db:migrate": "node scripts/db/migrate.mjs"
+    "db:migrate": "node scripts/db/migrate.mjs",
+    "harvest:institutions": "node scripts/harvest/discover-institutions.mjs",
+    "db:sync:institutions": "node scripts/db/sync-institutions.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

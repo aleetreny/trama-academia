@@ -1,4 +1,4 @@
-import { pgTable, text, timestamp, jsonb, integer, index } from 'drizzle-orm/pg-core';
+import { pgTable, text, timestamp, jsonb, integer, index, boolean } from 'drizzle-orm/pg-core';
 
 export const opportunities = pgTable('opportunities', {
   id: text('id').primaryKey(),
@@ -31,3 +31,15 @@ export const observations = pgTable('observations', {
   checkedAt:timestamp('checked_at',{withTimezone:true}).notNull(), httpStatus:integer('http_status'),
   hash:text('content_hash'), outcome:text('outcome').notNull(),
 },(t)=>[index('observations_url_checked_idx').on(t.url,t.checkedAt)]);
+
+export const institutions = pgTable('institutions', {
+  id:text('id').primaryKey(), country:text('country').notNull(), name:text('name').notNull(),
+  searchText:text('search_text').notNull(), hasSources:boolean('has_sources').notNull(),
+  priority:boolean('priority').notNull(), contentHash:text('content_hash').notNull(),
+  updatedAt:timestamp('updated_at',{withTimezone:true}).notNull(), payload:jsonb('payload').notNull(),
+},(t)=>[index('institutions_country_idx').on(t.country),index('institutions_priority_name_idx').on(t.priority,t.hasSources,t.name)]);
+
+export const institutionEditions = pgTable('institution_editions', {
+  id:text('id').primaryKey(), updatedAt:timestamp('updated_at',{withTimezone:true}).notNull(),
+  payload:jsonb('payload').notNull(),
+});

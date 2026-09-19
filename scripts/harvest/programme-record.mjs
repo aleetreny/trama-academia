@@ -11,9 +11,13 @@ const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").re
 // A failed check is handled by the runner without overwriting the last good record.
 export async function verifyProgramme(seed,fetchPage=getPage){
  const documents=new Map();
- const references=[{url:seed.url,label:'Información del programa'},...(seed.researchEvidenceUrl?[{url:seed.researchEvidenceUrl,label:'Plan y trabajo de investigación'}]:[]),...(seed.evidencePages||[])];
- for(const reference of references){
-  if(documents.has(reference.url))continue;
+ const references=new Map();
+ for(const reference of [{url:seed.url,label:'Información del programa'},...(seed.researchEvidenceUrl?[{url:seed.researchEvidenceUrl,label:'Plan y trabajo de investigación'}]:[]),...(seed.evidencePages||[])]){
+  // Supporting metadata must survive when the same document is the research
+  // reference. Otherwise an explicitly declared PDF is accidentally read as HTML.
+  references.set(reference.url,{...references.get(reference.url),...reference});
+ }
+ for(const reference of references.values()){
   const isPdf=reference.format==='pdf';
   const page=await fetchPage(reference.url,isPdf?{format:'pdf'}:{});
   const text=isPdf?clean(await extractPdfText(page)):programmeText(page.body);

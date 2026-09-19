@@ -20,7 +20,7 @@ async function policy(origin){
   const url=origin+'/robots.txt';const r=await fetch(url,{headers:{'User-Agent':AGENT},signal:AbortSignal.timeout(20000)});
   if([404,410].includes(r.status))return robotsParser(url,'User-agent: *\nAllow: /');
   if(!r.ok)throw new Error('robots_unavailable_'+r.status);
-  const body=await r.text();if(/<html/i.test(body))throw new Error('robots_invalid');
+  const body=(await readResponseBytes(r,1_000_000)).toString('utf8');if(/<html/i.test(body))throw new Error('robots_invalid');
   return robotsParser(url,body);
  })());return robots.get(origin);
 }

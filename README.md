@@ -1,6 +1,6 @@
 # trama.
 
-[Abrir TRAMA](https://trama-academia.aleetreny.chatgpt.site) · [Consultar cobertura](https://trama-academia.aleetreny.chatgpt.site/fuentes)
+[Abrir TRAMA](https://trama-academia.aleetreny.chatgpt.site) · [Consultar cobertura](https://trama-academia.aleetreny.chatgpt.site/fuentes) · [Explorar instituciones](https://trama-academia.aleetreny.chatgpt.site/instituciones)
 
 Un atlas de oportunidades académicas en Europa para ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas.
 
@@ -13,6 +13,8 @@ TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, invest
 - Las fichas detalladas enlazan los documentos de admisión, financiación y plan académico, incluidos PDF oficiales. Las nuevas incorporaciones verifican también frases que sustentan sus condiciones: si cambian, conservan la última ficha y la marcan para revisión.
 - Fuente, última comprobación, plazo, requisitos, tipo de contrato, duración y financiación cuando están publicados. Los campos desconocidos se mantienen como desconocidos.
 - Una instantánea pública en `data/catalogue.json` y una base PostgreSQL en Neon. La web utiliza Neon y conserva una copia de respaldo si la consulta falla.
+- Un inventario institucional con identidad ROR, fuentes oficiales y una cola de rastreo que conserva pendientes, documentos y bloqueos. Los candidatos del inventario no cuentan como oportunidades.
+- Tiers bibliométricos por disciplina con cifras, umbrales, ventanas temporales y consultas de origen visibles. La primera edición completa corresponde a informática; IA, estadística y matemáticas aplicadas siguen pendientes. La ausencia de datos no recibe un tier bajo.
 
 **La cobertura es parcial y medible. No es un inventario exhaustivo de Europa, ni una comprobación continua de todas las webs.** AcademicTransfer todavía descubre anuncios por títulos con disciplina reconocible; EURAXESS puede bloquear páginas adicionales. Los detalles de cada barrido se muestran en `/fuentes`.
 
@@ -45,12 +47,15 @@ La web pública no necesita iniciar sesión. La base se conecta por HTTPS con `@
 1. Descubrir y verificar vacantes con `npm run harvest`.
 2. Comprobar programas con `npm run harvest:programmes`.
 3. Revisar anuncios conocidos que no aparecieron de nuevo con `npm run harvest:verify`.
-4. Validar geografía, etapas, identidad, fechas y evidencia con `npm run harvest:audit`.
-5. Publicar mediante `npm run db:sync` y guardar la instantánea en Git.
+4. Continuar la cola institucional con `npm run harvest:institutions`, alternando países y limitando el trabajo por institución.
+5. Validar geografía, etapas, identidad, fechas y evidencia con `npm run harvest:audit`.
+6. Publicar mediante `npm run db:sync` y `npm run db:sync:institutions`, y guardar las instantáneas y la cola en Git.
 
 El secreto de repositorio `DATABASE_URL` es una credencial específica del recolector con SELECT, INSERT y UPDATE; no permite DELETE ni cambios de esquema. El sitio usa un rol distinto de solo lectura. Las migraciones de `db/migrations` se aplican por separado con una credencial de administración, primero en una rama de validación.
 
 Las páginas de resultados vuelven a consultar el catálogo cada cinco minutos y tienen un botón de actualización. El API permite una caché de hasta 60 segundos. Esto actualiza los datos ya recolectados; **no lanza un nuevo rastreo de internet**.
+
+El registro institucional consulta Neon con filtros y páginas de 25 entidades. La actualización semanal continúa el descubrimiento de fuentes; las incorporaciones de programas siguen necesitando evidencia y revisión editorial. No recalcula automáticamente los indicadores bibliométricos ni declara terminada una institución por haber leído su página inicial.
 
 ## Reglas de vigencia y extracción
 
@@ -77,10 +82,15 @@ Para revisar solo programas sin reutilizar el identificador de una ejecución an
 
 El comportamiento y las limitaciones de los nuevos conectores se documentan en [docs/source-adapters.md](docs/source-adapters.md).
 
+El universo de búsqueda, la cola reanudable y el método de tiers se documentan en [docs/institution-discovery.md](docs/institution-discovery.md).
+
 ## Ampliar la cobertura
 
 - `data/sources.json`: fuentes, adaptadores, alcance y puntos de entrada.
 - `data/programmes.seed.json`: programas y evidencia institucional.
+- `data/institutions.curated.json`: fuentes institucionales localizadas y asociaciones revisadas con ROR.
+- `data/institutions.json`: inventario público, indicadores y avance por institución.
+- `data/institution-crawl.json`: cola persistente, procedencia de enlaces y últimas ejecuciones.
 - `scripts/harvest/`: adquisición, parsers, reglas, auditoría y revisión.
 - `data/country-guides.ts`: comparaciones con referencias oficiales y fecha.
 

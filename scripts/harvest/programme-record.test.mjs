@@ -23,3 +23,10 @@ test('missing supporting evidence never creates a new programme from an unverifi
  await assert.rejects(verifyProgramme(seed,async url=>{if(url.endsWith('/conditions'))throw new Error('http_403');return fetcher()(url);}),/http_403/);
  assert.deepEqual(mergeProgrammeRecords([],[],[{id:'programme-new',status:'partial',report:{errors:[{error:'http_403'}]}}]),[]);
 });
+test('a PDF used as the research reference retains its declared transport format',async()=>{
+ const url='https://example.edu/curriculum.pdf';let observed;
+ await assert.rejects(verifyProgramme({...seed,researchEvidenceUrl:url,evidencePages:[{url,format:'pdf',label:'Curriculum'}]},async (requested,options)=>{
+  if(requested===url){observed=options.format;throw new Error('pdf_transport_reached');}return fetcher()(requested);
+ }),/pdf_transport_reached/);
+ assert.equal(observed,'pdf');
+});
