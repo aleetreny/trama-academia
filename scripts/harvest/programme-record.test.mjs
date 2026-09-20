@@ -169,6 +169,10 @@ test('Czech thesis-defence rules retain the genitive diplomove prace without acc
 test('the Chemnitz curriculum spelling Master-Arbeit identifies its thesis module',()=>{
  assert.equal(hasResearchComponent('Forschungsseminar und Forschungspraktikum (3. Semester) Modul Master-Arbeit (4. Semester)'),true);
 });
+test('research components survive German PDF line wrapping and explicit French and English internship labels',()=>{
+ for(const text of ['Master-\nArbeit mit Vortrag 30 ECTS','Research internships Advanced research training: 20 weeks','40% des stages de recherche sont effectués à l’international.','The research internship involves model development and computational tools for data analysis.','The Master MISS is a research focused Masters degree'])assert.equal(hasResearchComponent(text),true);
+ for(const text of ['Bachelor-\nArbeit 12 ECTS','Internship semester in a company','Stages en entreprise pour découvrir les métiers','Research careers after an internship semester','A focused masters degree with research skills training'])assert.equal(hasResearchComponent(text),false);
+});
 test('Fribourg travail de master identifies the final dissertation',()=>{
  assert.equal(hasResearchComponent('Le travail de master porte généralement sur un thème lié aux projets actuels de recherche ou de coopération avec des entreprises.'),true);
  assert.equal(hasResearchComponent('La seconde partie du programme est le travail de master, permettant de contribuer activement à des activités de recherche concrètes.'),true);
