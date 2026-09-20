@@ -1414,6 +1414,159 @@
         "discoveredFrom": "https://www.york.ac.uk/study/postgraduate-research/funding/international/",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate/courses/all?mode=taught",
+        "type": "masters",
+        "label": "Índice oficial · University of York",
+        "observedAt": "2026-09-20T11:02:39.199Z",
+        "checkedAt": "2026-09-20T11:02:39.199Z",
+        "contentHash": "b8cb66ac42b23ae2cb755e81ea7aa8f5d5144b465ffbeff660c08ed5415cb0f2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate/courses/all?level=postgraduate&mode=research&q=",
+        "type": "phd",
+        "label": "Índice oficial · University of York",
+        "observedAt": "2026-09-20T11:02:39.878Z",
+        "checkedAt": "2026-09-20T11:02:39.878Z",
+        "contentHash": "7a21ab6d762f4d94c8fca11dc6370de91a0347645f888d93bc847e371d08788e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/computer-science/study/postgraduate-research/phd-computer-science/",
+        "type": "phd",
+        "label": "PhD — Computer Science",
+        "observedAt": "2026-09-20T11:57:40.675Z",
+        "checkedAt": "2026-09-20T11:57:40.675Z",
+        "contentHash": "c03b32f9b4f3d8a055c1c44dc9f11f8c490c922a3cbd63fc0b8b02b4ae65fe12",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/computer-science/study/postgraduate-research/msc-computer-science-by-research/",
+        "type": "masters",
+        "label": "Computer Science (by research)",
+        "observedAt": "2026-09-20T11:57:41.379Z",
+        "checkedAt": "2026-09-20T11:57:41.379Z",
+        "contentHash": "774cc5756cf61cc0b0e07ccc332080506dcf188bbb8c8fa3aa19d9c8e47f51e9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/maths/study/postgraduate-research/phd-mphil-mathematics/",
+        "type": "phd",
+        "label": "PhD — Mathematics",
+        "observedAt": "2026-09-20T11:57:42.144Z",
+        "checkedAt": "2026-09-20T11:57:42.144Z",
+        "contentHash": "f8abbfdc5e94ba398e761eefa4f21153929bb78efd0c83f350602b2e0f61580c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-advanced-computer-science/",
+        "type": "masters",
+        "label": "Advanced Computer Science",
+        "observedAt": "2026-09-20T11:57:42.963Z",
+        "checkedAt": "2026-09-20T11:57:42.963Z",
+        "contentHash": "8daab1d30def38e55c7220b2b7d5b1ddd768383def0b77376491f1714a697e8a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-artificial-intelligence/",
+        "type": "masters",
+        "label": "Artificial Intelligence",
+        "observedAt": "2026-09-20T11:57:43.737Z",
+        "checkedAt": "2026-09-20T11:57:43.737Z",
+        "contentHash": "2cd53b89908b2982fa19408259e1e2276d00979641cc194e98770aa79267f2ff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-ai-technology-enhanced-learning/",
+        "type": "masters",
+        "label": "Artificial Intelligence and Technology-Enhanced Learning",
+        "observedAt": "2026-09-20T11:57:44.566Z",
+        "checkedAt": "2026-09-20T11:57:44.566Z",
+        "contentHash": "f9d376a574a46f535f4bfb14b4d6cb91c136f16dd3f10ef6314c197e12f58a9e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-bioinformatics/",
+        "type": "masters",
+        "label": "Bioinformatics",
+        "observedAt": "2026-09-20T11:57:45.349Z",
+        "checkedAt": "2026-09-20T11:57:45.349Z",
+        "contentHash": "06031689c9b968559991146bf1d9ea3b8fa27fe391c14131e9bdaff54508f4c1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-business-analytics/",
+        "type": "masters",
+        "label": "Business Analytics",
+        "observedAt": "2026-09-20T11:57:44.578Z",
+        "checkedAt": "2026-09-20T11:57:44.578Z",
+        "contentHash": "2bd3a110d2ad89b394d425f735e388a35c4b0c6e3fabbb1de2f563a7aed3e6ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cyber-security/",
+        "type": "masters",
+        "label": "Cyber Security",
+        "observedAt": "2026-09-20T11:57:46.154Z",
+        "checkedAt": "2026-09-20T11:57:46.154Z",
+        "contentHash": "782ccbac490c1299e16c836a6e1552cdc821bec339d4693ec00508307082ae91",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-data-science-computational/",
+        "type": "masters",
+        "label": "Data Science",
+        "observedAt": "2026-09-20T11:57:46.973Z",
+        "checkedAt": "2026-09-20T11:57:46.973Z",
+        "contentHash": "f17862c9bbc2490b4ad8ab0316b79e3f1d11516c52d17ce6eae1e39ac33a1f97",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-data-science-psychology/",
+        "type": "masters",
+        "label": "Data Science (Psychology)",
+        "observedAt": "2026-09-20T11:57:48.518Z",
+        "checkedAt": "2026-09-20T11:57:48.518Z",
+        "contentHash": "931dd822bec4a8b1edfb95bd85be2fb1da9da07bd9132210ee62d5782df8d28b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-data-science-scientific/",
+        "type": "masters",
+        "label": "Data Science (Scientific)",
+        "observedAt": "2026-09-20T11:57:50.264Z",
+        "checkedAt": "2026-09-20T11:57:50.264Z",
+        "contentHash": "d81a8b6ad94504b02b805956ce804089f93acab7d8a69fefe77d4df1f8cb07b4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-mathematical-finance/",
+        "type": "masters",
+        "label": "Mathematical Finance",
+        "observedAt": "2026-09-20T11:57:50.918Z",
+        "checkedAt": "2026-09-20T11:57:50.918Z",
+        "contentHash": "ee0c2c143407a018a30d9f4b2fedc3afe69ff6a6a9207eadb7bfa89127a92276",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-mathematical-sciences/",
+        "type": "masters",
+        "label": "Mathematical Sciences",
+        "observedAt": "2026-09-20T11:57:51.711Z",
+        "checkedAt": "2026-09-20T11:57:51.711Z",
+        "contentHash": "ada101fc99249fe41588f71326889366825551e4ce7fa0be6dc9e15c3a1c96dd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-statistics-and-computational-finance/",
+        "type": "masters",
+        "label": "Statistics and Computational Finance",
+        "observedAt": "2026-09-20T11:57:52.505Z",
+        "checkedAt": "2026-09-20T11:57:52.505Z",
+        "contentHash": "a6c5f56950838045a460db29fd2562f0fc4ed7201b2a0a1195387612aa9dd3fb",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -1522,15 +1675,13 @@
         "contentHash": null
       },
       {
-        "type": "phd",
         "url": "https://www.exeter.ac.uk/study/pg-research/degrees/",
-        "label": "PhDs and research degrees",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:19.585Z",
-        "discoveredFrom": "https://www.exeter.ac.uk/masters-degrees/msc-advanced-machine-learning/",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "phd",
+        "label": "Índice oficial · University of Exeter",
+        "observedAt": "2026-09-20T11:02:41.132Z",
+        "checkedAt": "2026-09-20T11:02:41.132Z",
+        "contentHash": "c6ad5c105c06b0eaa573aefdd1e0cf63c044523ea6cc2f2bc0bd373370c87f63",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -1608,6 +1759,231 @@
         "discoveredFrom": "https://www.exeter.ac.uk/masters-degrees/msc-advanced-machine-learning/",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/",
+        "type": "masters",
+        "label": "Índice oficial · University of Exeter",
+        "observedAt": "2026-09-20T11:02:40.679Z",
+        "checkedAt": "2026-09-20T11:02:40.679Z",
+        "contentHash": "83a3e7aad8181db0f5e85058728e737042a2df33d1bb8013b5ef779fa1f68f38",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/study/pg-research/degrees/computerscience/",
+        "type": "phd",
+        "label": "PhD — Computer Science",
+        "observedAt": "2026-09-20T11:55:45.298Z",
+        "checkedAt": "2026-09-20T11:55:45.298Z",
+        "contentHash": "0d336ea6603f5d67efdcd83106635c925492eae119bd062985c57b92eede1393",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/study/pg-research/degrees/mathematics/",
+        "type": "phd",
+        "label": "PhD — Mathematics",
+        "observedAt": "2026-09-20T11:55:45.726Z",
+        "checkedAt": "2026-09-20T11:55:45.726Z",
+        "contentHash": "1fc5f01292d10e360c8c416f224804a6a77e00f678917a0ba90319eff542e1d0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-finance-and-data-science/",
+        "type": "masters",
+        "label": "MSc Finance and Data Science",
+        "observedAt": "2026-09-20T11:55:47.334Z",
+        "checkedAt": "2026-09-20T11:55:47.334Z",
+        "contentHash": "48ef01c4cfe6c14270d2415e478d28ec8c9d1f67da445ea344c0222afcda9db6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-artificial-intelligence/",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence",
+        "observedAt": "2026-09-20T11:55:48.132Z",
+        "checkedAt": "2026-09-20T11:55:48.132Z",
+        "contentHash": "239f74f23a1efb2b3d6f586c7e6e4e339cdab520181dde8850a3b7bf527b7ee3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-artificial-intelligence-for-the-environment/",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence for the Environment",
+        "observedAt": "2026-09-20T11:55:48.856Z",
+        "checkedAt": "2026-09-20T11:55:48.856Z",
+        "contentHash": "ac8b77e79f821d5951f1796d81cbd0e0d796cf8391ec828dc0983f6459f87710",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-biomedical-data-and-artificial-intelligence/",
+        "type": "masters",
+        "label": "MSc Biomedical Data and Artificial Intelligence",
+        "observedAt": "2026-09-20T11:55:49.685Z",
+        "checkedAt": "2026-09-20T11:55:49.685Z",
+        "contentHash": "6bfe4450ac627aacf3017f85397d516956bf9ef63382bb4e9b967523073320cd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-generative-artificial-intelligence/",
+        "type": "masters",
+        "label": "MSc Generative Artificial Intelligence",
+        "observedAt": "2026-09-20T11:55:50.468Z",
+        "checkedAt": "2026-09-20T11:55:50.468Z",
+        "contentHash": "db881b24f7f0c2ec14ea6293692e483da6492f6f7a2a93e4ceaeba51a0f19798",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-human-centred-artificial-intelligence/",
+        "type": "masters",
+        "label": "MSc Human Centred Artificial Intelligence",
+        "observedAt": "2026-09-20T11:55:51.306Z",
+        "checkedAt": "2026-09-20T11:55:51.306Z",
+        "contentHash": "82d73efcc8213c947e25fe5569d3f2dc01fa8405b75ab9b484b65ff723a32166",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-business-analytics/",
+        "type": "masters",
+        "label": "MSc Business Analytics",
+        "observedAt": "2026-09-20T11:55:52.065Z",
+        "checkedAt": "2026-09-20T11:55:52.065Z",
+        "contentHash": "99ebb4b62778d0f85e3a7ec4b6fb846ed6f1b03882d6fc148064fa6e1d210d88",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-marketing-and-business-analytics/",
+        "type": "masters",
+        "label": "MSc Marketing and Business Analytics",
+        "observedAt": "2026-09-20T11:55:52.856Z",
+        "checkedAt": "2026-09-20T11:55:52.856Z",
+        "contentHash": "a55454ad6b7a051bcf9f6dce22ffaf420f0e54d80c08ab55d710b90e59a4099b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-advanced-computer-science/",
+        "type": "masters",
+        "label": "MSc Advanced Computer Science",
+        "observedAt": "2026-09-20T11:55:53.653Z",
+        "checkedAt": "2026-09-20T11:55:53.653Z",
+        "contentHash": "a9cc470f6739f03f51981f702e2f88312812456c7f5f5146c208e5424e6bf786",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-computer-science/",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T11:55:54.471Z",
+        "checkedAt": "2026-09-20T11:55:54.471Z",
+        "contentHash": "760ac526313460be41559888bbd4793a6f80ec34083b2007957584f22bfe2c65",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-cyber-security-analytics/",
+        "type": "masters",
+        "label": "MSc Cyber Security Analytics",
+        "observedAt": "2026-09-20T11:55:55.267Z",
+        "checkedAt": "2026-09-20T11:55:55.267Z",
+        "contentHash": "29f453a47900cad756323cf0abf11eff7fecb45ea98f74d41222f66f254b27cb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-advanced-data-science/",
+        "type": "masters",
+        "label": "MSc Advanced Data Science",
+        "observedAt": "2026-09-20T11:55:56.074Z",
+        "checkedAt": "2026-09-20T11:55:56.074Z",
+        "contentHash": "09fdadc0457bf482e6c4f215d0328f52944ddb8ecb975b976768bd633f10ba29",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-applied-data-science-and-statistics/",
+        "type": "masters",
+        "label": "MSc Applied Data Science and Statistics",
+        "observedAt": "2026-09-20T11:55:56.986Z",
+        "checkedAt": "2026-09-20T11:55:56.986Z",
+        "contentHash": "448caa23ac0c574a8237ac150e43b4466fcb1f53a03ac5f01f3efd495a830ebc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-data-science/",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T11:55:57.699Z",
+        "checkedAt": "2026-09-20T11:55:57.699Z",
+        "contentHash": "73a0eef6acfb7f5340f53dea17a0fd73decf0df55c4417c080daaf627f161319",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-health-data-science/",
+        "type": "masters",
+        "label": "MSc Health Data Science",
+        "observedAt": "2026-09-20T11:55:58.788Z",
+        "checkedAt": "2026-09-20T11:55:58.788Z",
+        "contentHash": "83999d66253b05074e7c7b3cb46cbb247d2f4d773aff7c78963a3470e5f9c9ed",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-security-and-data-science/",
+        "type": "masters",
+        "label": "MSc Security and Data Science",
+        "observedAt": "2026-09-20T11:55:59.338Z",
+        "checkedAt": "2026-09-20T11:55:59.338Z",
+        "contentHash": "8d2ab3dc77352fe8bc43ccae8b72e5bf7da01a098efc18992d04544d81d6d0e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-social-data-science/",
+        "type": "masters",
+        "label": "MSc Social Data Science",
+        "observedAt": "2026-09-20T11:56:00.172Z",
+        "checkedAt": "2026-09-20T11:56:00.172Z",
+        "contentHash": "fc620b18c80c06424725ee9ead063cf3dc9ff3f4b0ffeaa864bbf2cd4dd9e2e8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-genomic-medicine-data-science/",
+        "type": "masters",
+        "label": "MSc Genomic Medicine (Data Science)",
+        "observedAt": "2026-09-20T11:56:00.869Z",
+        "checkedAt": "2026-09-20T11:56:00.869Z",
+        "contentHash": "b0097a35fffc7e9a948880d19f1d04e290f6e32d2ae0da34a79a5225f9eda3f1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-mathematical-finance/",
+        "type": "masters",
+        "label": "MSc Mathematical Finance",
+        "observedAt": "2026-09-20T11:56:01.745Z",
+        "checkedAt": "2026-09-20T11:56:01.745Z",
+        "contentHash": "5003f4ff63310bdaa72b3e529eda55d58f48a1b7f47d7024b23c4f396239cdfd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-mathematics/",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T11:56:02.480Z",
+        "checkedAt": "2026-09-20T11:56:02.480Z",
+        "contentHash": "69e5f782e206fb87598ecd25f0cb6b1aab0d8fbfbd5575d4987207cab118b796",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-statistics/",
+        "type": "masters",
+        "label": "MSc Statistics",
+        "observedAt": "2026-09-20T11:56:03.326Z",
+        "checkedAt": "2026-09-20T11:56:03.326Z",
+        "contentHash": "0a4d2c03c0d941b028f4ee3543b590da81681a2566f54fa1e26505e1e7a83205",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.exeter.ac.uk/masters-degrees/msc-neuroscience-data-science/",
+        "type": "masters",
+        "label": "MSc Neuroscience (Data Science)",
+        "observedAt": "2026-09-20T11:56:04.074Z",
+        "checkedAt": "2026-09-20T11:56:04.074Z",
+        "contentHash": "a9fc467ac19fdc9fa1b2b7b146228385213a0c872342b40d49ce0c213fc50788",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -1672,6 +2048,321 @@
         "discoveredFrom": "https://courses.leeds.ac.uk/g314/advanced-computer-science-data-analytics-msc",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=4&start_rank=46&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:17.875Z",
+        "checkedAt": "2026-09-20T11:05:17.875Z",
+        "contentHash": "850d84bab63545a7c41611a92b39e013da06f27149b9fb6fc85cfb89dff46b6d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=10&start_rank=136&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:22.831Z",
+        "checkedAt": "2026-09-20T11:05:22.831Z",
+        "contentHash": "aead69b34e95efffbbc9bb15d5c428fff915ec265a88021e4c3aaf8b60d56148",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=8&start_rank=106&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:21.167Z",
+        "checkedAt": "2026-09-20T11:05:21.167Z",
+        "contentHash": "ee3f3a496d68f204b42d3f53f4c17c9d185a2470494ef1a32389af495f5dabae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=9&start_rank=121&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:21.952Z",
+        "checkedAt": "2026-09-20T11:05:21.952Z",
+        "contentHash": "626b52f21ee6a85737228522f34afee9a272d26647c9d886dc07a31b52eb1305",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=11&start_rank=151&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:23.642Z",
+        "checkedAt": "2026-09-20T11:05:23.642Z",
+        "contentHash": "fe74d97499ddf0e764af36041a35178af94193af846a0b59812a1f05f288214f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=5&start_rank=61&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:18.709Z",
+        "checkedAt": "2026-09-20T11:05:18.709Z",
+        "contentHash": "29ae5e719736d3084b5b7984fcf70f27117d65be6da9a9c3a58cc1cb9a5e6e64",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:02:37.242Z",
+        "checkedAt": "2026-09-20T11:02:37.242Z",
+        "contentHash": "b71946d1b69cadceb483dbad93093c477d66d0a690f71a2fddbc7d173070c415",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=16&start_rank=226&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:27.573Z",
+        "checkedAt": "2026-09-20T11:05:27.573Z",
+        "contentHash": "bcc5e3c666b67489c921a172d77bd6a8836f4b4256fe0032f48df213e1dd707a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=2&start_rank=16&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:16.084Z",
+        "checkedAt": "2026-09-20T11:05:16.084Z",
+        "contentHash": "f76d247f5e27937f3f33e4e100d84a491c09b63a6758953bebcdb620432b41ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=3&start_rank=31&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:17.156Z",
+        "checkedAt": "2026-09-20T11:05:17.156Z",
+        "contentHash": "d258a83337343ea98366049de895e3467388c96ea5cbfdf0b62c97d1102f23fa",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=17&start_rank=241&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:28.418Z",
+        "checkedAt": "2026-09-20T11:05:28.418Z",
+        "contentHash": "4d79503d3b6c6aff379f1404f12dd3e68d21467d095f0384f2e42d9e4b214cc9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=14&start_rank=196&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:25.968Z",
+        "checkedAt": "2026-09-20T11:05:25.968Z",
+        "contentHash": "c840f5df625e0ebc243653b5e43192aa5f403de17aa2c709a6b563349aa48c73",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=18&start_rank=256&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:29.132Z",
+        "checkedAt": "2026-09-20T11:05:29.132Z",
+        "contentHash": "404040cb8d5cbf169bab9771bc14201e90b8a229be4fb1d6da4236d2cf248a39",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.leeds.ac.uk/research-degrees",
+        "type": "phd",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:02:38.068Z",
+        "checkedAt": "2026-09-20T11:02:38.068Z",
+        "contentHash": "f72e34fb1846f3e23a6b4d79c85ba1a06f05bd122b9df21dbb51dc29a9039f34",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=15&start_rank=211&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:26.787Z",
+        "checkedAt": "2026-09-20T11:05:26.787Z",
+        "contentHash": "a445e6820ad0d88159256e9f467e13229797052aa3df8d5c6fcb1e24f8e79dab",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=6&start_rank=76&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:19.704Z",
+        "checkedAt": "2026-09-20T11:05:19.704Z",
+        "contentHash": "4c99e0226fc8077c533b30e322a19d65e8dafaa5f7d1e15419657c30b5764e69",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=12&start_rank=166&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:24.335Z",
+        "checkedAt": "2026-09-20T11:05:24.335Z",
+        "contentHash": "2c4fd476cbe3354f8218be4384d6da48895294d287a49cfbd8f1310e2ddfda9c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=13&start_rank=181&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:25.112Z",
+        "checkedAt": "2026-09-20T11:05:25.112Z",
+        "contentHash": "6493404662b82bcc53a7ce909e23aa6ecf216690f47378aab22aabd0035f4ad3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/course-search/masters-courses?page=7&start_rank=91&type=PGT&term=202728",
+        "type": "masters",
+        "label": "Índice oficial · University of Leeds",
+        "observedAt": "2026-09-20T11:05:20.399Z",
+        "checkedAt": "2026-09-20T11:05:20.399Z",
+        "contentHash": "c5aff90841d1a4a5ed37615ddd251e49228880dafb85badc15b8302aafb52a01",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/j993/health-informatics-with-data-science-msc",
+        "type": "masters",
+        "label": "Health Informatics with Data Science MSc",
+        "observedAt": "2026-09-20T11:56:06.315Z",
+        "checkedAt": "2026-09-20T11:56:06.315Z",
+        "contentHash": "d261f2adfe7892c212ee2ac5741719ef9e9d87ef3d92973fd1a670f990b5c631",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/j796/management-of-information-systems-and-digital-innovation-msc",
+        "type": "masters",
+        "label": "Management of Information Systems and Digital Innovation MSc",
+        "observedAt": "2026-09-20T11:56:07.471Z",
+        "checkedAt": "2026-09-20T11:56:07.471Z",
+        "contentHash": "fa168036c5715ab8ce103bf8ee30dbabf7013fc73be57b1b0ae3348b4b680f1c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/f669/mathematics-msc",
+        "type": "masters",
+        "label": "Mathematics MSc",
+        "observedAt": "2026-09-20T11:56:08.338Z",
+        "checkedAt": "2026-09-20T11:56:08.338Z",
+        "contentHash": "35e78ae3228946b1f38826ed55889c96f5d4ce66e33debca0cd010cd29c55c64",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/j916/mechatronics-and-robotics-engineering-msc-eng-",
+        "type": "masters",
+        "label": "Mechatronics and Robotics Engineering MSc(Eng)",
+        "observedAt": "2026-09-20T11:56:09.119Z",
+        "checkedAt": "2026-09-20T11:56:09.119Z",
+        "contentHash": "a56bdaa71bbccf463af7248dd46707e8853bc2f3b036dd3c16d93b931827eb25",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/k133/music-and-data-science-ma",
+        "type": "masters",
+        "label": "Music and Data Science MA",
+        "observedAt": "2026-09-20T11:56:10.275Z",
+        "checkedAt": "2026-09-20T11:56:10.275Z",
+        "contentHash": "acb4c5c2fc17e57a9d1f4c01c970deb8e20e8c38f3ccd499a0ce28f0a2e97e41",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/j679/precision-medicine-genomic-data-science-msc",
+        "type": "masters",
+        "label": "Precision Medicine: Genomic Data Science MSc",
+        "observedAt": "2026-09-20T11:56:11.758Z",
+        "checkedAt": "2026-09-20T11:56:11.758Z",
+        "contentHash": "996b99236015e42960e9d2a84271e332629c83d7ccc19614b144e14f5e9fe2b8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/k274/quantitative-finance-msc",
+        "type": "masters",
+        "label": "Quantitative Finance MSc",
+        "observedAt": "2026-09-20T11:56:12.592Z",
+        "checkedAt": "2026-09-20T11:56:12.592Z",
+        "contentHash": "d44a950829963632d9f39ac7b4fd722091ba2a76a97c2be1676f1240971af1a9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/f038/statistics-msc",
+        "type": "masters",
+        "label": "Statistics MSc",
+        "observedAt": "2026-09-20T11:56:13.298Z",
+        "checkedAt": "2026-09-20T11:56:13.298Z",
+        "contentHash": "79600b0863013f05777a650038d29acf478d1eed13e68d88a21b9ee6f550e415",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/j135/urban-data-science-and-analytics-msc",
+        "type": "masters",
+        "label": "Urban Data Science and Analytics MSc",
+        "observedAt": "2026-09-20T11:56:14.288Z",
+        "checkedAt": "2026-09-20T11:56:14.288Z",
+        "contentHash": "e7168efaa932b4877149ad9e8b078b529c5217309dd442fd30980d88dd0732b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/d500/artificial-intelligence-online-msc",
+        "type": "masters",
+        "label": "Artificial Intelligence (online) MSc",
+        "observedAt": "2026-09-20T11:56:15.032Z",
+        "checkedAt": "2026-09-20T11:56:15.032Z",
+        "contentHash": "fbd2b758abab8cedfe11eccc8b719a30d047b607b641ef8e5761052e8b9bc3c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc",
+        "type": "masters",
+        "label": "Business Analytics and Decision Sciences MSc",
+        "observedAt": "2026-09-20T11:56:15.901Z",
+        "checkedAt": "2026-09-20T11:56:15.901Z",
+        "contentHash": "d3b0dbdee23892983202c6426cb44c9b7ee70ba88a2620ef661ac545074d0364",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/g963/consumer-analytics-and-marketing-strategy-msc",
+        "type": "masters",
+        "label": "Consumer Analytics and Marketing Strategy MSc",
+        "observedAt": "2026-09-20T11:56:16.701Z",
+        "checkedAt": "2026-09-20T11:56:16.701Z",
+        "contentHash": "fd65334470c4f0ff7ceabd2dd10fbe645ff390ade1d1d719ddf29252214d1d36",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc",
+        "type": "masters",
+        "label": "Data Science and Analytics MSc",
+        "observedAt": "2026-09-20T11:56:17.514Z",
+        "checkedAt": "2026-09-20T11:56:17.514Z",
+        "contentHash": "bb35c163355ee9cbe6c81a985e02f086a4b29ea50c78a0d11626defb63713a0c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/i927/data-science-and-analytics-for-health-mres",
+        "type": "masters",
+        "label": "Data Science and Analytics for Health MRes",
+        "observedAt": "2026-09-20T11:56:18.327Z",
+        "checkedAt": "2026-09-20T11:56:18.327Z",
+        "contentHash": "cbbc59ad422e4a15ecefa34c2085df996ce73c08ba451c44319eb370e066def0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/k269/digital-chemistry-ai-automation-and-data-science-msc",
+        "type": "masters",
+        "label": "Digital Chemistry: AI, Automation and Data Science MSc",
+        "observedAt": "2026-09-20T11:56:19.081Z",
+        "checkedAt": "2026-09-20T11:56:19.081Z",
+        "contentHash": "2ffbb5c5d06a398a151be138ce5d17e2dca832994fbe543a3f9879011810e37d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://courses.leeds.ac.uk/k318/digital-human-resource-management-and-data-analytics-msc",
+        "type": "masters",
+        "label": "Digital Human Resource Management and Data Analytics MSc",
+        "observedAt": "2026-09-20T11:56:19.892Z",
+        "checkedAt": "2026-09-20T11:56:19.892Z",
+        "contentHash": "81516130a0fb13cd910e266f3f0066e7be5147db1ad4f4fea9cf8353ff177653",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -1757,26 +2448,22 @@
         "contentHash": null
       },
       {
-        "type": "phd",
         "url": "https://sheffield.ac.uk/postgraduate/phd",
-        "label": "PhD home",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:21.123Z",
-        "discoveredFrom": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/artificial-intelligence-msc",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "phd",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:02:38.825Z",
+        "checkedAt": "2026-09-20T11:02:38.825Z",
+        "contentHash": "c2cc64fe790a5a2dc375db49f8094e015a91212f8f9cd155e4cc5e111c7eaa92",
+        "accessOutcome": "ok"
       },
       {
-        "type": "phd",
         "url": "https://sheffield.ac.uk/postgraduate/phd/search",
-        "label": "Find a PhD",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:21.123Z",
-        "discoveredFrom": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/artificial-intelligence-msc",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "phd",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:05:32.623Z",
+        "checkedAt": "2026-09-20T11:05:32.623Z",
+        "contentHash": "778dccae6b21d941b90c8f8467db336f84798e8fe43a5d95f265e4f209589189",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -1854,6 +2541,222 @@
         "discoveredFrom": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/artificial-intelligence-msc",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/search?page=4",
+        "type": "masters",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:05:14.062Z",
+        "checkedAt": "2026-09-20T11:05:14.062Z",
+        "contentHash": "e68d85c50adcc8ac6eb40057279c8e508d0538180458930814bbd8ef720330ab",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/search?page=5",
+        "type": "masters",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:05:14.844Z",
+        "checkedAt": "2026-09-20T11:05:14.844Z",
+        "contentHash": "29be7a4533f8e6d8b4b7249345f11f9f31eade91cf35eadfbb4fd4eaedb13676",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/search?page=2",
+        "type": "masters",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:05:12.796Z",
+        "checkedAt": "2026-09-20T11:05:12.796Z",
+        "contentHash": "d72727eafcf1508290195fdadbe91eb0c27e73400b3692272bc1c3656dc8454d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/search?page=3",
+        "type": "masters",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:05:13.852Z",
+        "checkedAt": "2026-09-20T11:05:13.852Z",
+        "contentHash": "dfec217d7e8b19eb51e4b1a79a3b40f85f6f4b6c32ef68d1ee1063fcc4c20516",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/cs/phd-study",
+        "type": "phd",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:10:40.240Z",
+        "checkedAt": "2026-09-20T11:10:40.240Z",
+        "contentHash": "74f9279c5dc3b4eae47c15452305ffc91efa9ffee7381bf90d13a181fdfea878",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/search?page=1",
+        "type": "masters",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:05:11.591Z",
+        "checkedAt": "2026-09-20T11:05:11.591Z",
+        "contentHash": "74875929cec29caca5380a50c331a8a3848de9c3f579c9b9a32312d707c13b51",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/search?page=6",
+        "type": "masters",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:05:16.064Z",
+        "checkedAt": "2026-09-20T11:05:16.064Z",
+        "contentHash": "bdcc44acb4e751e5673ff816e7034da3fb88fc7d2ba050178234ffff9c882aa0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/search",
+        "type": "masters",
+        "label": "Índice oficial · University of Sheffield",
+        "observedAt": "2026-09-20T11:02:38.360Z",
+        "checkedAt": "2026-09-20T11:02:38.360Z",
+        "contentHash": "8b90e6f14c3c0a957d3e9f17be05c5f9f522523095ce8bae412e11020b82c9c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/advanced-computer-science-msc",
+        "type": "masters",
+        "label": "Advanced Computer Science",
+        "observedAt": "2026-09-20T11:56:50.915Z",
+        "checkedAt": "2026-09-20T11:56:50.915Z",
+        "contentHash": "f3cb3368822dc48447a1606640e09b0befbdd850e3ab618d377cbc85a17366d7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/advanced-control-and-systems-engineering-msceng",
+        "type": "masters",
+        "label": "Advanced Control and Systems Engineering",
+        "observedAt": "2026-09-20T11:56:51.638Z",
+        "checkedAt": "2026-09-20T11:56:51.638Z",
+        "contentHash": "f86a28ec4403249db8245b10a07a028c016aa835d977d94a850642803ac55c16",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/artificial-intelligence-engineering-msc",
+        "type": "masters",
+        "label": "Artificial Intelligence for Engineering",
+        "observedAt": "2026-09-20T11:56:52.406Z",
+        "checkedAt": "2026-09-20T11:56:52.406Z",
+        "contentHash": "b3b70196a6cfc0b14fb8ea52b052bb3483c0118d40676b09451a8efc10a620c9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/business-analytics-msc",
+        "type": "masters",
+        "label": "Business Analytics",
+        "observedAt": "2026-09-20T11:56:53.263Z",
+        "checkedAt": "2026-09-20T11:56:53.263Z",
+        "contentHash": "1b11a30b2f8525c0bd208586263ae6ee5d8118d4ffbba916a5ab50e230fff9ef",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/cognitive-and-computational-neuroscience-msc",
+        "type": "masters",
+        "label": "Cognitive and Computational Neuroscience",
+        "observedAt": "2026-09-20T11:56:54.416Z",
+        "checkedAt": "2026-09-20T11:56:54.416Z",
+        "contentHash": "805fed872c4936ec9cf07c6d100276dae8a9eddda4c9c714d42d1a9c6710b206",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-msc",
+        "type": "masters",
+        "label": "Computer Science",
+        "observedAt": "2026-09-20T11:56:55.022Z",
+        "checkedAt": "2026-09-20T11:56:55.022Z",
+        "contentHash": "3df6519790079de0cb87ad8b3f7e6b6179ffcebeabf3935185dc61bbd491c8fa",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-speech-and-natural-language-processing-msc",
+        "type": "masters",
+        "label": "Computer Science with Speech and Natural Language Processing",
+        "observedAt": "2026-09-20T11:56:55.920Z",
+        "checkedAt": "2026-09-20T11:56:55.920Z",
+        "contentHash": "c81fba1e682f8d9f835281f4212af7cfb5146cdf1320f2ce3503c991208cc2b9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/cybersecurity-and-artificial-intelligence-msc",
+        "type": "masters",
+        "label": "Cybersecurity and Artificial Intelligence",
+        "observedAt": "2026-09-20T11:56:57.094Z",
+        "checkedAt": "2026-09-20T11:56:57.094Z",
+        "contentHash": "09094459773dd5752b8792b7ee4f0b5d7f4dd40eb6a297f7ab0d21fe7ee09046",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/data-science-msc",
+        "type": "masters",
+        "label": "Data Science",
+        "observedAt": "2026-09-20T11:56:57.443Z",
+        "checkedAt": "2026-09-20T11:56:57.443Z",
+        "contentHash": "6293e68f7c208ed3c8e74cb96d492b4a4e31afcc99afce3f9f072c50a9cc88fc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/environmental-science-and-data-msc",
+        "type": "masters",
+        "label": "Environmental Science and Data",
+        "observedAt": "2026-09-20T11:56:58.062Z",
+        "checkedAt": "2026-09-20T11:56:58.062Z",
+        "contentHash": "ca1e929d26157a1a2dae518314dc5c65772b892e5aadba3c11562b02fc67eb3f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/geographical-information-systems-gis-msc",
+        "type": "masters",
+        "label": "Geographical Information Systems (GIS)",
+        "observedAt": "2026-09-20T11:56:58.860Z",
+        "checkedAt": "2026-09-20T11:56:58.860Z",
+        "contentHash": "edb7efd0ce083f569e04f7113c42e96fa82b6e61e866519324866edefc8d5e3f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/health-economics-and-decision-modelling-msc",
+        "type": "masters",
+        "label": "Health Economics and Decision Modelling",
+        "observedAt": "2026-09-20T11:56:59.593Z",
+        "checkedAt": "2026-09-20T11:56:59.593Z",
+        "contentHash": "8fee96213a79e2fcb4c75d1baa4e701a5aa6ad470b8a5268a2762baed5be73f0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/information-systems-msc",
+        "type": "masters",
+        "label": "Information Systems",
+        "observedAt": "2026-09-20T11:57:00.462Z",
+        "checkedAt": "2026-09-20T11:57:00.462Z",
+        "contentHash": "a1a2a581b4f012f559ef6180be2d890cb52ab6f3c0f6999eea0a4443ee8ef8d0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/mathematical-and-theoretical-physics-msc",
+        "type": "masters",
+        "label": "Mathematical and Theoretical Physics",
+        "observedAt": "2026-09-20T11:57:01.208Z",
+        "checkedAt": "2026-09-20T11:57:01.208Z",
+        "contentHash": "15fdeae0b60a3b51c18bb462d621bf9bd3416666fe48d2174b4e094b5b933a90",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/mathematics-msc",
+        "type": "masters",
+        "label": "Mathematics",
+        "observedAt": "2026-09-20T11:57:02.073Z",
+        "checkedAt": "2026-09-20T11:57:02.073Z",
+        "contentHash": "95965402b7d4b3a0b62107c7a05d33095b956c0056278393f5db69a75db421e8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/robotics-msc",
+        "type": "masters",
+        "label": "Robotics",
+        "observedAt": "2026-09-20T11:57:02.797Z",
+        "checkedAt": "2026-09-20T11:57:02.797Z",
+        "contentHash": "7011a7554e2f50a69d84a7e83e32877945409f943e277dd81ceb79cb028d4a48",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -1939,6 +2842,375 @@
         "discoveredFrom": "https://www.nottingham.ac.uk/pgstudy/course/taught/Statistics-MSc",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=G&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:53.104Z",
+        "checkedAt": "2026-09-20T11:04:53.104Z",
+        "contentHash": "96e2471c676c97cdbafa0bc53e71654c168cad4a118fab8bcedf496715fb96a2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=R&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:05.366Z",
+        "checkedAt": "2026-09-20T11:05:05.366Z",
+        "contentHash": "6352035ea0d06bea8d4051ffefd6744570bb447441f112c8444330064bb5b36a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=K&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:57.512Z",
+        "checkedAt": "2026-09-20T11:04:57.512Z",
+        "contentHash": "14e30fcc58831af057bfb38c2ce8ee7ba16235b475ef6caee375dcdf2087faed",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=S&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:06.863Z",
+        "checkedAt": "2026-09-20T11:05:06.863Z",
+        "contentHash": "a87e4c50276002ef179f802bf7320fef2569944c5c8974a69110d38f671138ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=F&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:51.827Z",
+        "checkedAt": "2026-09-20T11:04:51.827Z",
+        "contentHash": "bae7fe1768567fd61ba42bee3627f2a3f85330d8ce2b02e76a7cf29b039c16b9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=M&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:59.661Z",
+        "checkedAt": "2026-09-20T11:04:59.661Z",
+        "contentHash": "4a826534543dfeea8aa690fa4585b98e00645fb0e27175e083e5e18261fe702c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=A&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:42.677Z",
+        "checkedAt": "2026-09-20T11:04:42.677Z",
+        "contentHash": "e6d9c6cc6924380fc6a00fc42529dd50a6fbf3f7bfe6f8c3f2d985581dd70167",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/research-courses-explained.aspx",
+        "type": "phd",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:02:35.411Z",
+        "checkedAt": "2026-09-20T11:02:35.411Z",
+        "contentHash": "f2533b171efcd84503e61ca7ab29c93016d3373d107dfd608b1bd75c70ec67ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=T&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:08.443Z",
+        "checkedAt": "2026-09-20T11:05:08.443Z",
+        "contentHash": "218c57edb41119cf9ff524b481e70e9129ad8241fd30d8f8030a23c02ea62f45",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:02:30.657Z",
+        "checkedAt": "2026-09-20T11:02:30.657Z",
+        "contentHash": "d5bad28223a64e6958396b4814a36d11241c486c2fabc26eead411ed93f114ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=L&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:58.546Z",
+        "checkedAt": "2026-09-20T11:04:58.546Z",
+        "contentHash": "8df78118e95e595430cff5bddff1e268d8e1572e8688022d947b3c76bcffead9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=O&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:01.929Z",
+        "checkedAt": "2026-09-20T11:05:01.929Z",
+        "contentHash": "9786493674d38d089a4384a5e39354727f81deaf7833ac24d798c5b66ba1a6e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=V&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:09.814Z",
+        "checkedAt": "2026-09-20T11:05:09.814Z",
+        "contentHash": "5fcee32a630340750c971b5cac6e0980e3822693fa699d44a0ef6ca25bdece6d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=C&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:47.651Z",
+        "checkedAt": "2026-09-20T11:04:47.651Z",
+        "contentHash": "82a8a73f5b90e60b669df5ad1817fb40cb9dfb865c139cc3250f4e5116aa0038",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=B&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:46.314Z",
+        "checkedAt": "2026-09-20T11:04:46.314Z",
+        "contentHash": "cdda53b69b3c131796cebe6159f860e85279777a81099bc5dff0bd052865d7e3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=W&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:11.582Z",
+        "checkedAt": "2026-09-20T11:05:11.582Z",
+        "contentHash": "753d0ec2efa1fca3e854af442522f359ee0d8eb8f14632c13855df7611c40419",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=N&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:00.846Z",
+        "checkedAt": "2026-09-20T11:05:00.846Z",
+        "contentHash": "7ec49942a1b86bee1618cdaaf5a19d903215fd61e592e2e13a762de07e18e012",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=P&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:03.078Z",
+        "checkedAt": "2026-09-20T11:05:03.078Z",
+        "contentHash": "c4090ec2e475d69bcb834eeef7646210e18ee53fec2960eb394f0339a364c296",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=E&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:50.203Z",
+        "checkedAt": "2026-09-20T11:04:50.203Z",
+        "contentHash": "00c61a84e024da22ae70a86a90668fe8e99335fc4d3565a9258b055ac9dd7161",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=I&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:56.197Z",
+        "checkedAt": "2026-09-20T11:04:56.197Z",
+        "contentHash": "e24cdefee43f0282aa70f686d8872ac568ebd14e7e676200b852d2d17fac1d7c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=H&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:54.421Z",
+        "checkedAt": "2026-09-20T11:04:54.421Z",
+        "contentHash": "3bca7c5240a415006304f724c4df939b2279e1d694e957e45aff2b4dd0b8e38a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=D&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:04:49.193Z",
+        "checkedAt": "2026-09-20T11:04:49.193Z",
+        "contentHash": "99c1bd27604f3ac839a1f71e4a0927244dc7605d3be9cf7ec9dd70816645eb6c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/courses/course-redirect.aspx?letter=Q&year=2027&studytype=&level=all&search_keywords=",
+        "type": "masters",
+        "label": "Índice oficial · University of Nottingham",
+        "observedAt": "2026-09-20T11:05:04.251Z",
+        "checkedAt": "2026-09-20T11:05:04.251Z",
+        "contentHash": "d8b53ad006040f7a80711a2aadc5bb54b08586653467174109d318fcd3155c2a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/computer-science-artificial-intelligence",
+        "type": "masters",
+        "label": "Advanced Computer Science or Advanced Computer Science (Artificial Intelligence) MSc",
+        "observedAt": "2026-09-20T11:56:37.723Z",
+        "checkedAt": "2026-09-20T11:56:37.723Z",
+        "contentHash": "f0ebb16720122d01969f3c40c99079d1091537f04385780bb674393e1150e089",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/bioinformatics-msc",
+        "type": "masters",
+        "label": "Bioinformatics MSc",
+        "observedAt": "2026-09-20T11:56:39.129Z",
+        "checkedAt": "2026-09-20T11:56:39.129Z",
+        "contentHash": "57cca6d2fdb07ae03ff851310bed97fafa9d55a0c9c67e7ee78be50d30241c5a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-consulting-and-analytics-msc",
+        "type": "masters",
+        "label": "Business Consulting and Analytics (online) MSc",
+        "observedAt": "2026-09-20T11:56:39.859Z",
+        "checkedAt": "2026-09-20T11:56:39.859Z",
+        "contentHash": "67ff24d3d687ea48f93828ac07c06c5095acfb7d923681669bb516cda27a3cb7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-analytics-and-ai-msc",
+        "type": "masters",
+        "label": "Business, Analytics and AI MSc",
+        "observedAt": "2026-09-20T11:56:40.718Z",
+        "checkedAt": "2026-09-20T11:56:40.718Z",
+        "contentHash": "bb3b6fa807cd33af9f22598321f36b1323a0fab38807e49bdfbe5ad18b371477",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/computational-biology-phd",
+        "type": "phd",
+        "label": "Computational Biology PhD",
+        "observedAt": "2026-09-20T11:56:41.565Z",
+        "checkedAt": "2026-09-20T11:56:41.565Z",
+        "contentHash": "2d859ea724a80c470bd4c7c8968464762cf521ec2cebc11b21f3f25bb738fbbe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/computational-neuroscience-cognition-and-ai-msc",
+        "type": "masters",
+        "label": "Computational Neuroscience, Cognition and AI MSc",
+        "observedAt": "2026-09-20T11:56:42.354Z",
+        "checkedAt": "2026-09-20T11:56:42.354Z",
+        "contentHash": "c1ee8cad25fc2bd898751e246e5c4250b3cc81406afe16daef04289a3ab6db21",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/computer-science-phd",
+        "type": "phd",
+        "label": "Computer Science PhD",
+        "observedAt": "2026-09-20T11:56:43.009Z",
+        "checkedAt": "2026-09-20T11:56:43.009Z",
+        "contentHash": "297473c29d2c9d17e7a2ad920d71a754b58ec86495b74564e619642b625feea0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/computer-science-artificial-intelligence-2-year",
+        "type": "masters",
+        "label": "Computer Science or Computer Science (Artificial Intelligence) (2-year) MSc",
+        "observedAt": "2026-09-20T11:56:43.938Z",
+        "checkedAt": "2026-09-20T11:56:43.938Z",
+        "contentHash": "8d7f99bb2f9c87d1eb1ae95dafd934b4066524a41afb1b9eee42d9cd10951404",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/cyberphysical-systems-msc",
+        "type": "masters",
+        "label": "Cyber Physical Systems MSc",
+        "observedAt": "2026-09-20T11:56:44.657Z",
+        "checkedAt": "2026-09-20T11:56:44.657Z",
+        "contentHash": "9cdeb255ce3edc644de98cc91e62a126fdaf118fc6641765c9d258b83ecf8316",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/cybersecurity",
+        "type": "masters",
+        "label": "Cyber Security MSc",
+        "observedAt": "2026-09-20T11:56:45.500Z",
+        "checkedAt": "2026-09-20T11:56:45.500Z",
+        "contentHash": "92d4b5daeb158f84fc86f2f969ef0f76f57ca0d8c51740515379ffb70537647a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-analytics-and-ai-msc",
+        "type": "masters",
+        "label": "Data Analytics and AI MSc",
+        "observedAt": "2026-09-20T11:56:46.279Z",
+        "checkedAt": "2026-09-20T11:56:46.279Z",
+        "contentHash": "9b506da5a0f0e6d5319d6725a8b9fbfb2fcf40c5dc0b9095895bb996cf76a989",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-science-msc",
+        "type": "masters",
+        "label": "Data Science MSc",
+        "observedAt": "2026-09-20T11:56:47.045Z",
+        "checkedAt": "2026-09-20T11:56:47.045Z",
+        "contentHash": "f6e548e4d967c077cf7deb233de7a803f5d777269037325e008cc96fa9f81800",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/economics-and-data-science-msc",
+        "type": "masters",
+        "label": "Economics and Data Science MSc",
+        "observedAt": "2026-09-20T11:56:47.945Z",
+        "checkedAt": "2026-09-20T11:56:47.945Z",
+        "contentHash": "6f4f70a94cd18178247503ee3e0beea9260cdc989e5bf33f59a8a860083f8dba",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/electronic-communications-and-computer-engineering-msc",
+        "type": "masters",
+        "label": "Electronic Communications and Computer Engineering MSc",
+        "observedAt": "2026-09-20T11:56:49.643Z",
+        "checkedAt": "2026-09-20T11:56:49.643Z",
+        "contentHash": "6a2c717a97a13f172caf912f36342619389c6f6e4e57cc43bd685be78a06c30a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/healthinformatics",
+        "type": "phd",
+        "label": "Health Informatics PhD/MPhil",
+        "observedAt": "2026-09-20T11:56:50.116Z",
+        "checkedAt": "2026-09-20T11:56:50.116Z",
+        "contentHash": "b030ab117c3bdf27a6a7ae1aae207b299f5cd9cbf56dd445d2dbc286ec5cd901",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/human-computer-interaction-msc",
+        "type": "masters",
+        "label": "Human Computer Interaction MSc",
+        "observedAt": "2026-09-20T11:56:50.873Z",
+        "checkedAt": "2026-09-20T11:56:50.873Z",
+        "contentHash": "35059e196270ff115ac79ce954e19eecf4486e3cae4ea45747f5d13524b62d6e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/machine-learning-in-science-msc",
+        "type": "masters",
+        "label": "Machine Learning in Science MSc",
+        "observedAt": "2026-09-20T11:56:51.821Z",
+        "checkedAt": "2026-09-20T11:56:51.821Z",
+        "contentHash": "c389a7319d6180d3e4a0419324c202786a3186ecf90457e1da3a8a1a3090322c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/mathematics-phd",
+        "type": "phd",
+        "label": "Mathematics PhD",
+        "observedAt": "2026-09-20T11:56:52.590Z",
+        "checkedAt": "2026-09-20T11:56:52.590Z",
+        "contentHash": "3e6f7b73ece14cb14d25c46ae4b6d07334436f539ecbee6e6273f38eb1760968",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -2325,6 +3597,103 @@
         "discoveredFrom": "https://www.ucc.ie/en/scholarships/all/allschexternal/externalschnuitds/",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.ucc.ie/en/study/postgrad/",
+        "type": "masters",
+        "label": "Índice oficial · University College Cork",
+        "observedAt": "2026-09-20T11:02:59.547Z",
+        "checkedAt": "2026-09-20T11:02:59.547Z",
+        "contentHash": "771e16c26bc8ada3c09ee4af3125a211203d2e3c91fd7132222de3c46162005e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/study/postgrad/studyresearch/researchprogrammes/",
+        "type": "phd",
+        "label": "Índice oficial · University College Cork",
+        "observedAt": "2026-09-20T11:10:35.416Z",
+        "checkedAt": "2026-09-20T11:10:35.416Z",
+        "contentHash": "59e493895177bfdff85a19d5cdf79d8dbf703a0b3caa3e74117c964fc88ca0eb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/study/postgrad/researchcourses/",
+        "type": "phd",
+        "label": "Índice oficial · University College Cork",
+        "observedAt": "2026-09-20T11:05:31.765Z",
+        "checkedAt": "2026-09-20T11:05:31.765Z",
+        "contentHash": "fde6c2b66f1f32524a1577272b14b170c2cf12228e0aa7e51a62d2e6d9b622d1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ucc-ie-public.courseleaf.com/researchprogrammes/",
+        "type": "phd",
+        "label": "Índice oficial · University College Cork",
+        "observedAt": "2026-09-20T11:03:00.071Z",
+        "accessOutcome": "http_202"
+      },
+      {
+        "url": "https://www.ucc.ie/en/study/postgrad/taughtcourses/",
+        "type": "masters",
+        "label": "Índice oficial · University College Cork",
+        "observedAt": "2026-09-20T11:10:34.737Z",
+        "checkedAt": "2026-09-20T11:10:34.737Z",
+        "contentHash": "5d85683ceffe25e51df0c311bec7f8e13ea12a168173b76fd13539a412335e8e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/study/postgrad/studytaught/dates/",
+        "type": "masters",
+        "label": "Índice oficial · University College Cork",
+        "observedAt": "2026-09-20T11:05:31.309Z",
+        "checkedAt": "2026-09-20T11:05:31.309Z",
+        "contentHash": "94f47c9ee843991871a8a96500ad970e017a763e783487200309c0875c587259",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/ckl51/",
+        "type": "masters",
+        "label": "Business Analytics MSc",
+        "observedAt": "2026-09-20T12:00:17.973Z",
+        "checkedAt": "2026-09-20T12:00:17.973Z",
+        "contentHash": "6211c6dbc178b870db64a0557cddbcfbb32dbab8214ea6d4f198a3352532e61d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/msccyb/",
+        "type": "masters",
+        "label": "Cybersecurity MSc",
+        "observedAt": "2026-09-20T12:00:18.727Z",
+        "checkedAt": "2026-09-20T12:00:18.727Z",
+        "contentHash": "54dcb2e45edfe32e2d0a186436b9a69b26beb971c4e719eae0f7424553d5206f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/ckr56/",
+        "type": "masters",
+        "label": "Mathematical Modelling & Machine Learning MSc",
+        "observedAt": "2026-09-20T12:00:19.499Z",
+        "checkedAt": "2026-09-20T12:00:19.499Z",
+        "contentHash": "726476c7c4a8a9f83afc7844cd4479c815884d9b668c2952a55069130b4a5171",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/ckr33/",
+        "type": "masters",
+        "label": "Bioinformatics & Computational Biology MSc",
+        "observedAt": "2026-09-20T12:00:20.379Z",
+        "checkedAt": "2026-09-20T12:00:20.379Z",
+        "contentHash": "b474b7342fa87f3c539114d797114922c61edaa9c0cd3686fec38b3be633d735",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ucc.ie/en/ckr40/",
+        "type": "masters",
+        "label": "Computing Science MSc",
+        "observedAt": "2026-09-20T12:00:21.100Z",
+        "checkedAt": "2026-09-20T12:00:21.100Z",
+        "contentHash": "a57341fdd5f34ddbbe5d1266021b4f1102d47b01ec0db5bd3e40e632fe96efaf",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -2560,6 +3929,85 @@
         "discoveredFrom": "https://cs.universityofgalway.ie/science-engineering/postgraduateprogrammes/taught-postgraduate-courses/computer-science-artificial-intelligence.html",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/",
+        "type": "masters",
+        "label": "Índice oficial · University of Galway",
+        "observedAt": "2026-09-20T11:02:55.127Z",
+        "checkedAt": "2026-09-20T11:02:55.127Z",
+        "contentHash": "4d110c588723a6a8b2f05081b19182d53cbef0e41578dfbbc03872cd237eef63",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://universityofgalway.ie/courses/research-postgraduate-programmes/structured-phd/",
+        "type": "phd",
+        "label": "Índice oficial · University of Galway",
+        "observedAt": "2026-09-20T11:02:56.175Z",
+        "accessOutcome": "http_403"
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cybersecurity-risk-management.html",
+        "type": "masters",
+        "label": "Cybersecurity Risk Management (MSc)",
+        "observedAt": "2026-09-20T11:56:03.195Z",
+        "checkedAt": "2026-09-20T11:56:03.195Z",
+        "contentHash": "026f311e3ec9d7f7767852ba4cefb362e182ce727954067fe71e8b4d23a3865b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-clinical-data-analytics.html",
+        "type": "masters",
+        "label": "Applied Clinical Data Analytics (MSc)",
+        "observedAt": "2026-09-20T11:56:03.900Z",
+        "checkedAt": "2026-09-20T11:56:03.900Z",
+        "contentHash": "4a868dad4ee9cfebd5aa49b7f317a935bdd6ba837f7811eb88245eec781579a9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-data-science.html",
+        "type": "masters",
+        "label": "Health Data Science (MSc)",
+        "observedAt": "2026-09-20T11:56:04.699Z",
+        "checkedAt": "2026-09-20T11:56:04.699Z",
+        "contentHash": "490dce0dd858cfdf8a688336d75528fb6b9b690d52206038cfc74dfbceb397d1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/intelligent-robotics.html",
+        "type": "masters",
+        "label": "Intelligent Robotics (MSc)",
+        "observedAt": "2026-09-20T11:56:05.467Z",
+        "checkedAt": "2026-09-20T11:56:05.467Z",
+        "contentHash": "f1adc2a1d3ae1c17498378d7fa732860ec454d7538b69e362dd4a06a7e056de1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/software-design-development.html",
+        "type": "masters",
+        "label": "Software Design & Development (MSc, HDip, MSc External)",
+        "observedAt": "2026-09-20T11:56:06.293Z",
+        "checkedAt": "2026-09-20T11:56:06.293Z",
+        "contentHash": "5a8dd197d58a70e167ca6957a5dcd47e409fe654a1419de284ea8ffe6fd20877",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/%20electronic-computer-engineering.html",
+        "type": "masters",
+        "label": "Electronic & Computer Engineering (ME)",
+        "observedAt": "2026-09-20T11:56:07.066Z",
+        "checkedAt": "2026-09-20T11:56:07.066Z",
+        "contentHash": "d96187950113df5cc0fb232413348a3b675fb4a3a071ca7dd08e32b6e0c5af8c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/genomics-data-science.html",
+        "type": "masters",
+        "label": "Genomics Data Science (MSc)",
+        "observedAt": "2026-09-20T11:56:07.921Z",
+        "checkedAt": "2026-09-20T11:56:07.921Z",
+        "contentHash": "595633012fc71a4970377dd133652b91e084379a53093e8bf05055f2108913b2",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -2761,6 +4209,123 @@
         "discoveredFrom": "https://www.ul.ie/study/postgraduate/data-science-and-statistical-learning-msc",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/taught-programmes/alphabetical-list",
+        "type": "masters",
+        "label": "Índice oficial · University of Limerick",
+        "observedAt": "2026-09-20T11:02:54.231Z",
+        "checkedAt": "2026-09-20T11:02:54.231Z",
+        "contentHash": "2b5f05c69dcf0f2b33d0099e55e14a66113a55e5f5b75c765204359606428113",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/research/doctoral-college/postgraduate-research-programmes/full-list-of-research-programmes",
+        "type": "phd",
+        "label": "Índice oficial · University of Limerick",
+        "observedAt": "2026-09-20T11:02:55.069Z",
+        "checkedAt": "2026-09-20T11:02:55.069Z",
+        "contentHash": "1d323e27db4bf8ab77b43dca2e7e23a1153a8ee2f5b1a423561a59b67fef3bcc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/applied-social-data-analytics-msc",
+        "type": "masters",
+        "label": "Applied Social Data Analytics - MSc",
+        "observedAt": "2026-09-20T11:56:18.339Z",
+        "checkedAt": "2026-09-20T11:56:18.339Z",
+        "contentHash": "26f6a69b21f8e6bc5a0f7571333892c1ff66842cfd62e9444a96f3f67d247a4c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/artificial-intelligence-msc-online",
+        "type": "masters",
+        "label": "Artificial Intelligence - MSc (Online)",
+        "observedAt": "2026-09-20T11:25:25.515Z",
+        "checkedAt": "2026-09-20T11:25:25.515Z",
+        "contentHash": "9ce8136106b64086db2953f47bedb7a0cc79f2a7c83acf4e73ded5c34e21b872",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/artificial-intelligence-and-machine-learning-msc",
+        "type": "masters",
+        "label": "Artificial Intelligence and Machine Learning - MSc",
+        "observedAt": "2026-09-20T11:56:20.924Z",
+        "checkedAt": "2026-09-20T11:56:20.924Z",
+        "contentHash": "386f161f626f9158eeb0906e3df132333739f84c79e29a3a0b3e2aba37756181",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/computer-vision-and-artificial-intelligence-meng",
+        "type": "masters",
+        "label": "Computer Vision and Artificial Intelligence - MEng",
+        "observedAt": "2026-09-20T11:56:22.527Z",
+        "checkedAt": "2026-09-20T11:56:22.527Z",
+        "contentHash": "79502dce24438dc7aa0a36d39d5e8452693e359da2711af2a413b702b4502552",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/edge-computing-meng",
+        "type": "masters",
+        "label": "Edge Computing - MEng",
+        "observedAt": "2026-09-20T11:56:24.180Z",
+        "checkedAt": "2026-09-20T11:56:24.180Z",
+        "contentHash": "1c8c0251152d0ac73629a2a782bee6bcc07480e26033008831be8e9ab463fc38",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/health-informatics-msc",
+        "type": "masters",
+        "label": "Health Informatics - MSc",
+        "observedAt": "2026-09-20T11:56:25.839Z",
+        "checkedAt": "2026-09-20T11:56:25.839Z",
+        "contentHash": "ee8dd479b3ebd957f2acb1ca7a06026a560feaaf7edc0977ea9257580fdd88d3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/machine-learning-for-finance-msc-online",
+        "type": "masters",
+        "label": "Machine Learning for Finance - MSc (Online)",
+        "observedAt": "2026-09-20T11:56:28.968Z",
+        "checkedAt": "2026-09-20T11:56:28.968Z",
+        "contentHash": "5e6ae40d2c3cfc498293802425500ede4248114e0adb0bb611b989c894d1c5ef",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/mathematical-modelling-msc",
+        "type": "masters",
+        "label": "Mathematical Modelling - MSc",
+        "observedAt": "2026-09-20T11:56:30.629Z",
+        "checkedAt": "2026-09-20T11:56:30.629Z",
+        "contentHash": "c45b65641270aee729927e97678f76285308c626307cfc904054dba8c43af743",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/sociology-and-data-analytics-msc",
+        "type": "masters",
+        "label": "Sociology and Data Analytics - MSc",
+        "observedAt": "2026-09-20T11:56:32.971Z",
+        "checkedAt": "2026-09-20T11:56:32.971Z",
+        "contentHash": "39eba5d5d4c9d40090da8cee93beacc895b4103ab4ef012be92f137cc5a0e313",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/software-development-international-systems-msc",
+        "type": "masters",
+        "label": "Software Development: International Systems - MSc",
+        "observedAt": "2026-09-20T11:56:34.524Z",
+        "checkedAt": "2026-09-20T11:56:34.524Z",
+        "contentHash": "99db05ffa26192dd76e852cf37535dde9c8bd1fcf639b7dae3defd960a27b6b5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ul.ie/study/postgraduate/software-engineering-msc",
+        "type": "masters",
+        "label": "Software Engineering - MSc",
+        "observedAt": "2026-09-20T11:56:38.513Z",
+        "checkedAt": "2026-09-20T11:56:38.513Z",
+        "contentHash": "98f475efeda7922df26c93a9a1a924433b35c15b011c61da0f56de93b5db828f",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -2834,6 +4399,20 @@
         "discoveredFrom": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=T413&p_tag=COURSE",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.ucd.ie/graduateadmissions/courses/",
+        "type": "masters",
+        "label": "Índice oficial · University College Dublin",
+        "observedAt": "2026-09-20T11:03:01.752Z",
+        "accessOutcome": "robots_unavailable_403"
+      },
+      {
+        "url": "https://www.ucd.ie/graduatestudies/researchstudenthub/researchprogrammes/",
+        "type": "phd",
+        "label": "Índice oficial · University College Dublin",
+        "observedAt": "2026-09-20T11:03:01.753Z",
+        "accessOutcome": "robots_unavailable_403"
       }
     ]
   },
@@ -2925,6 +4504,20 @@
         "observedAt": "2026-09-19T20:56:20.387Z",
         "accessOutcome": "http_403",
         "contentHash": null
+      },
+      {
+        "url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/taught-programmes",
+        "type": "masters",
+        "label": "Índice oficial · Maynooth University",
+        "observedAt": "2026-09-20T11:02:56.146Z",
+        "accessOutcome": "http_403"
+      },
+      {
+        "url": "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/phd-research-programmes",
+        "type": "phd",
+        "label": "Índice oficial · Maynooth University",
+        "observedAt": "2026-09-20T11:03:06.276Z",
+        "accessOutcome": "http_403"
       }
     ]
   },
@@ -2955,6 +4548,33 @@
         "observedAt": "2026-09-19T20:56:20.387Z",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.dcu.ie/graduatestudies/structured-pathways-and-programmes",
+        "type": "phd",
+        "label": "Índice oficial · Dublin City University",
+        "observedAt": "2026-09-20T11:02:57.575Z",
+        "checkedAt": "2026-09-20T11:02:57.575Z",
+        "contentHash": "a7165afd54632c3b6254b13c69dba558f0f266a1e7560a07dcb8d9c493b4287b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.dcu.ie/courses#tab-99371-2",
+        "type": "masters",
+        "label": "Índice oficial · Dublin City University",
+        "observedAt": "2026-09-20T11:02:56.175Z",
+        "checkedAt": "2026-09-20T11:02:56.175Z",
+        "contentHash": "3a3c974d7f2fa10b470b87d5faf4189d72b73645f163f52e091c1c8df9750884",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.dcu.ie/courses/postgraduate/school-computing/msc-computing",
+        "type": "masters",
+        "label": "MSc in Computing",
+        "observedAt": "2026-09-20T11:55:44.725Z",
+        "checkedAt": "2026-09-20T11:55:44.725Z",
+        "contentHash": "857fa453a9e074c3d2ce88b99f556d17067c57dbe576cf31bb2fb02935f65111",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -18930,5 +20550,1657 @@
       }
     ],
     "observedAt": "2026-09-20T11:41:19.129Z"
+  },
+  {
+    "id": "gb-bath",
+    "name": "University of Bath",
+    "country": "GB",
+    "ror": "https://ror.org/002h8g185",
+    "domains": [
+      "bath.ac.uk"
+    ],
+    "officialUrl": "https://www.bath.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.bath.ac.uk/courses/",
+        "type": "masters",
+        "label": "Índice oficial · University of Bath",
+        "observedAt": "2026-09-20T11:05:29.141Z",
+        "checkedAt": "2026-09-20T11:05:29.141Z",
+        "contentHash": "16c75ee76a771c6d7f12d654139cdc0aa2466c8b1f92c5da0079810c47d45da5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/",
+        "type": "masters",
+        "label": "Índice oficial · University of Bath",
+        "observedAt": "2026-09-20T11:02:29.955Z",
+        "checkedAt": "2026-09-20T11:02:29.955Z",
+        "contentHash": "849c8a8caec0f43e0747fcf4a9d2b2960c9c63b2507be2acf1a04f99aac6d4f1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/search/?f.Type+of+course%7CC=postgraduate+research&sort=&sort=metat&start_rank=11",
+        "type": "phd",
+        "label": "Índice oficial · University of Bath",
+        "observedAt": "2026-09-20T11:02:30.656Z",
+        "accessOutcome": "robots_disallowed"
+      },
+      {
+        "url": "https://www.bath.ac.uk/guides/postgraduate-research-degrees-in-mathematical-sciences/",
+        "type": "phd",
+        "label": "Índice oficial · University of Bath",
+        "observedAt": "2026-09-20T11:11:01.925Z",
+        "checkedAt": "2026-09-20T11:11:01.925Z",
+        "contentHash": "b40536f211cfda73b307ea43757a04339987bff01f2e3db17ecdbdea5df6e21f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://go.bath.ac.uk/postgrad-research-study",
+        "type": "phd",
+        "label": "Índice oficial · University of Bath",
+        "observedAt": "2026-09-20T11:10:34.736Z",
+        "accessOutcome": "robots_disallowed"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-advanced-machine-learning/",
+        "type": "masters",
+        "label": "Advanced Machine Learning MSc",
+        "observedAt": "2026-09-20T11:55:19.552Z",
+        "checkedAt": "2026-09-20T11:55:19.552Z",
+        "contentHash": "2ac3f38e22cc179ab14240e0a625a69c54f8e2f076961faa3703a6192694ee67",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-artificial-intelligence/",
+        "type": "masters",
+        "label": "Artificial Intelligence MSc",
+        "observedAt": "2026-09-20T11:55:21.419Z",
+        "checkedAt": "2026-09-20T11:55:21.419Z",
+        "contentHash": "ef56321f11e71291e29fa4bf53878e3b5d6baa001e1cb41b3316f9e24fd433f2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-artificial-intelligence-for-engineering-and-design/",
+        "type": "masters",
+        "label": "Artificial Intelligence for Engineering and Design MSc",
+        "observedAt": "2026-09-20T11:55:22.988Z",
+        "checkedAt": "2026-09-20T11:55:22.988Z",
+        "contentHash": "09eefbb6fadd0ccc6931d2f9e0e70f2e843406ea9fe8669a5ba2814d1d852e82",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-computer-science/",
+        "type": "masters",
+        "label": "Computer Science MSc",
+        "observedAt": "2026-09-20T11:55:24.479Z",
+        "checkedAt": "2026-09-20T11:55:24.479Z",
+        "contentHash": "bca443bd503c1fbf988355565ec69dec98af438ab1f9bb55c34ce8ac00f683db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-data-science/",
+        "type": "masters",
+        "label": "Data Science MSc",
+        "observedAt": "2026-09-20T11:55:26.095Z",
+        "checkedAt": "2026-09-20T11:55:26.095Z",
+        "contentHash": "fd47e4ee27b5d863599fee315a56eb62f536f09985433ecc6bb939692f24b824",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-financial-mathematics-with-data-science/",
+        "type": "masters",
+        "label": "Financial Mathematics with Data Science MSc",
+        "observedAt": "2026-09-20T11:55:27.823Z",
+        "checkedAt": "2026-09-20T11:55:27.823Z",
+        "contentHash": "a1e277e08e789bcaad721a5e2716437702a59761485dea6bcd25a4a429227c7a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-molecular-biosciences-bioinformatics/",
+        "type": "masters",
+        "label": "Molecular Biosciences (Bioinformatics) MSc",
+        "observedAt": "2026-09-20T11:55:29.347Z",
+        "checkedAt": "2026-09-20T11:55:29.347Z",
+        "contentHash": "7e15ec433263f941a4041062fadcb79efa6573cd029bcfdfdb55baa4a6fb2521",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-statistics-and-data-science/",
+        "type": "masters",
+        "label": "Statistics and Data Science MSc",
+        "observedAt": "2026-09-20T11:55:31.011Z",
+        "checkedAt": "2026-09-20T11:55:31.011Z",
+        "contentHash": "5aae91d5ca93527b8c717245ab7e1d67620237701bab001bca0d04b454044b80",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-computer-science-full-time/",
+        "type": "phd",
+        "label": "PhD Computer Science",
+        "observedAt": "2026-09-20T12:00:37.685Z",
+        "checkedAt": "2026-09-20T12:00:37.685Z",
+        "contentHash": "c7f24f4767c92d4d2c09af61adb22e999a8d3ed5d4226a63b07e73d8335dd8d5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-mathematics-full-time/",
+        "type": "phd",
+        "label": "PhD Mathematics",
+        "observedAt": "2026-09-20T12:00:38.416Z",
+        "checkedAt": "2026-09-20T12:00:38.416Z",
+        "contentHash": "90d1b1f6ff0bfcb910583ab1628564d58dfd470b70e9cb9600f12586a86fa07d",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.120Z"
+  },
+  {
+    "id": "gb-southampton",
+    "name": "University of Southampton",
+    "country": "GB",
+    "ror": "https://ror.org/01ryk1543",
+    "domains": [
+      "southampton.ac.uk"
+    ],
+    "officialUrl": "https://www.southampton.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.southampton.ac.uk/study/postgraduate-research/social-statistics-demography",
+        "type": "phd",
+        "label": "PhD in Social Statistics and Demography",
+        "observedAt": "2026-09-20T12:00:21.955Z",
+        "checkedAt": "2026-09-20T12:00:21.955Z",
+        "contentHash": "57579f4e451332e1ca506db15f7f0f7d5f5f8c4fd2983996aa9302cff61c9f9e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/study/subjects/mathematical-sciences",
+        "type": "phd",
+        "label": "Índice oficial · University of Southampton",
+        "observedAt": "2026-09-20T11:10:38.473Z",
+        "checkedAt": "2026-09-20T11:10:38.473Z",
+        "contentHash": "55b9659b950381ae6cec45af7e2e33e91f52e2b7727ee55adf3cdb7eb1dc5b2b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/study/postgraduate-research/electronics-computer-science",
+        "type": "phd",
+        "label": "PhD Computer Science",
+        "observedAt": "2026-09-20T12:00:37.144Z",
+        "checkedAt": "2026-09-20T12:00:37.144Z",
+        "contentHash": "38e11b958f3ade385efe60f4a303a204360521ea5207374045c802ac58c7a1e3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/study/subjects/social-statistics-demography",
+        "type": "phd",
+        "label": "Índice oficial · University of Southampton",
+        "observedAt": "2026-09-20T11:10:39.209Z",
+        "checkedAt": "2026-09-20T11:10:39.209Z",
+        "contentHash": "87e4fbbac323d7ee087bbda86318703ba9222c59ac4bd011abc01d9ab104c509",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/study/postgraduate-research/mathematical-sciences",
+        "type": "phd",
+        "label": "Mathematical Sciences PhD",
+        "observedAt": "2026-09-20T12:00:37.416Z",
+        "checkedAt": "2026-09-20T12:00:37.416Z",
+        "contentHash": "b3449cdec7209151fe5da071407cbd4a1e359f79119792bf2c6c7e1a1e297241",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/postgraduate",
+        "type": "masters",
+        "label": "Índice oficial · University of Southampton",
+        "observedAt": "2026-09-20T11:02:35.435Z",
+        "checkedAt": "2026-09-20T11:02:35.435Z",
+        "contentHash": "da3e556a9b5c1509d138bf98afc249127f5f001e20616433308836be08f5b2e0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/study/postgraduate-research",
+        "type": "phd",
+        "label": "Índice oficial · University of Southampton",
+        "observedAt": "2026-09-20T11:02:36.139Z",
+        "checkedAt": "2026-09-20T11:02:36.139Z",
+        "contentHash": "1e8a788ced5f3fa3c3b306bf10ef9cf492c1c5dbf3c3e35fa40d9613ed0278f9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/actuarial-science-masters-msc",
+        "type": "masters",
+        "label": "MSc Actuarial Science",
+        "observedAt": "2026-09-20T11:57:01.217Z",
+        "checkedAt": "2026-09-20T11:57:01.217Z",
+        "contentHash": "5b3a659be5993722a0e1002eef0be171ace709cfb959c96fbe04252ee4e33c20",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/aerodynamics-computation-masters-msc",
+        "type": "masters",
+        "label": "MSc Aerodynamics and Computation",
+        "observedAt": "2026-09-20T11:57:02.194Z",
+        "checkedAt": "2026-09-20T11:57:02.194Z",
+        "contentHash": "51d7ad09080689d324d1d837d0ce0518ff053ad0c329bd1f63fba26af44779bc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/applied-statistics-masters-msc",
+        "type": "masters",
+        "label": "MSc Applied Statistics",
+        "observedAt": "2026-09-20T11:57:02.884Z",
+        "checkedAt": "2026-09-20T11:57:02.884Z",
+        "contentHash": "2839cbe64c93a38749bb9bc5c03c15f09ec1f965ab3f717c6b4d5caf5f0851c4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/artificial-intelligence-masters-msc",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence",
+        "observedAt": "2026-09-20T11:57:03.709Z",
+        "checkedAt": "2026-09-20T11:57:03.709Z",
+        "contentHash": "f090c39fc6574de7737ed50e35d2ebc474fc4c33443f9a766230158a39da46af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/big-data-biology-masters-mres",
+        "type": "masters",
+        "label": "MRes Big Data Biology",
+        "observedAt": "2026-09-20T11:57:04.464Z",
+        "checkedAt": "2026-09-20T11:57:04.464Z",
+        "contentHash": "823b795c302a4bb76b19673d589ddf9521fe4701ffd6f7a28c8482fb645f2edb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/business-analytics-finance-masters-msc",
+        "type": "masters",
+        "label": "MSc Business Analytics and Finance",
+        "observedAt": "2026-09-20T11:57:05.290Z",
+        "checkedAt": "2026-09-20T11:57:05.290Z",
+        "contentHash": "c3d80d97f21e2137a444b8be4fdfb4a1c798bb01cac7ba327ad1a84e57f96594",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/business-analytics-management-science-masters-msc",
+        "type": "masters",
+        "label": "MSc Business Analytics and Management Science",
+        "observedAt": "2026-09-20T11:57:06.075Z",
+        "checkedAt": "2026-09-20T11:57:06.075Z",
+        "contentHash": "b69dc30dd744c05e2fea45c2be3cf49078192f4545ef84bf263629ed2f0537c4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/computational-engineering-design-advanced-mechanical-engineering-science-masters-msc",
+        "type": "masters",
+        "label": "MSc Computational Engineering Design (Advanced Mechanical Engineering Science)",
+        "observedAt": "2026-09-20T11:57:06.958Z",
+        "checkedAt": "2026-09-20T11:57:06.958Z",
+        "contentHash": "801e51e28587f1bd9ba7f1ae4a49e4a8b3ab3da1781bfd0f55a9ed6252bbc036",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/computer-science-masters-msc",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T11:57:07.683Z",
+        "checkedAt": "2026-09-20T11:57:07.683Z",
+        "contentHash": "8fcb4c38062ca9e8414011868dcabb2380db59e9f23b31f7bb56ef93918db22a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/cyber-security-masters-msc",
+        "type": "masters",
+        "label": "MSc Cyber Security",
+        "observedAt": "2026-09-20T11:57:08.489Z",
+        "checkedAt": "2026-09-20T11:57:08.489Z",
+        "contentHash": "ef2347c22ac845ced9e60cc25002b1dfeaf95001da3e0e56096bcd178edf1463",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/data-science-masters-msc",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T11:57:09.352Z",
+        "checkedAt": "2026-09-20T11:57:09.352Z",
+        "contentHash": "c1f5e70e14e685ef61babf4748112a8e80a9b5525d39c77b09c1c15ef543c088",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/data-decision-analytics-masters-msc",
+        "type": "masters",
+        "label": "MSc Data and Decision Analytics",
+        "observedAt": "2026-09-20T11:57:10.081Z",
+        "checkedAt": "2026-09-20T11:57:10.081Z",
+        "contentHash": "222db9bc7c77e9dccf5d69c0ed06b0bfcbedb2966c71d5e2bb3cb39bfefcebe0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/digital-humanities-data-science-masters-msc",
+        "type": "masters",
+        "label": "MSc Digital Humanities (Data Science)",
+        "observedAt": "2026-09-20T11:57:10.916Z",
+        "checkedAt": "2026-09-20T11:57:10.916Z",
+        "contentHash": "8b1ccbff58f9db81e743f2aa272bef602be79f0206193b984f08826df9706d64",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/digital-strategy-information-systems-masters-msc",
+        "type": "masters",
+        "label": "MSc Digital Strategy and Information Systems",
+        "observedAt": "2026-09-20T11:57:11.701Z",
+        "checkedAt": "2026-09-20T11:57:11.701Z",
+        "contentHash": "997ccf41d202766d0adb248a09925d58c843ec3b610c02a8c0625648c051f17d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/geographical-information-systems-remote-sensing-masters-msc",
+        "type": "masters",
+        "label": "MSc Geographical Information Systems and Remote Sensing",
+        "observedAt": "2026-09-20T11:57:12.498Z",
+        "checkedAt": "2026-09-20T11:57:12.498Z",
+        "contentHash": "2b488851b7fa93eef9750282c220c6435ff3ae11440fc507a62fdf6e29f5722d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/logistics-supply-chain-analytics-masters-msc",
+        "type": "masters",
+        "label": "MSc Logistics and Supply Chain Analytics",
+        "observedAt": "2026-09-20T11:57:13.275Z",
+        "checkedAt": "2026-09-20T11:57:13.275Z",
+        "contentHash": "b61a9a3c72bd0fd75a118680f3d73f5421a897944aa5e1d475989caf4a368c06",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/machine-learning-masters-msc",
+        "type": "masters",
+        "label": "MSc Machine Learning",
+        "observedAt": "2026-09-20T11:57:14.078Z",
+        "checkedAt": "2026-09-20T11:57:14.078Z",
+        "contentHash": "047c96a40be8bb240c8c164003d37850532437dde45293bf56aea9a2266d1892",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/maritime-engineering-science-advanced-computational-engineering-masters-msc",
+        "type": "masters",
+        "label": "MSc Maritime Engineering Science: Advanced Computational Engineering",
+        "observedAt": "2026-09-20T11:57:15.656Z",
+        "checkedAt": "2026-09-20T11:57:15.656Z",
+        "contentHash": "82aa33558405e61b9838f3b032fec74f83f32d6414e7d4799ecb23aa27f487f3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/marketing-analytics-masters-msc",
+        "type": "masters",
+        "label": "MSc Marketing Analytics",
+        "observedAt": "2026-09-20T11:57:16.459Z",
+        "checkedAt": "2026-09-20T11:57:16.459Z",
+        "contentHash": "34edc8f353c141ac92b6b23ec160743b00a4f57bd68cbc91fd64d6d02bf2c9e6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/operational-research-masters-msc",
+        "type": "masters",
+        "label": "MSc Operational Research and Data Science",
+        "observedAt": "2026-09-20T11:57:17.295Z",
+        "checkedAt": "2026-09-20T11:57:17.295Z",
+        "contentHash": "49cac8bf2e8950e98c72eb8222641680fc8691b1b5464ece628ac88f952192ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/operational-research-finance-masters-msc",
+        "type": "masters",
+        "label": "MSc Operational Research and Finance",
+        "observedAt": "2026-09-20T11:57:18.065Z",
+        "checkedAt": "2026-09-20T11:57:18.065Z",
+        "contentHash": "209f57ae632436d71b0dee78bee7927dbc1e590579296892ed8575ce9f6c44c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/robotics-autonomous-systems-masters-msc",
+        "type": "masters",
+        "label": "MSc Robotics and Autonomous Systems",
+        "observedAt": "2026-09-20T11:57:18.903Z",
+        "checkedAt": "2026-09-20T11:57:18.903Z",
+        "contentHash": "2c19b6b5e2bf6ff0e844d1a52909a92bf39b7d373f15879d494233f56f372d31",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/social-research-methods-with-applied-statistics-masters-msc",
+        "type": "masters",
+        "label": "MSc Social Research Methods with Applied Statistics",
+        "observedAt": "2026-09-20T11:57:19.703Z",
+        "checkedAt": "2026-09-20T11:57:19.703Z",
+        "contentHash": "2cb294b271549d5ac9f3614f85760bc8087f3f3380875988fea9f35d9ab50ed1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/software-engineering-masters-msc",
+        "type": "masters",
+        "label": "MSc Software Engineering",
+        "observedAt": "2026-09-20T11:57:20.529Z",
+        "checkedAt": "2026-09-20T11:57:20.529Z",
+        "contentHash": "466f9034ba457c887bcfed292ce97a13fb97d2a4d07663e9f6452893c514c889",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/statistics-masters-msc",
+        "type": "masters",
+        "label": "MSc Statistics",
+        "observedAt": "2026-09-20T11:57:21.345Z",
+        "checkedAt": "2026-09-20T11:57:21.345Z",
+        "contentHash": "522cd20e51587900073c83707c72bb5ef52aaf48cdf360c711a45e91baff7aaf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/courses/statistics-with-applications-in-medicine-masters-msc",
+        "type": "masters",
+        "label": "MSc Statistics with Applications in Medicine",
+        "observedAt": "2026-09-20T11:57:22.119Z",
+        "checkedAt": "2026-09-20T11:57:22.119Z",
+        "contentHash": "9be525cdfd1db619d5cc93b4ea394418bd678d677099ee83fd41bd6cf3fbf377",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.130Z"
+  },
+  {
+    "id": "gb-birmingham",
+    "name": "University of Birmingham",
+    "country": "GB",
+    "ror": "https://ror.org/03angcq70",
+    "domains": [
+      "birmingham.ac.uk"
+    ],
+    "officialUrl": "https://www.birmingham.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/course-search?pageSize=100&pageIndex=4",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:13:11.928Z",
+        "checkedAt": "2026-09-20T11:13:11.928Z",
+        "contentHash": "3bdd24bd7f234a85987a92df05f792b166b2505867a01274fa54bb8107c3ea55",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/course-search",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:02:36.273Z",
+        "checkedAt": "2026-09-20T11:02:36.273Z",
+        "contentHash": "dec1b7417601df30901630fb5230a64f748b195623ba60b0d8da43540674d296",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/course-search?pageSize=100&pageIndex=5",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:13:14.193Z",
+        "checkedAt": "2026-09-20T11:13:14.193Z",
+        "contentHash": "c45c0585fa1f2199114858ed3030a7d704c21519e8a08c66dc0186eb945ba9d5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/course-search?pageSize=100&pageIndex=2",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:13:06.777Z",
+        "checkedAt": "2026-09-20T11:13:06.777Z",
+        "contentHash": "70e9f2c44d748858cfaff90fb6ba2ac007ce45678627b8554e409bfd87f4f994",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/course-search?pageSize=100&pageIndex=3",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:13:09.329Z",
+        "checkedAt": "2026-09-20T11:13:09.329Z",
+        "contentHash": "adb354ee2e1c629e46fc0a4e50e0e2cd5b1cb2f8e5a59ca0d0d2005bb7f56b66",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:05:29.518Z",
+        "checkedAt": "2026-09-20T11:05:29.518Z",
+        "contentHash": "f483b9c6a8a3e05df4ec02db3bfaca6f3275ac0ca8133c04cd35890059111f0b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/course-search?pageSize=100&pageIndex=1",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:12:10.947Z",
+        "checkedAt": "2026-09-20T11:12:10.947Z",
+        "contentHash": "edf4168ac5d48cd38542610814ff4ec0210cc4c5f6c0b26ea23099078341e4c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/course-search?pageSize=100&pageIndex=6",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:13:16.432Z",
+        "checkedAt": "2026-09-20T11:13:16.432Z",
+        "contentHash": "caa127b0f320057672b1f87c88bc79658e8ca0f5fe49f13c933180256b10713d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses",
+        "type": "masters",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:05:30.046Z",
+        "checkedAt": "2026-09-20T11:05:30.046Z",
+        "contentHash": "b4e2bb08b0cff57739f3b2e88e80a5e21040605305b0bd016befa223e3a05159",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects",
+        "type": "phd",
+        "label": "Índice oficial · University of Birmingham",
+        "observedAt": "2026-09-20T11:02:37.222Z",
+        "checkedAt": "2026-09-20T11:02:37.222Z",
+        "contentHash": "57422d0def7adb47ac8d8e190d165672a968899d3d2dd81b171c48ed5e6b6b62",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/advanced-computer-science-msc",
+        "type": "masters",
+        "label": "Advanced Computer Science MSc",
+        "observedAt": "2026-09-20T11:55:27.882Z",
+        "checkedAt": "2026-09-20T11:55:27.882Z",
+        "contentHash": "74b1c060ce1ceb5439a69c62a5af5c9db357db64ed15c588ba15a3dfebededd3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/cyber-security-msc",
+        "type": "masters",
+        "label": "Cyber Security MSc",
+        "observedAt": "2026-09-20T11:55:28.946Z",
+        "checkedAt": "2026-09-20T11:55:28.946Z",
+        "contentHash": "21941bd065c31077fc490c27047c77727ab6692ae53ed1dfd4dd4a22fc727ae5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/human-computer-interaction-msc",
+        "type": "masters",
+        "label": "Human Computer Interaction MSc",
+        "observedAt": "2026-09-20T11:55:29.727Z",
+        "checkedAt": "2026-09-20T11:55:29.727Z",
+        "contentHash": "dca9a209dada0bfa77f4316e8b80bca2223de873af3d072870b877df5895f998",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/natural-computation-mres",
+        "type": "masters",
+        "label": "Natural Computation MRes",
+        "observedAt": "2026-09-20T11:55:30.362Z",
+        "checkedAt": "2026-09-20T11:55:30.362Z",
+        "contentHash": "6d2d4f09a5fe2dbe3b46165e032e06a37ec8d405283c04faf42f75713f1682dd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/artificial-intelligence-machine-learning-msc",
+        "type": "masters",
+        "label": "Artificial Intelligence (AI) and Machine Learning MSc",
+        "observedAt": "2026-09-20T11:55:31.084Z",
+        "checkedAt": "2026-09-20T11:55:31.084Z",
+        "contentHash": "592695a96743ea9ef455ccf6bf166347fc5084836a639c348dbed62804205ec3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/engineering-management-courses/advanced-engineering-management-artificial-intelligence-ai-automation",
+        "type": "masters",
+        "label": "Advanced Engineering Management (Artificial Intelligence (AI) and Automation) MSc",
+        "observedAt": "2026-09-20T11:55:31.823Z",
+        "checkedAt": "2026-09-20T11:55:31.823Z",
+        "contentHash": "7fff20e6bf342b264ec7a2f801a706be338f64341a2bb9831b650561b9cc5c69",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/economics-ai-and-data-science-msc",
+        "type": "masters",
+        "label": "Economics, AI and Data Science MSc",
+        "observedAt": "2026-09-20T11:55:32.698Z",
+        "checkedAt": "2026-09-20T11:55:32.698Z",
+        "contentHash": "17bb9da25eb810abf5e83adf546ab802a8f3df0b6f793ff8c08f47debcd0d7df",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/sport-and-exercise-sciences-courses/sport-data-science-and-ai-msc",
+        "type": "masters",
+        "label": "Sport Data Science and AI MSc",
+        "observedAt": "2026-09-20T11:55:33.508Z",
+        "checkedAt": "2026-09-20T11:55:33.508Z",
+        "contentHash": "2baa86a51aa326ec879592c3588d15f3f8598eaed7caf49859bdf3438d6bd6b8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/physics-and-astronomy-courses/applications-data-science-msc",
+        "type": "masters",
+        "label": "Applications of Data Science MSc",
+        "observedAt": "2026-09-20T11:55:34.233Z",
+        "checkedAt": "2026-09-20T11:55:34.233Z",
+        "contentHash": "1660670b7d2ca7144eaa829a85106a6bfdd8e0b647532ef58741cb68965e1ffd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/financial-data-science-msc",
+        "type": "masters",
+        "label": "Financial Data Science MSc",
+        "observedAt": "2026-09-20T11:55:35.079Z",
+        "checkedAt": "2026-09-20T11:55:35.079Z",
+        "contentHash": "5f73abe1afbaac64617df97a0db3aa22b6a2246b16c844ee0428792495da3ae6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistical-data-science-msc",
+        "type": "masters",
+        "label": "Statistical Data Science MSc",
+        "observedAt": "2026-09-20T11:55:35.831Z",
+        "checkedAt": "2026-09-20T11:55:35.831Z",
+        "contentHash": "9b702a65d3186625a94cc8af43e8df9c95f92502d8dc3bc18b7d1c7615cebe58",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd",
+        "type": "phd",
+        "label": "Computer Science PhD",
+        "observedAt": "2026-09-20T11:55:36.625Z",
+        "checkedAt": "2026-09-20T11:55:36.625Z",
+        "contentHash": "894abe723c2ff73c000034c622728915c8e747850f7b6def550a9ec69ab0e2b9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/electronic-electrical-and-systems-engineering-courses/electronic-computer-engineering-msc",
+        "type": "masters",
+        "label": "Electronic and Computer Engineering MSc",
+        "observedAt": "2026-09-20T11:55:37.464Z",
+        "checkedAt": "2026-09-20T11:55:37.464Z",
+        "contentHash": "28d21b09f50f97a4beca7815ce692d3ac0aed5a8012297ae356b2bb6ff5386ee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mechanical-engineering-courses/robotics-msc",
+        "type": "masters",
+        "label": "Robotics MSc",
+        "observedAt": "2026-09-20T11:55:38.320Z",
+        "checkedAt": "2026-09-20T11:55:38.320Z",
+        "contentHash": "1c0b2671ba21780a5e4522eb81e9bc8ce04e0653178fd093bcd8f8f233cf3fe3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/applied-mathematics-msc",
+        "type": "masters",
+        "label": "Applied Mathematics MSc",
+        "observedAt": "2026-09-20T11:55:39.006Z",
+        "checkedAt": "2026-09-20T11:55:39.006Z",
+        "contentHash": "2951d577ae1fedb8e2c95de8bc84d5db34a131721770f48876a0e882e3569085",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/mathematical-finance-msc",
+        "type": "masters",
+        "label": "Mathematical Finance MSc",
+        "observedAt": "2026-09-20T11:55:39.814Z",
+        "checkedAt": "2026-09-20T11:55:39.814Z",
+        "contentHash": "73d3dbc02e9185c1efb0e234d8fbfd9cbe57b7c3dae6830c44934eb0b33f99b5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/mathematics-operational-research-statistics-econometrics-msc",
+        "type": "masters",
+        "label": "Mathematics, Operational Research, Statistics and Econometrics (MORSE) MSc",
+        "observedAt": "2026-09-20T11:55:40.622Z",
+        "checkedAt": "2026-09-20T11:55:40.622Z",
+        "contentHash": "3468dc9e8e93514822cada3d458aee19bcde477e89deb0073114f484f79a42e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistics-msc",
+        "type": "masters",
+        "label": "Statistics MSc",
+        "observedAt": "2026-09-20T11:55:41.424Z",
+        "checkedAt": "2026-09-20T11:55:41.424Z",
+        "contentHash": "295f9ad44a1d6529312e29c2ed16b7c00a7613e9a892e777eebc5ca0d20b5314",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/applied-mathematics-mres",
+        "type": "masters",
+        "label": "Applied Mathematics MRes",
+        "observedAt": "2026-09-20T11:55:42.216Z",
+        "checkedAt": "2026-09-20T11:55:42.216Z",
+        "contentHash": "9a5cb827ade5972bb2330e6b3289fdd94863212dbcecf69dcf9629d702826e00",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/management-mathematics-mres",
+        "type": "masters",
+        "label": "Management Mathematics MRes",
+        "observedAt": "2026-09-20T11:55:43.051Z",
+        "checkedAt": "2026-09-20T11:55:43.051Z",
+        "contentHash": "ba173f132ff659748e2413b7132e9895d5c8c5e4b8c235b37f48875351e765c1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistics-mres",
+        "type": "masters",
+        "label": "Statistics MRes",
+        "observedAt": "2026-09-20T11:55:44.067Z",
+        "checkedAt": "2026-09-20T11:55:44.067Z",
+        "contentHash": "3edfcdd97bd66c13e1015d212ef88b48e601701510377219cd064fcdc8b24d6a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/applied-mathematics-phd",
+        "type": "phd",
+        "label": "Applied Mathematics PhD",
+        "observedAt": "2026-09-20T11:55:44.700Z",
+        "checkedAt": "2026-09-20T11:55:44.700Z",
+        "contentHash": "0843958bf887cb498bc8b80449d77a3530613228875f94a0187aaddef15a6cb8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/management-mathematics-phd",
+        "type": "phd",
+        "label": "Management Mathematics PhD",
+        "observedAt": "2026-09-20T11:55:45.452Z",
+        "checkedAt": "2026-09-20T11:55:45.452Z",
+        "contentHash": "2eed1e02e2d102829082744cfe8da13e8bb94e395273952b3ae54a2945a60d77",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistics-phd",
+        "type": "phd",
+        "label": "Statistics PhD",
+        "observedAt": "2026-09-20T11:55:46.267Z",
+        "checkedAt": "2026-09-20T11:55:46.267Z",
+        "contentHash": "d452f2e7fece4daacae6def7e2b236d12ff024c5212445b38622e64bb59f3de7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/bioinformatics-msc",
+        "type": "masters",
+        "label": "Bioinformatics MSc",
+        "observedAt": "2026-09-20T12:00:35.274Z",
+        "checkedAt": "2026-09-20T12:00:35.274Z",
+        "contentHash": "6073ea59764c96fa5e844a91f8ce6608273c958fe9fa98855673368e6a1244a0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/psychology-courses/cognitive-neuroimaging-and-data-science-msc",
+        "type": "masters",
+        "label": "Cognitive Neuroimaging and Data Science MSc",
+        "observedAt": "2026-09-20T12:00:36.502Z",
+        "checkedAt": "2026-09-20T12:00:36.502Z",
+        "contentHash": "2cd8f00dfbcb8fead26f9d66ececd73e34b79daa32bb588cb6278a29d281068b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/health-data-science-msc",
+        "type": "masters",
+        "label": "Health Data Science  MSc",
+        "observedAt": "2026-09-20T12:00:36.816Z",
+        "checkedAt": "2026-09-20T12:00:36.816Z",
+        "contentHash": "ec03ee7d1ded95bf32ebf3f0815404843013727f0c1eaad29a20b386f7702658",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.138Z"
+  },
+  {
+    "id": "gb-lancaster",
+    "name": "Lancaster University",
+    "country": "GB",
+    "ror": "https://ror.org/04f2nsd36",
+    "domains": [
+      "lancaster.ac.uk"
+    ],
+    "officialUrl": "https://www.lancaster.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/postgraduate-course-search/",
+        "type": "phd",
+        "label": "Índice oficial · Lancaster University",
+        "observedAt": "2026-09-20T11:02:40.667Z",
+        "accessOutcome": "javascript_required"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/",
+        "type": "masters",
+        "label": "Índice oficial · Lancaster University",
+        "observedAt": "2026-09-20T11:02:39.911Z",
+        "accessOutcome": "javascript_required"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/applied-mathematics-phd/2027/",
+        "type": "phd",
+        "label": "Applied Mathematics PhD",
+        "observedAt": "2026-09-20T11:57:50.930Z",
+        "checkedAt": "2026-09-20T11:57:50.930Z",
+        "contentHash": "a071e9688974596fe9646228870915f72b873122ce38dfd6ad47bbd309071b64",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/artificial-intelligence-msc/2027/",
+        "type": "masters",
+        "label": "Artificial Intelligence MSc",
+        "observedAt": "2026-09-20T11:57:57.137Z",
+        "checkedAt": "2026-09-20T11:57:57.137Z",
+        "contentHash": "de0d60ba4f81e96a5a486401e44522a3821d3cc0292f22e9bc1a2bd6e575ef0e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/business-analytics-msc/2027/",
+        "type": "masters",
+        "label": "Business Analytics MSc",
+        "observedAt": "2026-09-20T11:58:07.448Z",
+        "checkedAt": "2026-09-20T11:58:07.448Z",
+        "contentHash": "b936a9411155e5fc590b26e8af5229eb99b86bf61390bd4957b5966cf6488914",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/computer-science-mphilphd/2027/",
+        "type": "phd",
+        "label": "Computer Science MPhil/PhD",
+        "observedAt": "2026-09-20T11:58:17.411Z",
+        "checkedAt": "2026-09-20T11:58:17.411Z",
+        "contentHash": "cb674e6b70487511e3c86c7da119484fbb6bc5ee2bbc0184e0a1fd3e58972455",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/computer-science-msc-by-research/2027/",
+        "type": "masters",
+        "label": "Computer Science MSc by Research",
+        "observedAt": "2026-09-20T11:58:27.127Z",
+        "checkedAt": "2026-09-20T11:58:27.127Z",
+        "contentHash": "16d3c4282e443c1bb9559ce632da4b13b0964c00f803be4c23bc64e7f28e688b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/cyber-security-msc/2027/",
+        "type": "masters",
+        "label": "Cyber Security MSc",
+        "observedAt": "2026-09-20T11:58:37.213Z",
+        "checkedAt": "2026-09-20T11:58:37.213Z",
+        "contentHash": "d4e7c43e0ff2c7f7fc56c36d709ee48beaff6b7c135b588f0be0ee2c9675818b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-msc/2027/",
+        "type": "masters",
+        "label": "Data Science MSc",
+        "observedAt": "2026-09-20T11:58:47.474Z",
+        "checkedAt": "2026-09-20T11:58:47.474Z",
+        "contentHash": "72e90f623593132b835d39e901d89a9d6ec6b9b9a6b5d92163cf9a3d442d7e09",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/health-data-science-msc/2027/",
+        "type": "masters",
+        "label": "Health Data Science MSc",
+        "observedAt": "2026-09-20T11:58:57.865Z",
+        "checkedAt": "2026-09-20T11:58:57.865Z",
+        "contentHash": "5fffe0c544c677bd5eabefd5817c48415cfdb940d7f1e2d27f26d3bd94ae6d1e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/health-data-science-phd/2027/",
+        "type": "phd",
+        "label": "Health Data Science PhD",
+        "observedAt": "2026-09-20T11:59:07.747Z",
+        "checkedAt": "2026-09-20T11:59:07.747Z",
+        "contentHash": "31805fae811ee63d6bbaa6ac42e344b6645f139b5ac0f038b2d36bd99dd38138",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/information-systems-and-digital-business-innovation-msc/2027/",
+        "type": "masters",
+        "label": "Information Systems and Digital Business Innovation MSc",
+        "observedAt": "2026-09-20T11:59:17.230Z",
+        "checkedAt": "2026-09-20T11:59:17.230Z",
+        "contentHash": "2d35fa63f3d68d57d68f7190ac0a0c2f7d9f60ec579d16abb45adf5a6294b83c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/mathematics-phd/2027/",
+        "type": "phd",
+        "label": "Mathematics PhD",
+        "observedAt": "2026-09-20T11:59:37.468Z",
+        "checkedAt": "2026-09-20T11:59:37.468Z",
+        "contentHash": "4c4085c6da670ff1b082c98b191f1874bee9ab6150123eb1024ecb6220821bef",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/psychology-and-behavioural-analytics-msc/2027/",
+        "type": "masters",
+        "label": "Psychology and Behavioural Analytics MSc",
+        "observedAt": "2026-09-20T11:59:47.219Z",
+        "checkedAt": "2026-09-20T11:59:47.219Z",
+        "contentHash": "b51a50f5600c882d16b594926dde036849fb10a397ff26175db5106fc59ddc6c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/social-statistics-phd/2027/",
+        "type": "phd",
+        "label": "Social Statistics PhD",
+        "observedAt": "2026-09-20T11:59:57.450Z",
+        "checkedAt": "2026-09-20T11:59:57.450Z",
+        "contentHash": "1c799e33e0301068ffe24d7fcdc14327cbb4efec5c7c25b9ebb1576aa4404322",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-msc/2027/",
+        "type": "masters",
+        "label": "Statistics MSc",
+        "observedAt": "2026-09-20T12:00:07.291Z",
+        "checkedAt": "2026-09-20T12:00:07.291Z",
+        "contentHash": "1eb171c9f2653c494a7a3b1d0474d05ffa5c2281bfdebff957dabc5cdd2fc542",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-phd/2027/",
+        "type": "phd",
+        "label": "Statistics PhD",
+        "observedAt": "2026-09-20T12:00:17.960Z",
+        "checkedAt": "2026-09-20T12:00:17.960Z",
+        "contentHash": "95fb6b0ce112b629670726821dc826d017d9ab44a8880d653b07c9b49e765cf8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-and-epidemiology-phd/2027/",
+        "type": "phd",
+        "label": "Statistics and Epidemiology PhD",
+        "observedAt": "2026-09-20T12:00:27.488Z",
+        "checkedAt": "2026-09-20T12:00:27.488Z",
+        "contentHash": "ca3da0a4cc59c4dee01864cf7528b0ca52361ce2f0d1243a958db9636398e564",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-and-operational-research-stori-phd/2027/",
+        "type": "phd",
+        "label": "Statistics and Operational Research (STOR-i) PhD",
+        "observedAt": "2026-09-20T12:00:37.137Z",
+        "checkedAt": "2026-09-20T12:00:37.137Z",
+        "contentHash": "f02e8c26db96bf1a44f938eb9ec302d242cb769b9bda185a86ee3f573e203281",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.143Z"
+  },
+  {
+    "id": "gb-cardiff",
+    "name": "Cardiff University",
+    "country": "GB",
+    "ror": "https://ror.org/03kk7td41",
+    "domains": [
+      "cardiff.ac.uk"
+    ],
+    "officialUrl": "https://www.cardiff.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.cardiff.ac.uk/study/postgraduate/research/programmes",
+        "type": "phd",
+        "label": "Índice oficial · Cardiff University",
+        "observedAt": "2026-09-20T11:02:42.456Z",
+        "accessOutcome": "robots_unavailable_403"
+      },
+      {
+        "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses",
+        "type": "masters",
+        "label": "Índice oficial · Cardiff University",
+        "observedAt": "2026-09-20T11:02:42.455Z",
+        "accessOutcome": "robots_unavailable_403"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.153Z"
+  },
+  {
+    "id": "gb-belfast",
+    "name": "Queen's University Belfast",
+    "country": "GB",
+    "ror": "https://ror.org/00hswnk62",
+    "domains": [
+      "qub.ac.uk"
+    ],
+    "officialUrl": "https://www.qub.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.qub.ac.uk/courses/postgraduate-taught/",
+        "type": "masters",
+        "label": "Índice oficial · Queen's University Belfast",
+        "observedAt": "2026-09-20T11:02:42.906Z",
+        "accessOutcome": "robots_unavailable_403"
+      },
+      {
+        "url": "https://www.qub.ac.uk/courses/postgraduate-research/",
+        "type": "phd",
+        "label": "Índice oficial · Queen's University Belfast",
+        "observedAt": "2026-09-20T11:02:42.907Z",
+        "accessOutcome": "robots_unavailable_403"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.158Z"
+  },
+  {
+    "id": "gb-strathclyde",
+    "name": "University of Strathclyde",
+    "country": "GB",
+    "ror": "https://ror.org/00n3w3b69",
+    "domains": [
+      "strath.ac.uk"
+    ],
+    "officialUrl": "https://www.strath.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/",
+        "type": "masters",
+        "label": "Índice oficial · University of Strathclyde",
+        "observedAt": "2026-09-20T11:02:42.908Z",
+        "checkedAt": "2026-09-20T11:02:42.908Z",
+        "contentHash": "5af1763137f8d9329fc5139fd8c8d3be219c9b975f90de16bdbea4dbce8c82ff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/research/",
+        "type": "phd",
+        "label": "Índice oficial · University of Strathclyde",
+        "observedAt": "2026-09-20T11:02:44.178Z",
+        "checkedAt": "2026-09-20T11:02:44.178Z",
+        "contentHash": "2f918772faafb168dfd41c8ed80ac7436cd09af728eb7fd84ba5e68d2afca572",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/accountingfinancedataanalytics/",
+        "type": "masters",
+        "label": "Accounting, Finance & Data Analytics (MSc)",
+        "observedAt": "2026-09-20T11:57:20.553Z",
+        "checkedAt": "2026-09-20T11:57:20.553Z",
+        "contentHash": "ddc45bdf0df99d9c0c717ce7601c09b4eff94fe9cbefd18c7311f4536c7d9cca",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedcomputationalmathematics/",
+        "type": "masters",
+        "label": "Advanced Computational Mathematics (MSc)",
+        "observedAt": "2026-09-20T11:57:22.336Z",
+        "checkedAt": "2026-09-20T11:57:22.336Z",
+        "contentHash": "72abe6b313f0afef73c3d7824cb714b8ce3066622ba6bc40a58bbe1be54832f7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedcomputerscience/",
+        "type": "masters",
+        "label": "Advanced Computer Science (MSc)",
+        "observedAt": "2026-09-20T11:57:23.222Z",
+        "checkedAt": "2026-09-20T11:57:23.222Z",
+        "contentHash": "9fbdf1bd02a1d3d8bc5bbd87d4f7f53f383b5d09c6f90a12bd01778f804b015a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advanceddatascience/",
+        "type": "masters",
+        "label": "Advanced Data Science (MSc)",
+        "observedAt": "2026-09-20T11:57:24.109Z",
+        "checkedAt": "2026-09-20T11:57:24.109Z",
+        "contentHash": "8210fefc4c9e7e74112a852c61398c0957a563f51b749f42c1f14a6eb339d62a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedmathematicalmodelling/",
+        "type": "masters",
+        "label": "Advanced Mathematical Modelling (MSc)",
+        "observedAt": "2026-09-20T11:57:24.774Z",
+        "checkedAt": "2026-09-20T11:57:24.774Z",
+        "contentHash": "412b6d6bb30cf7c320352933672d09e91c0b1f23835435b418cd0a5d5f720a9d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/appliedstatistics/",
+        "type": "masters",
+        "label": "Applied Statistics (MSc)",
+        "observedAt": "2026-09-20T11:57:25.589Z",
+        "checkedAt": "2026-09-20T11:57:25.589Z",
+        "contentHash": "b26b33d2c6d3d3c16d7aff30299d6780c4547369e44616bc699ee4825cc7eba6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/artificialintelligenceapplications/",
+        "type": "masters",
+        "label": "Artificial Intelligence & Applications (MSc)",
+        "observedAt": "2026-09-20T11:57:26.375Z",
+        "checkedAt": "2026-09-20T11:57:26.375Z",
+        "contentHash": "900cdbf6b4321914b4c16cd159cfa88a9d25607cd44c3a71b6599b2a5f7b9463",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/autonomousroboticintelligentsystems/",
+        "type": "masters",
+        "label": "Autonomous Robotic Intelligent Systems (MSc)",
+        "observedAt": "2026-09-20T11:57:27.164Z",
+        "checkedAt": "2026-09-20T11:57:27.164Z",
+        "contentHash": "54ea4cf7d0bc30cdf419aa524775d591d415a98a3ad02d6631832eaa5865f130",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/chemistrywithartificialintelligence/",
+        "type": "masters",
+        "label": "Chemistry with Artificial Intelligence (MSc)",
+        "observedAt": "2026-09-20T11:57:27.979Z",
+        "checkedAt": "2026-09-20T11:57:27.979Z",
+        "contentHash": "f20157d6f4deabca62f28a399f7d7d8b86e3597bf8ebd6f9d71c0809830fec9a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/chemistrywithdatascience/",
+        "type": "masters",
+        "label": "Chemistry with Data Science (MSc)",
+        "observedAt": "2026-09-20T11:57:28.809Z",
+        "checkedAt": "2026-09-20T11:57:28.809Z",
+        "contentHash": "fa964d6b878560c5a361be9cf8f2b8a24ebcf8e1ccc501843cae3c974c0bd347",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/dataanalytics/",
+        "type": "masters",
+        "label": "Data Analytics (MSc)",
+        "observedAt": "2026-09-20T11:57:29.552Z",
+        "checkedAt": "2026-09-20T11:57:29.552Z",
+        "contentHash": "390884eb3b63f2589f8ecdf64afe23c02030829308141332f6df9bc37ec9c665",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/datascienceforpoliticspolicymaking/",
+        "type": "masters",
+        "label": "Data Science for Politics & Policymaking (MSc)",
+        "observedAt": "2026-09-20T11:57:30.375Z",
+        "checkedAt": "2026-09-20T11:57:30.375Z",
+        "contentHash": "3553a5eff2875eacb1404cdefff2e936a412d5710f2ac81e09bc28d6dc2b337c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/financialmathematicsdatascience/",
+        "type": "masters",
+        "label": "Financial Mathematics & Data Science (MSc)",
+        "observedAt": "2026-09-20T11:57:33.157Z",
+        "checkedAt": "2026-09-20T11:57:33.157Z",
+        "contentHash": "c75e612ee91d9f85b123c29438ed16b09359513ce88261dbd7b07a2931f695d9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/humanresourcemanagementpeopleanalytics/",
+        "type": "masters",
+        "label": "Human Resource Management & People Analytics (MSc)",
+        "observedAt": "2026-09-20T11:57:33.528Z",
+        "checkedAt": "2026-09-20T11:57:33.528Z",
+        "contentHash": "579ba8237b3f8439751bd9d97a90e5c5e816f415f3e189079bb4275d357332c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/machinelearningdeeplearning/",
+        "type": "masters",
+        "label": "Machine Learning & Deep Learning (MSc)",
+        "observedAt": "2026-09-20T11:57:34.301Z",
+        "checkedAt": "2026-09-20T11:57:34.301Z",
+        "contentHash": "4b55c61f44a3fbb2b6d3a26d8a64f2b509de5c916c5892c4145a207b3e5ea9b9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/msccybersecurity/",
+        "type": "masters",
+        "label": "Cyber Security (MSc)",
+        "observedAt": "2026-09-20T11:57:35.129Z",
+        "checkedAt": "2026-09-20T11:57:35.129Z",
+        "contentHash": "8ada2c495c01fdec9585e6247bde63d26433395b9becf021e61819c10145b060",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/quantitativefinance/",
+        "type": "masters",
+        "label": "Quantitative Finance (MSc)",
+        "observedAt": "2026-09-20T11:57:35.906Z",
+        "checkedAt": "2026-09-20T11:57:35.906Z",
+        "contentHash": "80881c40ed759bf5f6c43051016d9fbce16d341b8f48274aa626403939075a3e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/softwaredevelopment/",
+        "type": "masters",
+        "label": "Software Development (MSc)",
+        "observedAt": "2026-09-20T11:57:36.763Z",
+        "checkedAt": "2026-09-20T11:57:36.763Z",
+        "contentHash": "2c66a52d24c1cf7f52a9dd5bdb545440279f2019febb6f372e3eeb601ae36b36",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/sportdataanalytics/",
+        "type": "masters",
+        "label": "Sport Data Analytics (MSc)",
+        "observedAt": "2026-09-20T11:57:37.496Z",
+        "checkedAt": "2026-09-20T11:57:37.496Z",
+        "contentHash": "09b4125c7d32ce1eb30c087f3d45b44f580cfad5adc8d605efcbc398ee88cfad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/statisticsdatascience/",
+        "type": "masters",
+        "label": "Statistics & Data Science (MSc)",
+        "observedAt": "2026-09-20T11:57:40.337Z",
+        "checkedAt": "2026-09-20T11:57:40.337Z",
+        "contentHash": "6fc053c231b75cba626e82d677dadc6a03375939fd34c982b9a17c6a359f1528",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/research/mathematicalsciencesmres/",
+        "type": "masters",
+        "label": "Mathematical Sciences (MRes)",
+        "observedAt": "2026-09-20T11:57:40.664Z",
+        "checkedAt": "2026-09-20T11:57:40.664Z",
+        "contentHash": "27eae493959b4628bda0ced1855c418e5506ea07723445817ab23784bf71e3ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/research/computerinformationsciences/",
+        "type": "phd",
+        "label": "Computer & information sciences (PhD, MPhil)",
+        "observedAt": "2026-09-20T11:57:43.627Z",
+        "checkedAt": "2026-09-20T11:57:43.627Z",
+        "contentHash": "7df1e8eb2253208e19c0a8668e219ce54efaddacfca2b286f09fbde2d18471ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/",
+        "type": "phd",
+        "label": "Mathematics & statistics (PhD, MPhil)",
+        "observedAt": "2026-09-20T11:57:44.015Z",
+        "checkedAt": "2026-09-20T11:57:44.015Z",
+        "contentHash": "1a11be0bd7f9ef4099046826b8e54a3a6a7e76a5032f9e998b3e48459a233cbc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.strath.ac.uk/courses/research/managementscience/",
+        "type": "phd",
+        "label": "PhD Management Science",
+        "observedAt": "2026-09-20T12:00:38.331Z",
+        "checkedAt": "2026-09-20T12:00:38.331Z",
+        "contentHash": "c8a4f6fa3815dfd4b94bce6c4f4c794fc334be12b3d4ff130942a6c775a10cf7",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.163Z"
+  },
+  {
+    "id": "gb-aberdeen",
+    "name": "University of Aberdeen",
+    "country": "GB",
+    "ror": "https://ror.org/016476m91",
+    "domains": [
+      "abdn.ac.uk"
+    ],
+    "officialUrl": "https://www.abdn.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-research/research-areas/?limit=All",
+        "type": "phd",
+        "label": "Índice oficial · University of Aberdeen",
+        "observedAt": "2026-09-20T11:10:34.210Z",
+        "checkedAt": "2026-09-20T11:10:34.210Z",
+        "contentHash": "b960d3c391801bd23285a62f79df6d0bd059e9ec3e1f7e90b4f302e86cf25209",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/?limit=All",
+        "type": "masters",
+        "label": "Índice oficial · University of Aberdeen",
+        "observedAt": "2026-09-20T11:02:44.974Z",
+        "checkedAt": "2026-09-20T11:02:44.974Z",
+        "contentHash": "cb384a76f4a9a9555e86de4bcc885d78c442d013634f78d748e416bf5b3a51e4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-research/research-areas/",
+        "type": "phd",
+        "label": "Índice oficial · University of Aberdeen",
+        "observedAt": "2026-09-20T11:05:30.823Z",
+        "checkedAt": "2026-09-20T11:05:30.823Z",
+        "contentHash": "2fa1efae08b3f82bc35e4eb615cbcdaae7c84b6054a8ec8ce8472a1af07ec598",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-research/",
+        "type": "phd",
+        "label": "Índice oficial · University of Aberdeen",
+        "observedAt": "2026-09-20T11:02:52.351Z",
+        "checkedAt": "2026-09-20T11:02:52.351Z",
+        "contentHash": "930a53340e3b462365a410ba6e4507b3136f933a9bef6a24b561dbfc0b436054",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1034/artificial-intelligence/",
+        "type": "masters",
+        "label": "Artificial Intelligence",
+        "observedAt": "2026-09-20T11:55:04.321Z",
+        "checkedAt": "2026-09-20T11:55:04.321Z",
+        "contentHash": "ef07b46dbc7eb0f09394b2832dbc3356f7ad112313e743b3c5b1f870aa567e2a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1036/msc-biotechnology-bioinformatics-and-bio-business/",
+        "type": "masters",
+        "label": "Biotechnology and Bioinformatics",
+        "observedAt": "2026-09-20T11:55:12.635Z",
+        "checkedAt": "2026-09-20T11:55:12.635Z",
+        "contentHash": "85d46ee889130263e8026cb64ddaff8d807086a2c0ec0be3b725695d5b0e1d6f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/2023/cybersecurity-and-machine-learning/",
+        "type": "masters",
+        "label": "Cybersecurity and Machine Learning",
+        "observedAt": "2026-09-20T11:55:13.850Z",
+        "checkedAt": "2026-09-20T11:55:13.850Z",
+        "contentHash": "29826e226acd8bb36b398c1eb171650f22d7ebcf130d2ffe6f035c642ef31f75",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/2036/business-management-and-data-science/",
+        "type": "masters",
+        "label": "Data Science and Business Management",
+        "observedAt": "2026-09-20T11:55:14.943Z",
+        "checkedAt": "2026-09-20T11:55:14.943Z",
+        "contentHash": "51258ddcdb639476a6f6695abb29533d09023ee7c6d333af1b6069162c2ec8b6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/99/geographical-information-systems/",
+        "type": "masters",
+        "label": "Geographical Information Systems",
+        "observedAt": "2026-09-20T11:55:16.134Z",
+        "checkedAt": "2026-09-20T11:55:16.134Z",
+        "contentHash": "e701f572d2b80af1eecf90ffd6de05a4d9b439f6a2bdfee7f0702ce6c84c653f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1230/health-data-science/",
+        "type": "masters",
+        "label": "Health Data Science",
+        "observedAt": "2026-09-20T11:55:17.267Z",
+        "checkedAt": "2026-09-20T11:55:17.267Z",
+        "contentHash": "cb5d9c18b092ed971c0d0867badbc2d053c0c7b3ca36aa5dbe5d482ccc43bdbb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/133/information-technology/",
+        "type": "masters",
+        "label": "Information Technology",
+        "observedAt": "2026-09-20T11:55:18.392Z",
+        "checkedAt": "2026-09-20T11:55:18.392Z",
+        "contentHash": "587e5698e0923465a308511403f1da3cdde344397dddb2eeb51ba0d603783111",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/2188/planetary-and-data-sciences/",
+        "type": "masters",
+        "label": "Planetary and Data Sciences",
+        "observedAt": "2026-09-20T11:55:19.533Z",
+        "checkedAt": "2026-09-20T11:55:19.533Z",
+        "contentHash": "7660bca7d695db8925cf4163d87aaf2a5e311c846a7eb7e0029ed98dcf6be48a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1977/robotics-and-artificial-intelligence/",
+        "type": "masters",
+        "label": "Robotics and Artificial Intelligence",
+        "observedAt": "2026-09-20T11:55:20.697Z",
+        "checkedAt": "2026-09-20T11:55:20.697Z",
+        "contentHash": "54ffacaa60ff85eeb81a2ac0c373127d99b56de2595cdb0c70409a99eb82d723",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-research/research-areas/863/computing-science/",
+        "type": "phd",
+        "label": "PhD — Computing Science",
+        "observedAt": "2026-09-20T11:55:21.782Z",
+        "checkedAt": "2026-09-20T11:55:21.782Z",
+        "contentHash": "834091b26026ecb10e08ac54d71768decfc7584cb32cd35c34619dea1f663417",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.abdn.ac.uk/study/postgraduate-research/research-areas/883/mathematical-sciences/",
+        "type": "phd",
+        "label": "Mathematics PhD",
+        "observedAt": "2026-09-20T12:00:36.833Z",
+        "checkedAt": "2026-09-20T12:00:36.833Z",
+        "contentHash": "0b5d4c81372b97742713e28b2e370d78fbafd26acde8bfe912a87f4de8dc65ff",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.169Z"
+  },
+  {
+    "id": "gb-heriot",
+    "name": "Heriot-Watt University",
+    "country": "GB",
+    "ror": "https://ror.org/04mghma93",
+    "domains": [
+      "hw.ac.uk"
+    ],
+    "officialUrl": "https://www.hw.ac.uk/",
+    "sources": [
+      {
+        "url": "https://www.hw.ac.uk/search/programmes?f.Level=Research&f.Location=Orkney&f.Location=Edinburgh&f.Location=Scottish+Borders",
+        "type": "phd",
+        "label": "Índice oficial · Heriot-Watt University",
+        "observedAt": "2026-09-20T11:05:30.508Z",
+        "accessOutcome": "javascript_required"
+      },
+      {
+        "url": "https://www.hw.ac.uk/search/programmes?gscope1=uk%2Conline%7C&f.Level=Postgraduate",
+        "type": "masters",
+        "label": "Índice oficial · Heriot-Watt University",
+        "observedAt": "2026-09-20T11:05:30.074Z",
+        "accessOutcome": "javascript_required"
+      },
+      {
+        "url": "https://www.hw.ac.uk/research-enterprise/research/research-environment/postgraduate-opportunities/current-opportunities",
+        "type": "phd",
+        "label": "Índice oficial · Heriot-Watt University",
+        "observedAt": "2026-09-20T11:02:54.157Z",
+        "checkedAt": "2026-09-20T11:02:54.157Z",
+        "contentHash": "9a7278a468340c9fac49bd6faa5add673bb24a2698c864fd0e636d6116111360",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences",
+        "type": "masters",
+        "label": "Índice oficial · Heriot-Watt University",
+        "observedAt": "2026-09-20T11:11:05.262Z",
+        "checkedAt": "2026-09-20T11:11:05.262Z",
+        "contentHash": "f82257bef9f74e053fdcd6c9ae43e8bb5c28bdeb0c34696cf96122ba4b7722b4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/research/phds",
+        "type": "phd",
+        "label": "Índice oficial · Heriot-Watt University",
+        "observedAt": "2026-09-20T11:11:06.481Z",
+        "checkedAt": "2026-09-20T11:11:06.481Z",
+        "contentHash": "dcb1ce3d9ae151424415e12300a9b6b0d983dce075d4210aa6c685aec13e956c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate",
+        "type": "masters",
+        "label": "Índice oficial · Heriot-Watt University",
+        "observedAt": "2026-09-20T11:02:52.364Z",
+        "checkedAt": "2026-09-20T11:02:52.364Z",
+        "contentHash": "c48caf907c81d6f2959d40f7c7e7a350a442f3b73f389eb29aebf3e4fd21e75b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/sitemap.xml",
+        "type": "masters",
+        "label": "Índice oficial · Heriot-Watt University",
+        "observedAt": "2026-09-20T11:14:42.815Z",
+        "accessOutcome": "http_undefined"
+      },
+      {
+        "url": "https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/research/phds/phd-opportunities-in-computer-science",
+        "type": "phd",
+        "label": "PhD opportunities in Computer Science",
+        "observedAt": "2026-09-20T12:00:22.674Z",
+        "checkedAt": "2026-09-20T12:00:22.674Z",
+        "contentHash": "2afca8a78b5031bb4cddfad3220b4841af552aa9e8af4930add63ce55a6cc6e5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/applied-mathematical-sciences",
+        "type": "masters",
+        "label": "MSc Applied Mathematical Sciences",
+        "observedAt": "2026-09-20T12:00:23.289Z",
+        "checkedAt": "2026-09-20T12:00:23.289Z",
+        "contentHash": "79207b1259e10af69f2856c67ff5df88770723e94b8be2fbe21c692d53e6ea9b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/computational-mathematics",
+        "type": "masters",
+        "label": "MSc Computational Mathematics and Data Analysis",
+        "observedAt": "2026-09-20T12:00:24.057Z",
+        "checkedAt": "2026-09-20T12:00:24.057Z",
+        "contentHash": "a0c983f18f84d4e558f23408b1b849682363a4cdd914f7b7c2b24edc9c623734",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/mathematics",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T12:00:24.869Z",
+        "checkedAt": "2026-09-20T12:00:24.869Z",
+        "contentHash": "9fb8831141dafca2dafc45a76a69afaa147be3f84fad0b8387fa4c12696e9ff5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/actuarial-management",
+        "type": "masters",
+        "label": "MSc Actuarial Management",
+        "observedAt": "2026-09-20T12:00:25.652Z",
+        "checkedAt": "2026-09-20T12:00:25.652Z",
+        "contentHash": "a343f13f0b4493ada246233564fa12c1e082ba8da3847f0a6b8ee55e1c359b6b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/actuarial-science",
+        "type": "masters",
+        "label": "MSc Actuarial Science",
+        "observedAt": "2026-09-20T12:00:26.461Z",
+        "checkedAt": "2026-09-20T12:00:26.461Z",
+        "contentHash": "0aec2ec43c02ceef1a2d3da581a09665b61709b8e0e767f10ec288a9c59ca1c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/applied-cybersecurity",
+        "type": "masters",
+        "label": "MSc Applied Cyber Security",
+        "observedAt": "2026-09-20T12:00:27.261Z",
+        "checkedAt": "2026-09-20T12:00:27.261Z",
+        "contentHash": "3f65b4528751de48c4cf85ec283f8c515b6e46c09056d70c6e7fab8014c7dd2a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/applied-data-science-msc",
+        "type": "masters",
+        "label": "MSc Applied Data Science",
+        "observedAt": "2026-09-20T12:00:28.106Z",
+        "checkedAt": "2026-09-20T12:00:28.106Z",
+        "contentHash": "ccc8fef2f9bf43830f07c396bdeeda17d7b43978554d678b33e5a237229994f9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/artificial-intelligence",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence",
+        "observedAt": "2026-09-20T12:00:28.831Z",
+        "checkedAt": "2026-09-20T12:00:28.831Z",
+        "contentHash": "b30f13c2e35c99f60e6f00990e77015ef7bb72fccd488158949ad6610b40e913",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/business-analytics-and-consultancy",
+        "type": "masters",
+        "label": "MSc Business Analytics and Consultancy",
+        "observedAt": "2026-09-20T12:00:29.710Z",
+        "checkedAt": "2026-09-20T12:00:29.710Z",
+        "contentHash": "4c17a3bffa770f0701bda27ee134127d6135d8d5e6e27d67b0d4a17f470670e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/computer-science-for-cyber-security",
+        "type": "masters",
+        "label": "MSc Computer Science for Cyber Security",
+        "observedAt": "2026-09-20T12:00:30.469Z",
+        "checkedAt": "2026-09-20T12:00:30.469Z",
+        "contentHash": "19353fea5d509f619e93b31b20b1a5ede65f8a4c597778ba838c818c8c93cb15",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/data-science",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T12:00:31.306Z",
+        "checkedAt": "2026-09-20T12:00:31.306Z",
+        "contentHash": "cea95814a12409ae5a0dcc950a864fe46dc97971377487973004ac62c78eace1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/information-technology-software-systems",
+        "type": "masters",
+        "label": "MSc Information Technology (Software Systems)",
+        "observedAt": "2026-09-20T12:00:32.099Z",
+        "checkedAt": "2026-09-20T12:00:32.099Z",
+        "contentHash": "f21d9be801d0cdfce2c325c74fce121449040b85cc6bca6d88806012490ecdf1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/mathematical-biology-ecology-and-medicine",
+        "type": "masters",
+        "label": "MSc Mathematical Biology, Ecology and Medicine",
+        "observedAt": "2026-09-20T12:00:32.955Z",
+        "checkedAt": "2026-09-20T12:00:32.955Z",
+        "contentHash": "b303ec22550f822ae86d7730e2f3d3ff8825c84dcae40da9ad23aa217432cc56",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/robotics",
+        "type": "masters",
+        "label": "MSc Robotics",
+        "observedAt": "2026-09-20T12:00:33.658Z",
+        "checkedAt": "2026-09-20T12:00:33.658Z",
+        "contentHash": "abfe1d88763ab6aae6d5896a51d6611c365f5949aecae92e502a037f4df6ebc5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/postgraduate/software-engineering",
+        "type": "masters",
+        "label": "MSc Software Engineering",
+        "observedAt": "2026-09-20T12:00:34.506Z",
+        "checkedAt": "2026-09-20T12:00:34.506Z",
+        "contentHash": "e5f82092b8357263fdcb3ff3d1d8a216e2b2c89166fe04816132229917c359de",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hw.ac.uk/study/research/mathematics-phd",
+        "type": "phd",
+        "label": "PhD Mathematics",
+        "observedAt": "2026-09-20T12:00:35.260Z",
+        "checkedAt": "2026-09-20T12:00:35.260Z",
+        "contentHash": "2cfb7656e3c0dbb002eb6e93d6245cca7444a65f5ef62abbeeab20b9088021da",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T12:24:40.177Z"
   }
 ]
