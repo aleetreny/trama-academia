@@ -86,6 +86,12 @@ export function programmeText(html){
 }
 export function hasResearchComponent(text){
  text=String(text).normalize('NFC');
+ // Ioannina's regulation names a postgraduate dissertation in the genitive.
+ if(/(?<!\p{L})μεταπτυχιακής\s+διπλωματικής\s+εργασίας(?!\p{L})/iu.test(text))return true;
+ // The TUI course PDF splits a diacritic inside its dissertation title. Require
+ // its assigned Master level, programme, course label and code together.
+ const courseRecord=clean(text.replace(/[\u200B\uFEFF]/g,''));
+ if(/\b1\.5 Ciclul de studii (?:1 )?Master 1\.6 Programul de studii Securitatea spatiului cibernetic 2\.1 Denumirea disciplinei\/Cod Elaborare proiect de diserta [țţ] ie \/ SSC\.PA\.206\b/iu.test(courseRecord))return true;
  // Named master's dissertations in Finnish, Romanian and Greek curricula.
  // A seminar, an undergraduate thesis or an internship alone is insufficient.
  if(/\bpro\s+gradu\s*[-–—]?\s*tutkielma(?:n)?\b/i.test(text))return true;
@@ -111,5 +117,10 @@ export function hasResearchComponent(text){
  if(/\bdiplomov[ée]\s+pr[áa]ce\b/i.test(text))return true;
  // Silesia describes preparing and defending the master's thesis in accusative.
  if(/pracę\s+magisterską/i.test(text))return true;
+ // Stuttgart's curriculum wraps "Master-Arbeit" across two PDF lines.
+ if(/\bmaster\s*[-–]?\s*arbeit\b/i.test(text))return true;
+ // Lyon's curricula name research internships and a research-focused master's
+ // degree explicitly. Generic work placements or research career prospects do not suffice.
+ if(/\bresearch internships?\b|\bstages? de recherche\b|\bresearch[- ]focused master(?:s|[’']s)? degree\b/i.test(text))return true;
  return /\bthes(?:is|es)\b|dissertation|disserta[çc](?:[aã]o|[oõ]es)|tese de mestrado|tesi (?:di laurea|magistrale)|argomento di tesi|research project|research.oriented|independent research|master[’']?s?\s+(?:degree\s+)?(?:final\s+)?project|mémoire|stage de recherche|stage[^.!?;]{0,90}laboratoire de recherche|travail de fin d[’']études|master[ -]?arbeit|praca\s+(?:dyplomowa\s+)?magisterska|pracy\s+magisterskiej|\bdiplomamunka\b|\bkandidatspeciale\b|\bmikrotez[ëe](?![a-zë])|\bmasterverkætlan|\bmasterritgerð|trabajo\s+(?:de\s+)?fin(?:al)?\s+(?:de\s+)?m[aá]ster|treball final de m[aà]ster|projet\s+(?:de\s+)?recherche|diplomov[áa]\s*pr[áa]c[ae]|diplomovej\s+pr[áa]ce|metodol[óo]gia\s+v[ýy]skumu/i.test(text);
 }

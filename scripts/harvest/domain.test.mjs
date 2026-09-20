@@ -34,6 +34,12 @@ test('Hungarian applied mathematics is recognised without promoting generic math
  assert.deepEqual(fieldsFrom('Az alkalmazott matematika a műszaki- és természet-tudományokban alkalmazott matematikai módszerekre koncentrál'),['Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('Matematika, algebra és geometria'),[]);
 });
+test('German curriculum methods retain statistics and applied mathematics without generic maths',()=>{
+ assert.deepEqual(fieldsFrom('Numerik und Stochastik; Kernbereiche der reinen und angewandten Mathematik'),['Estadística','Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('statistische und ökonometrische Methoden für das Verarbeiten und die Analyse von Daten aus Beobachtungen und Experimenten'),['Estadística']);
+ assert.deepEqual(fieldsFrom('Pflichtmodule Informatik:Statistisches Lernen (1. FS)'),['Estadística','Informática']);
+ for(const text of ['Mathematik: Algebra und Geometrie','angewandte Forschung in Mathematik','numerierte Kapitel','Stochastikgeschichte'])assert.deepEqual(fieldsFrom(text),[]);
+});
 test('Finnish cybersecurity degree names retain their scope without policy compounds',()=>{
  for(const text of ['kyberturvallisuus','Kyberturvallisuuden maisteriohjelma'])assert.deepEqual(fieldsFrom(text),['Informática']);
  for(const text of ['turvallisuus','kyberturvallisuuspolitiikka','Matematiikan maisteriohjelma'])assert.deepEqual(fieldsFrom(text),[]);

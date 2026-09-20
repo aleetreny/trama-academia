@@ -5,6 +5,11 @@ export const hash = s => createHash('sha256').update(s).digest('hex');
 export const idFor = url => hash(canonicalUrl(url)).slice(0,20);
 export function canonicalUrl(raw) { const u=new URL(raw);u.hash='';for(const k of [...u.searchParams.keys()])if(k.startsWith('utm_')||['fbclid','gclid','ref'].includes(k))u.searchParams.delete(k);u.searchParams.sort();return u.toString().replace(/\/$/,''); }
 export function fieldsFrom(text){
+  // Romanian doctoral-field names and mathematical modelling in programme
+  // outcomes. Generic mathematics and IT administration do not qualify.
+  text=String(text).normalize('NFC')
+    .replace(/(?<![\p{L}\p{N}])calculatoare [șş]i tehnologia informa[țţ]iei(?![\p{L}\p{N}])/giu,'computer science')
+    .replace(/(?<![\p{L}\p{N}])(?:matematic[ăa] aplicată|matematici aplicate|modelarea matematică|modele(?:lor)? matematice)(?![\p{L}\p{N}])/giu,'applied mathematics');
   // Normalise the languages observed in programme catalogues before applying the
   // shared discipline rules. This prevents an English-only admission bias.
   text=String(text).replace(/mathematics applied to/gi,'applied mathematics');
@@ -15,6 +20,8 @@ export function fieldsFrom(text){
   // Named subjects in the Czech VSB, UWB and CTU programme catalogues.
   text=text.replace(/výpočetní a aplikovaná matematika|numerická matematika|aplikované matematiky|aplikovanou matematiku/gi,'applied mathematics').replace(/strojové učení|umělou inteligenci|umělé inteligence/gi,'machine learning');
   text=text.replace(/alkalmazott matematika/gi,'applied mathematics');
+  // Leipzig describes its methods in German, including inflected subject names.
+  text=text.replace(/\b(?:Stochastik|statistisch(?:e|en|er|es|em)?)\b/gi,'statistics').replace(/\bNumerik\b|\bangewandte[nmrs]?\s+Mathematik\b/gi,'applied mathematics');
   // BayNAT's named computational-mathematics programme is an applied route.
   text=text.replace(/computational mathematics in science and engineering/gi,'computational applied mathematics');
   // Fribourg describes applied-probability supervision in French. Preserve the
