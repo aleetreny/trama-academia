@@ -4,7 +4,7 @@ import {load} from 'cheerio';
 import {getPage,observations,persistObservations} from './http.mjs';
 import {programmeText} from './programme-evidence.mjs';
 import {fieldsFrom,idFor} from './domain.mjs';
-import {addDiscoveryJob,selectDiscoveryJobs,discoverLinks,publicUrl} from './institution-discovery.mjs';
+import {addDiscoveryJob,selectDiscoveryJobs,discoverLinks,publicUrl,isExplicitlyEmptyJobsIndex} from './institution-discovery.mjs';
 import {readCrawlState,writeCrawlState} from './crawl-state.mjs';
 
 const registryFile='data/institutions.json';
@@ -36,7 +36,7 @@ async function worker(){while(next<selected.length&&Date.now()<deadline){
  try{
   if(/\.pdf$/i.test(new URL(job.url).pathname)){job.status='document';job.lastError=null;continue;}
   const page=await getPage(job.url),text=programmeText(page.body),heading=load(page.body)('h1').text();
-  if(text.length<200||/page not found|404 not found|page introuvable/i.test(heading)||/enable javascript and then reload|verify that you.re not a robot/i.test(text.slice(0,500)))throw new Error('content_missing');
+  if(text.length<200&&!isExplicitlyEmptyJobsIndex(text,heading,job.type)||/page not found|404 not found|page introuvable/i.test(heading)||/enable javascript and then reload|verify that you.re not a robot/i.test(text.slice(0,500)))throw new Error('content_missing');
   const links=discoverLinks(page.body,page.finalUrl,institution);
   job.status='read';job.checkedAt=page.checkedAt;job.contentHash=page.hash;job.finalUrl=page.finalUrl;job.lastError=null;job.subjects=fieldsFrom(text.slice(0,50000));job.observedLinks=links.observed;job.truncated=links.truncated;
   job.nextCheckAt=new Date(Date.parse(page.checkedAt)+(job.type==='home'?30:7)*86400000).toISOString();run.read++;if(links.truncated)run.truncatedPages++;

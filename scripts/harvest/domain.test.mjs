@@ -7,6 +7,19 @@ test('unknown deadlines are not open and stale checks cannot imply open',()=>{as
 test('programme existence does not imply a currently open application round',()=>assert.equal(effectiveStatus({kind:'programme',verifiedAt:'2026-09-19'},now),'programme'));
 test('preserve vacancy identity in query params while removing tracking',()=>assert.equal(canonicalUrl('https://example.org/apply?rmjob=42&utm_source=test&site=7'),'https://example.org/apply?rmjob=42&site=7'));
 test('stage selection distinguishes postdoc from doctorate',()=>{assert.equal(stageFrom('Post-Doctoral Research Visit'),'postdoc');assert.equal(stageFrom('PhD in optimization'),'doctorado');assert.equal(stageFrom('HR coordinator'),null);assert.deepEqual(fieldsFrom('Professor of medieval history'),[]);});
+test('French doctoral modelling evidence retains its applied and stochastic scope',()=>{
+ assert.deepEqual(fieldsFrom('Probabilités appliquées; modèles stochastiques et applications en écologie et en biologie des systèmes; modèles mathématiques de la croissance des plantes'),['Estadística','Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Doctorat en mathématiques: topologie et géométrie différentielle'),[]);
+});
+test('Russian postgraduate speciality names are recognised without generic engineering',()=>{
+ assert.deepEqual(fieldsFrom('7-06-0611-03 Искусственный интеллект'),['Machine learning']);
+ assert.deepEqual(fieldsFrom('05.13.15 – Вычислительные машины, комплексы и компьютерные сети'),['Informática']);
+ assert.deepEqual(fieldsFrom('Машиноведение, системы приводов и детали машин'),[]);
+});
+test('BayNAT computational mathematics is applied while pure branches remain unclassified',()=>{
+ assert.deepEqual(fieldsFrom('Computational Mathematics in Science and Engineering (BayCompMath)'),['Informática','Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Analysis, Algebra and Geometry'),[]);
+});
 test('hidden expiry templates do not close a future EURAXESS offer',()=>{const html='<h1>Job offerPhD in machine learning</h1><dl><dt>Organisation/Company</dt><dd>Test University</dd><dt>Country</dt><dd>Sweden</dd><dt>Research Field</dt><dd>Computer science</dd><dt>Application Deadline</dt><dd><time datetime="2099-10-05T12:00:00Z">date</time></dd></dl><main><div style="display:none">STATUS: EXPIRED</div></main>';const r=parseEuraxess(html,'https://example.org/1',{id:'test',name:'test'},{checkedAt:new Date().toISOString(),hash:'test',finalUrl:'https://example.org/1'});assert.equal(r.status,'open');const closed=parseEuraxess(html.replace('style="display:none"',''),'https://example.org/1',{id:'test',name:'test'},{checkedAt:new Date().toISOString(),hash:'test',finalUrl:'https://example.org/1'});assert.equal(closed.status,'closed');});
 test('offers whose destination is outside Europe are excluded',()=>{const r=parseEuraxess('<h1>PhD in machine learning</h1><dl><dt>Country</dt><dd>United States</dd></dl>','https://example.org/1',{id:'test'},{});assert.equal(r,null);});
 

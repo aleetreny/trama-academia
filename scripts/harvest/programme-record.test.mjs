@@ -104,6 +104,10 @@ test('Fribourg travail de master identifies the final dissertation',()=>{
  assert.equal(hasResearchComponent('La seconde partie du programme est le travail de master, permettant de contribuer activement à des activités de recherche concrètes.'),true);
  assert.equal(hasResearchComponent('Préparer un travail de masterclass pour le cours.'),false);
 });
+test('Brest explicitly requires preparation and defence of a master dissertation',()=>{
+ assert.equal(hasResearchComponent('выполнение научных исследований по избранной теме, подготовку к защите и защиту магистерской диссертации'),true);
+ assert.equal(hasResearchComponent('Магистратура дает глубокие теоретические и практические навыки'),false);
+});
 test('a labelled admission score keeps its DOM boundary instead of absorbing the following heading number',async()=>{
  const candidate={...seed,evidencePages:[],evidenceChecks:[{field:'entry',labelledValues:[{container:'.basvuru-card',labelSelector:'.basvuru-card-title',valueSelector:'.basvuru-card-content',label:'Minimum Yabancı Dil Puanı',value:'50'}]}]};
  const page=(score='50')=>async url=>({...await fetcher()(url),body:'<main>'+('Computer science research. '.repeat(10))+`<div class="basvuru-card"><div class="basvuru-card-title">Minimum Yabancı Dil Puanı</div><div class="basvuru-card-content">${score}</div></div><h2>2. Curriculum</h2></main>`});

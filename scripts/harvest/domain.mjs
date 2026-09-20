@@ -8,6 +8,13 @@ export function fieldsFrom(text){
   // Normalise the languages observed in programme catalogues before applying the
   // shared discipline rules. This prevents an English-only admission bias.
   text=String(text).replace(/mathematics applied to/gi,'applied mathematics');
+  // BayNAT's named computational-mathematics programme is an applied route.
+  text=text.replace(/computational mathematics in science and engineering/gi,'computational applied mathematics');
+  // Fribourg describes applied-probability supervision in French. Preserve the
+  // specific stochastic/mathematical model evidence, not generic mathematics.
+  text=text.replace(/mod[eè]les? stochastiques?/gi,'stochastic models').replace(/mod[eè]les? math[eé]matiques?/gi,'mathematical models');
+  // Names in Brest's current Russian-language postgraduate catalogue.
+  text=text.replace(/искусственн(?:ый|ого) интеллект(?:а)?/gi,'artificial intelligence').replace(/вычислительные машины, комплексы и компьютерные сети/gi,'computer science');
   // Course names observed in the Yildiz graduate curricula, including Turkish
   // dotted I. The teaching language is a separate fact and is never inferred.
   text=String(text).replace(/veri bilimi|veri madenciliği|büyük veri/gi,'data science').replace(/makine öğrenme(?:si|sine)|yapay zeka|derin öğrenme/gi,'machine learning').replace(/[İIıi]statistik/gi,'statistics').replace(/yazılım|hesaplamalı/gi,'computational').replace(/optimizasyon/gi,'optimization');
