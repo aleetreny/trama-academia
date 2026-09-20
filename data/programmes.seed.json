@@ -155591,5 +155591,1241 @@
         ]
       }
     ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/physics-data",
+    "title": "Laurea magistrale Physics of Data",
+    "fields": [
+      "Ciencia de datos",
+      "Informática",
+      "Machine learning"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años; último semestre con prácticas de 8 ECTS y tesis de 22 ECTS.",
+    "entry": "Grado universitario de al menos tres años o equivalente, con conocimientos acreditados de física y matemáticas. Inglés B2 o equivalente. Los requisitos mínimos de titulación y expediente dependen del país de origen y deben comprobarse en las condiciones de admisión enlazadas.",
+    "researchNote": "Combina física avanzada y métodos para analizar grandes conjuntos de datos. El último semestre dedica 550 horas a la tesis y 200 a las prácticas. Se redacta y defiende la tesis en inglés; puede vincularse a las prácticas o a una investigación académica independiente.",
+    "eligibilityNote": "Programa de Padua impartido en inglés. La vía de solicitud depende de si el título previo se obtuvo en Italia o en el extranjero. Las opciones de prácticas y tesis fuera de Padua solo se incluyen en TRAMA cuando su destino está en Europa.",
+    "researchEvidenceUrl": "https://pod.dfa.unipd.it/internship-and-final-thesis/",
+    "evidencePages": [
+      {
+        "url": "https://pod.dfa.unipd.it/internship-and-final-thesis/",
+        "label": "Prácticas, investigación y tesis final"
+      },
+      {
+        "url": "https://pod.dfa.unipd.it/requirement/",
+        "label": "Requisitos oficiales de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y duración",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/physics-data",
+        "phrases": [
+          "PHYSICS OF DATA",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "sviluppare metodi e tecniche"
+        ]
+      },
+      {
+        "field": "Investigación y créditos",
+        "url": "https://pod.dfa.unipd.it/internship-and-final-thesis/",
+        "phrases": [
+          "internship (8 credits) and the final thesis (22 credits)",
+          "The thesis activity requires 550 hours",
+          "The internship activity requires 200 hours",
+          "thesis must be written and discussed in English",
+          "results of this research activity",
+          "Machine Learning"
+        ]
+      },
+      {
+        "field": "Admisión",
+        "url": "https://pod.dfa.unipd.it/requirement/",
+        "phrases": [
+          "minimum three-year undergraduate degree",
+          "proved skills in Physics and Mathematics",
+          "B2 level (CEFR) or equivalent",
+          "country-based specific entry title and GPA requirements"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/scienze-statistiche",
+    "title": "Laurea magistrale Scienze Statistiche",
+    "fields": [
+      "Estadística",
+      "Ciencia de datos"
+    ],
+    "languages": [
+      "Italiano"
+    ],
+    "duration": "Dos años, 120 CFU; 21 CFU conjuntos para tesis y prácticas formativas.",
+    "entry": "Grado previo con nota de al menos 85/110 y 35 CFU en los sectores matemáticos/estadísticos y afines enumerados por el departamento, incluidos al menos 15 de MAT/05. Inglés B2 o superior en lectura y comprensión oral. La comisión comprueba el expediente y los contenidos de los estudios; los criterios de admisión se han modificado para 2026/27.",
+    "researchNote": "Formación avanzada en probabilidad, modelización estocástica y métodos de análisis de datos, con tesis de máster y prácticas formativas. Los itinerarios de Data Science, bioestadística, finanzas, empresa y población/sociedad pertenecen al mismo título de Scienze Statistiche.",
+    "eligibilityNote": "Acceso sujeto a requisitos y evaluación previa; no equivale a admisión automática. La enseñanza se publica en italiano. Los 21 CFU corresponden al conjunto de tesis y prácticas: la fuente consultada no atribuye todos esos créditos exclusivamente a la tesis. Es un título distinto del MSc Data Science ya catalogado.",
+    "researchEvidenceUrl": "https://www.stat.unipd.it/corsi/laurea-magistrale-scienze-statistiche",
+    "evidencePages": [
+      {
+        "url": "https://www.stat.unipd.it/corsi/laurea-magistrale-scienze-statistiche",
+        "label": "Estructura, itinerarios, tesis y prácticas"
+      },
+      {
+        "url": "https://www.stat.unipd.it/futuri-studenti/requisiti-di-ammissione",
+        "label": "Requisitos de acceso"
+      },
+      {
+        "url": "https://www.stat.unipd.it/futuri-studenti/ammissione-laurea-magistrale",
+        "label": "Admisión 2026/27 y aviso de cambio de criterios"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y disciplina",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/scienze-statistiche",
+        "phrases": [
+          "LM-82 R - Scienze statistiche",
+          "LinguaItaliano",
+          "teoria della probabilita",
+          "modellazione stocastica"
+        ]
+      },
+      {
+        "field": "Estructura e investigación",
+        "url": "https://www.stat.unipd.it/corsi/laurea-magistrale-scienze-statistiche",
+        "phrases": [
+          "dura 2 anni",
+          "120 CFU",
+          "21 CFU di altre attività formative (tesi di laurea magistrale e tirocinio formativo)",
+          "Data Science, Biostatistica, Finanza, Azienda e Popolazione e Società"
+        ]
+      },
+      {
+        "field": "Admisión",
+        "url": "https://www.stat.unipd.it/futuri-studenti/requisiti-di-ammissione",
+        "phrases": [
+          "non inferiore a 85/110",
+          "almeno 35 CFU",
+          "almeno 15 nei settori MAT/05",
+          "certificazione di inglese B2 o superiore"
+        ]
+      },
+      {
+        "field": "Actualización de requisitos",
+        "url": "https://www.stat.unipd.it/futuri-studenti/ammissione-laurea-magistrale",
+        "phrases": [
+          "Avviso di ammissione A.A. 2026/2027",
+          "i criteri di ammissione sono stati modificati rispetto all'anno scorso"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/cybersecurity",
+    "title": "Laurea magistrale Cybersecurity",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Estadística"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años; 30 créditos de examen final, divididos en 24 de proyecto de tesis y 6 de redacción.",
+    "entry": "Grado previo o equivalente extranjero y evaluación de la preparación. Para los títulos italianos, al menos 42 ECTS en los sectores indicados: 24 de informática/ingeniería informática y 18 de matemáticas. Nota de al menos 84/110 o equivalente e inglés B2 en lectura y comprensión oral. La comisión evalúa los títulos extranjeros y los planes de estudio anteriores.",
+    "researchNote": "Combina seguridad informática con estadística, aprendizaje automático y modelización de procesos. La tesis se realiza bajo la supervisión de un profesor o investigador de Padua, con proyecto de 24 créditos y redacción de 6 créditos. El proyecto puede desarrollarse en la universidad o en una entidad pública o privada y se presenta ante una comisión.",
+    "eligibilityNote": "Máster de Padua distinto del programa internacional conjunto de Cybersecurity and Cyberintelligence. El acceso para candidatos europeos o no europeos residentes en Italia está sujeto a requisitos. Se publican 50 plazas para candidatos no europeos residentes fuera de Italia, incluidas 10 de Marco Polo. El calendario depende de la vía de admisión; la ficha no confirma que todas ellas sigan abiertas. Las estancias externas solo se incluyen cuando su destino está en Europa.",
+    "researchEvidenceUrl": "https://cybersecurity.math.unipd.it/files/Rules-for-the-thesis-and-the-final-exam_Cybersecurity.pdf",
+    "evidencePages": [
+      {
+        "url": "https://cybersecurity.math.unipd.it/study-plan/",
+        "label": "Estructura y requisitos de admisión"
+      },
+      {
+        "url": "https://cybersecurity.math.unipd.it/files/Rules-for-the-thesis-and-the-final-exam_Cybersecurity.pdf",
+        "label": "Normativa de tesis y examen final",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y sede",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/cybersecurity",
+        "phrases": [
+          "CYBERSECURITY",
+          "LM-66 R",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "statistica"
+        ]
+      },
+      {
+        "field": "Admisión",
+        "url": "https://cybersecurity.math.unipd.it/study-plan/",
+        "phrases": [
+          "Bachelor’s degree or equivalent foreign qualification",
+          "at least 42 ECTS",
+          "24 ECTS credits",
+          "18 ECTS credits",
+          "84/110 or equivalent",
+          "at least level B2 (reading and listening)",
+          "Number of non-EU students resident abroad: 50",
+          "10 of which Chinese",
+          "Machine learning tools and process modeling"
+        ]
+      },
+      {
+        "field": "Tesis supervisada y créditos",
+        "url": "https://cybersecurity.math.unipd.it/files/Rules-for-the-thesis-and-the-final-exam_Cybersecurity.pdf",
+        "phrases": [
+          "Master Degree in Cybersecurity",
+          "24creditsforthethesisprojectand6credits",
+          "Professor or Researcher of theUniversity of Padova (supervisor)",
+          "including the University of Padova",
+          "presentation of the Master Thesis"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "stage": "master",
+    "kind": "programme",
+    "languages": [
+      "Inglés"
+    ],
+    "url": "https://www.unipd.it/it/corsi-di-laurea/mathematics",
+    "title": "Laurea magistrale Mathematics",
+    "fields": [
+      "Matemáticas aplicadas"
+    ],
+    "duration": "Dos años; tesis supervisada de 36 CFU/ECTS, aproximadamente el 30 % del trabajo total.",
+    "entry": "Grado de primer ciclo en Ciencias Matemáticas con nota mínima de 85/110 o título equivalente evaluado por una comisión. Al menos 50 ECTS en los sectores de álgebra, geometría, análisis, probabilidad/estadística, física matemática y análisis numérico especificados por el departamento. Inglés B2 o equivalente.",
+    "researchNote": "El itinerario general de Padua permite especializarse en áreas aplicadas y modelización de sistemas complejos. La tesis escrita de 36 créditos, dirigida por un profesor y defendida ante una comisión especializada, exige autonomía de estudio. El programa también contiene rutas teóricas; el interés para TRAMA se centra en los planes de matemáticas aplicadas.",
+    "eligibilityNote": "Se cataloga un solo título con varios itinerarios. Esta ficha se refiere al currículo general impartido en Padua y a las opciones europeas pertinentes. ALGANT, que puede incluir Montreal y se centra en álgebra, geometría y teoría de números, no se considera aquí una ruta elegible; no se cuenta como un máster adicional. Los plazos dependen de la vía de admisión.",
+    "researchEvidenceUrl": "https://matematica.math.unipd.it/en/master/graduation/",
+    "evidencePages": [
+      {
+        "url": "https://matematica.math.unipd.it/en/master/",
+        "label": "Estructura y requisitos de acceso"
+      },
+      {
+        "url": "https://matematica.math.unipd.it/en/master/graduation/",
+        "label": "Tesis supervisada y créditos"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y orientación aplicada",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/mathematics",
+        "phrases": [
+          "MATHEMATICS",
+          "LM-40 R",
+          "PADOVA",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "curriculum generale, erogato a Padova",
+          "modellizzazione e l'analisi di sistemi complessi",
+          "Concordia-Montreal"
+        ]
+      },
+      {
+        "field": "Acceso",
+        "url": "https://matematica.math.unipd.it/en/master/",
+        "phrases": [
+          "85/110",
+          "50 ECTS",
+          "Numerical Analysis",
+          "B2 Level"
+        ]
+      },
+      {
+        "field": "Tesis e investigación",
+        "url": "https://matematica.math.unipd.it/en/master/graduation/",
+        "phrases": [
+          "written thesis worth 36 CFU/ECTS",
+          "supervised by a professor (advisor)",
+          "in front of a committee of professors"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "stage": "master",
+    "kind": "programme",
+    "languages": [
+      "Inglés"
+    ],
+    "url": "https://www.unipd.it/it/corsi-di-laurea/computational-finance",
+    "title": "Laurea magistrale Computational Finance",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "duration": "Dos años, con tesis final de investigación académica o proyecto vinculado a prácticas.",
+    "entry": "Grado previo y base sólida en matemáticas, probabilidad y estadística. Para títulos italianos, al menos 10 CFU en el primer grupo de sectores publicado y 6 CFU en el segundo, además de nota mínima de 85/110. Inglés B2. Los títulos extranjeros siguen la vía de evaluación internacional indicada en el portal.",
+    "researchNote": "Combina matemática computacional, estadística, informática y finanzas. Incluye modelos estocásticos, aprendizaje automático para finanzas y laboratorios en Python. La tesis permite desarrollar investigación académica o un proyecto con una institución o empresa; las asignaturas iniciales compensan las diferencias entre los grados de procedencia.",
+    "eligibilityNote": "Los umbrales de créditos y 85/110 publicados por el departamento se refieren expresamente a títulos italianos: no se trasladan automáticamente a expedientes extranjeros. El departamento anuncia algunas becas pendientes de detalles; la admisión no garantiza financiación. Las prácticas y colaboraciones incluidas se limitan a Europa.",
+    "researchEvidenceUrl": "https://computationalfinance.math.unipd.it/study-plan/",
+    "evidencePages": [
+      {
+        "url": "https://computationalfinance.math.unipd.it/study-plan/",
+        "label": "Plan de estudios y tesis de investigación"
+      },
+      {
+        "url": "https://computationalfinance.math.unipd.it/admission/",
+        "label": "Requisitos y vías de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y duración",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/computational-finance",
+        "phrases": [
+          "COMPUTATIONAL FINANCE",
+          "LM-16 R",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni"
+        ]
+      },
+      {
+        "field": "Métodos e investigación",
+        "url": "https://computationalfinance.math.unipd.it/study-plan/",
+        "phrases": [
+          "academic research work or an internship project",
+          "Machine Learning for Finance",
+          "Fundamentals of Computational Mathematics",
+          "Regression and Time Series Models",
+          "Python is the main programming language",
+          "High-dimensional probability for data science"
+        ]
+      },
+      {
+        "field": "Admisión y financiación no garantizada",
+        "url": "https://computationalfinance.math.unipd.it/admission/",
+        "phrases": [
+          "Bachelor degree",
+          "at least 10 CFU",
+          "at least 6 CFU",
+          "Italian Bachelor degree, a minimum mark of 85/110",
+          "at least level B2",
+          "funding some scholarships (details will be given in due time)"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/quantitative-and-computational-biosciences",
+    "title": "Laurea magistrale Quantitative and Computational Biosciences",
+    "fields": [
+      "Ciencia de datos",
+      "Estadística",
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años, en modalidad semipresencial. Prácticas y tesis: 29 CFU en conjunto y al menos seis meses de actividad.",
+    "entry": "Grado de al menos tres años o equivalente en biología, biotecnología, química, física, matemáticas, informática, estadística o ingeniería. Nota mínima publicada de 95/110 o equivalente, con requisitos específicos de título y expediente según el país. Inglés B2 o equivalente.",
+    "researchNote": "Formación en métodos computacionales, estadística y análisis de grandes datos para ciencias biológicas. Las prácticas pueden desarrollarse en un laboratorio de Padua o en un centro colaborador con un proyecto de investigación supervisado. La normativa desglosa 14 CFU y 350 horas de prácticas más 15 CFU de trabajo final: unas 725 horas en conjunto. La tesis original se redacta y defiende en inglés.",
+    "eligibilityNote": "Los 29 CFU se cuentan una sola vez como bloque de prácticas y tesis: la misma normativa emplea también 29 CFU al describir el examen final. El acceso está sujeto a requisitos y evaluación, con una vía específica para títulos extranjeros. Solo se incluyen las estancias y colaboraciones cuyo destino esté en Europa.",
+    "researchEvidenceUrl": "https://quacbio.biologia.unipd.it/current-students/more-details-on-how-to-graduate/",
+    "evidencePages": [
+      {
+        "url": "https://quacbio.biologia.unipd.it/current-students/more-details-on-how-to-graduate/",
+        "label": "Prácticas de investigación, supervisión y tesis original"
+      },
+      {
+        "url": "https://quacbio.biologia.unipd.it/how-to-enrol/",
+        "label": "Titulaciones, expediente e inglés para la admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y orientación computacional",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/quantitative-and-computational-biosciences",
+        "phrases": [
+          "QUANTITATIVE AND COMPUTATIONAL BIOSCIENCES",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "modalità blended",
+          "Big Data",
+          "bioinformatica"
+        ]
+      },
+      {
+        "field": "Requisitos de admisión",
+        "url": "https://quacbio.biologia.unipd.it/how-to-enrol/",
+        "phrases": [
+          "A minimum three-year undergraduate degree",
+          "Biology, Biotechnology, Chemistry, Physics, Mathematics, Informatics, Statistics or Engineering",
+          "at least 95/110",
+          "country-based specific entry title and GPA requirements",
+          "B2 level"
+        ]
+      },
+      {
+        "field": "Investigación y tesis",
+        "url": "https://quacbio.biologia.unipd.it/current-students/more-details-on-how-to-graduate/",
+        "phrases": [
+          "original thesis",
+          "research laboratory of the University of Padua",
+          "350 hours -14 ECTS",
+          "15 CFUs",
+          "725 hours",
+          "at least 6 months",
+          "29 ECTS",
+          "written and defended exclusively in English"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/control-systems-engineering",
+    "title": "Laurea magistrale Control Systems Engineering",
+    "fields": [
+      "Machine learning",
+      "Informática",
+      "Matemáticas aplicadas",
+      "Ciencia de datos"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años. La presentación académica de 2026 desglosa 21 CFU de tesis y 9 de prácticas o formación investigadora.",
+    "entry": "Grado de al menos tres años o equivalente en ingeniería o campos relacionados, como matemáticas o física. Preparación adecuada en sistemas y control, ingeniería de la información, física y matemáticas; nota equivalente a al menos 84/110 e inglés B2 o equivalente.",
+    "researchNote": "Formación científica en modelización e identificación de sistemas, aprendizaje automático, estimación, optimización y control. El plan incorpora laboratorio de control, tesis y prácticas o formación investigadora; permite profundizar en inteligencia artificial, robótica, automatización industrial, sistemas y control o sistemas complejos. Los cursos incluyen aprendizaje profundo, refuerzo y cómputo de grandes datos.",
+    "eligibilityNote": "Las vías se agrupan en una sola titulación. La introducción del portal central aún menciona cuatro itinerarios; la página departamental y la presentación de 2026 describen cinco. El PDF presenta el bloque final como hasta 30 CFU y su tabla común lo desglosa en 21 de tesis y 9 de prácticas; comprobar el plan individual vigente. Los dobles títulos y las estancias solo se incluyen cuando se desarrollan en Europa.",
+    "researchEvidenceUrl": "https://www.dei.unipd.it/system/files/LM-CSE%40ScegliConNoi_2026_20260301.pdf",
+    "evidencePages": [
+      {
+        "url": "https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/",
+        "label": "Requisitos y vías temáticas del departamento"
+      },
+      {
+        "url": "https://www.dei.unipd.it/system/files/LM-CSE%40ScegliConNoi_2026_20260301.pdf",
+        "label": "Plan de 2026: tesis y formación investigadora",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad, sede y duración",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/control-systems-engineering",
+        "phrases": [
+          "CONTROL SYSTEMS ENGINEERING",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "quattro percorsi",
+          "modellazione"
+        ]
+      },
+      {
+        "field": "Admisión y currículos",
+        "url": "https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/",
+        "phrases": [
+          "minimum three-year undergraduate degree",
+          "Mathematics, Physics",
+          "Minimum GPA equivalent to Italian 84/110",
+          "B2 level",
+          "five curricula",
+          "Artificial Intelligence",
+          "Systems & Control",
+          "Complex Systems"
+        ]
+      },
+      {
+        "field": "Tesis y métodos de investigación",
+        "url": "https://www.dei.unipd.it/system/files/LM-CSE%40ScegliConNoi_2026_20260301.pdf",
+        "phrases": [
+          "Control Systems Engineering",
+          "final project (internship+thesis) of up to 30 cfu",
+          "Final Thesis 21 cfu",
+          "Internship / Research Training 9 cfu",
+          "Estimation and Filtering",
+          "Deep Learning",
+          "Reinforcement Learning",
+          "Big Data Computing",
+          "Convex Optimization"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/ict-internet-and-multimedia",
+    "title": "Laurea magistrale ICT for Internet and Multimedia",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Ciencia de datos",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años, 120 ECTS en el plan enlazado de 2025; 21 ECTS de tesis y 9 de prácticas o formación investigadora.",
+    "entry": "Grado previo con al menos 50 ECTS en las disciplinas científicas indicadas, que incluyen matemáticas, probabilidad y estadística, física, informática y telecomunicaciones. Para títulos italianos, nota mínima de 84/110; una comisión verifica la equivalencia de títulos y expedientes extranjeros según el país. Inglés B2 en comprensión, acreditable por asignatura, certificado o grado impartido en inglés.",
+    "researchNote": "Combina fundamentos matemáticos y computacionales con redes, análisis multimedia, visión artificial, aprendizaje profundo, optimización y procesamiento de grandes datos. Incluye tesis y formación investigadora o prácticas. La vía Research and Innovation añade cursos basados en proyectos y formación orientada a laboratorios; se conserva como itinerario de este máster, no como un título adicional.",
+    "eligibilityNote": "Los créditos del trabajo final proceden de la presentación de 2025 que sigue enlazada desde el departamento; no se atribuyen a una normativa nueva de 2026. Las listas de itinerarios varían entre las páginas y no se cuentan como másteres separados. La admisión de títulos extranjeros requiere evaluación individual. Se incluyen únicamente las movilidades o dobles títulos con destino europeo, como la Universidad Politécnica de Madrid.",
+    "researchEvidenceUrl": "https://www.dei.unipd.it/system/files/LM_MIME_2025_final.pdf",
+    "evidencePages": [
+      {
+        "url": "https://degrees.dei.unipd.it/master-degrees/ict-for-internet-multimedia-mime/",
+        "label": "Requisitos, inglés y orientación investigadora"
+      },
+      {
+        "url": "https://www.dei.unipd.it/system/files/LM_MIME_2025_final.pdf",
+        "label": "Presentación de 2025 enlazada por el departamento: investigación y tesis",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad, campus y orientación",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/ict-internet-and-multimedia",
+        "phrases": [
+          "ICT FOR INTERNET AND MULTIMEDIA",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "attività laboratoriali orientate alla ricerca",
+          "Big Data",
+          "Universidad Politécnica de Madrid"
+        ]
+      },
+      {
+        "field": "Admisión y requisitos lingüísticos",
+        "url": "https://degrees.dei.unipd.it/master-degrees/ict-for-internet-multimedia-mime/",
+        "phrases": [
+          "English receptive skills at the CEFR B2 level",
+          "have passed an English exam in their bachelor",
+          "have attended a bachelor taught in English",
+          "degree classification of 84/110",
+          "International students are evaluated by an Admission Committee",
+          "at least 50 ECTS credits",
+          "mathematical analysis",
+          "Artificial Intelligence",
+          "Research and Innovation"
+        ]
+      },
+      {
+        "field": "Componente investigador y métodos",
+        "url": "https://www.dei.unipd.it/system/files/LM_MIME_2025_final.pdf",
+        "phrases": [
+          "Research Training or Internship (9 ECTS)",
+          "Final Thesis (21 ECTS)",
+          "Total: 120 credits",
+          "Project-based courses",
+          "Computer Vision",
+          "Neural Nets & Deep Learning",
+          "Big Data Computing",
+          "Convex Optimization"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/bioingegneria",
+    "title": "Laurea magistrale Bioingegneria",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [
+      "Italiano",
+      "Inglés"
+    ],
+    "duration": "Dos años; tesis de 24 CFU en la presentación de la cohorte 2025/26.",
+    "entry": "Grado previo, nota mínima publicada de 84/110 y conocimientos de inglés B2 en comprensión. Se exigen créditos en sectores disciplinares específicos, que deben comprobarse con el plan de acceso correspondiente. La documentación de 2025/26 utiliza titulaciones y sectores italianos; la equivalencia de títulos extranjeros necesita evaluación específica.",
+    "researchNote": "La vía de Modelos y Análisis de Datos Biomédicos incorpora métodos estadísticos, aprendizaje automático, ciencia de datos, modelos de sistemas biológicos y análisis de señales e imágenes. Otras vías incluyen neurociencia computacional y aprendizaje profundo para neurociencia y rehabilitación. La tesis de 24 CFU puede realizarse en la universidad o en un entorno de investigación y desarrollo.",
+    "eligibilityNote": "Las condiciones y los créditos detallados proceden de la presentación de junio de 2025, aún enlazada por el departamento, para la cohorte 2025/26. El programa continúa en el catálogo central, pero no se atribuye ese PDF a la cohorte 2026/27. Los cinco itinerarios se cuentan como un único máster; TRAMA destaca los que desarrollan métodos computacionales y cuantitativos. Las estancias y dobles títulos se limitan a destinos europeos.",
+    "researchEvidenceUrl": "https://www.dei.unipd.it/system/files/Presentazione_%20giugno2025.pdf",
+    "evidencePages": [
+      {
+        "url": "https://lauree.dei.unipd.it/lauree-magistrali/bioingegneria/",
+        "label": "Página departamental y documento académico enlazado"
+      },
+      {
+        "url": "https://www.dei.unipd.it/system/files/Presentazione_%20giugno2025.pdf",
+        "label": "Presentación de junio de 2025: admisión, planes y tesis",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y sede",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/bioingegneria",
+        "phrases": [
+          "BIOINGEGNERIA",
+          "LuogoPadova",
+          "LinguaItaliano e Inglese",
+          "Durata Corso2 anni"
+        ]
+      },
+      {
+        "field": "Documento oficial enlazado",
+        "url": "https://lauree.dei.unipd.it/lauree-magistrali/bioingegneria/",
+        "phrases": [],
+        "links": [
+          "https://www.dei.unipd.it/system/files/Presentazione_%20giugno2025.pdf"
+        ]
+      },
+      {
+        "field": "Admisión, investigación y edición del plan",
+        "url": "https://www.dei.unipd.it/system/files/Presentazione_%20giugno2025.pdf",
+        "phrases": [
+          "26 giugno 2025",
+          "COORTE 2025-2026",
+          "MODELLI E ANALISI DI DATI BIOMEDICALI",
+          "Machine Learning and Data Science for Bioengineering",
+          "Metodi Statistici per la Bioingegneria",
+          "Mathematical Cell Biology",
+          "Deep learning applied to neuroscience and rehabilitation",
+          "TESI MAGISTRALE (24 CFU)",
+          "voto minimo della laurea utilizzata per l'accesso pari a 84/110",
+          "numero prefissato di CFU",
+          "lingua inglese di livello B2 recettivo"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/mathematical-engineering",
+    "title": "Laurea magistrale Mathematical Engineering",
+    "fields": [
+      "Matemáticas aplicadas",
+      "Estadística"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años y al menos 120 CFU, con tesis original.",
+    "entry": "Grado de tres años o título reconocido como equivalente. El reglamento de 2026/27 admite las clases italianas L-7, L-8, L-9, L-30, L-31 y L-35, o al menos 25 CFU en los sectores de matemáticas, física y estadística indicados. Nota mínima de 84/110 o equivalente e inglés B2 en comprensión. Los títulos extranjeros se evalúan según los criterios de la comisión.",
+    "researchNote": "Formación en modelización matemática, cálculo científico, estadística y análisis de datos aplicados a ingeniería, física y finanzas. La tesis debe ser original, teórica, de diseño o experimental, con base matemática e ingenieril y contenido innovador; puede desarrollarse tras prácticas en una empresa, laboratorio universitario o entidad externa. Se escribe y defiende en inglés bajo supervisión.",
+    "eligibilityNote": "Un único título con dos currículos: Mathematical Modelling for Engineering and Science, de acceso sujeto a requisitos, y Financial Engineering, con plazas limitadas. Las vías no se suman como másteres distintos. Se ha comprobado el reglamento aplicable desde la cohorte 2026/27; las fechas y plazas de selección dependen de la convocatoria y del título de acceso. El alcance de las movilidades y dobles títulos se limita a Europa.",
+    "researchEvidenceUrl": "https://dataweb.unipd.it/data/current/corso/IN2939/percorso_formativo.pdf",
+    "evidencePages": [
+      {
+        "url": "https://www.unipd.it/en/ammissioni-ing-mathematical",
+        "label": "Admisión 2026/27 diferenciada por currículo"
+      },
+      {
+        "url": "https://dataweb.unipd.it/data/current/corso/IN2939/percorso_formativo.pdf",
+        "label": "Reglamento 2026/27: requisitos y tesis original",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad, sede y duración",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/mathematical-engineering",
+        "phrases": [
+          "MATHEMATICAL ENGINEERING",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "matematica applicata"
+        ]
+      },
+      {
+        "field": "Vías de admisión",
+        "url": "https://www.unipd.it/en/ammissioni-ing-mathematical",
+        "phrases": [
+          "Academic Year 2026-2027",
+          "Mathematical Modelling for Engineering and Science (open access subject to entry requirements)",
+          "Financial Engineering (limited-entry)"
+        ]
+      },
+      {
+        "field": "Reglamento vigente, admisión y tesis",
+        "url": "https://dataweb.unipd.it/data/current/corso/IN2939/percorso_formativo.pdf",
+        "phrases": [
+          "coorte 2026/2027",
+          "durata triennale",
+          "Conseguimento di 25 CFU",
+          "84/110 o equivalente",
+          "livello B2 ricettivo",
+          "titolo all’estero",
+          "tesi elaborata in modo originale",
+          "guida di un relatore",
+          "contenuto innovativo",
+          "laboratorio universitario",
+          "La tesi dovrà essere scritta in lingua inglese",
+          "almeno 120 CFU",
+          "analisi dei dati",
+          "statistica"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/social-sciences-and-digital-data",
+    "title": "Laurea magistrale Social Sciences and Digital Data",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años, en modalidad semipresencial, con tesis original supervisada.",
+    "entry": "Acceso con plazas limitadas y evaluación de requisitos curriculares. La convocatoria de 2026/27 distingue títulos italianos, títulos extranjeros de candidatos europeos o equiparados y candidatos no europeos residentes fuera de Italia. Los requisitos detallados de titulación y créditos siguen pendientes de lectura de las bases; la página de admisión menciona acreditación lingüística B2 para la vía de título italiano.",
+    "researchNote": "Integra ciencias sociales y ciencia de datos, con métodos digitales, estadística, informática y aprendizaje automático. La tesis es un trabajo original desarrollado con supervisor, preferentemente basado en las prácticas, escrito y defendido en inglés. Las orientaciones piden formular preguntas, metodología y resultados esperados en una propuesta de investigación y defender el trabajo ante una comisión.",
+    "eligibilityNote": "Se ha verificado la existencia del programa y su tesis, pero no se declara una convocatoria abierta ni un umbral de créditos sin leer las bases específicas. Las guías de tesis están enlazadas desde el portal académico 2025/26. El reglamento describe un componente empírico sobre desarrollo local; debe comprobarse con el supervisor su aplicación al proyecto de datos propuesto. No se deduce que el 31 de julio, citado para acreditar el idioma, sea un plazo general de solicitud.",
+    "researchEvidenceUrl": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/LM_thesis_GD.pdf",
+    "evidencePages": [
+      {
+        "url": "https://www.unipd.it/ammissioni-scu-social-science-digital-data",
+        "label": "Vías de admisión de 2026/27"
+      },
+      {
+        "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/LM_thesis_GD.pdf",
+        "label": "Guía de tesis original y propuesta de investigación",
+        "format": "pdf"
+      },
+      {
+        "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/Regulations%20for%20the%20Degree%20Examination%20of%20the%20Master%E2%80%99s%20Degree%20Programme%20in%20Social%20Sciences%20and%20Digital%20Data.pdf",
+        "label": "Reglamento de la prueba final y alcance del componente empírico",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad, sede y disciplinas",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/social-sciences-and-digital-data",
+        "phrases": [
+          "SOCIAL SCIENCES AND DIGITAL DATA",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "modalità blended",
+          "Scienze Sociali e la Data Science",
+          "statistiche, informatiche",
+          "machine learning"
+        ]
+      },
+      {
+        "field": "Admisión y límites de la evidencia",
+        "url": "https://www.unipd.it/ammissioni-scu-social-science-digital-data",
+        "phrases": [
+          "Anno accademico 2026-2027",
+          "accesso programmato",
+          "requisiti curriculari minimi",
+          "B2 nome corso",
+          "titolo di accesso italiano",
+          "EU or EU-equated citizens",
+          "Non-European candidates residing abroad"
+        ]
+      },
+      {
+        "field": "Tesis y propuesta de investigación",
+        "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/LM_thesis_GD.pdf",
+        "phrases": [
+          "Social Sciences and Digital Data Master’s Degree",
+          "brief research proposal",
+          "original dissertation",
+          "guidance of the chosen supervisor",
+          "dissertation shall be written in English",
+          "discussion will be held in English",
+          "Methodology to achieve goals"
+        ]
+      },
+      {
+        "field": "Descripción específica del componente empírico",
+        "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/Regulations%20for%20the%20Degree%20Examination%20of%20the%20Master%E2%80%99s%20Degree%20Programme%20in%20Social%20Sciences%20and%20Digital%20Data.pdf",
+        "phrases": [
+          "Social Sciences and Digital Data",
+          "empirical research component on issues relating to local development"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "master",
+    "url": "https://www.unipd.it/it/corsi-di-laurea/electronic-engineering",
+    "title": "Laurea magistrale Electronic Engineering",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Dos años, con tesis original supervisada.",
+    "entry": "El catálogo central declara acceso libre sujeto a requisitos. Los mínimos de titulación previa, créditos, nota e idioma deben comprobarse en la convocatoria aplicable; las páginas verificadas para esta ficha no permiten publicarlos con detalle.",
+    "researchNote": "La página departamental incluye la vía Electronics and AI systems y formación que combina diseño de hardware y software. Las instrucciones comunes de fin de máster del departamento incluyen explícitamente Electronic Engineering: exigen una tesis original supervisada, sobre un proyecto de investigación o desarrollo, escrita y defendida en inglés. Puede realizarse con empresas, entidades de investigación o administraciones.",
+    "eligibilityNote": "TRAMA destaca las líneas de informática e inteligencia artificial de este programa; no extiende su ámbito a toda la electrónica o fotónica. Se cuenta una titulación, sin duplicar sus seis vías. El documento de presentación enlazado por el departamento devuelve 404; la tesis se acredita mediante las instrucciones académicas públicas, y los requisitos de acceso detallados quedan pendientes. Las estancias y dobles títulos se limitan a destinos europeos.",
+    "researchEvidenceUrl": "https://stem.elearning.unipd.it/mod/book/tool/print/index.php?id=234",
+    "evidencePages": [
+      {
+        "url": "https://degrees.dei.unipd.it/master-degrees/electronic-engineering/",
+        "label": "Vía Electronics and AI systems y orientación del programa"
+      },
+      {
+        "url": "https://stem.elearning.unipd.it/mod/book/tool/print/index.php?id=234",
+        "label": "Instrucciones de tesis de los másteres del DEI: incluye Electronic Engineering"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad, sede y acceso",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/electronic-engineering",
+        "phrases": [
+          "ELECTRONIC ENGINEERING",
+          "LuogoPadova",
+          "LinguaInglese",
+          "Durata Corso2 anni",
+          "Accesso libero con requisiti"
+        ]
+      },
+      {
+        "field": "Vía computacional e inteligencia artificial",
+        "url": "https://degrees.dei.unipd.it/master-degrees/electronic-engineering/",
+        "phrases": [
+          "Electronics and AI systems",
+          "software",
+          "6 tracks",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "field": "Normativa común aplicable a este máster",
+        "url": "https://stem.elearning.unipd.it/mod/book/tool/print/index.php?id=234",
+        "phrases": [
+          "MASTER DEGREESComputer engineering Control system engineering Electronic engineering ICT for internet and multimedia",
+          "original student thesis work written under the guidance of a supervisor",
+          "a project, a research or development activity",
+          "companies, research bodies or in the public administration",
+          "The thesis will be written and defended in English"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "doctorado",
+    "url": "https://www.unipd.it/it/dottoratoscheda/scienze-statistiche",
+    "title": "Dottorato in Scienze Statistiche",
+    "fields": [
+      "Estadística",
+      "Ciencia de datos"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Tres años; inicio del 42.º ciclo el 1 de noviembre de 2026.",
+    "entry": "Título italiano de segundo ciclo o ciclo único, o título extranjero equivalente de al menos cuatro años; se presuponen conocimientos cuantitativos. En la convocatoria ordinaria de 2026 se permitía solicitar antes de terminar el título, siempre que se obtuviese antes del 30 de septiembre. Selección por expediente y entrevista, con hasta dos cartas de referencia.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "La convocatoria ordinaria de 2026/27 anunció nueve plazas con beca durante tres años, sujeta a progreso satisfactorio. Cuantía vigente por confirmar: el departamento conserva 18.643 € brutos anuales y la convocatoria central anuncia un aumento de la beca para este ciclo."
+    },
+    "researchNote": "Primer año con formación en análisis funcional, probabilidad, programación para análisis de datos, teoría estadística y modelización. En los años segundo y tercero se desarrolla investigación original con supervisor asignado; la tesis puede escribirse en italiano o inglés. El programa permite investigación con los departamentos asociados de Venecia y Udine y estancias externas de hasta doce meses.",
+    "eligibilityNote": "La convocatoria ordinaria cerró el 20 de mayo de 2026 a las 13:00 CEST. La ronda adicional de verano cerró el 26 de agosto a las 13:00. Las nueve becas corresponden a la ronda ordinaria ya cerrada y no representan vacantes disponibles hoy. Las fuentes departamentales y centrales no permiten reconciliar todavía el importe actualizado de 2026/27. Las movilidades incluidas en TRAMA se limitan a Europa.",
+    "evidencePages": [
+      {
+        "url": "https://www.stat.unipd.it/ricerca/dottorato-di-ricerca",
+        "label": "Estructura de investigación, tesis y centros asociados"
+      },
+      {
+        "url": "https://www.stat.unipd.it/ricerca/ammissione",
+        "label": "Admisión y becas del 42.º ciclo"
+      },
+      {
+        "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo",
+        "label": "Convocatoria central y aviso de aumento de la beca"
+      },
+      {
+        "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo-estivo",
+        "label": "Ronda adicional de verano de 2026"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Identidad y duración",
+        "url": "https://www.unipd.it/it/dottoratoscheda/scienze-statistiche",
+        "phrases": [
+          "Scienze statistiche",
+          "LinguaInglese",
+          "Durata Corso3 anni",
+          "Data Science"
+        ]
+      },
+      {
+        "field": "Investigación y supervisión",
+        "url": "https://www.stat.unipd.it/ricerca/dottorato-di-ricerca",
+        "phrases": [
+          "Functional Analysis, Probability Theory, Programming Methodologies for Data Analysis",
+          "assigns a supervisor to each PhD student",
+          "Original research results should be presented in the PhD thesis",
+          "either in Italian or in English",
+          "up to 12 months",
+          "University of Udine"
+        ]
+      },
+      {
+        "field": "Admisión 2026/27",
+        "url": "https://www.stat.unipd.it/ricerca/ammissione",
+        "phrases": [
+          "1st November 2026",
+          "2nd cycle degree or a single cycle degree",
+          "at least four years",
+          "30th September 2026",
+          "at most 2 letters of recommendation",
+          "9 available positions, all covered by a scholarship",
+          "three years, subject to satisfactory progress",
+          "18,643.00",
+          "Expired: May 20, 2026 (13:00 CEST)"
+        ]
+      },
+      {
+        "field": "Discrepancia de cuantía vigente",
+        "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo",
+        "phrases": [
+          "2026/27",
+          "l’importo della borsa è aumentato"
+        ]
+      },
+      {
+        "field": "Ronda adicional cerrada",
+        "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo-estivo",
+        "phrases": [
+          "26 agosto 2026, ore 13",
+          "SCIENZE STATISTICHE"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "doctorado",
+    "url": "https://www.unipd.it/it/dottoratoscheda/brain-mind-computer-science",
+    "title": "PhD in Brain, Mind and Computer Science",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Ciencia de datos"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Tres años; estancia de investigación en el extranjero de al menos tres meses.",
+    "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección.",
+    "researchNote": "Doctorado interdisciplinar con vías de neurociencia, tecnología y sociedad, e informática para retos sociales e innovación. El ámbito de TRAMA abarca aprendizaje automático, big data, visión artificial, procesamiento del lenguaje, seguridad, computación distribuida y verificación de software. Cada estudiante recibe también supervisión del otro currículo y el proyecto se evalúa anualmente. En los dos primeros años se exigen siete exámenes obligatorios y al menos 150 horas de cursos.",
+    "eligibilityNote": "El nivel C de inglés figura como objetivo que debe alcanzarse antes de acabar el tercer año; no se presenta como requisito de acceso. La estancia obligatoria debe elegirse con destino europeo para mantenerse dentro del ámbito de TRAMA. Se publica la existencia del programa; las plazas, becas y fechas vigentes deben comprobarse en la convocatoria específica.",
+    "evidencePages": [
+      {
+        "url": "https://www.unipd.it/en/phd",
+        "label": "Requisito general de acceso al doctorado de Padua"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Requisito general de acceso",
+        "url": "https://www.unipd.it/en/phd",
+        "phrases": [
+          "obtaining a master's degree",
+          "passing an admission examination",
+          "announced annually"
+        ]
+      },
+      {
+        "field": "Programa, investigación y formación",
+        "url": "https://www.unipd.it/it/dottoratoscheda/brain-mind-computer-science",
+        "phrases": [
+          "Brain, Mind and Computer Science",
+          "LinguaInglese",
+          "Durata Corso3 anni",
+          "machine learning, big data",
+          "computer vision e natural language processing",
+          "software verification",
+          "supervisore/a dell'altro curriculum",
+          "valutato annualmente",
+          "7 esami obbligatori",
+          "almeno 150 ore",
+          "almeno tre mesi",
+          "livello C di lingua inglese"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "doctorado",
+    "url": "https://www.unipd.it/it/dottoratoscheda/scienze-matematiche",
+    "title": "PhD in Mathematical Sciences",
+    "fields": [
+      "Matemáticas aplicadas",
+      "Ciencia de datos"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Tres años.",
+    "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección.",
+    "funding": {
+      "kind": "unconfirmed",
+      "text": "El programa contempla becas cuyo número varía por edición. La ficha institucional no acredita un número de plazas abiertas ni la cuantía vigente de una convocatoria concreta."
+    },
+    "researchNote": "La vía de Matemática Computacional incluye finanzas matemáticas, análisis numérico, optimización y probabilidad. El programa combina investigación especializada con seminarios y formación amplia: durante los dos primeros años se deben cursar al menos seis asignaturas y aprobar el examen de al menos cuatro. También contempla métodos matemáticos para ciencia de datos.",
+    "eligibilityNote": "La ficha central presenta Matemáticas y Matemática Computacional como dos currículos de un mismo doctorado; se cuenta una sola vez. TRAMA destaca las líneas aplicadas y computacionales, sin extender su ámbito a toda la matemática pura. La web departamental utiliza la expresión «two doctoral degrees»; se conserva la identidad única del registro central.",
+    "evidencePages": [
+      {
+        "url": "https://www.unipd.it/en/phd",
+        "label": "Requisito general de acceso al doctorado de Padua"
+      },
+      {
+        "url": "https://dottorato.math.unipd.it/",
+        "label": "Áreas de investigación matemática y computacional"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Requisito general de acceso",
+        "url": "https://www.unipd.it/en/phd",
+        "phrases": [
+          "obtaining a master's degree",
+          "passing an admission examination",
+          "announced annually"
+        ]
+      },
+      {
+        "field": "Identidad, currículos y formación",
+        "url": "https://www.unipd.it/it/dottoratoscheda/scienze-matematiche",
+        "phrases": [
+          "Scienze Matematiche",
+          "LinguaInglese",
+          "Durata Corso3 anni",
+          "offre due curricula",
+          "Matematica Computazionale",
+          "almeno sei corsi",
+          "almeno quattro",
+          "Data Science",
+          "Il numero di borse finanziate può variare di anno in anno"
+        ]
+      },
+      {
+        "field": "Líneas aplicadas y discrepancia de denominación",
+        "url": "https://dottorato.math.unipd.it/",
+        "phrases": [
+          "two doctoral degrees",
+          "Mathematical Finance, Numerical Analysis, Optimization, and Probability"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "doctorado",
+    "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-informazione",
+    "title": "PhD in Information Engineering",
+    "fields": [
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Tres años.",
+    "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección. La ronda adicional de julio de 2026 evaluó el currículo y la propuesta de investigación; exigió al menos 35/50 para acceder a entrevista y una presentación de diez minutos sobre motivación y proyecto.",
+    "funding": {
+      "kind": "unconfirmed",
+      "text": "La beca y sus condiciones dependen de la plaza. El departamento publica un presupuesto personal para actividad investigadora de unos 4.000–4.500 €, variable según el ciclo, y una ayuda de movilidad de 1.000 € para los tres años, sujeta a disponibilidad. Estos importes son apoyos de investigación, no un sueldo anual."
+    },
+    "researchNote": "Investigación en informática, automatización, investigación operativa, telecomunicaciones y métodos de ingeniería de la información. El programa integra al estudiante en un grupo de investigación del departamento y articula dos currículos, Bioingeniería y Ciencia y Tecnología de la Información. Exige al menos 80 horas de formación específica en tres años, cuatro horas de seminarios transversales y ocho de formación transversal de la universidad.",
+    "eligibilityNote": "La convocatoria adicional de julio de 2026 está cerrada y su evaluación ha terminado; el umbral y la presentación descritos corresponden a esa ronda. El presupuesto de investigación de 4.000–4.500 € no se anuncia como pago anual ni como beca de manutención; algunos programas específicos tienen límites distintos. TRAMA recoge las líneas computacionales y de matemática aplicada; no todas las líneas de bioingeniería o electrónica pertenecen a su ámbito.",
+    "evidencePages": [
+      {
+        "url": "https://www.unipd.it/en/phd",
+        "label": "Requisito general de acceso al doctorado de Padua"
+      },
+      {
+        "url": "https://phd.dei.unipd.it/call-for-admission-july-2026/",
+        "label": "Ronda adicional de julio de 2026, cerrada"
+      },
+      {
+        "url": "https://phd.dei.unipd.it/student-funding-support/",
+        "label": "Presupuestos de investigación y movilidad, distintos de la beca"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Requisito general de acceso",
+        "url": "https://www.unipd.it/en/phd",
+        "phrases": [
+          "obtaining a master's degree",
+          "passing an admission examination",
+          "announced annually"
+        ]
+      },
+      {
+        "field": "Identidad, disciplina y formación",
+        "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-informazione",
+        "phrases": [
+          "Ingegneria dell'informazione",
+          "LinguaInglese",
+          "Durata Corso3 anni",
+          "matematica applicata",
+          "informatica",
+          "ricerca operativa",
+          "almeno 80 ore nei 3 anni",
+          "almeno 4 ore",
+          "almeno 8 ore",
+          "inserimento di ogni dottorando in uno dei gruppi di ricerca",
+          "organizzato in due curricula"
+        ]
+      },
+      {
+        "field": "Selección de la ronda cerrada",
+        "url": "https://phd.dei.unipd.it/call-for-admission-july-2026/",
+        "phrases": [
+          "July 2026 is now closed",
+          "oral examinations have been completed",
+          "curriculum and project proposal",
+          "at least 35/50",
+          "10 minute presentation"
+        ]
+      },
+      {
+        "field": "Apoyo para gastos, sin confundir con salario",
+        "url": "https://phd.dei.unipd.it/student-funding-support/",
+        "phrases": [
+          "personal allowance amounting to around €4000-4500",
+          "exact amount depends on the PhD cycle",
+          "1000 €/student for the whole three-year program",
+          "subject to change depending on the funding",
+          "their own allowance with different limits"
+        ]
+      }
+    ]
+  },
+  {
+    "institution": "University of Padua",
+    "country": "IT",
+    "kind": "programme",
+    "stage": "doctorado",
+    "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+    "title": "PhD in Mechatronics and Product Innovation Engineering",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Tres años; programa vinculado al polo universitario de Vicenza.",
+    "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección.",
+    "researchNote": "El programa integra investigación en materiales, mecatrónica e instalaciones y logística. Dentro del ámbito de TRAMA, las líneas pertinentes incluyen algoritmos de control, simulación, inteligencia artificial, visión computacional para robótica autónoma, estimación de estados y modelización y optimización de redes logísticas. Las tesis pueden combinar métodos de varias disciplinas.",
+    "eligibilityNote": "Se cuenta un doctorado con tres currículos. Su presencia en TRAMA no incluye automáticamente proyectos de materiales o ingeniería mecánica que carezcan de una contribución computacional o de matemática aplicada. Financiación, proyectos disponibles y requisitos particulares quedan sujetos a la convocatoria del ciclo; no se declara una plaza abierta sin comprobarla.",
+    "evidencePages": [
+      {
+        "url": "https://www.unipd.it/en/phd",
+        "label": "Requisito general de acceso al doctorado de Padua"
+      },
+      {
+        "url": "https://orientamentodtg.gest.unipd.it/en/phd-program-in-mechatronics-and-product-innovation-engineering/",
+        "label": "Sede, currículos y líneas computacionales del departamento"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Requisito general de acceso",
+        "url": "https://www.unipd.it/en/phd",
+        "phrases": [
+          "obtaining a master's degree",
+          "passing an admission examination",
+          "announced annually"
+        ]
+      },
+      {
+        "field": "Identidad, sede y métodos",
+        "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+        "phrases": [
+          "Ingegneria meccatronica",
+          "LinguaInglese",
+          "Durata Corso3 anni",
+          "polo universitario di Vicenza",
+          "intelligenza artificiale",
+          "sviluppo di algoritmi",
+          "progetti di tesi di dottorato",
+          "strutturazione in tre curricula"
+        ]
+      },
+      {
+        "field": "Investigación computacional y optimización",
+        "url": "https://orientamentodtg.gest.unipd.it/en/phd-program-in-mechatronics-and-product-innovation-engineering/",
+        "phrases": [
+          "Mechatronics and Product Innovation Engineering",
+          "modeling and state estimation",
+          "computational vision applied to autonomous robotics",
+          "distribution network design and optimization"
+        ]
+      }
+    ]
   }
 ]

@@ -189,6 +189,12 @@ export function hasResearchComponent(text){
  // Cagliari explicitly offers a supervised scientific final-work route based
  // on critical literature analysis or original methods within its master's.
  if(/\bCorso di Laurea Magistrale\b/iu.test(text)&&/La prova finale consiste nella discussione di una relazione relativa ad un lavoro individuale, svolto dal laureando sotto la supervisione di almeno un docente/u.test(text)&&/un'analisi critica dello stato dell'arte/u.test(text)&&/lo sviluppo di metodologie e tecniche con un certo grado di originalità/u.test(text))return true;
+ // Padua's regulation explicitly requires an original supervised thesis, but
+ // its PDF uses the ligature in "finale" and calls the work simply "tesi".
+ // Keep the master's context and the complete affirmative requirement.
+ const italianFinalWork=clean(text.normalize('NFKC'));
+ if(/\bCorso di laurea magistrale\b/iu.test(italianFinalWork)
+  && /La prova finale consiste in una tesi elaborata in modo originale dallo studente sotto la guida di un relatore\./iu.test(italianFinalWork))return true;
  // Dutch curricula use masterproef/masterproeven for the master's dissertation.
  if(/(?<!\p{L})masterproe(?:f|ven)(?!\p{L})/iu.test(text))return true;
  // cog-SUP requires a research placement with preregistration and assessment.

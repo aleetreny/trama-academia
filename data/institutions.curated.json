@@ -15683,7 +15683,7 @@
     "name": "Università degli Studi di Padova",
     "country": "IT",
     "officialDomain": "unipd.it",
-    "officialUrl": "https://datascience.math.unipd.it/",
+    "officialUrl": "https://www.unipd.it",
     "sources": [
       {
         "type": "masters",
@@ -15968,6 +15968,474 @@
         "observedAt": "2026-09-20T19:05:43.503Z",
         "checkedAt": "2026-09-20T19:05:43.503Z",
         "contentHash": "3568a6e6f1c12d6076adc6a2638bdafcfb4a2e35fffbbf013aece70303791c3e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/physics-data",
+        "type": "masters",
+        "label": "Laurea magistrale Physics of Data",
+        "observedAt": "2026-09-20T18:59:25.892Z",
+        "checkedAt": "2026-09-20T18:59:25.892Z",
+        "contentHash": "ec313b5077f0c8551cb881e0c5b30ec0b1f48a14acb366b659280a5b2627c868",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://pod.dfa.unipd.it/internship-and-final-thesis/",
+        "type": "masters",
+        "label": "Prácticas, investigación y tesis final · Laurea magistrale Physics of Data",
+        "observedAt": "2026-09-20T19:32:13.651Z",
+        "checkedAt": "2026-09-20T19:32:13.651Z",
+        "contentHash": "b04a50832c334b5401cb3980a24f8af56695d3849fb072f8418f8ed9a438d38d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://pod.dfa.unipd.it/requirement/",
+        "type": "masters",
+        "label": "Requisitos oficiales de admisión · Laurea magistrale Physics of Data",
+        "observedAt": "2026-09-20T21:15:48.870Z",
+        "checkedAt": "2026-09-20T21:15:48.870Z",
+        "contentHash": "1e14723708b533de5a1f20d4a3ea168adeb64bf7aeb13621b184b76f6f2e21ee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/scienze-statistiche",
+        "type": "masters",
+        "label": "Laurea magistrale Scienze Statistiche",
+        "observedAt": "2026-09-20T18:59:30.515Z",
+        "checkedAt": "2026-09-20T18:59:30.515Z",
+        "contentHash": "91fc96e37f39da0cfaadd0d9cb468e902293008d4c7198de96f93fe61933d84d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.stat.unipd.it/corsi/laurea-magistrale-scienze-statistiche",
+        "type": "masters",
+        "label": "Estructura, itinerarios, tesis y prácticas · Laurea magistrale Scienze Statistiche",
+        "observedAt": "2026-09-20T19:26:21.276Z",
+        "checkedAt": "2026-09-20T19:26:21.276Z",
+        "contentHash": "d12a4292bcd2320cc2eddea1c7d3ede7e6120cda072efe616fd589317348b6de",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.stat.unipd.it/futuri-studenti/requisiti-di-ammissione",
+        "type": "masters",
+        "label": "Requisitos de acceso · Laurea magistrale Scienze Statistiche",
+        "observedAt": "2026-09-20T21:15:42.822Z",
+        "checkedAt": "2026-09-20T21:15:42.822Z",
+        "contentHash": "36b277de0db13c2012ceefde85e5d0c21be67a4aae24d912c97f6c7ff7b49980",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.stat.unipd.it/futuri-studenti/ammissione-laurea-magistrale",
+        "type": "masters",
+        "label": "Admisión 2026/27 y aviso de cambio de criterios · Laurea magistrale Scienze Statistiche",
+        "observedAt": "2026-09-20T19:32:10.141Z",
+        "checkedAt": "2026-09-20T19:32:10.141Z",
+        "contentHash": "49864ca56cb1fbf68fe36b6465cc0bb1fe9ee2744dc0be20757c082da497414b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/cybersecurity",
+        "type": "masters",
+        "label": "Laurea magistrale Cybersecurity",
+        "observedAt": "2026-09-20T18:59:18.764Z",
+        "checkedAt": "2026-09-20T18:59:18.764Z",
+        "contentHash": "7a42d3196b5c40824294c08b18763c6bf5eb1aab3e246e7d877b6ab26556e8cc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://cybersecurity.math.unipd.it/files/Rules-for-the-thesis-and-the-final-exam_Cybersecurity.pdf",
+        "type": "masters",
+        "label": "Normativa de tesis y examen final · Laurea magistrale Cybersecurity",
+        "observedAt": "2026-09-20T21:19:51.587Z",
+        "checkedAt": "2026-09-20T21:19:51.587Z",
+        "contentHash": "ccde4dc139e35232987d322ed24737b9260ac2fd92f5d72074c2af88668f7031",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://cybersecurity.math.unipd.it/study-plan/",
+        "type": "masters",
+        "label": "Estructura y requisitos de admisión · Laurea magistrale Cybersecurity",
+        "observedAt": "2026-09-20T19:32:09.352Z",
+        "checkedAt": "2026-09-20T19:32:09.352Z",
+        "contentHash": "2ea3cdeb42f663a91e9f38262640ecff016e4aa6a478fe1db44a2e578037a754",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/mathematics",
+        "type": "masters",
+        "label": "Laurea magistrale Mathematics",
+        "observedAt": "2026-09-20T18:59:28.875Z",
+        "checkedAt": "2026-09-20T18:59:28.875Z",
+        "contentHash": "d4aa5c24100a715e9f8e900ac610c9cfa542f1991ac51fd7544c1de9c9d5bdf7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://matematica.math.unipd.it/en/master/graduation/",
+        "type": "masters",
+        "label": "Tesis supervisada y créditos · Laurea magistrale Mathematics",
+        "observedAt": "2026-09-20T21:51:25.822Z",
+        "checkedAt": "2026-09-20T21:51:25.822Z",
+        "contentHash": "12f6706a6562779b22c72860c3bd22ec9bc707f7d8bfcf35dd05d0db7f4d4533",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://matematica.math.unipd.it/en/master/",
+        "type": "masters",
+        "label": "Estructura y requisitos de acceso · Laurea magistrale Mathematics",
+        "observedAt": "2026-09-20T21:49:31.487Z",
+        "checkedAt": "2026-09-20T21:49:31.487Z",
+        "contentHash": "c3c8dd408fe5a2830ab244af8fbca237b663cb372e62149707a54e120dd088ec",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/computational-finance",
+        "type": "masters",
+        "label": "Laurea magistrale Computational Finance",
+        "observedAt": "2026-09-20T18:59:34.135Z",
+        "checkedAt": "2026-09-20T18:59:34.135Z",
+        "contentHash": "6713c2489424878b65d4673d78f0a5b7121318a3d5c4b4761f0bb950368dc2e2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://computationalfinance.math.unipd.it/study-plan/",
+        "type": "masters",
+        "label": "Plan de estudios y tesis de investigación · Laurea magistrale Computational Finance",
+        "observedAt": "2026-09-20T21:48:08.751Z",
+        "checkedAt": "2026-09-20T21:48:08.751Z",
+        "contentHash": "fa38651a5fa1aea35cabec9a47ec946b4a3feb002028f4c9f1ebe93265c348ff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://computationalfinance.math.unipd.it/admission/",
+        "type": "masters",
+        "label": "Requisitos y vías de admisión · Laurea magistrale Computational Finance",
+        "observedAt": "2026-09-20T21:51:23.754Z",
+        "checkedAt": "2026-09-20T21:51:23.754Z",
+        "contentHash": "1a3cfce1f934d4b748944cf1dda507db98f76e373b75ed1c6f9c44080d7ca7d2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/quantitative-and-computational-biosciences",
+        "type": "masters",
+        "label": "Laurea magistrale Quantitative and Computational Biosciences",
+        "observedAt": "2026-09-20T18:59:17.162Z",
+        "checkedAt": "2026-09-20T18:59:17.162Z",
+        "contentHash": "602a8873f014d4f5c0345651e184f02278e904c47e7a39409fcf60476fdde63d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://quacbio.biologia.unipd.it/current-students/more-details-on-how-to-graduate/",
+        "type": "masters",
+        "label": "Prácticas de investigación, supervisión y tesis original · Laurea magistrale Quantitative and Computational Biosciences",
+        "observedAt": "2026-09-20T21:48:12.985Z",
+        "checkedAt": "2026-09-20T21:48:12.985Z",
+        "contentHash": "3bb04666a3ebfcbc1c8a0ac4069dafeaa1924583b9af6337e7b673a8ec648ee1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://quacbio.biologia.unipd.it/how-to-enrol/",
+        "type": "masters",
+        "label": "Titulaciones, expediente e inglés para la admisión · Laurea magistrale Quantitative and Computational Biosciences",
+        "observedAt": "2026-09-20T21:52:32.659Z",
+        "checkedAt": "2026-09-20T21:52:32.659Z",
+        "contentHash": "29a00e32234d82f0a17c32fc2092d6eb7a649954090042627d050c6f21efcf04",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/control-systems-engineering",
+        "type": "masters",
+        "label": "Laurea magistrale Control Systems Engineering",
+        "observedAt": "2026-09-20T18:59:38.943Z",
+        "checkedAt": "2026-09-20T18:59:38.943Z",
+        "contentHash": "975f9f388a921038e8dc2a8590666acfcaeb693f1315d193c54df20ed4363b0a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.dei.unipd.it/system/files/LM-CSE%40ScegliConNoi_2026_20260301.pdf",
+        "type": "masters",
+        "label": "Plan de 2026: tesis y formación investigadora · Laurea magistrale Control Systems Engineering",
+        "observedAt": "2026-09-20T21:56:09.208Z",
+        "checkedAt": "2026-09-20T21:56:09.208Z",
+        "contentHash": "f68776cfe9f35487eea4e885abe5c7f2f9a044a387b3428c8ba7b67b2c273ddf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/",
+        "type": "masters",
+        "label": "Requisitos y vías temáticas del departamento · Laurea magistrale Control Systems Engineering",
+        "observedAt": "2026-09-20T21:52:03.214Z",
+        "checkedAt": "2026-09-20T21:52:03.214Z",
+        "contentHash": "4d35f420a272a56203c82e76bd04adc44b78651360261bec676e5b2e075356ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/ict-internet-and-multimedia",
+        "type": "masters",
+        "label": "Laurea magistrale ICT for Internet and Multimedia",
+        "observedAt": "2026-09-20T18:59:24.083Z",
+        "checkedAt": "2026-09-20T18:59:24.083Z",
+        "contentHash": "724f6fb4d3bf56608fed7a0b8096c63bb1258074894b11b48df8ee9f3be01cf0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.dei.unipd.it/system/files/LM_MIME_2025_final.pdf",
+        "type": "masters",
+        "label": "Presentación de 2025 enlazada por el departamento: investigación y tesis · Laurea magistrale ICT for Internet and Multimedia",
+        "observedAt": "2026-09-20T21:56:21.136Z",
+        "checkedAt": "2026-09-20T21:56:21.136Z",
+        "contentHash": "05ef0eac62053b340f29795b96149a993ceeebab6fd5eb27f7fcf5f65aae604a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://degrees.dei.unipd.it/master-degrees/ict-for-internet-multimedia-mime/",
+        "type": "masters",
+        "label": "Requisitos, inglés y orientación investigadora · Laurea magistrale ICT for Internet and Multimedia",
+        "observedAt": "2026-09-20T21:52:08.317Z",
+        "checkedAt": "2026-09-20T21:52:08.317Z",
+        "contentHash": "8514b6343a0b7e9c26570ce3e7b4f300cf9ec11a2658e1e0cb2872d659ce27fc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/bioingegneria",
+        "type": "masters",
+        "label": "Laurea magistrale Bioingegneria",
+        "observedAt": "2026-09-20T18:59:15.609Z",
+        "checkedAt": "2026-09-20T18:59:15.609Z",
+        "contentHash": "cd5b22fb9b6e64844c2aaf21b73fe21e7ac7993f2f0977419c9023063c9ba945",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.dei.unipd.it/system/files/Presentazione_%20giugno2025.pdf",
+        "type": "masters",
+        "label": "Presentación de junio de 2025: admisión, planes y tesis · Laurea magistrale Bioingegneria",
+        "observedAt": "2026-09-20T22:10:25.657Z",
+        "checkedAt": "2026-09-20T22:10:25.657Z",
+        "contentHash": "8e90ea11aa8bf4defd7750fe627cda5b92e25bfbba48efe9b09c9f801b85cf83",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://lauree.dei.unipd.it/lauree-magistrali/bioingegneria/",
+        "type": "masters",
+        "label": "Página departamental y documento académico enlazado · Laurea magistrale Bioingegneria",
+        "observedAt": "2026-09-20T21:51:59.259Z",
+        "checkedAt": "2026-09-20T21:51:59.259Z",
+        "contentHash": "57f4f92a5c76ad87329ec0e4a6acedc1aaae30eacb8879b45dc8f6a87c18b138",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/mathematical-engineering",
+        "type": "masters",
+        "label": "Laurea magistrale Mathematical Engineering",
+        "observedAt": "2026-09-20T18:59:27.364Z",
+        "checkedAt": "2026-09-20T18:59:27.364Z",
+        "contentHash": "10b928acc481acb069d388c7282d669e9e6f8a59ea3f424403427df34b568fd6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dataweb.unipd.it/data/current/corso/IN2939/percorso_formativo.pdf",
+        "type": "masters",
+        "label": "Reglamento 2026/27: requisitos y tesis original · Laurea magistrale Mathematical Engineering",
+        "observedAt": "2026-09-20T22:11:54.795Z",
+        "checkedAt": "2026-09-20T22:11:54.795Z",
+        "contentHash": "4accc8a62010d8a7111a00dd520b375c04c913f6de46b63f03337f9bcfb02aae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/en/ammissioni-ing-mathematical",
+        "type": "masters",
+        "label": "Admisión 2026/27 diferenciada por currículo · Laurea magistrale Mathematical Engineering",
+        "observedAt": "2026-09-20T21:49:34.548Z",
+        "checkedAt": "2026-09-20T21:49:34.548Z",
+        "contentHash": "551ec711c563544747820928c7ef2a8a2772b4f2e1219bff24672be244adcd6e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/social-sciences-and-digital-data",
+        "type": "masters",
+        "label": "Laurea magistrale Social Sciences and Digital Data",
+        "observedAt": "2026-09-20T18:59:32.186Z",
+        "checkedAt": "2026-09-20T18:59:32.186Z",
+        "contentHash": "1759f3eabc7a29f016d138505180e275e9bef5b378086be2815c59cd9853eb10",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/LM_thesis_GD.pdf",
+        "type": "masters",
+        "label": "Guía de tesis original y propuesta de investigación · Laurea magistrale Social Sciences and Digital Data",
+        "observedAt": "2026-09-20T22:11:55.895Z",
+        "checkedAt": "2026-09-20T22:11:55.895Z",
+        "contentHash": "062ae3b3d018c150c32a13d9bd680e54b17c9be8e7a64854dac30bcf6706f016",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/ammissioni-scu-social-science-digital-data",
+        "type": "masters",
+        "label": "Vías de admisión de 2026/27 · Laurea magistrale Social Sciences and Digital Data",
+        "observedAt": "2026-09-20T22:11:53.191Z",
+        "checkedAt": "2026-09-20T22:11:53.191Z",
+        "contentHash": "3da9010a00252fb416079c6d7c619134981338af44c562750c705b485e8da286",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/Regulations%20for%20the%20Degree%20Examination%20of%20the%20Master%E2%80%99s%20Degree%20Programme%20in%20Social%20Sciences%20and%20Digital%20Data.pdf",
+        "type": "masters",
+        "label": "Reglamento de la prueba final y alcance del componente empírico · Laurea magistrale Social Sciences and Digital Data",
+        "observedAt": "2026-09-20T22:09:30.419Z",
+        "checkedAt": "2026-09-20T22:09:30.419Z",
+        "contentHash": "2aac4c91767e564881ab208a3b9b9cc3ce7988a76649e0108df47ae7e8fa3e4e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/corsi-di-laurea/electronic-engineering",
+        "type": "masters",
+        "label": "Laurea magistrale Electronic Engineering",
+        "observedAt": "2026-09-20T18:59:22.177Z",
+        "checkedAt": "2026-09-20T18:59:22.177Z",
+        "contentHash": "ca9444bae383b9e8332fcd39aadba36e18e171cca2d2760c44b8afd6f339a2d6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://stem.elearning.unipd.it/mod/book/tool/print/index.php?id=234",
+        "type": "masters",
+        "label": "Instrucciones de tesis de los másteres del DEI: incluye Electronic Engineering · Laurea magistrale Electronic Engineering",
+        "observedAt": "2026-09-20T22:13:55.274Z",
+        "checkedAt": "2026-09-20T22:13:55.274Z",
+        "contentHash": "16e458f951995fdf73cd7856b719e2457af75699fbc9861d2f61d58a7754df54",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://degrees.dei.unipd.it/master-degrees/electronic-engineering/",
+        "type": "masters",
+        "label": "Vía Electronics and AI systems y orientación del programa · Laurea magistrale Electronic Engineering",
+        "observedAt": "2026-09-20T21:52:06.369Z",
+        "checkedAt": "2026-09-20T21:52:06.369Z",
+        "contentHash": "ea2fcdfa3276f525a4f40061b084d5e5ab5920facb8d6471734d1424d91e3531",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/dottoratoscheda/scienze-statistiche",
+        "type": "phd",
+        "label": "Dottorato in Scienze Statistiche",
+        "observedAt": "2026-09-20T19:10:14.951Z",
+        "checkedAt": "2026-09-20T19:10:14.951Z",
+        "contentHash": "ec48a9e42c2cf40a5a234f2b7e323d178bf2f371a8571f7563886eefd02975ff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.stat.unipd.it/ricerca/dottorato-di-ricerca",
+        "type": "phd",
+        "label": "Estructura de investigación, tesis y centros asociados · Dottorato in Scienze Statistiche",
+        "observedAt": "2026-09-20T21:41:33.887Z",
+        "checkedAt": "2026-09-20T21:41:33.887Z",
+        "contentHash": "174127ca2d2c03633e3f5ecd638d6b56cadf6c23372e3d33e931066599417ecb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.stat.unipd.it/ricerca/ammissione",
+        "type": "phd",
+        "label": "Admisión y becas del 42.º ciclo · Dottorato in Scienze Statistiche",
+        "observedAt": "2026-09-20T21:45:49.427Z",
+        "checkedAt": "2026-09-20T21:45:49.427Z",
+        "contentHash": "a48800a00c8844d897951d2406e8ecde1d7bbaa0006ec10bba88c70cce971368",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo",
+        "type": "phd",
+        "label": "Convocatoria central y aviso de aumento de la beca · Dottorato in Scienze Statistiche",
+        "observedAt": "2026-09-20T21:17:01.984Z",
+        "checkedAt": "2026-09-20T21:17:01.984Z",
+        "contentHash": "4fc178ced61092d6b7f7a08378b1627cf722a57f21626fd016d95eef4ebc579b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo-estivo",
+        "type": "phd",
+        "label": "Ronda adicional de verano de 2026 · Dottorato in Scienze Statistiche",
+        "observedAt": "2026-09-20T21:17:00.805Z",
+        "checkedAt": "2026-09-20T21:17:00.805Z",
+        "contentHash": "603c0b5da3a097c08b89606b389f066b0d1e5a4dcb6522029bb449d65749e7e9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/dottoratoscheda/brain-mind-computer-science",
+        "type": "phd",
+        "label": "PhD in Brain, Mind and Computer Science",
+        "observedAt": "2026-09-20T19:10:07.126Z",
+        "checkedAt": "2026-09-20T19:10:07.126Z",
+        "contentHash": "acf3a55a5c7df18791a9bab86a620608d15cfa33b7e6ea11fc244dcce3c2c8b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/en/dottorato",
+        "type": "phd",
+        "label": "Requisito general de acceso al doctorado de Padua · PhD in Mechatronics and Product Innovation Engineering",
+        "observedAt": "2026-09-20T21:56:52.101Z",
+        "checkedAt": "2026-09-20T21:56:52.101Z",
+        "contentHash": "0a198e767fa09d3692b2fb671285a6259bcd09606aaedb9bca16c5b6926a06f4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/dottoratoscheda/scienze-matematiche",
+        "type": "phd",
+        "label": "PhD in Mathematical Sciences",
+        "observedAt": "2026-09-20T19:10:13.152Z",
+        "checkedAt": "2026-09-20T19:10:13.152Z",
+        "contentHash": "f152b6e4fe6716356ba095c8c83fc3d9d8cb0019690be8df5bd0aa20e8e90031",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dottorato.math.unipd.it/",
+        "type": "phd",
+        "label": "Áreas de investigación matemática y computacional · PhD in Mathematical Sciences",
+        "observedAt": "2026-09-20T21:41:37.552Z",
+        "checkedAt": "2026-09-20T21:41:37.552Z",
+        "contentHash": "07262e39f567de6f18512883482e1f72188163b0d1b36f57dab2db6342e0d093",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/dottoratoscheda/ingegneria-informazione",
+        "type": "phd",
+        "label": "PhD in Information Engineering",
+        "observedAt": "2026-09-20T19:10:09.286Z",
+        "checkedAt": "2026-09-20T19:10:09.286Z",
+        "contentHash": "5317fad8747118d568b07b4eb77c922b80fc0022c3d5693507f0dc866005fa16",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.dei.unipd.it/call-for-admission-july-2026/",
+        "type": "phd",
+        "label": "Ronda adicional de julio de 2026, cerrada · PhD in Information Engineering",
+        "observedAt": "2026-09-20T21:45:55.342Z",
+        "checkedAt": "2026-09-20T21:45:55.342Z",
+        "contentHash": "5690e6ae839778cf60897edbbdb2d976ff2a5735f74dc79e508dd4f7c74318bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.dei.unipd.it/student-funding-support/",
+        "type": "phd",
+        "label": "Presupuestos de investigación y movilidad, distintos de la beca · PhD in Information Engineering",
+        "observedAt": "2026-09-20T21:48:04.649Z",
+        "checkedAt": "2026-09-20T21:48:04.649Z",
+        "contentHash": "62ff525790e3980ad724162e717605b916d839e64b95e894998514db076baa65",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+        "type": "phd",
+        "label": "PhD in Mechatronics and Product Innovation Engineering",
+        "observedAt": "2026-09-20T19:10:11.205Z",
+        "checkedAt": "2026-09-20T19:10:11.205Z",
+        "contentHash": "6b6fa7d65475f63f51fac9a4ca899e6068d084b8e508c78690c4b071b4e521b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://orientamentodtg.gest.unipd.it/en/phd-program-in-mechatronics-and-product-innovation-engineering/",
+        "type": "phd",
+        "label": "Sede, currículos y líneas computacionales del departamento · PhD in Mechatronics and Product Innovation Engineering",
+        "observedAt": "2026-09-20T21:56:33.536Z",
+        "checkedAt": "2026-09-20T21:56:33.536Z",
+        "contentHash": "ec9740b8720b20de696d10b6fdd42517c240c5710803e193fbcd5880dbfc22df",
         "accessOutcome": "ok"
       }
     ],

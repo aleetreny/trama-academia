@@ -25,3 +25,18 @@ test('Modena original autonomous final thesis requires master level and both exp
  for(const text of [[degree,original],[degree,thesis],[original,thesis],['Corso di Laurea',original,thesis],[degree,original.replace('originale','professionale'),thesis]])assert.equal(hasResearchComponent(text.join(' ')),false);
  assert.equal(hasResearchComponent(programmeText(`<main>${degree} ${thesis}</main><nav>${original}</nav>`)),false);
 });
+
+test('Padua PDF final-work requirement retains master level, originality and supervision',()=>{
+ const degree='Corso di laurea magistrale in M ATHEM ATICAL ENG INEERING';
+ const requirement='La prova ﬁnale consiste in una tesi elaborata in modo originale dallo studente sotto la guida di un relatore.';
+ assert.equal(hasResearchComponent(degree+'\n'+requirement.replace('sotto la guida','sotto la\nguida')),true);
+ assert.equal(hasResearchComponent(degree+' '+requirement.normalize('NFKC')),true);
+ for(const text of [
+  'Corso di laurea '+requirement,
+  requirement,
+  degree+' '+requirement.replace('consiste','non consiste'),
+  degree+' '+requirement.replace('originale','compilativo'),
+  degree+' La prova finale consiste in una prova orale e in una discussione di casi.'
+ ])assert.equal(hasResearchComponent(text),false);
+ assert.equal(hasResearchComponent(programmeText(`<main>${degree}</main><nav>${requirement}</nav>`)),false);
+});

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T21:10:26.448Z",
+  "generatedAt": "2026-09-20T22:19:20.945Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -182608,6 +182608,1172 @@
           "Segundo itinerario y exclusión"
         ]
       }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/physics-data",
+      "title": "Laurea magistrale Physics of Data",
+      "fields": [
+        "Ciencia de datos",
+        "Informática",
+        "Machine learning"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años; último semestre con prácticas de 8 ECTS y tesis de 22 ECTS.",
+      "entry": "Grado universitario de al menos tres años o equivalente, con conocimientos acreditados de física y matemáticas. Inglés B2 o equivalente. Los requisitos mínimos de titulación y expediente dependen del país de origen y deben comprobarse en las condiciones de admisión enlazadas.",
+      "researchNote": "Combina física avanzada y métodos para analizar grandes conjuntos de datos. El último semestre dedica 550 horas a la tesis y 200 a las prácticas. Se redacta y defiende la tesis en inglés; puede vincularse a las prácticas o a una investigación académica independiente.",
+      "eligibilityNote": "Programa de Padua impartido en inglés. La vía de solicitud depende de si el título previo se obtuvo en Italia o en el extranjero. Las opciones de prácticas y tesis fuera de Padua solo se incluyen en TRAMA cuando su destino está en Europa.",
+      "id": "2bb1d3e00001cdee93c9",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/physics-data",
+      "sourceId": "programme-2bb1d3e00001cdee93c9",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:25.892Z",
+      "seenAt": "2026-09-20T18:59:25.892Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "ec313b5077f0c8551cb881e0c5b30ec0b1f48a14acb366b659280a5b2627c868",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/physics-data",
+        "method": "official-programme-page",
+        "researchUrl": "https://pod.dfa.unipd.it/internship-and-final-thesis/",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/physics-data",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:25.892Z",
+            "contentHash": "ec313b5077f0c8551cb881e0c5b30ec0b1f48a14acb366b659280a5b2627c868"
+          },
+          {
+            "url": "https://pod.dfa.unipd.it/internship-and-final-thesis/",
+            "label": "Prácticas, investigación y tesis final",
+            "checkedAt": "2026-09-20T19:32:13.651Z",
+            "contentHash": "b04a50832c334b5401cb3980a24f8af56695d3849fb072f8418f8ed9a438d38d"
+          },
+          {
+            "url": "https://pod.dfa.unipd.it/requirement/",
+            "label": "Requisitos oficiales de admisión",
+            "checkedAt": "2026-09-20T21:15:48.870Z",
+            "contentHash": "1e14723708b533de5a1f20d4a3ea168adeb64bf7aeb13621b184b76f6f2e21ee"
+          }
+        ],
+        "checks": [
+          "Identidad y duración",
+          "Investigación y créditos",
+          "Admisión"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/scienze-statistiche",
+      "title": "Laurea magistrale Scienze Statistiche",
+      "fields": [
+        "Estadística",
+        "Ciencia de datos"
+      ],
+      "languages": [
+        "Italiano"
+      ],
+      "duration": "Dos años, 120 CFU; 21 CFU conjuntos para tesis y prácticas formativas.",
+      "entry": "Grado previo con nota de al menos 85/110 y 35 CFU en los sectores matemáticos/estadísticos y afines enumerados por el departamento, incluidos al menos 15 de MAT/05. Inglés B2 o superior en lectura y comprensión oral. La comisión comprueba el expediente y los contenidos de los estudios; los criterios de admisión se han modificado para 2026/27.",
+      "researchNote": "Formación avanzada en probabilidad, modelización estocástica y métodos de análisis de datos, con tesis de máster y prácticas formativas. Los itinerarios de Data Science, bioestadística, finanzas, empresa y población/sociedad pertenecen al mismo título de Scienze Statistiche.",
+      "eligibilityNote": "Acceso sujeto a requisitos y evaluación previa; no equivale a admisión automática. La enseñanza se publica en italiano. Los 21 CFU corresponden al conjunto de tesis y prácticas: la fuente consultada no atribuye todos esos créditos exclusivamente a la tesis. Es un título distinto del MSc Data Science ya catalogado.",
+      "id": "0f25e97e5ebbf2c7596d",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/scienze-statistiche",
+      "sourceId": "programme-0f25e97e5ebbf2c7596d",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:30.515Z",
+      "seenAt": "2026-09-20T18:59:30.515Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "91fc96e37f39da0cfaadd0d9cb468e902293008d4c7198de96f93fe61933d84d",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/scienze-statistiche",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.stat.unipd.it/corsi/laurea-magistrale-scienze-statistiche",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/scienze-statistiche",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:30.515Z",
+            "contentHash": "91fc96e37f39da0cfaadd0d9cb468e902293008d4c7198de96f93fe61933d84d"
+          },
+          {
+            "url": "https://www.stat.unipd.it/corsi/laurea-magistrale-scienze-statistiche",
+            "label": "Estructura, itinerarios, tesis y prácticas",
+            "checkedAt": "2026-09-20T19:26:21.276Z",
+            "contentHash": "d12a4292bcd2320cc2eddea1c7d3ede7e6120cda072efe616fd589317348b6de"
+          },
+          {
+            "url": "https://www.stat.unipd.it/futuri-studenti/requisiti-di-ammissione",
+            "label": "Requisitos de acceso",
+            "checkedAt": "2026-09-20T21:15:42.822Z",
+            "contentHash": "36b277de0db13c2012ceefde85e5d0c21be67a4aae24d912c97f6c7ff7b49980"
+          },
+          {
+            "url": "https://www.stat.unipd.it/futuri-studenti/ammissione-laurea-magistrale",
+            "label": "Admisión 2026/27 y aviso de cambio de criterios",
+            "checkedAt": "2026-09-20T19:32:10.141Z",
+            "contentHash": "49864ca56cb1fbf68fe36b6465cc0bb1fe9ee2744dc0be20757c082da497414b"
+          }
+        ],
+        "checks": [
+          "Identidad y disciplina",
+          "Estructura e investigación",
+          "Admisión",
+          "Actualización de requisitos"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/cybersecurity",
+      "title": "Laurea magistrale Cybersecurity",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Estadística"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años; 30 créditos de examen final, divididos en 24 de proyecto de tesis y 6 de redacción.",
+      "entry": "Grado previo o equivalente extranjero y evaluación de la preparación. Para los títulos italianos, al menos 42 ECTS en los sectores indicados: 24 de informática/ingeniería informática y 18 de matemáticas. Nota de al menos 84/110 o equivalente e inglés B2 en lectura y comprensión oral. La comisión evalúa los títulos extranjeros y los planes de estudio anteriores.",
+      "researchNote": "Combina seguridad informática con estadística, aprendizaje automático y modelización de procesos. La tesis se realiza bajo la supervisión de un profesor o investigador de Padua, con proyecto de 24 créditos y redacción de 6 créditos. El proyecto puede desarrollarse en la universidad o en una entidad pública o privada y se presenta ante una comisión.",
+      "eligibilityNote": "Máster de Padua distinto del programa internacional conjunto de Cybersecurity and Cyberintelligence. El acceso para candidatos europeos o no europeos residentes en Italia está sujeto a requisitos. Se publican 50 plazas para candidatos no europeos residentes fuera de Italia, incluidas 10 de Marco Polo. El calendario depende de la vía de admisión; la ficha no confirma que todas ellas sigan abiertas. Las estancias externas solo se incluyen cuando su destino está en Europa.",
+      "id": "43831864eea19c66652a",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/cybersecurity",
+      "sourceId": "programme-43831864eea19c66652a",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:18.764Z",
+      "seenAt": "2026-09-20T18:59:18.764Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7a42d3196b5c40824294c08b18763c6bf5eb1aab3e246e7d877b6ab26556e8cc",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/cybersecurity",
+        "method": "official-programme-page",
+        "researchUrl": "https://cybersecurity.math.unipd.it/files/Rules-for-the-thesis-and-the-final-exam_Cybersecurity.pdf",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/cybersecurity",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:18.764Z",
+            "contentHash": "7a42d3196b5c40824294c08b18763c6bf5eb1aab3e246e7d877b6ab26556e8cc"
+          },
+          {
+            "url": "https://cybersecurity.math.unipd.it/files/Rules-for-the-thesis-and-the-final-exam_Cybersecurity.pdf",
+            "label": "Normativa de tesis y examen final",
+            "checkedAt": "2026-09-20T21:19:51.587Z",
+            "contentHash": "ccde4dc139e35232987d322ed24737b9260ac2fd92f5d72074c2af88668f7031"
+          },
+          {
+            "url": "https://cybersecurity.math.unipd.it/study-plan/",
+            "label": "Estructura y requisitos de admisión",
+            "checkedAt": "2026-09-20T19:32:09.352Z",
+            "contentHash": "2ea3cdeb42f663a91e9f38262640ecff016e4aa6a478fe1db44a2e578037a754"
+          }
+        ],
+        "checks": [
+          "Identidad y sede",
+          "Admisión",
+          "Tesis supervisada y créditos"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "stage": "master",
+      "kind": "programme",
+      "languages": [
+        "Inglés"
+      ],
+      "url": "https://www.unipd.it/it/corsi-di-laurea/mathematics",
+      "title": "Laurea magistrale Mathematics",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "duration": "Dos años; tesis supervisada de 36 CFU/ECTS, aproximadamente el 30 % del trabajo total.",
+      "entry": "Grado de primer ciclo en Ciencias Matemáticas con nota mínima de 85/110 o título equivalente evaluado por una comisión. Al menos 50 ECTS en los sectores de álgebra, geometría, análisis, probabilidad/estadística, física matemática y análisis numérico especificados por el departamento. Inglés B2 o equivalente.",
+      "researchNote": "El itinerario general de Padua permite especializarse en áreas aplicadas y modelización de sistemas complejos. La tesis escrita de 36 créditos, dirigida por un profesor y defendida ante una comisión especializada, exige autonomía de estudio. El programa también contiene rutas teóricas; el interés para TRAMA se centra en los planes de matemáticas aplicadas.",
+      "eligibilityNote": "Se cataloga un solo título con varios itinerarios. Esta ficha se refiere al currículo general impartido en Padua y a las opciones europeas pertinentes. ALGANT, que puede incluir Montreal y se centra en álgebra, geometría y teoría de números, no se considera aquí una ruta elegible; no se cuenta como un máster adicional. Los plazos dependen de la vía de admisión.",
+      "id": "070b6499f2484f665164",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/mathematics",
+      "sourceId": "programme-070b6499f2484f665164",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:28.875Z",
+      "seenAt": "2026-09-20T18:59:28.875Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "d4aa5c24100a715e9f8e900ac610c9cfa542f1991ac51fd7544c1de9c9d5bdf7",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/mathematics",
+        "method": "official-programme-page",
+        "researchUrl": "https://matematica.math.unipd.it/en/master/graduation/",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/mathematics",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:28.875Z",
+            "contentHash": "d4aa5c24100a715e9f8e900ac610c9cfa542f1991ac51fd7544c1de9c9d5bdf7"
+          },
+          {
+            "url": "https://matematica.math.unipd.it/en/master/graduation/",
+            "label": "Tesis supervisada y créditos",
+            "checkedAt": "2026-09-20T21:51:25.822Z",
+            "contentHash": "12f6706a6562779b22c72860c3bd22ec9bc707f7d8bfcf35dd05d0db7f4d4533"
+          },
+          {
+            "url": "https://matematica.math.unipd.it/en/master/",
+            "label": "Estructura y requisitos de acceso",
+            "checkedAt": "2026-09-20T21:49:31.487Z",
+            "contentHash": "c3c8dd408fe5a2830ab244af8fbca237b663cb372e62149707a54e120dd088ec"
+          }
+        ],
+        "checks": [
+          "Identidad y orientación aplicada",
+          "Acceso",
+          "Tesis e investigación"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "stage": "master",
+      "kind": "programme",
+      "languages": [
+        "Inglés"
+      ],
+      "url": "https://www.unipd.it/it/corsi-di-laurea/computational-finance",
+      "title": "Laurea magistrale Computational Finance",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "Dos años, con tesis final de investigación académica o proyecto vinculado a prácticas.",
+      "entry": "Grado previo y base sólida en matemáticas, probabilidad y estadística. Para títulos italianos, al menos 10 CFU en el primer grupo de sectores publicado y 6 CFU en el segundo, además de nota mínima de 85/110. Inglés B2. Los títulos extranjeros siguen la vía de evaluación internacional indicada en el portal.",
+      "researchNote": "Combina matemática computacional, estadística, informática y finanzas. Incluye modelos estocásticos, aprendizaje automático para finanzas y laboratorios en Python. La tesis permite desarrollar investigación académica o un proyecto con una institución o empresa; las asignaturas iniciales compensan las diferencias entre los grados de procedencia.",
+      "eligibilityNote": "Los umbrales de créditos y 85/110 publicados por el departamento se refieren expresamente a títulos italianos: no se trasladan automáticamente a expedientes extranjeros. El departamento anuncia algunas becas pendientes de detalles; la admisión no garantiza financiación. Las prácticas y colaboraciones incluidas se limitan a Europa.",
+      "id": "88ecb9b7fee4c314134d",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/computational-finance",
+      "sourceId": "programme-88ecb9b7fee4c314134d",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:34.135Z",
+      "seenAt": "2026-09-20T18:59:34.135Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6713c2489424878b65d4673d78f0a5b7121318a3d5c4b4761f0bb950368dc2e2",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/computational-finance",
+        "method": "official-programme-page",
+        "researchUrl": "https://computationalfinance.math.unipd.it/study-plan/",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/computational-finance",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:34.135Z",
+            "contentHash": "6713c2489424878b65d4673d78f0a5b7121318a3d5c4b4761f0bb950368dc2e2"
+          },
+          {
+            "url": "https://computationalfinance.math.unipd.it/study-plan/",
+            "label": "Plan de estudios y tesis de investigación",
+            "checkedAt": "2026-09-20T21:48:08.751Z",
+            "contentHash": "fa38651a5fa1aea35cabec9a47ec946b4a3feb002028f4c9f1ebe93265c348ff"
+          },
+          {
+            "url": "https://computationalfinance.math.unipd.it/admission/",
+            "label": "Requisitos y vías de admisión",
+            "checkedAt": "2026-09-20T21:51:23.754Z",
+            "contentHash": "1a3cfce1f934d4b748944cf1dda507db98f76e373b75ed1c6f9c44080d7ca7d2"
+          }
+        ],
+        "checks": [
+          "Identidad y duración",
+          "Métodos e investigación",
+          "Admisión y financiación no garantizada"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/quantitative-and-computational-biosciences",
+      "title": "Laurea magistrale Quantitative and Computational Biosciences",
+      "fields": [
+        "Ciencia de datos",
+        "Estadística",
+        "Informática"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años, en modalidad semipresencial. Prácticas y tesis: 29 CFU en conjunto y al menos seis meses de actividad.",
+      "entry": "Grado de al menos tres años o equivalente en biología, biotecnología, química, física, matemáticas, informática, estadística o ingeniería. Nota mínima publicada de 95/110 o equivalente, con requisitos específicos de título y expediente según el país. Inglés B2 o equivalente.",
+      "researchNote": "Formación en métodos computacionales, estadística y análisis de grandes datos para ciencias biológicas. Las prácticas pueden desarrollarse en un laboratorio de Padua o en un centro colaborador con un proyecto de investigación supervisado. La normativa desglosa 14 CFU y 350 horas de prácticas más 15 CFU de trabajo final: unas 725 horas en conjunto. La tesis original se redacta y defiende en inglés.",
+      "eligibilityNote": "Los 29 CFU se cuentan una sola vez como bloque de prácticas y tesis: la misma normativa emplea también 29 CFU al describir el examen final. El acceso está sujeto a requisitos y evaluación, con una vía específica para títulos extranjeros. Solo se incluyen las estancias y colaboraciones cuyo destino esté en Europa.",
+      "id": "e1cca62016f9267805f7",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/quantitative-and-computational-biosciences",
+      "sourceId": "programme-e1cca62016f9267805f7",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:17.162Z",
+      "seenAt": "2026-09-20T18:59:17.162Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "602a8873f014d4f5c0345651e184f02278e904c47e7a39409fcf60476fdde63d",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/quantitative-and-computational-biosciences",
+        "method": "official-programme-page",
+        "researchUrl": "https://quacbio.biologia.unipd.it/current-students/more-details-on-how-to-graduate/",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/quantitative-and-computational-biosciences",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:17.162Z",
+            "contentHash": "602a8873f014d4f5c0345651e184f02278e904c47e7a39409fcf60476fdde63d"
+          },
+          {
+            "url": "https://quacbio.biologia.unipd.it/current-students/more-details-on-how-to-graduate/",
+            "label": "Prácticas de investigación, supervisión y tesis original",
+            "checkedAt": "2026-09-20T21:48:12.985Z",
+            "contentHash": "3bb04666a3ebfcbc1c8a0ac4069dafeaa1924583b9af6337e7b673a8ec648ee1"
+          },
+          {
+            "url": "https://quacbio.biologia.unipd.it/how-to-enrol/",
+            "label": "Titulaciones, expediente e inglés para la admisión",
+            "checkedAt": "2026-09-20T21:52:32.659Z",
+            "contentHash": "29a00e32234d82f0a17c32fc2092d6eb7a649954090042627d050c6f21efcf04"
+          }
+        ],
+        "checks": [
+          "Identidad y orientación computacional",
+          "Requisitos de admisión",
+          "Investigación y tesis"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/control-systems-engineering",
+      "title": "Laurea magistrale Control Systems Engineering",
+      "fields": [
+        "Machine learning",
+        "Informática",
+        "Matemáticas aplicadas",
+        "Ciencia de datos"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años. La presentación académica de 2026 desglosa 21 CFU de tesis y 9 de prácticas o formación investigadora.",
+      "entry": "Grado de al menos tres años o equivalente en ingeniería o campos relacionados, como matemáticas o física. Preparación adecuada en sistemas y control, ingeniería de la información, física y matemáticas; nota equivalente a al menos 84/110 e inglés B2 o equivalente.",
+      "researchNote": "Formación científica en modelización e identificación de sistemas, aprendizaje automático, estimación, optimización y control. El plan incorpora laboratorio de control, tesis y prácticas o formación investigadora; permite profundizar en inteligencia artificial, robótica, automatización industrial, sistemas y control o sistemas complejos. Los cursos incluyen aprendizaje profundo, refuerzo y cómputo de grandes datos.",
+      "eligibilityNote": "Las vías se agrupan en una sola titulación. La introducción del portal central aún menciona cuatro itinerarios; la página departamental y la presentación de 2026 describen cinco. El PDF presenta el bloque final como hasta 30 CFU y su tabla común lo desglosa en 21 de tesis y 9 de prácticas; comprobar el plan individual vigente. Los dobles títulos y las estancias solo se incluyen cuando se desarrollan en Europa.",
+      "id": "64728daf3de3036fedfc",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/control-systems-engineering",
+      "sourceId": "programme-64728daf3de3036fedfc",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:38.943Z",
+      "seenAt": "2026-09-20T18:59:38.943Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "975f9f388a921038e8dc2a8590666acfcaeb693f1315d193c54df20ed4363b0a",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/control-systems-engineering",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.dei.unipd.it/system/files/LM-CSE%40ScegliConNoi_2026_20260301.pdf",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/control-systems-engineering",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:38.943Z",
+            "contentHash": "975f9f388a921038e8dc2a8590666acfcaeb693f1315d193c54df20ed4363b0a"
+          },
+          {
+            "url": "https://www.dei.unipd.it/system/files/LM-CSE%40ScegliConNoi_2026_20260301.pdf",
+            "label": "Plan de 2026: tesis y formación investigadora",
+            "checkedAt": "2026-09-20T21:56:09.208Z",
+            "contentHash": "f68776cfe9f35487eea4e885abe5c7f2f9a044a387b3428c8ba7b67b2c273ddf"
+          },
+          {
+            "url": "https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/",
+            "label": "Requisitos y vías temáticas del departamento",
+            "checkedAt": "2026-09-20T21:52:03.214Z",
+            "contentHash": "4d35f420a272a56203c82e76bd04adc44b78651360261bec676e5b2e075356ad"
+          }
+        ],
+        "checks": [
+          "Identidad, sede y duración",
+          "Admisión y currículos",
+          "Tesis y métodos de investigación"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/ict-internet-and-multimedia",
+      "title": "Laurea magistrale ICT for Internet and Multimedia",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Ciencia de datos",
+        "Matemáticas aplicadas"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años, 120 ECTS en el plan enlazado de 2025; 21 ECTS de tesis y 9 de prácticas o formación investigadora.",
+      "entry": "Grado previo con al menos 50 ECTS en las disciplinas científicas indicadas, que incluyen matemáticas, probabilidad y estadística, física, informática y telecomunicaciones. Para títulos italianos, nota mínima de 84/110; una comisión verifica la equivalencia de títulos y expedientes extranjeros según el país. Inglés B2 en comprensión, acreditable por asignatura, certificado o grado impartido en inglés.",
+      "researchNote": "Combina fundamentos matemáticos y computacionales con redes, análisis multimedia, visión artificial, aprendizaje profundo, optimización y procesamiento de grandes datos. Incluye tesis y formación investigadora o prácticas. La vía Research and Innovation añade cursos basados en proyectos y formación orientada a laboratorios; se conserva como itinerario de este máster, no como un título adicional.",
+      "eligibilityNote": "Los créditos del trabajo final proceden de la presentación de 2025 que sigue enlazada desde el departamento; no se atribuyen a una normativa nueva de 2026. Las listas de itinerarios varían entre las páginas y no se cuentan como másteres separados. La admisión de títulos extranjeros requiere evaluación individual. Se incluyen únicamente las movilidades o dobles títulos con destino europeo, como la Universidad Politécnica de Madrid.",
+      "id": "93699a5095d73d64eea7",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/ict-internet-and-multimedia",
+      "sourceId": "programme-93699a5095d73d64eea7",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:24.083Z",
+      "seenAt": "2026-09-20T18:59:24.083Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "724f6fb4d3bf56608fed7a0b8096c63bb1258074894b11b48df8ee9f3be01cf0",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/ict-internet-and-multimedia",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.dei.unipd.it/system/files/LM_MIME_2025_final.pdf",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/ict-internet-and-multimedia",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:24.083Z",
+            "contentHash": "724f6fb4d3bf56608fed7a0b8096c63bb1258074894b11b48df8ee9f3be01cf0"
+          },
+          {
+            "url": "https://www.dei.unipd.it/system/files/LM_MIME_2025_final.pdf",
+            "label": "Presentación de 2025 enlazada por el departamento: investigación y tesis",
+            "checkedAt": "2026-09-20T21:56:21.136Z",
+            "contentHash": "05ef0eac62053b340f29795b96149a993ceeebab6fd5eb27f7fcf5f65aae604a"
+          },
+          {
+            "url": "https://degrees.dei.unipd.it/master-degrees/ict-for-internet-multimedia-mime/",
+            "label": "Requisitos, inglés y orientación investigadora",
+            "checkedAt": "2026-09-20T21:52:08.317Z",
+            "contentHash": "8514b6343a0b7e9c26570ce3e7b4f300cf9ec11a2658e1e0cb2872d659ce27fc"
+          }
+        ],
+        "checks": [
+          "Identidad, campus y orientación",
+          "Admisión y requisitos lingüísticos",
+          "Componente investigador y métodos"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/bioingegneria",
+      "title": "Laurea magistrale Bioingegneria",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "languages": [
+        "Italiano",
+        "Inglés"
+      ],
+      "duration": "Dos años; tesis de 24 CFU en la presentación de la cohorte 2025/26.",
+      "entry": "Grado previo, nota mínima publicada de 84/110 y conocimientos de inglés B2 en comprensión. Se exigen créditos en sectores disciplinares específicos, que deben comprobarse con el plan de acceso correspondiente. La documentación de 2025/26 utiliza titulaciones y sectores italianos; la equivalencia de títulos extranjeros necesita evaluación específica.",
+      "researchNote": "La vía de Modelos y Análisis de Datos Biomédicos incorpora métodos estadísticos, aprendizaje automático, ciencia de datos, modelos de sistemas biológicos y análisis de señales e imágenes. Otras vías incluyen neurociencia computacional y aprendizaje profundo para neurociencia y rehabilitación. La tesis de 24 CFU puede realizarse en la universidad o en un entorno de investigación y desarrollo.",
+      "eligibilityNote": "Las condiciones y los créditos detallados proceden de la presentación de junio de 2025, aún enlazada por el departamento, para la cohorte 2025/26. El programa continúa en el catálogo central, pero no se atribuye ese PDF a la cohorte 2026/27. Los cinco itinerarios se cuentan como un único máster; TRAMA destaca los que desarrollan métodos computacionales y cuantitativos. Las estancias y dobles títulos se limitan a destinos europeos.",
+      "id": "0de40f2bc7551d0342a2",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/bioingegneria",
+      "sourceId": "programme-0de40f2bc7551d0342a2",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:15.609Z",
+      "seenAt": "2026-09-20T18:59:15.609Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "cd5b22fb9b6e64844c2aaf21b73fe21e7ac7993f2f0977419c9023063c9ba945",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/bioingegneria",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.dei.unipd.it/system/files/Presentazione_%20giugno2025.pdf",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/bioingegneria",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:15.609Z",
+            "contentHash": "cd5b22fb9b6e64844c2aaf21b73fe21e7ac7993f2f0977419c9023063c9ba945"
+          },
+          {
+            "url": "https://www.dei.unipd.it/system/files/Presentazione_%20giugno2025.pdf",
+            "label": "Presentación de junio de 2025: admisión, planes y tesis",
+            "checkedAt": "2026-09-20T22:10:25.657Z",
+            "contentHash": "8e90ea11aa8bf4defd7750fe627cda5b92e25bfbba48efe9b09c9f801b85cf83"
+          },
+          {
+            "url": "https://lauree.dei.unipd.it/lauree-magistrali/bioingegneria/",
+            "label": "Página departamental y documento académico enlazado",
+            "checkedAt": "2026-09-20T21:51:59.259Z",
+            "contentHash": "57f4f92a5c76ad87329ec0e4a6acedc1aaae30eacb8879b45dc8f6a87c18b138"
+          }
+        ],
+        "checks": [
+          "Identidad y sede",
+          "Documento oficial enlazado",
+          "Admisión, investigación y edición del plan"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/mathematical-engineering",
+      "title": "Laurea magistrale Mathematical Engineering",
+      "fields": [
+        "Matemáticas aplicadas",
+        "Estadística"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años y al menos 120 CFU, con tesis original.",
+      "entry": "Grado de tres años o título reconocido como equivalente. El reglamento de 2026/27 admite las clases italianas L-7, L-8, L-9, L-30, L-31 y L-35, o al menos 25 CFU en los sectores de matemáticas, física y estadística indicados. Nota mínima de 84/110 o equivalente e inglés B2 en comprensión. Los títulos extranjeros se evalúan según los criterios de la comisión.",
+      "researchNote": "Formación en modelización matemática, cálculo científico, estadística y análisis de datos aplicados a ingeniería, física y finanzas. La tesis debe ser original, teórica, de diseño o experimental, con base matemática e ingenieril y contenido innovador; puede desarrollarse tras prácticas en una empresa, laboratorio universitario o entidad externa. Se escribe y defiende en inglés bajo supervisión.",
+      "eligibilityNote": "Un único título con dos currículos: Mathematical Modelling for Engineering and Science, de acceso sujeto a requisitos, y Financial Engineering, con plazas limitadas. Las vías no se suman como másteres distintos. Se ha comprobado el reglamento aplicable desde la cohorte 2026/27; las fechas y plazas de selección dependen de la convocatoria y del título de acceso. El alcance de las movilidades y dobles títulos se limita a Europa.",
+      "id": "445a7881a40b8e6ea5a2",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/mathematical-engineering",
+      "sourceId": "programme-445a7881a40b8e6ea5a2",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:27.364Z",
+      "seenAt": "2026-09-20T18:59:27.364Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "10b928acc481acb069d388c7282d669e9e6f8a59ea3f424403427df34b568fd6",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/mathematical-engineering",
+        "method": "official-programme-page",
+        "researchUrl": "https://dataweb.unipd.it/data/current/corso/IN2939/percorso_formativo.pdf",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/mathematical-engineering",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:27.364Z",
+            "contentHash": "10b928acc481acb069d388c7282d669e9e6f8a59ea3f424403427df34b568fd6"
+          },
+          {
+            "url": "https://dataweb.unipd.it/data/current/corso/IN2939/percorso_formativo.pdf",
+            "label": "Reglamento 2026/27: requisitos y tesis original",
+            "checkedAt": "2026-09-20T22:11:54.795Z",
+            "contentHash": "4accc8a62010d8a7111a00dd520b375c04c913f6de46b63f03337f9bcfb02aae"
+          },
+          {
+            "url": "https://www.unipd.it/en/ammissioni-ing-mathematical",
+            "label": "Admisión 2026/27 diferenciada por currículo",
+            "checkedAt": "2026-09-20T21:49:34.548Z",
+            "contentHash": "551ec711c563544747820928c7ef2a8a2772b4f2e1219bff24672be244adcd6e"
+          }
+        ],
+        "checks": [
+          "Identidad, sede y duración",
+          "Vías de admisión",
+          "Reglamento vigente, admisión y tesis"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/social-sciences-and-digital-data",
+      "title": "Laurea magistrale Social Sciences and Digital Data",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años, en modalidad semipresencial, con tesis original supervisada.",
+      "entry": "Acceso con plazas limitadas y evaluación de requisitos curriculares. La convocatoria de 2026/27 distingue títulos italianos, títulos extranjeros de candidatos europeos o equiparados y candidatos no europeos residentes fuera de Italia. Los requisitos detallados de titulación y créditos siguen pendientes de lectura de las bases; la página de admisión menciona acreditación lingüística B2 para la vía de título italiano.",
+      "researchNote": "Integra ciencias sociales y ciencia de datos, con métodos digitales, estadística, informática y aprendizaje automático. La tesis es un trabajo original desarrollado con supervisor, preferentemente basado en las prácticas, escrito y defendido en inglés. Las orientaciones piden formular preguntas, metodología y resultados esperados en una propuesta de investigación y defender el trabajo ante una comisión.",
+      "eligibilityNote": "Se ha verificado la existencia del programa y su tesis, pero no se declara una convocatoria abierta ni un umbral de créditos sin leer las bases específicas. Las guías de tesis están enlazadas desde el portal académico 2025/26. El reglamento describe un componente empírico sobre desarrollo local; debe comprobarse con el supervisor su aplicación al proyecto de datos propuesto. No se deduce que el 31 de julio, citado para acreditar el idioma, sea un plazo general de solicitud.",
+      "id": "be5a94b4a0a41e9d3d83",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/social-sciences-and-digital-data",
+      "sourceId": "programme-be5a94b4a0a41e9d3d83",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:32.186Z",
+      "seenAt": "2026-09-20T18:59:32.186Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "1759f3eabc7a29f016d138505180e275e9bef5b378086be2815c59cd9853eb10",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/social-sciences-and-digital-data",
+        "method": "official-programme-page",
+        "researchUrl": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/LM_thesis_GD.pdf",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/social-sciences-and-digital-data",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:32.186Z",
+            "contentHash": "1759f3eabc7a29f016d138505180e275e9bef5b378086be2815c59cd9853eb10"
+          },
+          {
+            "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/LM_thesis_GD.pdf",
+            "label": "Guía de tesis original y propuesta de investigación",
+            "checkedAt": "2026-09-20T22:11:55.895Z",
+            "contentHash": "062ae3b3d018c150c32a13d9bd680e54b17c9be8e7a64854dac30bcf6706f016"
+          },
+          {
+            "url": "https://www.unipd.it/ammissioni-scu-social-science-digital-data",
+            "label": "Vías de admisión de 2026/27",
+            "checkedAt": "2026-09-20T22:11:53.191Z",
+            "contentHash": "3da9010a00252fb416079c6d7c619134981338af44c562750c705b485e8da286"
+          },
+          {
+            "url": "https://ssu.elearning.unipd.it/pluginfile.php/1441085/mod_label/intro/Regulations%20for%20the%20Degree%20Examination%20of%20the%20Master%E2%80%99s%20Degree%20Programme%20in%20Social%20Sciences%20and%20Digital%20Data.pdf",
+            "label": "Reglamento de la prueba final y alcance del componente empírico",
+            "checkedAt": "2026-09-20T22:09:30.419Z",
+            "contentHash": "2aac4c91767e564881ab208a3b9b9cc3ce7988a76649e0108df47ae7e8fa3e4e"
+          }
+        ],
+        "checks": [
+          "Identidad, sede y disciplinas",
+          "Admisión y límites de la evidencia",
+          "Tesis y propuesta de investigación",
+          "Descripción específica del componente empírico"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "master",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/electronic-engineering",
+      "title": "Laurea magistrale Electronic Engineering",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Dos años, con tesis original supervisada.",
+      "entry": "El catálogo central declara acceso libre sujeto a requisitos. Los mínimos de titulación previa, créditos, nota e idioma deben comprobarse en la convocatoria aplicable; las páginas verificadas para esta ficha no permiten publicarlos con detalle.",
+      "researchNote": "La página departamental incluye la vía Electronics and AI systems y formación que combina diseño de hardware y software. Las instrucciones comunes de fin de máster del departamento incluyen explícitamente Electronic Engineering: exigen una tesis original supervisada, sobre un proyecto de investigación o desarrollo, escrita y defendida en inglés. Puede realizarse con empresas, entidades de investigación o administraciones.",
+      "eligibilityNote": "TRAMA destaca las líneas de informática e inteligencia artificial de este programa; no extiende su ámbito a toda la electrónica o fotónica. Se cuenta una titulación, sin duplicar sus seis vías. El documento de presentación enlazado por el departamento devuelve 404; la tesis se acredita mediante las instrucciones académicas públicas, y los requisitos de acceso detallados quedan pendientes. Las estancias y dobles títulos se limitan a destinos europeos.",
+      "id": "35df24707881d7543b81",
+      "applyUrl": "https://www.unipd.it/it/corsi-di-laurea/electronic-engineering",
+      "sourceId": "programme-35df24707881d7543b81",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T18:59:22.177Z",
+      "seenAt": "2026-09-20T18:59:22.177Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "ca9444bae383b9e8332fcd39aadba36e18e171cca2d2760c44b8afd6f339a2d6",
+        "checkedUrl": "https://www.unipd.it/corsi-di-laurea/electronic-engineering",
+        "method": "official-programme-page",
+        "researchUrl": "https://stem.elearning.unipd.it/mod/book/tool/print/index.php?id=234",
+        "references": [
+          {
+            "url": "https://www.unipd.it/corsi-di-laurea/electronic-engineering",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T18:59:22.177Z",
+            "contentHash": "ca9444bae383b9e8332fcd39aadba36e18e171cca2d2760c44b8afd6f339a2d6"
+          },
+          {
+            "url": "https://stem.elearning.unipd.it/mod/book/tool/print/index.php?id=234",
+            "label": "Instrucciones de tesis de los másteres del DEI: incluye Electronic Engineering",
+            "checkedAt": "2026-09-20T22:13:55.274Z",
+            "contentHash": "16e458f951995fdf73cd7856b719e2457af75699fbc9861d2f61d58a7754df54"
+          },
+          {
+            "url": "https://degrees.dei.unipd.it/master-degrees/electronic-engineering/",
+            "label": "Vía Electronics and AI systems y orientación del programa",
+            "checkedAt": "2026-09-20T21:52:06.369Z",
+            "contentHash": "ea2fcdfa3276f525a4f40061b084d5e5ab5920facb8d6471734d1424d91e3531"
+          }
+        ],
+        "checks": [
+          "Identidad, sede y acceso",
+          "Vía computacional e inteligencia artificial",
+          "Normativa común aplicable a este máster"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "doctorado",
+      "url": "https://www.unipd.it/it/dottoratoscheda/scienze-statistiche",
+      "title": "Dottorato in Scienze Statistiche",
+      "fields": [
+        "Estadística",
+        "Ciencia de datos"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Tres años; inicio del 42.º ciclo el 1 de noviembre de 2026.",
+      "entry": "Título italiano de segundo ciclo o ciclo único, o título extranjero equivalente de al menos cuatro años; se presuponen conocimientos cuantitativos. En la convocatoria ordinaria de 2026 se permitía solicitar antes de terminar el título, siempre que se obtuviese antes del 30 de septiembre. Selección por expediente y entrevista, con hasta dos cartas de referencia.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "La convocatoria ordinaria de 2026/27 anunció nueve plazas con beca durante tres años, sujeta a progreso satisfactorio. Cuantía vigente por confirmar: el departamento conserva 18.643 € brutos anuales y la convocatoria central anuncia un aumento de la beca para este ciclo."
+      },
+      "researchNote": "Primer año con formación en análisis funcional, probabilidad, programación para análisis de datos, teoría estadística y modelización. En los años segundo y tercero se desarrolla investigación original con supervisor asignado; la tesis puede escribirse en italiano o inglés. El programa permite investigación con los departamentos asociados de Venecia y Udine y estancias externas de hasta doce meses.",
+      "eligibilityNote": "La convocatoria ordinaria cerró el 20 de mayo de 2026 a las 13:00 CEST. La ronda adicional de verano cerró el 26 de agosto a las 13:00. Las nueve becas corresponden a la ronda ordinaria ya cerrada y no representan vacantes disponibles hoy. Las fuentes departamentales y centrales no permiten reconciliar todavía el importe actualizado de 2026/27. Las movilidades incluidas en TRAMA se limitan a Europa.",
+      "id": "daa35549161e619bd1d1",
+      "applyUrl": "https://www.unipd.it/it/dottoratoscheda/scienze-statistiche",
+      "sourceId": "programme-daa35549161e619bd1d1",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T19:10:14.951Z",
+      "seenAt": "2026-09-20T19:10:14.951Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "ec48a9e42c2cf40a5a234f2b7e323d178bf2f371a8571f7563886eefd02975ff",
+        "checkedUrl": "https://www.unipd.it/dottoratoscheda/scienze-statistiche",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.unipd.it/dottoratoscheda/scienze-statistiche",
+        "references": [
+          {
+            "url": "https://www.unipd.it/dottoratoscheda/scienze-statistiche",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T19:10:14.951Z",
+            "contentHash": "ec48a9e42c2cf40a5a234f2b7e323d178bf2f371a8571f7563886eefd02975ff"
+          },
+          {
+            "url": "https://www.stat.unipd.it/ricerca/dottorato-di-ricerca",
+            "label": "Estructura de investigación, tesis y centros asociados",
+            "checkedAt": "2026-09-20T21:41:33.887Z",
+            "contentHash": "174127ca2d2c03633e3f5ecd638d6b56cadf6c23372e3d33e931066599417ecb"
+          },
+          {
+            "url": "https://www.stat.unipd.it/ricerca/ammissione",
+            "label": "Admisión y becas del 42.º ciclo",
+            "checkedAt": "2026-09-20T21:45:49.427Z",
+            "contentHash": "a48800a00c8844d897951d2406e8ecde1d7bbaa0006ec10bba88c70cce971368"
+          },
+          {
+            "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo",
+            "label": "Convocatoria central y aviso de aumento de la beca",
+            "checkedAt": "2026-09-20T21:17:01.984Z",
+            "contentHash": "4fc178ced61092d6b7f7a08378b1627cf722a57f21626fd016d95eef4ebc579b"
+          },
+          {
+            "url": "https://www.unipd.it/dottorato/dottorati-42-ciclo-estivo",
+            "label": "Ronda adicional de verano de 2026",
+            "checkedAt": "2026-09-20T21:17:00.805Z",
+            "contentHash": "603c0b5da3a097c08b89606b389f066b0d1e5a4dcb6522029bb449d65749e7e9"
+          }
+        ],
+        "checks": [
+          "Identidad y duración",
+          "Investigación y supervisión",
+          "Admisión 2026/27",
+          "Discrepancia de cuantía vigente",
+          "Ronda adicional cerrada"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "doctorado",
+      "url": "https://www.unipd.it/it/dottoratoscheda/brain-mind-computer-science",
+      "title": "PhD in Brain, Mind and Computer Science",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Tres años; estancia de investigación en el extranjero de al menos tres meses.",
+      "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección.",
+      "researchNote": "Doctorado interdisciplinar con vías de neurociencia, tecnología y sociedad, e informática para retos sociales e innovación. El ámbito de TRAMA abarca aprendizaje automático, big data, visión artificial, procesamiento del lenguaje, seguridad, computación distribuida y verificación de software. Cada estudiante recibe también supervisión del otro currículo y el proyecto se evalúa anualmente. En los dos primeros años se exigen siete exámenes obligatorios y al menos 150 horas de cursos.",
+      "eligibilityNote": "El nivel C de inglés figura como objetivo que debe alcanzarse antes de acabar el tercer año; no se presenta como requisito de acceso. La estancia obligatoria debe elegirse con destino europeo para mantenerse dentro del ámbito de TRAMA. Se publica la existencia del programa; las plazas, becas y fechas vigentes deben comprobarse en la convocatoria específica.",
+      "id": "e201a280686dce4ec267",
+      "applyUrl": "https://www.unipd.it/it/dottoratoscheda/brain-mind-computer-science",
+      "sourceId": "programme-e201a280686dce4ec267",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T19:10:07.126Z",
+      "seenAt": "2026-09-20T19:10:07.126Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "acf3a55a5c7df18791a9bab86a620608d15cfa33b7e6ea11fc244dcce3c2c8b3",
+        "checkedUrl": "https://www.unipd.it/dottoratoscheda/brain-mind-computer-science",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.unipd.it/dottoratoscheda/brain-mind-computer-science",
+        "references": [
+          {
+            "url": "https://www.unipd.it/dottoratoscheda/brain-mind-computer-science",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T19:10:07.126Z",
+            "contentHash": "acf3a55a5c7df18791a9bab86a620608d15cfa33b7e6ea11fc244dcce3c2c8b3"
+          },
+          {
+            "url": "https://www.unipd.it/en/dottorato",
+            "label": "Requisito general de acceso al doctorado de Padua",
+            "checkedAt": "2026-09-20T21:56:52.101Z",
+            "contentHash": "0a198e767fa09d3692b2fb671285a6259bcd09606aaedb9bca16c5b6926a06f4"
+          }
+        ],
+        "checks": [
+          "Requisito general de acceso",
+          "Programa, investigación y formación"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "doctorado",
+      "url": "https://www.unipd.it/it/dottoratoscheda/scienze-matematiche",
+      "title": "PhD in Mathematical Sciences",
+      "fields": [
+        "Matemáticas aplicadas",
+        "Ciencia de datos"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Tres años.",
+      "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "El programa contempla becas cuyo número varía por edición. La ficha institucional no acredita un número de plazas abiertas ni la cuantía vigente de una convocatoria concreta."
+      },
+      "researchNote": "La vía de Matemática Computacional incluye finanzas matemáticas, análisis numérico, optimización y probabilidad. El programa combina investigación especializada con seminarios y formación amplia: durante los dos primeros años se deben cursar al menos seis asignaturas y aprobar el examen de al menos cuatro. También contempla métodos matemáticos para ciencia de datos.",
+      "eligibilityNote": "La ficha central presenta Matemáticas y Matemática Computacional como dos currículos de un mismo doctorado; se cuenta una sola vez. TRAMA destaca las líneas aplicadas y computacionales, sin extender su ámbito a toda la matemática pura. La web departamental utiliza la expresión «two doctoral degrees»; se conserva la identidad única del registro central.",
+      "id": "e5b9fc015bcb068ca8f0",
+      "applyUrl": "https://www.unipd.it/it/dottoratoscheda/scienze-matematiche",
+      "sourceId": "programme-e5b9fc015bcb068ca8f0",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T19:10:13.152Z",
+      "seenAt": "2026-09-20T19:10:13.152Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "f152b6e4fe6716356ba095c8c83fc3d9d8cb0019690be8df5bd0aa20e8e90031",
+        "checkedUrl": "https://www.unipd.it/dottoratoscheda/scienze-matematiche",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.unipd.it/dottoratoscheda/scienze-matematiche",
+        "references": [
+          {
+            "url": "https://www.unipd.it/dottoratoscheda/scienze-matematiche",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T19:10:13.152Z",
+            "contentHash": "f152b6e4fe6716356ba095c8c83fc3d9d8cb0019690be8df5bd0aa20e8e90031"
+          },
+          {
+            "url": "https://www.unipd.it/en/dottorato",
+            "label": "Requisito general de acceso al doctorado de Padua",
+            "checkedAt": "2026-09-20T21:56:52.101Z",
+            "contentHash": "0a198e767fa09d3692b2fb671285a6259bcd09606aaedb9bca16c5b6926a06f4"
+          },
+          {
+            "url": "https://dottorato.math.unipd.it/",
+            "label": "Áreas de investigación matemática y computacional",
+            "checkedAt": "2026-09-20T21:41:37.552Z",
+            "contentHash": "07262e39f567de6f18512883482e1f72188163b0d1b36f57dab2db6342e0d093"
+          }
+        ],
+        "checks": [
+          "Requisito general de acceso",
+          "Identidad, currículos y formación",
+          "Líneas aplicadas y discrepancia de denominación"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "doctorado",
+      "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-informazione",
+      "title": "PhD in Information Engineering",
+      "fields": [
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Tres años.",
+      "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección. La ronda adicional de julio de 2026 evaluó el currículo y la propuesta de investigación; exigió al menos 35/50 para acceder a entrevista y una presentación de diez minutos sobre motivación y proyecto.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "La beca y sus condiciones dependen de la plaza. El departamento publica un presupuesto personal para actividad investigadora de unos 4.000–4.500 €, variable según el ciclo, y una ayuda de movilidad de 1.000 € para los tres años, sujeta a disponibilidad. Estos importes son apoyos de investigación, no un sueldo anual."
+      },
+      "researchNote": "Investigación en informática, automatización, investigación operativa, telecomunicaciones y métodos de ingeniería de la información. El programa integra al estudiante en un grupo de investigación del departamento y articula dos currículos, Bioingeniería y Ciencia y Tecnología de la Información. Exige al menos 80 horas de formación específica en tres años, cuatro horas de seminarios transversales y ocho de formación transversal de la universidad.",
+      "eligibilityNote": "La convocatoria adicional de julio de 2026 está cerrada y su evaluación ha terminado; el umbral y la presentación descritos corresponden a esa ronda. El presupuesto de investigación de 4.000–4.500 € no se anuncia como pago anual ni como beca de manutención; algunos programas específicos tienen límites distintos. TRAMA recoge las líneas computacionales y de matemática aplicada; no todas las líneas de bioingeniería o electrónica pertenecen a su ámbito.",
+      "id": "4bbadc93a299e3cfb0a3",
+      "applyUrl": "https://www.unipd.it/it/dottoratoscheda/ingegneria-informazione",
+      "sourceId": "programme-4bbadc93a299e3cfb0a3",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T19:10:09.286Z",
+      "seenAt": "2026-09-20T19:10:09.286Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "5317fad8747118d568b07b4eb77c922b80fc0022c3d5693507f0dc866005fa16",
+        "checkedUrl": "https://www.unipd.it/dottoratoscheda/ingegneria-informazione",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.unipd.it/dottoratoscheda/ingegneria-informazione",
+        "references": [
+          {
+            "url": "https://www.unipd.it/dottoratoscheda/ingegneria-informazione",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T19:10:09.286Z",
+            "contentHash": "5317fad8747118d568b07b4eb77c922b80fc0022c3d5693507f0dc866005fa16"
+          },
+          {
+            "url": "https://www.unipd.it/en/dottorato",
+            "label": "Requisito general de acceso al doctorado de Padua",
+            "checkedAt": "2026-09-20T21:56:52.101Z",
+            "contentHash": "0a198e767fa09d3692b2fb671285a6259bcd09606aaedb9bca16c5b6926a06f4"
+          },
+          {
+            "url": "https://phd.dei.unipd.it/call-for-admission-july-2026/",
+            "label": "Ronda adicional de julio de 2026, cerrada",
+            "checkedAt": "2026-09-20T21:45:55.342Z",
+            "contentHash": "5690e6ae839778cf60897edbbdb2d976ff2a5735f74dc79e508dd4f7c74318bd"
+          },
+          {
+            "url": "https://phd.dei.unipd.it/student-funding-support/",
+            "label": "Presupuestos de investigación y movilidad, distintos de la beca",
+            "checkedAt": "2026-09-20T21:48:04.649Z",
+            "contentHash": "62ff525790e3980ad724162e717605b916d839e64b95e894998514db076baa65"
+          }
+        ],
+        "checks": [
+          "Requisito general de acceso",
+          "Identidad, disciplina y formación",
+          "Selección de la ronda cerrada",
+          "Apoyo para gastos, sin confundir con salario"
+        ]
+      }
+    },
+    {
+      "institution": "University of Padua",
+      "country": "IT",
+      "kind": "programme",
+      "stage": "doctorado",
+      "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+      "title": "PhD in Mechatronics and Product Innovation Engineering",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Matemáticas aplicadas"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "Tres años; programa vinculado al polo universitario de Vicenza.",
+      "entry": "Máster previo y superación del examen de admisión convocado anualmente. La convocatoria de cada ciclo determina la equivalencia de títulos, los requisitos adicionales y las modalidades de selección.",
+      "researchNote": "El programa integra investigación en materiales, mecatrónica e instalaciones y logística. Dentro del ámbito de TRAMA, las líneas pertinentes incluyen algoritmos de control, simulación, inteligencia artificial, visión computacional para robótica autónoma, estimación de estados y modelización y optimización de redes logísticas. Las tesis pueden combinar métodos de varias disciplinas.",
+      "eligibilityNote": "Se cuenta un doctorado con tres currículos. Su presencia en TRAMA no incluye automáticamente proyectos de materiales o ingeniería mecánica que carezcan de una contribución computacional o de matemática aplicada. Financiación, proyectos disponibles y requisitos particulares quedan sujetos a la convocatoria del ciclo; no se declara una plaza abierta sin comprobarla.",
+      "id": "2376cad8011b4d230818",
+      "applyUrl": "https://www.unipd.it/it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+      "sourceId": "programme-2376cad8011b4d230818",
+      "sourceName": "University of Padua",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T19:10:11.205Z",
+      "seenAt": "2026-09-20T19:10:11.205Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6b6fa7d65475f63f51fac9a4ca899e6068d084b8e508c78690c4b071b4e521b3",
+        "checkedUrl": "https://www.unipd.it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.unipd.it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+        "references": [
+          {
+            "url": "https://www.unipd.it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T19:10:11.205Z",
+            "contentHash": "6b6fa7d65475f63f51fac9a4ca899e6068d084b8e508c78690c4b071b4e521b3"
+          },
+          {
+            "url": "https://www.unipd.it/en/dottorato",
+            "label": "Requisito general de acceso al doctorado de Padua",
+            "checkedAt": "2026-09-20T21:56:52.101Z",
+            "contentHash": "0a198e767fa09d3692b2fb671285a6259bcd09606aaedb9bca16c5b6926a06f4"
+          },
+          {
+            "url": "https://orientamentodtg.gest.unipd.it/en/phd-program-in-mechatronics-and-product-innovation-engineering/",
+            "label": "Sede, currículos y líneas computacionales del departamento",
+            "checkedAt": "2026-09-20T21:56:33.536Z",
+            "contentHash": "ec9740b8720b20de696d10b6fdd42517c240c5710803e193fbcd5880dbfc22df"
+          }
+        ],
+        "checks": [
+          "Requisito general de acceso",
+          "Identidad, sede y métodos",
+          "Investigación computacional y optimización"
+        ]
+      }
     }
   ],
   "sources": [
@@ -237990,173 +239156,370 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-2bb1d3e00001cdee93c9",
+      "name": "University of Padua · Laurea magistrale Physics of Data",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/physics-data",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:25.892Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-0f25e97e5ebbf2c7596d",
+      "name": "University of Padua · Laurea magistrale Scienze Statistiche",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/scienze-statistiche",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:30.515Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-43831864eea19c66652a",
+      "name": "University of Padua · Laurea magistrale Cybersecurity",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/cybersecurity",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:18.764Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-070b6499f2484f665164",
+      "name": "University of Padua · Laurea magistrale Mathematics",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/mathematics",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:28.875Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-88ecb9b7fee4c314134d",
+      "name": "University of Padua · Laurea magistrale Computational Finance",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/computational-finance",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:34.135Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-e1cca62016f9267805f7",
+      "name": "University of Padua · Laurea magistrale Quantitative and Computational Biosciences",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/quantitative-and-computational-biosciences",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:17.162Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-64728daf3de3036fedfc",
+      "name": "University of Padua · Laurea magistrale Control Systems Engineering",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/control-systems-engineering",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:38.943Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-93699a5095d73d64eea7",
+      "name": "University of Padua · Laurea magistrale ICT for Internet and Multimedia",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/ict-internet-and-multimedia",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:24.083Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-0de40f2bc7551d0342a2",
+      "name": "University of Padua · Laurea magistrale Bioingegneria",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/bioingegneria",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:15.609Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-445a7881a40b8e6ea5a2",
+      "name": "University of Padua · Laurea magistrale Mathematical Engineering",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/mathematical-engineering",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:27.364Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-be5a94b4a0a41e9d3d83",
+      "name": "University of Padua · Laurea magistrale Social Sciences and Digital Data",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/social-sciences-and-digital-data",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:32.186Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-35df24707881d7543b81",
+      "name": "University of Padua · Laurea magistrale Electronic Engineering",
+      "url": "https://www.unipd.it/it/corsi-di-laurea/electronic-engineering",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T18:59:22.177Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-daa35549161e619bd1d1",
+      "name": "University of Padua · Dottorato in Scienze Statistiche",
+      "url": "https://www.unipd.it/it/dottoratoscheda/scienze-statistiche",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T19:10:14.951Z",
+        "pages": 5,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-e201a280686dce4ec267",
+      "name": "University of Padua · PhD in Brain, Mind and Computer Science",
+      "url": "https://www.unipd.it/it/dottoratoscheda/brain-mind-computer-science",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T19:10:07.126Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-e5b9fc015bcb068ca8f0",
+      "name": "University of Padua · PhD in Mathematical Sciences",
+      "url": "https://www.unipd.it/it/dottoratoscheda/scienze-matematiche",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T19:10:13.152Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-4bbadc93a299e3cfb0a3",
+      "name": "University of Padua · PhD in Information Engineering",
+      "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-informazione",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T19:10:09.286Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-2376cad8011b4d230818",
+      "name": "University of Padua · PhD in Mechatronics and Product Innovation Engineering",
+      "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "IT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T19:10:11.205Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "4ad69ed1-e2d2-44e8-baf9-9d1590f2768d",
+    "id": "178e0e83-ac73-435e-af8f-5345b978616c",
     "type": "programme-verification",
-    "parentRunId": "024e3141-d441-42c4-9e22-a8d150a50575",
-    "startedAt": "2026-09-20T21:10:22.053Z",
-    "finishedAt": "2026-09-20T21:10:26.448Z",
+    "parentRunId": "4ad69ed1-e2d2-44e8-baf9-9d1590f2768d",
+    "startedAt": "2026-09-20T22:19:17.134Z",
+    "finishedAt": "2026-09-20T22:19:20.945Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-00c5020e7c68615afcc5",
-        "name": "Research Council of Finland · RCF — Academy Project Funding",
-        "url": "https://www.aka.fi/en/research-funding/funding-opportunities2/spark-funding/academy-project-funding/",
+        "id": "programme-2bb1d3e00001cdee93c9",
+        "name": "University of Padua · Laurea magistrale Physics of Data",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/physics-data",
         "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
+        "type": "institution",
+        "scope": "IT",
         "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T19:43:39.477Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8e2ef28b6d0072eaeb5e",
-        "name": "Research Council of Finland · RCF — Academy Research Fellowship",
-        "url": "https://www.aka.fi/en/research-funding/funding-opportunities2/spark-funding/academy-research-fellowship/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T19:43:39.477Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0eea5979c81ab38647ea",
-        "name": "Research Council of Finland · RCF — Proof of Concept Funding",
-        "url": "https://www.aka.fi/en/research-funding/funding-opportunities2/shift-funding/proof-of-concept-funding/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:46.564Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5b484f9a720fcb8dff86",
-        "name": "Research Council of Finland · RCF — EuroHPC matching funds · 2026",
-        "url": "https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-research-teams/2026-eurohpc-matching-funds-call-for-invited-applicants/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:47.420Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ea7a18a3f022849601bc",
-        "name": "Finnish Cultural Foundation · Finnish Cultural Foundation — General Working and Expenditure Grants",
-        "url": "https://skr.fi/en/grant/general-working-and-expenditure-grants/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "doctorado",
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:57.083Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0a3999ae166823094ba5",
-        "name": "Finnish Cultural Foundation · Finnish Cultural Foundation — gastos de tesis de grado o máster",
-        "url": "https://skr.fi/en/grant/core-studies-in-research-science-and-the-arts-and-purposes-that-promote-professional-goals/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "grado",
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T20:11:58.532Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-82808fcc4b9d47d3268e",
-        "name": "Finnish Cultural Foundation · Finnish Cultural Foundation — Returnee Funding for Finnish Postdoctoral Researchers",
-        "url": "https://skr.fi/en/grant/return-grant-for-finnish-phd-graduates/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:12:01.499Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-23dd79a0783c75c11029",
-        "name": "Jane and Aatos Erkko Foundation · Jane and Aatos Erkko Foundation — proyectos de investigación",
-        "url": "https://jaes.fi/en/for-applicants/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T19:43:43.573Z",
+          "checkedAt": "2026-09-20T18:59:25.892Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -238164,891 +239527,19 @@
         }
       },
       {
-        "id": "programme-eb31857ca324a73baca4",
-        "name": "Knut and Alice Wallenberg Foundation · KAW — Guest Professors in Mathematics",
-        "url": "https://kaw.wallenberg.org/en/nomination-guest-professors-mathematics-cloned",
+        "id": "programme-0f25e97e5ebbf2c7596d",
+        "name": "University of Padua · Laurea magistrale Scienze Statistiche",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/scienze-statistiche",
         "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
+        "type": "institution",
+        "scope": "IT",
         "stages": [
-          "faculty"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T19:43:49.572Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-287864e8785435d52ac9",
-        "name": "Knut and Alice Wallenberg Foundation · KAW — financiación de postdocs de matemáticas procedentes del extranjero",
-        "url": "https://kaw.wallenberg.org/en/postdoctoral-scholarship-program-mathematics-researchers-outside-sweden-cloned",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T19:43:49.572Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5327caef8c1184d480a7",
-        "name": "Knut and Alice Wallenberg Foundation · KAW — Mathematics Postdoctoral Scholarship for Swedish Doctorates",
-        "url": "https://kaw.wallenberg.org/en/postdoctoral-scholarship-program-mathematics-researchers-swedish-doctors-degree-cloned",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T19:43:49.572Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-35089a20d5cff59226c8",
-        "name": "Knut and Alice Wallenberg Foundation · KAW — Research Projects with High Scientific Potential",
-        "url": "https://kaw.wallenberg.org/en/calls/2028-research-projects-high-scientific-potential",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:51.119Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ebda27564a39016d4cc4",
-        "name": "Knut and Alice Wallenberg Foundation · Wallenberg Academy Fellows",
-        "url": "https://kaw.wallenberg.org/en/calls/2028-nomination-wallenberg-academy-fellows-program",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:51.921Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7373b0627860f1252ce2",
-        "name": "Knut and Alice Wallenberg Foundation · KAW — Proof of Concept in AI, Quantum Technologies or ICT",
-        "url": "https://kaw.wallenberg.org/en/calls/proof-concept-grants-ai-quantum-technologies-or-ict",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:50.317Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-adf87fa293bd157f07f8",
-        "name": "Finnish Cultural Foundation · Finnish Foundations’ Post Doc Pool",
-        "url": "https://postdocpooli.fi/en/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:12:00.813Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7d90e861663374b0ba97",
-        "name": "Swedish Research Council · VR — Starting Grant in Natural and Engineering Sciences",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-starting-grant-within-natural-and-engineering-sciences.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:12.591Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-98ec726b41a3176f20ad",
-        "name": "Swedish Research Council · VR — Research Project Grant in Natural and Engineering Sciences",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-research-project-grant-within-natural-and-engineering-sciences.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:13.403Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-93f9c291c1048626ac15",
-        "name": "Swedish Research Council · VR — Exploratory Grant in Groundbreaking Research",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-06-03-exploratory-grant-in-groundbreaking-research.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:05.382Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2d2c9312b0e7294e9d86",
-        "name": "Swedish Research Council · VR — Recruiting International Visiting Researchers to Sweden",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-24-grant-for-recruiting-international-visiting-researchers-to-sweden-2026.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:04.807Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-738492513980dc338b06",
-        "name": "Swedish Research Council · VR — Strategic Recruitment of Associate Senior Lecturers",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-strategic-recruitment-of-associate-senior-lecturers-2.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:06.219Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fd9d0d67418be1dee4d6",
-        "name": "Swedish Research Council · VR — Centre of Excellence",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-grant-for-centre-of-excellence.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:14.155Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fa301d7cfb6c7da3bb4d",
-        "name": "Swedish Research Council · VR–MAECI — colaboración Italia–Suecia en tecnologías cuánticas y solares",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-04-22-project-grant-for-research-collaboration-between-italy-and-sweden-in-quantum-and-solar-technologies.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:06.951Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e3d50e34c88b787416b0",
-        "name": "Swedish Research Council · VR–NRF — IA para ciencias de la vida: colaboración Suecia–Corea",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-01-27-project-grant-for-research-collaboration-between-south-korea-and-sweden.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:11.805Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-085be52702e2b4083c0d",
-        "name": "Swedish Research Council · VR — Accessibility to Research Infrastructure",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-02-23-grant-for-accessibility-to-infrastructure.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:10.228Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-209f3acba99bdc2fa629",
-        "name": "Swedish Research Council · VR–Vinnova — Excellence Clusters for Groundbreaking Technologies",
-        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-02-04-excellence-clusters-for-groundbreaking-technologies.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:07.812Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6a4ed1050d41b978b4ba",
-        "name": "Independent Research Fund Denmark · DFF — Sapere Aude: Research Leader",
-        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2026/oktober/sapere-aude-dff-research-leader-e26/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T16:37:31.823Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-23a54423018720756787",
-        "name": "Independent Research Fund Denmark · DFF — Research Project 2",
-        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2026/oktober/dff-research-project2-e26/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T16:37:31.823Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1324ae087ae31d9994da",
-        "name": "Independent Research Fund Denmark · DFF — Research Project 1",
-        "url": "https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/maj/dff-research-project1-f26/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T16:37:31.823Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c95a8002a8293a5b0113",
-        "name": "Independent Research Fund Denmark · DFF — Non-university Research Education (PhD)",
-        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2026/september/non-university-research-education-phd-e26/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T16:37:31.823Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-81bd0e073190d0da0d6e",
-        "name": "Independent Research Fund Denmark · DFF — Inge Lehmann Programme",
-        "url": "https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/juni/the-inge-lehmann-programme/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:35:50.431Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c69cab5070e5daf92c44",
-        "name": "Independent Research Fund Denmark · DFF — Research on Artificial Intelligence",
-        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2027/februar/research-on-artificial-intelligence-2027/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:16.347Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-30d417414e2ea37007b4",
-        "name": "Independent Research Fund Denmark · DFF — Green Research",
-        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2027/februar/green-research-2027/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:17.193Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a4bab6e37ceebe4d70ba",
-        "name": "Independent Research Fund Denmark · DFF — Research on Artificial Intelligence in the Cancer Field",
-        "url": "https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/juni/research-on-artificial-intelligence-in-the-cancer-field/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:35:55.188Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9f0a3c1bd46a61846c50",
-        "name": "Innovation Fund Denmark · Innovation Fund Denmark — Industrial PhD",
-        "url": "https://danmarksinnovationsfond.dk/wp-content/uploads/2026/08/Industrial-ph.d.-Guidelines-07.07.2026.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T19:44:00.645Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-11e0afe77ad29acdc6ab",
-        "name": "Innovation Fund Denmark · Innovation Fund Denmark — Industrial Postdoc",
-        "url": "https://danmarksinnovationsfond.dk/wp-content/uploads/2026/08/Industrial-postdoc-Guidelines-07.07.2026.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T19:44:00.645Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-857a296ae0f4842d4db6",
-        "name": "Research Council of Norway · RCN — FRIPRO Researcher Project for Early Career Scientists",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/researcher-project-early-career-scientists-fripro/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:21.969Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-40e0008f69cbb10fba3b",
-        "name": "Research Council of Norway · RCN — Radical Research Ideas for Early Career Scientists",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/radical-research-ideas-early-career-scientists/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:22.422Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8ce998daf7db12ceea49",
-        "name": "Research Council of Norway · RCN — FRIPRO Researcher Project for Experienced Scientists",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/researcher-project-experienced-scientists-fripro/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:23.998Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0e3f51d7a526180e2e5d",
-        "name": "Research Council of Norway · RCN — Top Researchers: World Leading Research Communities",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/top-researchers-researcher-projects-world-leading-communities/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:23.145Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-aaebc86cff31dd5f8d07",
-        "name": "Research Council of Norway · RCN — Breakthrough Enabling Technologies",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/breakthrough-enabling-technologies/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:21.067Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1f8d4d63ef8410a690e1",
-        "name": "Research Council of Norway · RCN — Research Stays Abroad for Doctoral and Postdoctoral Fellows",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/funding-research-stays-abroad/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "doctorado",
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:27.159Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4aa622cbe806636a7903",
-        "name": "Research Council of Norway · RCN — Aurora: movilidad científica Noruega–Francia",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/the-aurora-mobility-programme-researcher-exchange-new-collaboration-between-norway-and-france/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "doctorado",
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:26.382Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-79025e75403c70119497",
-        "name": "Research Council of Norway · RCN — Qualification: validación inicial de resultados de investigación",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/qualification-research-commercialisation-publicly-funded-research/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:25.658Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b7ea9692a6ac8bd43626",
-        "name": "Research Council of Norway · RCN — Verification: desarrollo y validación de resultados de investigación",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/verification-research-commercialisation-from-publicly-funded-research-organisations-2026/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:24.754Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0852332cb6ee4fa0b7c0",
-        "name": "Research Council of Norway · RCN — Funding for Eligible ERC Applications",
-        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/eligible-erc-applications/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:31.226Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-06bdd44e548d765b5f65",
-        "name": "Knut and Alice Wallenberg Foundation · KAW / SciLifeLab — Proof of Concept in Life Science",
-        "url": "https://kaw.wallenberg.org/en/calls/proof-concept-grants-life-science",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:48.842Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-55f65a70bcf340cd7921",
-        "name": "Knut and Alice Wallenberg Foundation · KAW / WISE — Proof of Concept in Materials Science",
-        "url": "https://kaw.wallenberg.org/en/calls/proof-concept-materials-science",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:11:49.515Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-200ff0416662bbd9a58e",
-        "name": "NordForsk · NordForsk — Canada–G7–Nordic Quantum Technologies: participación europea",
-        "url": "https://www.nordforsk.org/calls/call-proposals-quantum-technologies",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:16:32.783Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-58bb42062aa44d98a713",
-        "name": "NordForsk · NordForsk — Disruptive Technologies: participación europea",
-        "url": "https://www.nordforsk.org/calls/call-proposals-disruptive-technologies",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T18:01:58.683Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-280b5d0fd97fac61cf79",
-        "name": "NordForsk · NordForsk — Nordic and Baltic Solutions on Food Security",
-        "url": "https://www.nordforsk.org/calls/call-proposals-nordic-and-baltic-solutions-food-security",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:48:23.007Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3e9b028efb3d6fbf3ab2",
-        "name": "Formas · Formas — Explore: investigación innovadora para la sostenibilidad",
-        "url": "https://formas.se/en/start-page/apply-for-funding/all-calls/calls/2026-04-21-explore---innovative-research-for-the-environment-agricultural-sciences-and-spatial-planning-2026.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:56:53.818Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0a987188f65c0e9430d0",
-        "name": "Formas · Formas — Career Grant for Early-career Researchers",
-        "url": "https://formas.se/en/start-page/apply-for-funding/different-types-of-financing/career-grant-for-early-career-researchers.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:56:55.236Z",
+          "checkedAt": "2026-09-20T18:59:30.515Z",
           "pages": 4,
           "accepted": 1,
           "complete": true,
@@ -239056,19 +239547,19 @@
         }
       },
       {
-        "id": "programme-8e871dc2658adda9f3d5",
-        "name": "Università di Cagliari / Messina / Napoli Federico II / Pavia / Salento / Campania Luigi Vanvitelli · Doctorado Data Science",
-        "url": "https://web.unica.it/unica/protected/543861/0/def/ref/AVS543857/",
+        "id": "programme-43831864eea19c66652a",
+        "name": "University of Padua · Laurea magistrale Cybersecurity",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/cybersecurity",
         "adapter": "programme",
         "type": "institution",
         "scope": "IT",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T18:42:22.469Z",
+          "checkedAt": "2026-09-20T18:59:18.764Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -239076,19 +239567,19 @@
         }
       },
       {
-        "id": "programme-72832c0ff7fde27ef851",
-        "name": "University of Cagliari · Doctorado Ingegneria Elettronica ed Informatica",
-        "url": "https://web.unica.it/unica/protected/544010/0/def/ref/AVS543857/",
+        "id": "programme-070b6499f2484f665164",
+        "name": "University of Padua · Laurea magistrale Mathematics",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/mathematics",
         "adapter": "programme",
         "type": "institution",
         "scope": "IT",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T18:42:22.469Z",
+          "checkedAt": "2026-09-20T18:59:28.875Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -239096,9 +239587,169 @@
         }
       },
       {
-        "id": "programme-610744b68a1c04ec5b3b",
-        "name": "University of Cagliari · Doctorado Matematica e Informatica",
-        "url": "https://web.unica.it/unica/protected/544024/0/def/ref/AVS543857/",
+        "id": "programme-88ecb9b7fee4c314134d",
+        "name": "University of Padua · Laurea magistrale Computational Finance",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/computational-finance",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:34.135Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-e1cca62016f9267805f7",
+        "name": "University of Padua · Laurea magistrale Quantitative and Computational Biosciences",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/quantitative-and-computational-biosciences",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:17.162Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-64728daf3de3036fedfc",
+        "name": "University of Padua · Laurea magistrale Control Systems Engineering",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/control-systems-engineering",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:38.943Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-93699a5095d73d64eea7",
+        "name": "University of Padua · Laurea magistrale ICT for Internet and Multimedia",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/ict-internet-and-multimedia",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:24.083Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-0de40f2bc7551d0342a2",
+        "name": "University of Padua · Laurea magistrale Bioingegneria",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/bioingegneria",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:15.609Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-445a7881a40b8e6ea5a2",
+        "name": "University of Padua · Laurea magistrale Mathematical Engineering",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/mathematical-engineering",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:27.364Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-be5a94b4a0a41e9d3d83",
+        "name": "University of Padua · Laurea magistrale Social Sciences and Digital Data",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/social-sciences-and-digital-data",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:32.186Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-35df24707881d7543b81",
+        "name": "University of Padua · Laurea magistrale Electronic Engineering",
+        "url": "https://www.unipd.it/it/corsi-di-laurea/electronic-engineering",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T18:59:22.177Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-daa35549161e619bd1d1",
+        "name": "University of Padua · Dottorato in Scienze Statistiche",
+        "url": "https://www.unipd.it/it/dottoratoscheda/scienze-statistiche",
         "adapter": "programme",
         "type": "institution",
         "scope": "IT",
@@ -239108,7 +239759,87 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T18:42:22.469Z",
+          "checkedAt": "2026-09-20T19:10:14.951Z",
+          "pages": 5,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-e201a280686dce4ec267",
+        "name": "University of Padua · PhD in Brain, Mind and Computer Science",
+        "url": "https://www.unipd.it/it/dottoratoscheda/brain-mind-computer-science",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T19:10:07.126Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-e5b9fc015bcb068ca8f0",
+        "name": "University of Padua · PhD in Mathematical Sciences",
+        "url": "https://www.unipd.it/it/dottoratoscheda/scienze-matematiche",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T19:10:13.152Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-4bbadc93a299e3cfb0a3",
+        "name": "University of Padua · PhD in Information Engineering",
+        "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-informazione",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T19:10:09.286Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-2376cad8011b4d230818",
+        "name": "University of Padua · PhD in Mechatronics and Product Innovation Engineering",
+        "url": "https://www.unipd.it/it/dottoratoscheda/ingegneria-meccatronica-innovazione-meccanica-prodotto",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "IT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T19:10:11.205Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -239117,11 +239848,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-20T21:10:22.053Z",
-      "finishedAt": "2026-09-20T21:10:26.448Z",
+      "startedAt": "2026-09-20T22:19:17.134Z",
+      "finishedAt": "2026-09-20T22:19:20.945Z",
       "scope": "selected-programmes",
-      "verified": 55,
-      "attempted": 55,
+      "verified": 17,
+      "attempted": 17,
       "partial": 0
     }
   },

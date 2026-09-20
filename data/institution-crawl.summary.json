@@ -1114,35 +1114,91 @@
         "XK"
       ],
       "status": "partial"
-    }
-  ],
-  "generatedAt": "2026-09-20T21:25:43.016Z",
-  "summary": {
-    "jobs": 304166,
-    "statuses": {
-      "read": 66411,
-      "access-pending": 8464,
-      "document": 31167,
-      "pending": 146425,
-      "external-review": 21220,
-      "depth-review": 30479
     },
-    "institutions": 6270,
-    "institutionsRead": 4304,
-    "countries": 54,
-    "updatedAt": "2026-09-20T21:25:43.085Z",
-    "lastRun": {
-      "id": "03a0cfa4-6b1e-4ccb-9ab6-a5cbc146fc9c",
-      "startedAt": "2026-09-20T20:55:40.849Z",
-      "finishedAt": "2026-09-20T21:25:42.869Z",
+    {
+      "id": "e12a8075-b928-4260-9c09-ea38ecaf7c2c",
+      "startedAt": "2026-09-20T21:39:59.355Z",
+      "finishedAt": "2026-09-20T22:10:27.415Z",
       "budget": 5000,
       "attempted": 5000,
-      "read": 4470,
-      "failed": 525,
-      "discovered": 13376,
-      "truncatedPages": 176,
+      "read": 4533,
+      "failed": 455,
+      "discovered": 13549,
+      "truncatedPages": 180,
       "countries": [
-        "AL",
+        "AM",
+        "AT",
+        "AX",
+        "BA",
+        "BE",
+        "BG",
+        "CH",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GE",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "KZ",
+        "LI",
+        "LT",
+        "LV",
+        "ME",
+        "MK",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "RS",
+        "RU",
+        "SE",
+        "SI",
+        "SK",
+        "TR",
+        "UA",
+        "XK"
+      ],
+      "status": "partial"
+    }
+  ],
+  "generatedAt": "2026-09-20T22:10:27.568Z",
+  "summary": {
+    "jobs": 317811,
+    "statuses": {
+      "read": 70944,
+      "access-pending": 8919,
+      "document": 32876,
+      "pending": 149805,
+      "external-review": 22465,
+      "depth-review": 32802
+    },
+    "institutions": 6278,
+    "institutionsRead": 4312,
+    "countries": 54,
+    "updatedAt": "2026-09-20T22:10:27.648Z",
+    "lastRun": {
+      "id": "e12a8075-b928-4260-9c09-ea38ecaf7c2c",
+      "startedAt": "2026-09-20T21:39:59.355Z",
+      "finishedAt": "2026-09-20T22:10:27.415Z",
+      "budget": 5000,
+      "attempted": 5000,
+      "read": 4533,
+      "failed": 455,
+      "discovered": 13549,
+      "truncatedPages": 180,
+      "countries": [
         "AM",
         "AT",
         "AX",
@@ -1190,5 +1246,5 @@
       "status": "partial"
     }
   },
-  "serializedJobs": 304166
+  "serializedJobs": 317811
 }
