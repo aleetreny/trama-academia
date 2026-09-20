@@ -1,5 +1,6 @@
 import {load} from 'cheerio';
 import {clean} from './domain.mjs';
+import {restorePadovaCoursePanel} from './padova-programme.mjs';
 const hiddenOrNavigation='nav,aside,footer,[role="navigation"],[role="banner"],[hidden],[aria-hidden="true"],[style*="display:none"],[style*="display: none"]';
 function degreeAdmissionPanels($){
  // Radboud's visible previous-degree selector opens two labelled regions. The
@@ -80,7 +81,7 @@ function restoreStreamedBoundaries($){
  }
 }
 export function programmeText(html){
- const $=load(html);restoreStreamedBoundaries($);
+ const $=load(html);restoreStreamedBoundaries($);restorePadovaCoursePanel($);
  const degreePanels=degreeAdmissionPanels($);restoreSelectedCourseHeaders($);
  // Reading places a real mobile tab trigger inside a header and gives it the
  // unusual role=tabpanel. Capture only its reciprocal, same-section panel before
@@ -146,6 +147,48 @@ export function programmeText(html){
 }
 export function hasResearchComponent(text){
  text=String(text).normalize('NFC');
+ // Belgrade names the master's dissertation in its own second-cycle study
+ // plan. The numerical course columns are not part of the dissertation name.
+ if(/(?<!\p{L})МАСТЕР СТУДИЈЕ МАТЕМАТИКА(?!\p{L})/iu.test(text)&&/Математика - 1 година, 60 ЕСПБ/iu.test(text)&&/(?<!\p{L})Дипломски мастер рад(?=\d|\s|$)/iu.test(text))return true;
+ // Banja Luka's second-cycle CS curriculum separates compulsory research
+ // (10 ECTS) and final work (20 ECTS); the A legend explicitly means mandatory.
+ if(/РАЧУНАРСТВО И ИНФОРМАТИКА II ЦИКЛУС/iu.test(text)&&/Студијски истраживачки рад 2 10 8 A 18\. Завршни рад 2 20 16 A/iu.test(text)&&/A Обавезни предмет на студијском програму/iu.test(text))return true;
+ // Sarajevo's own MIS master's curriculum requires a project and master's
+ // dissertation. Neither a generic final project nor a first-cycle page fits.
+ if(/II ciklusa studija \(master studij\)/iu.test(text)&&/zvanje: magistar menadžmenta, smjer Menadžment i informacioni sistemi/iu.test(text)&&/(?<!\p{L})Izrada projekta i master rada(?!\p{L})/iu.test(text))return true;
+ // Zagreb lists the dissertation as a coded, compulsory fourth-semester course.
+ // "Diplomski rad" alone does not establish a master's research component:
+ // require the second-cycle degree, its 120 ECTS and awarded master's title.
+ if(/(?<!\p{L})Diplomski sveučilišni studij(?!\p{L})/iu.test(text)
+  && /Dvije akademske godine \(tj\. četiri semestra\), 120 ECTS bodova/iu.test(text)
+  && /Akademski naziv koji se stječe završetkom studija Magistar\/Magistra(?!\p{L})/iu.test(text)
+  && /\b4\. semestar, 2\. godina ECTS Obvezni predmeti Eng\. raz\. Opterećenje Sem INFO 10[.,]0 Diplomski rad \(\d{4,8}\) - 1 \(1S\) 4 INFO/iu.test(text))return true;
+ // Tartu explicitly reserves the last semester for writing the master's thesis.
+ // The bare Estonian word also occurs in a TalTech degree replacing it by an exam.
+ if(/(?<!\p{L})viimane semester on mõeldud magistritöö kirjutamiseks(?!\p{L})/iu.test(text))return true;
+ // Lithuanian curricula name the master's final dissertation separately from
+ // the bachelor's final work; keep the complete degree-qualified title.
+ if(/(?<!\p{L})magistro\s+baigiamasis\s+darbas(?!\p{L})/iu.test(text))return true;
+ // VU uses the instrumental form in an affirmative graduation requirement.
+ if(/(?<!\p{L})Studijas užbaigsi magistro baigiamuoju darbu(?!\p{L})/iu.test(text))return true;
+ // Ljubljana requires preparation, submission and public defence of the named
+ // master's dissertation; a thesis seminar or a bachelor's work cannot match.
+ if(/(?<!\p{L})skladno s pravili pripravljeno in oddano magistrsko delo ter uspešno opravljen javni zagovor magistrskega dela(?!\p{L})/iu.test(text))return true;
+ // Sarajevo's second-cycle rules explicitly assign the master's dissertation
+ // to semester IV. Its inconsistent ECTS totals remain an editorial caveat.
+ if(/Pravila studiranja na II ciklusu studija/iu.test(text)&&/Stručni naziv koji se stiče je Magistar(?!\p{L})/iu.test(text)&&/(?<!\p{L})u IV semestru se radi magistarski rad(?!\p{L})/iu.test(text))return true;
+ // FOI's own master curriculum separates the compulsory 24-ECTS dissertation
+ // from the 6-ECTS placement. This is not an isolated "diploma work" match.
+ if(/(?<!\p{L})Sveučilišni diplomski studijski programi(?!\p{L})/iu.test(text)&&/\bobvezno 69575 Diplomski rad 4 24 69576 Stručna praksa 4 6\b/iu.test(text))return true;
+ // Rijeka has separate compulsory rows for the seminar and dissertation. Keep
+ // the graduate degree context and the actual dissertation row together.
+ if(/(?<!\p{L})Sveučilišni diplomski studij Diskretna matematika i primjene(?!\p{L})/iu.test(text)&&/(?<!\p{L})Sveučilišni magistar matematike(?!\p{L})/iu.test(text)&&/\bSemestar: 4 MODUL KOLEGIJ NOSITELJ P V S ECTS STATUS4 Seminar diplomskog rada 0 0 30 4 O Diplomski rad 4 O\b/iu.test(text))return true;
+ // Modena's master's course ties its final thesis to original, autonomous work.
+ // A generic final examination or the mention of a thesis alone is insufficient.
+ if(/\bCorso di Laurea Magistrale\b/iu.test(text)&&/La prova finale è una occasione in cui viene richiesto agli studenti di svolgere un lavoro originale in forte autonomia\./u.test(text)&&/Anche la redazione di una tesi per la prova finale e la relativa esposizione/u.test(text))return true;
+ // Cagliari explicitly offers a supervised scientific final-work route based
+ // on critical literature analysis or original methods within its master's.
+ if(/\bCorso di Laurea Magistrale\b/iu.test(text)&&/La prova finale consiste nella discussione di una relazione relativa ad un lavoro individuale, svolto dal laureando sotto la supervisione di almeno un docente/u.test(text)&&/un'analisi critica dello stato dell'arte/u.test(text)&&/lo sviluppo di metodologie e tecniche con un certo grado di originalità/u.test(text))return true;
  // Dutch curricula use masterproef/masterproeven for the master's dissertation.
  if(/(?<!\p{L})masterproe(?:f|ven)(?!\p{L})/iu.test(text))return true;
  // cog-SUP requires a research placement with preregistration and assessment.

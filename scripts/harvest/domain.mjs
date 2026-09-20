@@ -21,6 +21,19 @@ export function fieldsFrom(text){
   text=text.replace(/(?<!\p{L})modélisation,\s*méthodes numériques(?!\p{L})/giu,'applied mathematics');
   text=text.replace(/(?<!\p{L})time[ -]series analysis(?!\p{L})/giu,'statistics');
   text=text.replace(/(?<!\p{L})redes y servicios telemáticos(?!\p{L})/giu,'computer science');
+  // Lithuanian programme and compulsory-course names in the official curricula.
+  text=text.replace(/(?<!\p{L})taikomoji matematika(?!\p{L})/giu,'applied mathematics');
+  text=text.replace(/(?<!\p{L})mašininis mokymas(?!\p{L})/giu,'machine learning');
+  // VU's cartography curriculum explicitly combines database design and spatial
+  // programming. GIS usage or a generic geography title alone is insufficient.
+  text=text.replace(/(?<!\p{L})duomenų bazių projektavimo,\s*erdvinių duomenų programavimo(?!\p{L})/giu,'database design and spatial computing');
+  // Zagreb's Croatian programme title names applied mathematics explicitly.
+  text=text.replace(/(?<!\p{L})primijenjena matematika(?!\p{L})/giu,'applied mathematics');
+  // Named Serbian/Bosnian numerical and optimisation subjects, and the
+  // Montenegrin computer-science title. Generic mathematics stays unclassified.
+  text=text.replace(/(?<!\p{L})(?:дискретна оптимизација|нумеричке анализе)(?!\p{L})/giu,'applied mathematics');
+  text=text.replace(/(?<!\p{L})računarske nauke(?!\p{L})/giu,'computer science');
+  text=text.replace(/(?<!\p{L})apprendimento automatico(?!\p{L})/giu,'machine learning');
   // JYU uses the Finnish subject name and its genitive in programme curricula.
   text=text.replace(/\bkyberturvallisuu(?:s|den)\b/gi,'cyber security');
   // Bergen's official subject name includes both computing and information science.
