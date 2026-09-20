@@ -6427,6 +6427,114 @@
         "url": "https://www.uam.es/uam/posgrado/escuela-doctorado-uam",
         "label": "Escuela de Doctorado",
         "status": "link_observed"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/posgrado/todos-masteres-oficiales",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:57:43.824Z",
+        "observedAt": "2026-09-19T22:57:43.824Z",
+        "contentHash": "6ea1913f647f36135514e572def1288835210c68d1194584ff148cbd48993321",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uam.es/uam/programas-doctorado",
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T22:59:11.796Z",
+        "observedAt": "2026-09-19T22:59:11.796Z",
+        "contentHash": "2e81b2a357fbfb3e578b2df174561befd9305f7e16104d9ce25382d08319ee48",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video",
+        "label": "Máster en Aprendizaje Profundo para Inteligencia Artificial de Audio y Visual",
+        "checkedAt": "2026-09-20T09:58:03.192Z",
+        "observedAt": "2026-09-19T23:05:21.374Z",
+        "contentHash": "c620760968e4f71345201ba1423f1469f5019f2f50f7775df089941f05c99063",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-bioinformatica-biologia-computacional",
+        "label": "Máster en Bioinformática y Biología Computacional",
+        "checkedAt": "2026-09-20T09:58:03.857Z",
+        "observedAt": "2026-09-19T23:05:22.290Z",
+        "contentHash": "f5ee6d2f42fc286ec392abaa954fde6020d1a86ffbd66fdcc43c29efbb80eb1f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-computacion-cuantica",
+        "label": "Máster en Computación Cuántica",
+        "checkedAt": "2026-09-20T09:58:05.334Z",
+        "observedAt": "2026-09-19T23:05:22.855Z",
+        "contentHash": "fe24ee7a223b76dc28215e4ea22c01d05992c8716e14bb65a6044fb4499a63a1",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-ingenieria-informatica",
+        "label": "Máster en Ingeniería Informática",
+        "checkedAt": "2026-09-20T09:58:06.090Z",
+        "observedAt": "2026-09-19T23:05:23.503Z",
+        "contentHash": "93f8e321be34f6f9b0784c4dc52e49b249c0b90c07a15587b147ab094f27fd65",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-inteligencia-artificial",
+        "label": "Máster en Inteligencia Artificial",
+        "checkedAt": "2026-09-20T09:58:07.763Z",
+        "observedAt": "2026-09-19T23:05:24.294Z",
+        "contentHash": "49d765677c0be36571635fc5cb8f8ce71a4cb4387ee5d5c1afe00efb068b6233",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-matematicas-aplicaciones",
+        "label": "Máster en Matemáticas y Aplicaciones",
+        "checkedAt": "2026-09-20T09:58:10.164Z",
+        "observedAt": "2026-09-19T23:05:25.091Z",
+        "contentHash": "37cf841a19449545ae60371fa225100bd479508e86dd3d0f3c21c6da6018125a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-sistemas-interactivos-inteligentes",
+        "label": "Máster en Sistemas Interactivos Inteligentes",
+        "checkedAt": "2026-09-20T09:58:11.748Z",
+        "observedAt": "2026-09-19T23:05:25.922Z",
+        "contentHash": "a6200ef999d7223f22897033299a43b8fcc4e4bbc293acd4a5dad4c343d27360",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uam.es/uam/master-universitario-erasmus-mundus-artificial-intelligence-image-processing-computer-vision-ipcvai",
+        "label": "Erasmus Mundus Master in Artificial Intelligence for Image Processing and Computer Vision (IPCVai)",
+        "checkedAt": "2026-09-20T09:58:12.508Z",
+        "observedAt": "2026-09-19T23:05:26.693Z",
+        "contentHash": "5e0e6e28742e4df3faa0101fa953a50834a10ff1af5048220dc6ec7bdca19acd",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uam.es/uam/doctorado-ingitel",
+        "label": "Doctorado en Ingeniería Informática y de Telecomunicación",
+        "checkedAt": "2026-09-20T09:58:14.140Z",
+        "observedAt": "2026-09-19T23:05:27.496Z",
+        "contentHash": "cf41c44e36c4a1c69311e2d62baf37c62e6fc16f4f784076640ac68e9e3dda66",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uam.es/uam/doctorado-matematicas",
+        "label": "Doctorado en Matemáticas",
+        "checkedAt": "2026-09-20T09:58:16.671Z",
+        "observedAt": "2026-09-19T23:05:28.316Z",
+        "contentHash": "8ea7a7556d24b086734b2c614dbdc4abf82cae65b13202f145f8a92a5d3629bd",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6460,6 +6568,159 @@
         "url": "https://www.ucm.es/becas-ayudas",
         "label": "Becas y ayudas",
         "status": "link_observed"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master?ord=3",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:56:54.896Z",
+        "observedAt": "2026-09-19T22:56:54.896Z",
+        "contentHash": "4b27bcf50d2d1a177c52b0e4a74eda6a13c54fe6fae28ab423ba581ed4483b54",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://edoctorado.ucm.es/estudios/2026-27/doctorado",
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T22:59:33.329Z",
+        "observedAt": "2026-09-19T22:59:33.329Z",
+        "contentHash": "c469d654c8ff99edd9f1c343dbba8adf4bf178ecd3040369b8a26dec95be8426",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-bioestadistica",
+        "label": "Máster Universitario en Bioestadística",
+        "checkedAt": "2026-09-20T09:57:44.503Z",
+        "observedAt": "2026-09-19T23:05:06.276Z",
+        "contentHash": "32f350f1eece0a3d4ba0425ba89076affab857ede7d30193caa367c0b2219be7",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-cienciadedatos",
+        "label": "Máster Universitario en Ciencia de Datos e Inteligencia de Negocios",
+        "checkedAt": "2026-09-20T09:57:45.635Z",
+        "observedAt": "2026-09-19T23:05:07.662Z",
+        "contentHash": "f91d0629f208485ce13c40e273b7ea85fc40ea8731f4664674e2301d04985888",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-cienciasactuarialesyfinancieras",
+        "label": "Máster Universitario en Ciencias Actuariales y Financieras",
+        "checkedAt": "2026-09-20T09:57:46.366Z",
+        "observedAt": "2026-09-19T23:05:08.403Z",
+        "contentHash": "8687ae1c55e65adc9ccd0d0a61b9fa6021df830592ecf512424671a99c6353a4",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-estadisticasoficialeseindicadoressocialesyeconomicos",
+        "label": "Máster Universitario en Estadísticas Oficiales e Indicadores Sociales y Económicos",
+        "checkedAt": "2026-09-20T09:57:47.179Z",
+        "observedAt": "2026-09-19T23:05:10.004Z",
+        "contentHash": "2828aa52490c0002836b8f28a229e1dc16724a0c848298d34ea3ecb9d3121efe",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-ingenieriainformatica",
+        "label": "Máster Universitario en Ingeniería Informática",
+        "checkedAt": "2026-09-20T09:57:51.236Z",
+        "observedAt": "2026-09-19T23:05:10.875Z",
+        "contentHash": "c00edeacb09a86e5e472f7ad80b63d4b15d15970e2a68fc5a0598c2ad3db91a0",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-ingenieriamatematica",
+        "label": "Máster Universitario en Ingeniería Matemática",
+        "checkedAt": "2026-09-20T09:57:51.935Z",
+        "observedAt": "2026-09-19T23:05:11.635Z",
+        "contentHash": "9679c56655a224f4004ce66abf0216181275b17272fa23f4acf9f8969542207d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-inteligenciaartificial",
+        "label": "Máster Universitario en Inteligencia Artificial",
+        "checkedAt": "2026-09-20T09:57:52.742Z",
+        "observedAt": "2026-09-19T23:05:12.441Z",
+        "contentHash": "9333e7ce98e54bb5d7b2512fb6b349a4381f28de444fece60b5f6426a9367960",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-internetcosas",
+        "label": "Máster Universitario en Internet de las Cosas",
+        "checkedAt": "2026-09-20T09:57:56.799Z",
+        "observedAt": "2026-09-19T23:05:13.186Z",
+        "contentHash": "8e0c45fb9f81ca396adc0d1e0c1e2cdd5588fac9c083da8aef7db97a488cd099",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-matematicasavanzadas",
+        "label": "Máster Universitario en Matemáticas Avanzadas",
+        "checkedAt": "2026-09-20T09:57:57.622Z",
+        "observedAt": "2026-09-19T23:05:14.907Z",
+        "contentHash": "649af1f3ad1e2688e29cae069e3fc4f8fd38e90780bcaab337cc71295a27a1c1",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-metodosformaleseningenieriainformatica",
+        "label": "Máster Universitario en Métodos Formales en Ingeniería Informática / Formal Methods in Computer Science",
+        "checkedAt": "2026-09-20T09:57:58.344Z",
+        "observedAt": "2026-09-19T23:05:15.585Z",
+        "contentHash": "b0a16cc244daaaa9111950f25f42774ce448f1a98127417ad99e971bd3b98fca",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ucm.es/estudios/2026-27/master-tratamientoestadisticocomputacionadelalinfomacion",
+        "label": "Máster Universitario en Tratamiento Estadístico Computacional de la Información",
+        "checkedAt": "2026-09-20T09:57:59.165Z",
+        "observedAt": "2026-09-19T23:05:17.285Z",
+        "contentHash": "2fdccead76a45d4ec3f502c78bd94f828b776de7bd2e4a6407253a51c4a7ffab",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://edoctorado.ucm.es/estudios/2026-27/doctorado-investigacionmatematica",
+        "label": "Doctorado en Investigación Matemática",
+        "checkedAt": "2026-09-20T09:58:00.770Z",
+        "observedAt": "2026-09-19T23:05:19.043Z",
+        "contentHash": "c7b95da04f546b6c30dc9ed2870df90f8b6c0f81f630af91e13785d093da1de3",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://edoctorado.ucm.es/estudios/2026-27/doctorado-datascience",
+        "label": "Doctorado en Análisis de Datos (Data Science)",
+        "checkedAt": "2026-09-20T09:58:01.640Z",
+        "observedAt": "2026-09-19T23:05:19.863Z",
+        "contentHash": "e32a23f3bc88f6fcb0a5d67513e097911ca635833fbd8dec7f3043e032470d16",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://edoctorado.ucm.es/estudios/2026-27/doctorado-informatica",
+        "label": "Doctorado en Ingeniería Informática",
+        "checkedAt": "2026-09-20T09:58:02.437Z",
+        "observedAt": "2026-09-19T23:05:20.647Z",
+        "contentHash": "a12bddf3d5e1eab667dff446c5bb54df8897f9ffae521f4d3a9af2d57e8b10fb",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://edoctorado.ucm.es/estudios/2026-27/doctorado-ingenieriamatematica",
+        "label": "Doctorado en Ingeniería Matemática, Estadística e Investigación Operativa",
+        "checkedAt": "2026-09-20T09:58:03.241Z",
+        "observedAt": "2026-09-19T23:05:21.371Z",
+        "contentHash": "8f27b5be63b3ad4b71f15cfc4334c2b0f55300e8cf16b7751f9899a9aa2e2890",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6489,6 +6750,24 @@
         "status": "fetch_failed",
         "checkedAt": "2026-09-19T21:03:07.096Z",
         "lastError": "https_required"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Master/Programas",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:57:43.823Z",
+        "observedAt": "2026-09-19T22:57:43.823Z",
+        "contentHash": "e6cba84c2c08f7c8079172aed1818c4eed36ad161add23fc8f4fb01c1ef4153c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Doctorado/Programas_de_Doctorado",
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T22:59:12.275Z",
+        "observedAt": "2026-09-19T22:59:12.275Z",
+        "contentHash": "fac5b4121c33fe841a0bd0175b57a1949e8b228206f33578e60e05c7795f9e46",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6510,6 +6789,105 @@
         "checkedAt": "2026-09-19T20:57:05.116Z",
         "contentHash": "472617c0bad142f519bea10bf2cc0bae11f106cd11117d6b971fffabbdf9b504",
         "finalUrl": "https://masteres.ugr.es/datcom/"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/ramas",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:56:56.483Z",
+        "observedAt": "2026-09-19T22:56:56.483Z",
+        "contentHash": "7a17381350dd64d4cf6faf2dd72461b7fb403a44205816247f8835cd27b4f208",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/master-universitario-estadistica-aplicada",
+        "label": "Máster Universitario en Estadística Aplicada",
+        "checkedAt": "2026-09-20T09:58:29.290Z",
+        "observedAt": "2026-09-19T23:05:37.603Z",
+        "contentHash": "fc7d73a4cf452f90dfc3476217b87abbee98be7ebc4493049bfdb302dc627e47",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/master-universitario-fisica-matematicas-fisymat",
+        "label": "Máster Universitario en Física y Matemáticas (Fisymat)",
+        "checkedAt": "2026-09-20T09:58:31.793Z",
+        "observedAt": "2026-09-19T23:05:38.773Z",
+        "contentHash": "562e0e6740d6c744da96446e5508cea72c85ddb8cd7f595767478fe3a0c4cb69",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/master-universitario-matematicas",
+        "label": "Máster Universitario en Matemáticas",
+        "checkedAt": "2026-09-20T09:58:33.267Z",
+        "observedAt": "2026-09-19T23:05:40.934Z",
+        "contentHash": "9e631557470e8b9e05720210442711f4e84aea26c7cd206bfdabb936540efd80",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/inteligencia-artificial-aplicada-ciencias-salud-esta-titulacion-se-oferta-forma-condicionada-encontrarse-pendiente-verificacion-lo-que-afecta-su-posible-implantacion-dua-curso-academico-actual",
+        "label": "Máster Universitario en Aplicaciones de la Inteligencia Artificial para las Ciencias de la Salud",
+        "checkedAt": "2026-09-20T09:58:34.496Z",
+        "observedAt": "2026-09-19T23:05:41.019Z",
+        "contentHash": "98d02ebc37d846a1c3f3279c66cbd08eabb30409a05ac9ae52e6559b6071c7aa",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/master-universitario-ciencia-datos-aplicada-ciencias-sociales",
+        "label": "Máster Universitario en Ciencia de Datos Aplicada a las Ciencias Sociales",
+        "checkedAt": "2026-09-20T09:58:35.542Z",
+        "observedAt": "2026-09-19T23:05:42.744Z",
+        "contentHash": "2a37ab174499b4b14295916bf34e8b24de0fc2c2ba54150741dec43b07e5186e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/master-universitario-ciberseguridad",
+        "label": "Máster Universitario en Ciberseguridad y Ciberinteligencia Internacional",
+        "checkedAt": "2026-09-20T09:58:35.638Z",
+        "observedAt": "2026-09-19T23:05:43.856Z",
+        "contentHash": "ef634462927d18cf25f3ba74cdd4809425dcdb1c5e5d8c2ab1fbbb41e8a7f0d2",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/master-universitario-desarrollo-software-1",
+        "label": "Máster Universitario en Desarrollo del Software",
+        "checkedAt": "2026-09-20T09:58:36.437Z",
+        "observedAt": "2026-09-19T23:05:45.631Z",
+        "contentHash": "89f90276aa379259255ce908bdcb54542910cefaa413300911c459849c6f6072",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://masteres.ugr.es/informacion/titulaciones/master-universitario-ingenieria-informatica-0",
+        "label": "Máster Universitario en Ingeniería Informática",
+        "checkedAt": "2026-09-20T09:58:38.612Z",
+        "observedAt": "2026-09-19T23:05:47.152Z",
+        "contentHash": "65b35c7db3b4b9532dbe5f7630e2b76b11ac490d700641de5ef356c1c4080238",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://doctorados.ugr.es/doctomat/",
+        "label": "Doctorado en Matemáticas",
+        "checkedAt": "2026-09-20T10:00:15.913Z",
+        "observedAt": "2026-09-19T23:13:39.413Z",
+        "contentHash": "62a14ec3f52ec94bf55f78bdeb367a06ffaf051d5565b2ba289cb0e9c3817ede",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://doctorados.ugr.es/tic/",
+        "label": "Doctorado en Tecnologías de la Información y la Comunicación",
+        "checkedAt": "2026-09-20T10:00:18.901Z",
+        "observedAt": "2026-09-19T23:13:42.602Z",
+        "contentHash": "e0e0d34a447197a7e7d18bdc6addc02c1fda7883234d8910635ff66021e8cd63",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6537,6 +6915,105 @@
         "url": "https://www.uv.es/uvweb/master-ciencia-datos/es/doctorado/doctorado-tecnologias-informacion-comunicaciones-matematica-computacional/programa-del-doctorat-1285949661331.html",
         "label": "Doctorado en TIC y Matemática Computacional",
         "status": "link_observed"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/masteres-oficiales/oferta-masteres-oficiales-1285848941532.html",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:57:44.111Z",
+        "observedAt": "2026-09-19T22:57:44.111Z",
+        "contentHash": "9d1d0cdcb9fa3c6eedf12864403aaeafc4481edcc818ea088d1cf678c3500b8a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/doctorados/oferta-programas-doctorado-1285957462233.html",
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T22:57:44.605Z",
+        "observedAt": "2026-09-19T22:57:44.605Z",
+        "contentHash": "473eab9081a79f78a276dbb2cc7ddc5121bf394bad1567474e66bda685d78c9e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/masteres-oficiales/oferta-masteres-oficiales/master-universitario-ciencia-datos-1285848941532/Titulacio.html?id=1285951992806",
+        "label": "Máster Universitario en Ciencia de Datos",
+        "checkedAt": "2026-09-20T09:58:14.913Z",
+        "observedAt": "2026-09-19T22:56:56.471Z",
+        "contentHash": "afa0a2f13b5a2d7ce4df05f9d7a7927a7272022ddc6eb99052a03e761dd24a8f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/masteres-oficiales/oferta-masteres-oficiales/master-universitario-tecnologias-web-computacion-nube-aplicaciones-moviles-1285848941532/Titulacio.html?id=1285990173804",
+        "label": "Máster Universitario en Tecnologías Web, Computación en la Nube y Aplicaciones Móviles",
+        "checkedAt": "2026-09-20T09:58:16.469Z",
+        "observedAt": "2026-09-19T23:05:28.340Z",
+        "contentHash": "d45e3ed57223479911d033fb660d3f115ea2212f8a9ba5c211495cd42ac967ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/masteres-oficiales/oferta-masteres-oficiales/master-universitario-bioestadistica-1285848941532/Titulacio.html?id=1285853711048",
+        "label": "Máster Universitario en Bioestadística",
+        "checkedAt": "2026-09-20T09:58:18.073Z",
+        "observedAt": "2026-09-19T23:05:29.138Z",
+        "contentHash": "5df7e161c2dd07caf32eece48d8a1b8704131e469cee073d6e9ed86155772e51",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/masteres-oficiales/oferta-masteres-oficiales/master-universitario-investigacion-matematica-1285848941532/Titulacio.html?id=1285874214561",
+        "label": "Máster Universitario en Investigación Matemática",
+        "checkedAt": "2026-09-20T09:58:19.639Z",
+        "observedAt": "2026-09-19T23:05:32.459Z",
+        "contentHash": "f6c2753332ee7edc751b512d2228d9dfd29713b82064be286063c5a08c60a78f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/masteres-oficiales/oferta-masteres-oficiales/master-universitario-bioinformatica-1285848941532/Titulacio.html?id=1285860963472",
+        "label": "Máster Universitario en Bioinformática",
+        "checkedAt": "2026-09-20T09:58:20.757Z",
+        "observedAt": "2026-09-19T23:05:32.713Z",
+        "contentHash": "8f7de28d076fb3a85c6d1d8dc8b5bf22a7d226a6ff057302248d63fed360b57b",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/masteres-oficiales/oferta-masteres-oficiales/master-universitario-ciencias-actuariales-financieras-1285848941532/Titulacio.html?id=1285859341354",
+        "label": "Máster Universitario en Ciencias Actuariales y Financieras",
+        "checkedAt": "2026-09-20T09:58:25.752Z",
+        "observedAt": "2026-09-19T23:05:34.349Z",
+        "contentHash": "103d9aeb85d30f2e511738c147199d85b53e8945c00a252d4103a6c3f20706ed",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/doctorados/oferta-programas-doctorado/programa-doctorado-estadistica-optimizacion-1285957462233/Titulacio.html?id=1285887593429",
+        "label": "Doctorado en Estadística y Optimización",
+        "checkedAt": "2026-09-20T09:58:28.705Z",
+        "observedAt": "2026-09-19T23:05:35.237Z",
+        "contentHash": "d3d5377ce2fb3c589a09bedb4233c4329f886a3ae44cc64b61d37f935cedecb2",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/doctorados/oferta-programas-doctorado/programa-doctorado-matematicas-1285957462233/Titulacio.html?id=1285887595310",
+        "label": "Doctorado en Matemáticas",
+        "checkedAt": "2026-09-20T09:58:29.747Z",
+        "observedAt": "2026-09-19T23:05:36.316Z",
+        "contentHash": "9311dc866b4f345243b5ebfb3fee8b2109e27016e5647c9085325b87403aa03c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.uv.es/uvweb/universidad/es/estudios-postgrado/doctorados/oferta-programas-doctorado/programa-doctorado-tecnologias-informacion-comunicaciones-computacion-1285957462233/Titulacio.html?id=1285887577718",
+        "label": "Doctorado en Tecnologías de la Información, Comunicaciones y Computación",
+        "checkedAt": "2026-09-20T09:58:30.926Z",
+        "observedAt": "2026-09-19T23:05:36.786Z",
+        "contentHash": "badfcfd566e93823f940233ca7a894bd4daf9232686ddaf232d8d853e322dddb",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6589,8 +7066,128 @@
       {
         "type": "phd",
         "url": "https://www.usc.gal/es/estudios/doctorados",
-        "label": "Estudios de doctorado",
-        "status": "link_observed"
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T21:39:08.032Z",
+        "observedAt": "2026-09-19T21:39:08.032Z",
+        "contentHash": "8d5a45bda94ae0c33e32ac33f7b97427a8d37f14a16a63dc3e32f38886cd0239",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:56:57.258Z",
+        "observedAt": "2026-09-19T22:56:57.258Z",
+        "contentHash": "c1359f43f03c6527a2e0e8bac72d9040ecdf420b9416802bca932e2f468c4cc5",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ciencias/master-universitario-matematicas-presencial",
+        "label": "Máster Universitario en Matemáticas",
+        "checkedAt": "2026-09-20T09:58:36.446Z",
+        "observedAt": "2026-09-19T23:05:47.168Z",
+        "contentHash": "1fd8004fd73f323c58f49ad5a088c703fbb619a81d3d2dffd32bf7e17e78804f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ciencias/master-universitario-tecnicas-estadisticas",
+        "label": "Máster Universitario en Técnicas Estadísticas",
+        "checkedAt": "2026-09-20T09:58:39.857Z",
+        "observedAt": "2026-09-19T23:05:52.167Z",
+        "contentHash": "8d68edd0083ca9a62f9ce6d2ca6a37f74d48d86260897e1b5e5295c5bc705857",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ingenieria-arquitectura/master-universitario-computacion-altas-prestaciones-presencial",
+        "label": "Máster Universitario en Computación de Altas Prestaciones",
+        "checkedAt": "2026-09-20T09:58:40.005Z",
+        "observedAt": "2026-09-19T23:05:52.390Z",
+        "contentHash": "c36316f24f6f850b5202ec3d7df94047f468a41a7b39b8d194b33597bb10f58e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ingenieria-arquitectura/master-universitario-inteligencia-artificial",
+        "label": "Máster Universitario en Inteligencia Artificial",
+        "checkedAt": "2026-09-20T09:58:40.855Z",
+        "observedAt": "2026-09-19T22:12:22.939Z",
+        "contentHash": "cacb00002dbfd20cf001ccf5495f289ac6faed6e1f244b67a9e7679e70a0ef04",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ingenieria-arquitectura/master-universitario-internet-iot",
+        "label": "Máster Universitario en Internet de las Cosas (IoT)",
+        "checkedAt": "2026-09-20T09:58:41.675Z",
+        "observedAt": "2026-09-19T23:05:58.345Z",
+        "contentHash": "ee84a9ffa7baf5b1e8b1df22b01bf0b9e0e416a2aff01e66cfdbff2ec054af1c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ingenieria-arquitectura/master-universitario-matematica-industrial",
+        "label": "Máster Universitario en Matemática Industrial",
+        "checkedAt": "2026-09-20T09:58:42.449Z",
+        "observedAt": "2026-09-19T23:05:58.515Z",
+        "contentHash": "35d9c5e008464738d39201ed5cc3efc63203a5ab0b40bd24f4d47dc1d3314f80",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ingenieria-arquitectura/master-universitario-tecnologias-analisis-datos-masivos-big-data",
+        "label": "Máster Universitario en Tecnologías de Análisis de Datos Masivos: Big Data",
+        "checkedAt": "2026-09-20T09:58:48.945Z",
+        "observedAt": "2026-09-19T22:08:53.631Z",
+        "contentHash": "1c4123c8fa7252b18e65d1a56300554d014477e53abc1046ca393032c0b57cb0",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.usc.gal/es/estudios/masteres/ingenieria-arquitectura/master-universitario-vision-computador-computer-vision",
+        "label": "Máster Universitario en Visión por Computador / Computer Vision",
+        "checkedAt": "2026-09-20T09:58:53.108Z",
+        "observedAt": "2026-09-19T22:09:21.845Z",
+        "contentHash": "e639a4bd502f2bf0eddde3af6e600ab7ed4698316dd5f6fa198a47e4e088744f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.usc.gal/es/estudios/doctorados/ciencias/programa-doctorado-estadistica-investigacion-operativa",
+        "label": "Doctorado en Estadística e Investigación Operativa",
+        "checkedAt": "2026-09-20T09:58:53.298Z",
+        "observedAt": "2026-09-19T21:50:29.099Z",
+        "contentHash": "157e40cfe0e95cbed38bdbada9a26d23d59b845f33a953e0eecd92738f864c8b",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.usc.gal/es/estudios/doctorados/ciencias/programa-doctorado-matematicas",
+        "label": "Doctorado en Matemáticas",
+        "checkedAt": "2026-09-20T09:58:54.161Z",
+        "observedAt": "2026-09-19T23:06:08.356Z",
+        "contentHash": "e1d238bb2d5d12c8c74ae7ee3d0c6c794b010aa83a6f32d9b7887c7440f1409d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.usc.gal/es/estudios/doctorados/ciencias/programa-doctorado-matematicas-aplicaciones",
+        "label": "Doctorado en Matemáticas y Aplicaciones (UNISF)",
+        "checkedAt": "2026-09-20T09:58:58.316Z",
+        "observedAt": "2026-09-19T23:06:08.494Z",
+        "contentHash": "6f95d483158e787502e5bbe1ed91d77aeb97deaadc1d40e1e6ed6fc9ba01b212",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.usc.gal/es/estudios/doctorados/ingenieria-arquitectura/programa-doctorado-metodos-matematicos-simulacion-numerica-ingenieria-ciencias-aplicadas",
+        "label": "Doctorado en Métodos Matemáticos y Simulación Numérica en Ingeniería y Ciencias Aplicadas",
+        "checkedAt": "2026-09-20T09:59:02.853Z",
+        "observedAt": "2026-09-19T23:06:15.025Z",
+        "contentHash": "afc528f3cf9d09f0521bbfb6f7b09c59aaff7a726a907b9248eb380e07204cb4",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6683,6 +7280,150 @@
         "checkedAt": "2026-09-19T21:03:06.122Z",
         "contentHash": "4cc19a8eca332b4dec93aa132c543eaf39ff3c3aea03307d640686192b1ee557",
         "finalUrl": "https://novaims.unl.pt/en/education/programs/doctoral-program-in-information-management/doctoral-program-in-information-management/"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fct.unl.pt/ensino/mestrados",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:57:05.642Z",
+        "observedAt": "2026-09-19T22:57:05.642Z",
+        "contentHash": "6274d23aa24ba331062cc776dc62a5252f46af6468e11211a15d48025b24b150",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.fct.unl.pt/ensino/doutoramentos",
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T22:57:05.897Z",
+        "observedAt": "2026-09-19T22:57:05.897Z",
+        "contentHash": "c9c053663454f7db2db4541d99ba02ec58973e01a54d3be9bfd64f7cebdbc6d8",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T21:56:13.093Z",
+        "observedAt": "2026-09-19T21:56:13.093Z",
+        "contentHash": "980de96fd6edd0f0fdb4375c040eecbf9660fd37df396609e976d9b8f1209411",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fct.unl.pt/ensino/curso/mestrado-em-analise-e-engenharia-de-dados",
+        "label": "Mestrado em Análise e Engenharia de Big Data",
+        "checkedAt": "2026-09-20T09:59:17.997Z",
+        "observedAt": "2026-09-19T23:06:29.029Z",
+        "contentHash": "ebcee27c925503aa63cec9a274935f4ce98633fbd51a7978c7441177a635fb72",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fct.unl.pt/ensino/curso/mestrado-em-engenharia-informatica",
+        "label": "Mestrado em Engenharia Informática",
+        "checkedAt": "2026-09-20T09:59:19.704Z",
+        "observedAt": "2026-09-19T23:06:49.948Z",
+        "contentHash": "644c564bc751103b8097c2816901d18d02d586f027cb707b05a8b1d52becabf3",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fct.unl.pt/ensino/curso/mestrado-em-matematica-atuarial",
+        "label": "Mestrado em Matemática Atuarial",
+        "checkedAt": "2026-09-20T09:59:44.317Z",
+        "observedAt": "2026-09-19T23:07:20.257Z",
+        "contentHash": "e4e980b4c1f88a1ad835e654346bc3096d015d70076ba9633545595eb4c324be",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fct.unl.pt/ensino/curso/mestrado-em-matematica-e-aplicacoes",
+        "label": "Mestrado em Matemática e Aplicações",
+        "checkedAt": "2026-09-20T09:59:44.487Z",
+        "observedAt": "2026-09-19T23:07:30.633Z",
+        "contentHash": "0cc49a24dc13333ce31530b2ecbf106e63e183a1b0106eff70c6912491782b4d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.fct.unl.pt/ensino/curso/doutoramento-em-engenharia-eletrotecnica-e-de-computadores",
+        "label": "Doutoramento em Engenharia Eletrotécnica e de Computadores",
+        "checkedAt": "2026-09-20T09:59:54.536Z",
+        "observedAt": "2026-09-19T23:07:40.217Z",
+        "contentHash": "f1356a840c0f1375387a5825c44a115f9b82b280176cb34ad1cde62a9197f82e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.fct.unl.pt/ensino/curso/doutoramento-em-informatica",
+        "label": "Doutoramento em Informática",
+        "checkedAt": "2026-09-20T10:00:07.500Z",
+        "observedAt": "2026-09-19T23:07:51.387Z",
+        "contentHash": "bf93768ba57e9b0a9c164172f2a849aebd247f99715d803208157f68ce74f329",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.fct.unl.pt/ensino/curso/doutoramento-em-matematica-e-aplicacoes",
+        "label": "Doutoramento em Matemática e Aplicações",
+        "checkedAt": "2026-09-20T10:00:18.565Z",
+        "observedAt": "2026-09-19T23:08:00.906Z",
+        "contentHash": "8a3daf90e8fa9db0410b341a0300778b03daafd31238bbb6704a71f57a423ddd",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-data-driven-marketing",
+        "label": "Master in Data-Driven Marketing",
+        "checkedAt": "2026-09-20T10:00:07.513Z",
+        "observedAt": "2026-09-19T22:12:50.192Z",
+        "contentHash": "1f9d2298b8340688f1e2992894b0e5a9a0f3b778f669cdd1f969ecbadb65a965",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-geographic-information-systems-and-science",
+        "label": "Master in Geographic Information Systems and Science",
+        "checkedAt": "2026-09-20T10:00:09.534Z",
+        "observedAt": "2026-09-19T23:13:37.380Z",
+        "contentHash": "72ec0678054335941fe03f91a654627bcb4c45ef7ce935c31992184aff6e6483",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-geospatial-technologies",
+        "label": "Erasmus Mundus MSc in Geospatial Technologies",
+        "checkedAt": "2026-09-20T10:00:11.097Z",
+        "observedAt": "2026-09-19T23:13:38.218Z",
+        "contentHash": "7793217dae56afe96fff9d393878a9d6cd8deb245123722aa012ae35236e8b3b",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-information-management",
+        "label": "Master in Information Management",
+        "checkedAt": "2026-09-20T10:00:12.038Z",
+        "observedAt": "2026-09-19T23:13:38.677Z",
+        "contentHash": "d64ffd9c10d766649cf09545ad988b48e4a269f427d3f1636799b9b51e93a185",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/european-master-of-science-in-information-systems-management",
+        "label": "European MSc in Information Systems Management",
+        "checkedAt": "2026-09-20T10:00:13.658Z",
+        "observedAt": "2026-09-19T23:13:39.390Z",
+        "contentHash": "b7b41a9098e2a6f05b8060527495ccb03eae889b9880ededc387e903427516ed",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-statistics-and-information-management",
+        "label": "Master in Statistics and Information Management",
+        "checkedAt": "2026-09-20T10:00:14.294Z",
+        "observedAt": "2026-09-19T23:08:00.942Z",
+        "contentHash": "aad2c7488facbdf83f791a229ff3a223097e7108957b56be676a7123f8251fbb",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6737,11 +7478,137 @@
       {
         "type": "masters",
         "url": "https://apps.uc.pt/courses/EN/course/12661",
-        "label": "Master in Artificial Intelligence and Data Science · página vigente",
-        "status": "http_content_retrieved",
-        "checkedAt": "2026-09-19T21:03:09.498Z",
+        "label": "Master in Artificial Intelligence and Data Science",
+        "checkedAt": "2026-09-20T09:59:04.865Z",
+        "observedAt": "2026-09-19T21:03:09.498Z",
         "contentHash": "3c6a9c4b559106c157fb7517828109fd4c85fcadd25405c82eeed9c6ed43ddee",
-        "finalUrl": "https://apps.uc.pt/courses/EN/course/12661"
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/index?submitform=Pesquisar&cic_tipo=SEGUNDO_CONTINUIDADE#courses_list",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:59:11.797Z",
+        "observedAt": "2026-09-19T22:59:11.797Z",
+        "contentHash": "dbbde5bddd2a3ef4d5b10171e243177dba93aa8da8f888a4472e39aa7e31f491",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/index?submitform=Pesquisar&cic_tipo=SEGUNDO_ESPECIALIZACAO_AVANCADA#courses_list",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T23:05:07.443Z",
+        "observedAt": "2026-09-19T23:05:07.443Z",
+        "contentHash": "4025b0a34ce839932de61c6f6b7c6508aa35f146342c7f66c8fabfa3e06b15be",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/index?submitform=Pesquisar&cic_tipo=SEGUNDO_FORMACAO_LONGO_VIDA#courses_list",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T23:05:09.087Z",
+        "observedAt": "2026-09-19T23:05:09.087Z",
+        "contentHash": "ae2ebda1d2313cb34086758826f6572bad3755c059c069fa1e53b76c2016cd23",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://apps.uc.pt/courses/EN/index?submitform=Pesquisar&cic_tipo=TERCEIRO#courses_list",
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T23:05:09.859Z",
+        "observedAt": "2026-09-19T23:05:09.859Z",
+        "contentHash": "c93119e69432fe2b0efe5c4a0255d6891336090f01839af8239d01cfb3f918a8",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/course/9241",
+        "label": "Master in Electrical and Computer Engineering",
+        "checkedAt": "2026-09-20T09:59:02.337Z",
+        "observedAt": "2026-09-19T23:06:21.436Z",
+        "contentHash": "e2d849c4f7f188a903448a9363dd58bb7ae18a6d201d47cfd0809b59340d90d5",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/course/5041",
+        "label": "Master in Informatics Engineering",
+        "checkedAt": "2026-09-20T09:59:07.249Z",
+        "observedAt": "2026-09-19T23:06:22.663Z",
+        "contentHash": "b82d0f85f39002daf2ef78a94d327f172d17a8630191f78c6499f324d2a0652f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/course/336",
+        "label": "Master in Mathematics",
+        "checkedAt": "2026-09-20T09:59:08.935Z",
+        "observedAt": "2026-09-19T23:06:23.623Z",
+        "contentHash": "64e45ba68a0ab699005b3f854d13fc36cd67f93bd768bdb0ccb8a8b14f410cec",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/course/14261",
+        "label": "Master in Bioinformatics and Computational Biology",
+        "checkedAt": "2026-09-20T09:59:09.349Z",
+        "observedAt": "2026-09-19T23:08:04.858Z",
+        "contentHash": "9c2ad9c740c8b29ef026d2aa87dde7f38ded42328c5d21a10677e8401b60e916",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/course/11964",
+        "label": "Master in Artificial Intelligence",
+        "checkedAt": "2026-09-20T09:59:10.237Z",
+        "observedAt": "2026-09-19T23:08:06.568Z",
+        "contentHash": "d3fad9efb73bf03d8c7cb4783771676b14898c29a9530f5f460b15316286c703",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://apps.uc.pt/courses/EN/course/13321",
+        "label": "Master in Cybersecurity Engineering",
+        "checkedAt": "2026-09-20T09:59:10.856Z",
+        "observedAt": "2026-09-19T23:08:07.322Z",
+        "contentHash": "1900672558984b52a6eae6cd26ba3a93a5455b5fb4ae0c26bf4b7ca4e38ed55d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://apps.uc.pt/courses/EN/course/10081",
+        "label": "PhD in Electrical Engineering and Intelligent Systems",
+        "checkedAt": "2026-09-20T09:59:14.769Z",
+        "observedAt": "2026-09-19T23:08:08.845Z",
+        "contentHash": "c0d295fb1bb0a31846b58ae7d0938eec87b1d4e6bbff62f93a7405101c9590f1",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://apps.uc.pt/courses/EN/course/9201",
+        "label": "PhD in Informatics Engineering",
+        "checkedAt": "2026-09-20T09:59:15.658Z",
+        "observedAt": "2026-09-19T23:08:09.659Z",
+        "contentHash": "40040d4d0a91e50f35ef476f778b97c10551d28bc6c47253eb4aefd0764e9a93",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://apps.uc.pt/courses/EN/course/14321",
+        "label": "PhD in Mathematics",
+        "checkedAt": "2026-09-20T09:59:16.478Z",
+        "observedAt": "2026-09-19T23:08:10.527Z",
+        "contentHash": "a7ed6afa68954939f910449ec64eba63b0def3d4c37d4fc6564771473329403c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://apps.uc.pt/courses/EN/course/9261",
+        "label": "PhD in Computational Media Design",
+        "checkedAt": "2026-09-20T09:59:17.231Z",
+        "observedAt": "2026-09-19T23:08:11.305Z",
+        "contentHash": "987cb5b72d5d1802c72a50c3a273c0dc4ab8b8ca5f58b503bec556918d86a96d",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -6806,8 +7673,38 @@
       {
         "type": "phd",
         "url": "https://www.ecum.uminho.pt/en/Ensino/Pages/Doctoral-Programmes.aspx",
-        "label": "Doctorados de la Escuela de Ciencias",
-        "status": "link_observed"
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T21:37:48.735Z",
+        "observedAt": "2026-09-19T21:37:48.735Z",
+        "contentHash": "33cd4b29326cf81f865943812b95f884b00e13c7ba09c61bb9514e589897b376",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ecum.uminho.pt/en/Ensino/Pages/MastersECUM.aspx",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T23:02:13.962Z",
+        "observedAt": "2026-09-19T23:02:13.962Z",
+        "contentHash": "237395ea973e82bdc9338db0de33fd71e6659eb2ac8965991d631a8c296a55a3",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ecum.uminho.pt/en/Ensino/Pages/Biologia-Computacional-Molecular-e-Ambiental%E2%80%8B.aspx",
+        "label": "Master in Molecular and Environmental Computational Biology",
+        "checkedAt": "2026-09-20T09:59:15.662Z",
+        "observedAt": "2026-09-19T23:13:37.379Z",
+        "contentHash": "1768f1142e216cfb5229a3fadf91754ccc042923e1202e3a22ca81f025d49c71",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.ecum.uminho.pt/en/Ensino/Pages/masters/Master-Degree-in-Mathematics-and-Computation.aspx",
+        "label": "Master in Mathematics and Computation",
+        "checkedAt": "2026-09-20T09:59:25.222Z",
+        "observedAt": "2026-09-19T23:08:11.308Z",
+        "contentHash": "a25d1c2826e5e7e3afb674e073fcae9e8e0a70588adb166921a44bffd947db4e",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8984,6 +9881,123 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://infoadmitere.ubbcluj.ro/brosuri/brosura_master_2026_EN.pdf",
+        "label": "FMI, admisión de máster 2026, página 4",
+        "observedAt": "2026-09-19T23:13:09.825Z",
+        "checkedAt": "2026-09-19T23:13:09.825Z",
+        "contentHash": "d14f262ba0ee44559f05c917543c38e7962847668e6a2ca781e4e746282a7e74",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/advanced-mathematics-programme-profile/",
+        "label": "MSc Advanced Mathematics",
+        "checkedAt": "2026-09-20T10:13:41.051Z",
+        "observedAt": "2026-09-20T10:13:41.051Z",
+        "contentHash": "f9fefc116088cc587e603c4b5643afb5bf83e0ebcaab0a5b66bb6de97964c42c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/",
+        "label": "MSc Applied Computational Intelligence",
+        "checkedAt": "2026-09-20T10:13:42.205Z",
+        "observedAt": "2026-09-20T10:13:42.205Z",
+        "contentHash": "15530263e8596a69db09a557758ac5ae5f569839b82328f3a1b32f04fe19282d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/computational-mathematics-programme-profile/",
+        "label": "MSc Computational Mathematics",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:42.898Z",
+        "contentHash": "ba58181dab8ccc8b0febe51636a2263b0acf60cba4e3d170f48595e60e7c8c03",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-analysis-and-modelling-programme-profile/",
+        "label": "MSc Data Analysis and Modelling",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:43.673Z",
+        "contentHash": "e6afaa472244808f29b29e7c5ab18af4d0882873aa7581f1b110d25c0747db45",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/databases-programme-profile/",
+        "label": "MSc Databases",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:44.727Z",
+        "contentHash": "42c3f886f11a9adf8b808080208fc605fabd321aef18e16b16f2103992d0cf08",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/distributed-systems-in-internet-programme-profile/",
+        "label": "MSc Distributed Systems in Internet",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:45.358Z",
+        "contentHash": "1980ca19950dc652f854abbaf9efe729e69d54c2dcdab09227ade2fb517e0f37",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/enterprise-software-design-and-development-programme-profile/",
+        "label": "MSc Enterprise Software Design and Development",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:46.175Z",
+        "contentHash": "f952ad188bedaf82b222a6040dccccddefe6e676587cae533d55bd8ca6c24c6e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/high-performance-computing-and-big-data-analytics-programme-profile/",
+        "label": "MSc High Performance Computing and Big Data Analytics",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:46.998Z",
+        "contentHash": "cc68df761d83e150182fe49fe53371057d0bbc335acb0553aff5fb49a4f5cdf9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/software-engineering-programme-profile/",
+        "label": "MSc Software Engineering",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:47.692Z",
+        "contentHash": "10501c5c548d57c9b1ff6558535647a677095b5162e79c4a7555f58bcb261394",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/artificial-intelligence-for-connected-industries-ai4ci-master-programme/",
+        "label": "MSc Artificial Intelligence for Connected Industries (AI4CI)",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:48.465Z",
+        "contentHash": "c7baf2f26d572d51329610caf09f819dbfb7964d62f21523cf585f994f3f22f8",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.cs.ubbcluj.ro/cyber-master/",
+        "label": "MSc Cybersecurity",
+        "checkedAt": "2026-09-20T10:13:42.233Z",
+        "observedAt": "2026-09-20T10:13:49.417Z",
+        "contentHash": "d607258a3b3401c7fec60bf65ba54cf904eeda2837c7ddf9010087ce912c960e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.cs.ubbcluj.ro/education/academic-programmes/phd/",
+        "label": "Doctoral School of Mathematics and Computer Science",
+        "checkedAt": "2026-09-20T10:13:50.098Z",
+        "observedAt": "2026-09-20T10:13:50.098Z",
+        "contentHash": "c1325e2e48df29e97cf4a97f8ba1782292415bdbbcb817bcacf66047bc034104",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -9040,12 +10054,11 @@
       {
         "type": "masters",
         "url": "https://fmi.unibuc.ro/admitere-master-2026/",
-        "label": "Admitere Master iulie/septembrie 2026 – Facultatea de Matematică și Informatică",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "FMI, presentaciones de máster en la admisión 2026",
+        "observedAt": "2026-09-19T23:13:06.133Z",
+        "checkedAt": "2026-09-19T23:13:06.133Z",
+        "contentHash": "25908a84c02be46f98ba89538e77571977440ecb9047e208cb81dba33aed33d3",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -9056,6 +10069,15 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://nlp.unibuc.ro/master_en",
+        "label": "MSc Natural Language Processing",
+        "checkedAt": "2026-09-20T10:16:07.473Z",
+        "observedAt": "2026-09-20T10:16:07.473Z",
+        "contentHash": "3f4287177a9c3a8f5acf157854f648015c984ea33dda969c539f6b785da1a5a1",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -9089,14 +10111,13 @@
         }
       },
       {
-        "type": "research",
+        "type": "masters",
         "url": "https://international.upb.ro/admission/study-offers/program/artificial-intelligence",
-        "label": "Artificial Intelligence",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "MSc Artificial Intelligence",
+        "checkedAt": "2026-09-20T10:15:51.293Z",
+        "observedAt": "2026-09-20T10:15:51.293Z",
+        "contentHash": "d0d7e54a7304d95c6111009332380ee8be425a27055dffe641ebd9b5dc2f4d21",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -9117,6 +10138,105 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers",
+        "label": "Catálogo internacional completo visible, grados y másteres",
+        "observedAt": "2026-09-19T23:15:05.705Z",
+        "checkedAt": "2026-09-19T23:15:05.705Z",
+        "contentHash": "aa613c425a7b966aaee48bb104c2199562170e879d67135bf0ebde13a05bea51",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/parallel-and-distributed-computer-systems",
+        "label": "MSc Parallel and Distributed Computer Systems",
+        "checkedAt": "2026-09-20T10:15:52.373Z",
+        "observedAt": "2026-09-20T10:15:52.373Z",
+        "contentHash": "41ed14871470c7920c3ac422791928c76f88cd454b2be6f25f6252c7d5e37966",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/advanced-cybersecurity",
+        "label": "MSc Advanced Cybersecurity",
+        "checkedAt": "2026-09-20T10:15:54.197Z",
+        "observedAt": "2026-09-20T10:15:54.197Z",
+        "contentHash": "326747755621adeba95c4331bc1cb9ec575556345b51d1fdbd1f896e88374c8f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/quantum-computing",
+        "label": "MSc Quantum Computing",
+        "checkedAt": "2026-09-20T10:15:55.841Z",
+        "observedAt": "2026-09-20T10:15:55.841Z",
+        "contentHash": "5ab0a267f2711451d4f4d9bb1247d47f4ae31cac587d903c57653ffb3f59d571",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/financial-computing",
+        "label": "MSc Financial Computing",
+        "checkedAt": "2026-09-20T10:15:57.747Z",
+        "observedAt": "2026-09-20T10:15:57.747Z",
+        "contentHash": "df5a24cf41e681fcdc0c1ef2a641df44519a35ebbada58b1f76d6852d9cff21e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/software-engineering",
+        "label": "MSc Software Engineering",
+        "checkedAt": "2026-09-20T10:15:59.123Z",
+        "observedAt": "2026-09-20T10:15:59.123Z",
+        "contentHash": "2e58bf0de0b214f25152a7b7d92538d474a46d437edd918944fb11b020e11307",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/cybersecurity-management-and-data-sovereignty",
+        "label": "MSc Cybersecurity Management and Data Sovereignty",
+        "checkedAt": "2026-09-20T10:16:00.922Z",
+        "observedAt": "2026-09-20T10:16:00.922Z",
+        "contentHash": "287ee85c0ab4baaccef3df175096e29b56aaefa04cc12aa127a46a21b7481e26",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/advanced-analytics-for-business",
+        "label": "MSc Advanced Analytics for Business",
+        "checkedAt": "2026-09-20T10:16:02.368Z",
+        "observedAt": "2026-09-20T10:16:02.368Z",
+        "contentHash": "92c1bf2ca881da1226bb570777c0c3ada017b977f96278d82eb754e0b7bd503a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/cyber-physical-systems",
+        "label": "MSc Cyber Physical Systems",
+        "checkedAt": "2026-09-20T10:16:04.075Z",
+        "observedAt": "2026-09-20T10:16:04.075Z",
+        "contentHash": "2c8bce6c4bd9ac5cd1d1281a8a733d8912600899b90503ad1e0cb912aae1dd68",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/advanced-computing-in-embedded-systems",
+        "label": "MSc Advanced Computing in Embedded Systems",
+        "checkedAt": "2026-09-20T10:16:05.490Z",
+        "observedAt": "2026-09-20T10:16:05.490Z",
+        "contentHash": "acc6396c4fada21bbc47d0739b19df1ee2dd6b64a2eb34292b637eb44db4da1e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://international.upb.ro/admission/study-offers/program/advanced-techniques-for-information-processing",
+        "label": "MSc Advanced Techniques for Information Processing",
+        "checkedAt": "2026-09-20T10:16:07.368Z",
+        "observedAt": "2026-09-20T10:16:07.368Z",
+        "contentHash": "6ccdaa7b9997de450225b3d1bff8b7f650a5f12f00df89d12bcf8e8b32452fac",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -10653,6 +11773,78 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://info.uaic.ro/studii-de-master/",
+        "label": "Facultad de Informática, oferta íntegra de máster 2026",
+        "observedAt": "2026-09-19T23:13:14.889Z",
+        "checkedAt": "2026-09-19T23:13:14.889Z",
+        "contentHash": "f19a952b69c6f6c4db5571497af3c4ba1613a01a9cdad11d3b1788ad0674e58c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://info.uaic.ro/studii-avansate-in-informatica/",
+        "label": "MSc Advanced Studies in Computer Science",
+        "checkedAt": "2026-09-20T10:13:48.577Z",
+        "observedAt": "2026-09-20T10:13:48.577Z",
+        "contentHash": "c62a109d914ec68c52a08f43a63a7cf247c9058953d875594df44121c7ce8406",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://info.uaic.ro/inteligenta-artificiala-si-optimizare/",
+        "label": "MSc Artificial Intelligence and Optimization",
+        "checkedAt": "2026-09-20T10:13:49.529Z",
+        "observedAt": "2026-09-20T10:13:49.529Z",
+        "contentHash": "ea08151f89fd7d6759815e8102c80036ac621f6f9a7226c6af27aff2d686a8af",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://info.uaic.ro/ingineria-sistemelor-software/",
+        "label": "MSc Software Engineering",
+        "checkedAt": "2026-09-20T10:13:50.210Z",
+        "observedAt": "2026-09-20T10:13:50.210Z",
+        "contentHash": "534886af7161feada714da6badc1076544f25df77211d21f66de9dd421e84fbc",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://info.uaic.ro/sisteme-distribuite/",
+        "label": "MSc Distributed Systems",
+        "checkedAt": "2026-09-20T10:13:50.918Z",
+        "observedAt": "2026-09-20T10:13:50.918Z",
+        "contentHash": "5985323d217d6eab0ee96045aabf8837ce718bae7dc7b83ca5d7bf442e3df4d4",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://info.uaic.ro/securitatea-informatiei/",
+        "label": "MSc Information Security",
+        "checkedAt": "2026-09-20T10:13:51.710Z",
+        "observedAt": "2026-09-20T10:13:51.710Z",
+        "contentHash": "cfbc1b13ab4ec1656c419628cad6efe6833eed1b4f2be8b93493204f9515f127",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://info.uaic.ro/inovare-interoperabilitate-si-transformare-digitala/",
+        "label": "MSc Innovation, Interoperability and Digital Transformation",
+        "checkedAt": "2026-09-20T10:13:52.543Z",
+        "observedAt": "2026-09-20T10:13:52.543Z",
+        "contentHash": "ba50c057eab7afe5c471948418643a417d0fd9686fe597ea401fe64e27f8fb1b",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://scdoc.info.uaic.ro/?page_id=5895",
+        "label": "PhD Computer Science",
+        "checkedAt": "2026-09-20T10:16:09.098Z",
+        "observedAt": "2026-09-20T10:16:09.098Z",
+        "contentHash": "5174e559a5e797305554520d5e55adbc828282e544fa074621c2d0e1d412fa35",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -10678,22 +11870,20 @@
       {
         "type": "masters",
         "url": "https://www.fmi.uni-sofia.bg/en/masters-programmes-20252026",
-        "label": "Master's Programmes 2025/2026 | Faculty of Mathematics and Informatics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "FMI, todas las filas de admisión de máster 2025/26",
+        "observedAt": "2026-09-19T23:13:03.651Z",
+        "checkedAt": "2026-09-19T23:13:03.651Z",
+        "contentHash": "506c4e472397d2f2a22315b5fa2957fb38609251345bc9018667fb799497bd90",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
         "url": "https://fmi.uni-sofia.bg/en/doctoral-programmes",
-        "label": "Doctoral's Programmes | Faculty of Mathematics and Informatics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "FMI, índice completo de programas doctorales",
+        "observedAt": "2026-09-19T23:13:04.920Z",
+        "checkedAt": "2026-09-19T23:13:04.920Z",
+        "contentHash": "61b3ea8754589a99b01c68b374fdfdc4e73e192f852215f19ccd6e32f4167940",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -10706,24 +11896,166 @@
         }
       },
       {
-        "type": "research",
+        "type": "masters",
         "url": "https://www.fmi.uni-sofia.bg/en/big-data-technologies",
-        "label": "Big Data Technologies | Faculty of Mathematics and Informatics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "MSc Big Data Technologies",
+        "checkedAt": "2026-09-20T10:15:14.400Z",
+        "observedAt": "2026-09-20T10:15:14.400Z",
+        "contentHash": "71bcda064db1ee488148fd974c6dc653bf282f47d776262d4c93758eb193c913",
+        "accessOutcome": "ok"
       },
       {
-        "type": "research",
+        "type": "phd",
         "url": "https://fmi.uni-sofia.bg/en/computer-science-0",
-        "label": "Computer science | Faculty of Mathematics and Informatics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "PhD Computer Science",
+        "checkedAt": "2026-09-20T10:14:32.981Z",
+        "observedAt": "2026-09-20T10:14:32.981Z",
+        "contentHash": "2164eadbe2d1cac4e87ab7f1311a57c0ffc8d1449c4ab63a758600db74667327",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/computational-mathematics",
+        "label": "PhD Computational Mathematics",
+        "checkedAt": "2026-09-20T10:13:52.179Z",
+        "observedAt": "2026-09-20T10:13:52.179Z",
+        "contentHash": "4b6adb5351f97563915cb64d407849e2588d7e4f564d8595707ef26667d140fd",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/mathematical-logic-and-applications",
+        "label": "PhD Mathematical Logic and its Applications",
+        "checkedAt": "2026-09-20T10:13:52.855Z",
+        "observedAt": "2026-09-20T10:13:52.855Z",
+        "contentHash": "ff9351726785f2ac35357f383087ec2bd040d6128110fb70ab071fffb5fb94d1",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/mathematical-modeling-and-applications-mathematics",
+        "label": "PhD Mathematical Modelling and Applications of Mathematics",
+        "checkedAt": "2026-09-20T10:14:03.030Z",
+        "observedAt": "2026-09-20T10:14:03.030Z",
+        "contentHash": "d7f1c8d630400b3edb4cb559ce2bf51c2bff9bb6359b8ac1c375f330ed00d1ce",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/operations-research",
+        "label": "PhD Operations Research",
+        "checkedAt": "2026-09-20T10:14:12.981Z",
+        "observedAt": "2026-09-20T10:14:12.981Z",
+        "contentHash": "dd7ac42614c1289ab29c2dab1b8b96fae21b4a278849f4bc8f9a706dbee5e224",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/probability-theory-and-mathematical-statistics",
+        "label": "PhD Probability and Statistics",
+        "checkedAt": "2026-09-20T10:14:22.995Z",
+        "observedAt": "2026-09-20T10:14:22.995Z",
+        "contentHash": "5907b714546525530dc0a18c3515b66050dcfc010ba2ce37aeba66522857d9e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/information-systems-1",
+        "label": "PhD Information Systems",
+        "checkedAt": "2026-09-20T10:14:42.974Z",
+        "observedAt": "2026-09-20T10:14:42.974Z",
+        "contentHash": "799abce5aba6672a375696471eca1923d117f486a5f72018a976af80b7d722c0",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/information-technologies",
+        "label": "PhD Information Technology",
+        "checkedAt": "2026-09-20T10:14:52.990Z",
+        "observedAt": "2026-09-20T10:14:52.990Z",
+        "contentHash": "8287017f2a3824f3c16bad7b140a3e7d5d6cc95963e44866dab19d59aaa04d35",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://fmi.uni-sofia.bg/en/software-technologies-0",
+        "label": "PhD Software Technologies",
+        "checkedAt": "2026-09-20T10:15:03.040Z",
+        "observedAt": "2026-09-20T10:15:03.040Z",
+        "contentHash": "3e6cc04d4f23350d55688b0a1c1d82279589a287de7577fdce4bad587f38dae9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/high-performance-computing",
+        "label": "MSc High Performance Computing",
+        "checkedAt": "2026-09-20T10:14:42.981Z",
+        "observedAt": "2026-09-20T10:14:42.981Z",
+        "contentHash": "abfd046916111a97736872cf21ee29c66dd4c829ff55315e74ccdbe48dc964a2",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/equations-mathematical-physics",
+        "label": "MSc Equations of Mathematical Physics",
+        "checkedAt": "2026-09-20T10:14:44.316Z",
+        "observedAt": "2026-09-20T10:14:44.316Z",
+        "contentHash": "9139f9673b3ee59b343c9ab46f0289e435437fcb320d23e3996e28e1be3e1b02",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/equations-mathematical-physics-and-their-applications",
+        "label": "MSc Equations of Mathematical Physics and their Applications",
+        "checkedAt": "2026-09-20T10:14:54.416Z",
+        "observedAt": "2026-09-20T10:14:54.416Z",
+        "contentHash": "fdccbb29bbeb037af846fdd4c3f5aa198e5acd6f51e3f495f59ff914d4599af0",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/optimization",
+        "label": "MSc Optimization",
+        "checkedAt": "2026-09-20T10:15:04.395Z",
+        "observedAt": "2026-09-20T10:15:04.395Z",
+        "contentHash": "477656431e99f0490f5f390f70fe525657760647132db84c099daa5322ea7e0c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/bio-and-medical-informatics",
+        "label": "MSc Bio- and Medical Informatics",
+        "checkedAt": "2026-09-20T10:15:24.409Z",
+        "observedAt": "2026-09-20T10:15:24.409Z",
+        "contentHash": "0614357783215994aaa0b7037937cf1ff2e414c29911513a0a1d75f36a893552",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/distributed-systems-and-mobile-technologies",
+        "label": "MSc Distributed Systems and Mobile Technologies",
+        "checkedAt": "2026-09-20T10:15:34.428Z",
+        "observedAt": "2026-09-20T10:15:34.428Z",
+        "contentHash": "ebb109473d350c89870980e7b5f60075fef3d99e32412b8cd521e01fda68911a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/logic-and-algorithms-0",
+        "label": "MSc Logic and Algorithms",
+        "checkedAt": "2026-09-20T10:15:44.407Z",
+        "observedAt": "2026-09-20T10:15:44.407Z",
+        "contentHash": "943a38132484bae24a17a4aa85fd161e90fc05c17c14302e6887a9746db96bb9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.fmi.uni-sofia.bg/en/probability-actuarial-sciences-and-statistics-0",
+        "label": "MSc Probability, Actuarial Sciences and Statistics",
+        "checkedAt": "2026-09-20T10:15:54.392Z",
+        "observedAt": "2026-09-20T10:15:54.392Z",
+        "contentHash": "9f399ee4bbc48401ec0d4b9104f462565922f1037574989aadbbd2f8cd626843",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -10915,14 +12247,13 @@
         }
       },
       {
-        "type": "research",
+        "type": "masters",
         "url": "https://tu-sofia.bg/en/faculties/faculty-of-computer-systems-and-technologies",
-        "label": "Facebook",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "FCST, todas las especialidades de las pestañas Bachelor/Master/PhD",
+        "observedAt": "2026-09-19T23:14:08.527Z",
+        "checkedAt": "2026-09-19T23:14:08.527Z",
+        "contentHash": "46d7080b6e4281d9ea465ad42bac56fa380b83a35c359ff092c1c17127014e4b",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -10968,42 +12299,38 @@
       {
         "type": "masters",
         "url": "https://www.di.uoa.gr/en/studies/graduate/cs",
-        "label": "Computer Science | Τμήμα Πληροφορικής και Τηλεπικοινωνιών ΕΚΠΑ",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "MSc Computer Science",
+        "checkedAt": "2026-09-20T10:15:34.436Z",
+        "observedAt": "2026-09-20T10:15:34.436Z",
+        "contentHash": "5326a8439b06e31014ad24871b5d44cd473339da1a06d00a819c2d2c395868ff",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
         "url": "https://www.di.uoa.gr/en/studies/graduate/dsit",
-        "label": "Data Science and Information Technologies",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "MSc Data Science and Information Technologies (DSIT)",
+        "checkedAt": "2026-09-20T10:16:12.415Z",
+        "observedAt": "2026-09-20T10:16:12.415Z",
+        "contentHash": "e12eaf0229ad9b1d4c1a50448e682b4b101540d4ff4b6cf786bd27250bd7e7db",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
         "url": "https://www.di.uoa.gr/en/studies/phd",
-        "label": "Doctoral (PhD) Studies | Τμήμα Πληροφορικής και Τηλεπικοινωνιών ΕΚΠΑ",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "PhD Informatics and Telecommunications",
+        "checkedAt": "2026-09-20T10:15:35.767Z",
+        "observedAt": "2026-09-20T10:15:35.767Z",
+        "contentHash": "d9e74bd44d0055bae21cdb895a967ca9e656230eff65305bde75f04c864564d0",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
         "url": "https://www.di.uoa.gr/en/studies/graduate",
-        "label": "Graduate (MSc) Studies | Τμήμα Πληροφορικής και Τηλεπικοινωνιών ΕΚΠΑ",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Departamento de Informática y Telecomunicaciones, índice íntegro de másteres actuales",
+        "observedAt": "2026-09-19T23:14:13.491Z",
+        "checkedAt": "2026-09-19T23:14:13.491Z",
+        "contentHash": "6a97faff2aac5e8fbd4f4f1881270b25d8cf500f8ed82c02a0cc4244858509c9",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -11014,6 +12341,15 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://www.di.uoa.gr/lt",
+        "label": "MSc Language Technology",
+        "checkedAt": "2026-09-20T10:16:12.721Z",
+        "observedAt": "2026-09-20T10:16:12.721Z",
+        "contentHash": "427d1cb161950350a6d017f86f5f134419b5a30a2c630ea873194bc1b1204c76",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -11047,14 +12383,13 @@
         }
       },
       {
-        "type": "research",
+        "type": "masters",
         "url": "https://mathtechfin.math.ntua.gr/en/",
-        "label": "Home - ΔΠΜΣ Μαθηματική Προτυποποίηση",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "MSc Mathematical Modeling in Modern Technologies and Financial Engineering",
+        "checkedAt": "2026-09-20T10:16:09.771Z",
+        "observedAt": "2026-09-20T10:16:09.771Z",
+        "contentHash": "904cb2de8f121dbb0ea2ffd51a714b108e2b0c42fd4b224fa1bde60766cd626b",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -11079,12 +12414,11 @@
       {
         "type": "masters",
         "url": "https://www.ntua.gr/en/school/postgraduate-studies",
-        "label": "Postgraduate Studies",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Tabla central completa de másteres interdisciplinares",
+        "observedAt": "2026-09-19T23:13:06.552Z",
+        "checkedAt": "2026-09-19T23:13:06.552Z",
+        "contentHash": "22983043425644fc2a715f84e49a2e184fdf67460574e1d070520bcc3d0ed380",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -11221,12 +12555,11 @@
       {
         "type": "masters",
         "url": "https://www.auth.gr/en/grad-en/",
-        "label": "Postgraduate Studies – ARISTOTLE UNIVERSITY OF ...",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Ruta de catálogo central y catálogo de Informática",
+        "observedAt": "2026-09-19T23:28:56.399Z",
+        "checkedAt": "2026-09-19T23:28:56.399Z",
+        "contentHash": "37abfd86a6f0e2948be7497748fb4a2cce1a0a22b4945449f14e6151b12b5df6",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -11272,12 +12605,11 @@
       {
         "type": "masters",
         "url": "https://math.uoc.gr/en/postgraduate-programmes-of-studies/",
-        "label": "Postgraduate Programmes of Studies – Τμήμα Μαθηματικών & Εφαρμοσμένων Μαθηματικών",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Mathematics and Applied Mathematics, índice completo de másteres",
+        "observedAt": "2026-09-19T23:13:08.175Z",
+        "checkedAt": "2026-09-19T23:13:08.175Z",
+        "contentHash": "d55b75a9bac48053c1cb63df97e018e79864c2ee5e3802126e49580ce688cc56",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -11298,6 +12630,51 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://math.uoc.gr/en/mathematics-and-its-applications/",
+        "label": "MSc Mathematics and its Applications",
+        "checkedAt": "2026-09-20T10:15:36.666Z",
+        "observedAt": "2026-09-20T10:15:36.666Z",
+        "contentHash": "d268f7b6afa12f8d79b1678cb64b98bed859451ddca2b866189284f945cbfab5",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://math.uoc.gr/en/pps-applied-and-computational-mathematics/",
+        "label": "MSc Applied and Computational Mathematics",
+        "checkedAt": "2026-09-20T10:15:40.067Z",
+        "observedAt": "2026-09-20T10:15:40.067Z",
+        "contentHash": "082c384b2f55916801504bc1884d2e1d3be478db2af5556a4dd23897afe50252",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://math.uoc.gr/en/postgraduate-programmes-of-studies/11730-2/",
+        "label": "MSc Mathematical Modelling and Scientific Computing",
+        "checkedAt": "2026-09-20T10:15:43.090Z",
+        "observedAt": "2026-09-20T10:15:43.090Z",
+        "contentHash": "7f551946abbe9d9ecc38e34f06b089e49e635f51085d7779c3fdbe8a60c945ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://math.uoc.gr/en/postgraduate-programmes-of-studies/pps-data-analysis-and-machine-statistical-learning/",
+        "label": "MSc Data Analysis and Statistical Machine Learning",
+        "checkedAt": "2026-09-20T10:15:44.717Z",
+        "observedAt": "2026-09-20T10:15:44.717Z",
+        "contentHash": "d4ec28cad061369a70d584066c6cddea706daf3e65a21a46281b460719b02b6a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://math.uoc.gr/en/doctoral-degree/",
+        "label": "PhD Mathematics and Applied Mathematics",
+        "checkedAt": "2026-09-20T10:15:46.474Z",
+        "observedAt": "2026-09-20T10:15:46.474Z",
+        "contentHash": "8f208ae52b6a7b4d27128fb6697995150e8e878e3ff037a687e487c439c35692",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -11434,12 +12811,9 @@
       {
         "type": "masters",
         "url": "https://www.ucy.ac.cy/graduateschool/master-programmes-of-study/?lang=en",
-        "label": "Master Programmes – Graduate School",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Catálogo central de posgrado y programa independiente Data Science",
+        "observedAt": null,
+        "accessOutcome": "access_pending"
       }
     ],
     "_review": {
@@ -11476,22 +12850,20 @@
       {
         "type": "masters",
         "url": "https://www.cut.ac.cy/faculties/fet/eecse/degrees/postgraduate/msc-ai-data-engineering/?languageId=1",
-        "label": "Τεχνητή Νοημοσύνη και Μηχανική Δεδομένων",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "MSc Artificial Intelligence and Data Engineering",
+        "checkedAt": "2026-09-20T10:16:10.834Z",
+        "observedAt": "2026-09-20T10:16:10.834Z",
+        "contentHash": "88917a866faa9aa327616d267830de41ce832a0569a5022e0ef1c5031c714a11",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
         "url": "https://www.cut.ac.cy/studies/masters/?languageId=1",
-        "label": "Master Programmes - Cyprus University of Technology",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Catálogo central completo de másteres visible",
+        "observedAt": "2026-09-19T23:14:27.625Z",
+        "checkedAt": "2026-09-19T23:14:27.625Z",
+        "contentHash": "3aa3d9a409360482a8f240e6d6b6ffb8f08855e07e2540f7d208cca728b0b2d4",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -11512,6 +12884,15 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "funding",
+        "url": "https://www.cut.ac.cy/studies/masters/%CE%A7%CF%81%CE%B7%CE%BC%CE%B1%CF%84%CE%BF%CE%B4%CF%8C%CF%84%CE%B7%CF%83%CE%B7+%CF%86%CE%BF%CE%B9%CF%84%CE%B7%CF%84%CF%8E%CE%BD/scholarships_socialsupport/?languageId=1",
+        "label": "Social Support Scholarships — Masters and PhD",
+        "checkedAt": "2026-09-20T10:16:11.658Z",
+        "observedAt": "2026-09-20T10:16:11.658Z",
+        "contentHash": "b13a6334a219db21116adf892442f82dcbebb5f5b572d3e90ccd85247cb97002",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -11610,22 +12991,20 @@
       {
         "type": "phd",
         "url": "https://www.matf.bg.ac.rs/studije/doktorske-studije/phd-studies-informatics/",
-        "label": "PHD studies Study program – Informatics - Математички факултет",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "PhD Informatics",
+        "checkedAt": "2026-09-20T10:15:49.827Z",
+        "observedAt": "2026-09-20T10:15:49.827Z",
+        "contentHash": "831ea2891d8c81b59494aa1eae8b0843f245a1e48d434ed4a282c3843932f422",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
         "url": "https://www.matf.bg.ac.rs/studije/doktorske-studije/phd-studies-mathematics/",
-        "label": "PHD studies Study program – Mathematics - Математички факултет",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "PhD Mathematics",
+        "checkedAt": "2026-09-20T10:15:50.917Z",
+        "observedAt": "2026-09-20T10:15:50.917Z",
+        "contentHash": "548bfee3fa3cdc208b24e4f2f55f5834d90c7192ca08f00c5f8817901db77bd8",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -11656,6 +13035,15 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://www.matf.bg.ac.rs/studije/master-studije/",
+        "label": "Facultad de Matemáticas, oferta completa de másteres listada",
+        "observedAt": "2026-09-19T23:15:17.578Z",
+        "checkedAt": "2026-09-19T23:15:17.578Z",
+        "contentHash": "5cfa67e6cab17651eb6bc6488be8869aaca8ff9cb6dbaccbe29f01a5010d479f",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -11689,14 +13077,13 @@
         }
       },
       {
-        "type": "research",
+        "type": "masters",
         "url": "https://www.pmf.uns.ac.rs/en/studies/study-programs/",
-        "label": "Study Programmes – FACULTY OF SCIENCES",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Facultad de Ciencias, todas las filas estructuradas actuales e históricas",
+        "observedAt": "2026-09-19T23:13:11.560Z",
+        "checkedAt": "2026-09-19T23:13:11.560Z",
+        "contentHash": "3cc274f042ff1040f84cb27977db9fe8aee32a3164a017f0ffde9de3af487741",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -11727,6 +13114,33 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://www.pmf.uns.ac.rs/en/studies/study-programs/msc-artificial-intelligence-2022/",
+        "label": "Master of Artificial Intelligence",
+        "checkedAt": "2026-09-20T10:15:46.494Z",
+        "observedAt": "2026-09-20T10:15:46.494Z",
+        "contentHash": "bedaa4a2fa874dd4053741446971ef49746af36f85fe4b896db564c7445b1a5a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.pmf.uns.ac.rs/en/studies/study-programs/doctoral-school-of-mathematics-2024/",
+        "label": "Doctoral School of Mathematics — programa conjunto",
+        "checkedAt": "2026-09-20T10:15:48.239Z",
+        "observedAt": "2026-09-20T10:15:48.239Z",
+        "contentHash": "74edd122cfa920bf2471aa854309997cc949630b3ca0c6d2231783490a7dfe9d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.pmf.uns.ac.rs/en/studies/study-programs/phd-in-mathematics/",
+        "label": "PhD Mathematics",
+        "checkedAt": "2026-09-20T10:15:49.799Z",
+        "observedAt": "2026-09-20T10:15:49.799Z",
+        "contentHash": "361aacdb4fdf8254c8b4f7f425f71417be45be18e14aed29a8af3cd5eff96996",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -13822,5 +15236,107 @@
       }
     ],
     "geographyNote": "Ampliación académica del EEES; sede en Tbilisi. No se presume localización en la Europa geográfica."
+  },
+  {
+    "id": "west-us",
+    "name": "Universidad de Sevilla",
+    "country": "ES",
+    "domains": [
+      "us.es"
+    ],
+    "officialUrl": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres",
+        "label": "Índice oficial de másteres",
+        "checkedAt": "2026-09-19T22:57:44.629Z",
+        "observedAt": "2026-09-19T22:57:44.629Z",
+        "contentHash": "5ef488d0e5f3dbe7bf9e9d43335f2eb1da334102baeb5e12a6d98f1c206946ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://doctorado.us.es/estudios/programas-de-doctorado",
+        "label": "Índice oficial de doctorados",
+        "checkedAt": "2026-09-19T23:05:07.442Z",
+        "observedAt": "2026-09-19T23:05:07.442Z",
+        "contentHash": "584f93994a92d8269f6831f2646831dd4fc9b3805df3c4c69ccd5696ba3cda4e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-analisis-de-datos-omicos-y",
+        "label": "Máster Universitario en Análisis de Datos Ómicos y Biología de Sistemas",
+        "checkedAt": "2026-09-20T09:58:54.200Z",
+        "observedAt": "2026-09-19T23:06:15.037Z",
+        "contentHash": "251cb2a3caada3d7896e6099771774a2b43dcee5f99996bca812e642dd236423",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-estadistica-avanzada-y-ciencia-de",
+        "label": "Máster Universitario en Estadística Avanzada y Ciencia de Datos",
+        "checkedAt": "2026-09-20T09:58:55.577Z",
+        "observedAt": "2026-09-19T23:06:16.006Z",
+        "contentHash": "7deadf859a8f274d204fe9e84ee3dc467ea8818ca55f6620acdb37e2df55b11c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-matematicas",
+        "label": "Máster Universitario en Matemáticas",
+        "checkedAt": "2026-09-20T09:58:56.322Z",
+        "observedAt": "2026-09-19T23:06:16.760Z",
+        "contentHash": "1d8350a7027ee285f31645561055b99ccf8b9b3752840d40d86c930e3d434961",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-ingenieria-del-software-cloud",
+        "label": "Máster Universitario en Ingeniería del Software: Cloud, Datos y Gestión de las Tecnologías de la Información",
+        "checkedAt": "2026-09-20T09:58:57.229Z",
+        "observedAt": "2026-09-19T23:06:18.300Z",
+        "contentHash": "e8c1b80302583a51873bb02cb27a8320f7b6a10fedf5b00d4de02a8af6c18ad1",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-ingenieria-informatica",
+        "label": "Máster Universitario en Ingeniería Informática",
+        "checkedAt": "2026-09-20T09:58:58.873Z",
+        "observedAt": "2026-09-19T23:06:19.981Z",
+        "contentHash": "1d572cce09a24ff1da2e1e2645fcdea18e895a0b6be4f4dd2a3f8fc939d87aba",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-logica-computacion-e-inteligencia",
+        "label": "Máster Universitario en Lógica, Computación e Inteligencia Artificial",
+        "checkedAt": "2026-09-20T09:59:00.100Z",
+        "observedAt": "2026-09-19T23:06:20.788Z",
+        "contentHash": "409c83c19cb19c19b542bbe415e7bb56ab794dd404432bb4c04f4b23cbeed8d3",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://doctorado.us.es/estudios/programas-de-doctorado/matematicas",
+        "label": "Doctorado en Matemáticas",
+        "checkedAt": "2026-09-20T09:59:00.138Z",
+        "observedAt": "2026-09-19T23:08:02.409Z",
+        "contentHash": "1401b5cc3059ca23e3f32ddf1579db0a018d10339aed71d4661e737b6ff74bbc",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://doctorado.us.es/estudios/programas-de-doctorado/ingenieria-informatica",
+        "label": "Doctorado en Ingeniería Informática",
+        "checkedAt": "2026-09-20T09:59:02.300Z",
+        "observedAt": "2026-09-19T23:08:04.815Z",
+        "contentHash": "4dd7c804398735cac9fccffe0e962d6d93cb7a8c6a020ae4aad1e42c5c078efa",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T10:05:59.638Z"
   }
 ]

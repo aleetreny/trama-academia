@@ -82,6 +82,8 @@ Los programas pueden aportar varias páginas y documentos mediante `evidencePage
 
 Para revisar solo programas sin reutilizar el identificador de una ejecución anterior: `npm run harvest:programmes -- --standalone`. Este modo crea una ejecución trazable independiente; la actualización semanal incorpora la revisión al barrido completo.
 
+Para comprobar un lote ya incorporado a las semillas o repetir fallos transitorios: `npm run harvest:programmes -- --only=work/seleccion.json --standalone`. El archivo contiene una lista de URLs o de objetos con `url`; solo selecciona identidades y nunca importa sus datos editoriales. Las URLs desconocidas y las listas vacías se rechazan. Se conservan las demás fichas y fuentes, y esta revisión parcial no actualiza la fecha de comprobación del conjunto completo.
+
 El comportamiento y las limitaciones de los nuevos conectores se documentan en [docs/source-adapters.md](docs/source-adapters.md).
 
 El universo de búsqueda, la cola reanudable y el método de tiers se documentan en [docs/institution-discovery.md](docs/institution-discovery.md).
