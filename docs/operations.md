@@ -87,7 +87,7 @@ La sincronización escribe por lotes: puede quedar a medias si falla. Repetirla 
 
 ### Esquema
 
-Las migraciones SQL versionadas están en `db/migrations/`. `npm run db:migrate` las aplica con `DATABASE_URL`; probar primero en una rama de validación de Neon. La rutina semanal no ejecuta migraciones ni necesita permisos de administración. `npm run db:generate` genera propuestas de migración que deben revisarse antes de aplicarlas.
+Las migraciones SQL versionadas están en `db/migrations/`. `npm run db:migrate` las aplica con `DATABASE_URL`; probar primero en una rama de validación de Neon. La rutina semanal no ejecuta migraciones ni necesita permisos de administración. La migración `0002_observation_url_hash` conserva las URLs completas de las observaciones y sustituye su clave de índice por una huella de longitud fija, para admitir enlaces largos. El índice no es único; las consultas de identidad deben contrastar también la URL completa. `npm run db:generate` genera propuestas de migración que deben revisarse antes de aplicarlas.
 
 ### Código y respaldo de Sites
 
@@ -106,6 +106,8 @@ COPYFILE_DISABLE=1 node scripts/package-site.mjs /tmp/trama-site.tar.gz
 ```
 
 En macOS, `COPYFILE_DISABLE=1` evita los metadatos AppleDouble. Inspeccionar también los miembros reales del archivo comprimido y verificar el Worker antes de subirlo. Nunca reutilizar `dist/` de otro commit. Un cambio de documentación en GitHub no necesita por sí solo un despliegue del sitio.
+
+Para comprobar el índice de observaciones en una base configurada, ejecutar `node scripts/db/check-observation-url-index.mjs` con `DATABASE_URL` disponible. La prueba copia la estructura y los índices a una tabla temporal, comprueba dos URLs largas y su igualdad exacta, y elimina la tabla al terminar la transacción. No modifica filas persistentes.
 
 ## Lectura pública y rendimiento
 

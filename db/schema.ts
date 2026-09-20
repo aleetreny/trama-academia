@@ -1,4 +1,5 @@
 import { pgTable, text, timestamp, jsonb, integer, index, boolean } from 'drizzle-orm/pg-core';
+import { sql } from 'drizzle-orm';
 
 export const opportunities = pgTable('opportunities', {
   id: text('id').primaryKey(),
@@ -30,7 +31,9 @@ export const observations = pgTable('observations', {
   id:text('id').primaryKey(), runId:text('run_id').notNull(), url:text('url').notNull(),
   checkedAt:timestamp('checked_at',{withTimezone:true}).notNull(), httpStatus:integer('http_status'),
   hash:text('content_hash'), outcome:text('outcome').notNull(),
-},(t)=>[index('observations_url_checked_idx').on(t.url,t.checkedAt)]);
+// Keep complete URLs, including long query strings, outside the bounded B-tree
+// key. This index is non-unique; URL equality still requires checking the text.
+},(t)=>[index('observations_url_hash_checked_idx').on(sql`md5(${t.url})`,t.checkedAt)]);
 
 export const institutions = pgTable('institutions', {
   id:text('id').primaryKey(), country:text('country').notNull(), name:text('name').notNull(),

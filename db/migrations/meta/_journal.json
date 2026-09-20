@@ -15,6 +15,13 @@
       "when": 1789853855380,
       "tag": "0001_institution_registry",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789943268056,
+      "tag": "0002_observation_url_hash",
+      "breakpoints": true
     }
   ]
 }
