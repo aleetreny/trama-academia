@@ -1,5 +1,57 @@
 import {load} from 'cheerio';
 import {clean} from './domain.mjs';
+const hiddenOrNavigation='nav,aside,footer,[role="navigation"],[role="banner"],[hidden],[aria-hidden="true"],[style*="display:none"],[style*="display: none"]';
+function degreeAdmissionPanels($){
+ // Radboud's visible previous-degree selector opens two labelled regions. The
+ // same data-id also occurs in calendars and manuals; each accepted region
+ // needs its own control, section and label before it can supply facts.
+ const panels=new Set();
+ $('div.node--type-admission-reqs-ma.node--full .section--selections select#prev-education.content-selector__options').each((_,element)=>{
+  const control=$(element),owner=control.closest('div.node--type-admission-reqs-ma.node--full');
+  if($('select#prev-education').length!==1||control.is(':disabled,[aria-disabled="true"]')||control.closest(hiddenOrNavigation).length)return;
+  for(const label of ['Dutch degree','Non-Dutch degree']){
+   const option=control.children('option').filter((_,e)=>clean($(e).text())===label),value=option.attr('value');
+   if(option.length!==1||!/^prev-education-[12]$/.test(value||''))continue;
+   const region=owner.find('.section--admission-requirements').children(`div[role="region"][data-id="${value}"][aria-label="Admission requirements ${label}"]`);
+   if(region.length===1&&region.parent().closest(hiddenOrNavigation).length===0&&clean(region.find('h2').first().text())===label){region.find('h2').first().after(' ');panels.add(region[0]);}
+  }
+  // Calendars depend on both nationality and previous education. Preserve all
+  // six controlled combinations with their source labels, never a bare date.
+  const nationality=owner.find('.section--selections select#admissions-period.content-selector__options');
+  if(nationality.length!==1||$('select#admissions-period').length!==1||nationality.is(':disabled,[aria-disabled="true"]')||nationality.closest(hiddenOrNavigation).length)return;
+  const degrees=['Dutch degree','Non-Dutch degree'].map(label=>({label,options:control.children('option').filter((_,e)=>clean($(e).text())===label)}));
+  if(degrees.some(x=>x.options.length!==1||!/^prev-education-[12]$/.test(x.options.attr('value')||''))||new Set(degrees.map(x=>x.options.attr('value'))).size!==2)return;
+  for(const label of ['Dutch','EU/EEA country','Non-EU/EEA country']){
+   const option=nationality.children('option').filter((_,e)=>clean($(e).text())===label),value=option.attr('value');
+   if(option.length!==1||!/^admissions-period-[123]$/.test(value||''))continue;
+   const calendar=owner.find('div.section').children(`div[role="region"][data-id="${value}"][aria-label="Application period ${label}"]`);
+   if(calendar.length!==1||calendar.parent().closest(hiddenOrNavigation).length)continue;
+   const combinations=degrees.map(x=>({...x,region:calendar.children(`div[role="region"][data-id="${x.options.attr('value')}"]`)}));
+   if(combinations.some(x=>x.region.length!==1||x.region.children('.section--deadlines').length!==1||clean(x.region.children('.section--deadlines').children('h3').first().text())!=='Application period'))continue;
+   calendar.prepend($('<p>').text(calendar.attr('aria-label')+' '));panels.add(calendar[0]);
+   calendar.children('div[role="region"][data-id="prev-education-0"]').remove();
+   for(const {label:degreeLabel,region} of combinations){region.prepend($('<p>').text(degreeLabel+' '));panels.add(region[0]);}
+  }
+ });
+ return panels;
+}
+function restoreSelectedCourseHeaders($){
+ // Antwerp serves several academic years in one response. Keep the selected
+ // year's course titles only when their link, year and visible code agree.
+ $('section.pane.stateActive[id]').each((_,element)=>{
+  const pane=$(element),match=(pane.attr('id')||'').match(/^(M\d{7})-(\d{4})$/);
+  if(!match||pane.closest(hiddenOrNavigation).length)return;
+  const siblings=pane.parent().children('section.pane[id]').filter((_,e)=>new RegExp('^'+match[1]+'-\\d{4}$').test($(e).attr('id')||''));
+  if(siblings.filter('.stateActive').length!==1||!pane.find('section.programmes').length)return;
+  siblings.not(pane).remove();
+  pane.find('section.course > header > h5.heading > a[href]').each((_,link)=>{
+   const heading=$(link),header=heading.closest('header'),course=header.parent('section.course');
+   const code=clean(course.children('div.mainCourse').find('.spec.guideNr > .value').text());
+   const ref=(heading.attr('href')||'').match(/^\?id=(\d{4})-([A-Za-z0-9]+)(?:&|$)/);
+   if(ref&&ref[1]===match[2]&&ref[2]===code&&course.closest(hiddenOrNavigation).length===0&&header.children('h5.heading').length===1&&course.children('div.mainCourse').find('.spec.points > .value').length===1)header.replaceWith(header.contents());
+  });
+ });
+}
 function restoreStreamedBoundaries($){
  // React's completed Suspense fragments are initially hidden outside <main>.
  // Resolve only explicit successful B:/S: pairs with an intact boundary. Never
@@ -29,6 +81,7 @@ function restoreStreamedBoundaries($){
 }
 export function programmeText(html){
  const $=load(html);restoreStreamedBoundaries($);
+ const degreePanels=degreeAdmissionPanels($);restoreSelectedCourseHeaders($);
  // Reading places a real mobile tab trigger inside a header and gives it the
  // unusual role=tabpanel. Capture only its reciprocal, same-section panel before
  // removing headers; navigation and arbitrary hidden fragments stay excluded.
@@ -69,9 +122,16 @@ export function programmeText(html){
   const item=$(element),id=item.attr('id');
   // Programme details may be initially collapsed but available through a real
   // disclosure button. Preserve those panels, never generic hidden templates.
-  const disclosure=(id&&controlled.has(id))||(/accordion.*content/i.test(item.attr('class')||'')&&item.siblings('button[aria-expanded]').length>0);
+  const disclosure=degreePanels.has(element)||(id&&controlled.has(id))||(/accordion.*content/i.test(item.attr('class')||'')&&item.siblings('button[aria-expanded]').length>0);
   if(!disclosure)item.remove();
  });
+ // Ametys can join the visible module heading directly to the ECTS label.
+ // Restore the heading boundary instead of weakening the thesis word boundary.
+ $('h1.ametys-main-banner-alt__title').after(' ');
+ // EHU's own research-line table is minified. Restore its cell/list boundaries
+ // while preserving the established evidence text of other institutional sites.
+ const lines=$('div.upv-tabla > table#tableSearchProfesorado');
+ if(lines.length===1&&$('#tableSearchProfesorado').length===1&&clean(lines.children('caption').text())==='Equipos y líneas de investigación'&&lines.find('thead > tr > th').map((_,e)=>clean($(e).text())).get().join('|')==='Equipos de investigación|Líneas de investigación')lines.find('li,td,th').prepend(' ').append(' ');
  const main=$('main');
  // Some university templates place the page title immediately before <main>.
  // Preserve a single visible page heading, but never headings from navigation,
@@ -86,6 +146,13 @@ export function programmeText(html){
 }
 export function hasResearchComponent(text){
  text=String(text).normalize('NFC');
+ // Dutch curricula use masterproef/masterproeven for the master's dissertation.
+ if(/(?<!\p{L})masterproe(?:f|ven)(?!\p{L})/iu.test(text))return true;
+ // cog-SUP requires a research placement with preregistration and assessment.
+ if(/\bDuring the M2, all students will do a long internship\b/i.test(text)&&/\bstudents will submit a preregistration document\b/i.test(text)&&/\bstudents will submit a full report and present in front of an interdisciplinary jury\b/i.test(text))return true;
+ // Lyon describes this final placement across two sentences; the second ties
+ // it explicitly to research training and a research laboratory.
+ if(/\bstage de fin d[’']études\b[^.!?;]{0,150}\.\s*Il constitue une initiation aux métiers de la recherche,\s*il peut être effectué en laboratoire de recherche\b/i.test(text))return true;
  // Ioannina's regulation names a postgraduate dissertation in the genitive.
  if(/(?<!\p{L})μεταπτυχιακής\s+διπλωματικής\s+εργασίας(?!\p{L})/iu.test(text))return true;
  // The TUI course PDF splits a diacritic inside its dissertation title. Require

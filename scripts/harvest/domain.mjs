@@ -13,6 +13,14 @@ export function fieldsFrom(text){
   // Normalise the languages observed in programme catalogues before applying the
   // shared discipline rules. This prevents an English-only admission bias.
   text=String(text).replace(/mathematics applied to/gi,'applied mathematics');
+  // Côte d'Azur lists numerical mathematics as its own doctoral speciality.
+  text=text.replace(/(?<!\p{L})mathématiques numériques(?!\p{L})/giu,'applied mathematics');
+  // Named research specialities: numerical modelling, time-series analysis and
+  // telematic networks. Generic climate science, finance or radio engineering
+  // alone does not establish one of the catalogue's disciplines.
+  text=text.replace(/(?<!\p{L})modélisation,\s*méthodes numériques(?!\p{L})/giu,'applied mathematics');
+  text=text.replace(/(?<!\p{L})time[ -]series analysis(?!\p{L})/giu,'statistics');
+  text=text.replace(/(?<!\p{L})redes y servicios telemáticos(?!\p{L})/giu,'computer science');
   // JYU uses the Finnish subject name and its genitive in programme curricula.
   text=text.replace(/\bkyberturvallisuu(?:s|den)\b/gi,'cyber security');
   // Bergen's official subject name includes both computing and information science.
