@@ -20,6 +20,8 @@ TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, invest
 
 **La cobertura es parcial y medible. No es un inventario exhaustivo de Europa, ni una comprobación continua de todas las webs.** AcademicTransfer todavía descubre anuncios por títulos con disciplina reconocible; EURAXESS puede bloquear páginas adicionales. Los detalles de cada barrido se muestran en `/fuentes`.
 
+La [revisión de financiación nórdica del 20 de septiembre de 2026](docs/nordic-funding-review-2026-09-20.md) documenta 52 programas incorporados, la cobertura de doce financiadores, las ediciones agrupadas y las discrepancias entre anuncios y bases.
+
 ## Desarrollo
 
 Node 22.19 o posterior. Instalar con `npm ci`, ejecutar `npm run dev` y abrir la dirección local impresa. La aplicación usa React, Vinext, componentes shadcn, CSS propio y un Worker de Sites.

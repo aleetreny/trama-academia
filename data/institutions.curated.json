@@ -29219,7 +29219,7 @@
       {
         "url": "https://web.unica.it/unica/it/studenti_s01_ss05.page",
         "type": "phd",
-        "label": "explicitly linked legacy doctoral index · Doctorado Data Science",
+        "label": "Índice oficial de programas de doctorado · Doctorado Data Science",
         "observedAt": "2026-09-20T18:42:22.469Z",
         "checkedAt": "2026-09-20T18:42:22.469Z",
         "contentHash": "a4d85767d71315c66d7035da62c209225b7e42b02f0612d4977754c8cd9f1394",
@@ -29492,7 +29492,7 @@
       {
         "url": "https://web.unica.it/unica/it/studenti_s01_ss05.page",
         "type": "phd",
-        "label": "explicitly linked legacy doctoral index · Doctorado Data Science",
+        "label": "Índice oficial de programas de doctorado · Doctorado Data Science",
         "observedAt": "2026-09-20T18:42:22.469Z",
         "checkedAt": "2026-09-20T18:42:22.469Z",
         "contentHash": "a4d85767d71315c66d7035da62c209225b7e42b02f0612d4977754c8cd9f1394",
@@ -42890,7 +42890,7 @@
       {
         "url": "https://dff.dk/media/1yjno2gi/call-for-proposals-for-independent-research-2026.pdf",
         "type": "funding",
-        "label": "Bases DFF 2026: solicitudes, movilidad y antigüedad doctoral · págs. 6, 9, 13, 14, 15, 16, 50, 51 · DFF-International Postdoctoral Grant — convocatoria 2026",
+        "label": "Bases oficiales y límites de solicitud · págs. 6, 9, 10, 11 · DFF — Non-university Research Education (PhD)",
         "observedAt": "2026-09-20T16:37:31.823Z",
         "checkedAt": "2026-09-20T16:37:31.823Z",
         "contentHash": "c6ce46da37e9560323f6a7ccf77b317ead75fa0ee70d5be4bd5369ffca1e656a",
@@ -42903,6 +42903,114 @@
         "observedAt": "2026-09-20T16:12:04.424Z",
         "checkedAt": "2026-09-20T16:12:04.424Z",
         "contentHash": "aec6d5ad3ebac2df915ca40f4c094cd201c7154b2bd1d0723f7ee366c5bc57b8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2026/oktober/sapere-aude-dff-research-leader-e26/",
+        "type": "funding",
+        "label": "DFF — Sapere Aude: Research Leader",
+        "observedAt": "2026-09-20T20:16:15.016Z",
+        "checkedAt": "2026-09-20T20:16:15.016Z",
+        "contentHash": "284f48b44a316b922ef7d31f8264cabc0715ac1f1ede4137191dcee9a751b04b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2026/oktober/dff-research-project2-e26/",
+        "type": "funding",
+        "label": "DFF — Research Project 2",
+        "observedAt": "2026-09-20T20:16:15.731Z",
+        "checkedAt": "2026-09-20T20:16:15.731Z",
+        "contentHash": "7a958338667e33169b538886fee385f86c53d5574eda9bd3a709f225b6d9dd66",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/maj/dff-research-project1-f26/",
+        "type": "funding",
+        "label": "DFF — Research Project 1",
+        "observedAt": "2026-09-20T20:36:40.020Z",
+        "checkedAt": "2026-09-20T20:36:40.020Z",
+        "contentHash": "80aad430379cc10c2f48d69116770e1c27a360c1a811d01c85f972e1190ab556",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/september/non-university-research-education-phd-e26/",
+        "type": "funding",
+        "label": "DFF — Non-university Research Education (PhD)",
+        "observedAt": "2026-09-20T20:36:40.852Z",
+        "checkedAt": "2026-09-20T20:36:40.852Z",
+        "contentHash": "f0cfea2e2bd1cebc161cdfe4ddf3a7ad17957c347da87fe48463037a252c3295",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/juni/the-inge-lehmann-programme/",
+        "type": "funding",
+        "label": "DFF — Inge Lehmann Programme",
+        "observedAt": "2026-09-20T20:36:42.340Z",
+        "checkedAt": "2026-09-20T20:36:42.340Z",
+        "contentHash": "070cd458a72838160476c1b332e0b2b2ae6df4a3e061720ac204a871beb71e43",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/media/fqxcsxnq/call-for-funding-for-inge-lehmann-2026.pdf",
+        "type": "funding",
+        "label": "Bases oficiales y límites de solicitud · págs. 6, 9, 11, 12 · DFF — Inge Lehmann Programme",
+        "observedAt": "2026-09-20T20:35:50.431Z",
+        "checkedAt": "2026-09-20T20:35:50.431Z",
+        "contentHash": "48b0a0fe8113d3dac927914b66427ad9402267918118e098b245d38b68965b37",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2027/februar/research-on-artificial-intelligence-2027/",
+        "type": "funding",
+        "label": "DFF — Research on Artificial Intelligence",
+        "observedAt": "2026-09-20T20:16:16.347Z",
+        "checkedAt": "2026-09-20T20:16:16.347Z",
+        "contentHash": "e65f99a8c50a138a6431631874a3a7b289f69eef7c03aaf12c45d98160c7111c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/media/4fmdkmuj/call-for-proposals-thematic-research-2026-2029.pdf",
+        "type": "funding",
+        "label": "Bases oficiales y límites de solicitud · págs. 6, 9, 16, 17, 20, 21 · DFF — Green Research",
+        "observedAt": "2026-09-20T20:35:41.352Z",
+        "checkedAt": "2026-09-20T20:35:41.352Z",
+        "contentHash": "c3500c1ea668a3b5a19280e195ecfbdd19a2f0cc27f1c348fea1978b565b7a43",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/instruments/2027/februar/green-research-2027/",
+        "type": "funding",
+        "label": "DFF — Green Research",
+        "observedAt": "2026-09-20T20:16:17.193Z",
+        "checkedAt": "2026-09-20T20:16:17.193Z",
+        "contentHash": "0e39e7428c84948496ed8d10276925ef69fe8398d5943a7dc4ea32fc6e2ac087",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/managing-your-grant/previous-calls-and-guidelines/previous-calls-and-guidelines/expired-instruments/2026/juni/research-on-artificial-intelligence-in-the-cancer-field/",
+        "type": "funding",
+        "label": "DFF — Research on Artificial Intelligence in the Cancer Field",
+        "observedAt": "2026-09-20T20:37:21.345Z",
+        "checkedAt": "2026-09-20T20:37:21.345Z",
+        "contentHash": "7f6d3d3103633f0de12a2b1322424b2d41455b56dffcab14bfd5a009830581c4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/media/incj5mgg/call-for-proposals-thematic-research-2026.pdf",
+        "type": "funding",
+        "label": "Bases oficiales y límites de solicitud · págs. 6, 9, 16, 17 · DFF — Research on Artificial Intelligence in the Cancer Field",
+        "observedAt": "2026-09-20T20:35:55.188Z",
+        "checkedAt": "2026-09-20T20:35:55.188Z",
+        "contentHash": "13ad39ee5c20e7bc3480b6c89e0248fb526ecef6e51005780a8e86c9d2feba7f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dff.dk/en/apply-for-funding/see-what-you-can-apply-for/current-funding-opportunities/",
+        "type": "index",
+        "label": "Página oficial de financiación · Independent Research Fund Denmark",
+        "observedAt": "2026-09-20T19:37:23.394Z",
+        "checkedAt": "2026-09-20T19:37:23.394Z",
+        "contentHash": "c9566c45daba80283918ca3e304f266611c0bceceddec8ca64647f1d40f3e272",
         "accessOutcome": "ok"
       }
     ],
@@ -42925,6 +43033,114 @@
         "observedAt": "2026-09-20T16:12:04.927Z",
         "checkedAt": "2026-09-20T16:12:04.927Z",
         "contentHash": "4a5d796f28b68e7009fb4006608fb8fc7ebdfeb6ea6394a341c1b461474f8df6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-starting-grant-within-natural-and-engineering-sciences.html",
+        "type": "funding",
+        "label": "VR — Starting Grant in Natural and Engineering Sciences",
+        "observedAt": "2026-09-20T20:16:12.591Z",
+        "checkedAt": "2026-09-20T20:16:12.591Z",
+        "contentHash": "41c36eab86a103c9fcb477f50af1c4c7b2c3ef4cae1b76e6c114df31b2561ec0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-research-project-grant-within-natural-and-engineering-sciences.html",
+        "type": "funding",
+        "label": "VR — Research Project Grant in Natural and Engineering Sciences",
+        "observedAt": "2026-09-20T20:16:13.403Z",
+        "checkedAt": "2026-09-20T20:16:13.403Z",
+        "contentHash": "edc1efd6d54ed5758998297bb90cb08525591075ce1ba4836a68bac1b237a454",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-06-03-exploratory-grant-in-groundbreaking-research.html",
+        "type": "funding",
+        "label": "VR — Exploratory Grant in Groundbreaking Research",
+        "observedAt": "2026-09-20T20:16:05.382Z",
+        "checkedAt": "2026-09-20T20:16:05.382Z",
+        "contentHash": "6c516eea0cb2bb0200308b40a81d79f5158999676735ecf5e8079ce7cc1d2306",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-24-grant-for-recruiting-international-visiting-researchers-to-sweden-2026.html",
+        "type": "funding",
+        "label": "VR — Recruiting International Visiting Researchers to Sweden",
+        "observedAt": "2026-09-20T20:16:04.807Z",
+        "checkedAt": "2026-09-20T20:16:04.807Z",
+        "contentHash": "d5c49c3d489a2e8e887e9adaeed43febdbf4829829be9ca8bd3971503362df26",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-strategic-recruitment-of-associate-senior-lecturers-2.html",
+        "type": "funding",
+        "label": "VR — Strategic Recruitment of Associate Senior Lecturers",
+        "observedAt": "2026-09-20T20:16:06.219Z",
+        "checkedAt": "2026-09-20T20:16:06.219Z",
+        "contentHash": "2480d602cdeab7b7cfbf6f5d682eb17c89a6238c709740d035d2ca2ec2b6e491",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-10-08-strategic-recruitment-of-associate-senior-lecturers.html",
+        "type": "funding",
+        "label": "Primera ronda de 2026 del mismo instrumento · VR — Strategic Recruitment of Associate Senior Lecturers",
+        "observedAt": "2026-09-20T20:16:08.567Z",
+        "checkedAt": "2026-09-20T20:16:08.567Z",
+        "contentHash": "d26ec1dac3d2294a2a5019c4e6c2b3ae2b1c8ce7e552a650d693c6b67219ece0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2025-11-11-grant-for-centre-of-excellence.html",
+        "type": "funding",
+        "label": "VR — Centre of Excellence",
+        "observedAt": "2026-09-20T20:16:14.155Z",
+        "checkedAt": "2026-09-20T20:16:14.155Z",
+        "contentHash": "fb863b4e1e35f9274351a683cead0768b9dca0bd398cd995b197f33a054b4187",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-04-22-project-grant-for-research-collaboration-between-italy-and-sweden-in-quantum-and-solar-technologies.html",
+        "type": "funding",
+        "label": "VR–MAECI — colaboración Italia–Suecia en tecnologías cuánticas y solares",
+        "observedAt": "2026-09-20T20:16:06.951Z",
+        "checkedAt": "2026-09-20T20:16:06.951Z",
+        "contentHash": "3512420c6e32623851b68ffcbce31cd0fc8e7ed5b4cb2f447ee3e0cad4c13a36",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-01-27-project-grant-for-research-collaboration-between-south-korea-and-sweden.html",
+        "type": "funding",
+        "label": "VR–NRF — IA para ciencias de la vida: colaboración Suecia–Corea",
+        "observedAt": "2026-09-20T20:16:11.805Z",
+        "checkedAt": "2026-09-20T20:16:11.805Z",
+        "contentHash": "9e9e7d05ae4a66b7554aeab96d3f16cf306cdf5f86f0df9c2aa65a85aadfc3be",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-02-23-grant-for-accessibility-to-infrastructure.html",
+        "type": "funding",
+        "label": "VR — Accessibility to Research Infrastructure",
+        "observedAt": "2026-09-20T20:16:10.228Z",
+        "checkedAt": "2026-09-20T20:16:10.228Z",
+        "contentHash": "1cbbdb56b528346dca89d2ea7652d2f43b7b8a5d2a89c781ea38179dcd928923",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding/calls/2026-02-04-excellence-clusters-for-groundbreaking-technologies.html",
+        "type": "funding",
+        "label": "VR–Vinnova — Excellence Clusters for Groundbreaking Technologies",
+        "observedAt": "2026-09-20T20:16:07.812Z",
+        "checkedAt": "2026-09-20T20:16:07.812Z",
+        "contentHash": "efe01d81b2fdd54ea7b14131cb11fb94a36973712213f19797dbdaacb8dbda2e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.vr.se/english/applying-for-funding.html",
+        "type": "index",
+        "label": "Página oficial de financiación · Swedish Research Council",
+        "observedAt": "2026-09-20T19:37:18.205Z",
+        "checkedAt": "2026-09-20T19:37:18.205Z",
+        "contentHash": "7ef31035e0239e4ea77fc019da9550dd4c5f5556ea7a76a0290afd90bfcb6069",
         "accessOutcome": "ok"
       }
     ],
@@ -42992,6 +43208,105 @@
         "observedAt": "2026-09-20T16:41:16.068Z",
         "checkedAt": "2026-09-20T16:41:16.068Z",
         "contentHash": "e1ab20e45b3891888be1f3ec7c6352125572da3e03772b52d27b934779de493e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/researcher-project-early-career-scientists-fripro/",
+        "type": "funding",
+        "label": "RCN — FRIPRO Researcher Project for Early Career Scientists",
+        "observedAt": "2026-09-20T20:16:21.969Z",
+        "checkedAt": "2026-09-20T20:16:21.969Z",
+        "contentHash": "db60c0c09401e145c0e6ea763e7b9e57d5c455ac61d3b77c15c60e0c80dee70e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/radical-research-ideas-early-career-scientists/",
+        "type": "funding",
+        "label": "RCN — Radical Research Ideas for Early Career Scientists",
+        "observedAt": "2026-09-20T20:16:22.422Z",
+        "checkedAt": "2026-09-20T20:16:22.422Z",
+        "contentHash": "19ebabeccf1e230ad134bbbb614604cbb056752f89627ef5349537bad042c8c0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/researcher-project-experienced-scientists-fripro/",
+        "type": "funding",
+        "label": "RCN — FRIPRO Researcher Project for Experienced Scientists",
+        "observedAt": "2026-09-20T20:16:23.998Z",
+        "checkedAt": "2026-09-20T20:16:23.998Z",
+        "contentHash": "15e276c5bf144fbcb70d6dde728acc58fb3f3e8190e8f85d8ecd025fd2e0159d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/top-researchers-researcher-projects-world-leading-communities/",
+        "type": "funding",
+        "label": "RCN — Top Researchers: World Leading Research Communities",
+        "observedAt": "2026-09-20T20:16:23.145Z",
+        "checkedAt": "2026-09-20T20:16:23.145Z",
+        "contentHash": "3a968b4870b8b2dc155aae1fc2cd7963d8193a4ed6f006de79b9a0f5549bdece",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/breakthrough-enabling-technologies/",
+        "type": "funding",
+        "label": "RCN — Breakthrough Enabling Technologies",
+        "observedAt": "2026-09-20T20:16:21.067Z",
+        "checkedAt": "2026-09-20T20:16:21.067Z",
+        "contentHash": "ef2dc2b9f9b5f7a6dfc2a15a152375bc3ff13abd62b88e803137f6f688803f33",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2025/funding-research-stays-abroad/",
+        "type": "funding",
+        "label": "RCN — Research Stays Abroad for Doctoral and Postdoctoral Fellows",
+        "observedAt": "2026-09-20T20:16:27.159Z",
+        "checkedAt": "2026-09-20T20:16:27.159Z",
+        "contentHash": "225a0441aceb04c15cd7b0d429784e97ba92dad0df589923aa6042d099a852a5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/the-aurora-mobility-programme-researcher-exchange-new-collaboration-between-norway-and-france/",
+        "type": "funding",
+        "label": "RCN — Aurora: movilidad científica Noruega–Francia",
+        "observedAt": "2026-09-20T20:16:26.382Z",
+        "checkedAt": "2026-09-20T20:16:26.382Z",
+        "contentHash": "1d1f0e49c7a3db722cd2a8361e5b81ddc5d14f54a2aeac09e24ed936bc271a06",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/qualification-research-commercialisation-publicly-funded-research/",
+        "type": "funding",
+        "label": "RCN — Qualification: validación inicial de resultados de investigación",
+        "observedAt": "2026-09-20T20:16:25.658Z",
+        "checkedAt": "2026-09-20T20:16:25.658Z",
+        "contentHash": "2de1d719daedf06f34bd46e01e410e1b3f30f1692b346fffbcea5df3bc19d5f9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/verification-research-commercialisation-from-publicly-funded-research-organisations-2026/",
+        "type": "funding",
+        "label": "RCN — Verification: desarrollo y validación de resultados de investigación",
+        "observedAt": "2026-09-20T20:16:24.754Z",
+        "checkedAt": "2026-09-20T20:16:24.754Z",
+        "contentHash": "a500c4f1943ed47c54d8beb5786b75e1632011b8b3fd1c44bb4563a1c1762462",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/2026/eligible-erc-applications/",
+        "type": "funding",
+        "label": "RCN — Funding for Eligible ERC Applications",
+        "observedAt": "2026-09-20T20:16:31.226Z",
+        "checkedAt": "2026-09-20T20:16:31.226Z",
+        "contentHash": "e501f26fb43b5f6a90786deb5d09804bb5ce49f16c85250dc4b99e452be705e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.forskningsradet.no/en/call-for-proposals/?timeframe=0",
+        "type": "index",
+        "label": "Página oficial de financiación · Research Council of Norway",
+        "observedAt": "2026-09-20T19:37:20.421Z",
+        "checkedAt": "2026-09-20T19:37:20.421Z",
+        "contentHash": "2457a242e70425ebcc949bc9b0cc4f04cf6e42320fb07f662349896a1d7e663c",
         "accessOutcome": "ok"
       }
     ],
@@ -43077,6 +43392,15 @@
         "observedAt": "2026-09-20T16:37:34.327Z",
         "checkedAt": "2026-09-20T16:37:34.327Z",
         "contentHash": "333e505f810ad99d5b09de603db27392051a5eb1e7b1d4e6d1e411d8b6bf65a9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://island.is/en/o/rannis/funds-and-programs",
+        "type": "index",
+        "label": "Página oficial de financiación · Icelandic Centre for Research",
+        "observedAt": "2026-09-20T19:37:22.369Z",
+        "checkedAt": "2026-09-20T19:37:22.369Z",
+        "contentHash": "c23083c51cd76d512c282cbb3bf5a9f5c77357971f442c53b45bf4d597d9ac22",
         "accessOutcome": "ok"
       }
     ],
@@ -48721,7 +49045,7 @@
       {
         "url": "https://web.unica.it/unica/it/studenti_s01_ss05.page",
         "type": "phd",
-        "label": "explicitly linked legacy doctoral index · Doctorado Matematica e Informatica",
+        "label": "Índice oficial de programas de doctorado · Doctorado Matematica e Informatica",
         "observedAt": "2026-09-20T18:42:22.469Z",
         "checkedAt": "2026-09-20T18:42:22.469Z",
         "contentHash": "a4d85767d71315c66d7035da62c209225b7e42b02f0612d4977754c8cd9f1394",
@@ -48944,7 +49268,7 @@
       {
         "url": "https://web.unica.it/unica/it/studenti_s01_ss05.page",
         "type": "phd",
-        "label": "explicitly linked legacy doctoral index · Doctorado Data Science",
+        "label": "Índice oficial de programas de doctorado · Doctorado Data Science",
         "observedAt": "2026-09-20T18:42:22.469Z",
         "checkedAt": "2026-09-20T18:42:22.469Z",
         "contentHash": "a4d85767d71315c66d7035da62c209225b7e42b02f0612d4977754c8cd9f1394",
@@ -48984,7 +49308,7 @@
       {
         "url": "https://web.unica.it/unica/it/studenti_s01_ss05.page",
         "type": "phd",
-        "label": "explicitly linked legacy doctoral index · Doctorado Data Science",
+        "label": "Índice oficial de programas de doctorado · Doctorado Data Science",
         "observedAt": "2026-09-20T18:42:22.469Z",
         "checkedAt": "2026-09-20T18:42:22.469Z",
         "contentHash": "a4d85767d71315c66d7035da62c209225b7e42b02f0612d4977754c8cd9f1394",
@@ -49024,7 +49348,7 @@
       {
         "url": "https://web.unica.it/unica/it/studenti_s01_ss05.page",
         "type": "phd",
-        "label": "explicitly linked legacy doctoral index · Doctorado Data Science",
+        "label": "Índice oficial de programas de doctorado · Doctorado Data Science",
         "observedAt": "2026-09-20T18:42:22.469Z",
         "checkedAt": "2026-09-20T18:42:22.469Z",
         "contentHash": "a4d85767d71315c66d7035da62c209225b7e42b02f0612d4977754c8cd9f1394",
@@ -49032,5 +49356,649 @@
       }
     ],
     "ror": "https://ror.org/02kqnpp86"
+  },
+  {
+    "id": "fi-v24-05k73zm37",
+    "name": "Research Council of Finland",
+    "country": "FI",
+    "city": "Helsinki",
+    "ror": "https://ror.org/05k73zm37",
+    "officialUrl": "https://www.aka.fi",
+    "domains": [
+      "aka.fi"
+    ],
+    "sources": [
+      {
+        "url": "https://www.aka.fi/en/research-funding/funding-opportunities2/spark-funding/academy-project-funding/",
+        "type": "funding",
+        "label": "Información oficial sobre los cambios en las ayudas RCF · RCF — Academy Research Fellowship",
+        "observedAt": "2026-09-20T20:11:44.568Z",
+        "checkedAt": "2026-09-20T20:11:44.568Z",
+        "contentHash": "6ec651839548c05d7f513496af7e263f01ff87cf34d6ab32f35761a638426880",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/",
+        "type": "funding",
+        "label": "Calendario de la próxima convocatoria · RCF — Academy Research Fellowship",
+        "observedAt": "2026-09-20T19:43:39.477Z",
+        "checkedAt": "2026-09-20T19:43:39.477Z",
+        "contentHash": "6b9ea316da86ae3e687ddcecc323d60c351af436978db8e29bfec7795fd60188",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aka.fi/en/research-funding/funding-opportunities2/spark-funding/academy-research-fellowship/",
+        "type": "funding",
+        "label": "RCF — Academy Research Fellowship",
+        "observedAt": "2026-09-20T20:11:45.980Z",
+        "checkedAt": "2026-09-20T20:11:45.980Z",
+        "contentHash": "68be5c0db95d544dc75c0b061702767df774786c023d2f92424e77ebe7137743",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aka.fi/en/research-funding/funding-opportunities2/shift-funding/proof-of-concept-funding/",
+        "type": "funding",
+        "label": "RCF — Proof of Concept Funding",
+        "observedAt": "2026-09-20T20:11:46.564Z",
+        "checkedAt": "2026-09-20T20:11:46.564Z",
+        "contentHash": "4c64bbadc7744b17c72d2eb4b0b4c409597dac43be1f6e6747cc1b77b728ff1f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-research-teams/2026-eurohpc-matching-funds-call-for-invited-applicants/",
+        "type": "funding",
+        "label": "RCF — EuroHPC matching funds · 2026",
+        "observedAt": "2026-09-20T20:11:47.420Z",
+        "checkedAt": "2026-09-20T20:11:47.420Z",
+        "contentHash": "7a80138b21851c1ddeb3eb4109638dc9630eafad7e43cac3025b0261f0eae125",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aka.fi/en/research-funding/apply-for-funding/",
+        "type": "index",
+        "label": "Página oficial de financiación · Research Council of Finland",
+        "observedAt": "2026-09-20T19:37:15.746Z",
+        "checkedAt": "2026-09-20T19:37:15.746Z",
+        "contentHash": "fe7f0493ebde53b6caf016412f67fa6c34e888adba5e2fe2406e3399bba8ad32",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "fi-v24-027xav248",
+    "name": "Finnish Cultural Foundation",
+    "country": "FI",
+    "city": "Helsinki",
+    "ror": "https://ror.org/027xav248",
+    "officialUrl": "https://skr.fi/en",
+    "domains": [
+      "skr.fi"
+    ],
+    "sources": [
+      {
+        "url": "https://skr.fi/en/grant/general-working-and-expenditure-grants/",
+        "type": "funding",
+        "label": "Finnish Cultural Foundation — General Working and Expenditure Grants",
+        "observedAt": "2026-09-20T20:11:57.083Z",
+        "checkedAt": "2026-09-20T20:11:57.083Z",
+        "contentHash": "f380b702a567e3952f51d1425b0422619009bb70068a12abc63d9af0189c5c45",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://skr.fi/en/grant/core-studies-in-research-science-and-the-arts-and-purposes-that-promote-professional-goals/",
+        "type": "funding",
+        "label": "Finnish Cultural Foundation — gastos de tesis de grado o máster",
+        "observedAt": "2026-09-20T20:11:58.532Z",
+        "checkedAt": "2026-09-20T20:11:58.532Z",
+        "contentHash": "b38ced9f4213463cf999e3bfd61a784ad92de7fe1d7ff49cbd571e66ab729ede",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://skr.fi/en/grant/return-grant-for-finnish-phd-graduates/",
+        "type": "funding",
+        "label": "Finnish Cultural Foundation — Returnee Funding for Finnish Postdoctoral Researchers",
+        "observedAt": "2026-09-20T20:12:01.499Z",
+        "checkedAt": "2026-09-20T20:12:01.499Z",
+        "contentHash": "7981ac57560125de4e0ec549ea3919ec6604f0409a266b9bc097117ad3064393",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://postdocpooli.fi/en/",
+        "type": "funding",
+        "label": "Finnish Foundations’ Post Doc Pool",
+        "observedAt": "2026-09-20T20:18:14.593Z",
+        "checkedAt": "2026-09-20T20:18:14.593Z",
+        "contentHash": "53259315fa0e984eb3543d521d37651afb619a49a36f4235a20535d669b5aca2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://postdocpooli.fi/how-to-apply/",
+        "type": "funding",
+        "label": "Requisitos, gastos y documentación · Finnish Foundations’ Post Doc Pool",
+        "observedAt": "2026-09-20T20:27:44.633Z",
+        "checkedAt": "2026-09-20T20:27:44.633Z",
+        "contentHash": "ac5149a27a11221f6c13b5795977400106802b354597c97d01da0238f8f218b6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://skr.fi/en/grant/post-doc-pool/",
+        "type": "funding",
+        "label": "Participación de la Finnish Cultural Foundation · Finnish Foundations’ Post Doc Pool",
+        "observedAt": "2026-09-20T20:12:00.813Z",
+        "checkedAt": "2026-09-20T20:12:00.813Z",
+        "contentHash": "dba7c3029f551debe4a72ae39393129401ae9b0c922bbab07fe3fb8725caf480",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://skr.fi/en/grants/for-the-grant-applicant/",
+        "type": "index",
+        "label": "Página oficial de financiación · Finnish Cultural Foundation",
+        "observedAt": "2026-09-20T19:37:16.607Z",
+        "checkedAt": "2026-09-20T19:37:16.607Z",
+        "contentHash": "c53b1eec43c25ee5f592c26a852af113aaa92cf74805ae3174ca2f7fb59c61c0",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "fi-v24-03vxy9y38",
+    "name": "Jane and Aatos Erkko Foundation",
+    "country": "FI",
+    "city": "Helsinki",
+    "ror": "https://ror.org/03vxy9y38",
+    "officialUrl": "http://jaes.fi/en/",
+    "domains": [
+      "jaes.fi"
+    ],
+    "sources": [
+      {
+        "url": "https://jaes.fi/en/for-applicants/",
+        "type": "funding",
+        "label": "Jane and Aatos Erkko Foundation — proyectos de investigación",
+        "observedAt": "2026-09-20T19:43:43.573Z",
+        "checkedAt": "2026-09-20T19:43:43.573Z",
+        "contentHash": "f77bd0de47b304d6d0d6fd2155c505e450b1bb502b0664fd7ee2f8a5cce5741e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://jaes.fi/en/for-applicants/guidelines-and-online-service/",
+        "type": "funding",
+        "label": "Bases de solicitud, presupuesto y salarios · Jane and Aatos Erkko Foundation — proyectos de investigación",
+        "observedAt": "2026-09-20T20:11:55.007Z",
+        "checkedAt": "2026-09-20T20:11:55.007Z",
+        "contentHash": "428766fd24891934e81dc9ea24f33eb074d5a2cff51b5c8e25cda854e4e9e343",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://jaes.fi/en/faq-eng/",
+        "type": "funding",
+        "label": "Preguntas sobre independencia y elegibilidad · Jane and Aatos Erkko Foundation — proyectos de investigación",
+        "observedAt": "2026-09-20T20:11:54.010Z",
+        "checkedAt": "2026-09-20T20:11:54.010Z",
+        "contentHash": "dab64cc13f52e6c4e54a32ae77f638a521966df2ca89fb765f80d6e89b4d805b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://jaes.fi/en/frontpage/",
+        "type": "index",
+        "label": "Página oficial de financiación · Jane and Aatos Erkko Foundation",
+        "observedAt": "2026-09-20T19:37:17.544Z",
+        "checkedAt": "2026-09-20T19:37:17.544Z",
+        "contentHash": "249afaa1f94f5005ba6563273708d54911c93179a5b19a9f196310d73fd38d1a",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "se-v24-03pjs1y45",
+    "name": "Formas",
+    "country": "SE",
+    "city": "Stockholm",
+    "ror": "https://ror.org/03pjs1y45",
+    "officialUrl": "https://formas.se",
+    "domains": [
+      "formas.se"
+    ],
+    "sources": [
+      {
+        "url": "https://formas.se/en/start-page/apply-for-funding/all-calls/calls/2026-04-21-explore---innovative-research-for-the-environment-agricultural-sciences-and-spatial-planning-2026.html",
+        "type": "funding",
+        "label": "Formas — Explore: investigación innovadora para la sostenibilidad",
+        "observedAt": "2026-09-20T20:56:53.818Z",
+        "checkedAt": "2026-09-20T20:56:53.818Z",
+        "contentHash": "3b7dc009474b3500d3290c770616f5d9d0d09bc8b53163ca520e0c34e70c9268",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formas.se/en/start-page/apply-for-funding/different-types-of-financing/career-grant-for-early-career-researchers.html",
+        "type": "funding",
+        "label": "Formas — Career Grant for Early-career Researchers",
+        "observedAt": "2026-09-20T20:56:55.236Z",
+        "checkedAt": "2026-09-20T20:56:55.236Z",
+        "contentHash": "f9082e57e1ed03f15d99eb5428909e90e7251b2bd2ac4786e5479e6a4c5ba18f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formas.se/en/start-page/apply-for-funding/all-calls/calls/2025-12-04-career-grant-for-early-career-researchers-career-age-0-3-years.html",
+        "type": "funding",
+        "label": "Bases 2026: itinerario de 0–3 años · Formas — Career Grant for Early-career Researchers",
+        "observedAt": "2026-09-20T20:56:55.928Z",
+        "checkedAt": "2026-09-20T20:56:55.928Z",
+        "contentHash": "211997f35d30200c606e7875654bb2e9f5d1caeecec332d6a5892271eb493d89",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formas.se/en/start-page/apply-for-funding/all-calls/calls/2025-12-04-career-grant-for-early-career-researchers-career-age-4-7-years.html",
+        "type": "funding",
+        "label": "Bases 2026: itinerario de 4–7 años · Formas — Career Grant for Early-career Researchers",
+        "observedAt": "2026-09-20T20:59:39.726Z",
+        "checkedAt": "2026-09-20T20:59:39.726Z",
+        "contentHash": "a4f777b4f12a4968604aced3b2c010e1aa6d3ff0f9297ab8c465747e71cfa88b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formas.se/en/start-page/apply-for-funding/different-types-of-financing/career-grant-for-early-career-researchers/frequently-asked-questions-and-answers-about-the-call-2026.html",
+        "type": "funding",
+        "label": "Aclaraciones oficiales de 2026 · Formas — Career Grant for Early-career Researchers",
+        "observedAt": "2026-09-20T20:56:56.862Z",
+        "checkedAt": "2026-09-20T20:56:56.862Z",
+        "contentHash": "f8157877254ce6dca0ad47c6c503649ee5dfbc5cd63e10464914f02583d01074",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formas.se/en/start-page/apply-for-funding/all-calls.html",
+        "type": "index",
+        "label": "Página oficial de financiación · Formas",
+        "observedAt": "2026-09-20T19:37:18.616Z",
+        "checkedAt": "2026-09-20T19:37:18.616Z",
+        "contentHash": "df31b53e39bd259a314a687b761c8f5fa4a52aa288bc79431b88d4ae646a937d",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "se-v24-02jkbm893",
+    "name": "Riksbankens Jubileumsfond",
+    "country": "SE",
+    "city": "Stockholm",
+    "ror": "https://ror.org/02jkbm893",
+    "officialUrl": "http://www.rj.se/en/",
+    "domains": [
+      "rj.se"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rj.se/en/funding/rj-projects-2026/",
+        "type": "index",
+        "label": "Página oficial de financiación · Riksbankens Jubileumsfond",
+        "observedAt": "2026-09-20T19:37:19.169Z",
+        "checkedAt": "2026-09-20T19:37:19.169Z",
+        "contentHash": "5ec8cf534a70805348bfa4595e2e1129ad538b960c5041ad70718113b5913c4a",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "se-v24-004hzzk67",
+    "name": "Knut and Alice Wallenberg Foundation",
+    "country": "SE",
+    "city": "Stockholm",
+    "ror": "https://ror.org/004hzzk67",
+    "officialUrl": "https://kaw.wallenberg.org",
+    "domains": [
+      "kaw.wallenberg.org"
+    ],
+    "sources": [
+      {
+        "url": "https://kaw.wallenberg.org/en/nomination-guest-professors-mathematics",
+        "type": "funding",
+        "label": "KAW — Guest Professors in Mathematics",
+        "observedAt": "2026-09-20T20:18:06.595Z",
+        "checkedAt": "2026-09-20T20:18:06.595Z",
+        "contentHash": "587afdcdda3ba631adcc946050adb2cfdc37d2eb964819cb946d94b19e43e82f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/funding-guide/calls",
+        "type": "funding",
+        "label": "Calendario oficial de la edición 2026 · KAW — Mathematics Postdoctoral Scholarship for Swedish Doctorates",
+        "observedAt": "2026-09-20T19:43:49.572Z",
+        "checkedAt": "2026-09-20T19:43:49.572Z",
+        "contentHash": "8f3fa00d7a880fc76442f784f5259df78f08e9dbb0732300ad092468816a30af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/postdoctoral-scholarship-program-mathematics-researchers-outside-sweden",
+        "type": "funding",
+        "label": "KAW — financiación de postdocs de matemáticas procedentes del extranjero",
+        "observedAt": "2026-09-20T20:18:08.067Z",
+        "checkedAt": "2026-09-20T20:18:08.067Z",
+        "contentHash": "4bbae041683e24ed4061718fc49f8db7471a4394a34e8516c824cfba790a7b3d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/postdoctoral-scholarship-program-mathematics-researchers-swedish-doctors-degree",
+        "type": "funding",
+        "label": "KAW — Mathematics Postdoctoral Scholarship for Swedish Doctorates",
+        "observedAt": "2026-09-20T20:18:09.444Z",
+        "checkedAt": "2026-09-20T20:18:09.444Z",
+        "contentHash": "76a7c37223de59a8a81b33792ffdbab0765daacf311edcdac6c51a1697e39640",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/calls/2028-research-projects-high-scientific-potential",
+        "type": "funding",
+        "label": "KAW — Research Projects with High Scientific Potential",
+        "observedAt": "2026-09-20T20:11:51.119Z",
+        "checkedAt": "2026-09-20T20:11:51.119Z",
+        "contentHash": "768c7956a7c5f68d91718cd3ffc7df9435b31208d8ae168c52df754fb219bbca",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/calls/2028-nomination-wallenberg-academy-fellows-program",
+        "type": "funding",
+        "label": "Wallenberg Academy Fellows",
+        "observedAt": "2026-09-20T20:11:52.800Z",
+        "checkedAt": "2026-09-20T20:11:52.800Z",
+        "contentHash": "bd17b0bf7c6e17ae990297a8079803e4c5587d4d4025a33b6d0d63cabe40b07e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/calls/2028-wallenberg-academy-fellows-2023-prolongation-grant",
+        "type": "funding",
+        "label": "Renovación: elegibilidad y calendario propios · Wallenberg Academy Fellows",
+        "observedAt": "2026-09-20T20:11:51.921Z",
+        "checkedAt": "2026-09-20T20:11:51.921Z",
+        "contentHash": "30a80f2cc3a2d5b98891438e942eec9d4367f4f5488879f5dbf87b6363f78aed",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/calls/proof-concept-grants-ai-quantum-technologies-or-ict",
+        "type": "funding",
+        "label": "KAW — Proof of Concept in AI, Quantum Technologies or ICT",
+        "observedAt": "2026-09-20T20:11:50.317Z",
+        "checkedAt": "2026-09-20T20:11:50.317Z",
+        "contentHash": "f3ef4ef3d122c90ed44d077867ffe48e183eac1681772d7af734dcf0215ae341",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://wasp-sweden.org/calls/kaw-proof-of-concept-grants-in-ai-quantum-technologies-or-ict/",
+        "type": "funding",
+        "label": "Bases enlazadas de 2026: pendientes de actualización · KAW — Proof of Concept in AI, Quantum Technologies or ICT",
+        "observedAt": "2026-09-20T20:18:11.027Z",
+        "checkedAt": "2026-09-20T20:18:11.027Z",
+        "contentHash": "57f01cd8c05c93fe481ecbff9d7c297ceafd7c7aca7469180401d8fa816bc3e9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/calls/proof-concept-grants-life-science",
+        "type": "funding",
+        "label": "KAW / SciLifeLab — Proof of Concept in Life Science",
+        "observedAt": "2026-09-20T20:11:48.842Z",
+        "checkedAt": "2026-09-20T20:11:48.842Z",
+        "contentHash": "9d3ce7e645222ac0c0ef0d5fc26697e4371a2d225f44fe57cf8239bbf4a0eb20",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.scilifelab.se/proof-of-concept-grant-in-life-science/",
+        "type": "funding",
+        "label": "Guía enlazada de 2026: edición distinta del anuncio · KAW / SciLifeLab — Proof of Concept in Life Science",
+        "observedAt": "2026-09-20T20:55:41.412Z",
+        "checkedAt": "2026-09-20T20:55:41.412Z",
+        "contentHash": "0c041686935b7f00d6c52887ed54150238c768ec79a1aac8aca6b6424e476802",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/calls/proof-concept-materials-science",
+        "type": "funding",
+        "label": "KAW / WISE — Proof of Concept in Materials Science",
+        "observedAt": "2026-09-20T20:11:49.515Z",
+        "checkedAt": "2026-09-20T20:11:49.515Z",
+        "contentHash": "3326ecbcbb68f89c0b19fe26853a22267ba9c2103db5175664f53a0d500c2655",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://wise-materials.org/kaw-proof-of-concept-grants-in-materials-science-for-sustainability/",
+        "type": "funding",
+        "label": "Bases WISE de la edición 2026 · KAW / WISE — Proof of Concept in Materials Science",
+        "observedAt": "2026-09-20T20:55:43.677Z",
+        "checkedAt": "2026-09-20T20:55:43.677Z",
+        "contentHash": "d8739a5b1f0facbbfb4e17e59f47de06c16cbf09b59c9b4f5b03757b644b7a54",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://kaw.wallenberg.org/en/funding-guide",
+        "type": "index",
+        "label": "Página oficial de financiación · Knut and Alice Wallenberg Foundation",
+        "observedAt": "2026-09-20T19:37:19.799Z",
+        "checkedAt": "2026-09-20T19:37:19.799Z",
+        "contentHash": "925261bbead0cb2407043fa755981f009c14e042e4ae650ec059b43c7d08dd50",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "no-v24-05bqzfg94",
+    "name": "NordForsk",
+    "country": "NO",
+    "city": "Oslo",
+    "ror": "https://ror.org/05bqzfg94",
+    "officialUrl": "http://www.nordforsk.org/en",
+    "domains": [
+      "nordforsk.org"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nordforsk.org/calls/call-proposals-quantum-technologies",
+        "type": "funding",
+        "label": "NordForsk — Canada–G7–Nordic Quantum Technologies: participación europea",
+        "observedAt": "2026-09-20T20:16:32.783Z",
+        "checkedAt": "2026-09-20T20:16:32.783Z",
+        "contentHash": "73be3abdfaf9e04fbdfd373f46564d084c3d0f629dbc748006d81069d19cfb0e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/international-calls/nsercnordforsk-call-canada-g7-nordic-call-for-proposals-on-quantum-technologies/",
+        "type": "funding",
+        "label": "Requisitos nórdicos publicados por Research Council of Finland · NordForsk — Canada–G7–Nordic Quantum Technologies: participación europea",
+        "observedAt": "2026-09-20T20:16:38.358Z",
+        "checkedAt": "2026-09-20T20:16:38.358Z",
+        "contentHash": "d64d5ead0d88c6038ec8c77ac02a8e5aa39af8fc820a3d317d25eeb6591f60a3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-g7-nordic-call-proposals-on-quantum-technologies",
+        "type": "funding",
+        "label": "Bases internacionales de NSERC · NordForsk — Canada–G7–Nordic Quantum Technologies: participación europea",
+        "observedAt": "2026-09-20T20:46:33.337Z",
+        "checkedAt": "2026-09-20T20:46:33.337Z",
+        "contentHash": "cecc53d7e31847daef564982215c7c87e1ddbd3790f272903f9d2b4118cd749f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls/call-proposals-disruptive-technologies",
+        "type": "funding",
+        "label": "NordForsk — Disruptive Technologies: participación europea",
+        "observedAt": "2026-09-20T20:16:33.180Z",
+        "checkedAt": "2026-09-20T20:16:33.180Z",
+        "contentHash": "867fb65a3a50e22029c87ae5b7ae7b964e8738d63bab6b84c90528c425f01a83",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sshrc-crsh.canada.ca/funding-financement/nfrf-fnfr/international/2026/competition-concours-eng.aspx",
+        "type": "funding",
+        "label": "Bases internacionales y calendario de NFRF · NordForsk — Disruptive Technologies: participación europea",
+        "observedAt": "2026-09-20T18:01:58.683Z",
+        "checkedAt": "2026-09-20T18:01:58.683Z",
+        "contentHash": "e48ff4aa92da1a1d7889fcd36dd283f233ea85608ead3c7f1e8848014b7a2181",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://sshrc-crsh.canada.ca/funding-financement/nfrf-fnfr/international/2026/pdf/NordForsk-Annex.pdf",
+        "type": "funding",
+        "label": "Anexo nórdico de elegibilidad y financiación · págs. 1, 2 · NordForsk — Disruptive Technologies: participación europea",
+        "observedAt": "2026-09-20T20:55:47.868Z",
+        "checkedAt": "2026-09-20T20:55:47.868Z",
+        "contentHash": "fcca9a8943becc6c06f10a34135a0faf8157bdb0aeab736a8fd7f76f11f56f36",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls/call-proposals-nordic-and-baltic-solutions-food-security",
+        "type": "funding",
+        "label": "NordForsk — Nordic and Baltic Solutions on Food Security",
+        "observedAt": "2026-09-20T20:48:23.007Z",
+        "checkedAt": "2026-09-20T20:48:23.007Z",
+        "contentHash": "c2bd8205da219c52cd259ca607025f21ab873f3863fbf5cc7969470f1233db6c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/funding-opportunities",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T19:37:21.962Z",
+        "checkedAt": "2026-09-20T19:37:21.962Z",
+        "contentHash": "bae06b88e9e3ddf7a8127a4213a1dcc0db534a4c382158573302646461936d1e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T19:43:53.555Z",
+        "checkedAt": "2026-09-20T19:43:53.555Z",
+        "contentHash": "6be333efbdd7bd203f70846e0dbfeea2f178db37347138e08594610bb8600af0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=6",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:18:33.490Z",
+        "checkedAt": "2026-09-20T20:18:33.490Z",
+        "contentHash": "31f7bf85e998cb176387833eeeb10d6d719333adf3a33e106977006cc4a093d0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=1",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:16:33.991Z",
+        "checkedAt": "2026-09-20T20:16:33.991Z",
+        "contentHash": "a0319f20ba058931112b2b643b43421a210b92a5982800adfb88f81f587616fe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=8",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:18:34.039Z",
+        "checkedAt": "2026-09-20T20:18:34.039Z",
+        "contentHash": "20eff322bdc505b95cf556cfcf9887ea6ecdd321bcb7b32a1467fc5e4451e728",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=3",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:16:36.070Z",
+        "checkedAt": "2026-09-20T20:16:36.070Z",
+        "contentHash": "0d019642b6105ae7463caba40a278acdfbfb3d2d2619d3b852ccb4a8cfaeb3c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=5",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:18:32.601Z",
+        "checkedAt": "2026-09-20T20:18:32.601Z",
+        "contentHash": "079ba8badf32fdb0511609f836c91f7573ca1fae0d64ff9622d108f8ce7ae36c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=2",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:16:34.777Z",
+        "checkedAt": "2026-09-20T20:16:34.777Z",
+        "contentHash": "bfe65b84162209b8dfdb0869d8ad14212cfbd75253d4bf23b53d7413e8432eb3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=9",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:16:37.684Z",
+        "checkedAt": "2026-09-20T20:16:37.684Z",
+        "contentHash": "7eba54e010e5faa7a7014cf74513feb3fc4ec8c7dc0ac83bc3c8e5cdfc68b2ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=7",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:18:34.861Z",
+        "checkedAt": "2026-09-20T20:18:34.861Z",
+        "contentHash": "e5acefecd3cc1c65f3743288ca3080c91e56103596a6880476d2bce287d8cc66",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nordforsk.org/calls?page=4",
+        "type": "index",
+        "label": "Página oficial de financiación · NordForsk",
+        "observedAt": "2026-09-20T20:16:36.458Z",
+        "checkedAt": "2026-09-20T20:16:36.458Z",
+        "contentHash": "8e6c0942ad1b9b0a5bcdd4687b52232100f1dde9b19b66de3f3cdf009f7de073",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "dk-v24-00daj4111",
+    "name": "Innovation Fund Denmark",
+    "country": "DK",
+    "city": "Copenhagen",
+    "ror": "https://ror.org/00daj4111",
+    "officialUrl": "https://innovationsfonden.dk",
+    "domains": [
+      "innovationsfonden.dk"
+    ],
+    "sources": [
+      {
+        "url": "https://danmarksinnovationsfond.dk/wp-content/uploads/2026/08/Industrial-ph.d.-Guidelines-07.07.2026.pdf",
+        "type": "funding",
+        "label": "Innovation Fund Denmark — Industrial PhD",
+        "observedAt": "2026-09-20T20:18:18.034Z",
+        "checkedAt": "2026-09-20T20:18:18.034Z",
+        "contentHash": "5d8b425be842653d2d1cf71b62e45b42fc11cd901b0e3cd2a59ee9b5e5513895",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://danmarksinnovationsfond.dk/en/programmes/industrial-researcher/",
+        "type": "funding",
+        "label": "Programa Industrial Researcher y próximos plazos · Innovation Fund Denmark — Industrial Postdoc",
+        "observedAt": "2026-09-20T19:44:00.645Z",
+        "checkedAt": "2026-09-20T19:44:00.645Z",
+        "contentHash": "2c56579dd3cc629e7edc5052b058e8c11bef0dca6f75f373e1d48df84929f83c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://danmarksinnovationsfond.dk/wp-content/uploads/2026/08/Industrial-postdoc-Guidelines-07.07.2026.pdf",
+        "type": "funding",
+        "label": "Innovation Fund Denmark — Industrial Postdoc",
+        "observedAt": "2026-09-20T20:18:17.425Z",
+        "checkedAt": "2026-09-20T20:18:17.425Z",
+        "contentHash": "8d1a7fb7914a504364ac29ee1be6d56e6665d504a2e9ff676465902ff9d5542e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://danmarksinnovationsfond.dk/en/find-funding/",
+        "type": "index",
+        "label": "Página oficial de financiación · Innovation Fund Denmark",
+        "observedAt": "2026-09-20T19:37:24.479Z",
+        "checkedAt": "2026-09-20T19:37:24.479Z",
+        "contentHash": "589946899bdb5b793e6c877e2d85265de59175aedae1b211510a65b74b15f0c7",
+        "accessOutcome": "ok"
+      }
+    ]
   }
 ]
