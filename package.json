@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=22.13.0"
+    "node": ">=22.19.0"
   },
   "scripts": {
     "install:ci": "node scripts/install-ci.mjs",
@@ -14,13 +14,13 @@
     "db:generate": "drizzle-kit generate",
     "test": "node --test scripts/harvest/*.test.mjs",
     "typecheck": "tsc --noEmit",
-    "harvest": "node scripts/harvest/run.mjs",
-    "harvest:programmes": "node scripts/harvest/programmes.mjs",
-    "harvest:verify": "node scripts/harvest/verify-known.mjs",
+    "harvest": "node --use-system-ca scripts/harvest/run.mjs",
+    "harvest:programmes": "node --use-system-ca scripts/harvest/programmes.mjs",
+    "harvest:verify": "node --use-system-ca scripts/harvest/verify-known.mjs",
     "harvest:audit": "node scripts/harvest/audit.mjs",
     "db:sync": "node scripts/db/sync.mjs",
     "db:migrate": "node scripts/db/migrate.mjs",
-    "harvest:institutions": "node scripts/harvest/discover-institutions.mjs",
+    "harvest:institutions": "node --use-system-ca scripts/harvest/discover-institutions.mjs",
     "db:sync:institutions": "node scripts/db/sync-institutions.mjs",
     "harvest:candidates": "node scripts/harvest/review-candidates.mjs"
   },

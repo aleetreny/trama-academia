@@ -1,5 +1,26 @@
 [
-  {"id":"4b0fcb27e972e2907ab0","reason":"Public economics and international taxation; false internship match on International. Outside the defined catalogue.","reviewedAt":"2026-09-19"},
-  {"id":"770157b6bb8d9028edaf","reason":"Jobbnorge 307755 studies clinicians' and service users' experiences of technology in mental health services. The advertised doctoral work is health/social-science research; machine learning is the surrounding project's context, not a computing or statistical-methods contribution by this role.","evidenceUrl":"https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307755","reviewedAt":"2026-09-19"},
-  {"id":"fa164267fd7d7da8306b","reason":"Doctorate in law requiring law degrees; the role evaluates judicial practice and legal/institutional effects of AI decision aids. Informatik describes the interdisciplinary context with a separate technical team, not a computing or statistical-methods research role.","evidenceUrl":"https://jobs.ethz.ch/job/view/JOPG_ethz_yD8SBG1VJIv6DUeuOI","reviewedAt":"2026-09-19"}
+  {
+    "id": "4b0fcb27e972e2907ab0",
+    "reason": "Public economics and international taxation; false internship match on International. Outside the defined catalogue.",
+    "reviewedAt": "2026-09-19"
+  },
+  {
+    "id": "770157b6bb8d9028edaf",
+    "reason": "Jobbnorge 307755 studies clinicians' and service users' experiences of technology in mental health services. The advertised doctoral work is health/social-science research; machine learning is the surrounding project's context, not a computing or statistical-methods contribution by this role.",
+    "evidenceUrl": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/307755",
+    "reviewedAt": "2026-09-19"
+  },
+  {
+    "id": "fa164267fd7d7da8306b",
+    "reason": "Doctorate in law requiring law degrees; the role evaluates judicial practice and legal/institutional effects of AI decision aids. Informatik describes the interdisciplinary context with a separate technical team, not a computing or statistical-methods research role.",
+    "evidenceUrl": "https://jobs.ethz.ch/job/view/JOPG_ethz_yD8SBG1VJIv6DUeuOI",
+    "reviewedAt": "2026-09-19"
+  },
+  {
+    "id": "50edee44b01b9f55c662",
+    "reason": "Superseded FPU funding family: the catalogue now shows the officially announced AEI FPU2026 edition, explicitly preliminary. The 2025 edition remains in immutable version history and is preserved in the database.",
+    "evidenceUrl": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-formacion-profesorado-universitario-fpu-2026",
+    "replacedBy": "5aa9a4ab6fb81e4ae2ca",
+    "reviewedAt": "2026-09-20T15:48:29.145Z"
+  }
 ]

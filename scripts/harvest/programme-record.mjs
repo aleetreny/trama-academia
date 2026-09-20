@@ -4,6 +4,7 @@ import {clean,idFor,fieldsFrom,canonicalUrl} from './domain.mjs';
 import {programmeText,hasResearchComponent} from './programme-evidence.mjs';
 import {extractPdfText} from './pdf.mjs';
 import {nuxtProgrammeText} from './nuxt-programme.mjs';
+import {inertiaScholarshipText} from './inertia-scholarship.mjs';
 import {assertProgrammeGeography,verifyProgrammeGeography} from './programme-geography.mjs';
 
 const FIELDS=['Ciencia de datos','Machine learning','Estadística','Informática','Matemáticas aplicadas'];
@@ -27,14 +28,14 @@ export async function verifyProgramme(seed,fetchPage=getPage){
   const isPdf=reference.format==='pdf';
   const page=await fetchPage(reference.url,isPdf?{format:'pdf'}:{});
   if(reference.pages&&!isPdf)throw new Error('page_selection_requires_pdf');
-  const text=isPdf?clean(await extractPdfText(page,{pages:reference.pages})):reference.format==='nuxt-programme'?nuxtProgrammeText(page.body,page.finalUrl,reference.programmeId):programmeText(page.body);
+  const text=isPdf?clean(await extractPdfText(page,{pages:reference.pages})):reference.format==='nuxt-programme'?nuxtProgrammeText(page.body,page.finalUrl,reference.programmeId):reference.format==='inertia-scholarship'?inertiaScholarshipText(page.body,page.finalUrl,reference.scholarshipId,reference.locale):programmeText(page.body);
   const heading=isPdf?'':clean(load(page.body)('h1').text());
   if(/page not found|404 not found|page introuvable/i.test(heading)||text.length<200||/verify that you.re not a robot|javascript is disabled|enable javascript and then reload/i.test(text.slice(0,500)))throw new Error('content_missing: '+reference.url);
   // Supporting pages may omit an editorial label. Keep the official heading
   // visible instead of stringifying an absent label as "undefined".
   const suppliedLabel=typeof reference.label==='string'?clean(reference.label):'';
   const label=suppliedLabel&&!/^(undefined|null)$/i.test(suppliedLabel)?suppliedLabel:heading||('Documento oficial'+(isPdf?' en PDF':'')+' · '+new URL(page.finalUrl).hostname);
-  documents.set(reference.url,{...page,text,label,...(reference.pages?{pages:reference.pages}:{})});
+  documents.set(reference.url,{...page,text,label,...(reference.pages?{pages:reference.pages}:{}),...(reference.format==='inertia-scholarship'?{inertiaScholarshipId:reference.scholarshipId}:{})});
  }
  const primary=documents.get(primaryUrl);
  const research=documents.get(seed.researchEvidenceUrl||primaryUrl);
@@ -47,7 +48,14 @@ export async function verifyProgramme(seed,fetchPage=getPage){
   const document=documents.get(check.url||primaryUrl);
   if(!document)throw new Error('evidence_source_missing: '+check.field);
   if(!check.phrases?.length&&!check.links?.length&&!check.labelledValues?.length)throw new Error('evidence_check_empty: '+check.field);
-  if(check.phrases?.some(phrase=>!phrase.trim()||!normalized(document.text).includes(normalized(phrase))))throw new Error('evidence_changed: '+check.field);
+  // A published translation may disagree with the main language. Check it in
+  // isolation against the same captured payload, never a merged bilingual text.
+  let checkText=document.text;
+  if(check.locale!==undefined){
+   if(!document.inertiaScholarshipId||!check.phrases?.length||check.links?.length||check.labelledValues?.length)throw new Error('evidence_locale_check_invalid: '+check.field);
+   checkText=inertiaScholarshipText(document.body,document.finalUrl,document.inertiaScholarshipId,check.locale);
+  }
+  if(check.phrases?.some(phrase=>!phrase.trim()||!normalized(checkText).includes(normalized(phrase))))throw new Error('evidence_changed: '+check.field);
   if(check.links?.length){
    const $=load(document.body),links=new Set();
    $('a[href]').each((_,element)=>{try{links.add(canonicalUrl(new URL($(element).attr('href'),document.finalUrl).href));}catch{}});
@@ -68,7 +76,7 @@ export async function verifyProgramme(seed,fetchPage=getPage){
  const geographyEvidence=verifyProgrammeGeography(seed,documents);
  const record={...seed,id:idFor(seed.url),applyUrl:seed.url,sourceId:'programme-'+idFor(seed.url),sourceName:seed.institution,status:'programme',verifiedAt:checkedAt,seenAt:primary.checkedAt,deadline:null,deadlinePrecision:null,fields,funding:seed.funding||{kind:seed.kind.includes('funding')?'scholarship':'unconfirmed',text:seed.kind.includes('funding')?'Ayuda competitiva; consultar importe':'Financiación no garantizada'},duration:seed.duration||null,languages:seed.languages||[],contract:seed.contract||null,programmeType:seed.programmeType||(seed.kind.includes('funding')?'Programa de financiación':seed.stage==='master'?'Máster con componente de investigación':seed.stage==='grado'?'Estancia de investigación':'Programa doctoral'),researchNote:seed.researchNote||(seed.stage==='master'?'La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.':undefined),lastError:null,evidence:{contentHash:primary.hash,checkedUrl:primary.finalUrl,method:'official-programme-page',researchUrl:research.finalUrl,references:[...documents.values()].map(p=>({url:p.finalUrl,label:p.label+(p.pages?' · págs. '+p.pages.join(', '):''),checkedAt:p.checkedAt,contentHash:p.hash,...(p.pages?{pages:p.pages}:{})})),checks:(seed.evidenceChecks||[]).map(c=>c.field)}};
  if(seed.primaryEvidenceUrl)record.evidence.method='official-programme-registry';
- else if(references.get(primaryUrl).format==='nuxt-programme')record.evidence.method='official-programme-embedded-data';
+ else if(['nuxt-programme','inertia-scholarship'].includes(references.get(primaryUrl).format))record.evidence.method='official-programme-embedded-data';
  if(geographyEvidence){record.city=seed.geography.city;record.evidence.geography=geographyEvidence;}
  delete record.primaryEvidenceUrl;delete record.researchEvidenceUrl;delete record.evidencePages;delete record.evidenceChecks;
  return record;

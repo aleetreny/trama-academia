@@ -19,13 +19,24 @@ test('French doctoral modelling evidence retains its applied and stochastic scop
 test('Czech named applied and learning subjects retain their scope without generic mathematics',()=>{
  assert.deepEqual(fieldsFrom('Výpočetní a aplikovaná matematika'),['Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('Matematická analýza a numerická matematika'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('hluboké znalosti aplikované matematiky'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('moderní matematickou fyziku a aplikovanou matematiku'),['Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('strojové učení a umělou inteligenci'),['Machine learning']);
+ assert.deepEqual(fieldsFrom('aplikaci nejnovějších poznatků umělé inteligence na rozvíjejících se aplikacích systémů inteligentního rozhodování a komunikace'),['Machine learning']);
  assert.deepEqual(fieldsFrom('Matematická analýza, geometrie a algebra'),[]);
 });
 test('Russian postgraduate speciality names are recognised without generic engineering',()=>{
  assert.deepEqual(fieldsFrom('7-06-0611-03 Искусственный интеллект'),['Machine learning']);
  assert.deepEqual(fieldsFrom('05.13.15 – Вычислительные машины, комплексы и компьютерные сети'),['Informática']);
  assert.deepEqual(fieldsFrom('Машиноведение, системы приводов и детали машин'),[]);
+});
+test('Hungarian applied mathematics is recognised without promoting generic mathematics',()=>{
+ assert.deepEqual(fieldsFrom('Az alkalmazott matematika a műszaki- és természet-tudományokban alkalmazott matematikai módszerekre koncentrál'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Matematika, algebra és geometria'),[]);
+});
+test('Finnish cybersecurity degree names retain their scope without policy compounds',()=>{
+ for(const text of ['kyberturvallisuus','Kyberturvallisuuden maisteriohjelma'])assert.deepEqual(fieldsFrom(text),['Informática']);
+ for(const text of ['turvallisuus','kyberturvallisuuspolitiikka','Matematiikan maisteriohjelma'])assert.deepEqual(fieldsFrom(text),[]);
 });
 test('BayNAT computational mathematics is applied while pure branches remain unclassified',()=>{
  assert.deepEqual(fieldsFrom('Computational Mathematics in Science and Engineering (BayCompMath)'),['Informática','Matemáticas aplicadas']);
