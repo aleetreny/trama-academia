@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import assert from 'node:assert/strict';
-import {COUNTRIES,effectiveStatus,canonicalUrl} from './domain.mjs';
+import {effectiveStatus,canonicalUrl} from './domain.mjs';
+import {isEuropeanDestination} from './programme-geography.mjs';
 const data=JSON.parse(await fs.readFile('data/catalogue.json','utf8'));
 const exclusions=new Set(JSON.parse(await fs.readFile('data/exclusions.json','utf8')).map(r=>r.id));
 const ids=new Set(),urls=new Set(),sources=new Set(data.sources.map(s=>s.id));
@@ -9,7 +10,7 @@ for(const r of data.records){
  assert(!ids.has(r.id),'duplicate id: '+r.id);ids.add(r.id);const url=canonicalUrl(r.url);assert(!urls.has(url),'duplicate URL');urls.add(url);
  assert(r.title&&r.institution&&r.fields?.length,'required evidence missing: '+r.id);
  assert(sources.has(r.sourceId),'orphan source: '+r.id);
- assert(Object.values(COUNTRIES).includes(r.country)||r.country==='EU','non-European destination: '+r.id);
+ assert(isEuropeanDestination(r),'non-European or unverified campus destination: '+r.id);
  assert(['grado','master','doctorado','postdoc','faculty'].includes(r.stage),'invalid stage');
  assert(r.verifiedAt&&!Number.isNaN(Date.parse(r.verifiedAt)),'missing verification');
  assert(r.evidence?.checkedUrl&&r.evidence?.method,'missing provenance');

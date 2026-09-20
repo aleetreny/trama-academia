@@ -40,7 +40,17 @@ export function programmeText(html){
   const disclosure=(id&&controlled.has(id))||(/accordion.*content/i.test(item.attr('class')||'')&&item.siblings('button[aria-expanded]').length>0);
   if(!disclosure)item.remove();
  });
- return clean(($('main').length?$('main'):$('body')).text());
+ const main=$('main');
+ // Some university templates place the page title immediately before <main>.
+ // Preserve a single visible page heading, but never headings from navigation,
+ // hidden templates or sidebars, nor a second title when main already has one.
+ const headings=$('h1').filter((_,element)=>!$(element).closest('main,aside,[role="navigation"],[role="banner"],[style*="display:none"],[style*="display: none"]').length);
+ const title=main.length&&!main.find('h1').length&&headings.length===1?headings.text()+' ':'';
+ // Leeds puts its own academic facts before main; related course cards inside
+ // main have separate durations and must not replace these programme facts.
+ const facts=$('.uol-key-facts').filter((_,element)=>!$(element).closest('main,aside').length);
+ const academicFacts=main.length&&facts.length===1?facts.text()+' ':'';
+ return clean(title+academicFacts+(main.length?main:$('body')).text());
 }
 export function hasResearchComponent(text){
  // Yildiz course tables join the thesis title to its course code. Match the

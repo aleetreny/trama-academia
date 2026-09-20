@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import {neon} from '@neondatabase/serverless';
 import {createHash} from 'node:crypto';
+import {isEuropeanDestination} from '../harvest/programme-geography.mjs';
 if(!process.env.DATABASE_URL)throw new Error('DATABASE_URL required');
 const sql=neon(process.env.DATABASE_URL);
 const data=JSON.parse(await fs.readFile('data/catalogue.json','utf8'));
@@ -9,6 +10,7 @@ const currentSourceIds=new Set(data.sources.map(s=>s.id));
 const exclusions=JSON.parse(await fs.readFile('data/exclusions.json','utf8'));
 const excludedIds=new Set(exclusions.map(r=>r.id));
 if(data.records.some(r=>excludedIds.has(r.id)))throw new Error('Excluded record remains in the snapshot; audit before publishing');
+if(data.records.some(r=>!isEuropeanDestination(r)))throw new Error('Non-European or unverified campus destination; audit before publishing');
 const existingSources=await sql`SELECT id FROM sources`;
 for(const s of existingSources.filter(s=>!currentSourceIds.has(s.id)))await sql`UPDATE sources SET status='retired',payload=payload || '{"enabled":false,"status":"retired"}'::jsonb WHERE id=${s.id}`;
 for(const r of exclusions)await sql`UPDATE opportunities SET status='excluded',payload=payload || '{"status":"excluded"}'::jsonb WHERE id=${r.id}`;

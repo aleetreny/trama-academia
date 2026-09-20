@@ -4,6 +4,7 @@ import {clean,idFor,fieldsFrom,canonicalUrl} from './domain.mjs';
 import {programmeText,hasResearchComponent} from './programme-evidence.mjs';
 import {extractPdfText} from './pdf.mjs';
 import {nuxtProgrammeText} from './nuxt-programme.mjs';
+import {assertProgrammeGeography,verifyProgrammeGeography} from './programme-geography.mjs';
 
 const FIELDS=['Ciencia de datos','Machine learning','Estadística','Informática','Matemáticas aplicadas'];
 const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").replace(/[–—−]/g,'-').toLowerCase();
@@ -12,6 +13,7 @@ const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").re
 // A failed check is handled by the runner without overwriting the last good record.
 export async function verifyProgramme(seed,fetchPage=getPage){
  if(!['grado','master','doctorado','postdoc','faculty'].includes(seed.stage))throw new Error('invalid_programme_stage');
+ assertProgrammeGeography(seed);
  const documents=new Map();
  const references=new Map();
  const primaryUrl=seed.primaryEvidenceUrl||seed.url;
@@ -40,18 +42,30 @@ export async function verifyProgramme(seed,fetchPage=getPage){
  for(const check of seed.evidenceChecks||[]){
   const document=documents.get(check.url||primaryUrl);
   if(!document)throw new Error('evidence_source_missing: '+check.field);
-  if(!check.phrases?.length&&!check.links?.length)throw new Error('evidence_check_empty: '+check.field);
+  if(!check.phrases?.length&&!check.links?.length&&!check.labelledValues?.length)throw new Error('evidence_check_empty: '+check.field);
   if(check.phrases?.some(phrase=>!phrase.trim()||!normalized(document.text).includes(normalized(phrase))))throw new Error('evidence_changed: '+check.field);
   if(check.links?.length){
    const $=load(document.body),links=new Set();
    $('a[href]').each((_,element)=>{try{links.add(canonicalUrl(new URL($(element).attr('href'),document.finalUrl).href));}catch{}});
    if(check.links.some(url=>!links.has(canonicalUrl(url))))throw new Error('evidence_link_changed: '+check.field);
   }
+  if(check.labelledValues?.length){
+   const $=load(document.body);
+   for(const value of check.labelledValues){
+    if(!value.container||!value.labelSelector||!value.valueSelector||!value.label?.trim()||!value.value?.trim())throw new Error('evidence_value_check_invalid: '+check.field);
+    const matches=$(value.container).filter((_,element)=>!$(element).closest('nav,header,footer,[hidden],[aria-hidden="true"]').length&&normalized($(element).find(value.labelSelector).text())===normalized(value.label));
+    // Preserve the value's DOM boundary. Plain text can join score 50 to the
+    // following heading 2 and falsely produce a minimum score of 502.
+    if(matches.length!==1||normalized(matches.find(value.valueSelector).text())!==normalized(value.value))throw new Error('evidence_value_changed: '+check.field);
+   }
+  }
  }
  const checkedAt=[...documents.values()].map(p=>p.checkedAt).sort()[0];
+ const geographyEvidence=verifyProgrammeGeography(seed,documents);
  const record={...seed,id:idFor(seed.url),applyUrl:seed.url,sourceId:'programme-'+idFor(seed.url),sourceName:seed.institution,status:'programme',verifiedAt:checkedAt,seenAt:primary.checkedAt,deadline:null,deadlinePrecision:null,fields,funding:seed.funding||{kind:seed.kind.includes('funding')?'scholarship':'unconfirmed',text:seed.kind.includes('funding')?'Ayuda competitiva; consultar importe':'Financiación no garantizada'},duration:seed.duration||null,languages:seed.languages||[],contract:seed.contract||null,programmeType:seed.programmeType||(seed.kind.includes('funding')?'Programa de financiación':seed.stage==='master'?'Máster con componente de investigación':seed.stage==='grado'?'Estancia de investigación':'Programa doctoral'),researchNote:seed.researchNote||(seed.stage==='master'?'La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.':undefined),lastError:null,evidence:{contentHash:primary.hash,checkedUrl:primary.finalUrl,method:'official-programme-page',researchUrl:research.finalUrl,references:[...documents.values()].map(p=>({url:p.finalUrl,label:p.label+(p.pages?' · págs. '+p.pages.join(', '):''),checkedAt:p.checkedAt,contentHash:p.hash,...(p.pages?{pages:p.pages}:{})})),checks:(seed.evidenceChecks||[]).map(c=>c.field)}};
  if(seed.primaryEvidenceUrl)record.evidence.method='official-programme-registry';
  else if(references.get(primaryUrl).format==='nuxt-programme')record.evidence.method='official-programme-embedded-data';
+ if(geographyEvidence){record.city=seed.geography.city;record.evidence.geography=geographyEvidence;}
  delete record.primaryEvidenceUrl;delete record.researchEvidenceUrl;delete record.evidencePages;delete record.evidenceChecks;
  return record;
 }
