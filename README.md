@@ -22,7 +22,9 @@ TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, invest
 
 ## Desarrollo
 
-Node 22.13 o posterior. Instalar con `npm ci`, ejecutar `npm run dev` y abrir la dirección local impresa. La aplicación usa React, Vinext, componentes shadcn, CSS propio y un Worker de Sites.
+Node 22.19 o posterior. Instalar con `npm ci`, ejecutar `npm run dev` y abrir la dirección local impresa. La aplicación usa React, Vinext, componentes shadcn, CSS propio y un Worker de Sites.
+
+Los comandos de adquisición usan `--use-system-ca` para validar HTTPS con las autoridades de confianza del sistema además de las incluidas en Node. Esto permite leer fuentes como la Agencia Estatal de Investigación en los entornos donde su cadena se valida con ese almacén. Si se ejecuta directamente un script de adquisición, debe conservarse esa opción; los fallos de certificado siguen siendo errores de acceso.
 
 El recolector de PDF necesita además Python 3.10 o posterior y `pypdf`. La web no usa Python. Para rastrear en local:
 

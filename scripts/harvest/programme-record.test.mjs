@@ -103,9 +103,63 @@ test('a business capstone replacing a dissertation does not verify a research ro
  assert.equal(hasResearchComponent('Professional Project: an individual project with a supervisor, linked to our computer vision research group, developing independent research and critical thinking.'),true);
  assert.equal(hasResearchComponent('Submit a dissertation or Engineering Project. Some students develop a professional portfolio as an alternative to the traditional project thesis.'),true);
 });
+test('Reading reciprocal mobile tabs retain admission requirements without keeping arbitrary header panels',()=>{
+ const trigger='<header class="mobile-tabs"><h2 class="panel-trigger" role="tabpanel" id="Panel3Trigger" aria-controls="Panel3" aria-expanded="false" tabindex="-1">Entry requirements</h2></header>';
+ const panel='<div class="EntryRequirements tabcontent" id="Panel3" role="tabpanel" aria-labelledby="Panel3Trigger" aria-hidden="true">High 2:2 and programming experience; IELTS 6.5 overall, 5.5 each.</div>';
+ const valid='<section>'+trigger+panel+'</section>';
+ assert.match(programmeText(valid),/High 2:2.*IELTS 6.5/);
+ for(const wrapper of ['nav','aside','div hidden','div role="navigation"','div role="banner"']){
+  const tag=wrapper.split(' ')[0];assert.doesNotMatch(programmeText('<'+wrapper+'>'+valid+'</'+tag+'>Other content'),/High 2:2/);
+ }
+ assert.doesNotMatch(programmeText('<section>'+trigger+'</section>'+panel),/High 2:2/);
+ assert.doesNotMatch(programmeText(valid.replace('aria-labelledby="Panel3Trigger"','aria-labelledby="Other"')),/High 2:2/);
+ assert.doesNotMatch(programmeText(valid+panel),/High 2:2/);
+ assert.doesNotMatch(programmeText(valid+'<div hidden id="Panel4">Unrelated thesis</div>'),/Unrelated thesis/);
+});
+test('Polish accusative identifies a master thesis without accepting a bachelor thesis',()=>{
+ assert.ok(hasResearchComponent('Żeby ukończyć studia, przygotowujesz i bronisz pracę magisterską.'));
+ assert.equal(hasResearchComponent('Przygotowujesz i bronisz pracę licencjacką.'),false);
+});
+test('Finnish pro gradu curricula identify the dissertation rather than a seminar or bachelor work',()=>{
+ for(const text of ['Kyberturvallisuuden syventävät opinnot 80 op (sis. Pro gradu –tutkielman)','menetelmäopinnot (sis. pro gradu -tutkielman)','Maisteriopintojen osana tehtävä pro gradu -tutkielma on kandidaatintutkielmaa laajempi ohjattu työ.'])assert.equal(hasResearchComponent(text),true);
+ for(const text of ['Kandidaatintutkielma','Tutkielman suunnittelu','Pro gradu seminar','Master studies with research skills'])assert.equal(hasResearchComponent(text),false);
+});
+test('Romanian named master dissertations exclude licence theses and professional placements',()=>{
+ for(const text of ['Teza de master 720 0 720 0 0 0 E 24','Practică pentru elaborarea lucrării de disertație','Elaborare proiect disertație','Elaborare proiect de disertație','elaborarea proiectului de disertație'])assert.equal(hasResearchComponent(text),true);
+ for(const text of ['Pregătirea și susținerea tezei de licență','Elaborarea proiectului de licență','Practică profesională în cadrul programului de master','Metodologia cercetării și practica profesională','Susținerea tezei de doctor'])assert.equal(hasResearchComponent(text),false);
+});
+test('Greek master dissertation wording does not promote unspecified diplomas or doctoral work',()=>{
+ assert.equal(hasResearchComponent('τη διεκπεραίωση της Διατριβής Μάστερ.'),true);
+ assert.equal(hasResearchComponent('τη διεκπεραίωση της Διατριβής Μάστερ.'.normalize('NFD')),true);
+ for(const text of ['Προπτυχιακή διπλωματική εργασία','Πρακτική άσκηση στο μεταπτυχιακό πρόγραμμα','Εκπόνηση διδακτορικής διατριβής','Διπλωματική εργασία'])assert.equal(hasResearchComponent(text),false);
+});
+test('Swansea labelled academic modals retain entry and research details only through their visible controls',()=>{
+ const button='<button type="button" data-bs-toggle="modal" data-bs-target="#entry-requirements-modal">Entry requirements</button>';
+ const panel='<div class="modal fade" id="entry-requirements-modal" role="dialog" aria-modal="true" aria-labelledby="entry-requirements-modal-title" aria-hidden="true"><h2 class="modal-title" id="entry-requirements-modal-title">Entry Requirements</h2><div class="modal-body">2:2 Computer Science; IELTS 6.0 with 5.5 in each component.</div></div>';
+ assert.match(programmeText('<main>'+button+panel+'</main>'),/2:2 Computer Science; IELTS 6.0/);
+ const modules=(button+panel).replaceAll('entry-requirements-modal','modules-modal').replace('2:2 Computer Science; IELTS 6.0 with 5.5 in each component.','Dissertation 60 credits');
+ assert.match(programmeText('<main>'+modules+'</main>'),/Dissertation 60 credits/);
+ for(const invalid of [panel,button.replace('type="button"','type="button" disabled')+panel,'<div hidden>'+button+'</div>'+panel,'<nav>'+button+'</nav>'+panel,button+panel.replace('aria-labelledby="entry-requirements-modal-title"','aria-labelledby="other-title"'),button+panel+panel])assert.doesNotMatch(programmeText('<main>'+invalid+'</main>'),/2:2 Computer Science/);
+ assert.doesNotMatch(programmeText('<main>'+button+'</main><main>'+panel+'</main>'),/2:2 Computer Science/);
+ assert.doesNotMatch(programmeText('<main>'+(button+panel).replaceAll('entry-requirements-modal','unrelated-modal')+'</main>'),/2:2 Computer Science/);
+});
+test('Kent international entry tab keeps visa and language conditions only through its local switcher',()=>{
+ const trigger='<a class="button switcher__link" id="entry-international" href="#tab--entry-international" @click.prevent="tab=\'tab--entry-international\'">International</a>';
+ const panel='<div class="panel panel--switcher" id="tab--entry-international" role="tabpanel" aria-hidden="true" x-show="tab === \'tab--entry-international\'">IELTS 6.0 with 5.5 each. Student visa restrictions apply.</div>';
+ const wrap=body=>'<main><section id="entry-requirements"><div class="switcher" id="entry-switcher">'+body+'</div></section></main>';
+ assert.match(programmeText(wrap(trigger+panel)),/IELTS 6.0.*Student visa restrictions/);
+ for(const body of [panel,trigger+panel+panel,trigger+trigger+panel,'<nav>'+trigger+'</nav>'+panel,'<div hidden>'+trigger+'</div>'+panel,trigger.replace('@click.prevent','data-click')+panel,trigger+panel.replace('x-show=','data-show='),trigger.replace('href="#tab--entry-international"','href="#other"')+panel])assert.doesNotMatch(programmeText(wrap(body)),/Student visa restrictions/);
+ assert.doesNotMatch(programmeText(wrap(trigger)+'<main>'+panel+'</main>'),/Student visa restrictions/);
+ assert.doesNotMatch(programmeText(wrap(trigger+panel).replace('id="entry-requirements"','id="related-programmes"')),/Student visa restrictions/);
+ assert.doesNotMatch(programmeText(wrap(trigger+panel+'<div hidden id="unrelated">Unrelated thesis</div>')),/Unrelated thesis/);
+});
 test('a practicum requires an explicit academic route, as in DCU Computing',()=>{
  assert.equal(hasResearchComponent('A 30 ECTS practicum: an individual project may develop software or undertake rigorous theoretical analysis, proposing and evaluating alternative techniques.'),true);
  assert.equal(hasResearchComponent('A 30 ECTS practicum builds a prototype and develops research skills for business.'),false);
+});
+test('a supervised extended piece of research qualifies without accepting generic research skills',()=>{
+ assert.equal(hasResearchComponent('Data Science Project. You will carry out an extended piece of research on an important topic, supervised by academic staff and reported in an extended written report.'),true);
+ assert.equal(hasResearchComponent('A Data Science Project develops research skills and an extended professional portfolio.'),false);
 });
 test('Czech thesis-defence rules retain the genitive diplomove prace without accepting a bachelor project',()=>{
  assert.equal(hasResearchComponent('Součástí státní závěrečné zkoušky je obhajoba diplomové práce a odborná rozprava.'),true);
