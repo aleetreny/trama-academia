@@ -16,6 +16,12 @@ test('French doctoral modelling evidence retains its applied and stochastic scop
  assert.deepEqual(fieldsFrom('Probabilités appliquées; modèles stochastiques et applications en écologie et en biologie des systèmes; modèles mathématiques de la croissance des plantes'),['Estadística','Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('Doctorat en mathématiques: topologie et géométrie différentielle'),[]);
 });
+test('Czech named applied and learning subjects retain their scope without generic mathematics',()=>{
+ assert.deepEqual(fieldsFrom('Výpočetní a aplikovaná matematika'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Matematická analýza a numerická matematika'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('strojové učení a umělou inteligenci'),['Machine learning']);
+ assert.deepEqual(fieldsFrom('Matematická analýza, geometrie a algebra'),[]);
+});
 test('Russian postgraduate speciality names are recognised without generic engineering',()=>{
  assert.deepEqual(fieldsFrom('7-06-0611-03 Искусственный интеллект'),['Machine learning']);
  assert.deepEqual(fieldsFrom('05.13.15 – Вычислительные машины, комплексы и компьютерные сети'),['Informática']);

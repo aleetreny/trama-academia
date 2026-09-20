@@ -89595,5 +89595,1343 @@
         ]
       }
     ]
+  },
+  {
+    "title": "AUA — ayuda de matrícula por necesidad económica",
+    "institution": "American University of Armenia",
+    "country": "AM",
+    "url": "https://finaid.aua.am/financial-aid-definition/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Admisión en AUA y necesidad económica demostrada según evaluación del comité. La ayuda adicional por necesidad se restringe a ciudadanos armenios; la subvención automática de tarifa tiene categorías distintas y no equivale a esta ayuda.",
+    "duration": "Concesión y revisión según el curso y la evaluación de necesidad.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Descuento adicional de matrícula de hasta el 90%; no es manutención en efectivo ni una concesión automática."
+    },
+    "eligibilityNote": "Calendario de máster 2026: 26 de enero, 6 de abril y 2 de junio según ronda; estudiantes actuales, 1 de marzo. Plazos de esa edición ya vencidos. La página de tarifas muestra 2027/28 y no se trasladan sus importes a 2026/27. Ciudadanía: Ciudadanía de Armenia obligatoria para la ayuda por necesidad. Residencia o vínculo exigido: No se publica requisito independiente de residencia; admisión y evaluación económica de AUA.",
+    "researchNote": "Aplicable a estudios de las disciplinas TRAMA en AUA, Yerevan. Armenia se incorpora por la ampliación académica del EEES; no se presenta como Europa geográfica. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://finaid.aua.am/deadlines/",
+        "label": "Edición y plazos"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://finaid.aua.am/financial-aid-definition/",
+        "phrases": [
+          "tuition assistance is restricted to Armenian citizens only"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://finaid.aua.am/financial-aid-definition/",
+        "phrases": [
+          "up to 90%"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://finaid.aua.am/deadlines/",
+        "phrases": [
+          "GRADUATE DEADLINES",
+          "January, 2026",
+          "April, 2026",
+          "June, 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "AUA — International Scholarship",
+    "institution": "American University of Armenia",
+    "country": "AM",
+    "url": "https://finaid.aua.am/international-scholarships/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Estudiante internacional admitido en AUA; selección competitiva por expediente de admisión, pruebas y ensayo de beca.",
+    "duration": "Renovación anual solicitada por el estudiante, condicionada al rendimiento y a fondos.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Hasta el 50% de la tarifa internacional de matrícula publicada; no incluye automáticamente alojamiento ni manutención."
+    },
+    "eligibilityNote": "Plazo publicado para International Scholarship: 30 de junio de 2026, ya vencido. La continuidad puede mantener o modificar el porcentaje; los resultados estadísticos de promociones anteriores no garantizan concesión. Ciudadanía: Categoría institucional de estudiante internacional; no se equipara a residencia fuera de Armenia. Residencia o vínculo exigido: No se especifica residencia previa; estudios en AUA, Yerevan.",
+    "researchNote": "Aplicable a estudios de las disciplinas TRAMA en AUA, Yerevan. Armenia se incorpora por la ampliación académica del EEES; no se presenta como Europa geográfica. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://finaid.aua.am/procedures/",
+        "label": "Renovación de la ayuda"
+      },
+      {
+        "url": "https://finaid.aua.am/deadlines/",
+        "label": "Edición y plazos"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "coverage",
+        "url": "https://finaid.aua.am/international-scholarships/",
+        "phrases": [
+          "up to 50% of the total cost"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://finaid.aua.am/international-scholarships/",
+        "phrases": [
+          "Applicant’s test scores",
+          "The scholarship essay"
+        ]
+      },
+      {
+        "field": "renewal",
+        "url": "https://finaid.aua.am/procedures/",
+        "phrases": [
+          "Continuing students must apply for the continuation"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://finaid.aua.am/deadlines/",
+        "phrases": [
+          "International Scholarship Application",
+          "June, 2026",
+          "30"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "AUA — becas académicas y AUA/MESCS de posgrado",
+    "institution": "American University of Armenia",
+    "country": "AM",
+    "url": "https://finaid.aua.am/procedures/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Selección por los programas de máster sin solicitud separada. La beca académica excluye el primer año; las AUA/MESCS se distribuyen mediante el plan anual aprobado y rotan hacia estudiantes con mejores notas después del primer año.",
+    "duration": "Distribución anual y rotación tras el primer año según la modalidad.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca académica: normalmente la mitad de la matrícula anual del programa elegible. AUA/MESCS: beca completa de matrícula cubierta por AUA con subsidio parcial del ministerio armenio; no se presenta como transferencia de dinero para vivir."
+    },
+    "eligibilityNote": "Procedimiento institucional sin fecha de convocatoria publicada. No se presupone que cualquier máster o nacionalidad tenga una cuota disponible; el programa comunica la concesión formal. Ciudadanía: El procedimiento leído no define por sí mismo ciudadanía admisible en cada modalidad; debe confirmarse la cuota del programa. Residencia o vínculo exigido: Vínculo: estudiante de posgrado de AUA.",
+    "researchNote": "Aplicable a estudios de las disciplinas TRAMA en AUA, Yerevan. Armenia se incorpora por la ampliación académica del EEES; no se presenta como Europa geográfica. No garantiza admisión ni concesión.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "entry",
+        "url": "https://finaid.aua.am/procedures/",
+        "phrases": [
+          "Students do not apply for AUA academic scholarship",
+          "First-year graduate students are not eligible"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://finaid.aua.am/procedures/",
+        "phrases": [
+          "Awards typically cover half the cost",
+          "These are full scholarships covered by AUA"
+        ]
+      },
+      {
+        "field": "renewal",
+        "url": "https://finaid.aua.am/procedures/",
+        "phrases": [
+          "rotation to students with the highest GPAs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "EPOKA — descuentos de mérito para máster",
+    "institution": "EPOKA University",
+    "country": "AL",
+    "url": "https://admissions.epoka.edu.al/content/NTQw/Scholarships/Master-Study-Programs",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Graduado de bachelor admitido en un máster de EPOKA. Alumnos propios: CGPA desde 2,70/4; otros titulados: promedio desde 8,50/10 o equivalente. Cuotas y criterios por programa fijados por el consejo administrativo.",
+    "duration": "Duración ordinaria del máster; prórrogas a tarifa completa salvo decisión institucional distinta.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Descuento de matrícula del 10–50% para graduados de EPOKA y del 10–40% para graduados externos, según la escala publicada. No es beca de manutención."
+    },
+    "eligibilityNote": "Directiva revisada el 31 de julio de 2025, sin plazo anual en la página. Continuidad: CGPA 2,70/3,00/3,30/3,50/3,70 para 10/20/30/40/50%; exige conducta, participación y no interrumpir ni cambiar de programa. Ciudadanía: La regla de descuento distingue universidad de origen, no ciudadanía; no se infiere una exclusión por nacionalidad. Residencia o vínculo exigido: Estudios en EPOKA, Albania; no se declara residencia previa.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://cms.epoka.edu.al/api/CMS_Archive/assets/Directive-on-scholarships-pdf-363",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "coverage",
+        "url": "https://admissions.epoka.edu.al/content/NTQw/Scholarships/Master-Study-Programs",
+        "phrases": [
+          "CGPA 2.70-2.99 - 10% discount",
+          "CGPA 10.00 - 40% discount"
+        ]
+      },
+      {
+        "field": "renewal",
+        "url": "https://cms.epoka.edu.al/api/CMS_Archive/assets/Directive-on-scholarships-pdf-363",
+        "phrases": [
+          "CGPA 3.70 → 50% discount",
+          "Students must not interrupt their studies"
+        ]
+      },
+      {
+        "field": "duration",
+        "url": "https://cms.epoka.edu.al/api/CMS_Archive/assets/Directive-on-scholarships-pdf-363",
+        "phrases": [
+          "normal duration of studies"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://cms.epoka.edu.al/api/CMS_Archive/assets/Directive-on-scholarships-pdf-363",
+        "phrases": [
+          "31.07.2025"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UBT — descuentos por rendimiento académico",
+    "institution": "UBT Higher Education Institution",
+    "country": "XK",
+    "url": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+    "kind": "funding-programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Estudiante de UBT que complete 60, 120 o 180 ECTS y alcance las notas de la tabla institucional; el número de créditos es acumulado, no tres ayudas distintas.",
+    "duration": "Periodo de aplicación del descuento no explicitado; adjudicación anunciada con motivo del 17 de febrero.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "10% de la matrícula básica con promedio 9,00–9,49; 20% con 9,50–10,00, según la tabla de 60/120/180 ECTS. No se publica manutención ni importe monetario."
+    },
+    "eligibilityNote": "Página con cabecera 2026/27 y sin fecha límite de solicitud. La redacción de los tramos de 120 ECTS utiliza “above” junto al intervalo: debe confirmarse el tratamiento de los valores frontera. No se infiere concesión automática para recién admitidos. Ciudadanía: La página se refiere a todos los estudiantes de UBT que cumplan criterios, sin ciudadanía específica. Residencia o vínculo exigido: Vínculo académico con UBT en Kosovo; residencia previa no explicitada.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "entry",
+        "url": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+        "phrases": [
+          "All UBT students",
+          "60 ECTS"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+        "phrases": [
+          "10%",
+          "20%"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+        "phrases": [
+          "February 17th"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UBT — beca de máster para sus graduados · anuncio 2026",
+    "institution": "UBT Higher Education Institution",
+    "country": "XK",
+    "url": "https://www.ubt-uni.net/sq/30-per-qind-burse-per-ish-studentet-e-ubt-se-ne-programet-me-inovative-master-regjistrohu-sott/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Graduado de UBT que continúa un máster en la institución; admisión y condiciones del programa se tramitan aparte.",
+    "duration": "El anuncio no especifica número de semestres cubiertos ni renovación.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca del 30% para estudios de máster; el anuncio no publica un importe fijo ni manutención."
+    },
+    "eligibilityNote": "Anuncio del 12 de agosto de 2026, sin cierre explícito. Falta precisar duración, base exacta de cálculo y acumulación con otros descuentos; no se completa con reglas de otras becas de UBT. Ciudadanía: La condición publicada es ser graduado de UBT; no se publica una nacionalidad concreta. Residencia o vínculo exigido: Máster en UBT, Kosovo; sin requisito de residencia previa publicado.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "entry",
+        "url": "https://www.ubt-uni.net/sq/30-per-qind-burse-per-ish-studentet-e-ubt-se-ne-programet-me-inovative-master-regjistrohu-sott/",
+        "phrases": [
+          "të gjithë të diplomuarve të tij"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://www.ubt-uni.net/sq/30-per-qind-burse-per-ish-studentet-e-ubt-se-ne-programet-me-inovative-master-regjistrohu-sott/",
+        "phrases": [
+          "30% bursë për studimet Master në UBT"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://www.ubt-uni.net/sq/30-per-qind-burse-per-ish-studentet-e-ubt-se-ne-programet-me-inovative-master-regjistrohu-sott/",
+        "phrases": [
+          "12/08/2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Montenegro — cofinanciación de máster, doctorado y viajes · 2026",
+    "institution": "Ministerio de Educación, Ciencia e Innovación de Montenegro",
+    "country": "EU",
+    "url": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado",
+      "faculty"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Matrícula: ciudadanos montenegrinos en primer año de máster o doctorado 2025/26, con medias normalmente ≥8,50 en ciencias naturales/técnicas (≥9,00 en sociales/humanidades), dos recomendaciones, idioma y matrícula no cubierta totalmente por otra fuente. Viajes: estudiantes vinculados a instituciones montenegrinas y beneficiarios especificados; docentes CEEPUS según condiciones.",
+    "duration": "Apoyo de matrícula para la cohorte 2025/26; viaje una vez por año para movilidad, o una vez por ciclo para ciertas becas de gobiernos extranjeros.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Máster hasta 750 € (36 personas); doctorado hasta 1.500 € (30 personas). Viajes hasta 200 € con estancia mínima de 21 días salvo excepciones CEEPUS; docentes CEEPUS mínimo cinco días laborables. No se suman como una beca garantizada."
+    },
+    "eligibilityNote": "Matrícula: cierre 25 de julio de 2026; resultados enlazados en septiembre. Viajes: cierre publicado 11 de diciembre de 2026. La ficha se limita a estudiar o desplazarse a destinos europeos/EEES admisibles; el instrumento original también admite otros destinos. Ciudadanía: Ciudadanía montenegrina para la cofinanciación de matrícula; la sección de viajes define su vínculo académico o condición de becario. Residencia o vínculo exigido: Matrícula nacional o exterior; viajes con el vínculo institucional publicado.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+        "phrases": [
+          "da su državljani Crne Gore"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+        "phrases": [
+          "do 750 eura",
+          "do 1.500 eura",
+          "do 200 eura"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+        "phrases": [
+          "25. jula 2026",
+          "11. decembra 2026"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+        "phrases": [
+          "minimalnom trajanju od 21 dan"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Moldova — becas de excelencia y por áreas para doctorandos · 2026",
+    "institution": "Ministerio de Educación e Investigación de Moldova",
+    "country": "MD",
+    "url": "https://mecc.gov.md/ro/node/16086",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Doctorando desde segundo año, a tiempo completo o parcial, financiado con presupuesto público o por contrato. Requiere aprobación del consejo de la escuela doctoral, cumplimiento del plan de formación/investigación y resultados documentados.",
+    "duration": "Un año natural: edición 2026.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca de excelencia del Gobierno o beca por área científica. El anuncio de esta edición no expresa importe; no se reutilizan las cifras de anuncios de 2020."
+    },
+    "eligibilityNote": "Solicitud hasta el 14 de noviembre de 2025: edición cerrada. La normativa de evaluación 2025 y la orden de concesión 2026 están enlazadas, pero sus PDFs no produjeron texto en el lector nativo; esta ficha se limita al anuncio oficial legible y no atribuye reglas adicionales. Ciudadanía: El anuncio pide identificación, pero no explicita una ciudadanía; no se convierte ese documento en restricción nacional. Residencia o vínculo exigido: Vínculo con una escuela doctoral dentro del sistema moldavo; no se publica una regla separada de residencia.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "entry",
+        "url": "https://mecc.gov.md/ro/node/16086",
+        "phrases": [
+          "începând cu al doilea an de studii",
+          "finanțați din bugetul de stat, cât și celor în bază de contract",
+          "decizia Consiliului școlii doctorale"
+        ]
+      },
+      {
+        "field": "duration",
+        "url": "https://mecc.gov.md/ro/node/16086",
+        "phrases": [
+          "pentru un an calendaristic"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://mecc.gov.md/ro/node/16086",
+        "phrases": [
+          "14 Noiembrie 2025"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://mecc.gov.md/ro/node/16086",
+        "phrases": [
+          "Bursa de excelență a Guvernului și Bursa pe domenii științifice"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "SEEU — ayudas de matrícula y Work and Study · 2026/27",
+    "institution": "South East European University",
+    "country": "MK",
+    "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+    "kind": "funding-programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Mérito y complemento social: ciudadanos de Macedonia del Norte en grado presencial, secundaria con promedio 4,50–5,00; el componente social exige necesidad. Work and Study se dirige a todos los estudiantes y prioriza necesidad y aptitud. Descuento familiar: hermanos activos en grado o máster sin otras ayudas universitarias.",
+    "duration": "Mérito: tres o cuatro años con revisión anual; trabajo durante un curso hasta doce horas semanales; descuento familiar mientras se cumplan sus condiciones.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Mérito: descuento de matrícula 60% con promedio escolar 5,00 o 40% con 4,50–4,99; el complemento social puede elevar cobertura hasta 80%. Work and Study remunera trabajo hasta el coste anual de matrícula, sin salario horario publicado. Descuento familiar: 15% para segundo hermano y 25% para tercero; los presupuestos globales no son becas individuales."
+    },
+    "eligibilityNote": "Mérito: cierre 12 de septiembre de 2026, renovación con 60 ECTS/año y GPA ≥8,50 para 40%, ≥9,00 para 60% o ayuda social, con necesidad revisada. Trabajo: plazo de primer año 10 de septiembre. Hermanos: plazo publicado 1 de diciembre de 2026–28 de febrero de 2027, pero texto aún indica 2025/26; edición pendiente de aclaración. La ficha distingue las modalidades sin multiplicar convocatorias ni sumar porcentajes. Ciudadanía: La ciudadanía de Macedonia del Norte se exige en mérito y complemento social; no se publica esa restricción para trabajo o hermanos. Residencia o vínculo exigido: Estudios en SEEU; disponibilidad presencial para Work and Study. La fuente no fija residencia previa.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+        "phrases": [
+          "are citizens of the Republic of North Macedonia"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+        "phrases": [
+          "Group A = 60%",
+          "Group B = 40%",
+          "covers up to 80%",
+          "15 % discount",
+          "25% discount"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+        "phrases": [
+          "All students have the right to apply",
+          "first and/or second cycle"
+        ]
+      },
+      {
+        "field": "duration",
+        "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+        "phrases": [
+          "up to 12 hours per week"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+        "phrases": [
+          "12.09.2026",
+          "10 September 2026",
+          "01.12.2026 – 28.02.2027",
+          "academic year 2025/26"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kosovo — movilidad científica de corta duración · 2026",
+    "institution": "Ministerio de Educación y Ciencia de Kosovo",
+    "country": "EU",
+    "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Investigadores ciudadanos de Kosovo con respaldo de su institución y anfitrión. Investigación que no pueda realizarse en Kosovo o presentación en conferencia; sin otra financiación para esa movilidad. Excluye visitas a la institución donde cursa el doctorado y movilidades ligadas a acuerdos bilaterales o multilaterales institucionales.",
+    "duration": "Apoyo a estancia investigadora hasta dos meses; también presentación en conferencia según la convocatoria.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Justificación del viaje en clase económica y tasas de conferencia cuando proceda. Estancia investigadora compensada por dietas oficiales, con máximo 2.000 € por periodo de hasta dos meses; no se confunde con salario."
+    },
+    "eligibilityNote": "Periodo publicado: 14 de mayo–30 de septiembre de 2026 a las 16:00. No financia movilidades terminadas antes de solicitar; exige justificante posterior. Solo se incluyen anfitriones o conferencias europeos de prestigio, no destinos fuera del ámbito. Ciudadanía: Ciudadanía de Kosovo. Residencia o vínculo exigido: Respaldo de institución local donde trabaja el solicitante; no se publica una duración mínima de residencia.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "phrases": [
+          "Të jetë shtetas i Republikës së Kosovës"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "phrases": [
+          "jo më shumë se 2,000 euro",
+          "deri në 2 muaj"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "phrases": [
+          "30.09.2026 në ora 16:00"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "phrases": [
+          "institucione të njohura evropiane"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "phrases": [
+          "institucionet në të cilat kandidatët kryejnë studimet e doktoraturës"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Montenegro — excelencia en investigación doctoral nacional · 2025",
+    "institution": "Ministerio de Educación, Ciencia e Innovación de Montenegro",
+    "country": "ME",
+    "url": "https://www.gov.me/clanak/konkurs-za-dodjelu-stipendija-izvrsnosti-za-doktorska-istrazivanja-u-crnoj-gori-3",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación institucional o de proyecto",
+    "entry": "La universidad anfitriona solicita junto al doctorando y mentor. Ciudadanía montenegrina o residencia permanente; doctorado matriculado en Montenegro, titulación de al menos 300 ECTS obtenida como máximo siete años antes y media mínima 8 en cada nivel. Persona desempleada o empleada en institución con sede en Montenegro.",
+    "duration": "Hasta tres años; tres meses de movilidad investigadora obligatoria durante el periodo.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Nueva contratación: hasta 1.000 €/mes netos, con coste bruto financiado; si ya trabaja, complemento hasta 300 €/mes netos. Investigación: hasta 15.000 €/año brutos para gastos admisibles, no dinero libre para el doctorando. El millón de euros es presupuesto total de la convocatoria."
+    },
+    "eligibilityNote": "Cierre 25 de noviembre de 2025 a las 14:00. Proyectos en prioridades nacionales, incluida tecnología de información y comunicación. Para esta ficha, la movilidad asociada debe mantenerse en destinos europeos/EEES; no cubre automáticamente cualquier proyecto ni sustituye la admisión. Ciudadanía: Ciudadanía montenegrina o, alternativamente, residencia permanente en Montenegro. Residencia o vínculo exigido: Universidad anfitriona en Montenegro y condición laboral local definida en las bases.",
+    "researchNote": "La solicitud la presenta la universidad con el doctorando. El presupuesto institucional de investigación es distinto de la remuneración neta individual; no garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://wapi.gov.me/download/e8b034b4-af73-4b47-bb35-5b1b26f4a7d4?version=1.0",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://wapi.gov.me/download/e8b034b4-af73-4b47-bb35-5b1b26f4a7d4?version=1.0",
+        "phrases": [
+          "crnogorsko državljanstvo ili stalni boravak"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://wapi.gov.me/download/e8b034b4-af73-4b47-bb35-5b1b26f4a7d4?version=1.0",
+        "phrases": [
+          "300 ECTS",
+          "minimalnu prosječnu ocjenu 8"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://wapi.gov.me/download/e8b034b4-af73-4b47-bb35-5b1b26f4a7d4?version=1.0",
+        "phrases": [
+          "neto 1,000.00",
+          "do 300.00 € mjesečno",
+          "bruto iznosu do 15,000.00"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://wapi.gov.me/download/e8b034b4-af73-4b47-bb35-5b1b26f4a7d4?version=1.0",
+        "phrases": [
+          "Informaciono-komunikacione tehnologije"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://www.gov.me/clanak/konkurs-za-dodjelu-stipendija-izvrsnosti-za-doktorska-istrazivanja-u-crnoj-gori-3",
+        "phrases": [
+          "25. novembra 2025"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Macedonia del Norte — becas de máster y doctorado en el extranjero · 2026/27",
+    "institution": "Ministerio de Educación y Ciencia de Macedonia del Norte",
+    "country": "EU",
+    "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Ciudadanía de Macedonia del Norte, sin otra beca; admisión incondicional por primera vez en primer año 2026/27, idioma acreditado y recomendaciones. Universidad top 10 ARWU para cualquier área o top 100 en áreas expresamente incluidas como matemáticas e informática. Máster: grado de tres o cuatro años, media ≥8,50 y al menos 300 ECTS entre ambos ciclos. Doctorado: grado y máster de al menos cinco años conjuntamente, media ≥8,50 en cada ciclo, tres publicaciones científicas en los tres últimos años y dos años de experiencia relevante.",
+    "duration": "Duración oficial del programa acreditada por la universidad; la convocatoria no fija un número uniforme de años para todos los títulos.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Matrícula hasta 40.000 USD por año, abonada en la moneda correspondiente al tipo del Banco Nacional; exceso a cargo del estudiante. Viaje aéreo inicial y final o billete de ida y vuelta; asignación mensual según resolución e índices de coste de vida de Naciones Unidas, sin importe plano publicado."
+    },
+    "eligibilityNote": "Cierre 15 de septiembre de 2026, cerrado. Por cada año estudiado fuera debe trabajar dos años en Macedonia del Norte; seis meses sin oferta no extinguen la obligación. Empleo en Fortune top 500 dentro de tres meses permite aplazarla hasta tres años; máster seguido inmediatamente de doctorado puede aplazarla previa tramitación. No retorno: devolución íntegra en dos años desde graduación. Solo destinos europeos/EEES y áreas TRAMA dentro de la lista elegible. Ciudadanía: Ciudadanía de Macedonia del Norte. Residencia o vínculo exigido: No se publica una antigüedad de residencia previa; existe obligación contractual de retorno y trabajo.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-tret-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "label": "Requisitos de acceso"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "phrases": [
+          "Да е државјанин на Република Северна Македонија"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "phrases": [
+          "40.000 УСА долари годишно"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "phrases": [
+          "15.09.2026"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "phrases": [
+          "компјутерските и информациските науки",
+          "математиката"
+        ]
+      },
+      {
+        "field": "obligations",
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "phrases": [
+          "ќе работи две години во Република Северна Македонија"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-tret-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "phrases": [
+          "најмалку 3 (три) научно-истражувачки трудови"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-tret-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "phrases": [
+          "40.000 УСА долари годишно"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Montenegro — excelencia doctoral en el extranjero · 2025",
+    "institution": "Ministerio de Educación, Ciencia e Innovación de Montenegro",
+    "country": "EU",
+    "url": "https://www.gov.me/clanak/konkurs-za-stipendije-izvrsnosti-za-doktorska-istrazivanja-u-inostranstvu",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Ciudadanía montenegrina y domicilio permanente en Montenegro. Doctorado acreditado en el extranjero, con mentor, titulación habilitante de 300 ECTS obtenida como máximo siete años antes y media ≥8 en cada nivel. Requiere colaboración documentada con una entidad investigadora licenciada de Montenegro y tema ligado a prioridades nacionales, incluidas las TIC.",
+    "duration": "Hasta tres, dos o un año según curse primero, segundo o tercero de doctorado; continuidad mediante evaluación anual favorable.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Hasta 500 €/mes netos de beca, con coste bruto cubierto, más hasta 8.000 €/año brutos de gastos de investigación, movilidad y difusión admisibles. Los 600.000 € corresponden al presupuesto de todo el programa. No admite financiar los mismos gastos con otra beca."
+    },
+    "eligibilityNote": "Cierre 12 de diciembre de 2025 a las 14:00. Exige terminar en plazo, informes y contribución a Montenegro: al menos una publicación indexada conjunta con investigador local o aceptación, más cuatro de cinco resultados definidos de transferencia, mentoría, propuestas o cooperación. Incumplimiento conlleva reintegro contractual. La ruta de esta ficha se limita a doctorado y movilidad en Europa/EEES. Ciudadanía: Ciudadanía montenegrina. Residencia o vínculo exigido: Domicilio permanente en Montenegro y colaboración con una entidad investigadora licenciada del país.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "phrases": [
+          "crnogorsko državljanstvo i prebivalište u Crnoj Gori"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "phrases": [
+          "300 ECTS",
+          "minimalnu prosječnu ocjenu 8"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "phrases": [
+          "neto 500.00",
+          "8,000.00"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "phrases": [
+          "Informaciono-komunikacione tehnologije"
+        ]
+      },
+      {
+        "field": "obligations",
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "phrases": [
+          "najmanje četiri",
+          "povraćaj"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "phrases": [
+          "12. decembra 2025."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kosovo — becas de excelencia y apoyo por discapacidad · 2025/26",
+    "institution": "Ministerio de Educación y Ciencia de Kosovo",
+    "country": "XK",
+    "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Ciudadanía de Kosovo, grado o máster en institución pública del país, sin repetir curso, exámenes del curso anterior completados en septiembre y matrícula activa. Media ≥9, o ≥8 para comunidades roma, ashkali y egipcia; la discapacidad exime del requisito de nota. Grado: primer año terminado. En máster las bases son contradictorias sobre primer curso: el apartado 3.3 exige terminarlo, mientras 3.9 permite solicitar durante él y 5.7 contempla máster de un año.",
+    "duration": "Máximo dos concesiones en máster de dos años, una en máster anual y cuatro en estudios integrados de cinco años; discapacidad hasta el doble de la duración ordinaria.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca o ayuda económica cuya cuantía no se publica en estas bases. No se importa la cifra de una noticia de adjudicación que mezcla las ediciones 2024/25 y 2025/26."
+    },
+    "eligibilityNote": "Solicitudes 3–18 de octubre de 2025, cerradas. Solo una beca de fondos del Ministerio por curso. La elegibilidad del primer año de máster necesita aclaración por la contradicción interna, que no se resuelve por suposición; los requisitos inequívocos del resto de beneficiarios se conservan. Ciudadanía: Ciudadanía de Kosovo. Residencia o vínculo exigido: Matrícula en una institución pública de educación superior de Kosovo; no se publica un mínimo de residencia.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+        "phrases": [
+          "Të jenë shtetas të Republikës së Kosovës"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+        "phrases": [
+          "Ta kenë përfunduar vitin e parë të nivelit master",
+          "aplikimi fillestar",
+          "Për studentët e programeve njëvjeçare master"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+        "phrases": [
+          "ndarje të bursave elitare",
+          "mbështetjen financiare për studentët me aftësi të kufizuara"
+        ]
+      },
+      {
+        "field": "duration",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+        "phrases": [
+          "më shumë se dy herë",
+          "më shumë se një herë"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kosovo — becas de máster en universidades extranjeras top 200 · 2025",
+    "institution": "Ministerio de Educación y Ciencia de Kosovo",
+    "country": "EU",
+    "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Ciudadanía de Kosovo y prueba oficial de domicilio o residencia permanente en Kosovo. Grado terminado; máster presencial y a tiempo completo en universidad top 200 Times Higher Education. Prioridad por menor renta, discapacidad, ausencia de apoyo, primera concesión y titulación previa obtenida en Kosovo. Esta ficha solo incluye universidades europeas/EEES elegibles.",
+    "duration": "Ayuda por convocatoria; no se promete renovación ni una cantidad por cada año del máster.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Hasta 7.000 € por estudiante. Excluye beca completa de otra fuente y apoyo de MASH u otra institución estatal; otras ayudas parciales deben declararse con su cuantía y cobertura."
+    },
+    "eligibilityNote": "Solicitudes 3–18 de octubre de 2025, cerradas. Exige reportar progreso y firmar compromiso de promoción de Kosovo, colaboración en redes y mentoría. Requiere cuenta bancaria personal activa para adjudicados. Ciudadanía: Ciudadanía de Kosovo. Residencia o vínculo exigido: Domicilio o residencia permanente en Kosovo acreditado por organismo competente.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "phrases": [
+          "shtetas të Republikës së Kosovës",
+          "adresën/vendbanimin e përhershëm në Kosovë"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "phrases": [
+          "top 200",
+          "Times Higher Education",
+          "prani fizike"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "phrases": [
+          "7,000 €"
+        ]
+      },
+      {
+        "field": "obligations",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "phrases": [
+          "Deklaratë të Zotimit"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "phrases": [
+          "03.10.2025 deri më 18.10.2025"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Malta — Get Qualified 2026 y Attainment Bonus",
+    "institution": "Malta Enterprise",
+    "country": "EU",
+    "url": "https://maltaenterprise.com/GetQualified2026",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "grado",
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Personas sujetas a impuestos en Malta cuyo curso comenzó después de cumplir 16 años. Titulación reconocida, de proveedor habilitado en Malta o entidad reconocida extranjera; solo destinos europeos/EEES en esta ficha. Estudios completados desde 1 de enero de 2026. Las situaciones laborales vinculadas al curso pueden quedar sujetas a las reglas de minimis.",
+    "duration": "Crédito de costes utilizable durante quince ejercicios fiscales; bonus de titulación en dos partes iguales durante el tercero y cuarto ejercicio de liquidación posterior a obtener el título.",
+    "funding": {
+      "kind": "grant",
+      "text": "Crédito fiscal, no pago anticipado: hasta 70% del gasto académico admisible, con tope del crédito de 75 €/ECTS en grado y 170 €/ECTS en máster; doctorado completo sin tope de crédito. Bonus fiscal adicional: grado STEM 3.000 €, máster STEM 5.000 € y doctorado 10.000 €. El bonus puede coexistir con otras ayudas, pero el crédito de costes exige asumir el coste completo sin reembolso o subvención de terceros. Viaje y alojamiento excluidos."
+    },
+    "eligibilityNote": "Solicitud dentro de un año desde completar estudios; máximo cuatro solicitudes en cinco años. Hay que presentar declaración fiscal anual, incluso nula, o se pierde el crédito pendiente; bonus no utilizado no se arrastra. Cursos anteriores a 2026 pueden pedir reglas previas hasta 31 de diciembre de 2026, con documentación hasta 31 de diciembre de 2030. HTML fija fin de aprobaciones el 30 de diciembre de 2030 y PDF §3.2 indica 31 de diciembre para categorías de minimis: discrepancia visible. La guía v1.0 conserva una referencia normativa provisional «123. [XXX]». Ciudadanía: No se fija ciudadanía en la elegibilidad general publicada. Residencia o vínculo exigido: Sujeción a impuestos en Malta; no se añade una duración mínima de residencia no publicada.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [
+      {
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "entry",
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "phrases": [
+          "liable to tax in Malta",
+          "sixteenth birthday",
+          "An awarding body established outside of Malta"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "phrases": [
+          "seventy percent (70%)",
+          "€1 70 per ECTS",
+          "No Capping for a full doctorate",
+          "€5,000",
+          "€ 10,000"
+        ]
+      },
+      {
+        "field": "duration",
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "phrases": [
+          "fifteen (15) fiscal years"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "phrases": [
+          "Within one (1) year",
+          "31st December 2030"
+        ]
+      },
+      {
+        "field": "obligations",
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "phrases": [
+          "the unutilized tax credit balance shall be lost"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://maltaenterprise.com/GetQualified2026",
+        "phrases": [
+          "30th December 2030"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Georgia — Research Grants for Young Scientists · 2026",
+    "institution": "Shota Rustaveli National Science Foundation of Georgia",
+    "country": "GE",
+    "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación institucional o de proyecto",
+    "entry": "Investigador ciudadano georgiano con doctorado en los siete años anteriores a la convocatoria, junto a anfitrión elegible registrado en Georgia: entidad pública, no lucrativa o universidad con finalidad investigadora. Mentor del anfitrión obligatorio; admite asesoría y personal de apoyo. La ficha se limita a proyectos de ciencias exactas, naturales o tecnología con contenido TRAMA.",
+    "duration": "Dos años.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Presupuesto institucional máximo 35.000 GEL/año y 70.000 GEL total: beca del investigador hasta 17.000 GEL/año, investigación hasta 16.000 y costes indirectos hasta 2.000. La fuente no especifica bruto o neto. Permite cofinanciación; el presupuesto completo no es salario personal."
+    },
+    "eligibilityNote": "Registro GMUS 2–23 de junio de 2026 a las 16:00 y documento en cancillería hasta 3 de julio a las 18:00; cerrada. Evaluación y concesión previstas para noviembre–diciembre de 2026 no equivalen a admisión de nuevas solicitudes. Ciudadanía: Ciudadanía georgiana, según la página oficial permanente del esquema. Residencia o vínculo exigido: Proyecto con entidad anfitriona registrada en Georgia; no se impone aquí una residencia previa no publicada.",
+    "researchNote": "Solicitud conjunta de entidad anfitriona y joven doctor. Georgia se incorpora por el ámbito académico EEES; el presupuesto institucional se distingue de la beca del investigador y no garantiza puesto.",
+    "evidencePages": [
+      {
+        "url": "https://rustaveli.org.ge/eng/akhalgazrda-metsnierta-postdoqtorantebis-kvleviti-grantebis-konkursi",
+        "label": "Ciudadanía y elegibilidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "scope",
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+        "phrases": [
+          "Exact and Natural Sciences",
+          "Engineering and technology"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+        "phrases": [
+          "submitted jointly by the host institution and a young scientist",
+          "registered in Georgia"
+        ]
+      },
+      {
+        "field": "citizenship",
+        "url": "https://rustaveli.org.ge/eng/akhalgazrda-metsnierta-postdoqtorantebis-kvleviti-grantebis-konkursi",
+        "phrases": [
+          "Citizens of Georgia",
+          "awarded during last 7 years"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+        "phrases": [
+          "35 000 GEL per year",
+          "17 000 GEL per year",
+          "16 000 GEL per year",
+          "2000 GEL per year"
+        ]
+      },
+      {
+        "field": "duration",
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+        "phrases": [
+          "2 years"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+        "phrases": [
+          "June 23 (16:00)",
+          "July 3, 18:00"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Georgia–Francia — estancia de investigación GFI · 2026",
+    "institution": "Shota Rustaveli National Science Foundation of Georgia / Institut français de Géorgie",
+    "country": "FR",
+    "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc",
+      "faculty"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Ciudadanía georgiana y doctorado obtenido como máximo doce años antes de la convocatoria, inglés o francés y carta de apoyo de universidad o centro investigador francés. Una solicitud por persona; estancia en disciplina TRAMA.",
+    "duration": "Un mes en Francia.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Canal SRNSF: dos plazas, una con 1.050 € de manutención más viaje hasta 750 € y otra con 1.050 € sin viaje. Canal Institut français: dos plazas, con cuantía según antigüedad del doctorado: menos de cinco años, 929 € en servicios Campus France y 171 € en efectivo; más de cinco años, 943,70 € en servicios y 306,30 € en efectivo. Una de esas dos plazas añade 750 € de viaje. Las categorías de antigüedad no son cupos adicionales; no se suman ambos financiadores como beca individual."
+    },
+    "eligibilityNote": "GMUS hasta 25 de mayo de 2026 a las 16:00; documentación en cancillería hasta 28 de mayo a las 18:00, cerrada. La categoría de doctorado obtenido exactamente cinco años antes no queda definida: la fuente dice menos o más de cinco. Alojamientos, seguros y gastos gestionados por Campus France son servicios, no dinero entregado íntegramente. Ciudadanía: Ciudadanía georgiana. Residencia o vínculo exigido: Anfitrión universitario o investigador en Francia; la versión consultada no publica una antigüedad de residencia en Georgia.",
+    "researchNote": "Aplicable únicamente a estudios o investigación en las disciplinas TRAMA y a la ruta europea descrita. No garantiza admisión ni concesión.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+        "phrases": [
+          "Applicants must be Georgian citizens",
+          "no more than 12 years"
+        ]
+      },
+      {
+        "field": "duration",
+        "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+        "phrases": [
+          "1 month"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+        "phrases": [
+          "€1,050",
+          "€929",
+          "€171",
+          "€943.70",
+          "€306.30"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+        "phrases": [
+          "support of a French university",
+          "English or French"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+        "phrases": [
+          "May 25 (16:00)",
+          "May 28, 18:00"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Azerbaiyán — Heydar Aliyev International Education Grant · 2026/27",
+    "institution": "Ministerios de Asuntos Exteriores y de Ciencia y Educación de Azerbaiyán",
+    "country": "AZ",
+    "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Ciudadanía de un país elegible de OIC, Movimiento de No Alineados, pequeños Estados insulares o países con vínculos culturales, étnicos o históricos según anexo 2; nominación por autoridad nacional obligatoria. Excluye ciudadanos y antiguos ciudadanos azerbaiyanos. Máster: menos de 40 años al 15 de septiembre de 2026. Nota previa ≥70/100, documentos académicos y médicos y acreditación del idioma. La lista 2026/27 incluye Computer Science e Information Technology.",
+    "duration": "Máster: año y medio o dos. Preparación lingüística de seis meses a un año cuando corresponda.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Matrícula y preparación lingüística; vuelo internacional de ida y vuelta en económica una vez al año; 800 AZN/mes durante diez meses, excluidos julio y agosto, para vivienda y gastos; asignación médica de 200 AZN/año; visado de entrada única y permiso temporal anual. Cien beneficiarios anuales es una cuota del programa, no importe individual."
+    },
+    "eligibilityNote": "Nominación 16 de febrero–15 de abril de 2026 a las 18:00 de Bakú; segunda fase 1–10 de junio hasta las 18:00, cerradas. Una solicitud y hasta tres especialidades. Nominación no garantiza concesión; exige aceptación, contrato y cumplimiento de sus compromisos. Para inglés de posgrado pide IELTS ≥5,5 o TOEFL ≥50 y además declara que la educación anterior debe ser en inglés; no se convierte ese requisito en alternativa. Esta ficha se limita a másteres TRAMA íntegramente en Azerbaiyán dentro del EEES. Ciudadanía: Solo países elegibles del anexo 2 de la convocatoria; nominación por la ciudadanía elegible. Excluye ciudadanía azerbaiyana presente o anterior. Residencia o vínculo exigido: Estancia y estudios en Azerbaiyán; se tramita permiso temporal. La convocatoria no fija residencia previa mínima.",
+    "researchNote": "Esquema nacional de destino Azerbaiyán, incluido como ampliación académica EEES. El anexo oficial confirma másteres de informática en 2026/27, por lo que esta ficha solo incluye ese nivel; la hoja tiene vista parcial y no se presenta como inventario completo. No se presume admisión, elegibilidad de una nacionalidad concreta o cupo por programa.",
+    "evidencePages": [
+      {
+        "url": "https://docs.google.com/spreadsheets/d/1HRhnXQekFQ3Le4WV9tEF1nJ4xCUtnEKR/edit?usp=drive_link&ouid=115156725582018381157&rtpof=true&sd=true",
+        "label": "Áreas y estudios elegibles"
+      },
+      {
+        "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+        "label": "Bases y condiciones oficiales",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "citizenship",
+        "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+        "phrases": [
+          "Organization of Islamic Cooperation",
+          "Non-Aligned Movement",
+          "Small Island Developing States",
+          "whose citizenship in the Republic of Azerbaijan have been terminated"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+        "phrases": [
+          "below 40 years",
+          "below 45 years",
+          "70 (on a scale of 0 to 100"
+        ]
+      },
+      {
+        "field": "coverage",
+        "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+        "phrases": [
+          "800 AZN",
+          "200 AZN",
+          "10 months each year, except July and August"
+        ]
+      },
+      {
+        "field": "timing",
+        "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+        "phrases": [
+          "From June 1 to June 10, 2026"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://docs.google.com/spreadsheets/d/1HRhnXQekFQ3Le4WV9tEF1nJ4xCUtnEKR/edit?usp=drive_link&ouid=115156725582018381157&rtpof=true&sd=true",
+        "phrases": [
+          "Computer Science",
+          "Information Technology"
+        ]
+      }
+    ]
   }
 ]

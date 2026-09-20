@@ -20228,6 +20228,15 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+        "type": "funding",
+        "label": "SEEU — ayudas de matrícula y Work and Study · 2026/27",
+        "observedAt": "2026-09-20T14:01:10.092Z",
+        "checkedAt": "2026-09-20T14:01:10.092Z",
+        "contentHash": "431e03a376b958442a4890d0c638529ae934b0c702f1d36df92ec36d0e99155b",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -20240,7 +20249,8 @@
       "tiers": "not_assessed",
       "nextAction": "Read robots and fetch official catalogues; enumerate individual programmes and current funding/job calls. A discovered source is not an imported opportunity.",
       "reviewedAt": "2026-09-19T21:26:41Z"
-    }
+    },
+    "ror": "https://ror.org/00m04y575"
   },
   {
     "id": "xk-prishtina",
@@ -22060,9 +22070,46 @@
         "observedAt": "2026-09-19T22:47:41.607Z",
         "contentHash": "43fe75b31b2e977303620143a641439d573253bf44d2f7970933f43c092b83dd",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/financial-aid-definition/",
+        "type": "funding",
+        "label": "AUA — ayuda de matrícula por necesidad económica",
+        "observedAt": "2026-09-20T14:33:49.425Z",
+        "checkedAt": "2026-09-20T14:33:49.425Z",
+        "contentHash": "d0d828bb721b00308aa0c59a3fac7eaa15a62659a8a5a6d92684219df666925d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/deadlines/",
+        "type": "funding",
+        "label": "Edición y plazos · AUA — International Scholarship",
+        "observedAt": "2026-09-20T14:33:54.071Z",
+        "checkedAt": "2026-09-20T14:33:54.071Z",
+        "contentHash": "a8e2724039793750f41caca3ccbf7334c9433fb8d9c04fc71c0b5284ef8dfc3e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/international-scholarships/",
+        "type": "funding",
+        "label": "AUA — International Scholarship",
+        "observedAt": "2026-09-20T14:33:52.858Z",
+        "checkedAt": "2026-09-20T14:33:52.858Z",
+        "contentHash": "8440eae60b9688b3e116ba603b6fdf40febe92fd9154cb57fea097548f4e987f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/procedures/",
+        "type": "funding",
+        "label": "AUA — becas académicas y AUA/MESCS de posgrado",
+        "observedAt": "2026-09-20T14:33:53.220Z",
+        "checkedAt": "2026-09-20T14:33:53.220Z",
+        "contentHash": "2f51aae0d707a2c1a674af4ac77d5a20b30d000c5dc37c06063a75318fae6253",
+        "accessOutcome": "ok"
       }
     ],
-    "geographyNote": "Ampliación académica del EEES; sede en Yerevan. No se presume localización en la Europa geográfica."
+    "geographyNote": "Ampliación académica del EEES; no se presume localización en la Europa geográfica.",
+    "ror": "https://ror.org/04dngzj56"
   },
   {
     "id": "ada-university",
@@ -26949,5 +26996,392 @@
         "accessOutcome": "ok"
       }
     ]
+  },
+  {
+    "id": "al-east11-epoka",
+    "name": "EPOKA University",
+    "country": "AL",
+    "officialUrl": "https://admissions.epoka.edu.al/content/NTQw/Scholarships/Master-Study-Programs",
+    "domains": [
+      "epoka.edu.al"
+    ],
+    "sources": [
+      {
+        "url": "https://admissions.epoka.edu.al/content/NTQw/Scholarships/Master-Study-Programs",
+        "type": "funding",
+        "label": "EPOKA — descuentos de mérito para máster",
+        "observedAt": "2026-09-20T14:33:49.426Z",
+        "checkedAt": "2026-09-20T14:33:49.426Z",
+        "contentHash": "8524794035c46d8ed522fa36c44be23e689a42f83a5c24dc51e8226c9bf4a5af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://cms.epoka.edu.al/api/CMS_Archive/assets/Directive-on-scholarships-pdf-363",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · EPOKA — descuentos de mérito para máster",
+        "observedAt": "2026-09-20T14:33:54.424Z",
+        "checkedAt": "2026-09-20T14:33:54.424Z",
+        "contentHash": "a44ac4599b97b51a7a032524836f1b534c845e29724e33c8dc5286e9c88f4512",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/04xgcc957"
+  },
+  {
+    "id": "xk-east11-ubt",
+    "name": "UBT Higher Education Institution",
+    "country": "XK",
+    "officialUrl": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+    "domains": [
+      "ubt-uni.net"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+        "type": "funding",
+        "label": "UBT — descuentos por rendimiento académico",
+        "observedAt": "2026-09-20T14:33:54.079Z",
+        "checkedAt": "2026-09-20T14:33:54.079Z",
+        "contentHash": "73f0a5fe2a67ee8737581c47990d6241396dd236bcbcaa46aa3c15fdccd462f9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ubt-uni.net/sq/30-per-qind-burse-per-ish-studentet-e-ubt-se-ne-programet-me-inovative-master-regjistrohu-sott/",
+        "type": "funding",
+        "label": "UBT — beca de máster para sus graduados · anuncio 2026",
+        "observedAt": "2026-09-20T14:33:54.829Z",
+        "checkedAt": "2026-09-20T14:33:54.829Z",
+        "contentHash": "fb23ce9bf2f63aeaa78c21f5f84c853c36e38059a5a4afd6d4c7d00a078f83d3",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/00033n668"
+  },
+  {
+    "id": "me-east11-education-science",
+    "name": "Ministerio de Educación, Ciencia e Innovación de Montenegro",
+    "country": "ME",
+    "officialUrl": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+    "domains": [
+      "gov.me"
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+        "type": "funding",
+        "label": "Montenegro — cofinanciación de máster, doctorado y viajes · 2026",
+        "observedAt": "2026-09-20T14:33:54.819Z",
+        "checkedAt": "2026-09-20T14:33:54.819Z",
+        "contentHash": "a89fd5ecbf698ccb751981fb8408c0d482a418c6207ffdec1c0d8c7f6c9c7f32",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/clanak/konkurs-za-dodjelu-stipendija-izvrsnosti-za-doktorska-istrazivanja-u-crnoj-gori-3",
+        "type": "funding",
+        "label": "Montenegro — excelencia en investigación doctoral nacional · 2025",
+        "observedAt": "2026-09-20T14:33:57.178Z",
+        "checkedAt": "2026-09-20T14:33:57.178Z",
+        "contentHash": "532cc0dec154cde39da3786797dd003322ecf71218fcd3250d88a69a7239f9bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://wapi.gov.me/download/e8b034b4-af73-4b47-bb35-5b1b26f4a7d4?version=1.0",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · Montenegro — excelencia en investigación doctoral nacional · 2025",
+        "observedAt": "2026-09-20T14:33:58.111Z",
+        "checkedAt": "2026-09-20T14:33:58.111Z",
+        "contentHash": "13dedc6aab6a3600b8e9ee49c23196136cb9a699cd31e3804c47c387b6e7f54f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/clanak/konkurs-za-stipendije-izvrsnosti-za-doktorska-istrazivanja-u-inostranstvu",
+        "type": "funding",
+        "label": "Montenegro — excelencia doctoral en el extranjero · 2025",
+        "observedAt": "2026-09-20T14:33:58.072Z",
+        "checkedAt": "2026-09-20T14:33:58.072Z",
+        "contentHash": "f558b61ecde76a663466808c74060b5827abf32035eaf10c6ef4dba5894100af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · Montenegro — excelencia doctoral en el extranjero · 2025",
+        "observedAt": "2026-09-20T14:33:59.715Z",
+        "checkedAt": "2026-09-20T14:33:59.715Z",
+        "contentHash": "e1b9481c29af3462f912d6d4b9eb2f1042f7c7e8dc29e34fb13cb1fbd2d89d2b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/mps/resor-prosvjete/krediti-i-stipendije",
+        "type": "index",
+        "label": "Montenegro: portada de créditos y becas",
+        "observedAt": "2026-09-20T13:54:51.106Z",
+        "checkedAt": "2026-09-20T13:54:51.106Z",
+        "contentHash": "625f6b9d99231a3a59f63d380603127e12b0b0a0aaf571a97aa9108d875b8a4c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/mps/nauka-i-inovacije-2/konkursi-i-pozivi-u-oblasti-nauke",
+        "type": "index",
+        "label": "Montenegro: portada de convocatorias de ciencia",
+        "observedAt": "2026-09-20T14:01:03.375Z",
+        "checkedAt": "2026-09-20T14:01:03.375Z",
+        "contentHash": "5397e6f768f8ba7d35e054294ff1bdcd43f164f2f0dcd8ff9189bf35b41ddf0a",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "md-east11-education-research",
+    "name": "Ministerio de Educación e Investigación de Moldova",
+    "country": "MD",
+    "officialUrl": "https://mecc.gov.md/ro/node/16086",
+    "domains": [
+      "mecc.gov.md",
+      "mec.gov.md"
+    ],
+    "sources": [
+      {
+        "url": "https://mecc.gov.md/ro/node/16086",
+        "type": "funding",
+        "label": "Moldova — becas de excelencia y por áreas para doctorandos · 2026",
+        "observedAt": "2026-09-20T14:33:54.835Z",
+        "checkedAt": "2026-09-20T14:33:54.835Z",
+        "contentHash": "4da6c29fe38984e70525c0286480952306a11b7b1a76e2fdeb27bdc23553d385",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.mec.gov.md/ro/advanced-page-type/programe-de-burse",
+        "type": "index",
+        "label": "MEC Moldova: archivo completo Programe de burse",
+        "observedAt": "2026-09-20T13:53:39.529Z",
+        "checkedAt": "2026-09-20T13:53:39.529Z",
+        "contentHash": "88461cde3b30d7de373465f60dbb8970966ba03d4360369503b0e61546c756a6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.mec.gov.md/ro/content/legislatia",
+        "type": "index",
+        "label": "MEC Moldova: índice normativo de investigación",
+        "observedAt": "2026-09-20T13:52:38.706Z",
+        "checkedAt": "2026-09-20T13:52:38.706Z",
+        "contentHash": "e0b189a54dae534692c5617eb3f3d6f55a1f3cc8a28fe5ede6ae28e7eba5f118",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/03twcgp39"
+  },
+  {
+    "id": "xk-east11-education-science",
+    "name": "Ministerio de Educación y Ciencia de Kosovo",
+    "country": "XK",
+    "officialUrl": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+    "domains": [
+      "mash.rks-gov.net"
+    ],
+    "sources": [
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "type": "funding",
+        "label": "Kosovo — movilidad científica de corta duración · 2026",
+        "observedAt": "2026-09-20T14:33:55.834Z",
+        "checkedAt": "2026-09-20T14:33:55.834Z",
+        "contentHash": "0d14117a77cba113279815b482c9637830d14df2426303b8ab7f2b37424389de",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+        "type": "funding",
+        "label": "Kosovo — becas de excelencia y apoyo por discapacidad · 2025/26",
+        "observedAt": "2026-09-20T14:33:58.702Z",
+        "checkedAt": "2026-09-20T14:33:58.702Z",
+        "contentHash": "a702ba354c4267d919d1bc6660bce1b17d6860d668b5040548ca99161fbc4a77",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "type": "funding",
+        "label": "Kosovo — becas de máster en universidades extranjeras top 200 · 2025",
+        "observedAt": "2026-09-20T14:33:59.483Z",
+        "checkedAt": "2026-09-20T14:33:59.483Z",
+        "contentHash": "d617c3b40883b69e3c3f729e2700fc71c7ceaa727de1459e9253147ce7eb89ce",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mash.rks-gov.net/konkurse/",
+        "type": "index",
+        "label": "MASH Kosovo: archivo completo de concursos",
+        "observedAt": "2026-09-20T13:53:37.966Z",
+        "checkedAt": "2026-09-20T13:53:37.966Z",
+        "contentHash": "f07b6f0f4d544dcbbd7a9327b96a1527635a040c1e802c42242de2981e13d3ec",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "mk-east11-education-science",
+    "name": "Ministerio de Educación y Ciencia de Macedonia del Norte",
+    "country": "MK",
+    "officialUrl": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+    "domains": [
+      "mon.gov.mk"
+    ],
+    "sources": [
+      {
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "type": "funding",
+        "label": "Macedonia del Norte — becas de máster y doctorado en el extranjero · 2026/27",
+        "observedAt": "2026-09-20T14:33:56.338Z",
+        "checkedAt": "2026-09-20T14:33:56.338Z",
+        "contentHash": "34d6b6c758ed8f4f4b1f873d63e2e5735b6f95a1c9e4ebb706627ec7fc78345e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-tret-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "type": "funding",
+        "label": "Requisitos de acceso · Macedonia del Norte — becas de máster y doctorado en el extranjero · 2026/27",
+        "observedAt": "2026-09-20T14:33:58.011Z",
+        "checkedAt": "2026-09-20T14:33:58.011Z",
+        "contentHash": "7e2c304f9459d23f272633e21fab8f02ee1bf1bb222caf575e7de6f8a341b48b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon",
+        "type": "index",
+        "label": "MON: archivo de becas",
+        "observedAt": "2026-09-20T13:53:36.979Z",
+        "checkedAt": "2026-09-20T13:53:36.979Z",
+        "contentHash": "df208f607fec10877bd22b475e41e34c286528cef5f54ff22a90e473b6dd00c4",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/0221ghv91"
+  },
+  {
+    "id": "mt-east11-malta-enterprise",
+    "name": "Malta Enterprise",
+    "country": "MT",
+    "officialUrl": "https://maltaenterprise.com/GetQualified2026",
+    "domains": [
+      "maltaenterprise.com"
+    ],
+    "sources": [
+      {
+        "url": "https://maltaenterprise.com/GetQualified2026",
+        "type": "funding",
+        "label": "Malta — Get Qualified 2026 y Attainment Bonus",
+        "observedAt": "2026-09-20T14:33:59.615Z",
+        "checkedAt": "2026-09-20T14:33:59.615Z",
+        "contentHash": "27cd8466d5c1909c801b710b8689a41e6a97bde57ff98f90d11ae9d6f08da30c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · Malta — Get Qualified 2026 y Attainment Bonus",
+        "observedAt": "2026-09-20T14:34:00.519Z",
+        "checkedAt": "2026-09-20T14:34:00.519Z",
+        "contentHash": "6e24f6112e5e811a3f424ba2fd7b03ed9658b05a6a4fbe1abdedd7c6566bc477",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/00ck9ex56"
+  },
+  {
+    "id": "ge-east11-rustaveli",
+    "name": "Shota Rustaveli National Science Foundation of Georgia",
+    "country": "GE",
+    "officialUrl": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+    "domains": [
+      "rustaveli.org.ge"
+    ],
+    "sources": [
+      {
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+        "type": "funding",
+        "label": "Georgia — Research Grants for Young Scientists · 2026",
+        "observedAt": "2026-09-20T14:33:59.893Z",
+        "checkedAt": "2026-09-20T14:33:59.893Z",
+        "contentHash": "2a180826cc919474c4e64cfb69569a832b3d5f451d307a36a29007ae2cd6efe1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/akhalgazrda-metsnierta-postdoqtorantebis-kvleviti-grantebis-konkursi",
+        "type": "funding",
+        "label": "Ciudadanía y elegibilidad · Georgia — Research Grants for Young Scientists · 2026",
+        "observedAt": "2026-09-20T14:34:02.655Z",
+        "checkedAt": "2026-09-20T14:34:02.655Z",
+        "contentHash": "29dfc27a70755e0691cee0f34daad0682147f4aa2c1d9ba9bb0fbc2f35363cea",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+        "type": "funding",
+        "label": "Georgia–Francia — estancia de investigación GFI · 2026",
+        "observedAt": "2026-09-20T14:34:01.784Z",
+        "checkedAt": "2026-09-20T14:34:01.784Z",
+        "contentHash": "e42d6f93c76c45764bee5ec6314b986c3a698007cf9d96f59f4d0010431059db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/konkursebi-da-programebi",
+        "type": "index",
+        "label": "SRNSFG: índice general completo de programas",
+        "observedAt": "2026-09-20T13:55:03.978Z",
+        "checkedAt": "2026-09-20T13:55:03.978Z",
+        "contentHash": "d6563b810436f03879691d8d12e8fd6c069ea057ed45b3ac17f7cc2532a2a7db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi",
+        "type": "index",
+        "label": "SRNSFG: calendario completo de convocatorias 2026",
+        "observedAt": "2026-09-20T13:55:04.841Z",
+        "checkedAt": "2026-09-20T13:55:04.841Z",
+        "contentHash": "be69795c26fd69e4f0aeb6b038831b1b9c72ebd355bbe8de788e4cbd984120e5",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/00xc87681",
+    "geographyNote": "Ampliación académica del EEES; no se presume localización en la Europa geográfica."
+  },
+  {
+    "id": "az-east11-study-in-azerbaijan",
+    "name": "Ministerios de Asuntos Exteriores y de Ciencia y Educación de Azerbaiyán",
+    "country": "AZ",
+    "officialUrl": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+    "domains": [
+      "studyinazerbaijan.edu.az"
+    ],
+    "sources": [
+      {
+        "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+        "type": "funding",
+        "label": "Azerbaiyán — Heydar Aliyev International Education Grant · 2026/27",
+        "observedAt": "2026-09-20T14:34:00.397Z",
+        "checkedAt": "2026-09-20T14:34:00.397Z",
+        "contentHash": "4b370d88f48414442116e8cfc2028f4bc76988c376ef0bedfafb78de6652d0be",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://docs.google.com/spreadsheets/d/1HRhnXQekFQ3Le4WV9tEF1nJ4xCUtnEKR/edit?usp=drive_link&ouid=115156725582018381157&rtpof=true&sd=true",
+        "type": "funding",
+        "label": "Áreas y estudios elegibles · Azerbaiyán — Heydar Aliyev International Education Grant · 2026/27",
+        "observedAt": "2026-09-20T14:34:06.762Z",
+        "checkedAt": "2026-09-20T14:34:06.762Z",
+        "contentHash": "78b553c72e8f430d6da2c22867c5b12a032edb35709b977462cc4270bc420047",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.studyinazerbaijan.edu.az/financial-support",
+        "type": "index",
+        "label": "Study in Azerbaijan: cinco grupos de apoyo",
+        "observedAt": "2026-09-20T13:51:54.844Z",
+        "checkedAt": "2026-09-20T13:51:54.844Z",
+        "contentHash": "5d6b21304fa5af02e83c5c48ee9f5c914d7e5ee51c4d2d0f16cac9605d74cf71",
+        "accessOutcome": "ok"
+      }
+    ],
+    "geographyNote": "Ampliación académica del EEES; no se presume localización en la Europa geográfica."
   }
 ]
