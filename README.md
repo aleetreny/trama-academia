@@ -1,42 +1,51 @@
 # trama.
 
-[Abrir TRAMA](https://trama-academia.aleetreny.chatgpt.site) · [Consultar cobertura](https://trama-academia.aleetreny.chatgpt.site/fuentes) · [Explorar instituciones](https://trama-academia.aleetreny.chatgpt.site/instituciones)
+**El recorrido hacia la investigación, con fuentes a la vista.**
 
-Un atlas de oportunidades académicas en Europa para ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas.
+[Abrir TRAMA](https://trama-academia.aleetreny.chatgpt.site) · [Explorar oportunidades](https://trama-academia.aleetreny.chatgpt.site/explorar) · [Financiación](https://trama-academia.aleetreny.chatgpt.site/financiacion) · [Cobertura y fuentes](https://trama-academia.aleetreny.chatgpt.site/fuentes)
 
-El ámbito principal es Europa; Armenia, Azerbaiyán y Georgia se identifican como ampliación académica del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Se incluyen países pequeños y territorios. En países transcontinentales, los programas requieren evidencia de su campus europeo y de la unidad que los imparte; esa comprobación no amplía automáticamente el ámbito de las vacantes ni de los tiers.
+[![Verificar aplicación](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml/badge.svg)](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml)
 
-TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, investigación posdoctoral y carrera académica. Incluye financiación, comparación de hasta tres oportunidades, condiciones del doctorado por país y un registro público de cobertura.
+TRAMA es un atlas de oportunidades académicas en Europa para **ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas**. Reúne programas, plazas y financiación, organizados por la etapa del recorrido académico.
 
-## Qué contiene
+## Qué puedes encontrar
 
-- Vacantes de EURAXESS, Inria, AcademicTransfer, jobs.ac.uk, ETH Zurich, KTH, Aalto, Uppsala, Helsinki y Jobbnorge, con filtrado de disciplina y destino europeo. En Jobbnorge se contrasta el listado público con los PDF oficiales para comprobar proyectos, requisitos y condiciones.
-- Programas académicos y de financiación comprobados en las páginas de sus instituciones. Un máster necesita evidencia de tesis o componente de investigación.
-- Las fichas detalladas enlazan los documentos de admisión, financiación y plan académico, incluidos PDF oficiales. Las nuevas incorporaciones verifican también frases que sustentan sus condiciones: si cambian, conservan la última ficha y la marcan para revisión.
-- Fuente, última comprobación, plazo, requisitos, tipo de contrato, duración y financiación cuando están publicados. Los campos desconocidos se mantienen como desconocidos.
-- Una instantánea pública en `data/catalogue.json` y una base PostgreSQL en Neon. La web utiliza Neon y conserva una copia de respaldo si la consulta falla.
-- Un inventario institucional con identidad ROR, fuentes oficiales y una cola de rastreo que conserva pendientes, documentos y bloqueos. Los candidatos del inventario no cuentan como oportunidades.
-- Tiers bibliométricos por disciplina con cifras, umbrales, ventanas temporales y consultas de origen visibles. La primera edición completa corresponde a informática; IA, estadística y matemáticas aplicadas siguen pendientes. La ausencia de datos no recibe un tier bajo.
+| Etapa | Contenido |
+| --- | --- |
+| Primeras experiencias | Ayudantías, prácticas y programas que aportan experiencia de investigación. |
+| Máster | Títulos con tesis o componente de investigación documentado. |
+| Doctorado | Programas y plazas, requisitos de acceso, duración y condiciones publicadas. |
+| Después del doctorado | Posdoctorados y puestos de investigación o carrera académica. |
+| Financiación | Becas, ayudas y programas de apoyo, con requisitos y convocatorias diferenciados. |
 
-**La cobertura es parcial y medible. No es un inventario exhaustivo de Europa, ni una comprobación continua de todas las webs.** AcademicTransfer todavía descubre anuncios por títulos con disciplina reconocible; EURAXESS puede bloquear páginas adicionales. Los detalles de cada barrido se muestran en `/fuentes`.
+Puedes filtrar y comparar hasta tres oportunidades, consultar sus fuentes originales y leer las diferencias entre sistemas doctorales. El [registro institucional](https://trama-academia.aleetreny.chatgpt.site/instituciones) muestra las fuentes localizadas, el avance de revisión y los tiers de investigación por disciplina.
 
-La [revisión de financiación nórdica del 20 de septiembre de 2026](docs/nordic-funding-review-2026-09-20.md) documenta 52 programas incorporados, la cobertura de doce financiadores, las ediciones agrupadas y las discrepancias entre anuncios y bases.
+## Alcance y confianza
 
-## Desarrollo
+**La cobertura sigue en ampliación.** Los recuentos y las incidencias de cada barrido están en [Fuentes](https://trama-academia.aleetreny.chatgpt.site/fuentes). Una institución localizada o un enlace pendiente no cuentan como una oportunidad verificada. Un programa existente tampoco implica una convocatoria abierta.
 
-Node 22.19 o posterior. Instalar con `npm ci`, ejecutar `npm run dev` y abrir la dirección local impresa. La aplicación usa React, Vinext, componentes shadcn, CSS propio y un Worker de Sites.
+- **Fuentes identificables.** Cada ficha enlaza la institución o el anuncio y conserva la fecha de comprobación. Las nuevas incorporaciones contrastan las condiciones con páginas y PDF oficiales; los cambios que afectan a su evidencia se retienen para revisión.
+- **Condiciones explícitas.** Plazos, duración, idiomas, requisitos y financiación se publican cuando hay evidencia. Los campos desconocidos siguen como desconocidos. Una ayuda condicionada no se presenta como financiación garantizada.
+- **Tiers por disciplina.** Se basan en actividad e impacto de investigación, con indicadores, ventanas, umbrales y fuentes visibles. Informática tiene la primera cohorte completa; IA, estadística y matemáticas aplicadas siguen pendientes. La ausencia de datos no recibe un tier bajo. [Consultar el método](docs/institution-discovery.md#indicadores-de-fortaleza-por-disciplina).
+- **Actualización semanal.** El recolector se ejecuta los lunes a las 04:23 UTC y admite ejecución manual. La web vuelve a consultar los datos cada cinco minutos. Ese refresco no supone una nueva comprobación de todo internet.
+- **Continuidad de los datos.** La web consulta PostgreSQL en Neon y dispone de una instantánea de respaldo versionada. Los errores de acceso conservan la última ficha válida y quedan registrados.
 
-Los comandos de adquisición usan `--use-system-ca` para validar HTTPS con las autoridades de confianza del sistema además de las incluidas en Node. Esto permite leer fuentes como la Agencia Estatal de Investigación en los entornos donde su cadena se valida con ese almacén. Si se ejecuta directamente un script de adquisición, debe conservarse esa opción; los fallos de certificado siguen siendo errores de acceso.
+El ámbito principal es Europa, incluidos países pequeños y territorios. Armenia, Azerbaiyán y Georgia figuran como ampliación académica explícita del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Los programas de países transcontinentales necesitan evidencia de su campus europeo; esa comprobación no concede automáticamente un tier a toda la institución.
 
-El recolector de PDF necesita además Python 3.10 o posterior y `pypdf`. La web no usa Python. Para rastrear en local:
+La extracción respeta `robots.txt`, límites de acceso y bloqueos. Algunos sitios requieren nuevos adaptadores o revisión manual; todavía puede haber duplicados entre fuentes o idiomas. El catálogo ayuda a localizar opciones y documenta su evidencia; la convocatoria original determina las condiciones aplicables.
+
+## Ejecutar en local
+
+Se necesita **Node 22.19 o posterior**. La web puede utilizar la instantánea incluida sin configurar una base de datos.
 
 ```sh
-python3 -m venv .venv
-.venv/bin/python -m pip install -r scripts/harvest/requirements.txt
-TRAMA_PYTHON=.venv/bin/python npm run harvest
+git clone https://github.com/aleetreny/trama-academia.git
+cd trama-academia
+npm ci
+npm run dev
 ```
 
-GitHub Actions prepara Python 3.12 y la misma versión fijada de `pypdf`. `TRAMA_PYTHON` permite seleccionar un entorno existente sin modificar la instalación global.
+Abrir la dirección que imprime el servidor; por defecto, `http://localhost:5173`. Para consultar Neon, copiar `.env.example` a `.dev.vars` y configurar una credencial de solo lectura. No versionar credenciales.
 
 ```sh
 npm test
@@ -44,68 +53,29 @@ npm run typecheck
 npm run build
 ```
 
-La web pública no necesita iniciar sesión. La base se conecta por HTTPS con `@neondatabase/serverless`. En desarrollo, `.dev.vars` contiene una credencial de **solo lectura**. No introducir credenciales en variables `NEXT_PUBLIC_*`.
+Los recolectores de PDF requieren además Python 3.10 o posterior y las dependencias fijadas en `scripts/harvest/requirements.txt`. La configuración de Python, credenciales, sincronización y publicación está en la [guía de operación](docs/operations.md).
 
-## Actualización semanal
+## Cómo está organizado
 
-[Actualizar catálogo](https://github.com/aleetreny/trama-academia/actions/workflows/refresh.yml) se ejecuta los lunes a las **04:23 UTC**, además de admitir ejecución manual. El horario de GitHub Actions puede retrasarse.
+La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores de Node verifican fuentes públicas; Python extrae el texto de los PDF. Neon sirve los datos y Git conserva las instantáneas publicadas.
 
-1. Descubrir y verificar vacantes con `npm run harvest`.
-2. Comprobar programas con `npm run harvest:programmes`.
-3. Revisar anuncios conocidos que no aparecieron de nuevo con `npm run harvest:verify`.
-4. Continuar la cola institucional con `npm run harvest:institutions`, alternando países y limitando el trabajo por institución.
-5. Validar geografía, etapas, identidad, fechas y evidencia con `npm run harvest:audit`.
-6. Publicar mediante `npm run db:sync` y `npm run db:sync:institutions`, y guardar las instantáneas y la cola en Git.
+| Ruta | Función |
+| --- | --- |
+| `app/`, `components/`, `lib/` | Páginas, interacción, consulta y presentación del catálogo. |
+| `data/catalogue.json` | Instantánea pública de oportunidades y fuentes. |
+| `data/programmes.seed.json`, `data/sources.json` | Programas revisados, evidencia y configuración de adaptadores. |
+| `data/institutions.curated.json`, `data/institutions.json` | Fuentes institucionales revisadas y registro público con indicadores. |
+| `data/institution-crawl.json.gz` | Cola reanudable de descubrimiento; su resumen legible está en `data/institution-crawl.summary.json`. |
+| `scripts/harvest/` | Adquisición, extracción, controles de evidencia y auditoría. |
+| `db/`, `scripts/db/` | Esquema, migraciones y sincronización con Neon. |
 
-El secreto de repositorio `DATABASE_URL` es una credencial específica del recolector con SELECT, INSERT y UPDATE; no permite DELETE ni cambios de esquema. El sitio usa un rol distinto de solo lectura. Las migraciones de `db/migrations` se aplican por separado con una credencial de administración, primero en una rama de validación.
+## Documentación
 
-Las páginas de resultados vuelven a consultar el catálogo cada cinco minutos y tienen un botón de actualización. El API permite una caché de hasta 60 segundos. Esto actualiza los datos ya recolectados; **no lanza un nuevo rastreo de internet**.
+- [Operación y publicación](docs/operations.md): entorno, actualización semanal, estados, credenciales, diagnóstico y despliegue.
+- [Inventario institucional y tiers](docs/institution-discovery.md): universo geográfico, identidad ROR, cola de rastreo y método bibliométrico.
+- [Adaptadores de fuentes](docs/source-adapters.md): funcionamiento y límites comprobados de los conectores.
+- [Revisión de financiación nórdica](docs/nordic-funding-review-2026-09-20.md): 52 programas incorporados el 20 de septiembre de 2026, ediciones agrupadas y discrepancias documentadas.
 
-El registro institucional consulta Neon con filtros y páginas de 25 entidades. La actualización semanal continúa el descubrimiento de fuentes; las incorporaciones de programas siguen necesitando evidencia y revisión editorial. No recalcula automáticamente los indicadores bibliométricos ni declara terminada una institución por haber leído su página inicial.
+Para ampliar la cobertura, una fuente debe declarar su alcance, conservar la procedencia y superar la revisión de identidad, disciplina, geografía y condiciones. Los candidatos se preparan con `npm run harvest:candidates`; su puntuación ordena el trabajo y no los incorpora al catálogo.
 
-## Reglas de vigencia y extracción
-
-- `open`: fecha futura y comprobación válida en los últimos 14 días.
-- `listed`: vacante institucional con solicitud habilitada, sin fecha publicada.
-- `rolling`: la fuente declara explícitamente admisión continua.
-- `programme`: existe el programa; no implica convocatoria abierta.
-- `unverified`: vigencia o revisión por confirmar.
-- `closed`: plazo vencido o cierre explícito. Una ausencia en un listado no basta.
-
-El recolector respeta `robots.txt`, los tiempos de espera, `Retry-After`, ETag y Last-Modified. No sortea bloqueos de acceso. Las páginas recuperadas y sus huellas quedan en una caché local ignorada; se persisten observaciones técnicas en Neon. Los fallos no borran la última ficha válida. Las correcciones editoriales explícitas se documentan en `data/exclusions.json`.
-
-Una plaza con varias vacantes cuenta como un anuncio. La deduplicación actual usa URL canónica y conserva los parámetros que identifican ofertas. No se fusionan automáticamente anuncios parecidos entre portales: aún puede haber duplicados entre fuentes o idiomas. Los importes conservan moneda y periodo; no se calcula un salario neto ni se compara una beca anual con un salario mensual sin contexto.
-
-Las líneas interdisciplinares se incluyen cuando la descripción documenta investigación en métodos del ámbito indicado. Una mención incidental de software, una base de datos o conocimientos estadísticos auxiliares no basta. La clasificación se basa en reglas auditables y puede necesitar revisión; no sustituye la lectura de la convocatoria. Los conectores nórdicos recorren también los anuncios con títulos genéricos y comprueban el contenido antes de clasificarlos.
-
-Las fechas con horas discordantes se conservan con precisión de día y una nota para consultar la convocatoria. Un contrato doctoral inicial de un año renovable no se presenta como cuatro años garantizados. Las observaciones de ejecuciones sucesivas conservan su identificador de origen.
-
-Los PDF se descargan con la misma política de acceso que las páginas. Se validan formato, identidad y fecha; la lectura tiene límites de tamaño, páginas y tiempo. Una descarga fallida no reemplaza requisitos o financiación ya comprobados ni convierte un fallo del exportador en un cierre de la plaza. Los intervalos salariales se conservan como intervalos y no se reducen a su extremo inferior. Se distingue la duración del empleo de los años exigidos de formación.
-
-Los programas pueden aportar varias páginas y documentos mediante `evidencePages`, y controles de condiciones mediante `evidenceChecks`. Se guarda la huella y fecha de cada documento; la fecha de verificación de la ficha es la más antigua de sus fuentes necesarias. Los controles de frases detectan cambios, pero no sustituyen la revisión editorial de todos los requisitos. Las fichas anteriores aún no cuentan todas con estos controles. Las respuestas HTTP se limitan a 10 MB durante la descarga, también cuando el servidor comunica un tamaño incorrecto.
-
-Para revisar solo programas sin reutilizar el identificador de una ejecución anterior: `npm run harvest:programmes -- --standalone`. Este modo crea una ejecución trazable independiente; la actualización semanal incorpora la revisión al barrido completo.
-
-Para comprobar un lote ya incorporado a las semillas o repetir fallos transitorios: `npm run harvest:programmes -- --only=work/seleccion.json --standalone`. El archivo contiene una lista de URLs o de objetos con `url`; solo selecciona identidades y nunca importa sus datos editoriales. Las URLs desconocidas y las listas vacías se rechazan. Se conservan las demás fichas y fuentes, y esta revisión parcial no actualiza la fecha de comprobación del conjunto completo.
-
-El comportamiento y las limitaciones de los nuevos conectores se documentan en [docs/source-adapters.md](docs/source-adapters.md).
-
-El universo de búsqueda, la cola reanudable y el método de tiers se documentan en [docs/institution-discovery.md](docs/institution-discovery.md).
-
-## Ampliar la cobertura
-
-- `data/sources.json`: fuentes, adaptadores, alcance y puntos de entrada.
-- `data/programmes.seed.json`: programas y evidencia institucional.
-- `data/institutions.curated.json`: fuentes institucionales localizadas y asociaciones revisadas con ROR.
-- `data/institutions.json`: inventario público, indicadores y avance por institución.
-- `data/institution-crawl.json.gz`: cola persistente comprimida, procedencia de enlaces y últimas ejecuciones; `institution-crawl.summary.json` mantiene un resumen legible.
-- `scripts/harvest/`: adquisición, parsers, reglas, auditoría y revisión.
-- `data/country-guides.ts`: comparaciones con referencias oficiales y fecha.
-
-Una fuente nueva debe declarar la geografía, recorrer su paginación, mantener evidencia de origen, excluir contenido ajeno al campo, detectar cambios de estructura y añadir una prueba que cubra un fallo real. El estado “pendiente” no debe convertirse en “revisada” hasta ejecutar y comprobar su adaptador.
-
-## Publicación
-
-El proyecto está registrado en Sites mediante `.openai/hosting.json`. El Worker compilado y sus activos se generan en `dist/`. Antes de publicar, el código exacto se confirma en Git. La rama `sites-source` conserva un historial de publicación con el mismo árbol de archivos de la edición de `main`, sin arrastrar objetos históricos que superen el límite del alojamiento. Cada commit de publicación identifica el commit de `main` y debe tener el mismo árbol. Se envía esa rama al repositorio de Sites, se compila desde su checkout y se guarda la versión con su SHA exacto; `main` conserva íntegro su historial. El archivo desplegable contiene solo el resultado compilado y el manifiesto de alojamiento, nunca archivos de entorno ni páginas brutas del rastreador.
-
-Los datos y textos de convocatorias pertenecen a sus fuentes. TRAMA publica metadatos y extractos breves con enlaces al anuncio original; no almacena ni publica candidaturas o información de solicitantes.
+Los datos y textos de las convocatorias pertenecen a sus fuentes. TRAMA publica metadatos y extractos breves con enlaces al original. No almacena ni publica candidaturas o información de solicitantes.
