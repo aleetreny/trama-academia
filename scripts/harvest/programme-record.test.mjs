@@ -56,6 +56,15 @@ test('contact-form degree options cannot supply research or discipline while gen
  const valid='<form><main>'+('Computer science research and a master thesis. '.repeat(7))+'</main></form>';
  assert.equal((await verifyProgramme(candidate,page(valid))).status,'programme');
 });
+test('Bielefeld recent-page history cannot lend another degree its discipline or thesis',async()=>{
+ const history='<div class="menulinks"><strong><a href="/sinfo/publ/Verlauf.jsp;jsessionid=example">Verlauf</a></strong><div class="linie"><a href="/sinfo/publ/master-as/datascience">Data Science master thesis</a></div></div>';
+ const content='<div>'+('Geography lectures and practical classes. '.repeat(7))+'</div>';
+ assert.equal(programmeText(history+content),programmeText(content));
+ const candidate={...seed,stage:'master',evidencePages:[],evidenceChecks:[]};
+ await assert.rejects(verifyProgramme(candidate,async url=>({body:history+content,finalUrl:url,hash:'x',checkedAt:'2026-09-20'})),/discipline_unverified|research_component_unverified/);
+ const curriculum='<div class="menulinks"><strong><a href="/studium/studienverlauf">Studienverlauf</a></strong>Computer Science Master-Arbeit</div>';
+ assert.match(programmeText(curriculum),/Computer Science Master-Arbeit/);
+});
 test('a visible page title outside main survives without admitting unrelated or hidden headings',()=>{
  const main='<main>Programme curriculum and admission requirements.</main>';
  assert.equal(programmeText('<div class="page-title-wrapper"><h1>Computer Science MSc</h1></div>'+main),'Computer Science MSc Programme curriculum and admission requirements.');
@@ -86,6 +95,14 @@ test('a business capstone replacing a dissertation does not verify a research ro
 test('a practicum requires an explicit academic route, as in DCU Computing',()=>{
  assert.equal(hasResearchComponent('A 30 ECTS practicum: an individual project may develop software or undertake rigorous theoretical analysis, proposing and evaluating alternative techniques.'),true);
  assert.equal(hasResearchComponent('A 30 ECTS practicum builds a prototype and develops research skills for business.'),false);
+});
+test('the Chemnitz curriculum spelling Master-Arbeit identifies its thesis module',()=>{
+ assert.equal(hasResearchComponent('Forschungsseminar und Forschungspraktikum (3. Semester) Modul Master-Arbeit (4. Semester)'),true);
+});
+test('Fribourg travail de master identifies the final dissertation',()=>{
+ assert.equal(hasResearchComponent('Le travail de master porte généralement sur un thème lié aux projets actuels de recherche ou de coopération avec des entreprises.'),true);
+ assert.equal(hasResearchComponent('La seconde partie du programme est le travail de master, permettant de contribuer activement à des activités de recherche concrètes.'),true);
+ assert.equal(hasResearchComponent('Préparer un travail de masterclass pour le cours.'),false);
 });
 test('a labelled admission score keeps its DOM boundary instead of absorbing the following heading number',async()=>{
  const candidate={...seed,evidencePages:[],evidenceChecks:[{field:'entry',labelledValues:[{container:'.basvuru-card',labelSelector:'.basvuru-card-title',valueSelector:'.basvuru-card-content',label:'Minimum Yabancı Dil Puanı',value:'50'}]}]};
