@@ -6,11 +6,15 @@ const ignore=/\b(login|sign in|privacy|cookies?|accessibility|alumni|donate|bask
 export function sourceType(text){
  const s=fold(text);
  if(/scholarship|fellowship|funding|studentship|bursar|bourse|becas?\b|bolsas?\b|stipend|finanzi|financi|finanzier/.test(s))return 'funding';
- if(/doctor|ph[. -]?d\b|promotion|doktor|doktora/.test(s))return 'phd';
- if(/master|msc\b|mres\b|mphil\b|magistr|mestrado|magister/.test(s))return 'masters';
- if(/vacanc|jobs?\b|careers?|recruit|stellen|offres?.emploi|lavora|empleo/.test(s))return 'jobs';
+ if(/doctor|ph[. -]?d\b|promotion|doktor|doktora|аспирант|aspirantur|докторант/.test(s))return 'phd';
+ if(/master|msc\b|mres\b|mphil\b|magistr|mestrado|magister|магистр/.test(s))return 'masters';
+ if(/vacanc|jobs?\b|careers?|recruit|stellen|offres?[\s'’/-]*(?:d[\s'’/-]*)?emploi|lavora|empleo/.test(s))return 'jobs';
  if(/programmes?|programas?|programy|studien|study|studies|degree|courses?|formations?|graduate|postgraduate|research|recherche|ricerca|investiga/.test(s))return 'index';
  return null;
+}
+export function isExplicitlyEmptyJobsIndex(text,heading,type){
+ // The CSM jobs index is short because it explicitly has no vacancies.
+ return type==='jobs'&&sourceType(heading)==='jobs'&&/aucune offre disponible pour le moment/i.test(text);
 }
 export function publicUrl(raw,base){
  try{

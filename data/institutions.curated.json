@@ -61,8 +61,90 @@
         "discoveredFrom": "https://www.inf.uni-hamburg.de/en/studies/master/dsai.html",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v5/scripts/studiengaenge/indexDE.js",
+        "type": "index",
+        "label": "Índice oficial · Catálogo completo público de grados: tabla del script oficial cargada por el catálogo",
+        "observedAt": "2026-09-20T12:27:15.063Z",
+        "checkedAt": "2026-09-20T12:27:15.063Z",
+        "contentHash": "bc0f9515a6e532a6978ff520ab2a708fac1072fd426e78a7ea7d476bc54f2c5b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1029309584&lang=en",
+        "type": "masters",
+        "label": "MSc Bioinformatics",
+        "observedAt": "2026-09-20T13:41:35.676Z",
+        "checkedAt": "2026-09-20T13:41:35.676Z",
+        "contentHash": "1cc6607e79a159212005ef4e8e08fbae6773d4a1b193e8cf4a6002e0de95887e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1241950176&lang=en",
+        "type": "masters",
+        "label": "MSc Business Mathematics",
+        "observedAt": "2026-09-20T13:41:37.140Z",
+        "checkedAt": "2026-09-20T13:41:37.140Z",
+        "contentHash": "297a52b15d05e14cbaf064640adf423aed5fdbb88010757f1f8d36ebc37c8cc6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1713942448&lang=en",
+        "type": "masters",
+        "label": "MSc Data Science and Artificial Intelligence",
+        "observedAt": "2026-09-20T13:41:38.004Z",
+        "checkedAt": "2026-09-20T13:41:38.004Z",
+        "contentHash": "8215fda10d409ff8332f31dd3e65830794711482527e4dc52e7192fb1218ae5c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1169736026&lang=en",
+        "type": "masters",
+        "label": "MSc Informatics",
+        "observedAt": "2026-09-20T13:41:38.748Z",
+        "checkedAt": "2026-09-20T13:41:38.748Z",
+        "contentHash": "cfbd87b7b53aba57ae72235e6b52417d40c5f1c6d68f534a2b5d8e1a848c0379",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1337095530&lang=en",
+        "type": "masters",
+        "label": "MSc Intelligent Adaptive Systems",
+        "observedAt": "2026-09-20T13:41:39.579Z",
+        "checkedAt": "2026-09-20T13:41:39.579Z",
+        "contentHash": "ee8bfa19c4d098a955187c58d909787fe377e73ff86eed6009eac7c6522a680c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1242152846&lang=en",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T13:41:44.905Z",
+        "checkedAt": "2026-09-20T13:41:44.905Z",
+        "contentHash": "940eaba46759f90310f090b5f73bbd4673aa58885e3572ba8658b91b35a3a1f0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1212162133&lang=en",
+        "type": "masters",
+        "label": "MSc Technomathematik",
+        "observedAt": "2026-09-20T13:41:44.987Z",
+        "checkedAt": "2026-09-20T13:41:44.987Z",
+        "contentHash": "7b66aed507b16a2bf591a627deb8973dd3c70337b4bf064e1ee225312ad09d3f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v6/scripts/studiengaenge/studiengang.js?id=1241948884&lang=en",
+        "type": "masters",
+        "label": "MSc Information Systems",
+        "observedAt": "2026-09-20T13:41:45.791Z",
+        "checkedAt": "2026-09-20T13:41:45.791Z",
+        "contentHash": "65fc66d60aeeb0159117d700784778758af9ba92416dd4669e944878e6d643c2",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/00g30e956"
   },
   {
     "id": "de-saarland-university",
@@ -5645,8 +5727,117 @@
         "observedAt": "2026-09-19T20:54:09.740Z",
         "accessOutcome": "fetch failed",
         "contentHash": null
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/?lang=de",
+        "type": "index",
+        "label": "Índice oficial · Studienhandbuch completo: currículos de todos los niveles, incluidos extinguidos (se excluyen estos)",
+        "observedAt": "2026-09-20T12:23:26.786Z",
+        "checkedAt": "2026-09-20T12:23:26.786Z",
+        "contentHash": "d0d169bbc43d13dac9e9b5eebffb52625ca46ea60ef514ae0ece919de10dc722",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1294",
+        "type": "masters",
+        "label": "Máster Digital Energy Solutions",
+        "observedAt": "2026-09-20T13:42:38.519Z",
+        "checkedAt": "2026-09-20T13:42:38.519Z",
+        "contentHash": "72a92dedd600a33ae6f246b9bfe84508c17be7ca2b24300ac40328aa425c9da2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1230",
+        "type": "masters",
+        "label": "MSc Economic and Business Analytics",
+        "observedAt": "2026-09-20T13:42:40.317Z",
+        "checkedAt": "2026-09-20T13:42:40.317Z",
+        "contentHash": "22a8c5136d44adcbc8018a2dfdfd59b5093671054d728f77bdbb3631398e2c1e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1262",
+        "type": "masters",
+        "label": "MSc Statistics and Data Science",
+        "observedAt": "2026-09-20T13:42:44.601Z",
+        "checkedAt": "2026-09-20T13:42:44.601Z",
+        "contentHash": "e28a8170b993cfad066e0aabec75a7d29a252094b04392de57e16dc6270b21fe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1263",
+        "type": "masters",
+        "label": "MSc Wirtschaftsinformatik",
+        "observedAt": "2026-09-20T13:42:44.906Z",
+        "checkedAt": "2026-09-20T13:42:44.906Z",
+        "contentHash": "cb4d41841e6ef00c435106c215ce2ce00e2c06c41ea24d327a62f013f41ca2dd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1283",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence",
+        "observedAt": "2026-09-20T13:42:47.739Z",
+        "checkedAt": "2026-09-20T13:42:47.739Z",
+        "contentHash": "17bdd1fbad2d6350e177285101d2fcf8534c115155f5dd8fdb3dbdec2f14ba6e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1277",
+        "type": "masters",
+        "label": "Máster Computational Mathematics",
+        "observedAt": "2026-09-20T13:42:48.318Z",
+        "checkedAt": "2026-09-20T13:42:48.318Z",
+        "contentHash": "e9aec4f605b071531fee07dafca61ff98064c55a24189cf019c59d3e20f2ac4c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1281",
+        "type": "masters",
+        "label": "Máster Computer Science",
+        "observedAt": "2026-09-20T13:42:51.114Z",
+        "checkedAt": "2026-09-20T13:42:51.114Z",
+        "contentHash": "62adadde3277f5f1135bab934d85ce27bb91f3ad1d73e0e79fea87235142a685",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1288",
+        "type": "masters",
+        "label": "Máster Elektronik und Informationstechnik",
+        "observedAt": "2026-09-20T13:42:54.829Z",
+        "checkedAt": "2026-09-20T13:42:54.829Z",
+        "contentHash": "389f7255351e6160d88036700ef44ae055dc1ca507ff33016875931d1cfdc353",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1269",
+        "type": "masters",
+        "label": "Máster Industrial Mathematics",
+        "observedAt": "2026-09-20T13:42:57.619Z",
+        "checkedAt": "2026-09-20T13:42:57.619Z",
+        "contentHash": "30b98813c2b934fbd588d97c94b1b0a52644026b33f4636612015491137fdd4c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1292",
+        "type": "phd",
+        "label": "Doctorado en Ciencias Naturales — rutas de IA, Informática y Matemáticas",
+        "observedAt": "2026-09-20T13:42:57.901Z",
+        "checkedAt": "2026-09-20T13:42:57.901Z",
+        "contentHash": "c81e4979e1f8cd0bf3af326efbb3a763f2434267e234f9d60f556c83aa67c966",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studienhandbuch.jku.at/curr/1183",
+        "type": "phd",
+        "label": "Doctorado en Ciencias Técnicas — rutas de IA, Informática y Matemáticas",
+        "observedAt": "2026-09-20T13:43:00.581Z",
+        "checkedAt": "2026-09-20T13:43:00.581Z",
+        "contentHash": "77270a0b2d230b080ad2a6cf3213da1ce16ac2606efbfd35ee52d68eb045b0d7",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/052r2xn60"
   },
   {
     "id": "at-graz-university-of-technology",
@@ -5816,15 +6007,13 @@
         "contentHash": "bff46ccae65fbaf9a7e5b91d6ba638e660b7aeb98cb81d6107aca4025e557d9d"
       },
       {
-        "type": "masters",
         "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/",
-        "label": "Master Programmes",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:31.439Z",
-        "discoveredFrom": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computer-science-master/",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "index",
+        "label": "Índice oficial · Listado completo de másteres",
+        "observedAt": "2026-09-20T12:24:55.709Z",
+        "checkedAt": "2026-09-20T12:24:55.709Z",
+        "contentHash": "7c78c64c0d60426bf9ff50060d19996d0419e168f2ee76e11422d1edffb8fcd3",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -5858,8 +6047,108 @@
         "discoveredFrom": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computer-science-master/",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/bioinformatics-master/",
+        "type": "masters",
+        "label": "MSc Bioinformatics",
+        "observedAt": "2026-09-20T13:43:15.526Z",
+        "checkedAt": "2026-09-20T13:43:15.526Z",
+        "contentHash": "71a256df190e5ae7543d9f950a2ecd03446368e902a40c2cea2178cc7d2b76f3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/",
+        "type": "masters",
+        "label": "MSc Computational Science",
+        "observedAt": "2026-09-20T13:43:17.999Z",
+        "checkedAt": "2026-09-20T13:43:17.999Z",
+        "contentHash": "330e1800c614f4299bd8f8a93a1b94179cc8cf886dff76b1f3d3ba3bd1124ca6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/data-science-master/",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T13:43:18.852Z",
+        "checkedAt": "2026-09-20T13:43:18.852Z",
+        "contentHash": "32b77a958ba61233db2dc3ee2000eb2e3e164b040e717ed63c1b5f33f770ca04",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/digital-humanities-master/",
+        "type": "masters",
+        "label": "MA Digital Humanities",
+        "observedAt": "2026-09-20T13:43:18.981Z",
+        "checkedAt": "2026-09-20T13:43:18.981Z",
+        "contentHash": "d08d486fc559bb5818ad8ee9781c39f9e49b4bb3ed7b5f26dcca5723ca9711e9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/mathematics-master/",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T13:43:19.759Z",
+        "checkedAt": "2026-09-20T13:43:19.759Z",
+        "contentHash": "613df0dd16a24cf3da4cff2c21adb9465841a4e3beb2b1aab4621eca20d1df03",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/media-informatics-master/",
+        "type": "masters",
+        "label": "MSc Media Informatics",
+        "observedAt": "2026-09-20T13:43:20.568Z",
+        "checkedAt": "2026-09-20T13:43:20.568Z",
+        "contentHash": "4370f984a8169d2d4e140679f88d99e70be49ee54064c727d0dd8b42b19795b2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/spatial-data-science-and-geocommunication-master/",
+        "type": "masters",
+        "label": "MSc Spatial Data Science and GeoCommunication",
+        "observedAt": "2026-09-20T13:43:22.186Z",
+        "checkedAt": "2026-09-20T13:43:22.186Z",
+        "contentHash": "85377d4da9bc2e26932553d57369e45fa30dd989a41dec93300b53ec7d4ab515",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/statistik-and-data-analytics-master/",
+        "type": "masters",
+        "label": "MSc Statistik und Data Analytics",
+        "observedAt": "2026-09-20T13:43:22.361Z",
+        "checkedAt": "2026-09-20T13:43:22.361Z",
+        "contentHash": "7ef52c5b5805af04b67bb740fedf113e89e131542677b1dda01b41c73db14ff3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/business-informatics-master/",
+        "type": "masters",
+        "label": "MSc Business Informatics",
+        "observedAt": "2026-09-20T13:43:23.113Z",
+        "checkedAt": "2026-09-20T13:43:23.113Z",
+        "contentHash": "bd564c7c2973e8c01f242302bb433bb08716f7041dddf7acbac35440a8e196e8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/business-analytics-master/",
+        "type": "masters",
+        "label": "MSc Business Analytics",
+        "observedAt": "2026-09-20T13:43:37.687Z",
+        "checkedAt": "2026-09-20T13:43:37.687Z",
+        "contentHash": "467fff0049e5891f027eda7ccace166fa007842b135dae114fae6a21260ce17c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://docs.univie.ac.at/research-and-doctoral-programme/doctoral-programme/",
+        "type": "phd",
+        "label": "DoCS — Doctorado en Computer Science y Business Informatics",
+        "observedAt": "2026-09-20T13:43:40.622Z",
+        "checkedAt": "2026-09-20T13:43:40.622Z",
+        "contentHash": "ed9925d678605803e11b0aa1f71be1e432a5744efe308a5eedd82d3eba66b998",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/03prydq77"
   },
   {
     "id": "at-fh-joanneum-university-of-applied-sciences",
@@ -10072,11 +10361,26 @@
         "checkedAt": "2026-09-19T21:03:08.679Z",
         "contentHash": "960c40855de9c7a5abeb3d0b0674f0824ae93a64bc3dbf8692cbb672037855e5",
         "finalUrl": "https://www.uni.lu/life-en/financial-support/scholarships/guillaume-dupaix-international-scholarship/"
+      },
+      {
+        "url": "https://www.uni.lu/wp-content/uploads/sites/11/2026/05/04133108/RE-2026-27-Annexes_MAall_20260427.pdf",
+        "type": "index",
+        "label": "Índice oficial pendiente de acceso · Université du Luxembourg",
+        "observedAt": "2026-09-20T13:36:39.429156+00:00",
+        "accessOutcome": "not_fetched"
+      },
+      {
+        "url": "https://www.uni.lu/wp-content/uploads/sites/11/2026/07/06093125/Liste-des-formations-Uni.lu-2025-2026_updated_20260701.pdf",
+        "type": "index",
+        "label": "Índice oficial pendiente de acceso · Université du Luxembourg",
+        "observedAt": "2026-09-20T13:36:39.429156+00:00",
+        "accessOutcome": "not_fetched"
       }
     ],
     "tier": null,
     "tierNote": "Pendiente de metodología y evidencia comparable por disciplina; no se infiere del prestigio general.",
-    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas."
+    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas.",
+    "ror": "https://ror.org/036x5ad56"
   },
   {
     "id": "west-list",
@@ -10171,11 +10475,57 @@
         "url": "https://www.ifi.uzh.ch/en/jobs.html",
         "label": "Empleo del Departamento de Informática",
         "status": "link_observed"
+      },
+      {
+        "url": "https://www.uzh.ch/de/studies/programs/master.html",
+        "type": "index",
+        "label": "Índice oficial · Catálogo completo de masters con majors/minors: se agrupan perfiles del mismo MSc",
+        "observedAt": "2026-09-20T12:24:04.386Z",
+        "checkedAt": "2026-09-20T12:24:04.386Z",
+        "contentHash": "269571cda22d47ae1fd485bb690bc5d84e31e2b0b949fed54ac522124656abbc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uzh.ch/de/studies/programs/master/biostatistics.html",
+        "type": "masters",
+        "label": "MSc Biostatistics",
+        "observedAt": "2026-09-20T13:43:28.506Z",
+        "checkedAt": "2026-09-20T13:43:28.506Z",
+        "contentHash": "41280375961aae5f3082b8005f42b76d29573d60c5695f0d8ad21b67a82cc8f6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uzh.ch/de/studies/programs/master/computational_science.html",
+        "type": "masters",
+        "label": "MSc Computational Science",
+        "observedAt": "2026-09-20T13:43:30.977Z",
+        "checkedAt": "2026-09-20T13:43:30.977Z",
+        "contentHash": "ce3c9d185eac7f10a588080802f123aeab2a2b5bf35586b8eb7dbe75cf2ba762",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ifi.uzh.ch/en/studies/phd/registration-admission.html",
+        "type": "phd",
+        "label": "Doctorado en Informatics",
+        "observedAt": "2026-09-20T13:43:42.075Z",
+        "checkedAt": "2026-09-20T13:43:42.075Z",
+        "contentHash": "34994e1fb3028da415201170d14c2418d414958baa3047ef0fd8607cef20461b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.epibiostat-phd.uzh.ch/en/application.html",
+        "type": "phd",
+        "label": "PhD Epidemiology and Biostatistics",
+        "observedAt": "2026-09-20T13:43:42.765Z",
+        "checkedAt": "2026-09-20T13:43:42.765Z",
+        "contentHash": "68ae208731355c88da958459e3abda4fcfb2cc4c8488b823c455386cd66a795b",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
     "tierNote": "Pendiente de metodología y evidencia comparable por disciplina; no se infiere del prestigio general.",
-    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas."
+    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas.",
+    "ror": "https://ror.org/02crff812"
   },
   {
     "id": "west-geneva",
@@ -10228,11 +10578,30 @@
         "checkedAt": "2026-09-19T20:57:12.158Z",
         "contentHash": "d5436fd09812da5166d60a4cd2c90f04bc6f567cf587b547c43adcab0e0da60e",
         "finalUrl": "https://dmi.unibas.ch/en/studies/computer-science/masters/"
+      },
+      {
+        "url": "https://philnat.unibas.ch/de/studium/master/",
+        "type": "index",
+        "label": "Índice oficial · Másteres de la Facultad de Ciencias Naturales (20 fichas; normativa y PDFs se guardan como fuentes)",
+        "observedAt": "2026-09-20T12:24:01.041Z",
+        "checkedAt": "2026-09-20T12:24:01.041Z",
+        "contentHash": "6a82fda2d0dfd320479b2cca66ad05f94bb2f12beb5e14b6ea06fa8cd4509267",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://dmi.unibas.ch/de/studium/data-science/",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T13:43:27.662Z",
+        "checkedAt": "2026-09-20T13:43:27.662Z",
+        "contentHash": "12b4167e3a443d5ed26a70e70d64b2228854da9fe142feee8d6be7ea8d68496c",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
     "tierNote": "Pendiente de metodología y evidencia comparable por disciplina; no se infiere del prestigio general.",
-    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas."
+    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas.",
+    "ror": "https://ror.org/02s6k3f65"
   },
   {
     "id": "west-bern",
@@ -10242,24 +10611,88 @@
     "officialUrl": "https://www.philnat.unibe.ch/studies/study_programs/master_s_in_computer_science/index_eng.html",
     "sources": [
       {
-        "type": "masters",
         "url": "https://www.philnat.unibe.ch/studies/study_programs/master_s_in_computer_science/index_eng.html",
-        "label": "Oferta institucional en informática, datos o matemáticas",
-        "status": "http_content_retrieved",
-        "checkedAt": "2026-09-19T20:57:12.280Z",
+        "type": "masters",
+        "label": "Swiss Joint MSc Computer Science",
+        "observedAt": "2026-09-20T13:43:25.262Z",
+        "checkedAt": "2026-09-20T13:43:25.262Z",
         "contentHash": "cadcde6fdfd26cfe5bca39cf0b821cdbf060c5be4b4021308422b79c2e635885",
-        "finalUrl": "https://www.philnat.unibe.ch/studies/study_programs/master_s_in_computer_science/index_eng.html"
+        "accessOutcome": "ok"
       },
       {
         "type": "jobs",
         "url": "https://karriere.unibe.ch/job_vacancies/index_eng.html",
         "label": "Job vacancies",
         "status": "link_observed"
+      },
+      {
+        "url": "https://www.unibe.ch/studies/programs/masters/programs/index_eng.html",
+        "type": "index",
+        "label": "Índice oficial · Listado completo de másteres y minors; minor separado no equivale a grado",
+        "observedAt": "2026-09-20T12:24:56.462Z",
+        "checkedAt": "2026-09-20T12:24:56.462Z",
+        "contentHash": "e5c47b3de6c4f571c774e4fb483291be623b51aa346253b7a182e09b6553db78",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibe.ch/studium/studienangebote/doktorat/doktoratsstudium/doktoratsfaecher_von_a_bis_z/index_ger.html",
+        "type": "index",
+        "label": "Índice oficial · Alcance delimitado: 7 enlaces doctorales con patrón dok­toratsprogramm del índice; no equivale a todos los doctorados individuales de Bern.",
+        "observedAt": "2026-09-20T12:24:57.023Z",
+        "checkedAt": "2026-09-20T12:24:57.023Z",
+        "contentHash": "f36d7abee387feaf51439f6fa9c3259709ea9c1f4788abe31130af8ea391c762",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.medizin.unibe.ch/studies/study_programs/master_in_artificial_intelligence_in_medicine/index_eng.html",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence in Medicine",
+        "observedAt": "2026-09-20T13:43:22.785Z",
+        "checkedAt": "2026-09-20T13:43:22.785Z",
+        "contentHash": "31c8551e9bf31ffdbaeca10f34aebcc4e53cab4a3da2d0cf4167480af373a999",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.philnat.unibe.ch/studies/study_programs/master_s_in_bioinformatics_and_computational_biology/index_eng.html",
+        "type": "masters",
+        "label": "MSc Bioinformatics and Computational Biology",
+        "observedAt": "2026-09-20T13:43:24.069Z",
+        "checkedAt": "2026-09-20T13:43:24.069Z",
+        "contentHash": "7b7190e5b4c42fc8fdb74ab806bfef23789473b497fed9dffc4642fe33b480c8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.philhist.unibe.ch/studies/study_programs/master_s_in_digital_humanities/index_eng.html",
+        "type": "masters",
+        "label": "MA Digital Humanities",
+        "observedAt": "2026-09-20T13:43:25.273Z",
+        "checkedAt": "2026-09-20T13:43:25.273Z",
+        "contentHash": "83b3735012e4f7f356c640688f710c7fcf920da4cbc0a6546369f69c207dfb4d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.philnat.unibe.ch/studies/study_programs/master_s_in_statistics_and_data_science/index_eng.html",
+        "type": "masters",
+        "label": "MSc Statistics and Data Science",
+        "observedAt": "2026-09-20T13:43:26.308Z",
+        "checkedAt": "2026-09-20T13:43:26.308Z",
+        "contentHash": "8d49d0b9d068cd2137798cdd41cb1225729ef2f681e7db3f6c86c6a7ce6be7e5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.philnat.unibe.ch/studium/studienprogramme/doktoratsprogramm_informatik/index_ger.html",
+        "type": "phd",
+        "label": "PhD Computer Science",
+        "observedAt": "2026-09-20T13:43:26.858Z",
+        "checkedAt": "2026-09-20T13:43:26.858Z",
+        "contentHash": "4a436d4ff85065e4ec64fefdd09c6b66841bc338e651a5dce97ae7102567aa1e",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
     "tierNote": "Pendiente de metodología y evidencia comparable por disciplina; no se infiere del prestigio general.",
-    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas."
+    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas.",
+    "ror": "https://ror.org/02k7v4d05"
   },
   {
     "id": "west-usi",
@@ -23366,5 +23799,1029 @@
         "accessOutcome": "ok"
       }
     ]
+  },
+  {
+    "id": "de-west8-bremen",
+    "name": "University of Bremen",
+    "country": "DE",
+    "ror": "https://ror.org/04ers2y35",
+    "officialUrl": "https://uni-bremen.de",
+    "domains": [
+      "uni-bremen.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.uni-bremen.de/en/master/master-programs",
+        "type": "index",
+        "label": "Índice oficial · Listado completo de másteres de la universidad",
+        "observedAt": "2026-09-20T12:24:44.860Z",
+        "checkedAt": "2026-09-20T12:24:44.860Z",
+        "contentHash": "bec438bf8bf1d6341499370b0d0bfbacdbe2d9ddff76de257959cd9ae790ee84",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/artificial-intelligence-and-intelligent-systems-master",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence and Intelligent Systems",
+        "observedAt": "2026-09-20T13:41:46.147Z",
+        "checkedAt": "2026-09-20T13:41:46.147Z",
+        "contentHash": "edffec9fd815ec5e708d5bbae8b89b6c53819af72cf111c6052bfbb092905de4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/communication-and-information-technology-master",
+        "type": "masters",
+        "label": "MSc Communication and Information Technology",
+        "observedAt": "2026-09-20T13:41:50.074Z",
+        "checkedAt": "2026-09-20T13:41:50.074Z",
+        "contentHash": "59eb9dc6863fd434505aa5717d81eaa2f408cca7550863d08335aa24137051b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/digital-media-media-informatics-media-design-master",
+        "type": "masters",
+        "label": "MSc Digital Media — Media Informatics",
+        "observedAt": "2026-09-20T13:41:51.131Z",
+        "checkedAt": "2026-09-20T13:41:51.131Z",
+        "contentHash": "3b04975abe536c9721d216744c232374ae6b1834908fca014d69250714aab381",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/industrial-mathematics-and-data-analysis-master",
+        "type": "masters",
+        "label": "MSc Industrial Mathematics and Data Analysis",
+        "observedAt": "2026-09-20T13:41:52.083Z",
+        "checkedAt": "2026-09-20T13:41:52.083Z",
+        "contentHash": "68ef006e9188bf334b1ca99c445791cf988ee4d479dfe789641ddf65e807ac81",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/computer-science-master",
+        "type": "masters",
+        "label": "MSc Informatik",
+        "observedAt": "2026-09-20T13:41:55.571Z",
+        "checkedAt": "2026-09-20T13:41:55.571Z",
+        "contentHash": "91053f9307c04b8dafc40ac262b231c767ab63008a114ea2dbf106713fa9afd6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/mathematics-master",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T13:41:57.326Z",
+        "checkedAt": "2026-09-20T13:41:57.326Z",
+        "contentHash": "bccc11c9e67e1110d51a3b21aee75a27453604b4cfd75e478c0cca2af8385960",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/medical-biometry-biostatistics-master",
+        "type": "masters",
+        "label": "MSc Medical Biometry/Biostatistics",
+        "observedAt": "2026-09-20T13:41:58.256Z",
+        "checkedAt": "2026-09-20T13:41:58.256Z",
+        "contentHash": "e02ce6d8e690ef14b8ec10a414cefb90f31e5c656b717318a33a6cde577480d7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/neurosciences-master",
+        "type": "masters",
+        "label": "MSc Neurosciences — ruta computacional",
+        "observedAt": "2026-09-20T13:41:59.114Z",
+        "checkedAt": "2026-09-20T13:41:59.114Z",
+        "contentHash": "52f5b807bf2a48497c2a9542d1c00cef4db2b7b6b78e6a1396421f695bbb55cc",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-bielefeld",
+    "name": "Bielefeld University",
+    "country": "DE",
+    "ror": "https://ror.org/02hpadn98",
+    "officialUrl": "https://uni-bielefeld.de",
+    "domains": [
+      "uni-bielefeld.de"
+    ],
+    "sources": [
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as",
+        "type": "index",
+        "label": "Índice oficial · Listado completo Master of Arts / Science; no M.Ed.",
+        "observedAt": "2026-09-20T13:31:28.957Z",
+        "checkedAt": "2026-09-20T13:31:28.957Z",
+        "contentHash": "9665854eded4ae3fa7d942014db683a51138b27e5f1a8a7e3de1a8c9109e957d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/datascience",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T13:42:00.491Z",
+        "checkedAt": "2026-09-20T13:42:00.491Z",
+        "contentHash": "861cae877c7f87c8563ebf43298e75a6980071a11429849a3b5add1ebaf54ab4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/intsys",
+        "type": "masters",
+        "label": "MSc Intelligente Interaktive Systeme",
+        "observedAt": "2026-09-20T13:42:01.710Z",
+        "checkedAt": "2026-09-20T13:42:01.710Z",
+        "contentHash": "0227cedb6d3cd8cbbb748bc74387336c748c91d882c53939edf5891b90494537",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/wirtschaftsmathematik",
+        "type": "masters",
+        "label": "MSc Mathematical Economics",
+        "observedAt": "2026-09-20T13:42:03.913Z",
+        "checkedAt": "2026-09-20T13:42:03.913Z",
+        "contentHash": "7f5364a2610361dfd5a8f812ae8fcf4e97d3397f38d6a51a7f26121f57ec1a25",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/mathematik",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T13:42:05.712Z",
+        "checkedAt": "2026-09-20T13:42:05.712Z",
+        "contentHash": "f4961919c60784995d6542fdab7b92d18d8151bfb7fe5c5848c4d4ad05c730e6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/naturwissenschaftlicheinformatik",
+        "type": "masters",
+        "label": "MSc Naturwissenschaftliche Informatik",
+        "observedAt": "2026-09-20T13:42:08.336Z",
+        "checkedAt": "2026-09-20T13:42:08.336Z",
+        "contentHash": "4298f08aac387238bdffc1b8f9a1e7a4aa9fa4d86dadccc37c056252aa05a802",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/qe",
+        "type": "masters",
+        "label": "MSc Quantitative Economics",
+        "observedAt": "2026-09-20T13:42:09.595Z",
+        "checkedAt": "2026-09-20T13:42:09.595Z",
+        "contentHash": "e07c7252932f8aaf7f8f7f7924c06f9c5a028d15f351b74bf28fa0ae8e68247a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/stawi",
+        "type": "masters",
+        "label": "MSc Statistische Wissenschaften",
+        "observedAt": "2026-09-20T13:42:13.472Z",
+        "checkedAt": "2026-09-20T13:42:13.472Z",
+        "contentHash": "0c82b1c32fad21531bd5066fa228f3280e8904f108a454d712b6c25f74576dab",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ekvv.uni-bielefeld.de/sinfo/publ/promotion/bioinf?lang=EN",
+        "type": "phd",
+        "label": "Doctorado Bioinformatics",
+        "observedAt": "2026-09-20T13:43:40.262Z",
+        "checkedAt": "2026-09-20T13:43:40.262Z",
+        "contentHash": "9a76c0dcc8d1a797d1fb738bf06a925714b6eb6b5d2af986fb32e7adab64d11f",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-paderborn",
+    "name": "Paderborn University",
+    "country": "DE",
+    "ror": "https://ror.org/058kzsd48",
+    "officialUrl": "https://uni-paderborn.de",
+    "domains": [
+      "uni-paderborn.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.uni-paderborn.de/studienangebot/",
+        "type": "index",
+        "label": "Índice oficial · Catálogo A-Z completo de titulaciones y asignaturas de grado/máster; no son todas títulos independientes",
+        "observedAt": "2026-09-20T12:24:46.734Z",
+        "checkedAt": "2026-09-20T12:24:46.734Z",
+        "contentHash": "2a9ec2dbefea6faa9d52fbf02b9c39e39a57c1dc8be911381fceef2f46d69e9a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-paderborn.de/studienangebot/studiengang/computer-engineering-master",
+        "type": "masters",
+        "label": "MSc Computer Engineering",
+        "observedAt": "2026-09-20T13:42:13.335Z",
+        "checkedAt": "2026-09-20T13:42:13.335Z",
+        "contentHash": "2ac397e3de2f8069b6146a2fbe14de3eaa166860c4a5fe1ccd2263249e50bca0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-paderborn.de/studienangebot/studiengang/computer-science-master",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T13:42:14.753Z",
+        "checkedAt": "2026-09-20T13:42:14.753Z",
+        "contentHash": "2ce54bdb597926a683dc90dc32344046981671201ad343f1b34a1f33d88b749a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-paderborn.de/studienangebot/studiengang/mathematik-master",
+        "type": "masters",
+        "label": "MSc Mathematik",
+        "observedAt": "2026-09-20T13:42:15.687Z",
+        "checkedAt": "2026-09-20T13:42:15.687Z",
+        "contentHash": "651a9c345c9e44b20966398b6d7ccdbc086d39116746bb4bd3fbfc0f391e8a69",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-paderborn.de/studienangebot/studiengang/technomathematik-master",
+        "type": "masters",
+        "label": "MSc Technomathematik",
+        "observedAt": "2026-09-20T13:42:16.281Z",
+        "checkedAt": "2026-09-20T13:42:16.281Z",
+        "contentHash": "1d9cf46cc5c18d19136e2941ffb3e49296ebdd10bd71e0f33f3134f67cc355b0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-paderborn.de/studienangebot/studiengang/wirtschaftsinformatik-master",
+        "type": "masters",
+        "label": "MSc Wirtschaftsinformatik",
+        "observedAt": "2026-09-20T13:42:17.048Z",
+        "checkedAt": "2026-09-20T13:42:17.048Z",
+        "contentHash": "916995694cef1f0aee04b5ba14af225e87a32c9e1986e2419eaf59ee4b175248",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://cs.uni-paderborn.de/en/studies/promotion",
+        "type": "phd",
+        "label": "Doctorado en Informática",
+        "observedAt": "2026-09-20T13:43:39.195Z",
+        "checkedAt": "2026-09-20T13:43:39.195Z",
+        "contentHash": "97f9e243b6164b1786a4f9cebeed6b98d666f53c2c908c5b7ba66ea94408855a",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-magdeburg",
+    "name": "Otto-von-Guericke-Universität Magdeburg",
+    "country": "DE",
+    "ror": "https://ror.org/00ggpsq73",
+    "officialUrl": "https://ovgu.de",
+    "domains": [
+      "ovgu.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ovgu.de/studienangebot_master.html",
+        "type": "index",
+        "label": "Índice oficial · Tabla completa de másteres; direcciones de Matemáticas se agrupan por URL",
+        "observedAt": "2026-09-20T12:24:47.023Z",
+        "checkedAt": "2026-09-20T12:24:47.023Z",
+        "contentHash": "289c44529a98d37dc21d1ebe9f4a8995feff3d003114940a0b9513924debd916",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ovgu.de/Statistik_master.html",
+        "type": "masters",
+        "label": "MSc Statistik",
+        "observedAt": "2026-09-20T13:42:16.353Z",
+        "checkedAt": "2026-09-20T13:42:16.353Z",
+        "contentHash": "6729ca418a8c2e0177f3736b93e9b0028150904c667209d626863867ea647c9f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ovgu.de/Visual_Computing_master-path-5,76024,107032,48816,48822.html",
+        "type": "masters",
+        "label": "MSc Visual Computing",
+        "observedAt": "2026-09-20T13:42:18.627Z",
+        "checkedAt": "2026-09-20T13:42:18.627Z",
+        "contentHash": "1363818ac2073656133f520bc433c094a6f94fedd3979c18f98fa81ed68da6ef",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-chemnitz",
+    "name": "Chemnitz University of Technology",
+    "country": "DE",
+    "ror": "https://ror.org/00a208s56",
+    "officialUrl": "https://tu-chemnitz.de",
+    "domains": [
+      "tu-chemnitz.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/",
+        "type": "index",
+        "label": "Índice oficial · Alcance delimitado inicial: grados de la Facultad de Informática",
+        "observedAt": "2026-09-20T12:22:53.174Z",
+        "checkedAt": "2026-09-20T12:22:53.174Z",
+        "contentHash": "095bb2f9d2bef3484b7f9f83caf153d907d1f332fde7e08b9a724dc95e502497",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_angewandte_informatik.php",
+        "type": "masters",
+        "label": "MSc Angewandte Informatik",
+        "observedAt": "2026-09-20T13:42:19.775Z",
+        "checkedAt": "2026-09-20T13:42:19.775Z",
+        "contentHash": "3847506400b9eb43f1091b9279e3d8c9a2519db19291de5b6fca98781a39d4b9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_automotive_software_engineering.php",
+        "type": "masters",
+        "label": "MSc Automotive Software Engineering",
+        "observedAt": "2026-09-20T13:42:20.923Z",
+        "checkedAt": "2026-09-20T13:42:20.923Z",
+        "contentHash": "af72112002438be2bf2180b440ca0b6eacc5ff7f4d9bd3bd16d5391c4847aa82",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_informatik.php",
+        "type": "masters",
+        "label": "MSc Informatik",
+        "observedAt": "2026-09-20T13:42:21.790Z",
+        "checkedAt": "2026-09-20T13:42:21.790Z",
+        "contentHash": "20532b7ecd2510f3f240c3c75cc076475101b5137100fd8df822407bdcba99e6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_informatik_fuer_geistes_und_sozialwissenschaftler.php",
+        "type": "masters",
+        "label": "MSc Informatik für Geistes- und Sozialwissenschaftler",
+        "observedAt": "2026-09-20T13:42:22.617Z",
+        "checkedAt": "2026-09-20T13:42:22.617Z",
+        "contentHash": "2f481a3ea73e3f1d8515c4158c44c0a5a8f6920dff8115fc9b46d9400de47061",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_neurorobotik.php",
+        "type": "masters",
+        "label": "MSc Neurorobotics",
+        "observedAt": "2026-09-20T13:42:23.389Z",
+        "checkedAt": "2026-09-20T13:42:23.389Z",
+        "contentHash": "2b88c7d2eec8c4320132049d2d7deed76bbf3170cfc225cb5c28280d1b9dd88b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_web_engineering.php",
+        "type": "masters",
+        "label": "MSc Web Engineering",
+        "observedAt": "2026-09-20T13:42:24.135Z",
+        "checkedAt": "2026-09-20T13:42:24.135Z",
+        "contentHash": "7a476e14cffda2cc1a1b137562ada95f892f2bcf892cbec33957ff5073fdf7c8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_biomedizinische_technik.php",
+        "type": "masters",
+        "label": "MSc Biomedizinische Technik",
+        "observedAt": "2026-09-20T13:42:24.993Z",
+        "checkedAt": "2026-09-20T13:42:24.993Z",
+        "contentHash": "6ad9a8a2341e3965e700c7bc80075a04fcb2084ffc2080d9cfa218540b4cd3c2",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-ilmenau",
+    "name": "Technische Universität Ilmenau",
+    "country": "DE",
+    "ror": "https://ror.org/01weqhp73",
+    "officialUrl": "https://tu-ilmenau.de",
+    "domains": [
+      "tu-ilmenau.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge",
+        "type": "index",
+        "label": "Índice oficial · Listado completo de másteres del catálogo central",
+        "observedAt": "2026-09-20T12:24:49.995Z",
+        "checkedAt": "2026-09-20T12:24:49.995Z",
+        "contentHash": "84db36e818779ef966e15212ffc350749ac84224e4d8b10e2e0c49a23c30e9a2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/elektrotechnik-und-informationstechnik-m-sc",
+        "type": "masters",
+        "label": "MSc Elektrotechnik und Informationstechnik",
+        "observedAt": "2026-09-20T13:42:24.141Z",
+        "checkedAt": "2026-09-20T13:42:24.141Z",
+        "contentHash": "46cfcbd85ef9d2ca29ce957cb661c4a322a15d1c94c318a8c9af156d4db56fa3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/informatik-m-sc",
+        "type": "masters",
+        "label": "MSc Informatik",
+        "observedAt": "2026-09-20T13:42:27.911Z",
+        "checkedAt": "2026-09-20T13:42:27.911Z",
+        "contentHash": "ab2ba9761bb57025f4287bff93d788de7dcddb26858a5735775a1e73cb176acf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/ingenieurinformatik-m-sc",
+        "type": "masters",
+        "label": "MSc Ingenieurinformatik",
+        "observedAt": "2026-09-20T13:42:29.996Z",
+        "checkedAt": "2026-09-20T13:42:29.996Z",
+        "contentHash": "63d57da6e4c07ee70de5521974b337eef609c27ea3c29deb29f041c1173b906d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/wirtschaftsinformatik-m-sc",
+        "type": "masters",
+        "label": "MSc Wirtschaftsinformatik",
+        "observedAt": "2026-09-20T13:42:32.011Z",
+        "checkedAt": "2026-09-20T13:42:32.011Z",
+        "contentHash": "504337b58c951a8816b46cc359bf08e4743104fb510f312aca6d12dd449ae405",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/communications-and-signal-processing-m-sc",
+        "type": "masters",
+        "label": "MSc Communications and Signal Processing",
+        "observedAt": "2026-09-20T13:42:34.134Z",
+        "checkedAt": "2026-09-20T13:42:34.134Z",
+        "contentHash": "f090e45e88df7e835b2df386f50a4de4e95ca129ad806b4a2bbed62f836cf2f8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/data-science-m-sc",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T13:42:36.310Z",
+        "checkedAt": "2026-09-20T13:42:36.310Z",
+        "contentHash": "e9f3f895f24d7209671f7fbd26c6904e6e3083433d797c5807b934d355526839",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/research-in-computer-systems-engineering-m-sc",
+        "type": "masters",
+        "label": "MSc Research in Computer & Systems Engineering",
+        "observedAt": "2026-09-20T13:42:36.551Z",
+        "checkedAt": "2026-09-20T13:42:36.551Z",
+        "contentHash": "68d87b580df80789eeb2ff2ff660249f01c3a987549e81b7db667de8ed427fa1",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-konstanz",
+    "name": "University of Konstanz",
+    "country": "DE",
+    "ror": "https://ror.org/0546hnb39",
+    "officialUrl": "https://uni-konstanz.de",
+    "domains": [
+      "uni-konstanz.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.uni-konstanz.de/studieren/vor-dem-studium/studienangebot/master/",
+        "type": "index",
+        "label": "Índice oficial pendiente de acceso · Universität Konstanz",
+        "observedAt": "2026-09-20T13:36:39.429156+00:00",
+        "accessOutcome": "not_fetched"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-wuerzburg",
+    "name": "University of Würzburg",
+    "country": "DE",
+    "ror": "https://ror.org/00fbnyb24",
+    "officialUrl": "https://uni-wuerzburg.de",
+    "domains": [
+      "uni-wuerzburg.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.uni-wuerzburg.de/studium/angebot/faecher/",
+        "type": "index",
+        "label": "Índice oficial · Catálogo completo de materias A-Z: una URL puede contener varios niveles; se confirma el máster en su ficha",
+        "observedAt": "2026-09-20T12:27:14.361Z",
+        "checkedAt": "2026-09-20T12:27:14.361Z",
+        "contentHash": "7a9cdc9edc27eee4a0ef10e18ade64245ef841c8ac148a18464704e033e62be8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.mathematik.uni-wuerzburg.de/studium/studiengaenge-im-ueberblick/mathematical-data-science-master/",
+        "type": "masters",
+        "label": "MSc Mathematical Data Science",
+        "observedAt": "2026-09-20T13:42:34.151Z",
+        "checkedAt": "2026-09-20T13:42:34.151Z",
+        "contentHash": "2bdebf72e37ef90eca2e4b44caeebfab1ebe64312435edf8a0c0210c6526f5e0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.mathematik.uni-wuerzburg.de/studium/studiengaenge-im-ueberblick/mathematik-master/",
+        "type": "masters",
+        "label": "MSc Mathematik",
+        "observedAt": "2026-09-20T13:42:36.150Z",
+        "checkedAt": "2026-09-20T13:42:36.150Z",
+        "contentHash": "706249284d3a0dea4ac799babc610eeee7d51acf51e1fe2f82bfd16be32a27d4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.mathematik.uni-wuerzburg.de/studium/studiengaenge-im-ueberblick/wirtschaftsmathematik-master/",
+        "type": "masters",
+        "label": "MSc Wirtschaftsmathematik",
+        "observedAt": "2026-09-20T13:42:36.833Z",
+        "checkedAt": "2026-09-20T13:42:36.833Z",
+        "contentHash": "c017ae57a99cf1f6062f51a910eac5e33de0afde0d8ef320dcc2b4a88b3edfb5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.informatik.uni-wuerzburg.de/studium/studiengaenge/master-kuenstliche-intelligenz/",
+        "type": "masters",
+        "label": "MSc Künstliche Intelligenz",
+        "observedAt": "2026-09-20T13:43:43.853Z",
+        "checkedAt": "2026-09-20T13:43:43.853Z",
+        "contentHash": "9453c8e5029f99ab9e7400e011c46ac04af49c1a670344bc96f09ff641cb6939",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-bayreuth",
+    "name": "University of Bayreuth",
+    "country": "DE",
+    "ror": "https://ror.org/0234wmv40",
+    "officialUrl": "https://uni-bayreuth.de",
+    "domains": [
+      "uni-bayreuth.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.math.uni-bayreuth.de/de/studium/master/index.php",
+        "type": "index",
+        "label": "Índice oficial · Alcance delimitado: másteres del Departamento de Matemáticas",
+        "observedAt": "2026-09-20T12:23:12.936Z",
+        "checkedAt": "2026-09-20T12:23:12.936Z",
+        "contentHash": "b2adff9d22e3128092549390404476d33dc9a3851ab17dfa4e55c0b3c36a0279",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.math.uni-bayreuth.de/de/studium/master/wi-math/index.php",
+        "type": "masters",
+        "label": "MSc Wirtschaftsmathematik",
+        "observedAt": "2026-09-20T13:42:36.571Z",
+        "checkedAt": "2026-09-20T13:42:36.571Z",
+        "contentHash": "cf629906dfc7c19791f43133a96b26342c5fe43936173c42ee87deadd04f72f1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.math.uni-bayreuth.de/de/studium/master/comp-math/index.php",
+        "type": "masters",
+        "label": "MSc Computational Mathematics",
+        "observedAt": "2026-09-20T13:42:41.519Z",
+        "checkedAt": "2026-09-20T13:42:41.519Z",
+        "contentHash": "ac1d5c90e52b57d3bc43eec55d1a1b2d21ede103bfc0a215819771f4f75badc1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni-bayreuth.de/master/informatik",
+        "type": "masters",
+        "label": "MSc Informatik",
+        "observedAt": "2026-09-20T13:43:38.595Z",
+        "checkedAt": "2026-09-20T13:43:38.595Z",
+        "contentHash": "e6338bc792a86fdd9e8bb490b8a1ceb50564b0b9728b6fcccc80d4fe54cd84e4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.baynat.uni-bayreuth.de/en/doctoral-programmes/computational-mathematics-in-science-and-engineering/special-features/index.html",
+        "type": "phd",
+        "label": "BayCompMath — Computational Mathematics in Science and Engineering",
+        "observedAt": "2026-09-20T13:43:42.944Z",
+        "checkedAt": "2026-09-20T13:43:42.944Z",
+        "contentHash": "c467a363b2799b01777631d747dfc6fc506b0375e83640b4e251018f69dc78d8",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-west8-salzburg",
+    "name": "University of Salzburg",
+    "country": "AT",
+    "ror": "https://ror.org/05gs8cd61",
+    "officialUrl": "https://plus.ac.at",
+    "domains": [
+      "plus.ac.at"
+    ],
+    "sources": [
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/",
+        "type": "index",
+        "label": "Índice oficial · Tabla completa de másteres; variantes de área no son títulos nuevos",
+        "observedAt": "2026-09-20T12:23:32.787Z",
+        "checkedAt": "2026-09-20T12:23:32.787Z",
+        "contentHash": "d7f6775a0acf054ce16c652098f4d04f9cd23103528f389583d902272a1f3814",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/doctoral-programmes/?lang=en",
+        "type": "index",
+        "label": "Índice oficial · Tabla completa de doctorados",
+        "observedAt": "2026-09-20T12:24:53.635Z",
+        "checkedAt": "2026-09-20T12:24:53.635Z",
+        "contentHash": "bdfd91b8fb45eb4d342e0745beee01450d82266f91ed5749772011fb172b4723",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/applied-geoinformatics/",
+        "type": "masters",
+        "label": "MSc Applied Geoinformatics",
+        "observedAt": "2026-09-20T13:43:00.721Z",
+        "checkedAt": "2026-09-20T13:43:00.721Z",
+        "contentHash": "905c05f7b19a3e4ab3419594676046600ce1a9f1bad7c41e18cded26eeaf26d7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/appliedimageandsignalprocessing/",
+        "type": "masters",
+        "label": "MSc Applied Image and Signal Processing",
+        "observedAt": "2026-09-20T13:43:04.733Z",
+        "checkedAt": "2026-09-20T13:43:04.733Z",
+        "contentHash": "024c0b1de2f979f452a0010f99f5381c9bcd83be723b31a2f7831ee17c55997c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/informatik-2/",
+        "type": "masters",
+        "label": "Master Computer Science — Diplom-Ingenieur/in",
+        "observedAt": "2026-09-20T13:43:08.035Z",
+        "checkedAt": "2026-09-20T13:43:08.035Z",
+        "contentHash": "0221a74de3f7e74ee5e62cfa3f662eb87238691e30846723fa8fca96da2c4015",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/copernicus-master-in-digital-earth/",
+        "type": "masters",
+        "label": "MSc Copernicus Master in Digital Earth",
+        "observedAt": "2026-09-20T13:43:10.348Z",
+        "checkedAt": "2026-09-20T13:43:10.348Z",
+        "contentHash": "c81b15f2ca87631cbb2022b3e965b36ee90ab9153380b4163e6846f0ee53be54",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/data-science/",
+        "type": "masters",
+        "label": "MSc Data Science",
+        "observedAt": "2026-09-20T13:43:12.825Z",
+        "checkedAt": "2026-09-20T13:43:12.825Z",
+        "contentHash": "b318e99b1056861161a7d195bd7d64867cc73926d1fcc277fbd96f54c5f422cd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/human-computer-interaction/",
+        "type": "masters",
+        "label": "MSc Human-Computer Interaction",
+        "observedAt": "2026-09-20T13:43:15.249Z",
+        "checkedAt": "2026-09-20T13:43:15.249Z",
+        "contentHash": "f68a40249054ffe4240db247881ac3e0d75619946e5ca85750ab33a7355f9c90",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.plus.ac.at/studium/studienangebot/masterstudien/mathematik-3/",
+        "type": "masters",
+        "label": "MSc Mathematik",
+        "observedAt": "2026-09-20T13:43:18.593Z",
+        "checkedAt": "2026-09-20T13:43:18.593Z",
+        "contentHash": "462d92ea6b33910e8d36c5264986d97af78dd9c272f1846c70cf5afb08218f22",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-west8-graz",
+    "name": "University of Graz",
+    "country": "AT",
+    "ror": "https://ror.org/01faaaf77",
+    "officialUrl": "https://uni-graz.at",
+    "domains": [
+      "uni-graz.at"
+    ],
+    "sources": [
+      {
+        "url": "https://www.uni-graz.at/de/studium/masterstudien/",
+        "type": "index",
+        "label": "Índice oficial · Listado completo de másteres; incluye especialidades docentes y grados conjuntos",
+        "observedAt": "2026-09-20T12:24:54.432Z",
+        "checkedAt": "2026-09-20T12:24:54.432Z",
+        "contentHash": "306bc5a0c32aede02656673242c6583a7bf02317516f5ec4b0c82109b17d9e2a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://doctorate.uni-graz.at/de/doktoratsstudien/",
+        "type": "index",
+        "label": "Índice oficial · Listado completo de doctorados de la universidad",
+        "observedAt": "2026-09-20T12:24:54.846Z",
+        "checkedAt": "2026-09-20T12:24:54.846Z",
+        "contentHash": "8dfb07a50b725e122952e68d1ec0210b144e5a955b570da406d15a6be20f584b",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "ch-west8-fribourg",
+    "name": "University of Fribourg",
+    "country": "CH",
+    "ror": "https://ror.org/022fs9h90",
+    "officialUrl": "https://unifr.ch",
+    "domains": [
+      "unifr.ch"
+    ],
+    "sources": [
+      {
+        "url": "https://studies.unifr.ch/fr/offre/courses/?ba=0&ma=1&do=0",
+        "type": "index",
+        "label": "Índice oficial · Catálogo completo 2026–2027, tres niveles y opciones secundarias; base HTML respetada",
+        "observedAt": "2026-09-20T12:25:00.491Z",
+        "checkedAt": "2026-09-20T12:25:00.491Z",
+        "contentHash": "2c1092074a33a9bcc1238e9c7b163c908845571b278c676a08a6b6de3729bb48",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.unifr.ch/fr/master/sci/mathematics",
+        "type": "masters",
+        "label": "MSc Mathématiques",
+        "observedAt": "2026-09-20T13:43:31.100Z",
+        "checkedAt": "2026-09-20T13:43:31.100Z",
+        "contentHash": "80ce782663e18d156c6054cf48adce51a89f6cf9b9c3fb97adb368a8edc3195b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.unifr.ch/fr/doctorat/sci/mathematics",
+        "type": "phd",
+        "label": "PhD Mathematics",
+        "observedAt": "2026-09-20T13:43:33.298Z",
+        "checkedAt": "2026-09-20T13:43:33.298Z",
+        "contentHash": "841b93c86ff35d326884a8fc537fbdde928174cc8287ac5c0553ed8f08108d29",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.unifr.ch/fr/master/digitinf/businessinformatics",
+        "type": "masters",
+        "label": "MSc Informatique de gestion",
+        "observedAt": "2026-09-20T13:43:34.068Z",
+        "checkedAt": "2026-09-20T13:43:34.068Z",
+        "contentHash": "13b80d147125bc75f99f83e40eda616362db12ffe5278454ca9745ddad7a843a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.unifr.ch/fr/doctorat/digitinf/informatics",
+        "type": "phd",
+        "label": "PhD Computer Science",
+        "observedAt": "2026-09-20T13:43:35.234Z",
+        "checkedAt": "2026-09-20T13:43:35.234Z",
+        "contentHash": "501d243362dffbc4e25c532af9b89683cc0f274e55114470557e7d8b4c104c5a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.unifr.ch/fr/master/digitinf/dataeco",
+        "type": "masters",
+        "label": "MSc Data Analytics & Economics",
+        "observedAt": "2026-09-20T13:43:36.011Z",
+        "checkedAt": "2026-09-20T13:43:36.011Z",
+        "contentHash": "af8f047cdd93815acc44dc8eefe96a381ef0cf20a50c7d6d341f226530b2f303",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.unifr.ch/fr/doctorat/digitinf/bioinformatics",
+        "type": "phd",
+        "label": "PhD Bioinformatics",
+        "observedAt": "2026-09-20T13:43:36.840Z",
+        "checkedAt": "2026-09-20T13:43:36.840Z",
+        "contentHash": "12a498e3b224e7e3b843b89087911306b4baa74693616b012ddef328a8229f16",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.unifr.ch/fr/master/digitinf/digitalneuroscience",
+        "type": "masters",
+        "label": "Specialised MSc Digital Neuroscience",
+        "observedAt": "2026-09-20T13:43:37.682Z",
+        "checkedAt": "2026-09-20T13:43:37.682Z",
+        "contentHash": "38665eb040eac35f414043d4c9ae206b7ed14a38cb15dd9fb825dba0311fbc32",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-west8-dresden",
+    "name": "Technische Universität Dresden",
+    "country": "DE",
+    "ror": "https://ror.org/042aqky30",
+    "officialUrl": "https://tu-dresden.de",
+    "domains": [
+      "tu-dresden.de"
+    ],
+    "sources": [
+      {
+        "url": "https://tu-dresden.de/mn/math/studium/studienangebot",
+        "type": "index",
+        "label": "Índice oficial · Alcance delimitado: índice de estudios de la Facultad de Matemáticas",
+        "observedAt": "2026-09-20T12:22:49.067Z",
+        "checkedAt": "2026-09-20T12:22:49.067Z",
+        "contentHash": "e35c16b8d6983fb1c381488de2b6d215f66799f130b457bba17661bbc70d92f3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tu-dresden.de/mn/ressourcen/dateien/studium/mathematik-master/mat_master_lf_so_jg_2023_vers_2023.pdf?lang=de",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T13:42:18.004Z",
+        "checkedAt": "2026-09-20T13:42:18.004Z",
+        "contentHash": "246055282d0eaee33d6e168f0f67e162741f05ed479a394e8b56c82c67a70c97",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tu-dresden.de/mn/ressourcen/dateien/studium/technomathematik-master/tm_master_lf_so_jg_2025_vers_2025.pdf?lang=de",
+        "type": "masters",
+        "label": "MSc Technomathematics",
+        "observedAt": "2026-09-20T13:42:20.574Z",
+        "checkedAt": "2026-09-20T13:42:20.574Z",
+        "contentHash": "4e53cd3bdadb58078fe5d34751e9be0ddc74f5f480ec0f59dd766f4d61214f30",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tu-dresden.de/mn/ressourcen/dateien/studium/wirtschaftsmathematik-master/bizmath_master_lf_so_jg_2023_vers_2023b.pdf?lang=de",
+        "type": "masters",
+        "label": "MSc Business Mathematics",
+        "observedAt": "2026-09-20T13:42:22.905Z",
+        "checkedAt": "2026-09-20T13:42:22.905Z",
+        "contentHash": "87efb107f86f77257b34c4d8c37757d707c1578b76ad60c730c6a1ab40267e81",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/m-sc-computer-science?set_language=de",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T13:43:38.967Z",
+        "checkedAt": "2026-09-20T13:43:38.967Z",
+        "contentHash": "55b4abca88dae3f04333ff9db3b9a4033585bc91b7beecd5d0ef320452112d11",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tu-dresden.de/ing/informatik/studium/postgraduates/promotion?set_language=en",
+        "type": "phd",
+        "label": "Doctorado en Computer Science",
+        "observedAt": "2026-09-20T13:43:40.453Z",
+        "checkedAt": "2026-09-20T13:43:40.453Z",
+        "contentHash": "1881bdbaca4ce0c669cf6fafcbc046120f157b7eebabd5d1feede68e6a7a1122",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "by-brest-state-technical-university",
+    "name": "Brest State Technical University",
+    "country": "BY",
+    "ror": "https://ror.org/007rxxd52",
+    "officialUrl": "https://www.bstu.by",
+    "domains": [
+      "bstu.by"
+    ],
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.bstu.by/obrazovanie/magistratura/perechen-spetsialnostej-magistratury",
+        "label": "Especialidades de máster y duración",
+        "checkedAt": "2026-09-20T13:23:00.564Z",
+        "observedAt": "2026-09-20T13:23:00.564Z",
+        "contentHash": "3ab766010de277dcffd9d3104d313c1de8ec502df814bef6de571511f20f9fe5",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.bstu.by/obrazovanie/magistratura"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.bstu.by/obrazovanie/magistratura",
+        "label": "Másteres · formación y disertación · 2026",
+        "checkedAt": "2026-09-20T13:21:54.514Z",
+        "observedAt": "2026-09-20T13:21:54.514Z",
+        "contentHash": "6a84f5633125ec04d8dbfc0288db1f5ac7983e2d7c352f74c4582e4eccef3dbb",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.bstu.by"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.bstu.by/obrazovanie/aspirantura-doktorantura/aspirantura",
+        "label": "Aspirantura · convocatoria 2026",
+        "checkedAt": "2026-09-20T13:21:57.006Z",
+        "observedAt": "2026-09-20T13:21:57.006Z",
+        "contentHash": "3e918b2a64407a37134d34b956756c1590d43a74d67b12826301ad8f398f55f1",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.bstu.by"
+      }
+    ],
+    "tier": null,
+    "tierStatus": "not_assessed",
+    "coverageStatus": "sources_reviewed"
+  },
+  {
+    "id": "by-polotsk-state-university",
+    "name": "Polotsk State University",
+    "country": "BY",
+    "ror": "https://ror.org/03nhq5b06",
+    "officialUrl": "https://www.psu.by",
+    "domains": [
+      "psu.by"
+    ],
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.psu.by/ru/obrazovanie/magistratura",
+        "label": "Catálogo de másteres y admisión general de 2026",
+        "checkedAt": "2026-09-20T13:22:59.447Z",
+        "observedAt": "2026-09-20T13:22:59.447Z",
+        "contentHash": "c208e95b352ccb3c5c30d4f168ed8ed6d650b40a061d12915dcdf37f0ca7da11",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.psu.by/ru/menu-abiturientam"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.psu.by/en/education/master-study",
+        "label": "Másteres · información para solicitantes extranjeros",
+        "checkedAt": "2026-09-20T13:24:25.175Z",
+        "observedAt": "2026-09-20T13:24:25.175Z",
+        "contentHash": "a183db15a840cd9a9beaf186f5288eb6cf821d1bbc599c4e39e45cfdc7436dfa",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.psu.by/ru/obrazovanie/magistratura"
+      }
+    ],
+    "tier": null,
+    "tierStatus": "not_assessed",
+    "coverageStatus": "sources_reviewed"
+  },
+  {
+    "id": "mc-international-university-of-monaco",
+    "name": "International University of Monaco",
+    "country": "MC",
+    "ror": "https://ror.org/02kb5sz66",
+    "officialUrl": "https://www.monaco.edu",
+    "domains": [
+      "monaco.edu"
+    ],
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://www.monaco.edu/en/programs/",
+        "label": "Catálogo oficial de titulaciones",
+        "checkedAt": "2026-09-20T13:20:43.939Z",
+        "observedAt": "2026-09-20T13:20:43.939Z",
+        "contentHash": "6a2366ce96f08e240c89b78107ed7794ce356ff49c86373230dd9a22e4aac957",
+        "accessOutcome": "ok",
+        "discoveredFrom": null
+      },
+      {
+        "type": "jobs",
+        "url": "https://www.monaco.edu/en/academic-vacancies/",
+        "label": "Vacantes académicas · comprobar disciplina",
+        "checkedAt": "2026-09-20T13:21:57.037Z",
+        "observedAt": "2026-09-20T13:21:57.037Z",
+        "contentHash": "867804b2442ec012c7c78a81c89c00b3621e7603ab6fd3f03e00ffde3dc46792",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.monaco.edu/en/programs/"
+      }
+    ],
+    "tier": null,
+    "tierStatus": "not_assessed",
+    "coverageStatus": "sources_reviewed"
+  },
+  {
+    "id": "mc-scientific-centre-of-monaco",
+    "name": "Scientific Centre of Monaco",
+    "country": "MC",
+    "ror": "https://ror.org/04kptf457",
+    "officialUrl": "https://centrescientifique.mc",
+    "domains": [
+      "centrescientifique.mc"
+    ],
+    "sources": [
+      {
+        "type": "research",
+        "url": "https://www.centrescientifique.mc/fr/article/biologie-polaire2/innovations-technologiques",
+        "label": "Investigación en seguimiento automatizado, software y aprendizaje automático",
+        "checkedAt": "2026-09-20T13:21:58.216Z",
+        "observedAt": "2026-09-20T13:21:58.216Z",
+        "contentHash": "cf4d6e743ca6fdc369e7260feeafa5fa20552150c319d8e91e5aa14979061cd3",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.centrescientifique.mc/fr/article/le-centre/presentation-activites"
+      },
+      {
+        "type": "jobs",
+        "url": "https://www.centrescientifique.mc/fr/article/offres-demploi",
+        "label": "Empleo · sin ofertas en la revisión del 20 septiembre 2026",
+        "checkedAt": "2026-09-20T13:21:59.919Z",
+        "observedAt": "2026-09-20T13:21:59.919Z",
+        "contentHash": "2d9fef7544738d2656afb64a0cbf57504363d8791fef3811fb6b93dc62a659bf",
+        "accessOutcome": "ok",
+        "discoveredFrom": "https://www.centrescientifique.mc/fr/article/le-centre/presentation-activites"
+      }
+    ],
+    "tier": null,
+    "tierStatus": "not_assessed",
+    "coverageStatus": "sources_reviewed"
   }
 ]

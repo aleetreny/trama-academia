@@ -4,9 +4,23 @@ import {buildUniverse} from './institution-universe.mjs';
 import {computeTiers,wilsonLower} from './research-tiers.mjs';
 import {fieldsFrom} from './domain.mjs';
 import {hasResearchComponent,programmeText} from './programme-evidence.mjs';
-import {discoverLinks,addDiscoveryJob,selectDiscoveryJobs} from './institution-discovery.mjs';
+import {discoverLinks,addDiscoveryJob,selectDiscoveryJobs,sourceType,isExplicitlyEmptyJobsIndex} from './institution-discovery.mjs';
 const release={doi:'10.1/example',metadata:{publication_date:'2026-01-01'},files:[{key:'sample.zip',checksum:'md5:test'}]};
 const record=(id,country)=>({id:'https://ror.org/'+id,status:'active',types:['education'],names:[{value:id,types:['ror_display']}],locations:[{geonames_details:{country_code:country,name:'City',lat:1,lng:1}}],links:[],domains:[]});
+test('observed Russian postgraduate and French vacancy links retain their source type',()=>{
+ assert.equal(sourceType('Аспирантура, докторантура'),'phd');
+ assert.equal(sourceType('/obrazovanie/aspirantura-doktorantura'),'phd');
+ assert.equal(sourceType('Магистратура'),'masters');
+ assert.equal(sourceType("Offres d'emploi"),'jobs');
+ assert.equal(sourceType('/fr/article/offres-demploi'),'jobs');
+});
+test('a short official vacancy index can explicitly report that no jobs are available',()=>{
+ const notice='Offres d’emploi Aucune offre disponible pour le moment...';
+ assert.ok(isExplicitlyEmptyJobsIndex(notice,"Offres d'emploi",'jobs'));
+ assert.equal(isExplicitlyEmptyJobsIndex(notice,'Page introuvable','jobs'),false);
+ assert.equal(isExplicitlyEmptyJobsIndex(notice,'Offres d’emploi','masters'),false);
+ assert.equal(isExplicitlyEmptyJobsIndex('Verify that you are not a robot',"Offres d'emploi",'jobs'),false);
+});
 test('transcontinental registry location is never sufficient evidence of a European campus',()=>{
  const result=buildUniverse([record('europe','DE'),record('review','RU'),record('outside','US'),{...record('inactive','FR'),status:'inactive'}],release);
  assert.equal(result.institutions.length,2);assert.equal(result.institutions.find(x=>x.country==='RU').geography,'campus-review');assert.ok(result.institutions.every(x=>x.sources.length===0&&x.reviewStatus==='candidate'));
