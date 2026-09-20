@@ -8269,6 +8269,177 @@
         "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes",
         "label": "PhDs and postgraduate study",
         "status": "link_observed"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree?orderby=alphabetic",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Bologna",
+        "observedAt": "2026-09-20T10:00:20.801Z",
+        "checkedAt": "2026-09-20T10:00:20.801Z",
+        "contentHash": "7c661cbb7751dc78337f0095cf55fd4fcf9eb8c36d7ce16d0cf5c77114a39c2f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Bologna",
+        "observedAt": "2026-09-20T09:57:01.983Z",
+        "checkedAt": "2026-09-20T09:57:01.983Z",
+        "contentHash": "049138bbe9e5e37e56e8bf38d64a70c2ab4a94a011ae8f4d6b2662b11b0e5047",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Bologna",
+        "observedAt": "2026-09-20T09:57:00.317Z",
+        "checkedAt": "2026-09-20T09:57:00.317Z",
+        "contentHash": "18ade99a2df4af447672238f73ea28e71c1ae4a66b911fa1efab4b44fbb7128d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/computer-science-and-engineering-1",
+        "type": "phd",
+        "label": "PhD in Computer Science and Engineering",
+        "checkedAt": "2026-09-20T10:52:42.838Z",
+        "observedAt": "2026-09-20T10:52:42.838Z",
+        "contentHash": "61267890e460ba1be684c1d6dbd64b859f62f88ee386ea963f2fc3f6f1110631",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/data-science-and-computation-1",
+        "type": "phd",
+        "label": "PhD in Data Science and Computation",
+        "checkedAt": "2026-09-20T10:52:43.515Z",
+        "observedAt": "2026-09-20T10:52:43.515Z",
+        "contentHash": "edd1897ef1824fea9f9d96e6fe80b0d971db4a3563089b880bcdc1b0c25459e6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/electronics-telecommunications-and-information-technologies-engineering",
+        "type": "phd",
+        "label": "PhD in Electronics, Telecommunications, and Information Technologies Engineering",
+        "checkedAt": "2026-09-20T10:52:44.613Z",
+        "observedAt": "2026-09-20T10:52:44.613Z",
+        "contentHash": "a356f2465efb9872b11bb1355ebd96bd5fea1c8ced6af503e153450dfe0f2225",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/mathematics",
+        "type": "phd",
+        "label": "PhD in Mathematics",
+        "checkedAt": "2026-09-20T10:52:45.007Z",
+        "observedAt": "2026-09-20T10:52:45.007Z",
+        "contentHash": "1b95b7a729d31b83d1375bbd796effc1a4121536148ca1ab733215400773aca4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/statistical-sciences",
+        "type": "phd",
+        "label": "PhD in Statistical Sciences",
+        "checkedAt": "2026-09-20T10:52:45.778Z",
+        "observedAt": "2026-09-20T10:52:45.778Z",
+        "contentHash": "b0a6a2d73de646756f5582e7ca2030c288759f17d4f7bcd021ef99517d5360b0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6700",
+        "type": "masters",
+        "label": "Laurea magistrale in Artificial Intelligence",
+        "checkedAt": "2026-09-20T10:57:28.998Z",
+        "observedAt": "2026-09-20T10:57:28.998Z",
+        "contentHash": "c52fd778e8fcec886dd92d39289e1ad43abcef7a921d9a78c48582cf47472510",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6719",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer Engineering",
+        "checkedAt": "2026-09-20T10:57:29.412Z",
+        "observedAt": "2026-09-20T10:57:29.412Z",
+        "contentHash": "28bcb2afae0999836b2782e2149055fa0d7c74587ffaa0be6d8df6f8715b746f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6698",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer Science",
+        "checkedAt": "2026-09-20T10:57:30.888Z",
+        "observedAt": "2026-09-20T10:57:30.888Z",
+        "contentHash": "c3800291993d04153c98e3de55ea65e8c47ce7326688ab544b0ed67a61b1a884",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6699",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer Science and Engineering",
+        "checkedAt": "2026-09-20T10:57:31.640Z",
+        "observedAt": "2026-09-20T10:57:31.640Z",
+        "contentHash": "5d9ecc7b36772b05c198586a7324db7492401b6079338180bbb4393cce48d606",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6736",
+        "type": "masters",
+        "label": "Laurea magistrale in Digital Humanities and Digital Knowledge",
+        "checkedAt": "2026-09-20T10:57:32.423Z",
+        "observedAt": "2026-09-20T10:57:32.423Z",
+        "contentHash": "a5ddf464b70352b986881b4b6ac595463867d5cfc3cdc611ae1e4832a0ad7319",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6253",
+        "type": "masters",
+        "label": "Laurea magistrale in Electronic Engineering for Artificial Intelligence",
+        "checkedAt": "2026-09-20T10:57:33.179Z",
+        "observedAt": "2026-09-20T10:57:33.179Z",
+        "contentHash": "5642a12bd4a75ff2c01424a81a4274868d9d7856445d6e7c98714425634c9df3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6730",
+        "type": "masters",
+        "label": "Laurea magistrale in Mathematics",
+        "checkedAt": "2026-09-20T10:57:34.198Z",
+        "observedAt": "2026-09-20T10:57:34.198Z",
+        "contentHash": "2a5eba5f8a6339a7216067b00cd1c8968a4e446e1f6e540c40d81db562040595",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6692",
+        "type": "masters",
+        "label": "Laurea magistrale in Quantitative Finance",
+        "checkedAt": "2026-09-20T10:57:34.931Z",
+        "observedAt": "2026-09-20T10:57:34.931Z",
+        "contentHash": "bbe9aee95130a6d27a5e5847549abbe71cfdd0183fc516a41f977afc6dfc1822",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6810",
+        "type": "masters",
+        "label": "Laurea magistrale in Statistical Sciences",
+        "checkedAt": "2026-09-20T10:57:35.628Z",
+        "observedAt": "2026-09-20T10:57:35.628Z",
+        "contentHash": "992c3852009595c3c907a01071dcb3de1868134949dace453087aa9b3cf554ef",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6812",
+        "type": "masters",
+        "label": "Laurea magistrale in Statistical, Financial and Actuarial Sciences",
+        "checkedAt": "2026-09-20T10:57:37.284Z",
+        "observedAt": "2026-09-20T10:57:37.284Z",
+        "contentHash": "a5f0dc2c99d367bb007bf0c7c806f433744e51c23444d894a61e4cf1012484ef",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6811",
+        "type": "masters",
+        "label": "Laurea magistrale in Statistics, Economics and Business",
+        "checkedAt": "2026-09-20T10:57:39.925Z",
+        "observedAt": "2026-09-20T10:57:39.925Z",
+        "contentHash": "8e95d499bc8d570aa6faa7c4daf95a036ef9bb16fc1aeac656b85d46dd3adf6a",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8305,6 +8476,69 @@
         "url": "https://www.unipd.it/padua-international-excellence-scholarship-programme",
         "label": "Padua International Excellence Scholarship — Master's degrees",
         "status": "observed_official_search"
+      },
+      {
+        "url": "https://www.ingegneria.unipd.it/en/courses/second-cycle-degrees",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Padova",
+        "observedAt": "2026-09-20T10:12:03.310Z",
+        "checkedAt": "2026-09-20T10:12:03.310Z",
+        "contentHash": "758a965067c4b49c58defa48a1960a2ce82879349847c34c4db6dcb6c41274d9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/en/educational-offer/second-cycle-degrees/school-of-engineering?tipo=LM&scuola=IN",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Padova",
+        "observedAt": "2026-09-20T10:14:02.991Z",
+        "checkedAt": "2026-09-20T10:14:02.991Z",
+        "contentHash": "c2a3c2338fdff010a1678bcb679c607785e73e1eb6c1d305e7ef7cde53141622",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://apply.unipd.it/courses",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Padova",
+        "observedAt": "2026-09-20T10:00:24.647Z",
+        "checkedAt": "2026-09-20T10:00:24.647Z",
+        "contentHash": "1d0a28b4eaaa9c9180db36a3f38cca56530e97a978e1e17eec0e3e17cccff775",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://apply.unipd.it/courses/course/63-computer-science",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Padova",
+        "observedAt": "2026-09-20T09:57:11.748Z",
+        "checkedAt": "2026-09-20T09:57:11.748Z",
+        "contentHash": "5c245e4e8699776e8dfac67610a017408b04133a52bcb76ad2d6c0656903694b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ingegneria.unipd.it/en/courses/phd-programmes",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Padova",
+        "observedAt": "2026-09-20T10:14:04.918Z",
+        "checkedAt": "2026-09-20T10:14:04.918Z",
+        "contentHash": "bc203d9b25b53b3a9618e56342266bc17b8525a35bc7fb65a4d742714c4111ee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipd.it/en/corsi-di-laurea-magistrale",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Padova",
+        "observedAt": "2026-09-20T10:25:45.211Z",
+        "checkedAt": "2026-09-20T10:25:45.211Z",
+        "contentHash": "15853cf33c6fce966e14179f12875bb3aa576456bdc2ce1673aa22f596127422",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.dei.unipd.it/course-catalogues/",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Padova",
+        "observedAt": "2026-09-20T09:57:11.782Z",
+        "checkedAt": "2026-09-20T09:57:11.782Z",
+        "contentHash": "15e5485a9b4ee75ee7f932e052101c68317f5833685276a15344982ae6bcf9e0",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8326,6 +8560,141 @@
         "checkedAt": "2026-09-19T20:57:13.481Z",
         "contentHash": "3c59f26f50e9338886524ed744ab7d999425f19e5fe5ac2b57f4109986477611",
         "finalUrl": "https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/"
+      },
+      {
+        "url": "https://www.unipi.it/wp-content/plugins/unipi-cds/frontend/shortcodes/../assets/js/shortcode-scripts.js?ver=1.0",
+        "type": "research",
+        "label": "Catálogo oficial · Università di Pisa",
+        "observedAt": "2026-09-20T10:00:23.362Z",
+        "checkedAt": "2026-09-20T10:00:23.362Z",
+        "contentHash": "fa1f17b4fefe77e0f21b803e8d239ce121d9e9254f77059821b1626b79444d14",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/international-students/programmes-taught-in-english/",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Pisa",
+        "observedAt": "2026-09-20T09:57:05.575Z",
+        "checkedAt": "2026-09-20T09:57:05.575Z",
+        "contentHash": "66d168d8ca2a5ed2f2881ce0aed64490f10a2c245814d8cbc2716e84da398ae2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/master-degree/",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Pisa",
+        "observedAt": "2026-09-20T09:57:02.032Z",
+        "checkedAt": "2026-09-20T09:57:02.032Z",
+        "contentHash": "d3673ed5b65132f700e7429df36f8b89baf8e821351ce1a18b802e746ddd3b8d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/phd-programmes/",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Pisa",
+        "observedAt": "2026-09-20T10:00:20.802Z",
+        "checkedAt": "2026-09-20T10:00:20.802Z",
+        "contentHash": "971c3c449219c0c9e7e4e511e52280b12d39b864bff6b9c45df8f15199cd8e68",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/master-degree/biotechnologies-and-applied-artificial-intelligence-for-health-wbhr-lm-en/",
+        "type": "masters",
+        "label": "Laurea magistrale in Biotechnologies and applied artificial intelligence for health",
+        "checkedAt": "2026-09-20T10:52:45.609Z",
+        "observedAt": "2026-09-20T10:52:45.609Z",
+        "contentHash": "7472304799de55fcd0588e34e0f075fe75502d402fa766562435ed108fe1d325",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/master-degree/data-science-and-business-informatics-wdb-lm-en/",
+        "type": "masters",
+        "label": "Laurea magistrale in Data science and business informatics",
+        "checkedAt": "2026-09-20T10:52:48.281Z",
+        "observedAt": "2026-09-20T10:52:48.281Z",
+        "contentHash": "33e623da2f0ee32c243ac144b94e4cb0ff02e5fc51894dfee8559bdf0110a7ec",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/master-degree/computer-science-wif-lm-en/",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer science",
+        "checkedAt": "2026-09-20T10:52:49.851Z",
+        "observedAt": "2026-09-20T10:52:49.851Z",
+        "contentHash": "dec32d9f7b9a78dc89db4e4ae445b7d068b28cacc9a68f2f24825530170b15d9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/master-degree/digital-humanities-wfur-lm-en/",
+        "type": "masters",
+        "label": "Laurea magistrale in Digital humanities",
+        "checkedAt": "2026-09-20T10:52:51.366Z",
+        "observedAt": "2026-09-20T10:52:51.366Z",
+        "contentHash": "83a98cfc788b7b4fa5e1e55c0fb6bb15b955e1f3377673a2f5c9c9bb721f4a54",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/master-degree/informatics-for-digital-health-wdh-lm-en/",
+        "type": "masters",
+        "label": "Laurea magistrale in Informatics for digital health",
+        "checkedAt": "2026-09-20T10:52:52.943Z",
+        "observedAt": "2026-09-20T10:52:52.943Z",
+        "contentHash": "eb623884598e4d541ec037fd34d9a5af8c3dcc8aa6339d8d3d327dcd0632fa3b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/master-degree/mathematics-wmar-lm-en/",
+        "type": "masters",
+        "label": "Laurea magistrale in Mathematics",
+        "checkedAt": "2026-09-20T10:52:54.618Z",
+        "observedAt": "2026-09-20T10:52:54.618Z",
+        "contentHash": "b19da5c7be6223c84e37087a5834f4435116687d3919196254ff4ec611fb1ab2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/phd-programmes/physical-chemical-mathematical-and-biological-sciences/high-performance-scientific-computing/",
+        "type": "phd",
+        "label": "High Performance Scientific Computing",
+        "checkedAt": "2026-09-20T10:57:01.164Z",
+        "observedAt": "2026-09-20T10:57:01.164Z",
+        "contentHash": "4d78634db2e45dcc782b1b152b4beca43a5409de29bc96a477fee7452ec66828",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/phd-programmes/physical-chemical-mathematical-and-biological-sciences/mathematics/",
+        "type": "phd",
+        "label": "Mathematics",
+        "checkedAt": "2026-09-20T10:57:02.877Z",
+        "observedAt": "2026-09-20T10:57:02.877Z",
+        "contentHash": "6e58021c56e94e664d38f98d1472cdd56bd9b768ce07751f6a19e99ec4dc9416",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/phd-programmes/engineering-and-computer-sciences/computer-science/",
+        "type": "phd",
+        "label": "Computer Science",
+        "checkedAt": "2026-09-20T10:57:04.559Z",
+        "observedAt": "2026-09-20T10:57:04.559Z",
+        "contentHash": "37ed6e8fc9d90af4b53f00c74473d46345651687acd452f47588f851719c5b68",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/phd-programmes/engineering-and-computer-sciences/information-engineering/",
+        "type": "phd",
+        "label": "Information Engineering",
+        "checkedAt": "2026-09-20T10:57:06.205Z",
+        "observedAt": "2026-09-20T10:57:06.205Z",
+        "contentHash": "32b6571647b7c5fce94335659638fb89bfe95c9878479005888397f7a7a6cf8c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unipi.it/en/education/courses/phd-programmes/engineering-and-computer-sciences/smart-computing_eng/",
+        "type": "phd",
+        "label": "Smart computing (Università degli Studi di Firenze)",
+        "checkedAt": "2026-09-20T10:57:08.307Z",
+        "observedAt": "2026-09-20T10:57:08.307Z",
+        "contentHash": "5bc4563f2b7fd097824d9a4b93203609cb1a9c26bfcafa29df177c5e5d764d90",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8347,6 +8716,213 @@
         "checkedAt": "2026-09-19T20:57:14.137Z",
         "contentHash": "8c464ab04e63b0aa3f3b5456ac2fb4afa64de8aeff304744bbcca317f72c56a2",
         "finalUrl": "https://corsidilaurea.uniroma1.it/en/course/33519/presentation"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/pagina/dottorati-di-ricerca",
+        "type": "phd",
+        "label": "Catálogo oficial · Sapienza Università di Roma",
+        "observedAt": "2026-09-20T09:57:15.549Z",
+        "checkedAt": "2026-09-20T09:57:15.549Z",
+        "contentHash": "d218a951345480908c503d75c2bce7fd59028dfe2da98a571c291066bf8d9fe3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/pagina/elenco-dei-corsi-di-dottorato",
+        "type": "phd",
+        "label": "Catálogo oficial · Sapienza Università di Roma",
+        "observedAt": "2026-09-20T10:00:25.221Z",
+        "checkedAt": "2026-09-20T10:00:25.221Z",
+        "contentHash": "0a2036494cb45f006262e0300e915f2770210ccded910a5cdd0c945052ed9bef",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it",
+        "type": "masters",
+        "label": "Catálogo oficial · Sapienza Università di Roma",
+        "observedAt": "2026-09-20T09:57:14.692Z",
+        "checkedAt": "2026-09-20T09:57:14.692Z",
+        "contentHash": "19600df5972919d93e1a38f3c6f5f8511c8e0f4961eb6f87eb893fd915908f0a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33508",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer Science - Informatica",
+        "checkedAt": "2026-09-20T10:52:59.447Z",
+        "observedAt": "2026-09-20T10:52:59.447Z",
+        "contentHash": "ab0a0f02130e467e3ab34b4a6920d6ea41ef26be4a6a99469511fc0bd4a60cda",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33513",
+        "type": "masters",
+        "label": "Laurea magistrale in Artificial Intelligence – Intelligenza Artificiale",
+        "checkedAt": "2026-09-20T10:53:10.478Z",
+        "observedAt": "2026-09-20T10:53:10.478Z",
+        "contentHash": "5961a94d04db42e5e890ec42e5a07619b026e228e8610fbac6eb21423a8d71d3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33515",
+        "type": "masters",
+        "label": "Laurea magistrale in Engineering in Computer Science and Artificial Intelligence - Ingegneria Informatica e Intelligenza Artificiale",
+        "checkedAt": "2026-09-20T10:53:20.352Z",
+        "observedAt": "2026-09-20T10:53:20.352Z",
+        "contentHash": "344e48d46f8fb0cddf1904bd29e3c598c23c8a11487473a88759d79476c4d629",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33516",
+        "type": "masters",
+        "label": "Laurea magistrale in Cybersecurity",
+        "checkedAt": "2026-09-20T10:53:30.357Z",
+        "observedAt": "2026-09-20T10:53:30.357Z",
+        "contentHash": "a9723b9098719fb303cab8048a1447ce4ca47e6eb24a035ab9858a04f08156a2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33519",
+        "type": "masters",
+        "label": "Laurea magistrale in Data Science",
+        "checkedAt": "2026-09-20T10:53:40.309Z",
+        "observedAt": "2026-09-20T10:53:40.309Z",
+        "contentHash": "4ae5db9fb97b090d89d96f1342adb198d3ca760054506ac1ce6a59a6042bdf87",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33514",
+        "type": "masters",
+        "label": "Laurea magistrale in Artificial Intelligence and Robotics - Intelligenza Artificiale e Robotica",
+        "checkedAt": "2026-09-20T10:54:30.456Z",
+        "observedAt": "2026-09-20T10:54:30.456Z",
+        "contentHash": "ec525ca31b9f5b7b6dce5ec84f6b78590a88a2dc73378e2721347247d25594d5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33509",
+        "type": "masters",
+        "label": "Laurea magistrale in Control Engineering - Ingegneria Automatica",
+        "checkedAt": "2026-09-20T10:54:40.424Z",
+        "observedAt": "2026-09-20T10:54:40.424Z",
+        "contentHash": "9925a885846f7d00ba48dfb008281b5cfa36e05ee14f77102781e773262d3954",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33604",
+        "type": "masters",
+        "label": "Laurea magistrale in Matematica applicata",
+        "checkedAt": "2026-09-20T10:54:50.384Z",
+        "observedAt": "2026-09-20T10:54:50.384Z",
+        "contentHash": "0c8ebc568a883c61bf32877290bf28fea41a6d0fb3da61d89f6bac69f67430d3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33517",
+        "type": "masters",
+        "label": "Laurea magistrale in Statistical Methods and Applications - Metodi statistici e applicazioni",
+        "checkedAt": "2026-09-20T10:55:00.412Z",
+        "observedAt": "2026-09-20T10:55:00.412Z",
+        "contentHash": "1c64392645ab894530c8be603720407ae94a015c20ca64b16db0349a1f92f93f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsidilaurea.uniroma1.it/it/course/33518",
+        "type": "masters",
+        "label": "Laurea magistrale in Scienze statistiche - Statistical Sciences",
+        "checkedAt": "2026-09-20T10:55:50.478Z",
+        "observedAt": "2026-09-20T10:55:50.478Z",
+        "contentHash": "6b3226016aa353faaa00bb5d81fd88d7add5b90b32a6179c52d918d32d83e094",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/automatica-bioingegneria-e-ricerca-operativa",
+        "type": "phd",
+        "label": "Automatica, Bioingegneria e ricerca operativa",
+        "checkedAt": "2026-09-20T10:55:30.438Z",
+        "observedAt": "2026-09-20T10:55:30.438Z",
+        "contentHash": "dea3cb6bb8be87132fb62d0baf8c1d35806fbbba81473b108558d86773fbc1d3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/bioinformatica-e-biologia-computazionale",
+        "type": "phd",
+        "label": "Bioinformatica e Biologia Computazionale",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:55:41.056Z",
+        "contentHash": "5b8871a70dbc10d574a52dc66a4f6e677737a8b07aa6dbf3f1e36cbe976c4125",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/cybersecurity",
+        "type": "phd",
+        "label": "Cybersecurity",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:55:51.122Z",
+        "contentHash": "583f2f2e5946362c870089d8b20a53ef749d11b49f846ebf2d86465399e694f1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/data-science",
+        "type": "phd",
+        "label": "Data Science",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:56:01.603Z",
+        "contentHash": "068735528c9795ea062e7fc06cb81819ae0cc5e901419fca93d1d3fab6c431cb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/informatica",
+        "type": "phd",
+        "label": "Informatica",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:56:21.191Z",
+        "contentHash": "0996e7aed81b1c140bdf9b5bd63e4ecb4e6d1b83977b98b5e5d8c056b6f170de",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/ingegneria-informatica",
+        "type": "phd",
+        "label": "Ingegneria Informatica",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:56:31.293Z",
+        "contentHash": "5bde0e2e0ca8028855ff6b1944d026c89f3301ce210ab08f04dbbc84e5b4ecae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/intelligenza-artificiale",
+        "type": "phd",
+        "label": "Intelligenza Artificiale",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:56:41.188Z",
+        "contentHash": "5bb45f72b94d386aed02d4971a38b2e5ec7ca2f147c2d33896b946c4abd7ad49",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/matematica",
+        "type": "phd",
+        "label": "Matematica",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:56:51.542Z",
+        "contentHash": "66ce5eec992b652c9a178997b87c3e9dec3e2abf5432d14d6a31220a281d9129",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/modelli-matematici-lingegneria-elettromagnetismo-e-nanoscienze",
+        "type": "phd",
+        "label": "Modelli Matematici per l'Ingegneria, Elettromagnetismo e Nanoscienze",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:57:01.159Z",
+        "contentHash": "2e05cf66ae2482ea5dd74679aa945ad42beb14055e5ea951e8067c01d1b5feb2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uniroma1.it/it/offerta-formativa/dottorato/2026/scuola-di-scienze-statistiche",
+        "type": "phd",
+        "label": "Scuola di Scienze Statistiche",
+        "checkedAt": "2026-09-20T10:55:31.002Z",
+        "observedAt": "2026-09-20T10:57:11.088Z",
+        "contentHash": "f80c4441f8bb6f8e0b2b21f76bcec52f6defbfd66689e1b2524f5650b877ea6d",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8442,6 +9018,20 @@
         "url": "https://www.unitn.it/en/node/938",
         "label": "Fees, scholarships, accommodation",
         "status": "link_observed"
+      },
+      {
+        "url": "https://www.unitn.it/en/study/courses/masters-degrees",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Trento",
+        "observedAt": "2026-09-20T09:57:11.743Z",
+        "accessOutcome": "robots_unavailable_403"
+      },
+      {
+        "url": "https://www.unitn.it/en/study/courses/phd-programmes",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Trento",
+        "observedAt": "2026-09-20T09:57:11.747Z",
+        "accessOutcome": "robots_unavailable_403"
       }
     ],
     "tier": null,
@@ -8469,6 +9059,141 @@
         "url": "https://degree.units.it/en/0320107313600001/scholarship",
         "label": "Scholarships for Data Science and AI",
         "status": "link_observed"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=5",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:45.496Z",
+        "checkedAt": "2026-09-20T10:00:45.496Z",
+        "contentHash": "5e3487ba87171191511ad012c0262319280e57e3ea0a6b4d6adb9ee4f25ee896",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=4",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:43.095Z",
+        "checkedAt": "2026-09-20T10:00:43.095Z",
+        "contentHash": "99b826d19973e599654adecda887cfacc1614f74aafc5cf9de2ac920bb497407",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=8",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:50.774Z",
+        "checkedAt": "2026-09-20T10:00:50.774Z",
+        "contentHash": "7e2f56bcd6ca1e6dba731885491eb95e501a23c91702ceedd9f9f8237a96dcd6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/ricerca/dottorati/elenco-corsi",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T09:57:13.874Z",
+        "checkedAt": "2026-09-20T09:57:13.874Z",
+        "contentHash": "b5c38919ee92f4fcc2f9fd90a145220cdda71e3fcdfa8e97b86a43565235055c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=3",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:40.507Z",
+        "checkedAt": "2026-09-20T10:00:40.507Z",
+        "contentHash": "eeb5881b05bb07338756613b52548ebfefb304e11b8fc4a16f1572e666da4491",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=2",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:38.821Z",
+        "checkedAt": "2026-09-20T10:00:38.821Z",
+        "contentHash": "b48a65f588de4fba87d5917fa8aa9114dc268125bb54a91f522abc7d16c31f07",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=1",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:35.811Z",
+        "checkedAt": "2026-09-20T10:00:35.811Z",
+        "contentHash": "9bbd4d720f784aa9d04978df1ff09d5b9196d2105462494342cff9fbe8a54201",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T09:57:12.766Z",
+        "checkedAt": "2026-09-20T09:57:12.766Z",
+        "contentHash": "a9e5225f2929b3b5c13c8ffe436c722aa931427238c66432b855852ac6bd01b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=7",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:49.027Z",
+        "checkedAt": "2026-09-20T10:00:49.027Z",
+        "contentHash": "86d3dde28c2806ab9e02fb21b1ac00c0b546d9d3635ab00408cb9bcd09176833",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://portale.units.it/it/studiare/lauree-e-lauree-magistrali/corsi-di-laurea?page=6",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Trieste",
+        "observedAt": "2026-09-20T10:00:47.290Z",
+        "checkedAt": "2026-09-20T10:00:47.290Z",
+        "contentHash": "1e7e7545e316f5eb465414ce5219d03c37f31d24f361d310266c33551bacdb0d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://degree.units.it/2-data-science-ai",
+        "type": "masters",
+        "label": "Laurea magistrale in Data Science and Artificial Intelligence",
+        "checkedAt": "2026-09-20T10:57:21.310Z",
+        "observedAt": "2026-09-20T10:57:21.310Z",
+        "contentHash": "eea2032b14ac5bc4bfd580545f741effadb36538fd2e714b968c423d7a8faa49",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://degree.units.it/2-mathematics",
+        "type": "masters",
+        "label": "Laurea magistrale in Mathematics",
+        "checkedAt": "2026-09-20T10:57:23.683Z",
+        "observedAt": "2026-09-20T10:57:23.683Z",
+        "contentHash": "a0583cc01b440067ea636704a57a777e06b98260ee063a44021e3d54f166ebe5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://degree.units.it/2-computer-engineering",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer Engineering",
+        "checkedAt": "2026-09-20T10:57:25.287Z",
+        "observedAt": "2026-09-20T10:57:25.287Z",
+        "contentHash": "89e23c1d0560075cc114cd3398e5c0fc3eddb4f0c1312ccdf62140ae61b05aee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.units.it/data-science-ai",
+        "type": "phd",
+        "label": "PhD in Applied Data Science and Artificial Intelligence",
+        "checkedAt": "2026-09-20T10:57:27.695Z",
+        "observedAt": "2026-09-20T10:57:27.695Z",
+        "contentHash": "5e7f754f5793714fee130c4d87efd908732fa9a16b23941c866452b4c07a0112",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.units.it/ingegneria-industriale-informazione",
+        "type": "phd",
+        "label": "Dottorato in Ingegneria Industriale e dell'Informazione",
+        "checkedAt": "2026-09-20T10:57:29.254Z",
+        "observedAt": "2026-09-20T10:57:29.254Z",
+        "contentHash": "ad72b0dc3180e3bd738ca3f05bded1129aa7b1ebcdc96ff8c28294fb40684e2b",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8678,6 +9403,60 @@
         "checkedAt": "2026-09-19T20:57:19.068Z",
         "contentHash": "70d84983adffe7e48ad7765857901ed71316242e1add77c56cd15771b871b23b",
         "finalUrl": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z/parcours-artificial-intelligence-M2SWBAJI.html"
+      },
+      {
+        "url": "https://edmstii.univ-grenoble-alpes.fr/mstii-doctoral-school/mstii-doctoral-school-n-217-861140.kjsp",
+        "type": "phd",
+        "label": "Doctorat — École doctorale MSTII",
+        "checkedAt": "2026-09-20T10:58:32.820Z",
+        "observedAt": "2026-09-20T10:58:32.820Z",
+        "contentHash": "b3c4af12f1c38e7f0fd100a5a81dd80e50c66acd844cf2d179e3d0e4ed097a89",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB.html",
+        "type": "masters",
+        "label": "Catálogo oficial · Université Grenoble Alpes",
+        "observedAt": "2026-09-20T09:57:16.599Z",
+        "checkedAt": "2026-09-20T09:57:16.599Z",
+        "contentHash": "6285c5cf30bce23ff8180b300b89df793ae031a6886163f1ce28de7850c6d5d9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/doctorat-d-universite-YA/doctorat-IV3VS4E0.html",
+        "type": "phd",
+        "label": "Catálogo oficial · Université Grenoble Alpes",
+        "observedAt": "2026-09-20T09:57:18.463Z",
+        "checkedAt": "2026-09-20T09:57:18.463Z",
+        "contentHash": "9df87e8c8e1a07f373f70f0d394cc6fd1f436a4779f60524b19ba068a83585cd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+        "type": "masters",
+        "label": "Master Informatique",
+        "checkedAt": "2026-09-20T10:52:37.977Z",
+        "observedAt": "2026-09-20T10:52:37.977Z",
+        "contentHash": "195d6013cc25ed2945751069057b97ca5745f514caf21c3d2a8a565d5b7da483",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-mathematiques-et-applications-IAQKA8QE.html",
+        "type": "masters",
+        "label": "Master Mathématiques et applications",
+        "checkedAt": "2026-09-20T10:52:39.518Z",
+        "observedAt": "2026-09-20T10:52:39.518Z",
+        "contentHash": "2ff198025c9fe3710b0c2242b13b35208ff409ec995d51ea624523e1575260a1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-IDIVLQ8C.html",
+        "type": "masters",
+        "label": "Master Mathématiques et informatique appliquées aux sciences humaines et sociales (MIASHS)",
+        "checkedAt": "2026-09-20T10:52:40.403Z",
+        "observedAt": "2026-09-20T10:52:40.403Z",
+        "contentHash": "11e74de3a00e16fb0f34f47c3d722c97477517119832307885532154c5c227e3",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8692,13 +9471,49 @@
     "officialUrl": "https://math-interactions.u-bordeaux.fr/nos-formations/masters/master-mathematiques-appliquees-et-statistique",
     "sources": [
       {
-        "type": "masters",
         "url": "https://math-interactions.u-bordeaux.fr/nos-formations/masters/master-mathematiques-appliquees-et-statistique",
-        "label": "Oferta institucional en informática, datos o matemáticas",
-        "status": "http_content_retrieved",
-        "checkedAt": "2026-09-19T20:57:19.164Z",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Bordeaux",
+        "observedAt": "2026-09-20T09:57:22.593Z",
+        "checkedAt": "2026-09-20T09:57:22.593Z",
         "contentHash": "5c3760c87247ec4602b7b92ba569dc47b1fe0013cd21eded8e24397cdd0e178a",
-        "finalUrl": "https://math-interactions.u-bordeaux.fr/nos-formations/masters/master-mathematiques-appliquees-et-statistique"
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://math-interactions.u-bordeaux.fr/nos-formations/masters",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Bordeaux",
+        "observedAt": "2026-09-20T10:12:05.082Z",
+        "checkedAt": "2026-09-20T10:12:05.082Z",
+        "contentHash": "155a26d04c18564bb9a9f5af892cff957942d50243a546e3288427b7fca271d6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://doctorat.u-bordeaux.fr/avant-le-doctorat/les-ecoles-doctorales/MI",
+        "type": "phd",
+        "label": "Doctorat — Mathématiques et Informatique (ED 39)",
+        "checkedAt": "2026-09-20T10:58:39.484Z",
+        "observedAt": "2026-09-20T10:58:39.484Z",
+        "contentHash": "dc1bc8cea0c4d3a73e6f6b07f3dd634d0ac97b7ce050869420346ca2f883c482",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://doctorat.u-bordeaux.fr/avant-le-doctorat/les-ecoles-doctorales",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Bordeaux",
+        "observedAt": "2026-09-20T09:57:23.378Z",
+        "checkedAt": "2026-09-20T09:57:23.378Z",
+        "contentHash": "7259bf29b1c91f6cc48d5072dbe190465a9d371e9ead0cb5f3991906af8ed9d9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uf-mi.u-bordeaux.fr/mas/",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Bordeaux",
+        "observedAt": "2026-09-20T10:27:46.968Z",
+        "checkedAt": "2026-09-20T10:27:46.968Z",
+        "contentHash": "1bf1b8359f3cecda2bee53c68b1d1b2cacb4dea5802dc625b6ab539642c7170a",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8722,10 +9537,47 @@
         "finalUrl": "https://formations.univ-toulouse.fr/fr/les-formations/master-lmd-XB/informatique-IWX7963M/master-parcours-intelligence-artificielle-fondements-et-applications-iafa-FIN_5342.html"
       },
       {
-        "type": "phd",
         "url": "https://formations.univ-toulouse.fr/fr/les-formations/formation-doctorale.html",
-        "label": "Formación doctoral del catálogo territorial",
-        "status": "link_observed"
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Toulouse",
+        "observedAt": "2026-09-20T09:57:22.570Z",
+        "checkedAt": "2026-09-20T09:57:22.570Z",
+        "contentHash": "21544f36a7a782ce2d6b4c33bbf14cd8c9f58e99adb872cdb08b93d976e9f39e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ed-mitt.univ-toulouse.fr/",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Toulouse",
+        "observedAt": "2026-09-20T10:11:49.749Z",
+        "accessOutcome": "robots_disallowed"
+      },
+      {
+        "url": "https://formations.univ-toulouse.fr/fr/les-formations/master-lmd-XB.html",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Toulouse",
+        "observedAt": "2026-09-20T10:00:29.310Z",
+        "checkedAt": "2026-09-20T10:00:29.310Z",
+        "contentHash": "ec56e91f46277556eb2ee762c5e1b8fb39d0abe928771b028777abc633faf5f4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-toulouse.fr/fr/les-formations/master-lmd-XB/informatique-IWX7963M.html",
+        "type": "masters",
+        "label": "Master Informatique",
+        "checkedAt": "2026-09-20T10:52:42.734Z",
+        "observedAt": "2026-09-20T10:52:42.734Z",
+        "contentHash": "0e3f2921d78fc70901cbcd15cd06520a41ea50cdbb510543d28de9ae124e988f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-toulouse.fr/fr/les-formations/master-lmd-XB/mathematiques-et-applications-IY5KO1R2.html",
+        "type": "masters",
+        "label": "Master Mathématiques et applications",
+        "checkedAt": "2026-09-20T10:52:43.807Z",
+        "observedAt": "2026-09-20T10:52:43.807Z",
+        "contentHash": "3b763385bc178f80a8df7dfbc9b4042b8907104adbf4dfd6faa93dac610b431f",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8753,6 +9605,60 @@
         "url": "https://www.unistra.fr/recherche/doctorat",
         "label": "Doctorat",
         "status": "link_observed"
+      },
+      {
+        "url": "https://www.unistra.fr/fr/entites/ecole-doctorale/ecole-doctorale-mathematiques-sciences-linformation-et-lingenieur",
+        "type": "phd",
+        "label": "Doctorat — Mathématiques, sciences de l’information et de l’ingénieur (MSII, ED 269)",
+        "checkedAt": "2026-09-20T10:58:34.550Z",
+        "observedAt": "2026-09-20T10:58:34.550Z",
+        "contentHash": "28db51b1435b0b26da1d5f9d9c48d0cf944371cafa2439701cfa8cbbfeb9f5df",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.unistra.fr/fr/formations/doctorat-d-universite-DOC/doctorat-MKAYZQ4X.html",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Strasbourg",
+        "observedAt": "2026-09-20T09:57:21.292Z",
+        "checkedAt": "2026-09-20T09:57:21.292Z",
+        "contentHash": "f2c8a56d252077614691d9d9473431126a3942e3f29fac09c742e472bc33cc27",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.unistra.fr/fr/formations/master-MAS.html",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Strasbourg",
+        "observedAt": "2026-09-20T09:57:20.018Z",
+        "checkedAt": "2026-09-20T09:57:20.018Z",
+        "contentHash": "33963c50e791fbac432abd91b3f7684d0f87a6a9d6c8ab3aaa3af0e560c9b62d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.unistra.fr/fr/formations/master-MAS/master-informatique-ME192.html",
+        "type": "masters",
+        "label": "Master Informatique",
+        "checkedAt": "2026-09-20T10:52:39.559Z",
+        "observedAt": "2026-09-20T10:52:39.559Z",
+        "contentHash": "c186125601412413bf8cd52e9e3fbd5a6be354f9add19a7c763721bcdf530d1d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.unistra.fr/fr/formations/master-MAS/master-mathematiques-et-applications-ME195.html",
+        "type": "masters",
+        "label": "Master Mathématiques et applications",
+        "checkedAt": "2026-09-20T10:52:41.007Z",
+        "observedAt": "2026-09-20T10:52:41.007Z",
+        "contentHash": "0a679991eff4babcaf4ed55f28ca141014dc1d476bd1fab7d24193515ef13353",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.unistra.fr/fr/formations/master-MAS/master-optique-image-vision-multimedia-ME175.html",
+        "type": "masters",
+        "label": "Master Optique, image, vision, multimédia",
+        "checkedAt": "2026-09-20T10:52:41.858Z",
+        "observedAt": "2026-09-20T10:52:41.858Z",
+        "contentHash": "281442e7c1cd248e117d270151403d025bc8bfa4386428b0a0196e0aa0b13f58",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8767,13 +9673,38 @@
     "officialUrl": "https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac4-bac5/master/2324-master-informatique-pt-intelligence-artificielle-et-ses-applications-en-vision-et-robotique.html",
     "sources": [
       {
-        "type": "masters",
         "url": "https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac4-bac5/master/2324-master-informatique-pt-intelligence-artificielle-et-ses-applications-en-vision-et-robotique.html",
-        "label": "Oferta institucional en informática, datos o matemáticas",
-        "status": "http_content_retrieved",
-        "checkedAt": "2026-09-19T20:57:20.505Z",
-        "contentHash": "89c55f6bb0377cc3a0627f5c7f189cfbd7830f2c24f73de7dfbd145ea23fdc5c",
-        "finalUrl": "https://formations.univ-lorraine.fr/fr/diplomes-et-formations/bac4-bac5/master/2324-master-informatique-pt-intelligence-artificielle-et-ses-applications-en-vision-et-robotique.html"
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Lorraine",
+        "observedAt": "2026-09-20T09:57:26.757Z",
+        "checkedAt": "2026-09-20T09:57:26.757Z",
+        "contentHash": "ec0053cf931152c0683df462959137021ae07748fda608dbad11159887c6bddf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://doctorat.univ-lorraine.fr/node/100000717",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Lorraine",
+        "observedAt": "2026-09-20T10:00:31.988Z",
+        "accessOutcome": "https_required"
+      },
+      {
+        "url": "https://formations.univ-lorraine.fr/fr/17-master",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Lorraine",
+        "observedAt": "2026-09-20T10:00:31.143Z",
+        "checkedAt": "2026-09-20T10:00:31.143Z",
+        "contentHash": "b1e7481ae71062432c7f0c86384232b5c775edb8e86568eb3a5bb836751494be",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Lorraine",
+        "observedAt": "2026-09-20T09:57:26.769Z",
+        "checkedAt": "2026-09-20T09:57:26.769Z",
+        "contentHash": "cd14f74fbad74b3c3f9256bf0d1d57dbf99892dd1385446639c5c71dc919abe0",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8801,6 +9732,67 @@
         "url": "https://sciences-technologies.univ-lille.fr/informatique/formation/doctorat",
         "label": "Doctorado en informática",
         "status": "link_observed"
+      },
+      {
+        "url": "https://egmadis.univ-lille.fr/en/",
+        "type": "phd",
+        "label": "Doctorat — École Graduée MADIS-631",
+        "checkedAt": "2026-09-20T10:58:37.356Z",
+        "observedAt": "2026-09-20T10:58:37.356Z",
+        "contentHash": "f7451af19ff99d746baf1f6b7069c8092908050a8aa8a1fc6300d2b26b8e129a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.univ-lille.fr/formations",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Lille",
+        "observedAt": "2026-09-20T09:57:18.490Z",
+        "checkedAt": "2026-09-20T09:57:18.490Z",
+        "contentHash": "6754b03f4e2b950f5cc8b0a56a510db38f7f967663eedfe1ac2b3128254c93d4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formation.univ-lille.fr/",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Lille",
+        "observedAt": "2026-09-20T10:00:29.309Z",
+        "accessOutcome": "https_required"
+      },
+      {
+        "url": "https://egmadis.univ-lille.fr/presentation/specialites",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Lille",
+        "observedAt": "2026-09-20T10:11:49.209Z",
+        "checkedAt": "2026-09-20T10:11:49.209Z",
+        "contentHash": "4e0406092ee4965fe58afa9fba9fa98fbebd903148c28ea2d5dff25a0b0b8469",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://doctorat.univ-lille.fr/ecoles-graduees/",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Lille",
+        "observedAt": "2026-09-20T09:57:19.149Z",
+        "checkedAt": "2026-09-20T09:57:19.149Z",
+        "contentHash": "b6361de087a9d854ab9a1a9913cafe0264d57997fcc349c284bf206b3406911f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.univ-lille.fr/formations/typediplome/master",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Lille",
+        "observedAt": "2026-09-20T10:12:02.874Z",
+        "checkedAt": "2026-09-20T10:12:02.874Z",
+        "contentHash": "efc6e6a48d007de6cfd2eabf11ae28f9bcea648dc20704d49d5bc14ff1d79eb4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.univ-lille.fr/fileadmin/user_upload/Formation/trouver_sa_formation/MASTER_A4_OdeF_2025-2026_web.pdf",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Lille",
+        "observedAt": "2026-09-20T10:14:06.455Z",
+        "checkedAt": "2026-09-20T10:14:06.455Z",
+        "contentHash": "4de0f177e5ff2c006dae28ceff60f45bb51ee64f845bc26f2c565390aa44eb94",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -8897,6 +9889,186 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:27:39.244Z",
+        "checkedAt": "2026-09-19T23:27:39.244Z",
+        "contentHash": "e47e2fecc62efec42512289a39705e24e8ad25c1010e6ea51bdb019fcc221669",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/SzD2026/registration/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:27:39.849Z",
+        "checkedAt": "2026-09-19T23:27:39.849Z",
+        "contentHash": "a5ae4d03f9b31ae9cd6dc263dbbf117ed88997fe04c741d36aab1b96b7d5d161",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=2",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:31:55.375Z",
+        "checkedAt": "2026-09-19T23:31:55.375Z",
+        "contentHash": "036eea79e88ec3a356ec3c3727db91df8457dfab989ed7890c7be3311ab08956",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/SzD2026/registration/?page=2",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:38.970Z",
+        "checkedAt": "2026-09-19T23:35:38.970Z",
+        "contentHash": "3b40f8a523ee5b5ca6c20b6a0be93d77841c5d38837673f3a71e26eceb70be77",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=3",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:39.033Z",
+        "checkedAt": "2026-09-19T23:35:39.033Z",
+        "contentHash": "6e414fed94ae620bc788bf9dcb908456a607f36cc92b4eb1a641ba30225d2792",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=4",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:40.780Z",
+        "checkedAt": "2026-09-19T23:35:40.780Z",
+        "contentHash": "617aa3a9960b9a9f1370a3a6644ed588fa971c7e81962236672d6bdae64fcd5b",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=5",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:41.672Z",
+        "checkedAt": "2026-09-19T23:35:41.672Z",
+        "contentHash": "0dd517901614ece1f4459e27bb0577f0d60b0a8cf88f4743b343260727b7c3c6",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=6",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:42.544Z",
+        "checkedAt": "2026-09-19T23:35:42.544Z",
+        "contentHash": "d6f80ae3a7bf89b0388f72a1169076605d604937713858e3b77b1efc6adc375f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=7",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:43.471Z",
+        "checkedAt": "2026-09-19T23:35:43.471Z",
+        "contentHash": "7f6940293249296c7b0abb96113a0f4f8ee9572a2572f2329bf9e17a36bf3d25",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=8",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:44.421Z",
+        "checkedAt": "2026-09-19T23:35:44.421Z",
+        "contentHash": "a381fe9d16ce6624a1cedff57cda419d2774b36dc4454878cfb2ce5edc6d8396",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=9",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:45.322Z",
+        "checkedAt": "2026-09-19T23:35:45.322Z",
+        "contentHash": "20792119e25e02530a9881901825ba6425476ea5bdb80ed6ce695522933e1e11",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=10",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:46.159Z",
+        "checkedAt": "2026-09-19T23:35:46.159Z",
+        "contentHash": "37feeb93ec714ec81d3e02bc5a58e85e0848b387d90c68adb826389661c90499",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=11",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:47.115Z",
+        "checkedAt": "2026-09-19T23:35:47.115Z",
+        "contentHash": "f0e7d589c0ee44defbaa42dae9517bccb4ada8f3b087bceeda22b3d73665fd79",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=12",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:48.015Z",
+        "checkedAt": "2026-09-19T23:35:48.015Z",
+        "contentHash": "25d1fdefeed39e90fe551eafbb15917e1b4245a14a37102658bbf8fd8e18ad8b",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/registration/?page=13",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:48.904Z",
+        "checkedAt": "2026-09-19T23:35:48.904Z",
+        "contentHash": "f748730be25fd8bb35fa350bf43919f5a71c32dc7fa95106a9a66acb89ed7fd4",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/programme/S2-BIOINF/?from=registration:PELNE2026",
+        "label": "Master — Bioinformatyka i biologia systemów",
+        "observedAt": "2026-09-20T10:29:50.003Z",
+        "checkedAt": "2026-09-20T10:29:50.003Z",
+        "contentHash": "cd8271024521e49b5715b338c354de09f82b145eae438ed168e8bbd3d864909f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/programme/S2-DS/?from=registration:PELNE2026",
+        "label": "Master — Data Science and Business Analytics",
+        "observedAt": "2026-09-20T10:29:51.376Z",
+        "checkedAt": "2026-09-20T10:29:51.376Z",
+        "contentHash": "f96b1cc8adadd16168c696a38a358b82a8fea0568baa32789256b94fb4bcb9ef",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/programme/S2-INF/?from=registration:PELNE2026",
+        "label": "Master — Informatyka",
+        "observedAt": "2026-09-20T10:29:51.751Z",
+        "checkedAt": "2026-09-20T10:29:51.751Z",
+        "contentHash": "cab6960853aa3dd5e713bb012978f74cd0550ceef2b539aa2768d1867d49255f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/programme/S2-MAT/?from=registration:PELNE2026",
+        "label": "Master — Matematyka",
+        "observedAt": "2026-09-20T10:29:52.570Z",
+        "checkedAt": "2026-09-20T10:29:52.570Z",
+        "contentHash": "b5da44a47fb9c80366212cf2c123e16f7c97a5bb5c29dd494ecb9faf8b295b0e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://irk.uw.edu.pl/pl/offer/PELNE2026/programme/S2-FI/?from=registration:PELNE2026",
+        "label": "Master — Quantitative Finance",
+        "observedAt": "2026-09-20T10:29:53.328Z",
+        "checkedAt": "2026-09-20T10:29:53.328Z",
+        "contentHash": "67dfedef1cfcbdc7f3e08f9b8e037ff03b72e90e56e2d71577a51406255ccfba",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -8958,6 +10130,24 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://www.students.pw.edu.pl/Studies-Offer/M.Sc.-offer",
+        "label": "Catálogo oficial · Warsaw University of Technology",
+        "observedAt": "2026-09-19T23:17:17.362Z",
+        "checkedAt": "2026-09-19T23:17:17.362Z",
+        "contentHash": "05f805c4837ce21f0dedde747e6ca8a442276fa9cc2024564ae892c116235cb5",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.students.pw.edu.pl/index.php/Studies-Offer/M.Sc.-offer/Computer-Systems-and-Networks",
+        "label": "Master — Computer Science — Computer Systems and Networks",
+        "observedAt": "2026-09-20T10:29:53.199Z",
+        "checkedAt": "2026-09-20T10:29:53.199Z",
+        "contentHash": "5509d34d8b6f3e8da972bf1bb22dbc8f5ea8cc04b041afb4148653e2c148915e",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -8999,6 +10189,60 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uj.edu.pl/pl/offer/II_P_26/registration/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:31:54.098Z",
+        "checkedAt": "2026-09-19T23:31:54.098Z",
+        "contentHash": "5ad9e2b5d38a0b82ea420fbc1c5b247aae81408f1234fa1e99ebf1fb8f284e12",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uj.edu.pl/pl/offer/II_P_26/registration/?page=2",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:38.985Z",
+        "checkedAt": "2026-09-19T23:35:38.985Z",
+        "contentHash": "0c64fd0b28372a47b2b9f7331d3d56ca8e500d97b2c09a4058ea6a4ba1385890",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uj.edu.pl/pl/offer/II_P_26/registration/?page=3",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:39.664Z",
+        "checkedAt": "2026-09-19T23:35:39.664Z",
+        "contentHash": "94a8c7b2157899a3876485205f711957bce85aca2d20ec8c8a17ff749d648713",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uj.edu.pl/pl/offer/II_P_26/registration/?page=4",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:40.577Z",
+        "checkedAt": "2026-09-19T23:35:40.577Z",
+        "contentHash": "202fc12ed09d956dcba3631a137f296d5dc825a872894b45a87288d7185eabf9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uj.edu.pl/pl/offer/II_P_26/registration/?page=5",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:41.496Z",
+        "checkedAt": "2026-09-19T23:35:41.496Z",
+        "contentHash": "48d381231a28974a582015af0ade078bc317186989f578180dac670b989cc191",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://irk.uj.edu.pl/pl/offer/II_P_26/registration/?page=6",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:42.388Z",
+        "checkedAt": "2026-09-19T23:35:42.388Z",
+        "contentHash": "9f51b93d03d5388718db73a4e6643c01cef61e40019d2d88a70f76009775a548",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -9040,6 +10284,24 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.agh.edu.pl/kierunki-studiow/",
+        "label": "Catálogo oficial · AGH University of Krakow",
+        "observedAt": "2026-09-19T23:22:59.072Z",
+        "checkedAt": "2026-09-19T23:22:59.072Z",
+        "contentHash": "de661094510453fdeb08fd1d4c9b0f1c98e9b2e03bd74d1c86cee26684ed8bef",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.agh.edu.pl/kierunki-studiow/remote-sensing-and-geo-informatics/",
+        "label": "Master — Remote Sensing and Geo Informatics",
+        "observedAt": "2026-09-20T10:29:29.427Z",
+        "checkedAt": "2026-09-20T10:29:29.427Z",
+        "contentHash": "77ca417603da0f918a59c98798a50af8eaceae9dcfcb8924777b962cfa507a1b",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -9583,6 +10845,123 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "research",
+        "url": "https://tatk.elte.hu/en/studies/ma",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:32:07.700Z",
+        "checkedAt": "2026-09-19T23:32:07.700Z",
+        "contentHash": "e0e28295390f1e16bce484181f0c529b7e026e2174523500ef617dd06fd6730f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://btk.elte.hu/en/master-programmes",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:32:07.700Z",
+        "checkedAt": "2026-09-19T23:32:07.700Z",
+        "contentHash": "75f34fff76b9c09ebe4a53fa35f256369a52ea32dc84fe8bcc35645b6503b99e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.inf.elte.hu/en/doctoral-training-programmes",
+        "label": "Doctorado — Informatics",
+        "observedAt": "2026-09-20T10:29:14.965Z",
+        "checkedAt": "2026-09-20T10:29:14.965Z",
+        "contentHash": "d5d6c3fef13d4151ed2b38a608622c0ffa499dbe1a047d81a62126030cd88cae",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.inf.elte.hu/en/master-programmes",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:32:07.693Z",
+        "checkedAt": "2026-09-19T23:32:07.693Z",
+        "contentHash": "ba497026db58e3d4206daa18db2928db76f0b0d288c694ec5d12bb2d3e2ecb06",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.elte.hu/en/doctoral-school-of-mathematics",
+        "label": "Doctorado — Mathematics",
+        "observedAt": "2026-09-20T10:29:15.725Z",
+        "checkedAt": "2026-09-20T10:29:15.725Z",
+        "contentHash": "2e21d7cbfe4039bcf6fcc942150f8976f2513c752790684f9b5336f31190c7f9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.elte.hu/en/applied-mathematics-msc",
+        "label": "Master — Applied Mathematics",
+        "observedAt": "2026-09-20T10:29:16.331Z",
+        "checkedAt": "2026-09-20T10:29:16.331Z",
+        "contentHash": "29c040a65857d13bd4c7504d02ae84a74f1c0d5f81335c27afb43b1369ae5eb9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://tatk.elte.hu/en/studies/computationalma",
+        "label": "Master — Computational Social and Behavioral Science",
+        "observedAt": "2026-09-20T10:29:16.358Z",
+        "checkedAt": "2026-09-20T10:29:16.358Z",
+        "contentHash": "689cc33efa02637a20bc2ede02fcd0db3cad8a3b5968683e31b839a129897409",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.inf.elte.hu/en/msc-computer-science-CS",
+        "label": "Master — Computer Science",
+        "observedAt": "2026-09-20T10:29:16.997Z",
+        "checkedAt": "2026-09-20T10:29:16.997Z",
+        "contentHash": "b3779866342e8ee4216d45b93b09d83f5d1a6fb75ffac46a6f0b9bab665a1687",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.inf.elte.hu/en/msc-computer-science-for-autonomous-systems",
+        "label": "Master — Computer Science for Autonomous Systems",
+        "observedAt": "2026-09-20T10:29:17.425Z",
+        "checkedAt": "2026-09-20T10:29:17.425Z",
+        "contentHash": "aa127eaec50cf3fe3853d94425eabedb0caf3c97838740ad1a66f3e625b4b57e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.inf.elte.hu/en/data-science-msc-elte",
+        "label": "Master — Data Science",
+        "observedAt": "2026-09-20T10:29:19.030Z",
+        "checkedAt": "2026-09-20T10:29:18.245Z",
+        "contentHash": "4c7ab1f94dfc8071959347f7f5681fe016b9d07e94671cb6f0a85c2f598fa526",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.inf.elte.hu/en/erasmus-mundus-joint-master-in-intelligent-field-robotic-systems",
+        "label": "Master — Intelligent Field Robotic Systems — IFRoS",
+        "observedAt": "2026-09-20T10:29:19.830Z",
+        "checkedAt": "2026-09-20T10:29:19.830Z",
+        "contentHash": "a8634b06a0b067b37e584820d7e541fb4cdc27bd66533872558005f164b9ea32",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.elte.hu/en/mathematics-msc",
+        "label": "Master — Mathematics",
+        "observedAt": "2026-09-20T10:29:19.027Z",
+        "checkedAt": "2026-09-20T10:29:19.027Z",
+        "contentHash": "6f2dc9f07eb2cead7f2941810f9a3110d9d16d8b4c21c259068cb9839f5e78b0",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://tatk.elte.hu/en/studies/surveydatamsc",
+        "label": "Master — Survey Statistics and Data Analytics",
+        "observedAt": "2026-09-20T10:29:19.049Z",
+        "checkedAt": "2026-09-20T10:29:19.049Z",
+        "contentHash": "0708cf4d79c77384f910922b38be31f56aac55c9ce3c446484793b0b2749d388",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -9634,6 +11013,114 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://felvi.bme.hu/szakkereso?szint=2",
+        "label": "Catálogo oficial · Budapest University of Technology and Economics",
+        "observedAt": "2026-09-19T23:25:09.715Z",
+        "checkedAt": "2026-09-19T23:25:09.715Z",
+        "contentHash": "b8e67bc12336e2854cb7bbd3fe4398435b4fef23c18d0e13f69e70548277b045",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://xplore.bme.hu/available-programmes/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:28:34.263Z",
+        "checkedAt": "2026-09-19T23:28:34.263Z",
+        "contentHash": "34d92c0ebc66c49ae2c7cc48286ec0107cd147b0d8331781af16542a5170f5ee",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://xplore.bme.hu/programme/phd-in-informatics/",
+        "label": "Doctorado — Informatics",
+        "observedAt": "2026-09-20T10:29:05.881Z",
+        "checkedAt": "2026-09-20T10:29:05.881Z",
+        "contentHash": "bbe9800e853cbf35b15b1edf2f6bb4b182b0a6f47991c2043e8f01f2f9fe2ea9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://xplore.bme.hu/programme/phd-in-mathematics-and-computer-science/",
+        "label": "Doctorado — Mathematics and Computer Science",
+        "observedAt": "2026-09-20T10:29:08.105Z",
+        "checkedAt": "2026-09-20T10:29:08.105Z",
+        "contentHash": "7c74b18d77cc9a0dbec20054736bfeeded028d3cbcf8b2a5fed8f66d2e4ba80d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://xplore.bme.hu/programme/applied-mathematics-msc/",
+        "label": "Master — Applied Mathematics",
+        "observedAt": "2026-09-20T10:29:09.313Z",
+        "checkedAt": "2026-09-20T10:29:09.313Z",
+        "contentHash": "99e7f19bbc80de33fadf4b5a98f810fa05669c1668544240d467a36a9b2ac47c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://xplore.bme.hu/programme/master-in-artificial-intelligence-msc-program/",
+        "label": "Master — Artificial Intelligence",
+        "observedAt": "2026-09-20T10:29:10.579Z",
+        "checkedAt": "2026-09-20T10:29:10.579Z",
+        "contentHash": "c629230f1372f7857079b876f7f3621337497496c8f578b9d5fb1604fdef7620",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://xplore.bme.hu/programme/autonomous-vehicle-control-engineer-msc/",
+        "label": "Master — Autonomous Vehicle Control Engineer",
+        "observedAt": "2026-09-20T10:29:11.845Z",
+        "checkedAt": "2026-09-20T10:29:11.845Z",
+        "contentHash": "8d9ae1a8bdb95e42895a394598b426c31d889ac893b6f64f4124e0dfde8ae8bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://xplore.bme.hu/programme/computer-science-engineer-msc/",
+        "label": "Master — Computer Science Engineer",
+        "observedAt": "2026-09-20T10:29:13.172Z",
+        "checkedAt": "2026-09-20T10:29:12.576Z",
+        "contentHash": "82be8d0c4cbc74c4511cf0e75422be7fcc5b58a88fb37243acd22569580fa78a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://xplore.bme.hu/programme/consrtuction-information-technology-engineer-msc/",
+        "label": "Master — Construction Information Technology Engineer",
+        "observedAt": "2026-09-20T10:29:14.434Z",
+        "checkedAt": "2026-09-20T10:29:14.434Z",
+        "contentHash": "62cdf4af2bf62c3baa8346261739543b841cf168995da434b054fa7f86e7aee7",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://felvi.bme.hu/szak/gazdasaginformatikus_msc",
+        "label": "Master — Gazdaságinformatikus MSc — Business Informatics",
+        "observedAt": "2026-09-20T10:29:11.865Z",
+        "checkedAt": "2026-09-20T10:29:11.865Z",
+        "contentHash": "84f6db53a1c833672d2aa45e87dea720bac7f939f1231511014c01e83dbcbb27",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://xplore.bme.hu/programme/land-surveying-and-geographical-information-systems-engineering-msc/",
+        "label": "Master — Land Surveying and Geographical Information Systems Engineering",
+        "observedAt": "2026-09-20T10:29:15.706Z",
+        "checkedAt": "2026-09-20T10:29:15.706Z",
+        "contentHash": "24b984b2de7745e3519bef4871f86c0df835750d8dab9283f0757988d9d2deb3",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://xplore.bme.hu/programme/mathematics-msc-2/",
+        "label": "Master — Mathematics",
+        "observedAt": "2026-09-20T10:29:16.980Z",
+        "checkedAt": "2026-09-20T10:29:16.980Z",
+        "contentHash": "5e600cd12e1cd75bed964feb73ea4e83b6e6d0b08cb7b14adeba6e4d6d3e06c6",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -9669,12 +11156,11 @@
       {
         "type": "masters",
         "url": "https://u-szeged.hu/english/masters-programmes/mathematics-msc",
-        "label": "Szegedi Tudományegyetem | Mathematics (MSc)",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Master — Mathematics",
+        "observedAt": "2026-09-20T10:29:29.354Z",
+        "checkedAt": "2026-09-20T10:29:29.354Z",
+        "contentHash": "66f0ca534a8dfffaa43d58ea6143f4ee04d449babb2c67fd4f89d16e5747f8cb",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -9695,6 +11181,78 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://u-szeged.hu/english/master-programmes",
+        "label": "Catálogo oficial · University of Szeged",
+        "observedAt": "2026-09-19T22:09:23.362Z",
+        "checkedAt": "2026-09-19T22:09:23.362Z",
+        "contentHash": "3befd3c7935fe8f5285a1201140531d6ca2039a5ba8b0b7117cd1b27dad52c42",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://u-szeged.hu/doctoral/doctoral-schools?folderID=20702&objectParentFolderId=20702",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:25:10.560Z",
+        "checkedAt": "2026-09-19T23:25:10.560Z",
+        "contentHash": "a481dcaf2de932eb06a54dd788272cafe807155c33c481938fc66cdfbcfa9171",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://u-szeged.hu/doctoral/computer-science-phd-241216",
+        "label": "Doctorado — Computer Science",
+        "observedAt": "2026-09-20T10:29:23.343Z",
+        "checkedAt": "2026-09-20T10:29:23.343Z",
+        "contentHash": "60b939ebcb1cfee010c52e47e8c7d944a2693c43ac94ddc13ac76267b197da87",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://u-szeged.hu/english/study-programmes/geosciences-phd",
+        "label": "Doctorado — Geosciences",
+        "observedAt": "2026-09-20T10:29:24.404Z",
+        "checkedAt": "2026-09-20T10:29:24.404Z",
+        "contentHash": "fe09ade8cc4c8f32e6e1dbdeb9d58897c8beae0a253089ab565c26da03520c32",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://u-szeged.hu/english/study-programmes/mathematics-phd",
+        "label": "Doctorado — Mathematics",
+        "observedAt": "2026-09-20T10:29:25.468Z",
+        "checkedAt": "2026-09-20T10:29:25.468Z",
+        "contentHash": "7fdb42f61753628e4da30908e7ff987133464be8751c3b59450f018b6c5b03e0",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://u-szeged.hu/english/applied-mathematics-msc",
+        "label": "Master — Applied Mathematics",
+        "observedAt": "2026-09-20T10:29:26.349Z",
+        "checkedAt": "2026-09-20T10:29:26.349Z",
+        "contentHash": "228ea51c5e0cdcf42bcb0c812713499cacd9b84dd87cb74532252ae4689c0f09",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://u-szeged.hu/english/study-programmes/computer-science-msc",
+        "label": "Master — Computer Science",
+        "observedAt": "2026-09-20T10:29:27.476Z",
+        "checkedAt": "2026-09-20T10:29:27.476Z",
+        "contentHash": "253be892ae58b1825f3bce43a1cc2873442a8b542850bcc6f6a001521c9758a1",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://u-szeged.hu/english/geoinformatics-msc",
+        "label": "Master — Geoinformatics",
+        "observedAt": "2026-09-20T10:29:28.445Z",
+        "checkedAt": "2026-09-20T10:29:28.445Z",
+        "contentHash": "4901268d5dc0d80b4c7950d019e12ca0731e5301eb00ffb3e14254d3e709835f",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -9726,6 +11284,87 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://edu.unideb.hu/p/master-programs",
+        "label": "Catálogo oficial · University of Debrecen",
+        "observedAt": "2026-09-19T23:25:10.939Z",
+        "checkedAt": "2026-09-19T23:25:10.939Z",
+        "contentHash": "cfb10069f7dcbbaffd34d5ef63dbac0eb63ec7b43e04d168f89840f34ad80026",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://edu.unideb.hu/p/phddoctoral-programs",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T22:08:56.730Z",
+        "checkedAt": "2026-09-19T22:08:56.730Z",
+        "contentHash": "44c44dac905dc28e32de7003f15ed6fc0de40c2f058cda8ce8a60857e639a6c1",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://edu.unideb.hu/p/informatics-phd",
+        "label": "Doctorado — Informatics",
+        "observedAt": "2026-09-20T10:29:20.235Z",
+        "checkedAt": "2026-09-20T10:29:20.235Z",
+        "contentHash": "7ff1980ba0f8cf75fd7eedbb59b06d65aef2c84bd5452accfd216c262adac9b8",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://edu.unideb.hu/p/applied-mathematics-msc",
+        "label": "Master — Applied Mathematics",
+        "observedAt": "2026-09-20T10:29:20.779Z",
+        "checkedAt": "2026-09-20T10:29:20.779Z",
+        "contentHash": "895260b8206f9db52ea952c122a2c03d2998038f8fb70ab1c0430ed2dc3b024d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://edu.unideb.hu/p/artificial-intelligence-msc",
+        "label": "Master — Artificial Intelligence",
+        "observedAt": "2026-09-20T10:29:21.715Z",
+        "checkedAt": "2026-09-20T10:29:21.715Z",
+        "contentHash": "a423341d9aa9c52b4ceb9c99216d5c060802fd92a7f05e9497b904b29c8c8772",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://edu.unideb.hu/p/business-informatics-msc",
+        "label": "Master — Business Informatics",
+        "observedAt": "2026-09-20T10:29:22.525Z",
+        "checkedAt": "2026-09-20T10:29:22.525Z",
+        "contentHash": "ccb05fb77b72f6091290c90597299abcf4c4784bb794407d7e60feb1c1f4f70a",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://edu.unideb.hu/p/computer-science-msc",
+        "label": "Master — Computer Science",
+        "observedAt": "2026-09-20T10:29:23.330Z",
+        "checkedAt": "2026-09-20T10:29:23.330Z",
+        "contentHash": "7b431b2d3ab3ba27fc23ec25b2c645a4a53e01bbe19def95516b120d9ab23611",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://edu.unideb.hu/p/computer-science-engineering-msc",
+        "label": "Master — Computer Science Engineering",
+        "observedAt": "2026-09-20T10:29:24.180Z",
+        "checkedAt": "2026-09-20T10:29:24.180Z",
+        "contentHash": "3bfa0ea578f3707cfac4f0ea0406b986c9f7e9ac77ef2e31ff2b0d5f1247ac02",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://edu.unideb.hu/p/data-science-msc",
+        "label": "Master — Data Science",
+        "observedAt": "2026-09-20T10:29:24.929Z",
+        "checkedAt": "2026-09-20T10:29:24.929Z",
+        "contentHash": "62ae72e7cecec496dccbba56921d1c256c86df2cd2f14ddaeb9fff59f5305b0e",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -10370,6 +12009,51 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/?s-level=s2",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:28:47.987Z",
+        "checkedAt": "2026-09-19T23:28:47.987Z",
+        "contentHash": "ab90bcbd3e43b77bd132839b71c02afbadbed8957863e6afdb3e20613d64283f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-stosowanaw-j-angielskim/",
+        "label": "Master — Applied Computer Science — Computer Engineering",
+        "observedAt": "2026-09-20T10:29:53.783Z",
+        "checkedAt": "2026-09-20T10:29:53.783Z",
+        "contentHash": "f7de3881d9b59fffc60c80be6a46e8cfb06cd2f9595a3f0a5d6936f6739ea516",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/applied-mathematics/",
+        "label": "Master — Applied Mathematics",
+        "observedAt": "2026-09-20T10:29:55.354Z",
+        "checkedAt": "2026-09-20T10:29:55.354Z",
+        "contentHash": "235c63a479ff866389f2f8ecf205bb39cdcd06a8ad738dfe85b57d27874da663",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-techniczna-w-j-angielskim/",
+        "label": "Master — Computer Engineering",
+        "observedAt": "2026-09-20T10:29:56.457Z",
+        "checkedAt": "2026-09-20T10:29:56.457Z",
+        "contentHash": "8a8e2490663da3f11098db05b393268180ae0186f1125946be1f4a2abdefaa9d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/automatyka-i-robotyka-w-j-angielskim/",
+        "label": "Master — Control Engineering and Robotics — Embedded Robotics",
+        "observedAt": "2026-09-20T10:30:03.946Z",
+        "checkedAt": "2026-09-20T10:29:57.239Z",
+        "contentHash": "b0928edb2c97c0ba92ceae6a526ee908f495baacdf6d370279b7a572ced48889",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -10415,12 +12099,11 @@
       {
         "type": "phd",
         "url": "https://pg.edu.pl/en/doctoral-school/candidates/disciplines/itit",
-        "label": "information and communication technology [ITiT] | Gdańsk University of Technology",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Doctorado — Information and Communication Technology",
+        "observedAt": "2026-09-20T10:29:31.956Z",
+        "checkedAt": "2026-09-20T10:29:31.956Z",
+        "contentHash": "2f9ec10c12c6c45c9d1a4c76367cb0d043dcb55fe5e7f82149cf589820e6bbda",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -10441,6 +12124,123 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses?level=2",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:28:48.865Z",
+        "checkedAt": "2026-09-19T23:28:48.865Z",
+        "contentHash": "ef13d2d88c924ad5a50f2485907944b27e2dfabc1c61a1014389a4aa32fc761e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses?level=2&p=2",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:31:54.148Z",
+        "checkedAt": "2026-09-19T23:31:54.148Z",
+        "contentHash": "49d7dbdf862378a2b454bbd31adf961f348cd6cdb81d9b3bd5bcd715bc8da5fe",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses?level=2&p=3",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:31:55.886Z",
+        "checkedAt": "2026-09-19T23:31:55.886Z",
+        "contentHash": "b79e571d5bbf34b245b9ab842e9e24cb07b77236937b5051ff347f209a918b4f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://pg.edu.pl/en/doctoral-school/candidates/disciplines",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:25:08.087Z",
+        "checkedAt": "2026-09-19T23:25:08.087Z",
+        "contentHash": "38988a439485016892e3a3cc0801f64c0e409b461507db4ffa2e5b08d03a4081",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://pg.edu.pl/en/doctoral-school/candidates/disciplines/aeeitk",
+        "label": "Doctorado — Automation, Electronics, Electrical Engineering and Space Technologies",
+        "observedAt": "2026-09-20T10:29:31.295Z",
+        "checkedAt": "2026-09-20T10:29:31.295Z",
+        "contentHash": "3d4af041a34de3a620b2e3c3f056b961785bb4eb8c51fe786cdf03aef0f27aff",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://pg.edu.pl/en/doctoral-school/candidates/disciplines/m",
+        "label": "Doctorado — Mathematics",
+        "observedAt": "2026-09-20T10:29:32.584Z",
+        "checkedAt": "2026-09-20T10:29:32.584Z",
+        "contentHash": "60dc70b6ec7fcf6c8cd0755313e082df81725282a5de537fb528e3acbb7b7715",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses/18791",
+        "label": "Master — Automatic Control, Cybernetics and Robotics",
+        "observedAt": "2026-09-20T10:29:32.592Z",
+        "checkedAt": "2026-09-20T10:29:32.592Z",
+        "contentHash": "14d8e517244cedac0888698d4abeaa1417c7c7a54777f8100746727ab53e9a7f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses/18595",
+        "label": "Master — Automation, Robotics and Control Systems",
+        "observedAt": "2026-09-20T10:29:33.544Z",
+        "checkedAt": "2026-09-20T10:29:33.544Z",
+        "contentHash": "91d3dd72bcae23a361623c07296fefc83fb54eacdd73b2b60c3fb2596711d72e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses/18348",
+        "label": "Master — Economic Analytics",
+        "observedAt": "2026-09-20T10:29:34.280Z",
+        "checkedAt": "2026-09-20T10:29:34.280Z",
+        "contentHash": "33bb1d3ed4a8055d624524e6026b2a00f6eaa2345d4645f7dac49d7272e57d47",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses/18699",
+        "label": "Master — Electronics and Telecommunications",
+        "observedAt": "2026-09-20T10:29:35.102Z",
+        "checkedAt": "2026-09-20T10:29:35.102Z",
+        "contentHash": "013d306f6a3de534e501c95d13df08962de471a8c7eda24bc6f61e7ce247a986",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses/18143",
+        "label": "Master — InfoBioChem",
+        "observedAt": "2026-09-20T10:29:36.689Z",
+        "checkedAt": "2026-09-20T10:29:36.689Z",
+        "contentHash": "9432467ca49d90e42229c6867d15646a5a53111eb5eae36e4b78fbc8122667a9",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses/18710",
+        "label": "Master — Informatics",
+        "observedAt": "2026-09-20T10:29:37.522Z",
+        "checkedAt": "2026-09-20T10:29:37.522Z",
+        "contentHash": "25f9a90e4115ba39f652cc3479e8026c990621fc3fd6564276215d652b86c214",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://ects.pg.edu.pl/en/courses/18533",
+        "label": "Master — Mathematics",
+        "observedAt": "2026-09-20T10:29:39.219Z",
+        "checkedAt": "2026-09-20T10:29:39.219Z",
+        "contentHash": "2b07a63430fccac5ef8fb42a298b9a8d445e3f82d85650d951a11dc9f086aaa9",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -10476,12 +12276,11 @@
       {
         "type": "masters",
         "url": "https://put.poznan.pl/en/second-cycle-msc-programmes",
-        "label": "Second-cycle (M.Sc.) programmes",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Catálogo oficial · Poznan University of Technology",
+        "observedAt": "2026-09-19T23:17:18.817Z",
+        "checkedAt": "2026-09-19T23:17:18.817Z",
+        "contentHash": "e56dc55bf1b205591c07ea1108c9a5285dcf774c89571172ddf32f1787993b39",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -10512,6 +12311,78 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "research",
+        "url": "https://www.put.poznan.pl/en/karty-ects",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:35:11.264Z",
+        "checkedAt": "2026-09-19T23:35:11.264Z",
+        "contentHash": "ede3de8666961cd4f6823f24fa9f9aa34158bcdc39921c421a15aaaa7be321ea",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:25:07.181Z",
+        "checkedAt": "2026-09-19T23:25:07.181Z",
+        "contentHash": "fd2b7e31b62a17a9aaa820cfcb18b53671d3632a0bbb59c8e0adf2c4d99be790",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://put.poznan.pl/en/kierunek/sztuczna-inteligencjaartificial-intelligence-0",
+        "label": "Master — Artificial Intelligence",
+        "observedAt": "2026-09-20T10:29:39.173Z",
+        "checkedAt": "2026-09-20T10:29:39.173Z",
+        "contentHash": "3ed17a2741d300c312ee0b393bd0c7b544d1e84978e1f16addf64cac9396b4e3",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://put.poznan.pl/en/kierunek/automatyka-i-robotykaautomatic-control-and-robotics-0",
+        "label": "Master — Automatic Control and Robotics",
+        "observedAt": "2026-09-20T10:29:40.610Z",
+        "checkedAt": "2026-09-20T10:29:40.610Z",
+        "contentHash": "84f471014c81faed79ddcd32f1ab5f7958f317731f08a4f709e1965aa9c93409",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.put.poznan.pl/en/karty-ects/2026_2027/Bioinformatyka/stacjonarne/studia%20drugiego%20stopnia",
+        "label": "Master — Bioinformatics",
+        "observedAt": "2026-09-20T10:29:39.903Z",
+        "checkedAt": "2026-09-20T10:29:39.903Z",
+        "contentHash": "e60e5647eb46c740f300c1b33313c44abb97926598cf6a5185c018104479da89",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://put.poznan.pl/en/kierunek/informatykacomputing",
+        "label": "Master — Computing",
+        "observedAt": "2026-09-20T10:29:41.918Z",
+        "checkedAt": "2026-09-20T10:29:41.918Z",
+        "contentHash": "7a721669d957632a95d97597b8199804dbf019dd6cdc0c527ea780e6018db5aa",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://put.poznan.pl/en/kierunek/elektronika-i-telekomunikacjaelectronics-and-telecommunications-1",
+        "label": "Master — Electronics and Telecommunications",
+        "observedAt": "2026-09-20T10:29:43.041Z",
+        "checkedAt": "2026-09-20T10:29:43.041Z",
+        "contentHash": "f3d98e7bcc185dca59ac41462a1559b4aa50d5e8706eb1bfb32caef3332a4d0f",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://put.poznan.pl/en/kierunek/technologie-informacyjne-dla-inteligentnej-i-zrownowazonej-mobilnosci-information",
+        "label": "Master — Information Technology for Smart and Sustainable Mobility",
+        "observedAt": "2026-09-20T10:29:44.114Z",
+        "checkedAt": "2026-09-20T10:29:44.114Z",
+        "contentHash": "c97703b2d90f07f424fffa604ccdc4611f8a66373ab1395c8cbed59365fc628c",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -10583,6 +12454,42 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "type": "masters",
+        "url": "https://www.rekrutacja.amu.edu.pl/en/studies-programmes?levelOfEducation=U",
+        "label": "Catálogo oficial · Adam Mickiewicz University",
+        "observedAt": "2026-09-19T23:25:06.905Z",
+        "checkedAt": "2026-09-19T23:25:06.905Z",
+        "contentHash": "d0211cada2058d6665871f75b0c503904af057f0ad7aa6001c0c3f0b3ca76274",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.rekrutacja.amu.edu.pl/en/studies-cataloge/computer-science,635",
+        "label": "Master — Computer Science",
+        "observedAt": "2026-09-20T10:29:27.480Z",
+        "checkedAt": "2026-09-20T10:29:27.480Z",
+        "contentHash": "13800c45b254af0823d260f28157d2dea62cc2d4b20cb0e375d326674d2bef02",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.rekrutacja.amu.edu.pl/en/studies-cataloge/data-analysis-and-processing,11",
+        "label": "Master — Data Analysis and Processing",
+        "observedAt": "2026-09-20T10:29:29.420Z",
+        "checkedAt": "2026-09-20T10:29:29.420Z",
+        "contentHash": "368c23cba2f66e926e2b86d388f27a11945eef65b81089d5f15ba51d8523210e",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://www.rekrutacja.amu.edu.pl/en/studies-cataloge/research-in-cognitive-science,602",
+        "label": "Master — Research in Cognitive Science",
+        "observedAt": "2026-09-20T10:29:39.169Z",
+        "checkedAt": "2026-09-20T10:29:39.169Z",
+        "contentHash": "a7a4df6191abdf2411071cfb14f2336f21769cd480e015e3d4242a6fffbe6b93",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -15338,5 +17245,800 @@
       }
     ],
     "observedAt": "2026-09-20T10:05:59.638Z"
+  },
+  {
+    "id": "pl-silesian-tech",
+    "name": "Silesian University of Technology",
+    "country": "PL",
+    "domains": [
+      "polsl.pl"
+    ],
+    "officialUrl": "https://www.polsl.pl/",
+    "sources": [
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.polsl.pl/wyszukiwarka-kierunkow-ii-stopnia/?pa_stopien=stopien-ii",
+        "label": "Catálogo oficial · Silesian University of Technology",
+        "observedAt": "2026-09-19T23:25:08.574Z",
+        "checkedAt": "2026-09-19T23:25:08.574Z",
+        "contentHash": "6d6e92624f5219f8ced345d16e7d050d792bb5aa405ee6fafa99c6e9f0297855",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "phd",
+        "url": "https://www.polsl.pl/rjo15-sd/en/candidate/",
+        "label": "Doctorado — Doctoral School — technical informatics and telecommunications",
+        "observedAt": "2026-09-20T10:29:44.839Z",
+        "checkedAt": "2026-09-20T10:29:44.839Z",
+        "contentHash": "6bc917671a7060d6c7ff0686843bf5c168d15afca7623d6772e87683d2538f1c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.polsl.pl/kierunek/controlelecinfor2/",
+        "label": "Master — Control, Electronic and Information Engineering",
+        "observedAt": "2026-09-20T10:29:45.767Z",
+        "checkedAt": "2026-09-20T10:29:45.767Z",
+        "contentHash": "8a39304bc2db32998b3dec7f4d97def7f440b86e0415b6ff4413ffdc4f17046d",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.polsl.pl/kierunek/elektronikomuni2/",
+        "label": "Master — Elektronika i telekomunikacja",
+        "observedAt": "2026-09-20T10:29:46.811Z",
+        "checkedAt": "2026-09-20T10:29:46.811Z",
+        "contentHash": "557d800f11be5b1a004964283a9b1526d31fd0168b895c09c39b8d3b4c360907",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.polsl.pl/kierunek/informatics2/",
+        "label": "Master — Informatics",
+        "observedAt": "2026-09-20T10:29:48.401Z",
+        "checkedAt": "2026-09-20T10:29:48.401Z",
+        "contentHash": "12d03f60101b232db91864d785ff56a2b663d077e671b50c99e7e06b7f76ae96",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.polsl.pl/kierunek/matematyka2/",
+        "label": "Master — Matematyka",
+        "observedAt": "2026-09-20T10:29:49.995Z",
+        "checkedAt": "2026-09-20T10:29:49.995Z",
+        "contentHash": "ac27a97706fd5cf67e4dd7c82945d4f63d823f9db71de96dfd0f53e5e6fa19de",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T10:43:12.642Z"
+  },
+  {
+    "id": "pl-gdansk",
+    "name": "University of Gdańsk",
+    "country": "PL",
+    "domains": [
+      "ug.edu.pl"
+    ],
+    "officialUrl": "https://ug.edu.pl/",
+    "sources": [
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:23:03.256Z",
+        "checkedAt": "2026-09-19T23:23:03.256Z",
+        "contentHash": "b79f114a1a63629189fb9da71e43b5e80e1ca339fffd806354952272685554cc",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/2/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:25:11.549Z",
+        "checkedAt": "2026-09-19T23:25:11.549Z",
+        "contentHash": "5a838448c331d9cc38924f8e5be201808db7109dbe6b1a7c59fbd5a19a5b8e1c",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/3/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:31:54.167Z",
+        "checkedAt": "2026-09-19T23:31:54.167Z",
+        "contentHash": "f76182f7fe1e12fa4f143a232873f8ade4378aee486534dc69dbc076b058d104",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/4/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:31:57.234Z",
+        "checkedAt": "2026-09-19T23:31:57.234Z",
+        "contentHash": "03d085c0c0149b6dc218240b1668059a9fa9ce1f1def167f182a309db337a287",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/5/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:31:58.684Z",
+        "checkedAt": "2026-09-19T23:31:58.684Z",
+        "contentHash": "1fd52fd67250043b2aac1310783e35170ae8929046905df7000cd72790e3f5ef",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/6/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:32:00.157Z",
+        "checkedAt": "2026-09-19T23:32:00.157Z",
+        "contentHash": "b7b1ce6904809f34e65f8df60753461fc761eccb4c97866cf2762cfd03396723",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/7/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:32:01.656Z",
+        "checkedAt": "2026-09-19T23:32:01.656Z",
+        "contentHash": "e1874e16bd6a66e19e4e8b2eb90ac08fcab91633499694df22f0bd56c6e5ccfd",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/8/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:32:03.262Z",
+        "checkedAt": "2026-09-19T23:32:03.262Z",
+        "contentHash": "6a106e43b1a33ef703d37614d598ad519960ef3c36ef2365c2cd598fbea94a66",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "research",
+        "url": "https://rekrutacja.ug.edu.pl/page/9/",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:32:04.764Z",
+        "checkedAt": "2026-09-19T23:32:04.764Z",
+        "contentHash": "53f75486c7602e2e9e85a1a0f4c1b1584f7f46f0c85aca8d1493852eb7a2a469",
+        "accessOutcome": "ok"
+      },
+      {
+        "type": "masters",
+        "url": "https://rekrutacja.ug.edu.pl/kierunek/quantum-information-technology/",
+        "label": "Master — Quantum Information Technology",
+        "observedAt": "2026-09-20T10:29:49.172Z",
+        "checkedAt": "2026-09-20T10:29:49.172Z",
+        "contentHash": "0f2e7a46b739e539b2a115b92a72a01513607129c7345bf28e94b90223b0ef0f",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T10:43:12.642Z"
+  },
+  {
+    "id": "pl-wroclaw",
+    "name": "University of Wrocław",
+    "country": "PL",
+    "domains": [
+      "uwr.edu.pl"
+    ],
+    "officialUrl": "https://uwr.edu.pl/",
+    "sources": [
+      {
+        "type": "research",
+        "url": "https://www.international.uni.wroc.pl/en/admission-full-degree-studies/programmes-english",
+        "label": "Catálogo oficial · undefined",
+        "observedAt": "2026-09-19T23:27:38.170Z",
+        "checkedAt": "2026-09-19T23:27:38.170Z",
+        "contentHash": "a95745b0661c9120fc620a8c9e88bea798ea8bc5af32ced5bb3001e4184bb5fd",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T10:43:12.642Z"
+  },
+  {
+    "id": "it-genoa",
+    "name": "Università di Genova",
+    "country": "IT",
+    "domains": [
+      "unige.it"
+    ],
+    "officialUrl": "https://www.unige.it/",
+    "sources": [
+      {
+        "url": "https://unige.it/en/students/phd-programmes",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Genova",
+        "observedAt": "2026-09-20T09:57:06.414Z",
+        "checkedAt": "2026-09-20T09:57:06.414Z",
+        "contentHash": "d7e90a3223feee57903fa790486a93ea7e55f95bd78fd6ded1d3b1f73703083b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/home",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Genova",
+        "observedAt": "2026-09-20T09:57:05.651Z",
+        "checkedAt": "2026-09-20T09:57:05.651Z",
+        "contentHash": "177b1ebc35cd04369460a8bf33eb9c661213faa0300622529ac7b048ff4862c9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/dottorati",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Genova",
+        "observedAt": "2026-09-20T10:00:23.933Z",
+        "checkedAt": "2026-09-20T10:00:23.933Z",
+        "contentHash": "5d011d6bfcce3e5f6a53ec4448b453c7aabcaaca8d4bae3f6169fb1ed3ebc718",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/corsidilaurea",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Genova",
+        "observedAt": "2026-09-20T10:00:23.423Z",
+        "checkedAt": "2026-09-20T10:00:23.423Z",
+        "contentHash": "bd4e794877e98662bb231a188ce4f617e78f53f7f1c46b1cd9a8ee314666231b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/corsi/11964",
+        "type": "masters",
+        "label": "Master's Degree Computer Science",
+        "checkedAt": "2026-09-20T10:57:11.680Z",
+        "observedAt": "2026-09-20T10:57:11.680Z",
+        "contentHash": "f55fe6b4b0cca85eb9ea423b9866164fd2f77f2f53b89b6688b3ae0f8c8b2dac",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/corsi/11907",
+        "type": "masters",
+        "label": "Master's Degree Mathematics",
+        "checkedAt": "2026-09-20T10:57:15.359Z",
+        "observedAt": "2026-09-20T10:57:15.669Z",
+        "contentHash": "ad6c12f738d16f9377833cc81582920c48c1caea803093ece3a70590e82b1d68",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/corsi/11963",
+        "type": "masters",
+        "label": "Master's Degree Robotics Engineering",
+        "checkedAt": "2026-09-20T10:57:15.359Z",
+        "observedAt": "2026-09-20T10:57:18.932Z",
+        "contentHash": "33e642d81dcf41b3e87b3c65927618b30b6bcb9f200fed57a7fe2484bfc1d58a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/corsi/11521",
+        "type": "phd",
+        "label": "PhD in Bioengineering And Robotics",
+        "checkedAt": "2026-09-20T10:57:20.984Z",
+        "observedAt": "2026-09-20T10:57:20.984Z",
+        "contentHash": "bce50f847ee9e9bcb3dd167c4550125e96ae5471e2ed447bbcffe1f2b7ef3981",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/corsi/11530",
+        "type": "phd",
+        "label": "PhD in Computer Science And Systems Engineering",
+        "checkedAt": "2026-09-20T10:57:22.213Z",
+        "observedAt": "2026-09-20T10:57:22.213Z",
+        "contentHash": "1e670d38bf58979cfcbbcf01ecbc7e05ad53d466a4eca55fc905af3aeda8b46a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://corsi.unige.it/en/corsi/11535",
+        "type": "phd",
+        "label": "PhD in Mathematics And Applications",
+        "checkedAt": "2026-09-20T10:57:23.459Z",
+        "observedAt": "2026-09-20T10:57:23.459Z",
+        "contentHash": "6b680581f97a9684da24f6e86d501d2007ddc5e0f60850246095b95e8c9f9744",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.073Z"
+  },
+  {
+    "id": "it-pavia",
+    "name": "Università di Pavia",
+    "country": "IT",
+    "domains": [
+      "unipv.it"
+    ],
+    "officialUrl": "https://www.unipv.it/",
+    "sources": [
+      {
+        "url": "https://phd.unipv.it/wp-content/uploads/2026/06/Annex1_42_en_INT2.pdf",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Pavia",
+        "observedAt": "2026-09-20T09:57:07.194Z",
+        "checkedAt": "2026-09-20T09:57:07.194Z",
+        "contentHash": "6f48d2b63aeaa2a6efdccb7fd30b65369d08faaffffeb1e986d7dab63f8ec0b2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.unipv.it/en/education/bachelors-and-masters-degree-programs",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Pavia",
+        "observedAt": "2026-09-20T09:57:07.186Z",
+        "checkedAt": "2026-09-20T09:57:07.186Z",
+        "contentHash": "b8b6a2028090da08f505aed43c7b281049e108b30c44c5c05089c55ee4f4d511",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.unipv.it/en/education/bachelors-and-master-degree-programs/degree-programs",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Pavia",
+        "observedAt": "2026-09-20T10:00:24.095Z",
+        "checkedAt": "2026-09-20T10:00:24.095Z",
+        "contentHash": "be55ad8969c5b3a9d7fd2d43fa7359fc32defd3f6a5b79208590667ba3e2dceb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.unipv.it/en/education/bachelors-and-master-degree-programs/degree-programs?course_type=course_type-LM",
+        "type": "masters",
+        "label": "Catálogo oficial · Università di Pavia",
+        "observedAt": "2026-09-20T10:12:04.514Z",
+        "checkedAt": "2026-09-20T10:12:04.514Z",
+        "contentHash": "a853b1bae12a6b5f25d9f98e9ed221830d40dbf636519a7407adcf960a6079fe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.unipv.it/phd-eng/",
+        "type": "phd",
+        "label": "Catálogo oficial · Università di Pavia",
+        "observedAt": "2026-09-20T10:11:46.546Z",
+        "checkedAt": "2026-09-20T10:11:46.546Z",
+        "contentHash": "92a2aa8f93de59c763219ba34b6ba822ae4a1cf1bf3bd2588b940bcc96209d12",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/computer-engineering",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer Engineering",
+        "checkedAt": "2026-09-20T10:52:51.416Z",
+        "observedAt": "2026-09-20T10:52:51.416Z",
+        "contentHash": "13e44eb79867c910ff5c32cf3289c5b34eb02b468710a0078f9319e7bf17a448",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/computational-and-modelling-engineering-materials-structures-and-sustainable-technologies",
+        "type": "masters",
+        "label": "Laurea magistrale in Computational and Modelling Engineering for Materials, Structures, and Sustainable Technologies",
+        "checkedAt": "2026-09-20T10:57:28.637Z",
+        "observedAt": "2026-09-20T10:57:28.637Z",
+        "contentHash": "b602abccffa6d62cf605fcb4059d7c1fc729127efddced5040855d362fec8a40",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.unipv.it/phd-program-in-bioengineering-bioinformatics-and-health-technologies/",
+        "type": "phd",
+        "label": "Bioengineering, Bioinformatics and Health Technologies",
+        "checkedAt": "2026-09-20T10:58:20.945Z",
+        "observedAt": "2026-09-20T10:58:20.945Z",
+        "contentHash": "53da8d77134376c9db913c8bd4daab0af4f678672940357f714396062f887792",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.unipv.it/phd-program-in-computational-mathematics-and-decision-sciences/",
+        "type": "phd",
+        "label": "Computational Mathematics, Learning, and Data Science",
+        "checkedAt": "2026-09-20T10:58:22.318Z",
+        "observedAt": "2026-09-20T10:58:23.165Z",
+        "contentHash": "8c5916a3c11b5ee23439593dd95aaf6f7792f0839d11bacf63c6efdb1e034a5e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.unipv.it/phd-program-in-design-modeling-and-simulation-in-engineering-2/",
+        "type": "phd",
+        "label": "Design, Modeling and Simulation in Engineering",
+        "checkedAt": "2026-09-20T10:58:22.318Z",
+        "observedAt": "2026-09-20T10:58:26.082Z",
+        "contentHash": "850726c41253e96ab4383657e7f64ee125d51650686677decb2c7988e2d8e489",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phd.unipv.it/phd-program-in-electronics-computer-science-and-electrical-engineering/",
+        "type": "phd",
+        "label": "Electronics, Computer Science and Electrical Engineering",
+        "checkedAt": "2026-09-20T10:58:22.318Z",
+        "observedAt": "2026-09-20T10:58:26.322Z",
+        "contentHash": "6cba63eae8752ea1d1c180d480952dfb6c1d9e2d02fa8d86cd35e927a66520db",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.074Z"
+  },
+  {
+    "id": "it-turin",
+    "name": "Università degli Studi di Torino",
+    "country": "IT",
+    "domains": [
+      "unito.it"
+    ],
+    "officialUrl": "https://www.unito.it/",
+    "sources": [
+      {
+        "url": "https://en.unito.it/studying-unito/programs/degree-programs/degree-programs-english",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Torino",
+        "observedAt": "2026-09-20T09:57:09.732Z",
+        "accessOutcome": "robots_unavailable_403"
+      },
+      {
+        "url": "https://www.phd.unito.it/do/corsi.pl/Home",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Torino",
+        "observedAt": "2026-09-20T09:57:08.854Z",
+        "accessOutcome": "content_missing"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.074Z"
+  },
+  {
+    "id": "it-verona",
+    "name": "Università degli Studi di Verona",
+    "country": "IT",
+    "domains": [
+      "univr.it"
+    ],
+    "officialUrl": "https://www.univr.it/",
+    "sources": [
+      {
+        "url": "https://www.univr.it/en/degree-programmes/2026-2027/medicine-and-surgery/postgraduate-masters",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Verona",
+        "observedAt": "2026-09-20T09:57:09.733Z",
+        "checkedAt": "2026-09-20T09:57:09.733Z",
+        "contentHash": "f3be743645f70305c923c871097a49bc686f116c3e937fb29f00dbd33bd5eb0c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.univr.it/en/degree-programmes",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Verona",
+        "observedAt": "2026-09-20T10:00:24.589Z",
+        "checkedAt": "2026-09-20T10:00:24.589Z",
+        "contentHash": "d032f39900fc93691f9469fb43b0c765b3d6048b0795f41592ac14cffca4887a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.univr.it/en/phds",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Verona",
+        "observedAt": "2026-09-20T09:57:10.835Z",
+        "checkedAt": "2026-09-20T09:57:10.835Z",
+        "contentHash": "e59ef609062d4561408b23ccdf700086d2db41fc4621d7104dab5962dd58807e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=1355&lang=en",
+        "type": "masters",
+        "label": "Laurea magistrale in Artificial intelligence",
+        "checkedAt": "2026-09-20T10:52:52.673Z",
+        "observedAt": "2026-09-20T10:52:52.673Z",
+        "contentHash": "f90d0ac67e6983d79c6a5b9f6d2fad476f6a6ccdc06068e2a808756e263be3dd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=1291&lang=en",
+        "type": "masters",
+        "label": "Laurea magistrale in Computer Engineering for Intelligent Systems",
+        "checkedAt": "2026-09-20T10:52:53.638Z",
+        "observedAt": "2026-09-20T10:52:53.638Z",
+        "contentHash": "4cb19392c7f2ec0916ee4c082b4a69d0c56a555f325f2376a6b4a3699c7a0af5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=1175&lang=en",
+        "type": "masters",
+        "label": "Laurea magistrale in Data Science",
+        "checkedAt": "2026-09-20T10:52:56.017Z",
+        "observedAt": "2026-09-20T10:52:56.017Z",
+        "contentHash": "476d01de1677a3ef06e180bdb098d5cc861101c4fe6547d85b2acb72d1d9490c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=1352&lang=en",
+        "type": "masters",
+        "label": "Laurea magistrale in Mathematics",
+        "checkedAt": "2026-09-20T10:52:57.713Z",
+        "observedAt": "2026-09-20T10:52:59.241Z",
+        "contentHash": "58835e8c11912aa1591b592aac45bb9e8394a1293d79b1daa5154841f78772f4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=1353&lang=en",
+        "type": "masters",
+        "label": "Laurea magistrale in Medical Bioinformatics",
+        "checkedAt": "2026-09-20T10:52:57.713Z",
+        "observedAt": "2026-09-20T10:53:00.033Z",
+        "contentHash": "325d82079c48f11a030f7bd4d917caf2f09b6480d16dcfcc5688d93a720fd5e2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=635&lang=en",
+        "type": "phd",
+        "label": "PhD in Computer Science",
+        "checkedAt": "2026-09-20T10:57:25.315Z",
+        "observedAt": "2026-09-20T10:57:25.315Z",
+        "contentHash": "bbe8dc649a5ab8c793776c58fcfc4f089367f3e1ac7ea08f2a08b6ba457f8bac",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=680&lang=en",
+        "type": "phd",
+        "label": "Interuniversity PhD in Mathematics (Trento e Verona)",
+        "checkedAt": "2026-09-20T10:57:26.222Z",
+        "observedAt": "2026-09-20T10:57:26.222Z",
+        "contentHash": "84d529e87a751f6f2669ea6477e21b48dbaf6e8bd38f8a25c3345040f3abe516",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.univr.it/?ent=cs&id=1192&menu=home&lang=en",
+        "type": "phd",
+        "label": "PhD in Intelligent Systems Engineering",
+        "checkedAt": "2026-09-20T10:57:27.063Z",
+        "observedAt": "2026-09-20T10:57:27.063Z",
+        "contentHash": "497b01d5de4ed9efa40197affd335784329b91420a1ecd470f6e3a3b0f301ef9",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.074Z"
+  },
+  {
+    "id": "it-florence",
+    "name": "Università degli Studi di Firenze",
+    "country": "IT",
+    "domains": [
+      "unifi.it"
+    ],
+    "officialUrl": "https://www.unifi.it/",
+    "sources": [
+      {
+        "url": "https://www.unifi.it/it/studia-con-noi/cosa-studiare/dottorati-master-e-scuole-di-specializzazione/dottorati-di-ricerca/schede-dei-corsi-di-dottorato-a-bando",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Firenze",
+        "observedAt": "2026-09-20T09:57:16.591Z",
+        "accessOutcome": "robots_unavailable_403"
+      },
+      {
+        "url": "https://www.unifi.it/it/studia-con-noi/cosa-studiare/lauree-triennali-e-magistrali/corsi-di-laurea-magistrali",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Firenze",
+        "observedAt": "2026-09-20T09:57:16.587Z",
+        "accessOutcome": "robots_unavailable_403"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.074Z"
+  },
+  {
+    "id": "it-naples",
+    "name": "Università degli Studi di Napoli Federico II",
+    "country": "IT",
+    "domains": [
+      "unina.it"
+    ],
+    "officialUrl": "https://www.unina.it/",
+    "sources": [
+      {
+        "url": "https://www.unina.it/it/didattica/post-laurea/dottorati",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Napoli Federico II",
+        "observedAt": "2026-09-20T09:57:16.599Z",
+        "checkedAt": "2026-09-20T09:57:16.599Z",
+        "contentHash": "40b2df24b55fb887e2c4dec829ee075d9a76770b29114b1ab325a0098388af77",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unina.it/it/didattica/post-laurea/dottorati/elenco-dottorati",
+        "type": "phd",
+        "label": "Catálogo oficial · Università degli Studi di Napoli Federico II",
+        "observedAt": "2026-09-20T10:00:28.099Z",
+        "checkedAt": "2026-09-20T10:00:28.099Z",
+        "contentHash": "9af615bc0d3794fcd118f95fde78b33f1700ecdbfa2e70a75d30843a3e117177",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unina.it/it/didattica/offerta-formativa",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Napoli Federico II",
+        "observedAt": "2026-09-20T10:00:27.258Z",
+        "checkedAt": "2026-09-20T10:00:27.258Z",
+        "contentHash": "6e1fb7e764c7bdd8b29f1440462f9f31dbfa3374a965e1c54972ff63758020c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.corsi.unina.it/",
+        "type": "masters",
+        "label": "Catálogo oficial · Università degli Studi di Napoli Federico II",
+        "observedAt": "2026-09-20T10:12:02.871Z",
+        "accessOutcome": "robots_invalid"
+      },
+      {
+        "url": "https://cqb.dieti.unina.it/",
+        "type": "phd",
+        "label": "Computational and quantitative biology",
+        "checkedAt": "2026-09-20T10:58:27.100Z",
+        "observedAt": "2026-09-20T10:58:27.100Z",
+        "contentHash": "cbc7b4de9ec1f4a5743b5a3fc3dae96ae4bd94f13ba16839f45403296cf5a1a3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://icth.dieti.unina.it/index.php/it/",
+        "type": "phd",
+        "label": "Information And Communication Technology For Health",
+        "checkedAt": "2026-09-20T10:58:28.429Z",
+        "observedAt": "2026-09-20T10:58:28.429Z",
+        "contentHash": "4ca475223e03c4669fec38c96c8a0fe5191236c15a65d738ace5587c85a50aa7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://itee.dieti.unina.it/index.php/it/",
+        "type": "phd",
+        "label": "Information Technology and Electrical Engineering",
+        "checkedAt": "2026-09-20T10:58:29.324Z",
+        "observedAt": "2026-09-20T10:58:29.324Z",
+        "contentHash": "afaeff81488bde8eef1290aa65e531d97af94ce2f897de32ddbe2ebc1b9fe890",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.dottorato-dma.unina.it/",
+        "type": "phd",
+        "label": "Matematica e Applicazioni",
+        "checkedAt": "2026-09-20T10:58:29.324Z",
+        "observedAt": "2026-09-20T10:58:30.386Z",
+        "contentHash": "3bf73b3e12f468102ca0d0483276ef85f9fe1cad8e9c560537ff6bad63a9b8f9",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.074Z"
+  },
+  {
+    "id": "fr-montpellier",
+    "name": "Université de Montpellier",
+    "country": "FR",
+    "domains": [
+      "umontpellier.fr"
+    ],
+    "officialUrl": "https://www.umontpellier.fr/",
+    "sources": [
+      {
+        "url": "https://www.umontpellier.fr/recherche/etudes-doctorales-et-hdr",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Montpellier",
+        "observedAt": "2026-09-20T09:57:24.396Z",
+        "checkedAt": "2026-09-20T09:57:24.396Z",
+        "contentHash": "e6e3eea3183e46474731e1cde3bf041aa8b2b92b43ee264e082f99a7cbe846b4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.umontpellier.fr/fr/formations/master-XB.html",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Montpellier",
+        "observedAt": "2026-09-20T09:57:24.353Z",
+        "checkedAt": "2026-09-20T09:57:24.353Z",
+        "contentHash": "4fb32554a9eb3b274ff45f81ad4aa4cf1d908cc17847f8243a51f2d1ab21b68f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://edi2s.umontpellier.fr/",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Montpellier",
+        "observedAt": "2026-09-20T10:00:34.633Z",
+        "accessOutcome": "content_missing"
+      },
+      {
+        "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-electronique-energie-electrique-automatique-ME145.html",
+        "type": "masters",
+        "label": "Master Électronique, énergie électrique, automatique",
+        "checkedAt": "2026-09-20T10:52:41.879Z",
+        "observedAt": "2026-09-20T10:52:41.879Z",
+        "contentHash": "e2b0680fa41c9c6c1b5bbfdeb55fdf715a7f1a21d889d58c5c6fc16db5c62f5d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-mathematiques-ME157.html",
+        "type": "masters",
+        "label": "Master Mathématiques",
+        "checkedAt": "2026-09-20T10:52:42.762Z",
+        "observedAt": "2026-09-20T10:52:42.762Z",
+        "contentHash": "07915ee40fd1efc332f7079a71ea4b542cc68e270a4fc0047387d459f3cc34dc",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.074Z"
+  },
+  {
+    "id": "fr-rennes",
+    "name": "Université de Rennes",
+    "country": "FR",
+    "domains": [
+      "univ-rennes.fr"
+    ],
+    "officialUrl": "https://www.univ-rennes.fr/",
+    "sources": [
+      {
+        "url": "https://formations.univ-rennes.fr/recherche?f=regime_inscription%3A77",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Rennes",
+        "observedAt": "2026-09-20T09:57:25.221Z",
+        "checkedAt": "2026-09-20T09:57:25.221Z",
+        "contentHash": "5f13b05249b97ca026f9205593578a7eeffb78d4173d9a9453611787c61681ea",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.univ-rennes.fr/les-ecoles-doctorales",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Rennes",
+        "observedAt": "2026-09-20T09:57:25.238Z",
+        "checkedAt": "2026-09-20T09:57:25.238Z",
+        "contentHash": "959f1681017c84251647c71f07fee09a6af6752a744edaf974ea9a9ee3fdf20e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-rennes.fr/recherche?f%5B0%5D=type_de_diplome%3A37",
+        "type": "masters",
+        "label": "Catálogo oficial · Université de Rennes",
+        "observedAt": "2026-09-20T10:00:29.663Z",
+        "checkedAt": "2026-09-20T10:00:29.663Z",
+        "contentHash": "1e768d9351b0d517415d405fbab9fffe2f98e87b61c643ce593f9c4bf255a7c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.doctorat-bretagne.fr/les-ecoles-doctorales",
+        "type": "phd",
+        "label": "Catálogo oficial · Université de Rennes",
+        "observedAt": "2026-09-20T10:00:29.986Z",
+        "checkedAt": "2026-09-20T10:00:29.986Z",
+        "contentHash": "e796d1e257c6e473ded6266870d4c42393f0294460b912f0ddba31d007da4085",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-rennes.fr/mention/master-mention-bio-informatique",
+        "type": "masters",
+        "label": "Master Bio-informatique",
+        "checkedAt": "2026-09-20T10:57:38.948Z",
+        "observedAt": "2026-09-20T10:57:38.948Z",
+        "contentHash": "d962200e2cc42d4768f813d13413be26056206595856908528f0560a4e965c18",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-rennes.fr/mention/master-mention-mathematiques-et-applications",
+        "type": "masters",
+        "label": "Master Mathématiques et applications",
+        "checkedAt": "2026-09-20T10:57:40.421Z",
+        "observedAt": "2026-09-20T10:57:40.421Z",
+        "contentHash": "72605024c2c741901bd574f66a81478dff0ff63c8a17f2f2bf57a4da1768edbf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-rennes.fr/mention/master-mention-cybersecurite",
+        "type": "masters",
+        "label": "Master Cybersécurité",
+        "checkedAt": "2026-09-20T10:58:20.936Z",
+        "observedAt": "2026-09-20T10:58:20.936Z",
+        "contentHash": "5064786ddd676be9f658294e1a32deb65dfe3cd97d5c564768b5bf82ee3e4996",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://formations.univ-rennes.fr/mention/master-mention-informatique",
+        "type": "masters",
+        "label": "Master Informatique",
+        "checkedAt": "2026-09-20T10:58:40.567Z",
+        "observedAt": "2026-09-20T10:58:40.567Z",
+        "contentHash": "850d64a3a80ad04fa601484270974b815c34552c49f22af4c53db6edcf11b9a6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ed-matisse.doctorat-bretagne.fr/",
+        "type": "phd",
+        "label": "Doctorat — École doctorale Matisse (ED 601)",
+        "checkedAt": "2026-09-20T10:58:43.770Z",
+        "observedAt": "2026-09-20T10:58:43.770Z",
+        "contentHash": "1641e59934d2c8fae5b760dba1e8c1157a7b66c529a676fc02a92c571217f734",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:03:37.074Z"
   }
 ]

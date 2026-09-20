@@ -47,8 +47,20 @@ test('country-filtered aggregates cannot rank institutions whose OpenAlex countr
  assert.equal(rows[1].cohortSize,24);assert.ok(rows[1].tier);
  directory['0'].country_code='US';assert.equal(computeTiers(institutions,subject,directory)[0].reason,'scope-pending');
 });
+test('Turkish curricula provide discipline and thesis evidence without promoting non-thesis degrees',()=>{
+ // Official Yildiz curricula: fbe.yildiz.edu.tr/node/27561, /27159 and /27330.
+ assert.deepEqual(fieldsFrom('Veri Bilimi · Veri Madenciliği · Büyük Veri'),['Ciencia de datos']);
+ assert.deepEqual(fieldsFrom('Makine Öğrenmesine Giriş · Yapay Zeka · Derin Öğrenme'),['Machine learning']);
+ assert.deepEqual(fieldsFrom('İstatistiksel Modelleme'),['Estadística']);
+ assert.deepEqual(fieldsFrom('Yazılım Kalitesi · Hesaplamalı Anlambilim'),['Informática']);
+ assert.deepEqual(fieldsFrom('İleri Optimizasyon'),['Matemáticas aplicadas']);
+ assert.ok(hasResearchComponent('VBL5000Yüksek Lisans TeziVBL5001Seminer'));
+ assert.equal(hasResearchComponent('Tezsiz Yüksek Lisans Programı'),false);
+ assert.equal(hasResearchComponent('Tezli Yüksek Lisans Programı'),false);
+});
 test('Spanish and Portuguese programme evidence is recognised without claiming research from the degree alone',()=>{
  assert.deepEqual(fieldsFrom('Máster en Ciencia de Datos'),['Ciencia de datos']);
+ assert.deepEqual(fieldsFrom('skills in mathematics applied to the most varied disciplines'),['Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('MÉTODOS NUMÉRICOS AVANZADOS, OPTIMIZACIÓN, ECUACIONES EN DERIVADAS PARCIALES, TEORÍA DE CONTROL, Investigación Operativa'),['Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('Investigação Operacional'),['Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('Programa de Doctorado en Tecnologías de la Información, Comunicaciones y Computación'),['Informática']);
@@ -59,6 +71,8 @@ test('Spanish and Portuguese programme evidence is recognised without claiming r
  assert.ok(hasResearchComponent('PRACA MAGISTERSKA'));
  assert.ok(hasResearchComponent('Przygotowanie pracy magisterskiej'));
  assert.ok(hasResearchComponent('diplomamunka (30 kredit)'));
+ assert.ok(hasResearchComponent('Per laurearti devi proporre un argomento di tesi originale e innovativo.'));
+ for(const phrase of ['ottimizzazione','controllo ottimo','Ricerca Operativa (SSD: MATH-06/A)'])assert.ok(fieldsFrom(phrase).includes('Matemáticas aplicadas'));
  assert.equal(hasResearchComponent('MSc diploma'),false);
  assert.deepEqual(fieldsFrom('Sistemas Computacionais e Percepcionais'),['Informática']);
  assert.equal(hasResearchComponent('DYPLOM MAGISTRA'),false);

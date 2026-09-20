@@ -34,6 +34,16 @@ test('programme research and discipline cannot come only from navigation or the 
  await assert.rejects(verifyProgramme({...seed,evidencePages:[],evidenceChecks:[]},async url=>({body:'<main>'+'General university admissions and student services. '.repeat(7)+'</main>',finalUrl:url,hash:'x',checkedAt:'2026-09-19'})),/discipline_unverified/);
  await assert.rejects(verifyProgramme({...seed,fields:undefined,evidencePages:[],evidenceChecks:[]},async url=>({body:'<main>'+'General university admissions and student services. '.repeat(7)+'</main>',finalUrl:url,hash:'x',checkedAt:'2026-09-19'})),/discipline_unverified/);
 });
+test('contact-form degree options cannot supply research or discipline while genuine content inside a form survives',async()=>{
+ const candidate={...seed,stage:'master',evidencePages:[],evidenceChecks:[]};
+ const page=body=>async url=>({body,finalUrl:url,hash:'x',checkedAt:'2026-09-20'});
+ const fakeResearch='<main>'+('Computer science lectures and practical classes. '.repeat(7))+'<form><select><option>Master thesis</option></select></form></main>';
+ await assert.rejects(verifyProgramme(candidate,page(fakeResearch)),/research_component_unverified/);
+ const fakeDiscipline='<main>'+('Geography lectures and a master thesis. '.repeat(7))+'<form><select><option>Computer Science MSc</option></select></form></main>';
+ await assert.rejects(verifyProgramme(candidate,page(fakeDiscipline)),/discipline_unverified/);
+ const valid='<form><main>'+('Computer science research and a master thesis. '.repeat(7))+'</main></form>';
+ assert.equal((await verifyProgramme(candidate,page(valid))).status,'programme');
+});
 test('missing supporting evidence never creates a new programme from an unverified seed',async()=>{
  await assert.rejects(verifyProgramme(seed,async url=>{if(url.endsWith('/conditions'))throw new Error('http_403');return fetcher()(url);}),/http_403/);
  assert.deepEqual(mergeProgrammeRecords([],[],[{id:'programme-new',status:'partial',report:{errors:[{error:'http_403'}]}}]),[]);
