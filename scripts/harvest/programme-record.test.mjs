@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {verifyProgramme,mergeProgrammeRecords} from './programme-record.mjs';
-import {programmeText} from './programme-evidence.mjs';
+import {programmeText,hasResearchComponent} from './programme-evidence.mjs';
 
 const seed={title:'Summer research in Computer Science',institution:'Test university',country:'CH',url:'https://example.edu/summer',kind:'programme',stage:'grado',entry:'Grado en curso',fields:['Informática'],duration:'8 semanas',funding:{kind:'scholarship',text:'94 CHF por día'},evidencePages:[{url:'https://example.edu/conditions',label:'Condiciones'}],evidenceChecks:[{field:'funding',url:'https://example.edu/conditions',phrases:['94 CHF per calendar day']}]};
 test('an unknown career stage is rejected before fetching or publishing a programme',async()=>{
@@ -57,6 +57,24 @@ test('Leeds academic key facts outside main retain the programme duration and ad
  assert.equal(programmeText(facts+'<main>Research project</main>'),'Duration12 Months (Full time)Entry requirementsMathematics degree Research project');
  assert.equal(programmeText('<div hidden>'+facts+'</div><main>Research project</main>'),'Research project');
  assert.equal(programmeText('<nav>'+facts+'</nav><main>Research project</main>'),'Research project');
+});
+test('Oulu ARIA button disclosures retain their scholarship conditions without admitting hidden templates',()=>{
+ const panel='<div role="region" aria-labelledby="nokia-button" id="nokia-content" hidden aria-hidden="true">Nokia scholarships of 3,000 euros for accepted Computer Science applicants.</div>';
+ const button='<a role="button" id="nokia-button" aria-controls="nokia-content" aria-expanded="false" href="#nokia-content">Nokia Scholarship</a>';
+ const text=programmeText('<main>'+button+panel+'</main>');
+ assert.match(text,/3,000 euros/);
+ assert.doesNotMatch(programmeText('<main><div hidden>'+button+'</div>'+panel+'Other funding</main>'),/3,000 euros/);
+ assert.doesNotMatch(programmeText('<main>'+button+'<div id="unrelated" hidden>Unrelated scholarship</div>'+panel+'</main>'),/Unrelated scholarship/);
+});
+test('a business capstone replacing a dissertation does not verify a research route',()=>{
+ assert.equal(hasResearchComponent('A final Major Applied Project instead of a traditional dissertation. Seminars and research skills training using live business datasets.'),false);
+ assert.equal(hasResearchComponent('Develop a professional portfolio as an alternative to the traditional project thesis.'),false);
+ assert.equal(hasResearchComponent('Professional Project: an individual project with a supervisor, linked to our computer vision research group, developing independent research and critical thinking.'),true);
+ assert.equal(hasResearchComponent('Submit a dissertation or Engineering Project. Some students develop a professional portfolio as an alternative to the traditional project thesis.'),true);
+});
+test('a practicum requires an explicit academic route, as in DCU Computing',()=>{
+ assert.equal(hasResearchComponent('A 30 ECTS practicum: an individual project may develop software or undertake rigorous theoretical analysis, proposing and evaluating alternative techniques.'),true);
+ assert.equal(hasResearchComponent('A 30 ECTS practicum builds a prototype and develops research skills for business.'),false);
 });
 test('a labelled admission score keeps its DOM boundary instead of absorbing the following heading number',async()=>{
  const candidate={...seed,evidencePages:[],evidenceChecks:[{field:'entry',labelledValues:[{container:'.basvuru-card',labelSelector:'.basvuru-card-title',valueSelector:'.basvuru-card-content',label:'Minimum Yabancı Dil Puanı',value:'50'}]}]};
