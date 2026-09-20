@@ -2,15 +2,10 @@ import fs from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {neon} from '@neondatabase/serverless';
 import {institutionMetadata,institutionSearchText,institutionPriority} from '../harvest/institution-summary.mjs';
+import {validateInstitutionRegistry} from '../harvest/institution-validation.mjs';
 if(!process.env.DATABASE_URL)throw new Error('DATABASE_URL required');
 const registry=JSON.parse(await fs.readFile('data/institutions.json','utf8'));
-if(!registry.institutions.length)throw new Error('Refusing to publish an empty institution registry');
-const ids=new Set();
-for(const i of registry.institutions){
- if(!i.id||ids.has(i.id)||!i.name||!i.country||!Array.isArray(i.sources)||!i.researchMetrics||i._review)throw new Error('Invalid institution registry: '+i.id);
- ids.add(i.id);
- for(const metric of Object.values(i.researchMetrics))if(metric.tier&&(metric.volume<50||metric.impactEligible<50||metric.impactCoverage<.8||i.geography!=='europe'))throw new Error('Invalid research tier: '+i.id);
-}
+validateInstitutionRegistry(registry);
 const sql=neon(process.env.DATABASE_URL);
 for(let start=0;start<registry.institutions.length;start+=100){
  await sql.transaction(registry.institutions.slice(start,start+100).map(i=>{

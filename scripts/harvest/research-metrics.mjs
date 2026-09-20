@@ -1,34 +1,37 @@
 import fs from 'node:fs/promises';
 import {openAlex,allGroups} from './openalex-client.mjs';
+import {collectIdentities} from './openalex-identities.mjs';
+import {retainCompletedSubjects} from './research-edition.mjs';
 import {EUROPE_CODES,ACADEMIC_EXTENSION_CODES,TRANSCONTINENTAL_CODES} from './institution-universe.mjs';
 
-const universeFile=process.argv[2]||'work/ror/universe.json';
-const output=process.argv[3]||'work/openalex/indicators.json';
+const positional=process.argv.slice(2).filter(arg=>!arg.startsWith('--'));
+const universeFile=positional[0]||'work/ror/universe.json';
+const output=positional[1]||'work/openalex/indicators.json';
+const selected=process.argv.find(arg=>arg.startsWith('--subjects='))?.slice(11).split(',');
 const universe=JSON.parse(await fs.readFile(universeFile,'utf8'));
-const directory={};const references=[];
-for(let start=0;start<universe.institutions.length;start+=100){
- const batch=universe.institutions.slice(start,start+100);
- const response=await openAlex('/institutions',{filter:'ror:'+batch.map(x=>x.ror).join('|'),per_page:100,select:'id,ror,display_name,country_code,type,geo'});
- if(response.body.meta.count>100)throw new Error('ambiguous_ror_batch');
- for(const row of response.body.results){if(directory[row.ror]&&directory[row.ror].id!==row.id)throw new Error('ambiguous_ror');directory[row.ror]=row;}
- references.push({url:response.url,checkedAt:response.checkedAt});
- if(start%1000===0)console.log(JSON.stringify({phase:'identity',processed:Math.min(start+100,universe.institutions.length),matched:Object.keys(directory).length,remaining:response.remaining}));
-}
-await fs.writeFile('work/openalex/identities.json',JSON.stringify({directory,references},null,2));
+const identityFile='work/openalex/identities.json';
+let snapshot;try{snapshot=JSON.parse(await fs.readFile(identityFile,'utf8'));}catch(error){if(error.code!=='ENOENT')throw error;}
+const {directory,references}=await collectIdentities(universe.institutions.map(x=>x.ror),{snapshot,fetchPage:openAlex,onBatch:progress=>console.log(JSON.stringify({phase:'identity',...progress}))});
+await fs.mkdir('work/openalex',{recursive:true});
+await fs.writeFile(identityFile+'.tmp',JSON.stringify({directory,references},null,2));await fs.rename(identityFile+'.tmp',identityFile);
 const subjects=[
  {id:'cs',name:'Informática',filter:'primary_topic.field.id:17',taxonomy:['https://openalex.org/fields/17']},
  {id:'ml',name:'IA y aprendizaje automático',filter:'primary_topic.subfield.id:1702|1707',taxonomy:['https://openalex.org/subfields/1702','https://openalex.org/subfields/1707']},
  {id:'statistics',name:'Estadística y probabilidad',filter:'primary_topic.subfield.id:2613|1804',taxonomy:['https://openalex.org/subfields/2613','https://openalex.org/subfields/1804']},
  {id:'applied-math',name:'Matemáticas aplicadas',filter:'primary_topic.subfield.id:2604',taxonomy:['https://openalex.org/subfields/2604']}
 ];
-const data={generatedAt:new Date().toISOString(),provider:'OpenAlex',license:'CC0-1.0',status:'in_progress',workTypes:['article','conference-paper','data-paper','software-paper'],universeProvenance:universe.provenance,identityCount:Object.keys(directory).length,subjects:[]};
+if(selected?.some(id=>!subjects.some(subject=>subject.id===id)))throw new Error('unknown_research_subject');
+let previous;try{previous=JSON.parse(await fs.readFile(output,'utf8'));}catch(error){if(error.code!=='ENOENT')throw error;}
+const retained=retainCompletedSubjects(previous,subjects);
+const data={generatedAt:new Date().toISOString(),provider:'OpenAlex',license:'CC0-1.0',status:'in_progress',workTypes:['article','conference-paper','data-paper','software-paper'],universeProvenance:universe.provenance,identityCount:Object.keys(directory).length,subjects:retained};
 const countryScope=[...EUROPE_CODES,...ACADEMIC_EXTENSION_CODES,...TRANSCONTINENTAL_CODES];
 const countries=countryScope.join('|');
 for(const subject of subjects){
+ if(selected&&!selected.includes(subject.id))continue;
  const metrics={};
  const base=subject.filter+',is_retracted:false,authorships.institutions.country_code:'+countries;
  // Recent activity and citation impact use different, explicit windows. The impact
- // window has four full citation years even for its most recent publication year.
+ // window has three full calendar years for citations even for its most recent publication year.
  for(const [metric,filter] of Object.entries({volume:base+',publication_year:2020-2024',impactTotal:base+',publication_year:2020-2022',impactEligible:base+',publication_year:2020-2022,citation_normalized_percentile.value:0-1',top10:base+',publication_year:2020-2022,citation_normalized_percentile.is_in_top_10_percent:true'})){
   const subsets=[];
   for(const type of ['article','conference-paper|data-paper|software-paper']){
@@ -43,8 +46,8 @@ for(const subject of subjects){
   await fs.mkdir('work/openalex/groups',{recursive:true});
   await fs.writeFile('work/openalex/groups/'+subject.id+'-'+metric+'.json',JSON.stringify(metrics[metric]));
  }
- data.subjects.push({...subject,countryScope,metrics});
- await fs.writeFile(output,JSON.stringify(data));
+ data.subjects=data.subjects.filter(old=>old.id!==subject.id);data.subjects.push({...subject,countryScope,metrics});
+ data.generatedAt=new Date().toISOString();data.status=data.subjects.length===subjects.length?'complete':'in_progress';
+ await fs.writeFile(output+'.tmp',JSON.stringify(data));await fs.rename(output+'.tmp',output);
 }
-data.status='complete';data.generatedAt=new Date().toISOString();await fs.writeFile(output,JSON.stringify(data));
-console.log(JSON.stringify({complete:true,subjects:data.subjects.length,identityCount:data.identityCount,output}));
+console.log(JSON.stringify({complete:data.status==='complete',subjects:data.subjects.length,identityCount:data.identityCount,output}));

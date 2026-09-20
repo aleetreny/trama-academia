@@ -18,6 +18,11 @@ test('programme conditions are tied to their own source and the oldest supportin
  assert.equal(r.verifiedAt,'2026-09-18T10:00:00Z');assert.equal(r.status,'programme');assert.equal(r.deadline,null);
  assert.equal(r.evidence.references.length,2);assert.equal(r.evidence.references[1].label,'Condiciones');assert.equal(r.evidenceChecks,undefined);
 });
+test('a scholarship for master students is a funding scheme, not a research degree',async()=>{
+ const r=await verifyProgramme({...seed,kind:'funding-programme',stage:'master',eligibleStages:['master','doctorado']},fetcher());
+ assert.equal(r.programmeType,'Programa de financiación');
+ assert.deepEqual(r.eligibleStages,['master','doctorado']);
+});
 test('a changed allowance cannot refresh the old editorial amount as verified',async()=>{
  const old=await verifyProgramme(seed,fetcher());
  await assert.rejects(verifyProgramme(seed,fetcher('96')),/evidence_changed: funding/);

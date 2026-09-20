@@ -37,10 +37,31 @@ test('citation uncertainty and coverage protect against flattering tiny or incom
  const subject={metrics:{volume:metric(200),impactTotal:metric(100),impactEligible:metric(60),top10:metric(15)}};
  assert.equal(computeTiers(institutions,subject,directory)[0].reason,'citation-coverage');subject.metrics.top10=metric(61);assert.throws(()=>computeTiers(institutions,subject,directory),/inconsistent_citation/);
 });
+test('country-filtered aggregates cannot rank institutions whose OpenAlex country is unknown',()=>{
+ const institutions=Array.from({length:25},(_,n)=>({id:String(n),ror:String(n),country:'RS',geography:'europe'}));
+ const directory=Object.fromEntries(institutions.map(i=>[i.ror,{id:i.id,country_code:i.id==='0'?null:'RS'}]));
+ const metric=count=>({complete:true,groups:institutions.map(i=>({key:i.id,count}))});
+ const subject={countryScope:['RS'],metrics:{volume:metric(100),impactTotal:metric(100),impactEligible:metric(100),top10:metric(20)}};
+ const rows=computeTiers(institutions,subject,directory);
+ assert.equal(rows[0].reason,'identity-country-pending');assert.equal(rows[0].tier,null);assert.equal(rows[0].volume,null);
+ assert.equal(rows[1].cohortSize,24);assert.ok(rows[1].tier);
+ directory['0'].country_code='US';assert.equal(computeTiers(institutions,subject,directory)[0].reason,'scope-pending');
+});
 test('Spanish and Portuguese programme evidence is recognised without claiming research from the degree alone',()=>{
  assert.deepEqual(fieldsFrom('Máster en Ciencia de Datos'),['Ciencia de datos']);
+ assert.deepEqual(fieldsFrom('MÉTODOS NUMÉRICOS AVANZADOS, OPTIMIZACIÓN, ECUACIONES EN DERIVADAS PARCIALES, TEORÍA DE CONTROL, Investigación Operativa'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Investigação Operacional'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Programa de Doctorado en Tecnologías de la Información, Comunicaciones y Computación'),['Informática']);
  assert.deepEqual(fieldsFrom('3D reconstruction of an object or a scene from multiple images'),['Informática']);
  assert.deepEqual(fieldsFrom('Research in cyber security and cyber-security'),['Informática']);
+ assert.deepEqual(fieldsFrom('MATEMATYKA STOSOWANA, Statystyka, Informatyka'),['Estadística','Informática','Matemáticas aplicadas']);
+ assert.ok(hasResearchComponent('PRACA DYPLOMOWA MAGISTERSKA'));
+ assert.ok(hasResearchComponent('PRACA MAGISTERSKA'));
+ assert.ok(hasResearchComponent('Przygotowanie pracy magisterskiej'));
+ assert.ok(hasResearchComponent('diplomamunka (30 kredit)'));
+ assert.equal(hasResearchComponent('MSc diploma'),false);
+ assert.deepEqual(fieldsFrom('Sistemas Computacionais e Percepcionais'),['Informática']);
+ assert.equal(hasResearchComponent('DYPLOM MAGISTRA'),false);
  assert.ok(hasResearchComponent('Du afslutter uddannelsen med at skrive dit kandidatspeciale.'));
  assert.ok(hasResearchComponent('Studimet e këtij cikli përmbyllen me një mikrotezë.'));
  assert.ok(hasResearchComponent('masterverkætlan (30 ECTS)'));

@@ -69,14 +69,14 @@ Se incluyen `article`, `conference-paper`, `data-paper` y `software-paper`, y se
 
 Para calcular un tier se exigen 50 publicaciones de actividad, 50 trabajos con impacto calculable y al menos un 80 % de cobertura de impacto. El componente de impacto usa el límite inferior de Wilson al 95 % de la proporción más citada, para no premiar resultados extremos de muestras pequeñas. La puntuación promedia al 50 % los percentiles de actividad e impacto dentro de la cohorte europea elegible. Se vuelve a ordenar esa puntuación: T1 es el 10 % superior, T2 el siguiente 15 %, T3 el siguiente 25 % y T4 el resto. Los empates reciben el mismo percentil medio; una cohorte de menos de 20 entidades no recibe tiers.
 
-Las identidades sin correspondencia, muestras insuficientes, baja cobertura y campus con geografía pendiente quedan sin tier. No se interpreta una ausencia como mala investigación. Los tiers no miden supervisión, admisión, salarios, costes ni calidad docente. Véanse el [método de citas](https://help.openalex.org/data/works/citations/) y los [tipos de publicación](https://help.openalex.org/data/work-types/).
+Las identidades sin correspondencia o sin país en OpenAlex, muestras insuficientes, baja cobertura y campus con geografía pendiente quedan sin tier. No se interpreta una ausencia como mala investigación. Los tiers no miden supervisión, admisión, salarios, costes ni calidad docente. Véanse el [método de citas](https://help.openalex.org/data/works/citations/) y los [tipos de publicación](https://help.openalex.org/data/work-types/).
 
 ```sh
 node scripts/harvest/research-metrics.mjs
 node scripts/harvest/institution-registry.mjs
 ```
 
-La descarga se detiene antes de agotar la cuota gratuita de OpenAlex y tiene un límite de 600 peticiones de red por ejecución. Las respuestas se reutilizan durante siete días; el marcador de cuota evita nuevos intentos durante el mismo día UTC cuando quedan menos de 20 créditos. Repetir el comando continúa desde la caché. Solo se publican disciplinas con los cuatro agregados completos. En la primera edición está completa informática; las otras tres disciplinas siguen pendientes, no extrapoladas desde informática. La actualización semanal de fuentes no recalcula estos indicadores.
+La descarga se detiene antes de agotar la cuota gratuita de OpenAlex y tiene un límite de 600 peticiones de red por ejecución. Las respuestas se reutilizan durante siete días; el marcador de cuota evita nuevos intentos durante el mismo día UTC cuando quedan menos de 20 créditos. Repetir el comando continúa desde la caché. Las identidades se reutilizan por ROR con su referencia y fecha, aunque al ampliar el universo cambien los lotes. `--subjects=ml,statistics,applied-math` permite priorizar disciplinas pendientes sin borrar las ya completas; cada disciplina conserva el alcance geográfico de sus propias consultas. Solo se publican disciplinas con los cuatro agregados completos. En la primera edición está completa informática; las otras tres disciplinas siguen pendientes, no extrapoladas desde informática. La actualización semanal de fuentes no recalcula estos indicadores.
 
 ## Publicación y comprobaciones
 
