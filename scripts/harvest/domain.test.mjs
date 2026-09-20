@@ -7,6 +7,11 @@ test('unknown deadlines are not open and stale checks cannot imply open',()=>{as
 test('programme existence does not imply a currently open application round',()=>assert.equal(effectiveStatus({kind:'programme',verifiedAt:'2026-09-19'},now),'programme'));
 test('preserve vacancy identity in query params while removing tracking',()=>assert.equal(canonicalUrl('https://example.org/apply?rmjob=42&utm_source=test&site=7'),'https://example.org/apply?rmjob=42&site=7'));
 test('stage selection distinguishes postdoc from doctorate',()=>{assert.equal(stageFrom('Post-Doctoral Research Visit'),'postdoc');assert.equal(stageFrom('PhD in optimization'),'doctorado');assert.equal(stageFrom('HR coordinator'),null);assert.deepEqual(fieldsFrom('Professor of medieval history'),[]);});
+test('the official computer and information science subject is recognised without generic science',()=>{
+ assert.deepEqual(fieldsFrom('PhD research in computer and information science'),['Informática']);
+ assert.deepEqual(fieldsFrom('Computer and Information Sciences'),['Informática']);
+ assert.deepEqual(fieldsFrom('PhD in information science and science communication'),[]);
+});
 test('French doctoral modelling evidence retains its applied and stochastic scope',()=>{
  assert.deepEqual(fieldsFrom('Probabilités appliquées; modèles stochastiques et applications en écologie et en biologie des systèmes; modèles mathématiques de la croissance des plantes'),['Estadística','Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('Doctorat en mathématiques: topologie et géométrie différentielle'),[]);

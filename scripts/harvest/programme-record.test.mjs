@@ -78,6 +78,17 @@ test('Leeds academic key facts outside main retain the programme duration and ad
  assert.equal(programmeText('<div hidden>'+facts+'</div><main>Research project</main>'),'Research project');
  assert.equal(programmeText('<nav>'+facts+'</nav><main>Research project</main>'),'Research project');
 });
+test('Liverpool course facts outside main preserve both study modes without taking sidebar or hidden facts',()=>{
+ const facts='<dl class="rb-course-details"><div><dt>Study mode</dt><dd>Full-time</dd><dd>Part-time</dd></div><div><dt>Duration</dt><dd>12 months</dd><dd>24 months</dd></div><div><dt>Apply by:</dt><dd><time datetime="2026-09-18">18 September 2026</time></dd></div></dl>';
+ const main='<main><h1>Advanced Computer Science MSc</h1><p>Independent research project.</p></main>';
+ const text=programmeText(facts+main);
+ assert.match(text,/Full-timePart-time/);
+ assert.match(text,/Duration12 months24 months/);
+ assert.match(text,/18 September 2026/);
+ for(const attrs of ['hidden','aria-hidden="true"','style="display:none"','role="navigation"'])assert.doesNotMatch(programmeText('<div '+attrs+'>'+facts+'</div>'+main),/12 months|18 September/);
+ assert.doesNotMatch(programmeText('<aside>'+facts+'</aside>'+main),/12 months/);
+ assert.doesNotMatch(programmeText(facts+facts+main),/12 months/);
+});
 test('Oulu ARIA button disclosures retain their scholarship conditions without admitting hidden templates',()=>{
  const panel='<div role="region" aria-labelledby="nokia-button" id="nokia-content" hidden aria-hidden="true">Nokia scholarships of 3,000 euros for accepted Computer Science applicants.</div>';
  const button='<a role="button" id="nokia-button" aria-controls="nokia-content" aria-expanded="false" href="#nokia-content">Nokia Scholarship</a>';
@@ -95,6 +106,11 @@ test('a business capstone replacing a dissertation does not verify a research ro
 test('a practicum requires an explicit academic route, as in DCU Computing',()=>{
  assert.equal(hasResearchComponent('A 30 ECTS practicum: an individual project may develop software or undertake rigorous theoretical analysis, proposing and evaluating alternative techniques.'),true);
  assert.equal(hasResearchComponent('A 30 ECTS practicum builds a prototype and develops research skills for business.'),false);
+});
+test('Czech thesis-defence rules retain the genitive diplomove prace without accepting a bachelor project',()=>{
+ assert.equal(hasResearchComponent('Součástí státní závěrečné zkoušky je obhajoba diplomové práce a odborná rozprava.'),true);
+ assert.equal(hasResearchComponent('Obhajoba diplomové práce ověřuje schopnost studenta samostatně zpracovat zadané téma a prezentovat vlastní výsledky.'),true);
+ assert.equal(hasResearchComponent('Obhajoba bakalářské práce a odborná rozprava.'),false);
 });
 test('the Chemnitz curriculum spelling Master-Arbeit identifies its thesis module',()=>{
  assert.equal(hasResearchComponent('Forschungsseminar und Forschungspraktikum (3. Semester) Modul Master-Arbeit (4. Semester)'),true);
