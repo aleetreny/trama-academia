@@ -76,6 +76,7 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 - [Adaptadores de fuentes](docs/source-adapters.md): funcionamiento y límites comprobados de los conectores.
 - [Revisión de financiación nórdica](docs/nordic-funding-review-2026-09-20.md): 52 programas incorporados el 20 de septiembre de 2026, ediciones agrupadas y discrepancias documentadas.
 - [Revisión de programas de Padua](docs/padua-review-2026-09-21.md): 17 incorporaciones, dos títulos ya presentes y un candidato pendiente, con límites de evidencia explícitos.
+- [Revisión de Austria](docs/austria-review-2026-09-21.md): 38 másteres y 6 programas de financiación, rutas agrupadas, créditos de tesis contrastados y cobertura pendiente por institución.
 
 Para ampliar la cobertura, una fuente debe declarar su alcance, conservar la procedencia y superar la revisión de identidad, disciplina, geografía y condiciones. Los candidatos se preparan con `npm run harvest:candidates`; su puntuación ordena el trabajo y no los incorpora al catálogo.
 

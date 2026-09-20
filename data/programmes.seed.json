@@ -156827,5 +156827,4024 @@
         ]
       }
     ]
+  },
+  {
+    "title": "MSc Informatik",
+    "institution": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+    "fields": [
+      "Informática",
+      "Ciencia de datos"
+    ],
+    "entry": "Título universitario previo de al menos 180 ECTS, con 30 ECTS de módulos pertinentes a la especialización. Pueden recuperarse hasta 15 ECTS antes de comenzar; la institución evalúa estudios relacionados y certificaciones. Alemán C1 para quienes no lo tienen como lengua materna.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "Para 2026/27: 363,36 €/semestre para UE/EEE/Suiza; 850 €/semestre para terceros países y depósito único de 250 €. Además, 26,20 €/semestre de contribución estudiantil. Importes sujetos a cambios.",
+    "researchNote": "El plan incluye una tesis de 24 ECTS y un seminario de 3 ECTS. Un único máster con tres especializaciones: Data Science and AI, IT-Management y Software- and Security Engineering; para una trayectoria investigadora, la tesis debe centrarse en métodos de datos, software o seguridad.",
+    "eligibilityNote": "Formato compatible con empleo, con más del 40 % de enseñanza en línea y sesiones en Wiener Neustadt. Las tres especializaciones cuentan como un título. La página anuncia 15/06/2027 para UE/EEE/Suiza y 31/03/2027 para otras nacionalidades; no se presenta como vacante financiada ni se presupone solicitud ya abierta.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "phrases": [
+          "Master Informatik",
+          "Data Science and AI, IT-Management, Software- and Security Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "phrases": [
+          "mindestens 180 ECTS",
+          "mindestens 30 ECTS-Punkte",
+          "bis zu 15 ECTS",
+          "Level C1"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Sprache Deutsch",
+          "über 40% Online-Lehre"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "phrases": [
+          "EUR 363,36/pro Semester für EU/EEA/Schweiz",
+          "EUR 850/Semester",
+          "Kaution EUR 250",
+          "EUR 26,20"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "phrases": [
+          "15.06.2027",
+          "31.03.2027"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "labelledValues": [
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeit",
+            "value": "24"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Masterarbeitsseminar",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Bio Data Science",
+    "institution": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "entry": "Grado o diploma en ciencias naturales, ingeniería o ciencias de la salud. Se piden 15 ECTS de química y análisis y 10 ECTS de microbiología/biología molecular, o experiencia profesional pertinente; pueden organizarse cursos complementarios. No se exige experiencia previa de programación ni estar trabajando.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "Para 2026/27: 363,36 €/semestre para UE/EEE/Suiza; 850 €/semestre para terceros países y depósito único de 250 €. Además, 26,20 €/semestre de contribución estudiantil. Importes sujetos a cambios.",
+    "researchNote": "Tesis de 27 ECTS precedida de propuesta de investigación y dos seminarios. El currículo combina Python, R, estadística multivariante, aprendizaje automático, modelización de datos biológicos, redes y análisis de datos ómicos. La tesis puede tratar un problema del empleador.",
+    "eligibilityNote": "Programa de Tulln compatible con empleo, aproximadamente 60 % en línea y actividades presenciales. Las fechas publicadas de marzo/agosto de 2026 ya han pasado; la próxima admisión debe confirmarse. Las clases se imparten en alemán con parte en inglés. No se convierte la formación preparatoria gratuita en una beca.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "phrases": [
+          "Master Bio Data Science"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "phrases": [
+          "Programmierung in Python",
+          "Programmierung in R",
+          "Multivariate Statistik",
+          "Machine Learning",
+          "Mathematische Modellierung biologischer Daten"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "phrases": [
+          "Research Proposal zum Thema der Master-Arbeit"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "phrases": [
+          "Chemie und Analytik mindestens 15 ECTS",
+          "Mikro- und Molekularbiologie mindestens 10 ECTS",
+          "Einstieg ohne Programmiererfahrung",
+          "keine Voraussetzung"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Deutsch (teilweise Englisch)",
+          "ca. 60%"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "phrases": [
+          "EUR 363,36/pro Semester für EU/EEA/Schweiz",
+          "EUR 850/Semester",
+          "Kaution EUR 250",
+          "EUR 26,20"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "phrases": [
+          "20. August 2026",
+          "31. März 2026"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "labelledValues": [
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeit",
+            "value": "27"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeitsseminar 1",
+            "value": "6"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeitsseminar 2",
+            "value": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Health Care Informatics",
+    "institution": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+    "fields": [
+      "Informática",
+      "Ciencia de datos"
+    ],
+    "entry": "Grado en ciencias de la salud o en un área técnica. Se ofrecen cursos preparatorios para adquirir conocimientos de la otra disciplina.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "Para 2026/27: 363,36 €/semestre para UE/EEE/Suiza; 850 €/semestre para terceros países y depósito único de 250 €. Además, 26,20 €/semestre de contribución estudiantil. Importes sujetos a cambios.",
+    "researchNote": "Tesis dividida en dos partes de 12 y 8 ECTS, con diseño de investigación y defensa de propuesta por separado. Incluye desarrollo de software, modelado de información sanitaria, interoperabilidad, sistemas, aplicaciones digitales y AI/Data Analytics. La vía relevante para TRAMA se centra en la investigación informática y de datos aplicada a salud.",
+    "eligibilityNote": "Cuatro semestres compatibles con empleo; docencia en línea del 40 % en los dos primeros y 60 % en los dos últimos, con campus en Wiener Neustadt. No es una plaza clínica ni un contrato de investigación. La página indica 15/06/2027 como fecha de solicitud y apertura a partir del 5 de octubre; se debe confirmar la edición.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "phrases": [
+          "Master Health Care Informatics"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "phrases": [
+          "Abgeschlossenes Bachelor-Studium der Gesundheitswissenschaften",
+          "abgeschlossenes Bachelor-Studium der Technik"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "phrases": [
+          "Software Engineering und Systemdesign",
+          "Artificial Intelligence & Data Analytics in Health Care",
+          "Forschungsdesign der Master-Arbeit"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Deutsch (teilweise Englisch)",
+          "40% im 1. & 2. Semester, 60% im 3. & 4. Semester"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "phrases": [
+          "EUR 363,36/pro Semester für EU/EEA/Schweiz",
+          "EUR 850/Semester",
+          "Kaution EUR 250",
+          "EUR 26,20"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "phrases": [
+          "15.06.2027",
+          "Bewerbung ab 5. Oktober möglich"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "labelledValues": [
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Masterarbeit Teil I",
+            "value": "12"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeit Teil II",
+            "value": "8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MA Consumer Research & Data Driven Marketing",
+    "institution": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+    "fields": [
+      "Ciencia de datos",
+      "Estadística"
+    ],
+    "entry": "Grado o diploma pertinente de al menos 180 ECTS, con 2 ECTS de estadística o métodos cuantitativos y 10 ECTS de materias económicas; evaluación individual del expediente.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "Para 2026/27: 363,36 €/semestre para UE/EEE/Suiza; 850 €/semestre para terceros países y depósito único de 250 €. Además, 26,20 €/semestre de contribución estudiantil. Importes sujetos a cambios.",
+    "researchNote": "Tesis de 20 ECTS, seminario de investigación y formación en métodos cuantitativos, análisis multivariante, minería de datos, Data Science y diseño experimental. Se incluye únicamente como opción para una tesis cuantitativa o metodológica en investigación del consumidor, dentro de un máster que también contiene marketing, psicología y métodos cualitativos.",
+    "eligibilityNote": "Programa de Wieselburg compatible con empleo, con ciclos de tres semanas que combinan presencialidad, docencia en línea y trabajo autónomo. La página mezcla inicio de septiembre de 2026 con plazo 15/06/2027: hay que confirmar el calendario de la edición. No se presupone equivalencia a un máster dedicado íntegramente a estadística.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "phrases": [
+          "Master Consumer Research & Data Driven Marketing"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "phrases": [
+          "mindestens 180 ECTS",
+          "mindestens 2 ECTS-Punkten",
+          "mindestens 10 ECTS-Punkten"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "phrases": [
+          "Multivariate Methoden",
+          "Methoden des Dataminings",
+          "Data Science",
+          "Experimentelles Design",
+          "Forschungsseminar"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Deutsch (teilweise Englisch)",
+          "3-Wochen-Rhythmus"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "phrases": [
+          "EUR 363,36/pro Semester für EU/EEA/Schweiz",
+          "EUR 850/Semester",
+          "Kaution EUR 250",
+          "EUR 26,20"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "phrases": [
+          "Mitte September 2026",
+          "15.06.2027"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "labelledValues": [
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Masterarbeit",
+            "value": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MA Controlling & Business Intelligence",
+    "institution": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+    "fields": [
+      "Ciencia de datos"
+    ],
+    "entry": "Grado o diploma en economía, derecho, ingeniería, ciencias naturales o sociales, o equivalente. Conocimientos de contabilidad (9 ECTS), estadística/métodos cuantitativos (2 ECTS), derecho (6 ECTS), Excel y preparación específica o cualificación profesional. Alemán C1 e inglés B2; se permiten cursos de nivelación.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "Para 2026/27: 363,36 €/semestre para UE/EEE/Suiza; 850 €/semestre para terceros países y depósito único de 250 €. Además, 26,20 €/semestre de contribución estudiantil. Importes sujetos a cambios.",
+    "researchNote": "Formación en analítica avanzada, SQL y modelado de datos, análisis mediante scripts e IA para control de gestión. El plan separa un módulo de 14 ECTS que reúne diseño de investigación y primera parte de tesis, y una segunda parte de 8 ECTS; los 22 ECTS no se atribuyen íntegramente a escritura de tesis. Para TRAMA, el encaje exige un trabajo investigador de datos, y no únicamente gestión o contabilidad.",
+    "eligibilityNote": "Programa compatible con empleo en City Campus Wiener Neustadt. El acceso menciona apertura el 05/10/2026, aunque otro párrafo conserva una referencia a mediados de septiembre. Las fechas finales publicadas son 15/06/2027 para UE/EEE/Suiza y 31/03/2027 para otras nacionalidades; deben confirmarse con la institución.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "phrases": [
+          "Master Controlling & Business Intelligence"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "phrases": [
+          "mindestens 9 ECTS-Punkten",
+          "mindestens 2 ECTS-Punkten",
+          "mindestens 6 ECTS-Punkten",
+          "Deutsch Niveaustufe C1",
+          "Englisch Niveaustufe B2"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "phrases": [
+          "Advanced Data Analytics",
+          "SQL & Datamodellierung für BI",
+          "Skriptgestützte Datenanalyse",
+          "Künstliche Intelligenz im Controlling"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Deutsch (teilweise Englisch)"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "phrases": [
+          "EUR 363,36/pro Semester für EU/EEA/Schweiz",
+          "EUR 850/Semester",
+          "Kaution EUR 250",
+          "EUR 26,20"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "phrases": [
+          "05. Oktober 2026",
+          "Bewerbungen ab Mitte September wieder möglich",
+          "15.06.2027",
+          "31.03.2027"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "labelledValues": [
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Forschungsdesign der Master-Arbeit & Master-Arbeit Teil I",
+            "value": "14"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeit Teil II",
+            "value": "8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Mechatronik",
+    "institution": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado pertinente o título equivalente o superior de al menos 180 ECTS, otorgado por una institución reconocida. Selección mediante entrevista con la dirección del programa.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "Para 2026/27: 363,36 €/semestre para UE/EEE/Suiza; 850 €/semestre para terceros países y depósito único de 250 €. Además, 26,20 €/semestre de contribución estudiantil. Importes sujetos a cambios.",
+    "researchNote": "Tesis de 21 ECTS y seminarios de 4 y 9 ECTS. El itinerario Computational Engineering aborda modelización matemática, elementos finitos, dinámica de fluidos computacional y simulación de sistemas; se combina con control, identificación de sistemas, datos y robótica del plan común. La inclusión se limita al encaje investigador computacional, no a toda la ingeniería mecánica.",
+    "eligibilityNote": "Compatible con empleo, con clases en Wiener Neustadt los jueves, viernes y algunos sábados. Computational Engineering, Mechatronic Systems y Additive Manufacturing son tres especializaciones de un solo título. Los plazos publicados de marzo/agosto de 2026 han pasado; debe confirmarse la siguiente admisión.",
+    "evidencePages": [
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik/spezialisierung/computational-engineering-ce",
+        "label": "Itinerario Computational Engineering"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+        "phrases": [
+          "Master Mechatronik",
+          "Drei Spezialisierungen"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+        "phrases": [
+          "mindestens 180 ECTS",
+          "Aufnahmegespräch"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Sprache Deutsch"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+        "phrases": [
+          "EUR 363,36",
+          "EUR 850,00",
+          "Kaution EUR 250,00",
+          "EUR 26,20"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+        "phrases": [
+          "18.08.2026",
+          "31.03.2026"
+        ]
+      },
+      {
+        "field": "computationalResearch",
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik/spezialisierung/computational-engineering-ce",
+        "phrases": [
+          "technische Systeme mathematisch zu modellieren",
+          "Finite Elemente, Matlab, Simulink",
+          "Computational Fluid Dynamics"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+        "labelledValues": [
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeit",
+            "value": "21"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeitsseminar 1",
+            "value": "4"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master-Arbeitsseminar 2",
+            "value": "9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc MedTech – Functional Imaging, Conventional & Ion Radiotherapy",
+    "institution": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+    "fields": [
+      "Informática",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Título universitario técnico, o de ciencias de la salud o equivalente en medicina nuclear, diagnóstico radiológico o radioterapia, de una institución acreditada. Entrevista de admisión.",
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "Para 2026/27: 363,36 €/semestre para UE/EEE/Suiza; 850 €/semestre para terceros países y depósito único de 250 €. Además, 26,20 €/semestre de contribución estudiantil. Importes sujetos a cambios.",
+    "researchNote": "Tesis de 28 ECTS y tutoría de 2 ECTS. El plan incluye matemáticas aplicadas, estadística médica, informática médica, señales y dos asignaturas de algoritmos de procesamiento y visualización de imágenes. Se incluye para una tesis computacional o metodológica en imagen, dentro de un máster que también forma en radioterapia y tecnología clínica.",
+    "eligibilityNote": "Formato compatible con empleo, con enseñanza a distancia y presencia obligatoria en Wiener Neustadt para exámenes y talleres, normalmente dos veces por semestre y una semana de agosto. El estudiante asume viajes y visado; la institución advierte que esas estancias no bastan para obtener visado de estudiante. La página anuncia solicitudes del 05/10/2026 al 15/05/2027; no se presupone apertura antes de esa fecha.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "phrases": [
+          "Functional Imaging",
+          "Ion Radiotherapy"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "phrases": [
+          "technischen Bachelor-, Master-, Diplom- oder PhD-Studiums",
+          "Gesundheitswissenschaften",
+          "Bewerbungsgespräch"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "phrases": [
+          "Applied Mathematics",
+          "Medical Statistics",
+          "Image Processing Algorithms and Visualization 1",
+          "Image Processing Algorithms and Visualization 2"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Sprache English",
+          "zweimal pro Semester",
+          "Workshopwoche im August"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "phrases": [
+          "EUR 363,36",
+          "EUR 850/Semester",
+          "Kaution EUR 250",
+          "EUR 26,20"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "phrases": [
+          "05.10.2026-15.05.2027"
+        ]
+      },
+      {
+        "field": "travel",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "phrases": [
+          "Nein, die Fachhochschule übernimmt dafür keine Kosten",
+          "um ein Studierendenvisum zu erhalten"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "labelledValues": [
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master Thesis",
+            "value": "28"
+          },
+          {
+            "container": ".course",
+            "labelSelector": "div:first-child",
+            "valueSelector": "div:last-child",
+            "label": "Master Tutorial",
+            "value": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Informatik",
+    "institution": "Vorarlberg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhv.at/studium/technik/informatik-msc",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente de informática o equivalente, normalmente de al menos 180 ECTS. El expediente debe cubrir al menos 6 ECTS en cada una de cinco áreas: algoritmos y estructuras de datos, programación orientada a objetos, sistemas distribuidos, bases de datos y matemáticas. Se pueden imponer complementos. Alemán e inglés B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La página indica actualmente ausencia de tasas de matrícula; se debe abonar la contribución estudiantil ÖH. No se fija aquí su importe ni se garantiza financiación de manutención.",
+    "researchNote": "Tesis de 28 ECTS, seminario de 4 ECTS y proyecto de informática de 8 ECTS. Las optativas incluyen métodos formales, sistemas distribuidos, redes neuronales, aprendizaje por refuerzo, visión y optimización. Computer Systems, Internet Computing e Intelligent Systems son áreas de especialización dentro de un único título.",
+    "eligibilityNote": "Estudio a tiempo completo en Dornbirn, con docencia principalmente de martes a jueves. Se recomienda trabajar como máximo dos días por semana. La titulación MSc se confirma en el original alemán; la traducción inglesa consultada contiene un rótulo de grado incoherente. El calendario publicado es anual y no identifica la edición: apertura el 15 de noviembre; fases hasta el 1 de marzo, 31 de mayo y, si quedan plazas, 31 de agosto. Para terceros países, salvo Suiza, el límite indicado es el 1 de marzo. Hay que confirmar el curso y la disponibilidad.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "phrases": [
+          "Master Informatik",
+          "Grundlagen von maschinellem Lernen",
+          "Reinforcement Learning"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "phrases": [
+          "mindestens 180 ECTS",
+          "Algorithmen und Datenstrukturen",
+          "objektorientierten Programmiersprache",
+          "Verteilte Systeme",
+          "Datenbanken",
+          "jeweils mindestens 6 ECTS"
+        ]
+      },
+      {
+        "field": "format2",
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "phrases": [
+          "zwei Arbeitstage pro Woche"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "phrases": [
+          "4 Semester | 120 ECTS",
+          "Master of Science in Engineering",
+          "Deutsch, teils Englisch",
+          "Aktuell keine Studiengebühren"
+        ]
+      },
+      {
+        "field": "languages",
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "phrases": [
+          "Niveau B2 in Deutsch und Englisch"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "phrases": [
+          "ab 15. November bis 1. März",
+          "bis 31. Mai",
+          "bis 31. August",
+          "Ausnahme Schweiz"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "labelledValues": [
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Masterarbeit",
+            "value": "28"
+          },
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Seminar zur Masterarbeit",
+            "value": "4"
+          },
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Projekt Master Informatik",
+            "value": "8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Wirtschaftsinformatik – Digital Transformation",
+    "institution": "Vorarlberg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+    "fields": [
+      "Informática",
+      "Estadística"
+    ],
+    "entry": "Grado de informática empresarial, administración, informática o equivalente. La página pide 30 ECTS pertinentes en total y enumera mínimos de 6 ECTS en cada una de cuatro áreas: informática empresarial, empresa, informática y matemáticas/estadística; deben confirmarse los créditos restantes. También contempla grado más 4.500 horas de experiencia pertinente en los últimos tres años, en al menos dos de cuatro áreas del programa. Alemán e inglés B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La página indica actualmente ausencia de tasas de matrícula; se debe abonar la contribución estudiantil ÖH. No se fija aquí su importe ni se garantiza financiación de manutención.",
+    "researchNote": "Tesis de 27 ECTS, seminario y coloquio, además de proyectos aplicados. Incluye gestión y análisis de datos, estadística aplicada, inteligencia artificial, arquitectura y desarrollo de sistemas de información. El encaje investigador depende de orientar la tesis a informática, datos o métodos cuantitativos.",
+    "eligibilityNote": "Formato compatible con empleo en Dornbirn. Un proyecto del empleador puede facilitar el trabajo aplicado, pero el original alemán no exige estar contratado por una empresa asociada. Se conservan los requisitos del original alemán ante una indicación divergente de la versión inglesa. El calendario publicado es anual y no identifica la edición: apertura el 15 de noviembre; fases hasta el 1 de marzo, 31 de mayo y, si quedan plazas, 31 de agosto. Para terceros países, salvo Suiza, el límite indicado es el 1 de marzo. Hay que confirmar el curso y la disponibilidad.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "phrases": [
+          "Wirtschaftsinformatik",
+          "Digital Transformation"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "phrases": [
+          "Angewandte Statistik",
+          "Entwicklung von Informationssystemen",
+          "Data and Knowledge Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "phrases": [
+          "mindestens 30 ECTS",
+          "mindestens 4500 Stunden",
+          "nicht länger als 3 Jahre",
+          "zwei der vier Kernbereiche"
+        ]
+      },
+      {
+        "field": "format2",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "phrases": [
+          "Berufsbegleitend"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "phrases": [
+          "4 Semester | 120 ECTS",
+          "Master of Science in Engineering",
+          "Deutsch, teils Englisch",
+          "Aktuell keine Studiengebühren"
+        ]
+      },
+      {
+        "field": "languages",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "phrases": [
+          "Niveau B2 in Deutsch und Englisch"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "phrases": [
+          "ab 15. November bis 1. März",
+          "bis 31. Mai",
+          "bis 31. August",
+          "Ausnahme Schweiz"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "labelledValues": [
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Masterarbeit",
+            "value": "27"
+          },
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Seminar zur Masterarbeit",
+            "value": "1"
+          },
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Kolloquium zur Masterarbeit",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Mechatronics",
+    "institution": "Vorarlberg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente en mecatrónica, electrotecnia, electrónica o equivalente. Se requieren 12 ECTS de cálculo, dimensionamiento y optimización en electricidad/electrónica; 12 ECTS en ingeniería mecánica y 6 ECTS de programación. Pueden exigirse complementos antes del inicio. Alemán e inglés B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La página indica actualmente ausencia de tasas de matrícula; se debe abonar la contribución estudiantil ÖH. No se fija aquí su importe ni se garantiza financiación de manutención.",
+    "researchNote": "Tesis de 28 ECTS, seminario de 3 ECTS y proyecto en dos partes de 3 y 6 ECTS. El plan contiene modelización y simulación, álgebra lineal y optimización numérica, análisis funcional y ecuaciones diferenciales parciales, señales y aprendizaje automático. Se incluye por estas vías computacionales y de modelización, que deben orientar también la tesis.",
+    "eligibilityNote": "Programa a tiempo completo en Dornbirn. Las optativas permiten desarrollar robótica autónoma, sistemas embebidos o procesamiento de imágenes dentro del mismo máster; no se cuentan como títulos independientes. El calendario publicado es anual y no identifica la edición: apertura el 15 de noviembre; fases hasta el 1 de marzo, 31 de mayo y, si quedan plazas, 31 de agosto. Para terceros países, salvo Suiza, el límite indicado es el 1 de marzo. Hay que confirmar el curso y la disponibilidad.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "phrases": [
+          "Master Mechatronics"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "phrases": [
+          "Modellierung und Simulation mechatronischer Systeme",
+          "Lineare Algebra und numerische Optimierung",
+          "Funktionalanalysis und partielle Differentialgleichungen",
+          "Sensoren, Signale und Maschinelles Lernen"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "phrases": [
+          "Berechnung, Dimensionierung und Optimierung in Elektrotechnik und Elektronik",
+          "Berechnung, Dimensionierung und Optimierung in Maschinenbau",
+          "vor Beginn des Masterstudiums Mechatronics"
+        ]
+      },
+      {
+        "field": "format2",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "phrases": [
+          "Vollzeit"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "phrases": [
+          "4 Semester | 120 ECTS",
+          "Master of Science in Engineering",
+          "Deutsch, teils Englisch",
+          "Aktuell keine Studiengebühren"
+        ]
+      },
+      {
+        "field": "languages",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "phrases": [
+          "Niveau B2 in Deutsch und Englisch"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "phrases": [
+          "ab 15. November bis 1. März",
+          "bis 31. Mai",
+          "bis 31. August",
+          "Ausnahme Schweiz"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "labelledValues": [
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Masterarbeit",
+            "value": "28"
+          },
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Seminar zur Masterarbeit",
+            "value": "3"
+          },
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Vertiefungsprojekt - Konzept",
+            "value": "3"
+          },
+          {
+            "container": "tr",
+            "labelSelector": "td:first-child",
+            "valueSelector": "td:last-child",
+            "label": "Vertiefungsprojekt - Umsetzung",
+            "value": "6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Data Science and Artificial Intelligence",
+    "institution": "FH JOANNEUM University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-data-science-and-artificial-intelligence/",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Grado o equivalente de 180 ECTS en las disciplinas admitidas, que incluyen informática, matemáticas/estadística, física/electrónica, economía/econometría e ingeniería. Alternativamente, otro grado de 180 ECTS con al menos 50 ECTS en matemáticas, estadística o informática. Evaluación individual y posibles complementos; inglés B2.",
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha del itinerario publica 363,36 € por semestre. Deben confirmarse las condiciones por nacionalidad, la contribución estudiantil y otros gastos; no implica una beca.",
+    "researchNote": "Tesis de 20 ECTS con proyecto investigador independiente y supervisión, más seminario de 2,5 ECTS. Combina modelización numérica, estadística, redes neuronales, minería de datos y optimización. Industrial Data Science and AI-based Optimisation, Machine Learning and Generative AI, y Big Data and Business Intelligence son tres itinerarios de un único máster.",
+    "eligibilityNote": "Programa de Graz compatible con empleo. Los requisitos y créditos de tesis se documentan con el itinerario Industrial Data Science. El calendario indica curso 2027/28, apertura en noviembre e inicio el 04/10/2027, con varias fases de selección; no se presupone solicitud ya abierta.",
+    "researchEvidenceUrl": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/my-studies/curriculum/",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en",
+        "label": "Itinerario y datos académicos"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/my-studies/curriculum/",
+        "label": "Plan de estudios y tesis"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/admission/application-requirements/",
+        "label": "Requisitos de acceso"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/admission/",
+        "label": "Calendario de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en",
+        "phrases": [
+          "Data Science and Artificial Intelligence",
+          "Unterrichtssprache English",
+          "Standort Graz"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en",
+        "phrases": [
+          "4 Semester / 120 ECTS",
+          "€ 363,36 per_semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Master's Thesis 20.00 ECTS",
+          "M250807404",
+          "Independent implementation of the planned research project",
+          "Regular coordination with the supervisor"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Numerics and Computational Optimisation",
+          "Probability Theory and Descriptive Statistics",
+          "Machine Learning with Artificial Neural Networks"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/admission/application-requirements/",
+        "phrases": [
+          "at least 180 ECTS credits",
+          "at least 50 ECTS credits",
+          "minimum level of B2"
+        ]
+      },
+      {
+        "field": "programmeIdentity",
+        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-data-science-and-artificial-intelligence/",
+        "phrases": [
+          "Data Science and Artificial Intelligence"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/admission/",
+        "phrases": [
+          "2027/2028",
+          "possible from November",
+          "04.10.2027"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Cybersecurity and Ethical Hacking",
+    "institution": "FH JOANNEUM University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente, de ingeniería o empresa, con al menos 120 ECTS en el conjunto de áreas de TIC, redes, software, programación, proyectos, bases de datos, empresa/derecho y trabajos académicos que enumera la institución. Alemán e inglés B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha del itinerario publica 363,36 € por semestre. Deben confirmarse las condiciones por nacionalidad, la contribución estudiantil y otros gastos; no implica una beca.",
+    "researchNote": "Tesis individual de 14 ECTS, con métodos científicos y seminario específico. El plan desarrolla software seguro, criptografía, seguridad de redes y sistemas, análisis de malware y técnicas de aprendizaje automático aplicadas a seguridad.",
+    "eligibilityNote": "Programa de Kapfenberg compatible con empleo y familia, con presencialidad y enseñanza en línea. La página indica inicio el 25/09/2026 y una última fase hasta el 05/10/2026; confirmar disponibilidad y plazos específicos para solicitudes internacionales.",
+    "researchEvidenceUrl": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/my-studies/curriculum/",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/my-studies/curriculum/",
+        "label": "Plan de estudios y tesis"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/admissions/application-requirements/",
+        "label": "Requisitos de acceso"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/admissions/",
+        "label": "Calendario de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en",
+        "phrases": [
+          "Cybersecurity and Ethical Hacking",
+          "Standort Kapfenberg",
+          "Deutsch und English"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en",
+        "phrases": [
+          "4 Semester / 120 ECTS",
+          "€ 363,36 per_semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Master Thesis 14.00 ECTS",
+          "m240419401",
+          "Students work independently on a research topic",
+          "scientific research methods"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Secure Software Design",
+          "Applied Cryptography"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/admissions/application-requirements/",
+        "phrases": [
+          "at least 120 ECTS",
+          "at least Level B2",
+          "English and German"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/admissions/",
+        "phrases": [
+          "25.09.2026",
+          "05.10.2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DI Business Informatics",
+    "institution": "FH JOANNEUM University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-information-management/",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado pertinente con formación sólida en tecnologías de información/comunicaciones, como informática, informática empresarial o técnica. Se admiten titulaciones equivalentes y pueden exigirse complementos durante el primer año. Alemán e inglés B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha del itinerario publica 363,36 € por semestre. Deben confirmarse las condiciones por nacionalidad, la contribución estudiantil y otros gastos; no implica una beca.",
+    "researchNote": "La ruta Software and Digital Experience Engineering documenta una tesis de 22 ECTS y seminario de 2 ECTS, con investigación independiente y defensa. Permite trabajar en software, aplicaciones web/móviles, usabilidad, realidad virtual y aumentada. IT Architecture y Software and Digital Experience Engineering se agrupan en un único máster.",
+    "eligibilityNote": "Programa compatible con empleo en Graz. La ficha principal indica alemán y la página de requisitos menciona alemán e inglés. El título otorgado es DiplomingenieurIn (DI); Business Informatics es la denominación actual y algunas páginas de admisión conservan Information Management. Confirmar la fase de acceso: se publica 05/10/2026.",
+    "researchEvidenceUrl": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/my-studies/curriculum/",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en",
+        "label": "Itinerario y datos académicos"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/my-studies/curriculum/",
+        "label": "Plan de estudios y tesis"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/admissions/application-requirements/",
+        "label": "Requisitos de acceso"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/admissions/",
+        "label": "Calendario de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en",
+        "phrases": [
+          "DiplomingenieurIn (DI)",
+          "Business Informatics",
+          "Unterrichtssprache Deutsch",
+          "Standort Graz"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en",
+        "phrases": [
+          "4 Semester / 120 ECTS",
+          "€ 363,36 per_semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Master's Thesis 22.00 ECTS",
+          "200423401",
+          "carry out a research project independently"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Advanced Software Engineering 1",
+          "Augmented and Virtual Reality Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/admissions/application-requirements/",
+        "phrases": [
+          "sound education in information and/or communications technology",
+          "during your first year of study",
+          "taught in German and English",
+          "level B2"
+        ]
+      },
+      {
+        "field": "programmeIdentity",
+        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-information-management/",
+        "phrases": [
+          "Business Informatics"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc eHealth",
+    "institution": "FH JOANNEUM University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-ehealth/",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Ciencia de datos"
+    ],
+    "entry": "Para Digital Health Technologies: grado pertinente de informática, tecnología médica, salud o empresa; conocimientos de programación Java, bases SQL, redes y contexto sanitario. Se espera afinidad tecnológica y conocimientos básicos de TI también en quienes provienen de salud o empresa. Alemán B2.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha del itinerario publica 363,36 € por semestre. Deben confirmarse las condiciones por nacionalidad, la contribución estudiantil y otros gastos; no implica una beca.",
+    "researchNote": "El plan vigente de Digital Health Technologies exige una tesis de 25 ECTS, supervisión y un componente técnico en forma de demostrador o prototipo. Incluye inteligencia artificial aplicada a salud, interoperabilidad, análisis de datos, proyectos y lectura crítica de publicaciones. El plan anterior de 23 ECTS de tesis se identifica como extinguido y no se usa para describir la edición actual.",
+    "eligibilityNote": "Programa de Graz compatible con empleo. Digital Health Technologies y Digital Transformation in Healthcare pertenecen al mismo máster eHealth. El encaje investigador de esta ficha se documenta en la ruta tecnológica; confirmar las condiciones de la otra ruta por separado. La página publica fase hasta el 05/10/2026.",
+    "researchEvidenceUrl": "https://www.fh-joanneum.at/digital-health-technologies/master/en/my-studies/curriculum/",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en",
+        "label": "Itinerario y datos académicos"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/my-studies/curriculum/",
+        "label": "Plan de estudios y tesis"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/admissions/application-requirements/",
+        "label": "Requisitos de acceso"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/admissions/",
+        "label": "Calendario de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en",
+        "phrases": [
+          "eHealth",
+          "Digital Health Technologies",
+          "Unterrichtssprache Deutsch",
+          "Standort Graz"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en",
+        "phrases": [
+          "4 Semester / 120 ECTS",
+          "€ 363,36 per_semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/my-studies/curriculum/",
+        "phrases": [
+          "M250415401",
+          "Master Thesis DTH 25.00 ECTS",
+          "must meet the scientific criteria",
+          "demonstrator or prototype"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Artificial Intelligence in Health Care",
+          "Training and validation of AI models with health data",
+          "Advanced SNOMED and FHIR"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/admissions/application-requirements/",
+        "phrases": [
+          "programming in JAVA and SQL databases",
+          "German at level B2",
+          "Bachelor’s degrees in health or business studies"
+        ]
+      },
+      {
+        "field": "programmeIdentity",
+        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-ehealth/",
+        "phrases": [
+          "eHealth"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Electronic Engineering",
+    "institution": "FH JOANNEUM University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-electronic-engineering/",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Para Embedded Systems Engineering: grado o diploma pertinente; para grados STEM de 180 ECTS se piden al menos 30 ECTS en electrónica e informática técnica/ingeniería de computadores. Posibles complementos durante el primer año. Inglés B2. La página de acceso también menciona System Test Engineering: conviene confirmar el itinerario al solicitar.",
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha del itinerario publica 363,36 € por semestre. Deben confirmarse las condiciones por nacionalidad, la contribución estudiantil y otros gastos; no implica una beca.",
+    "researchNote": "La ruta Embedded Systems Engineering documenta una tesis de 22 ECTS sobre un problema de ingeniería en un entorno científico o industrial, además de formación en métodos y escritura científica. El contenido incluye software embebido, arquitecturas, sistemas en chip, análisis de datos y aprendizaje automático.",
+    "eligibilityNote": "Un único título con tres itinerarios: Embedded Systems Engineering, System Test Engineering y Power Electronic Engineering. El encaje para TRAMA se centra en los dos primeros. Los datos de duración, idioma, tasas y tesis aquí documentados proceden de Embedded Systems Engineering, en Graz. La página muestra fase hasta el 25/01/2027; confirmar apertura y condiciones.",
+    "researchEvidenceUrl": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/my-studies/curriculum/",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en",
+        "label": "Itinerario y datos académicos"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/my-studies/curriculum/",
+        "label": "Plan de estudios y tesis"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/admissions/application-requirements/",
+        "label": "Requisitos de acceso"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/admissions/",
+        "label": "Calendario de admisión"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en",
+        "phrases": [
+          "Electronic Engineering",
+          "Unterrichtssprache English",
+          "Standort Graz"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en",
+        "phrases": [
+          "4 Semester / 120 ECTS",
+          "€ 363,36 per_semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/my-studies/curriculum/",
+        "phrases": [
+          "Master's Thesis 22.00 ECTS",
+          "M240862404",
+          "industrial or scientific environment",
+          "Scientific Working 2.00 ECTS"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/admissions/application-requirements/",
+        "phrases": [
+          "180 ECTS credits",
+          "at least 30 ECTS credits",
+          "electronics and technical informatics / computer engineering",
+          "English at level B2",
+          "System Test Engineering"
+        ]
+      },
+      {
+        "field": "programmeIdentity",
+        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-electronic-engineering/",
+        "phrases": [
+          "Electronic Engineering"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc AI for Sustainable Technologies",
+    "institution": "Salzburg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente de 180 ECTS: al menos 25 ECTS en informática, 10 en matemáticas/estadística y 5 en ciencias económicas/sociales. Se pueden completar hasta 6 ECTS durante el primer año. Alemán e inglés B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363 € de matrícula y 26,20 € de contribución estudiantil por semestre. Confirmar condiciones de la edición y posibles depósitos para solicitantes internacionales.",
+    "researchNote": "Tesis independiente de 19 ECTS con pregunta de investigación, hipótesis, revisión de literatura y defensa científica. Incluye aprendizaje automático, software y datos; los proyectos permiten orientarse a tecnologías del lenguaje, aprendizaje por refuerzo o imagen médica e industrial.",
+    "eligibilityNote": "Compatible con empleo en Campus Urstein. Aproximadamente el 40 % de asignaturas se imparte en inglés. Tiene clases entre semana, viernes y sábados, además de una semana intensiva por semestre. La investigación y los proyectos no suponen un contrato remunerado.",
+    "researchEvidenceUrl": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master/curriculum",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master/curriculum",
+        "label": "Currículo y trabajo de investigación"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master/zugangsvoraussetzungen",
+        "label": "Requisitos de acceso"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master",
+        "phrases": [
+          "AI for Sustainable Technologies",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "ca. 40 Prozent",
+          "Campus Urstein"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master",
+        "phrases": [
+          "363 Euro pro Semester",
+          "26,20 Euro pro Semester"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master",
+        "phrases": [
+          "Data Science, Machine Learning",
+          "Softwareengineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master/zugangsvoraussetzungen",
+        "phrases": [
+          "180 ECTS",
+          "Informatik (u.a. Grundlagen der Softwareentwicklung, Objektorientierte Programmierung, Datenbanken etc.)25",
+          "Mathematik & Statistik10",
+          "Wirtschafts- und Sozialwissenschaften5",
+          "bis zu 6 ECTS",
+          "Level B2",
+          "Niveau B2"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master/curriculum",
+        "labelledValues": [
+          {
+            "container": ".card-body.content-area",
+            "labelSelector": "h3",
+            "valueSelector": "tr:has(th:contains(\"ECTS-Punkte\")) td",
+            "label": "Masterarbeit",
+            "value": "19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Code and Interactive Systems",
+    "institution": "Salzburg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente. También se admite un grado de otra área con 20 ECTS STEM y 25 ECTS de desarrollo de software, o experiencia profesional/de proyectos equivalente. Solicitud y entrevista de admisión.",
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363 € de matrícula y 26,20 € de contribución estudiantil por semestre. Confirmar condiciones de la edición y posibles depósitos para solicitantes internacionales.",
+    "researchNote": "Tesis de 20 ECTS que exige formular preguntas científicas, elegir métodos, diseñar y ejecutar estudios y analizar sus resultados; incluye seminarios y formación en métodos de investigación. Game & Simulation Engineering y Web Engineering son especializaciones de un único programa, con optativas como Deep Learning & Explainable AI.",
+    "eligibilityNote": "Programa de Campus Urstein compatible con empleo, con clases presenciales y en línea y una semana de proyecto por semestre. Antes se denominaba MultiMediaTechnology. La página conserva el plazo 01/04/2026 para determinados solicitantes internacionales; debe confirmarse el próximo calendario. Puede requerirse depósito de matrícula según nacionalidad o país del título previo.",
+    "researchEvidenceUrl": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master/curriculum",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master/curriculum",
+        "label": "Currículo y trabajo de investigación"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master/admission-application",
+        "label": "Requisitos de acceso"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master",
+        "phrases": [
+          "Code and Interactive Systems",
+          "formerly",
+          "MultiMediaTechnology"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master",
+        "phrases": [
+          "4 semesters (120 ECTS)",
+          "Language of instruction:English"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master",
+        "phrases": [
+          "Game & Simulation Engineering",
+          "Web Engineering",
+          "Deep Learning & Explainable AI"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master",
+        "phrases": [
+          "Euro 363",
+          "Euro 26.20"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master/admission-application",
+        "phrases": [
+          "20 ECTS credits in MINT",
+          "25 ECTS credits in the field of software development",
+          "equivalent project or work experience",
+          "1 April 2026",
+          "tuition fee deposit"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master/curriculum",
+        "labelledValues": [
+          {
+            "container": ".card-body.content-area",
+            "labelSelector": "h3",
+            "valueSelector": "tr:has(th:contains(\"ECTS-Punkte\")) td",
+            "label": "Master Thesis",
+            "value": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DI Cyber Security",
+    "institution": "Salzburg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente de 180 ECTS, con 25 ECTS de informática, 10 de redes y seguridad, 5 de matemáticas y 5 de ciencias económicas/sociales. Pueden exigirse hasta 6 ECTS complementarios en el primer año. Alemán e inglés B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363 € de matrícula y 26,20 € de contribución estudiantil por semestre. Confirmar condiciones de la edición y posibles depósitos para solicitantes internacionales.",
+    "researchNote": "Tesis de 19 ECTS con investigación científica independiente, análisis del problema e hipótesis, además de lectura y discusión de resultados actuales. El núcleo se centra en seguridad operativa, sistemas y redes, con simulación de ataque y defensa y participación en líneas de investigación del departamento.",
+    "eligibilityNote": "Compatible con empleo en Campus Urstein. Aproximadamente el 45 % de clases se imparte en inglés. El título otorgado es Diplomingenieur*in (DI), de nivel máster. Incluye clases presenciales, sesiones en línea y una semana intensiva por semestre; confirmar calendario de admisión.",
+    "researchEvidenceUrl": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master/curriculum",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master/curriculum",
+        "label": "Currículo y trabajo de investigación"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master/zugangsvoraussetzungen",
+        "label": "Requisitos de acceso"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master",
+        "phrases": [
+          "Cyber Security",
+          "Diplomingenieur*in (DI)"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "ca. 45 Prozent",
+          "Campus Urstein"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master",
+        "phrases": [
+          "aktiv in die Forschungsschwerpunkte",
+          "wissenschaftliche Problemstellungen"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master",
+        "phrases": [
+          "363 Euro pro Semester",
+          "26,20 Euro pro Semester"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master/zugangsvoraussetzungen",
+        "phrases": [
+          "180 ECTS",
+          "Informatik (u.a. Grundlagen der Softwareentwicklung, Objektorientierte Programmierung, Datenbanken etc.)25",
+          "Grundlagen der Kryptologie)10",
+          "Mathematik5",
+          "Wirtschafts- und Sozialwissenschaften5",
+          "bis zu 6 ECTS",
+          "Level B2",
+          "Niveau B2"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master/curriculum",
+        "labelledValues": [
+          {
+            "container": ".card-body.content-area",
+            "labelSelector": "h3",
+            "valueSelector": "tr:has(th:contains(\"ECTS-Punkte\")) td",
+            "label": "Master Thesis",
+            "value": "19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DI Industrial Informatics & Robotics",
+    "institution": "Salzburg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente de 180 ECTS, con 15 ECTS de informática, 10 de mecatrónica, 10 de matemáticas/estadística y 5 de ciencias económicas/sociales. Se pueden completar hasta 6 ECTS durante el primer año. Confirmar requisitos lingüísticos con el programa.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363 € de matrícula y 26,20 € de contribución estudiantil por semestre. Confirmar condiciones de la edición y posibles depósitos para solicitantes internacionales.",
+    "researchNote": "Tesis independiente de 19 ECTS con preguntas científicas e hipótesis. Combina informática industrial, software y sistemas, robótica móvil, algoritmos numéricos y modelización de sistemas conectados. Los proyectos, la lectura de artículos y los centros de investigación ofrecen vías para una tesis computacional.",
+    "eligibilityNote": "Compatible con empleo en Campus Urstein; algunas clases se imparten en inglés. La página de acceso publica B2 de alemán e inglés, pero ese apartado conserva por error el nombre Cyber Security: se deja pendiente la confirmación específica. El título otorgado es DI, de nivel máster.",
+    "researchEvidenceUrl": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master/curriculum",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master/curriculum",
+        "label": "Currículo y trabajo de investigación"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master/zugangsvoraussetzungen",
+        "label": "Requisitos de acceso"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master",
+        "phrases": [
+          "Industrial Informatics & Robotics",
+          "Diplomingenieur*in (DI)"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "Einzelne Lehrveranstaltungen finden auf Englisch statt"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master",
+        "phrases": [
+          "Software- und Systems- Engineering",
+          "Masterarbeit"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master",
+        "phrases": [
+          "363 Euro pro Semester",
+          "26,20 Euro pro Semester"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master/zugangsvoraussetzungen",
+        "phrases": [
+          "180 ECTS",
+          "Informatik (u.a. Grundlagen der Softwareentwicklung, Objektorientierte Programmierung, Datenbanken etc.)15",
+          "Technische Mechanik etc.)10",
+          "Mathematik & Statistik10",
+          "Wirtschafts- und Sozialwissenschaften5",
+          "bis zu 6 ECTS",
+          "Für den Masterstudiengang Cyber Security"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master/curriculum",
+        "labelledValues": [
+          {
+            "container": ".card-body.content-area",
+            "labelSelector": "h3",
+            "valueSelector": "tr:has(th:contains(\"ECTS-Punkte\")) td",
+            "label": "Masterarbeit",
+            "value": "19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DI IT-Management & Consulting",
+    "institution": "Salzburg University of Applied Sciences",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos"
+    ],
+    "entry": "Grado pertinente de al menos tres años, de informática empresarial o relacionado, con al menos 10 ECTS de programación y 10 ECTS de administración de empresas. Pueden imponerse hasta 6 ECTS complementarios. Alemán B2; la institución indica inglés B2 como ventajoso.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363 € de matrícula y 26,20 € de contribución estudiantil por semestre. Confirmar condiciones de la edición y posibles depósitos para solicitantes internacionales.",
+    "researchNote": "Tesis de 19 ECTS con hipótesis y método científico, orientada a la especialización elegida. El encaje para TRAMA se concentra en arquitectura y seguridad de sistemas, analítica y nuevas tecnologías de IA, con lectura de artículos y colaboración con el Applied Data Science Lab, dentro de un programa que también cubre dirección y consultoría.",
+    "eligibilityNote": "Programa a tiempo completo en Campus Urstein, organizado en tres días para permitir empleo parcial, no trabajo a tiempo completo. Antes se denominaba Business Informatics. Sus especializaciones se agrupan en un título DI de nivel máster; la orientación investigadora debe concretarse en la tesis.",
+    "researchEvidenceUrl": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master/curriculum",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master/curriculum",
+        "label": "Currículo y trabajo de investigación"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master/zugangsvoraussetzungen",
+        "label": "Requisitos de acceso"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master",
+        "phrases": [
+          "IT-Management & Consulting",
+          "Business Informatics",
+          "Diplomingenieur"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master",
+        "phrases": [
+          "4 Semester (120 ECTS)",
+          "3 Tage in der Woche"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master",
+        "phrases": [
+          "IT-Architekturen, Data Science"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master",
+        "phrases": [
+          "363 Euro pro Semester",
+          "26,20 Euro pro Semester"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master/zugangsvoraussetzungen",
+        "phrases": [
+          "mindestens dreijährig",
+          "mindestens 10 ECTS Credits",
+          "max. 6 ECTS Credits",
+          "deutschen Sprache auf Level B2",
+          "Level B2",
+          "von Vorteil"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master/curriculum",
+        "labelledValues": [
+          {
+            "container": ".card-body.content-area",
+            "labelSelector": "h3",
+            "valueSelector": "tr:has(th:contains(\"ECTS-Punkte\")) td",
+            "label": "Masterarbeit",
+            "value": "19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc (CE) Applied AI in Healthcare",
+    "institution": "Salzburg University of Applied Sciences · Paracelsus Medical Private University",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente de al menos 180 ECTS, al menos dos años de experiencia profesional relevante en salud o sectores relacionados, interés acreditado en IA/aprendizaje automático e inglés B2. Se valoran distintos perfiles sanitarios, tecnológicos y de gestión; no se exige experiencia técnica avanzada. Solicitud conjunta y entrevista.",
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 15.000 € de matrícula para el programa. Confirmar conceptos incluidos, calendario de pago y gastos de desplazamiento.",
+    "researchNote": "Proyecto final de 25 ECTS: estudio independiente de IA clínica con pregunta, diseño, preparación de datos, modelización, evaluación e interpretación. El currículo presenta este trabajo como tesis aplicada y contempla aspectos éticos y de equidad.",
+    "eligibilityNote": "Máster conjunto de formación continua de FH Salzburg y Paracelsus Medical Private University, orientado a profesionales. Combina enseñanza en línea y presencia en Salzburg/Campus Urstein. El plazo publicado para 2026/27 terminó el 30/08/2026. La elegibilidad para un doctorado debe confirmarse con la universidad de destino; no se presume a partir del nombre del título.",
+    "researchEvidenceUrl": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master/curriculum",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master/curriculum",
+        "label": "Currículo y trabajo de investigación"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master/admission",
+        "label": "Requisitos de acceso"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/studiengaenge/aih-m/documents/Applied_AI_in_Healthcare_Master_-_Admission_and_Application.pdf",
+        "label": "Requisitos y procedimiento conjunto de admisión",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master",
+        "phrases": [
+          "Applied AI in Healthcare",
+          "Master of Science (Continuing Education)",
+          "Paracelsus Medizinische Universität"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master",
+        "phrases": [
+          "4 semesters (120 ECTS)",
+          "Language of instruction:English"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master",
+        "phrases": [
+          "€ 15,000"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master",
+        "phrases": [
+          "30 August 2026"
+        ]
+      },
+      {
+        "field": "admissionsReference",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master/admission",
+        "phrases": [
+          "Admission & Application [PDF]"
+        ]
+      },
+      {
+        "field": "thesis-credit-boundaries",
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master/curriculum",
+        "labelledValues": [
+          {
+            "container": ".card-body.content-area",
+            "labelSelector": "h3",
+            "valueSelector": "tr:has(th:contains(\"ECTS-Punkte\")) td",
+            "label": "FHS/PMU: Master Project",
+            "value": "25"
+          }
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/studiengaenge/aih-m/documents/Applied_AI_in_Healthcare_Master_-_Admission_and_Application.pdf",
+        "phrases": [
+          "at least 180 ECTS credits",
+          "At least two years of relevant professional experience",
+          "B2 level",
+          "Advanced technical expertise is not required"
+        ]
+      }
+    ],
+    "programmeType": "Máster de formación continua con investigación"
+  },
+  {
+    "title": "DI Automatisierungstechnik",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado técnico pertinente de al menos seis semestres/180 ECTS, o título superior comparable. La dirección puede acordar cursos puente para cubrir carencias. Entrevista de orientación y admisión.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis científica de 27 ECTS; el bloque de 28 ECTS incluye además la prueba final. El programa permite especializarse en control, inteligencia artificial y software, con proyectos de automatización, simulación e imagen. Para TRAMA, el interés se concentra en esas vías computacionales y en una tesis relacionada.",
+    "eligibilityNote": "Programa de Wels a tiempo completo con lunes y martes sin clase, que facilita combinarlo con empleo. Los plazos publicados, incluida la fase extraordinaria del 15/09/2026, ya han pasado; confirmar la siguiente admisión.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
+        "phrases": [
+          "Automatisierungstechnik"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
+        "phrases": [
+          "mindestens 6-semestrigen",
+          "technisches Bachelorstudium (180 ECTS)"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
+        "phrases": [
+          "Regelungstechnik, Künstliche Intelligenz oder Softwaretechnik",
+          "Machine Learning"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
+        "phrases": [
+          "15.09.2026"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Diplom-Ingenieur"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 27"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Data Science und Engineering",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
+    "fields": [
+      "Ciencia de datos",
+      "Estadística",
+      "Machine learning",
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente. El documento de acceso enlazado por la ficha, fechado en octubre de 2017, pide al menos 70 ECTS conjuntos de informática y matemáticas; pueden imponerse complementos. Confirmar vigencia y evaluación individual con el programa.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis de 23 ECTS, más seminario de 2 ECTS y formación en métodos científicos. El bloque rotulado como Masterarbeit suma 24 ECTS porque incorpora una prueba final. Desde el segundo semestre se realizan proyectos de datos en ámbitos como biomedicina, producción y análisis de opinión, con posibilidades de trabajo en grupos de investigación.",
+    "eligibilityNote": "Programa a tiempo completo en Hagenberg, impartido en alemán. La página publica el 30/06/2027 como plazo general para UE/EEE, residencia válida o entrada sin visado, y el 31/05/2027 para entrada sujeta a visado; confirmar apertura y condiciones de la edición.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      },
+      {
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/DSE-Ma/fhooe_zulassung__master_DSE_0595.pdf",
+        "label": "Documento de requisitos enlazado por el programa",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
+        "phrases": [
+          "Data Science und Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
+        "phrases": [
+          "abgeschlossenes, facheinschlägiges Bachelor- oder Diplomstudium"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
+        "phrases": [
+          "Datenanalyse",
+          "Computer Vision"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
+        "phrases": [
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 23"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      },
+      {
+        "field": "detailedEntry",
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/DSE-Ma/fhooe_zulassung__master_DSE_0595.pdf",
+        "phrases": [
+          "Version I vom 13.10.2017",
+          "70 ECTS-Credits",
+          "IT-Inhalte und Mathematik 70"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Embedded Systems Design",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente de al menos tres años. El documento de acceso enlazado, fechado en abril de 2020, detalla 90 ECTS de tecnologías de información y 30 ECTS técnico-científicos; dentro de los 90, al menos 25 de software y 15 de hardware/sistemas embebidos. La dirección puede reconocer experiencia y formación adicional; confirmar vigencia.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis científica de 27 ECTS que normalmente incluye un prototipo de software o hardware, más seminario de 2 ECTS. Se puede investigar en sistemas embebidos, IoT, wearables, señales y aprendizaje en dispositivos con recursos limitados. Las seis áreas optativas pertenecen al mismo título.",
+    "eligibilityNote": "Programa de Hagenberg a tiempo completo, con un día semanal sin clase. Se publica una fase extraordinaria hasta el 30/09/2026 para UE/EEE, residencia válida o entrada sin visado. El siguiente proceso comienza en octubre, con límites del 30/06/2027 y 31/05/2027 según visado.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/embedded-systems-design-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      },
+      {
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/ESD-Ma/fhooe_zulassung__master_ESD__0567.pdf",
+        "label": "Documento de requisitos enlazado por el programa",
+        "format": "pdf",
+        "pages": [
+          1
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
+        "phrases": [
+          "Embedded Systems Design"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
+        "phrases": [
+          "mit IT-bezogenen Inhalten"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
+        "phrases": [
+          "Embedded AI",
+          "Research Group"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
+        "phrases": [
+          "30.09.2026",
+          "Allgemeine Bewerbungsfrist ab Oktober",
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 27"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      },
+      {
+        "field": "detailedEntry",
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/ESD-Ma/fhooe_zulassung__master_ESD__0567.pdf",
+        "phrases": [
+          "04/2020",
+          "mindestens 90",
+          "weitere 30",
+          "25 ECTS",
+          "weitere 15"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Human-Centered Computing",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente con al menos 15 ECTS de informática y 4 ECTS de desarrollo o gestión de proyectos. Se contemplan complementos y valoración de experiencia. Entrevista de admisión.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis de 24 ECTS, seminario de 2 y examen de 1; no se atribuyen los 27 ECTS del bloque íntegramente a la tesis. Un proyecto previo de 4 ECTS prepara la pregunta, bibliografía y método. El programa combina HCI, experiencia de usuario, percepción, aprendizaje profundo, interfaces y visualización, con posibilidad de tesis en grupos de investigación.",
+    "eligibilityNote": "Programa compatible con empleo en Hagenberg. No se exige acreditar un empleo; se recomienda limitar la dedicación laboral. Las plazas para tesis con grupos académicos no se garantizan a todos los estudiantes. La página publica el 30/06/2027 como plazo general para UE/EEE, residencia válida o entrada sin visado, y el 31/05/2027 para entrada sujeta a visado; confirmar apertura y condiciones de la edición.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/human-centered-computing-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      },
+      {
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/HCC-Ma/fhooe_zulassung_master_HCC_0745.pdf",
+        "label": "Documento de requisitos enlazado por el programa",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+        "phrases": [
+          "Human-Centered Computing"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+        "phrases": [
+          "mindestens 15 ECTS-Punkten",
+          "mindestens 4 ECTS-Punkten"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+        "phrases": [
+          "AI/Deep Learning",
+          "Human-Computer Interaction"
+        ]
+      },
+      {
+        "field": "format2",
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+        "phrases": [
+          "Organisationsform Berufsbegleitend"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+        "phrases": [
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 24"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      },
+      {
+        "field": "detailedEntry",
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/HCC-Ma/fhooe_zulassung_master_HCC_0745.pdf",
+        "phrases": [
+          "Version 2 vom 12.12.2024",
+          "Informatik 15",
+          "Projektentwicklung und/oder des Projektmanagements 4"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Information Engineering und -Management",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "entry": "Grado técnico pertinente o equivalente con 40 ECTS de TI. Se presuponen programación en algún lenguaje y conocimientos de bases de datos y SQL. La selección valora expediente, experiencia y entrevista.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis científica de 24 ECTS con seminario de 4 ECTS. La institución documenta posibilidades de tesis en proyectos de Data Science, aprendizaje automático, IA y optimización matemática. Los temas se concretan con un supervisor; también existen opciones de tesis en centros asociados en el extranjero.",
+    "eligibilityNote": "Programa de Hagenberg compatible con empleo, con enseñanza presencial los viernes y sábados. Se recomienda reducir la jornada laboral cuando sea posible. La página publica el 30/06/2027 como plazo general para UE/EEE, residencia válida o entrada sin visado, y el 31/05/2027 para entrada sujeta a visado; confirmar apertura y condiciones de la edición.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
+        "phrases": [
+          "Information Engineering und -Management"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
+        "phrases": [
+          "40 ECTS in IT",
+          "Programmierkenntnisse",
+          "Datenbanksystemen und SQL"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
+        "phrases": [
+          "Data Science, Machine Learning",
+          "mathematische Optimierung"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
+        "phrases": [
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 24"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MA Information Security Management",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado, máster o diploma universitario, varios años de experiencia relevante con experiencia demostrable en gestión de proyectos de TI y alemán e inglés B2. Entrevista de selección.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis de 25 ECTS y coloquio de 1 ECTS, precedidos de un proyecto individual de 14 ECTS para concretar el tema, con revisión bibliográfica y método. Combina tecnología de seguridad, infraestructuras críticas, sistemas de gestión y riesgo. El encaje académico requiere una pregunta investigadora en seguridad o sistemas.",
+    "eligibilityNote": "Máster de Hagenberg orientado a profesionales, con bloques presenciales y docencia a distancia. El título otorgado es Master of Arts in Business; no equivale a una plaza de trabajo. La página publica el 30/06/2027 como plazo general para UE/EEE, residencia válida o entrada sin visado, y el 31/05/2027 para entrada sujeta a visado; confirmar apertura y condiciones de la edición.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/information-security-management-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
+        "phrases": [
+          "Information Security Management"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
+        "phrases": [
+          "mehrjährige facheinschlägige Berufspraxis",
+          "IT Projektmanagement",
+          "CEFR Stufe B2"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
+        "phrases": [
+          "Technology for Information Security",
+          "Scientific Methods"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
+        "phrases": [
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Arts in Business"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 25"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Interactive Media",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente de al menos tres años, con 60 ECTS de contenidos de TI, incluida programación. Se requieren buenos conocimientos de inglés; entrevista de admisión.",
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Un proyecto de tesis de 10 ECTS prepara la parte práctica; siguen una primera parte de 5 ECTS y una segunda de 19 ECTS, con supervisión individual y reuniones obligatorias. Se documentan líneas de investigación en interacción persona-computador, juegos y aprendizaje automático en la web.",
+    "eligibilityNote": "Programa de Hagenberg a tiempo completo e impartido en inglés. Las especializaciones y proyectos forman parte de un único título. La página publica el 30/06/2027 como plazo general para UE/EEE, residencia válida o entrada sin visado, y el 31/05/2027 para entrada sujeta a visado; confirmar apertura y condiciones de la edición.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/interactive-media-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+        "phrases": [
+          "Interactive Media"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+        "phrases": [
+          "mindestens dreijährigen Studiums",
+          "60 ECTS",
+          "Gute Englischkenntnisse"
+        ]
+      },
+      {
+        "field": "format2",
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+        "phrases": [
+          "Sprache English"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+        "phrases": [
+          "Mensch-Computer-Interaktion",
+          "Machine-Learning-Anwendungen"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+        "phrases": [
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master/studienplan",
+        "phrases": [
+          "Master´s Thesis II Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 19"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Mobile Computing",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente de al menos tres años, con al menos 60 ECTS de informática y 10 ECTS de tecnologías de comunicaciones. Entrevista de admisión.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis de 23 ECTS, con seminario y examen separados; el bloque completo de 25 ECTS no es íntegramente tesis. Un proyecto preparatorio de 3 ECTS se desarrolla con quien será supervisor. El plan permite orientarse a sistemas móviles, comunicación, aplicaciones inteligentes y ámbitos como automoción o energía.",
+    "eligibilityNote": "Programa a tiempo completo en Hagenberg. La fase extraordinaria publicada llega al 30/09/2026 para UE/EEE, residencia válida o entrada sin visado. La siguiente admisión comienza en octubre y publica límites del 30/06/2027 o 31/05/2027 según visado.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/mobile-computing-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
+        "phrases": [
+          "Mobile Computing"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
+        "phrases": [
+          "mindestens 60 ECTS-Leistungspunkten",
+          "mindestens 10 ECTS"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
+        "phrases": [
+          "Automotive Computing",
+          "Smart Energy"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
+        "phrases": [
+          "30.09.2026",
+          "Allgemeine Bewerbungsfrist ab Oktober",
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master/studienplan",
+        "phrases": [
+          "Master's Thesis Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 23"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DI Robotic Systems Engineering",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente de al menos seis semestres o título superior comparable. Entrevista de orientación y admisión. La organización de proyecto y tesis se vincula al empleo existente del estudiante; confirmar cómo cumplir esa condición.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis científica de 29 ECTS; el bloque de 30 ECTS incluye la prueba final. Se centra en algoritmos y software para robótica, localización y fusión de sensores, visión, aprendizaje automático, simulación y sistemas autónomos. Proyecto y tesis ocupan el tercer y cuarto semestre.",
+    "eligibilityNote": "Programa de Wels y Hagenberg compatible con empleo, con clases los jueves y viernes y una semana intensiva al inicio del semestre. La institución sitúa proyecto y tesis dentro del empleo del estudiante. Los plazos publicados de mayo, junio y agosto de 2026 ya han terminado.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
+        "phrases": [
+          "Robotic Systems Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
+        "phrases": [
+          "mind. 6-semestrigen"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
+        "phrases": [
+          "Machine Learning & Machine Vision",
+          "bestehenden Beschäftigungsverhältnisses"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
+        "phrases": [
+          "31.08.2026",
+          "30.06.2026",
+          "31.05.2026"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Diplom-Ingenieur"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 29"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Sichere Informationssysteme",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado o diploma universitario con al menos 60 ECTS de formación relevante en TI. Selección mediante entrevista; consultar la evaluación individual del expediente.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis de 22 ECTS, con coloquio y examen por separado, y un proyecto preparatorio de 15 ECTS. Los Research Labs trabajan en respuesta a incidentes y forense, IA para seguridad, IoT y criptografía poscuántica; se apoya la publicación científica de los resultados del alumnado.",
+    "eligibilityNote": "Programa a tiempo completo en Hagenberg. Las tesis pueden realizarse con socios académicos o industriales; la ficha no garantiza salario ni financiación. La página publica el 30/06/2027 como plazo general para UE/EEE, residencia válida o entrada sin visado, y el 31/05/2027 para entrada sujeta a visado; confirmar apertura y condiciones de la edición.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
+        "phrases": [
+          "Sichere Informationssysteme"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
+        "phrases": [
+          "mind. 60 ECTS-Punkten"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
+        "phrases": [
+          "Research Labs",
+          "wissenschaftliche Publikation",
+          "Post-Quantum-Kryptographie"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
+        "phrases": [
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master/studienplan",
+        "phrases": [
+          "Masterarbeit Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 22"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Software Engineering",
+    "institution": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado o diploma cuyo contenido sea mayoritariamente informática práctica y aplicada. Entrevista de selección. El enlace de detalles de admisión de la ficha consultada apunta a un PDF de Mobile Computing; se usa aquí el requisito general de Software Engineering y debe confirmarse el desglose correcto.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres.",
+    "feeNote": "363,36 €/semestre para UE/EEE/Suiza; 726,72 € para estudiantes de terceros países sujetos a esa tarifa, con posibles reducciones por vinculación con Austria. Se añade la contribución ÖH de 26,20 €/semestre. Consultar la situación individual.",
+    "researchNote": "Tesis científica de 24 ECTS con documentación escrita; un proyecto preparatorio de 4 ECTS y seminarios acompañan la investigación. El programa trabaja en aprendizaje automático, algoritmos evolutivos, heurísticas y cloud computing, e incluye relación con el laboratorio HEAL.",
+    "eligibilityNote": "Programa a tiempo completo en Hagenberg compatible con empleo, con lunes y martes sin clase. Alemán con parte de la docencia en inglés. La doble titulación con University of Calabria es opcional y limitada a cuatro plazas anuales, dentro de este programa. La página publica el 30/06/2027 como plazo general para UE/EEE, residencia válida o entrada sin visado, y el 31/05/2027 para entrada sujeta a visado; confirmar apertura y condiciones de la edición.",
+    "researchEvidenceUrl": "https://fh-ooe.at/studienangebot/software-engineering-master/studienplan",
+    "evidencePages": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master/studienplan",
+        "label": "Plan de estudios y créditos de investigación"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "label": "Tasas y financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+        "phrases": [
+          "Software Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+        "phrases": [
+          "praktischen und der angewandten Informatik"
+        ]
+      },
+      {
+        "field": "format2",
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+        "phrases": [
+          "Deutsch (teilweise in Englisch)",
+          "Montag und Dienstag keine Lehrveranstaltungen"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+        "phrases": [
+          "evolutionäre Algorithmen",
+          "HEAL"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+        "phrases": [
+          "30.06.2027",
+          "31.05.2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+        "phrases": [
+          "Studiendauer 4 Semester",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "thesis",
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master/studienplan",
+        "phrases": [
+          "Master’s Thesis Semester: 4 Typ: Pflicht, Masterarbeit ECTS: 24"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "phrases": [
+          "363,36 €",
+          "726,72 €",
+          "26,20 €",
+          "Schweiz"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Bioinformatik",
+    "institution": "Hochschule Campus Wien",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Estadística"
+    ],
+    "entry": "Grado científico-técnico o equivalente de 180 ECTS, con al menos 13 ECTS de ciencias naturales, matemáticas o estadística y 13 ECTS de materias técnicas como bioinformática, bases de datos, sistemas operativos y programación. Alemán C1.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363,36 € de matrícula por semestre; para estudiantes de terceros países, 727 €. Se añaden la contribución ÖH y, en su caso, actividades opcionales. Consultar la clasificación y las excepciones individuales.",
+    "researchNote": "Tesis de 23 ECTS, supervisada y aprobada por la dirección, que exige investigación independiente y elección de métodos para obtener conocimiento nuevo. El programa combina algoritmos, programación, estadística, aprendizaje automático, diseño molecular y biología de sistemas; las tesis pueden vincularse a empresas o equipos académicos.",
+    "eligibilityNote": "Programa de Viena compatible con empleo. La ficha anuncia solicitudes para 2027/28 entre el 15/12/2026 y el 15/06/2027; no se presume apertura anticipada. La enseñanza es en alemán con parte en inglés.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "phrases": [
+          "Bioinformatik",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "phrases": [
+          "In Summe 180 ECTS",
+          "13 ECTS-Credits aus Naturwissenschaften",
+          "13 ECTS-Credits aus technischen Fächern",
+          "Deutsch - Niveau C1"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "phrases": [
+          "Machine Learning",
+          "Molecular Design und Systembiologie"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "phrases": [
+          "15. Dezember 2026 - 15. Juni 2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "phrases": [
+          "Studiendauer4 Semester",
+          "120 ECTS",
+          "berufsbegleitend"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "phrases": [
+          "€ 363,36",
+          "Studierende aus Drittstaaten € 727 pro Semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "phrases": [
+          "Masterarbeit | MT0 SWS 23 ECTS"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc IT-Security",
+    "institution": "Hochschule Campus Wien",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente de 180 ECTS, normalmente con al menos 42 ECTS relevantes en tecnologías de información, software, redes, sistemas operativos o fundamentos de informática. Las excepciones se evalúan individualmente. Alemán B2.",
+    "languages": [
+      "Alemán"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363,36 € de matrícula por semestre; para estudiantes de terceros países, 727 €. Se añaden la contribución ÖH y, en su caso, actividades opcionales. Consultar la clasificación y las excepciones individuales.",
+    "researchNote": "Tesis científica supervisada de 20 ECTS, precedida de un proyecto de 5 ECTS que puede vincularse a actividades de I+D de la institución o al empleo. Requiere identificar un problema de seguridad, analizarlo científicamente y aplicar métodos adecuados.",
+    "eligibilityNote": "Programa de Viena compatible con empleo. La ficha indica que no admite solicitudes actualmente. También conserva una nota de aprobación por los órganos competentes/AQ Austria sin identificar claramente su alcance: confirmar la versión aplicable del plan y del formato ampliado antes de solicitar.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "phrases": [
+          "IT-Security",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "phrases": [
+          "180 ECTS-Credits",
+          "42 ECTS-Credits",
+          "Deutsch - Niveau B2"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "phrases": [
+          "Zur Zeit ist keine Bewerbung möglich"
+        ]
+      },
+      {
+        "field": "approval",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "phrases": [
+          "Vorbehaltlich der Genehmigung durch die entsprechenden Gremien bzw. die AQ Austria"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "phrases": [
+          "Studiendauer4 Semester",
+          "120 ECTS",
+          "berufsbegleitend"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "phrases": [
+          "€ 363,36",
+          "Studierende aus Drittstaaten € 727 pro Semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "phrases": [
+          "Master Thesis | MT0 SWS 20 ECTS"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Multilingual Technologies",
+    "institution": "Hochschule Campus Wien · Universität Wien",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente, por ejemplo en informática o comunicación transcultural. Se requieren bases de tecnologías del lenguaje y comunicación especializada, y fundamentos de informática y software; se contemplan currículos complementarios para adquirir la otra disciplina. Inglés B2.",
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363,36 € de matrícula por semestre; para estudiantes de terceros países, 727 €. Se añaden la contribución ÖH y, en su caso, actividades opcionales. Consultar la clasificación y las excepciones individuales.",
+    "researchNote": "Tesis supervisada de 20 ECTS, con examen/defensa de 2 ECTS por separado. Combina tecnologías del lenguaje, aprendizaje automático para texto y voz, traducción y software. Los temas de tesis deben apoyarse en los módulos técnicos de especialización.",
+    "eligibilityNote": "Máster conjunto de Hochschule Campus Wien y el Centro de Estudios de Traducción de Universität Wien; se cuenta como un solo programa. Compatible con empleo y completamente en inglés. La admisión publicada para 2027/28 va del 02/11/2026 al 30/04/2027.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "phrases": [
+          "Multilingual Technologies",
+          "Master of Science (MSc)",
+          "Universität Wien"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "phrases": [
+          "Grundkenntnisse der Sprachtechnologien und Fachkommunikation",
+          "Grundlagen der Informatik",
+          "Englisch - Niveau B2"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "phrases": [
+          "Machine Learning Fundamentals for Language Processing"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "phrases": [
+          "02. November 2026 - 30. April 2027"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "phrases": [
+          "Studiendauer4 Semester",
+          "120 ECTS",
+          "berufsbegleitend"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "phrases": [
+          "€ 363,36",
+          "Studierende aus Drittstaaten € 727 pro Semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "phrases": [
+          "Master's Thesis | MT0 SWS 20 ECTS"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Software Design and Engineering",
+    "institution": "Hochschule Campus Wien",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado pertinente o equivalente de 180 ECTS con al menos 50 ECTS distribuidos en matemáticas (10), informática/software (20), comunicaciones y sistemas operativos (10) y competencias metodológicas/personales (10). Alemán B2; excepciones por evaluación individual.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363,36 € de matrícula por semestre; para estudiantes de terceros países, 727 €. Se añaden la contribución ÖH y, en su caso, actividades opcionales. Consultar la clasificación y las excepciones individuales.",
+    "researchNote": "Tesis científica supervisada de 20 ECTS, precedida de un proyecto de 5 ECTS. Se integra el ciclo de vida del software, arquitectura y diseño, con proyectos de empresas o I+D que pueden servir de base a la tesis. Las optativas del tercer semestre dependen de la oferta y del número de participantes.",
+    "eligibilityNote": "Programa de Viena compatible con empleo, con docencia concentrada en unas tres tardes/noches por semana y algunos sábados; parte en inglés. La ficha indica que no admite solicitudes actualmente. El acceso a certificaciones profesionales no se presenta como financiación.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+        "phrases": [
+          "Software Design and Engineering",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+        "phrases": [
+          "180 ECTS-Credits",
+          "50 ECTS-Credits",
+          "10 ECTS-Credits - Mathematik",
+          "20 ECTS-Credits - Informatik/Software Engineering",
+          "10 ECTS-Credits - Kommunikations- und Betriebssysteme",
+          "Deutsch - Niveau B2"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+        "phrases": [
+          "Zur Zeit ist keine Bewerbung möglich"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+        "phrases": [
+          "Studiendauer4 Semester",
+          "120 ECTS",
+          "berufsbegleitend"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+        "phrases": [
+          "€ 363,36",
+          "Studierende aus Drittstaaten € 727 pro Semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+        "phrases": [
+          "Master Thesis | MT0 SWS 20 ECTS"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Technische Informatik",
+    "institution": "Hochschule Campus Wien",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente de 180 ECTS, con formación en electrónica/digital, programación/software, redes, matemáticas y competencias personales. Alemán B2. El PDF de acceso enlazado, fechado en julio de 2019 y titulado Electronic Systems Engineering, detalla mínimos de 35 ECTS; confirmar su aplicación al título actual.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363,36 € de matrícula por semestre; para estudiantes de terceros países, 727 €. Se añaden la contribución ÖH y, en su caso, actividades opcionales. Consultar la clasificación y las excepciones individuales.",
+    "researchNote": "Tesis científica supervisada de 23 ECTS; el coloquio/defensa añade 2 ECTS. Se investiga en microcomputadores, software de tiempo real, redes y sistemas con IA, con aplicaciones en robótica, vehículos y entornos industriales o médicos.",
+    "eligibilityNote": "Programa de Viena compatible con empleo, impartido en alemán e inglés. La ficha indica que no admite solicitudes actualmente. Los requisitos antiguos enlazados se conservan con su fecha y denominación, sin convertirlos en una nueva titulación.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "phrases": [
+          "Technische Informatik",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "phrases": [
+          "180 ECTS-Credits",
+          "Elektronik/Digitaltechnik, Programmieren/Software-Engineering",
+          "Deutsch - Niveau B2"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "phrases": [
+          "KI-unterstützte",
+          "Mikrocomputersysteme"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "phrases": [
+          "Zur Zeit ist keine Bewerbung möglich"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "phrases": [
+          "Studiendauer4 Semester",
+          "120 ECTS",
+          "berufsbegleitend"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "phrases": [
+          "€ 363,36",
+          "Studierende aus Drittstaaten € 727 pro Semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "phrases": [
+          "Masterarbeit | MT0 SWS 23 ECTS"
+        ]
+      },
+      {
+        "field": "historicalEntry",
+        "url": "https://www.hcw.ac.at/fileadmin/redakteure/Studium/06_Technik/m_Electronic-Systems-Engineering/Dokumente/0538_Embedded_Systems_Engineering_20171016.pdf",
+        "phrases": [
+          "Version II vom 01.07.2019",
+          "insgesamt 35 ECTS",
+          "Mathematik 10",
+          "Elektronik/Digitaltechnik 5",
+          "Programmieren/Software-Engineering 10",
+          "Netzwerke/Internet-Technologien 5",
+          "Persönliche Kompetenzen 5"
+        ]
+      }
+    ],
+    "evidencePages": [
+      {
+        "url": "https://www.hcw.ac.at/fileadmin/redakteure/Studium/06_Technik/m_Electronic-Systems-Engineering/Dokumente/0538_Embedded_Systems_Engineering_20171016.pdf",
+        "label": "Documento de acceso enlazado: Electronic Systems Engineering, julio de 2019",
+        "format": "pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MSc Health Tech and Clinical Engineering",
+    "institution": "Hochschule Campus Wien",
+    "country": "AT",
+    "stage": "master",
+    "kind": "programme",
+    "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "entry": "Grado pertinente o equivalente de 180 ECTS, con al menos 60 ECTS técnicos, de ingeniería o científico-técnicos. Se contemplan informática, informática médica, ingeniería biomédica y campos relacionados. Alemán B2.",
+    "languages": [
+      "Alemán",
+      "Inglés"
+    ],
+    "duration": "Cuatro semestres; 120 ECTS.",
+    "feeNote": "La ficha publica 363,36 € de matrícula por semestre; para estudiantes de terceros países, 727 €. Se añaden la contribución ÖH y, en su caso, actividades opcionales. Consultar la clasificación y las excepciones individuales.",
+    "researchNote": "Tesis de 25 ECTS con pregunta, diseño y revisión de literatura; permite investigación empírica o experimental, incluida programación y prototipos. El encaje para TRAMA se concentra en informática médica, algoritmos para datos sanitarios, IA y seguridad de sistemas, dentro de un máster que también abarca dispositivos y edificios clínicos.",
+    "eligibilityNote": "Programa de Viena compatible con empleo, impartido en alemán e inglés. La ficha indica que no admite solicitudes actualmente. La tesis debe concretarse en una línea computacional o metodológica para el recorrido académico recogido aquí.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "phrases": [
+          "Health Tech and Clinical Engineering",
+          "Master of Science in Engineering"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "phrases": [
+          "180 ECTS-Credits",
+          "mindestens 60 ECTS-Credits",
+          "Deutsch - Niveau B2"
+        ]
+      },
+      {
+        "field": "scope",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "phrases": [
+          "Medizinische Informatik",
+          "KI, Robotik, AR und VR",
+          "fortschrittliche Algorithmen"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "phrases": [
+          "Zur Zeit ist keine Bewerbung möglich"
+        ]
+      },
+      {
+        "field": "format",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "phrases": [
+          "Studiendauer4 Semester",
+          "120 ECTS",
+          "berufsbegleitend"
+        ]
+      },
+      {
+        "field": "fees",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "phrases": [
+          "€ 363,36",
+          "Studierende aus Drittstaaten € 727 pro Semester"
+        ]
+      },
+      {
+        "field": "research",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "phrases": [
+          "Masterarbeit | MT15 SWS 25 ECTS"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AT",
+    "stage": "master",
+    "kind": "funding-programme",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [],
+    "programmeType": "Programa de financiación individual",
+    "title": "Leistungsstipendium — rendimiento académico en FHV",
+    "institution": "Vorarlberg University of Applied Sciences",
+    "url": "https://www.fhv.at/infopoint/praktische-informationen-zum-leben-in-vorarlberg/stipendien-und-foerderungen/stipendien-fuer-studierende-der-fhv",
+    "entry": "Estudiar en FHV y acreditar un rendimiento académico sobresaliente. Los requisitos detallados se comunican durante el estudio.",
+    "duration": "Puede concederse una vez por curso académico.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Ayuda al rendimiento académico; la página pública no especifica importe."
+    },
+    "researchNote": "Puede apoyar la continuidad de un grado o máster de informática, datos o métodos cuantitativos en FHV. La concesión reconoce resultados académicos ya obtenidos.",
+    "eligibilityNote": "El calendario, los umbrales de rendimiento y las condiciones personales deben consultarse durante el estudio. La página no publica aquí una restricción de nacionalidad ni una convocatoria fechada.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhv.at/infopoint/praktische-informationen-zum-leben-in-vorarlberg/stipendien-und-foerderungen/stipendien-fuer-studierende-der-fhv",
+        "phrases": [
+          "Leistungsstipendium",
+          "Du studierst an der FHV",
+          "herausragenden Studienerfolg"
+        ]
+      },
+      {
+        "field": "frequency",
+        "url": "https://www.fhv.at/infopoint/praktische-informationen-zum-leben-in-vorarlberg/stipendien-und-foerderungen/stipendien-fuer-studierende-der-fhv",
+        "phrases": [
+          "einmaligen Erhalts eines Leistungsstipendiums pro Studienjahr",
+          "Nähere Informationen dazu erhältst du während deines Studiums"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AT",
+    "stage": "master",
+    "kind": "funding-programme",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [],
+    "programmeType": "Programa de financiación individual",
+    "title": "Soroptimist Club Dornbirn — apoyo a costes de cuidado infantil en FHV",
+    "institution": "Vorarlberg University of Applied Sciences · Soroptimist International Club Dornbirn",
+    "url": "https://www.fhv.at/infopoint/individuelle-unterstuetzung/familienfreundliche-studienkultur/ausschreibung-foerdermittel-kinderbetreuungskosten",
+    "entry": "Estudiar en FHV, residir en Vorarlberg y tener la obligación legal de cuidado y educación de al menos un hijo. Nacionalidad austríaca, de un país del EEE o condición equiparada. Aportar documentación de ingresos o ayudas y de los costes de guardería Zwergengarten Kica o de una cuidadora de Vorarlberg.",
+    "duration": "Un año; no existe derecho a renovación.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Importe según solicitudes aprobadas y fondos disponibles. Cubre cuidado infantil y/o alimentación; se paga al proveedor y se abona mensualmente."
+    },
+    "researchNote": "Ayuda a compatibilizar responsabilidades familiares con un grado o máster del ámbito de TRAMA en FHV; especialmente dirigida a quienes necesitan cuidado profesional para poder estudiar.",
+    "eligibilityNote": "La fuente publica el 15 de junio como fecha anual y respuesta a mediados de julio, sin identificar una edición. No acredita una convocatoria abierta en septiembre. La valoración considera la situación personal y económica, con atención a familias monoparentales.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fhv.at/infopoint/individuelle-unterstuetzung/familienfreundliche-studienkultur/ausschreibung-foerdermittel-kinderbetreuungskosten",
+        "phrases": [
+          "SOROPTIMIST INTERNATIONAL",
+          "Studium an der FHV",
+          "Wohnsitz in Vorarlberg"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fhv.at/infopoint/individuelle-unterstuetzung/familienfreundliche-studienkultur/ausschreibung-foerdermittel-kinderbetreuungskosten",
+        "phrases": [
+          "Gesetzliche Verpflichtung zur Pflege und Erziehung mindestens eines Kindes",
+          "Europäischen Wirtschaftsraumes",
+          "gleichgestellte Ausländerinnen und Ausländer",
+          "Zwergengarten Kica"
+        ]
+      },
+      {
+        "field": "funding",
+        "url": "https://www.fhv.at/infopoint/individuelle-unterstuetzung/familienfreundliche-studienkultur/ausschreibung-foerdermittel-kinderbetreuungskosten",
+        "phrases": [
+          "Betreuungskosten und/oder Verpflegungsbeiträge",
+          "nach den verfügbaren finanziellen Mitteln",
+          "Jede Unterstützung erfolgt für ein Jahr",
+          "monatlich gutgeschrieben"
+        ]
+      },
+      {
+        "field": "calendar",
+        "url": "https://www.fhv.at/infopoint/individuelle-unterstuetzung/familienfreundliche-studienkultur/ausschreibung-foerdermittel-kinderbetreuungskosten",
+        "phrases": [
+          "Antragsfrist ist der 15. Juni",
+          "Mitte Juli"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AT",
+    "stage": "master",
+    "kind": "funding-programme",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [],
+    "programmeType": "Programa de financiación individual",
+    "title": "Leistungs- und Förderstipendien — rendimiento y trabajos científicos en FH Salzburg",
+    "institution": "Salzburg University of Applied Sciences",
+    "url": "https://www.fh-salzburg.ac.at/info/studieren-beginnen/gebuehren-und-stipendien",
+    "entry": "Estudiar en FH Salzburg y cumplir las condiciones que publica la administración del programa correspondiente para rendimiento académico o apoyo a un trabajo científico.",
+    "duration": "Convocatorias tras la finalización de cada curso académico; duración de la ayuda según programa.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Ayudas al rendimiento y a trabajos científicos; importes y criterios fijados por cada programa."
+    },
+    "researchNote": "La fuente contempla apoyo explícito a trabajos científicos, pertinente para tesis o proyectos del ámbito de TRAMA. Se registra una familia institucional de ayudas, sin convertir cada modalidad en una ficha independiente.",
+    "eligibilityNote": "Solicitar a la administración del programa la convocatoria y sus requisitos personales, importe y plazo. La página general no especifica nacionalidad ni confirma que toda formación continua participe.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/info/studieren-beginnen/gebuehren-und-stipendien",
+        "phrases": [
+          "Leistungs- und Förderstipendien",
+          "nach Ablauf eines Studienjahres",
+          "wissenschaftlicher oder künstlerischer Arbeiten"
+        ]
+      },
+      {
+        "field": "terms",
+        "url": "https://www.fh-salzburg.ac.at/info/studieren-beginnen/gebuehren-und-stipendien",
+        "phrases": [
+          "Bewerbungskriterien und Höhe",
+          "innerhalb der Studiengänge geregelt",
+          "Studiengangsadministration"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AT",
+    "stage": "master",
+    "kind": "funding-programme",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [],
+    "programmeType": "Programa de financiación individual",
+    "title": "Arbeiterkammer Salzburg — fondo de apoyo para continuar estudios en FH Salzburg",
+    "institution": "Salzburg University of Applied Sciences · Arbeiterkammer Salzburg",
+    "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/careercenter/ak-fonds/Unterst%C3%BCtzungsfonds_der_Arbeiterkammer_Salzburg_de.pdf",
+    "entry": "Estudiar en FH Salzburg, tener resultados académicos satisfactorios y continuar los estudios. Acreditar una situación social o económica especialmente difícil y haber solicitado o agotado otras vías de autofinanciación y ayudas.",
+    "duration": "Apoyo puntual; varios semestres solo en situaciones de emergencia excepcionales.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Normalmente una ayuda equivalente al importe de matrícula; excepcionalmente superior. Un comité decide la concesión y la cuantía individual."
+    },
+    "researchNote": "Fondo de continuidad de estudios que puede evitar la interrupción de un grado o máster del ámbito de TRAMA por una dificultad económica.",
+    "eligibilityNote": "El documento contempla, entre otros casos, enfermedad, pérdida de ingresos, problemas de vivienda y responsabilidades de cuidado. No fija fecha anual ni exige aquí una nacionalidad concreta. El formulario se solicita al programa o al Career Center; debe confirmarse la disponibilidad actual del fondo.",
+    "evidencePages": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/careercenter/ak-fonds/Unterst%C3%BCtzungsfonds_der_Arbeiterkammer_Salzburg_de.pdf",
+        "label": "Condiciones oficiales del fondo AK Salzburg",
+        "format": "pdf"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/info/studieren-beginnen/gebuehren-und-stipendien",
+        "label": "Página institucional que enlaza el fondo"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/careercenter/ak-fonds/Unterst%C3%BCtzungsfonds_der_Arbeiterkammer_Salzburg_de.pdf",
+        "phrases": [
+          "Unterstützungsfonds der Arbeiterkammer Salzburg für Studierende",
+          "einmalige finanzielle Unterstützung"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/careercenter/ak-fonds/Unterst%C3%BCtzungsfonds_der_Arbeiterkammer_Salzburg_de.pdf",
+        "phrases": [
+          "positiver Studienerfolg",
+          "Weiterführung des Studiums",
+          "ausgeschöpft bzw. beantragt"
+        ]
+      },
+      {
+        "field": "funding",
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/careercenter/ak-fonds/Unterst%C3%BCtzungsfonds_der_Arbeiterkammer_Salzburg_de.pdf",
+        "phrases": [
+          "Beträge in der Höhe der Studiengebühr",
+          "in Ausnahmefällen auch mehr",
+          "besonderen Notsituationen",
+          "FH-Gremium"
+        ]
+      },
+      {
+        "field": "currentReference",
+        "url": "https://www.fh-salzburg.ac.at/info/studieren-beginnen/gebuehren-und-stipendien",
+        "phrases": [
+          "Unterstützungsfonds der Arbeiterkammer Salzburg",
+          "einmalige finanzielle Unterstützung"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AT",
+    "stage": "master",
+    "kind": "funding-programme",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [],
+    "programmeType": "Programa de financiación individual",
+    "title": "Leistungsstipendium — rendimiento académico en Hochschule Campus Wien",
+    "institution": "Hochschule Campus Wien",
+    "url": "https://www.hcw.ac.at/studium-weiterbildung/bewerbung-und-aufnahme/foerderungen-und-stipendien",
+    "entry": "Estudiar en Hochschule Campus Wien y obtener una media igual o inferior a 2,00, redondeada a dos decimales, sobre los resultados del curso académico.",
+    "duration": "Valoración de los resultados de un curso académico.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Alrededor de 1.000 € por ayuda; el importe depende del número de solicitantes."
+    },
+    "researchNote": "Apoya a estudiantes con buen rendimiento en programas del ámbito de TRAMA. La administración del propio programa coordina la ayuda.",
+    "eligibilityNote": "La página general no publica plazo, nacionalidad ni más condiciones para esta ayuda. Hay que consultar la convocatoria del programa y no confundir este premio con financiación garantizada al ser admitido.",
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/bewerbung-und-aufnahme/foerderungen-und-stipendien",
+        "phrases": [
+          "Leistungsstipendium der Hochschule Campus Wien"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/bewerbung-und-aufnahme/foerderungen-und-stipendien",
+        "phrases": [
+          "Notendurchschnitt von ≤ 2,00",
+          "auf zwei Kommastellen gerundet",
+          "Studienleistungen des Studienjahres"
+        ]
+      },
+      {
+        "field": "amount",
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/bewerbung-und-aufnahme/foerderungen-und-stipendien",
+        "phrases": [
+          "rund € 1.000",
+          "abhängig von der Anzahl der Studierenden",
+          "Koordinationsstelle für das Leistungsstipendium ist der jeweilige Studiengang"
+        ]
+      }
+    ]
+  },
+  {
+    "country": "AT",
+    "stage": "master",
+    "kind": "funding-programme",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [],
+    "programmeType": "Programa de financiación individual",
+    "title": "waff-Stipendium für Frauen — estudios compatibles con empleo en Viena",
+    "institution": "waff — Wiener Arbeitnehmer*innen Förderungsfonds",
+    "url": "https://www.waff.at/beruf-weiterbildung/frauen-studieren-berufsbegleitend/",
+    "entry": "Mujer con residencia principal en Viena, empleo actual o próximo por encima del umbral de empleo marginal y admisión a un programa compatible con empleo incluido en la lista de WAFF. Se requiere asesoramiento con WAFF y edad mínima de 25 años o, si se es menor, al menos 24 meses de empleo por encima de ese umbral.",
+    "duration": "Apoyo durante el grado o máster admitido; importes totales por estudio, no anuales.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "9.000 € para máster o 12.000 € para grado. Las ayudas adicionales a cursos preparatorios o refuerzo tienen condiciones y solicitudes propias."
+    },
+    "researchNote": "La lista incluye, entre otros, IT-Security, Software Design and Engineering, Technische Informatik y Health Tech and Clinical Engineering en Hochschule Campus Wien, además de programas de datos e informática en FH Technikum Wien y FH des BFI Wien. La beca no sustituye los requisitos de acceso del título.",
+    "eligibilityNote": "Solicitar antes de empezar o hasta el 15 de noviembre del primer semestre, con plaza confirmada. La titulación previa máxima suele ser un grado; un máster, Magister o Diplom previo solo se admite si es ajeno a digitalización, sostenibilidad y tecnología. No se puede solicitar ni recibir Studienbeihilfe o Studienbeihilfe nach Selbsterhalt durante estos estudios. Las dos listas enlazadas llevan fecha 1 de febrero de 2026: difieren en un título de envases, pero coinciden en los ejemplos informáticos citados. Confirmar con WAFF la elegibilidad de la edición concreta.",
+    "evidencePages": [
+      {
+        "url": "https://www.waff.at/wp-content/uploads/2026/01/taxative-liste-programm-ausbildungsinitiative-frauen-in-dnt_20260201.pdf",
+        "label": "Lista de estudios elegibles — enlace del cuerpo de la página, edición 01.02.2026",
+        "format": "pdf"
+      },
+      {
+        "url": "https://www.waff.at/wp-content/uploads/2026/03/taxative-liste_programm-ausbildungsinitiative-frauen-in-dnt_20260201.pdf",
+        "label": "Lista de estudios elegibles — enlace del pie de página, edición 01.02.2026",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "identity",
+        "url": "https://www.waff.at/beruf-weiterbildung/frauen-studieren-berufsbegleitend/",
+        "phrases": [
+          "waff-Stipendium für Frauen",
+          "Hauptwohnsitz in Wien",
+          "mehr als geringfügig beschäftigt"
+        ]
+      },
+      {
+        "field": "entry",
+        "url": "https://www.waff.at/beruf-weiterbildung/frauen-studieren-berufsbegleitend/",
+        "phrases": [
+          "mindestens 25 Jahre alt",
+          "mindestens 24 Monate Beschäftigung",
+          "maximal ein Bachelor",
+          "außerhalb der Bereiche Digitalisierung, Nachhaltigkeit und Technik"
+        ]
+      },
+      {
+        "field": "amount",
+        "url": "https://www.waff.at/beruf-weiterbildung/frauen-studieren-berufsbegleitend/",
+        "phrases": [
+          "12.000 Euro für ein Bachelor- und 9.000 Euro für ein Masterstudium"
+        ]
+      },
+      {
+        "field": "application",
+        "url": "https://www.waff.at/beruf-weiterbildung/frauen-studieren-berufsbegleitend/",
+        "phrases": [
+          "bis zum 15. November Ihres ersten Semesters",
+          "Studienplatzzusage",
+          "keine Studienbeihilfe oder Studienbeihilfe nach Selbsterhalt"
+        ]
+      },
+      {
+        "field": "eligibleListJan",
+        "url": "https://www.waff.at/wp-content/uploads/2026/01/taxative-liste-programm-ausbildungsinitiative-frauen-in-dnt_20260201.pdf",
+        "phrases": [
+          "Stand 01.02.2026",
+          "Master Hochschule Campus Wien",
+          "IT-Security",
+          "Software Design and Engineering",
+          "Technische Informatik",
+          "Health Tech and Clinical Engineering",
+          "Master FH Technikum Wien",
+          "Master FH des BFI Wien"
+        ]
+      },
+      {
+        "field": "eligibleListMar",
+        "url": "https://www.waff.at/wp-content/uploads/2026/03/taxative-liste_programm-ausbildungsinitiative-frauen-in-dnt_20260201.pdf",
+        "phrases": [
+          "Stand 01.02.2026",
+          "Master Hochschule Campus Wien",
+          "IT-Security",
+          "Software Design and Engineering",
+          "Technische Informatik",
+          "Health Tech and Clinical Engineering",
+          "Artificial Intelligence & Data Science",
+          "Quantitative Asset and Risk Management"
+        ]
+      }
+    ]
   }
 ]

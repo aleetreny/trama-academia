@@ -129,6 +129,17 @@ export function programmeText(html){
  // Ametys can join the visible module heading directly to the ECTS label.
  // Restore the heading boundary instead of weakening the thesis word boundary.
  $('h1.ametys-main-banner-alt__title').after(' ');
+ // Wiener Neustadt's curriculum uses two div cells per course. Keep the
+ // title separate from its ECTS value ("Master Thesis28" is not a word).
+ // Restrict this to the programme's uniquely identified, labelled curriculum.
+ const curriculum=$('div.study-program-detail section.curriculum#curriculum');
+ if(curriculum.length===1&&$('#curriculum').length===1&&clean(curriculum.find('h2').first().text())==='Studienplan'){
+  curriculum.find('div.course').each((_,element)=>{
+   const row=$(element),cells=row.children('div');
+   if(row.closest('aside,[role="navigation"],[role="banner"],[hidden],[aria-hidden="true"],[style*="display:none"],[style*="display: none"]').length||cells.length!==2||!cells.first().is('.pr-3.break-word')||!cells.last().is('.font-size--small')||!/^\d+(?:[.,]\d+)?$/.test(clean(cells.last().text())))return;
+   cells.prepend(' ').append(' ');
+  });
+ }
  // EHU's own research-line table is minified. Restore its cell/list boundaries
  // while preserving the established evidence text of other institutional sites.
  const lines=$('div.upv-tabla > table#tableSearchProfesorado');

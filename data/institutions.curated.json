@@ -7445,7 +7445,7 @@
     "domains": [
       "fh-joanneum.at"
     ],
-    "officialUrl": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-data-science-and-artificial-intelligence/",
+    "officialUrl": "http://fh-joanneum.at/",
     "officialUrlNote": "Observed official subject/programme entry page; not necessarily the institutional homepage.",
     "subjectScope": [
       "computer-science",
@@ -7458,14 +7458,13 @@
     "coverageStatus": "subject_source_verified",
     "sources": [
       {
-        "type": "masters",
         "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-data-science-and-artificial-intelligence/",
-        "label": "Master’s degree programme in Data Science and Artificial ...",
-        "status": "verified_http_content",
-        "checkedAt": "2026-09-19T20:55:32.030Z",
-        "observedAt": "2026-09-19T20:54:09.740Z",
-        "accessOutcome": "ok",
-        "contentHash": "536c6013db3f7fff7a5be2febfccea05a0e8b36b805e2a2e9f90d50f0794d053"
+        "type": "masters",
+        "label": "MSc Data Science and Artificial Intelligence",
+        "observedAt": "2026-09-20T22:47:19.769Z",
+        "checkedAt": "2026-09-20T22:47:19.769Z",
+        "contentHash": "151a82d1437f9c1ae21e73646baed0dfbd8516a3731d03d21065b24fafaadc68",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -7478,15 +7477,13 @@
         "contentHash": "2b6de9313cd223c82f4818219c25cc8d17883cf2d295074c06815e5c87de4db1"
       },
       {
-        "type": "masters",
         "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programmes/",
-        "label": "Master's Degree Programmes",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:32.030Z",
-        "discoveredFrom": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-data-science-and-artificial-intelligence/",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "index",
+        "label": "Índice oficial de estudios · FH JOANNEUM University of Applied Sciences",
+        "observedAt": "2026-09-20T22:47:18.943Z",
+        "checkedAt": "2026-09-20T22:47:18.943Z",
+        "contentHash": "c610e7129b337ebe93cf35b8477f63f6384c6e3f7f55470de5e0c2024d79e4d5",
+        "accessOutcome": "ok"
       },
       {
         "type": "jobs",
@@ -7520,8 +7517,216 @@
         "discoveredFrom": "https://www.fh-joanneum.at/machine-learning-and-generative-ai/master/en/",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/my-studies/curriculum/",
+        "type": "masters",
+        "label": "Plan de estudios y tesis · MSc Data Science and Artificial Intelligence",
+        "observedAt": "2026-09-20T23:06:31.057Z",
+        "checkedAt": "2026-09-20T23:06:31.057Z",
+        "contentHash": "d169163cfc6f75864dcebc49239af61a7f9f3f3384dc35a65d796446413f4c75",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/",
+        "type": "masters",
+        "label": "Itinerario y datos académicos · MSc Data Science and Artificial Intelligence",
+        "observedAt": "2026-09-19T21:54:58.091Z",
+        "checkedAt": "2026-09-19T21:54:58.091Z",
+        "contentHash": "5c2dc5641cac11f59369a4de9ad5829a39b7815cdf2c620e21d74bfe41969584",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/admission/application-requirements/",
+        "type": "masters",
+        "label": "Requisitos de acceso · MSc Data Science and Artificial Intelligence",
+        "observedAt": "2026-09-20T23:07:48.561Z",
+        "checkedAt": "2026-09-20T23:07:48.561Z",
+        "contentHash": "77ae028f776bb05fa613b996af6d943ddbc50a4e1853aab3efe565234e7fc029",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/industrial-data-science-and-ai-based-optimisation/master/en/admission/dates/",
+        "type": "masters",
+        "label": "Calendario de admisión · MSc Data Science and Artificial Intelligence",
+        "observedAt": "2026-09-20T23:06:28.757Z",
+        "checkedAt": "2026-09-20T23:06:28.757Z",
+        "contentHash": "c076b156fe89b95b13e0ff54d7d8f6eb088b65d30b1a5bc5237e69ae2eacff23",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/",
+        "type": "masters",
+        "label": "MSc Cybersecurity and Ethical Hacking",
+        "observedAt": "2026-09-20T14:06:10.391Z",
+        "checkedAt": "2026-09-20T14:06:10.391Z",
+        "contentHash": "5121af99295a3c3f62c3173034c6fdbea1e22126923b31ceb0993c654cf9c345",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/my-studies/curriculum/",
+        "type": "masters",
+        "label": "Plan de estudios y tesis · MSc Cybersecurity and Ethical Hacking",
+        "observedAt": "2026-09-20T23:06:35.427Z",
+        "checkedAt": "2026-09-20T23:06:35.427Z",
+        "contentHash": "2de993b337a59a00cd4966e07197d72d529aec500b9dd233467122687e3a2f5a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/admissions/application-requirements/",
+        "type": "masters",
+        "label": "Requisitos de acceso · MSc Cybersecurity and Ethical Hacking",
+        "observedAt": "2026-09-20T23:07:50.398Z",
+        "checkedAt": "2026-09-20T23:07:50.398Z",
+        "contentHash": "339de2bee325c3af6077e6e2b052ed7c21818ac047773abc74837e5ab6be51a8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en/admissions/dates-deadlines/",
+        "type": "masters",
+        "label": "Calendario de admisión · MSc Cybersecurity and Ethical Hacking",
+        "observedAt": "2026-09-20T23:06:33.672Z",
+        "checkedAt": "2026-09-20T23:06:33.672Z",
+        "contentHash": "eca9766dead904fbd67a3b6b79deefea70c63f59e4497109e411ecbe3e1fa15b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-information-management/",
+        "type": "masters",
+        "label": "DI Business Informatics",
+        "observedAt": "2026-09-20T23:06:38.284Z",
+        "checkedAt": "2026-09-20T23:06:38.284Z",
+        "contentHash": "7608d8c090f3aee8a50a49a60d25a6d1f81d881269dc0a6a53f46c984898b096",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/my-studies/curriculum/",
+        "type": "masters",
+        "label": "Plan de estudios y tesis · DI Business Informatics",
+        "observedAt": "2026-09-20T23:06:40.266Z",
+        "checkedAt": "2026-09-20T23:06:40.266Z",
+        "contentHash": "b1f0ec6b1e2f106cce6f6db1635f77830c318a0f2ccf6c70492e7900c11000bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/",
+        "type": "masters",
+        "label": "Itinerario y datos académicos · DI Business Informatics",
+        "observedAt": "2026-09-19T22:15:16.639Z",
+        "checkedAt": "2026-09-19T22:15:16.639Z",
+        "contentHash": "ddb8b0218dc3c379cafe31bdde45f3e0c5b18b97c3103dd70c56e2a5271a1086",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/admissions/application-requirements/",
+        "type": "masters",
+        "label": "Requisitos de acceso · DI Business Informatics",
+        "observedAt": "2026-09-20T23:07:52.218Z",
+        "checkedAt": "2026-09-20T23:07:52.218Z",
+        "contentHash": "3e433cb5ee09cd9fdb0a58dd0d02b5f81dda9bf8f6102b0e4ff5170b2e9726d2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/software-and-digital-experience-engineering/master/en/admissions/dates-deadlines/",
+        "type": "masters",
+        "label": "Calendario de admisión · DI Business Informatics",
+        "observedAt": "2026-09-20T23:06:39.291Z",
+        "checkedAt": "2026-09-20T23:06:39.291Z",
+        "contentHash": "9e4fd26081250b2a637f02e1e07faba8b46d84c2a7992d68e2210ceb4606dbd7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-ehealth/",
+        "type": "masters",
+        "label": "MSc eHealth",
+        "observedAt": "2026-09-20T23:06:42.904Z",
+        "checkedAt": "2026-09-20T23:06:42.904Z",
+        "contentHash": "157e68260828e85097034784f17774b5acd12201ee1d78c8eab36533c291df3b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/my-studies/curriculum/",
+        "type": "masters",
+        "label": "Plan de estudios y tesis · MSc eHealth",
+        "observedAt": "2026-09-20T23:06:46.358Z",
+        "checkedAt": "2026-09-20T23:06:46.358Z",
+        "contentHash": "f19ab0141c833f817cc69620c1fd1d69fcf03308127a2546fd96ea49fa9c5327",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/",
+        "type": "masters",
+        "label": "Itinerario y datos académicos · MSc eHealth",
+        "observedAt": "2026-09-20T22:55:11.468Z",
+        "checkedAt": "2026-09-20T22:55:11.468Z",
+        "contentHash": "fdf84e1e0206f625f5a2577cd2002cd3d6cb7578ef041411870579ebed4f6805",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/admissions/application-requirements/",
+        "type": "masters",
+        "label": "Requisitos de acceso · MSc eHealth",
+        "observedAt": "2026-09-20T23:07:53.984Z",
+        "checkedAt": "2026-09-20T23:07:53.984Z",
+        "contentHash": "8ee2f43d84bb92103b4f639fbc61baf81eed16cdfc5659b3cfde3c83eeb2e181",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/digital-health-technologies/master/en/admissions/dates/",
+        "type": "masters",
+        "label": "Calendario de admisión · MSc eHealth",
+        "observedAt": "2026-09-20T23:06:44.586Z",
+        "checkedAt": "2026-09-20T23:06:44.586Z",
+        "contentHash": "9b8879a342e874cb5dbfbad96e45690b0030e500a3695770bb3574a843064be8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-electronic-engineering/",
+        "type": "masters",
+        "label": "MSc Electronic Engineering",
+        "observedAt": "2026-09-20T23:06:49.193Z",
+        "checkedAt": "2026-09-20T23:06:49.193Z",
+        "contentHash": "a5d7daa39ac479f9433cd3043a7e71002242702f9a2e22a0a0311af1778a72d0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/my-studies/curriculum/",
+        "type": "masters",
+        "label": "Plan de estudios y tesis · MSc Electronic Engineering",
+        "observedAt": "2026-09-20T23:06:51.328Z",
+        "checkedAt": "2026-09-20T23:06:51.328Z",
+        "contentHash": "a13695f967accaa7f89bfe3b7b39d64fc477652b9d6cc22c49ddb7be36a80441",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/",
+        "type": "masters",
+        "label": "Itinerario y datos académicos · MSc Electronic Engineering",
+        "observedAt": "2026-09-20T22:55:16.374Z",
+        "checkedAt": "2026-09-20T22:55:16.374Z",
+        "contentHash": "4a6f3a8a5d23d2e1a1cb214b3c0827b64a525b3f67451d6d0f9497db17da71e1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/admissions/application-requirements/",
+        "type": "masters",
+        "label": "Requisitos de acceso · MSc Electronic Engineering",
+        "observedAt": "2026-09-20T23:07:55.764Z",
+        "checkedAt": "2026-09-20T23:07:55.764Z",
+        "contentHash": "7410c3c9df5e33167414f19e0fcc9dc426a84e21709a7928109db79f076e6210",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-joanneum.at/embedded-systems-engineering/master/en/admissions/dates-deadlines/",
+        "type": "masters",
+        "label": "Calendario de admisión · MSc Electronic Engineering",
+        "observedAt": "2026-09-20T23:06:50.292Z",
+        "checkedAt": "2026-09-20T23:06:50.292Z",
+        "contentHash": "17cd7f88d4d1b3f61c7a359b95421660f0b6385636beea56611048ed52b7c958",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/03kkbqm48"
   },
   {
     "id": "dk-university-of-copenhagen",
@@ -50465,6 +50670,767 @@
         "observedAt": "2026-09-20T19:37:24.479Z",
         "checkedAt": "2026-09-20T19:37:24.479Z",
         "contentHash": "589946899bdb5b793e6c877e2d85265de59175aedae1b211510a65b74b15f0c7",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-v27-03k7r0z51",
+    "name": "Fachhochschule Wiener Neustadt",
+    "country": "AT",
+    "city": "Wiener Neustadt",
+    "ror": "https://ror.org/03k7r0z51",
+    "officialUrl": "https://www.fhwn.ac.at",
+    "domains": [
+      "fhwn.ac.at"
+    ],
+    "sources": [
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "type": "masters",
+        "label": "MSc Informatik",
+        "observedAt": "2026-09-20T10:54:10.917Z",
+        "checkedAt": "2026-09-20T10:54:10.917Z",
+        "contentHash": "69ca77885203299295a625799a4019388933d94941a277561e60758e9faa8a9c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "type": "masters",
+        "label": "MSc Bio Data Science",
+        "observedAt": "2026-09-20T12:51:19.962Z",
+        "checkedAt": "2026-09-20T12:51:19.962Z",
+        "contentHash": "2c9a403e4e3dd0f7feb9f4c76aa4b53c588f2705a3518816c774035d85b676f7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "type": "masters",
+        "label": "MSc Health Care Informatics",
+        "observedAt": "2026-09-20T12:38:44.244Z",
+        "checkedAt": "2026-09-20T12:38:44.244Z",
+        "contentHash": "ef0baf323e450e398030c3d1d14088d79c332b1e22fdfd2dfaa31b82635a1900",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "type": "masters",
+        "label": "MA Consumer Research & Data Driven Marketing",
+        "observedAt": "2026-09-20T10:40:12.366Z",
+        "checkedAt": "2026-09-20T10:40:12.366Z",
+        "contentHash": "56ba1857cfc867bc3f6db3c1553369d659e54af0ebd9da6f9b109b3592c883cf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "type": "masters",
+        "label": "MA Controlling & Business Intelligence",
+        "observedAt": "2026-09-20T19:07:58.792Z",
+        "checkedAt": "2026-09-20T19:07:58.792Z",
+        "contentHash": "b2d669553814559e7996e25c12b38ba1a823ab9c5c6183f6d297382fbb28ec3d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
+        "type": "masters",
+        "label": "MSc Mechatronik",
+        "observedAt": "2026-09-20T14:44:59.087Z",
+        "checkedAt": "2026-09-20T14:44:59.087Z",
+        "contentHash": "d77c04987b2e191eb1c12c6e683cc651a4cb8e68bd52eefe33af9ee83d6d0c87",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik/spezialisierung/computational-engineering-ce",
+        "type": "masters",
+        "label": "Itinerario Computational Engineering · MSc Mechatronik",
+        "observedAt": "2026-09-20T16:44:58.690Z",
+        "checkedAt": "2026-09-20T16:44:58.690Z",
+        "contentHash": "258946018694ee173b22b75c83c711a9a9365c26c7d934bec043f2c5eed30a93",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
+        "type": "masters",
+        "label": "MSc MedTech – Functional Imaging, Conventional & Ion Radiotherapy",
+        "observedAt": "2026-09-20T22:48:36.377Z",
+        "checkedAt": "2026-09-20T22:48:36.377Z",
+        "contentHash": "3e84e9244a0b448598ca8c69e63642f9ee4d6079cbca1577a827f8e597d7fb0f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhwn.ac.at/master",
+        "type": "index",
+        "label": "Índice oficial de estudios · Fachhochschule Wiener Neustadt",
+        "observedAt": "2026-09-19T23:35:36.125Z",
+        "checkedAt": "2026-09-19T23:35:36.125Z",
+        "contentHash": "184885359d8ceb643d561003d33db770e4c9c98914631b2cd1605e37035729a3",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-v27-031wyx077",
+    "name": "Vorarlberg University of Applied Sciences",
+    "country": "AT",
+    "city": "Dornbirn",
+    "ror": "https://ror.org/031wyx077",
+    "officialUrl": "https://www.fhv.at/",
+    "domains": [
+      "fhv.at"
+    ],
+    "sources": [
+      {
+        "url": "https://www.fhv.at/studium/technik/informatik-msc",
+        "type": "masters",
+        "label": "MSc Informatik",
+        "observedAt": "2026-09-19T22:58:50.280Z",
+        "checkedAt": "2026-09-19T22:58:50.280Z",
+        "contentHash": "abaa4af1ec3b3a1454d5bfe1e0d36107d5330f1cd0e02cf231bfdca0a224596e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
+        "type": "masters",
+        "label": "MSc Wirtschaftsinformatik – Digital Transformation",
+        "observedAt": "2026-09-19T23:06:30.948Z",
+        "checkedAt": "2026-09-19T23:06:30.948Z",
+        "contentHash": "4e20f5c2a853333cac667724ccdb42ea539090cd519bdff607f11ab72ae3e320",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
+        "type": "masters",
+        "label": "MSc Mechatronics",
+        "observedAt": "2026-09-20T20:25:20.873Z",
+        "checkedAt": "2026-09-20T20:25:20.873Z",
+        "contentHash": "95de0c6c900464cdd335425e831941cba72cda0512d3bb2c391f5d24e27b2944",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhv.at/infopoint/praktische-informationen-zum-leben-in-vorarlberg/stipendien-und-foerderungen/stipendien-fuer-studierende-der-fhv",
+        "type": "funding",
+        "label": "Leistungsstipendium — rendimiento académico en FHV",
+        "observedAt": "2026-09-20T23:21:52.354Z",
+        "checkedAt": "2026-09-20T23:21:52.354Z",
+        "contentHash": "22c0126fcbfc59d124157dfe1886cef6f195b685eb67330e287278e7fbef0cd3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhv.at/infopoint/individuelle-unterstuetzung/familienfreundliche-studienkultur/ausschreibung-foerdermittel-kinderbetreuungskosten",
+        "type": "funding",
+        "label": "Soroptimist Club Dornbirn — apoyo a costes de cuidado infantil en FHV",
+        "observedAt": "2026-09-20T23:30:23.724Z",
+        "checkedAt": "2026-09-20T23:30:23.724Z",
+        "contentHash": "8edd202f8f9b415a3fcb8472849da0627e5601935363830f5451e4dd38796def",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fhv.at/en/studies",
+        "type": "index",
+        "label": "Índice oficial de estudios · Vorarlberg University of Applied Sciences",
+        "observedAt": "2026-09-20T22:48:22.515Z",
+        "checkedAt": "2026-09-20T22:48:22.515Z",
+        "contentHash": "5c9f6d6f32fb6664eb872473d952106c2a4a68b591789eb00f82170e2f7b3876",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-v27-0072dxg89",
+    "name": "Fachhochschule Salzburg",
+    "country": "AT",
+    "city": "Salzburg",
+    "ror": "https://ror.org/0072dxg89",
+    "officialUrl": "https://www.fh-salzburg.ac.at",
+    "domains": [
+      "fh-salzburg.ac.at"
+    ],
+    "sources": [
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master",
+        "type": "masters",
+        "label": "MSc AI for Sustainable Technologies",
+        "observedAt": "2026-09-20T22:48:37.398Z",
+        "checkedAt": "2026-09-20T22:48:37.398Z",
+        "contentHash": "e54dc9bb5b8085d1086efc65ff173fb0441a7832a99dbc957a10b4124b5d3d48",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master/curriculum",
+        "type": "masters",
+        "label": "Currículo y trabajo de investigación · MSc AI for Sustainable Technologies",
+        "observedAt": "2026-09-20T23:06:57.660Z",
+        "checkedAt": "2026-09-20T23:06:57.660Z",
+        "contentHash": "55ff5f7030cff50c58bc88fd0798a6263311fcbbfe30af2ae98eb11045ef251e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master/zugangsvoraussetzungen",
+        "type": "masters",
+        "label": "Requisitos de acceso · MSc AI for Sustainable Technologies",
+        "observedAt": "2026-09-20T23:06:58.129Z",
+        "checkedAt": "2026-09-20T23:06:58.129Z",
+        "contentHash": "808aa020ac338821e90df653daae977525508b4dc764628aa7f8f01869bb2c5f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master",
+        "type": "masters",
+        "label": "MSc Code and Interactive Systems",
+        "observedAt": "2026-09-20T22:48:39.622Z",
+        "checkedAt": "2026-09-20T22:48:39.622Z",
+        "contentHash": "fdb8590a26066f6c16aac788de4448ad4ba6747c76c3af519ca81fd0f228c9d9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master/curriculum",
+        "type": "masters",
+        "label": "Currículo y trabajo de investigación · MSc Code and Interactive Systems",
+        "observedAt": "2026-09-20T23:07:00.354Z",
+        "checkedAt": "2026-09-20T23:07:00.354Z",
+        "contentHash": "ac2dad70a997873f6f802fcfe76ddb5bbace4866da5c59629a237065e826b413",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master/admission-application",
+        "type": "masters",
+        "label": "Requisitos de acceso · MSc Code and Interactive Systems",
+        "observedAt": "2026-09-20T23:07:01.193Z",
+        "checkedAt": "2026-09-20T23:07:01.193Z",
+        "contentHash": "920df8b1c36f8e9aadc84134bfa330f4d45eb64b144f348b806a75ff27861079",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master",
+        "type": "masters",
+        "label": "DI Cyber Security",
+        "observedAt": "2026-09-20T22:00:33.440Z",
+        "checkedAt": "2026-09-20T22:00:33.440Z",
+        "contentHash": "ac03f2ab18d8d2988df4f362d7d6b115ea4092fb6e18e0b3fa450aa615b717f4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master/curriculum",
+        "type": "masters",
+        "label": "Currículo y trabajo de investigación · DI Cyber Security",
+        "observedAt": "2026-09-20T23:07:01.954Z",
+        "checkedAt": "2026-09-20T23:07:01.954Z",
+        "contentHash": "907faed775fb5cf30fddcd487185415b757840dff86e9210f0c767f419959e23",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master/zugangsvoraussetzungen",
+        "type": "masters",
+        "label": "Requisitos de acceso · DI Cyber Security",
+        "observedAt": "2026-09-20T23:07:02.783Z",
+        "checkedAt": "2026-09-20T23:07:02.783Z",
+        "contentHash": "0a9982142653944e69e6567b9c257f6361020dcb3ed592fbd6d81f9418f0b3f0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master",
+        "type": "masters",
+        "label": "DI Industrial Informatics & Robotics",
+        "observedAt": "2026-09-19T23:44:10.427Z",
+        "checkedAt": "2026-09-19T23:44:10.427Z",
+        "contentHash": "da50f9852fde814084b1cd60bc3230ffcf335b52196051aa2bbe757dc9d3127b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master/curriculum",
+        "type": "masters",
+        "label": "Currículo y trabajo de investigación · DI Industrial Informatics & Robotics",
+        "observedAt": "2026-09-20T15:02:51.423Z",
+        "checkedAt": "2026-09-20T15:02:51.423Z",
+        "contentHash": "cd4b4551e08373060a82269d86d61705ef5981e890eaa226458e14a2d588e92b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master/zugangsvoraussetzungen",
+        "type": "masters",
+        "label": "Requisitos de acceso · DI Industrial Informatics & Robotics",
+        "observedAt": "2026-09-20T12:05:43.673Z",
+        "checkedAt": "2026-09-20T12:05:43.673Z",
+        "contentHash": "58bd1dc3eb606e3662db7ed2679d7d86913460b4e353cdace0adb30bd6a31fd0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master",
+        "type": "masters",
+        "label": "DI IT-Management & Consulting",
+        "observedAt": "2026-09-20T22:48:40.453Z",
+        "checkedAt": "2026-09-20T22:48:40.453Z",
+        "contentHash": "0c8052c8651a178e96462eeec96cb2376d1b5daf53b7b2842eed1df8c35e0b67",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master/curriculum",
+        "type": "masters",
+        "label": "Currículo y trabajo de investigación · DI IT-Management & Consulting",
+        "observedAt": "2026-09-20T23:07:03.630Z",
+        "checkedAt": "2026-09-20T23:07:03.630Z",
+        "contentHash": "6ef35856e78a082740748db605ab97d1e047c13172eafd2645553b7b55527e56",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master/zugangsvoraussetzungen",
+        "type": "masters",
+        "label": "Requisitos de acceso · DI IT-Management & Consulting",
+        "observedAt": "2026-09-20T23:07:04.388Z",
+        "checkedAt": "2026-09-20T23:07:04.388Z",
+        "contentHash": "a39e2ac4abecb002ea3caed226859e2d83b425fa68b1578beb217dd53a15a333",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master",
+        "type": "masters",
+        "label": "MSc (CE) Applied AI in Healthcare",
+        "observedAt": "2026-09-20T22:48:38.076Z",
+        "checkedAt": "2026-09-20T22:48:38.076Z",
+        "contentHash": "560bbbcac8871f3fea70cedeb904fe667d5c3482260f53aa3aa14a83e9286784",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master/curriculum",
+        "type": "masters",
+        "label": "Currículo y trabajo de investigación · MSc (CE) Applied AI in Healthcare",
+        "observedAt": "2026-09-20T23:06:58.769Z",
+        "checkedAt": "2026-09-20T23:06:58.769Z",
+        "contentHash": "9271b497ceb1984345e8a3f6ae216c37f478f7b02ab39f3494ed89cb019cbc5d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master/admission",
+        "type": "masters",
+        "label": "Requisitos de acceso · MSc (CE) Applied AI in Healthcare",
+        "observedAt": "2026-09-20T23:06:59.572Z",
+        "checkedAt": "2026-09-20T23:06:59.572Z",
+        "contentHash": "f7462ce870051e15d46c68d9c4cbdfa5f78b864f792922589236c1115292def7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/studiengaenge/aih-m/documents/Applied_AI_in_Healthcare_Master_-_Admission_and_Application.pdf",
+        "type": "masters",
+        "label": "Requisitos y procedimiento conjunto de admisión · págs. 1, 2, 3 · MSc (CE) Applied AI in Healthcare",
+        "observedAt": "2026-09-20T23:08:51.774Z",
+        "checkedAt": "2026-09-20T23:08:51.774Z",
+        "contentHash": "b449ce729c5afbfed81bc8fcc6d287199338a0256bdaa7bcf13bf5d85ad60a79",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/info/studieren-beginnen/gebuehren-und-stipendien",
+        "type": "funding",
+        "label": "Página institucional que enlaza el fondo · Arbeiterkammer Salzburg — fondo de apoyo para continuar estudios en FH Salzburg",
+        "observedAt": "2026-09-20T23:21:53.109Z",
+        "checkedAt": "2026-09-20T23:21:53.109Z",
+        "contentHash": "b914c0306dc3a5fc5774b0cba57290206ab43bfcb2c5e15e48da04e4db9d781f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/careercenter/ak-fonds/Unterst%C3%BCtzungsfonds_der_Arbeiterkammer_Salzburg_de.pdf",
+        "type": "funding",
+        "label": "Arbeiterkammer Salzburg — fondo de apoyo para continuar estudios en FH Salzburg",
+        "observedAt": "2026-09-20T23:30:23.062Z",
+        "checkedAt": "2026-09-20T23:30:23.062Z",
+        "contentHash": "c846fd67dc7da9eef5c7966ca8f690b1fd5fd4f6215d9ce26757682ec0e184fb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.fh-salzburg.ac.at/studium/masterstudiengaenge",
+        "type": "index",
+        "label": "Índice oficial de estudios · Fachhochschule Salzburg",
+        "observedAt": "2026-09-19T23:04:27.624Z",
+        "checkedAt": "2026-09-19T23:04:27.624Z",
+        "contentHash": "5e61010e205f368e0eea79d55226356af36c3357499ea0c4037b65d0f6d7c515",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-v27-03jqp6d56",
+    "name": "University of Applied Sciences Upper Austria",
+    "country": "AT",
+    "city": "Wels",
+    "ror": "https://ror.org/03jqp6d56",
+    "officialUrl": "https://fh-ooe.at/",
+    "domains": [
+      "fh-ooe.at"
+    ],
+    "sources": [
+      {
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
+        "type": "masters",
+        "label": "DI Automatisierungstechnik",
+        "observedAt": "2026-09-20T22:48:41.638Z",
+        "checkedAt": "2026-09-20T22:48:41.638Z",
+        "contentHash": "1a7e51d8f850279e70ee1254f16aa220718258ecee18beadcddd68876e99095d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · DI Automatisierungstechnik",
+        "observedAt": "2026-09-20T23:14:38.849Z",
+        "checkedAt": "2026-09-20T23:14:38.849Z",
+        "contentHash": "5e0da86e544dc9000aa6f8c88cada4dc840928b759475af8e878c99261363d06",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studieninfos/kosten-finanzierung",
+        "type": "masters",
+        "label": "Tasas y financiación · MSc Software Engineering",
+        "observedAt": "2026-09-20T23:16:55.993Z",
+        "checkedAt": "2026-09-20T23:16:55.993Z",
+        "contentHash": "1884e5d6a0ad1c2e57cdad23d372be70b4f63eee7c5e6063e20e6912de54cab1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
+        "type": "masters",
+        "label": "MSc Data Science und Engineering",
+        "observedAt": "2026-09-20T11:17:32.662Z",
+        "checkedAt": "2026-09-20T11:17:32.662Z",
+        "contentHash": "f74d3563bcd36ffd5780b438cc249cf6843a96acb75999593d8ddd7190480eb0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Data Science und Engineering",
+        "observedAt": "2026-09-20T23:14:41.741Z",
+        "checkedAt": "2026-09-20T23:14:41.741Z",
+        "contentHash": "6aa627886f7ef612324db8399fd7cfe22dc52b7372efa41e9a752aa995992441",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/DSE-Ma/fhooe_zulassung__master_DSE_0595.pdf",
+        "type": "masters",
+        "label": "Documento de requisitos enlazado por el programa · págs. 1, 2, 3 · MSc Data Science und Engineering",
+        "observedAt": "2026-09-20T23:16:55.527Z",
+        "checkedAt": "2026-09-20T23:16:55.527Z",
+        "contentHash": "f3bde61fdc51d84dd781df6a75b3e9e9773630d0ee895dfa674d60a325fdd6d8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
+        "type": "masters",
+        "label": "MSc Embedded Systems Design",
+        "observedAt": "2026-09-20T22:48:43.983Z",
+        "checkedAt": "2026-09-20T22:48:43.983Z",
+        "contentHash": "ada3251d7fa0e9ae28d7f89c3e2d71327c3fed20c39cde95abd03e439b94dba3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Embedded Systems Design",
+        "observedAt": "2026-09-20T23:14:47.480Z",
+        "checkedAt": "2026-09-20T23:14:47.480Z",
+        "contentHash": "8975b22591f5179f4a231699a676d48baede565c98e9426e2f3cfc552381d957",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/ESD-Ma/fhooe_zulassung__master_ESD__0567.pdf",
+        "type": "masters",
+        "label": "Documento de requisitos enlazado por el programa · págs. 1 · MSc Embedded Systems Design",
+        "observedAt": "2026-09-20T23:16:56.664Z",
+        "checkedAt": "2026-09-20T23:16:56.664Z",
+        "contentHash": "24eaea2c27cd208dd49930de3cb26aad33edbfa173a21ac3b73330701b17276e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
+        "type": "masters",
+        "label": "MSc Human-Centered Computing",
+        "observedAt": "2026-09-19T23:47:58.462Z",
+        "checkedAt": "2026-09-19T23:47:58.462Z",
+        "contentHash": "fdde23b4de1da5cc099d04cb6271e082cc14387d475bcb6822f9c4680547403f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Human-Centered Computing",
+        "observedAt": "2026-09-20T21:05:09.809Z",
+        "checkedAt": "2026-09-20T21:05:09.809Z",
+        "contentHash": "9be63b8785cdafbda84386f7ceb5b041847d5173815f63e9ab28634dfa8fd559",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/assets/files/degree-programs/Hagenberg/HCC-Ma/fhooe_zulassung_master_HCC_0745.pdf",
+        "type": "masters",
+        "label": "Documento de requisitos enlazado por el programa · págs. 1, 2, 3 · MSc Human-Centered Computing",
+        "observedAt": "2026-09-20T23:16:57.600Z",
+        "checkedAt": "2026-09-20T23:16:57.600Z",
+        "contentHash": "c127a1e63d7658d707f0a1cc125d502fed9845d89711222eb8c916455d96321c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
+        "type": "masters",
+        "label": "MSc Information Engineering und -Management",
+        "observedAt": "2026-09-20T22:48:44.840Z",
+        "checkedAt": "2026-09-20T22:48:44.840Z",
+        "contentHash": "71c393c3dbd29ef0793580124a8d8570083c8bef301de8d0dbfef5612008c0e4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Information Engineering und -Management",
+        "observedAt": "2026-09-20T23:14:50.257Z",
+        "checkedAt": "2026-09-20T23:14:50.257Z",
+        "contentHash": "d5dd81dddbb6b636beabf5f0d042d7d2b9242347653d5db7d75532f3cc984b2c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
+        "type": "masters",
+        "label": "MA Information Security Management",
+        "observedAt": "2026-09-20T22:48:45.569Z",
+        "checkedAt": "2026-09-20T22:48:45.569Z",
+        "contentHash": "4918bc23749cc667a8164ae76c21dd251de6d178a6aef05c2da41c7f2617d410",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/information-security-management-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MA Information Security Management",
+        "observedAt": "2026-09-20T23:14:52.255Z",
+        "checkedAt": "2026-09-20T23:14:52.255Z",
+        "contentHash": "e03f7e3e9e0eba27cb181135934696065c626f90784022104ed9646317bb0c60",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
+        "type": "masters",
+        "label": "MSc Interactive Media",
+        "observedAt": "2026-09-20T22:48:46.386Z",
+        "checkedAt": "2026-09-20T22:48:46.386Z",
+        "contentHash": "a2a8b781f9768ef5411d58d8574a21b9425e790da165ec28f7fd238b63dd4da5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/interactive-media-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Interactive Media",
+        "observedAt": "2026-09-20T23:14:53.819Z",
+        "checkedAt": "2026-09-20T23:14:53.819Z",
+        "contentHash": "c4df9a5051fd69102a7b037b58dc34bbb012dab49dc5d96c9f93edda5ad3bc6c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
+        "type": "masters",
+        "label": "MSc Mobile Computing",
+        "observedAt": "2026-09-20T10:34:40.633Z",
+        "checkedAt": "2026-09-20T10:34:40.633Z",
+        "contentHash": "7290865107be728448157c13c11f365014633e9cc9c6c2827eeee44f47adedff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Mobile Computing",
+        "observedAt": "2026-09-20T23:14:55.560Z",
+        "checkedAt": "2026-09-20T23:14:55.560Z",
+        "contentHash": "72159c95cef48a9d270f0125c26dd92c799226b054fa29dd5cac25058ba822c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
+        "type": "masters",
+        "label": "DI Robotic Systems Engineering",
+        "observedAt": "2026-09-20T22:48:48.846Z",
+        "checkedAt": "2026-09-20T22:48:48.846Z",
+        "contentHash": "633918636495bb862d202edd845dab904e090fef7039aaa8d9ee5fb5f6ac795e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · DI Robotic Systems Engineering",
+        "observedAt": "2026-09-20T23:15:01.363Z",
+        "checkedAt": "2026-09-20T23:15:01.363Z",
+        "contentHash": "1f86c751dcae34a6cc085e1b0d7e42af98a7a9c73282b9aaba34fc6cce87b6e3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
+        "type": "masters",
+        "label": "MSc Sichere Informationssysteme",
+        "observedAt": "2026-09-20T22:48:49.595Z",
+        "checkedAt": "2026-09-20T22:48:49.595Z",
+        "contentHash": "89100a325004f5846797e497e80effc51cf79f33f9c1101a9151a2aa9c6810c4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Sichere Informationssysteme",
+        "observedAt": "2026-09-20T23:15:03.376Z",
+        "checkedAt": "2026-09-20T23:15:03.376Z",
+        "contentHash": "05737c4bb388c146aa431abb60e226259bdf489bd6627958cb09225ce2699f49",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
+        "type": "masters",
+        "label": "MSc Software Engineering",
+        "observedAt": "2026-09-20T10:49:18.744Z",
+        "checkedAt": "2026-09-20T10:49:18.744Z",
+        "contentHash": "be9ee010b44ae35db1563e8687f0d728c1cc2e627b10e232a3b20e1cfd387663",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot/software-engineering-master/studienplan",
+        "type": "masters",
+        "label": "Plan de estudios y créditos de investigación · MSc Software Engineering",
+        "observedAt": "2026-09-20T14:53:14.465Z",
+        "checkedAt": "2026-09-20T14:53:14.465Z",
+        "contentHash": "f18dcd94ebfcf3f8279b2e172b1d6cd002a3840f0439e4f55ebf6d801cafa6c4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fh-ooe.at/studienangebot",
+        "type": "index",
+        "label": "Índice oficial de estudios · University of Applied Sciences Upper Austria",
+        "observedAt": "2026-09-20T22:47:20.473Z",
+        "checkedAt": "2026-09-20T22:47:20.473Z",
+        "contentHash": "9c5250d177f5ae0b5dc1400945d4a4bfed599522d5fc3e278b0e411a238e5990",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-v27-003f4pg83",
+    "name": "Hochschule Campus Wien",
+    "country": "AT",
+    "city": "Vienna",
+    "ror": "https://ror.org/003f4pg83",
+    "officialUrl": "https://www.hcw.ac.at",
+    "domains": [
+      "hcw.ac.at"
+    ],
+    "sources": [
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
+        "type": "masters",
+        "label": "MSc Bioinformatik",
+        "observedAt": "2026-09-19T23:43:48.626Z",
+        "checkedAt": "2026-09-19T23:43:48.626Z",
+        "contentHash": "066ae3698132a9c5b4fd7ddc40114a607e6739eb201088df88e587d52eb493c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
+        "type": "masters",
+        "label": "MSc IT-Security",
+        "observedAt": "2026-09-20T22:48:51.403Z",
+        "checkedAt": "2026-09-20T22:48:51.403Z",
+        "contentHash": "3e68abcf1604f1b953e183a7c578d8ee1de0008e27f142dbf9ef1b29f0ece7eb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
+        "type": "masters",
+        "label": "MSc Multilingual Technologies",
+        "observedAt": "2026-09-20T21:02:19.215Z",
+        "checkedAt": "2026-09-20T21:02:19.215Z",
+        "contentHash": "5ae96ae78f9cc904bc2d8824ca95d6ce97e3bc9b372f7af0c82d1b4fee256abb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
+        "type": "masters",
+        "label": "MSc Software Design and Engineering",
+        "observedAt": "2026-09-20T10:29:27.085Z",
+        "checkedAt": "2026-09-20T10:29:27.085Z",
+        "contentHash": "0986eec9ed1f7236c93a26ef8c768162c378c56214a124ebff319ebccf848660",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
+        "type": "masters",
+        "label": "MSc Technische Informatik",
+        "observedAt": "2026-09-20T10:46:23.848Z",
+        "checkedAt": "2026-09-20T10:46:23.848Z",
+        "contentHash": "2eac251e15da4fe36a9101445807276188a1db5384ec7f7315a98a9251f1d162",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/fileadmin/redakteure/Studium/06_Technik/m_Electronic-Systems-Engineering/Dokumente/0538_Embedded_Systems_Engineering_20171016.pdf",
+        "type": "masters",
+        "label": "Documento de acceso enlazado: Electronic Systems Engineering, julio de 2019 · págs. 1, 2 · MSc Technische Informatik",
+        "observedAt": "2026-09-20T23:20:50.428Z",
+        "checkedAt": "2026-09-20T23:20:50.428Z",
+        "contentHash": "7cac05cc0c3545d5d5d9b6b29aa3208260879c62968609ef8b399c9a863dacb4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
+        "type": "masters",
+        "label": "MSc Health Tech and Clinical Engineering",
+        "observedAt": "2026-09-20T13:25:23.593Z",
+        "checkedAt": "2026-09-20T13:25:23.593Z",
+        "contentHash": "9d29912907426e9ea33a4058c61b705cacaee9b5097aa656b105083ee00bebc9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/bewerbung-und-aufnahme/foerderungen-und-stipendien",
+        "type": "funding",
+        "label": "Leistungsstipendium — rendimiento académico en Hochschule Campus Wien",
+        "observedAt": "2026-09-20T23:21:53.632Z",
+        "checkedAt": "2026-09-20T23:21:53.632Z",
+        "contentHash": "0742a766030e311c8b378fa2e662d62e5e7fda2f0f53468b9fdc6e594a6f5262",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot",
+        "type": "index",
+        "label": "Índice oficial de estudios · Hochschule Campus Wien",
+        "observedAt": "2026-09-19T22:56:34.931Z",
+        "checkedAt": "2026-09-19T22:56:34.931Z",
+        "contentHash": "aa10cb71a4c76a3ba0717aa8e65e78526924a2dea5f85c3577f0084fcec04316",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "at-v27-waff",
+    "name": "waff — Wiener Arbeitnehmer*innen Förderungsfonds",
+    "country": "AT",
+    "city": "Vienna",
+    "officialUrl": "https://www.waff.at/",
+    "domains": [
+      "waff.at"
+    ],
+    "sources": [
+      {
+        "url": "https://www.waff.at/beruf-weiterbildung/frauen-studieren-berufsbegleitend/",
+        "type": "funding",
+        "label": "waff-Stipendium für Frauen — estudios compatibles con empleo en Viena",
+        "observedAt": "2026-09-20T23:24:21.164Z",
+        "checkedAt": "2026-09-20T23:24:21.164Z",
+        "contentHash": "ec35fc409045d843c71630c57a00a26b1611bde065f9d706fc19f86df1e297c8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.waff.at/wp-content/uploads/2026/01/taxative-liste-programm-ausbildungsinitiative-frauen-in-dnt_20260201.pdf",
+        "type": "funding",
+        "label": "Lista de estudios elegibles — enlace del cuerpo de la página, edición 01.02.2026 · waff-Stipendium für Frauen — estudios compatibles con empleo en Viena",
+        "observedAt": "2026-09-20T23:30:21.346Z",
+        "checkedAt": "2026-09-20T23:30:21.346Z",
+        "contentHash": "fdfde87c2b1ad2388909efbaa94c226a9f4e5b998e3c31664907a87d38961089",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.waff.at/wp-content/uploads/2026/03/taxative-liste_programm-ausbildungsinitiative-frauen-in-dnt_20260201.pdf",
+        "type": "funding",
+        "label": "Lista de estudios elegibles — enlace del pie de página, edición 01.02.2026 · waff-Stipendium für Frauen — estudios compatibles con empleo en Viena",
+        "observedAt": "2026-09-20T23:30:22.331Z",
+        "checkedAt": "2026-09-20T23:30:22.331Z",
+        "contentHash": "3e33d4b89d1ea6a056f8d276444c38101629644c99cd48c8a5feb9143400f8f6",
         "accessOutcome": "ok"
       }
     ]

@@ -1,4 +1,6 @@
-# Adquisición nórdica
+# Adaptadores de fuentes
+
+## Adquisición nórdica
 
 Todas las peticiones usan la política común de robots, caché condicional, pausas y reintentos. La ausencia en un listado no demuestra que una plaza haya cerrado. El proceso de revisión de anuncios conocidos conserva la última evidencia y señala los fallos.
 
@@ -31,3 +33,9 @@ npm run harvest:audit
 ```
 
 Ejecutar los procesos que escriben `data/catalogue.json` de forma secuencial. No publicar en Neon si la auditoría falla. Los fallos de acceso se muestran como revisiones parciales.
+
+## Currículos de Wiener Neustadt
+
+El plan de estudios de estas fichas coloca el nombre del módulo y los ECTS en dos celdas `div`. La extracción textual podía unir `Master Thesis` y `28`, impidiendo reconocer la tesis. El lector restituye esa separación únicamente dentro del currículo identificado y encabezado como `Studienplan`, con dos celdas y un valor numérico de créditos.
+
+No se amplía la regla general de reconocimiento de tesis. Las pruebas comprueban tanto el currículo válido como tarjetas similares fuera del plan, identificadores duplicados, valores no numéricos y elementos ocultos o laterales. Las condiciones y límites del lote que utiliza este lector están en la [revisión de Austria](austria-review-2026-09-21.md).
