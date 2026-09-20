@@ -1,5 +1,5 @@
 'use client';
-import {useEffect,useMemo,useState} from 'react';
+import {useCallback,useEffect,useMemo,useState} from 'react';
 import Link from '@/components/site-link';
 import {Search,ArrowRight,RefreshCw,X,Scale,ArrowUpRight} from 'lucide-react';
 import {Tabs,TabsList,TabsTrigger,TabsContent} from '@/components/ui/tabs';
@@ -8,13 +8,16 @@ import {Dialog,DialogContent,DialogTitle,DialogDescription,DialogClose} from '@/
 import {Table,TableHeader,TableBody,TableRow,TableHead,TableCell} from '@/components/ui/table';
 import {Pagination,PaginationContent,PaginationItem} from '@/components/ui/pagination';
 import {OpportunityCard} from './opportunity-card';
-import {STAGES,FIELDS,COUNTRY_NAMES,dateLabel,statusOf,type Catalogue,type Opportunity} from '@/lib/types';
+import {STAGES,FIELDS,COUNTRY_NAMES,dateLabel,statusOf,type Opportunity} from '@/lib/types';
+import type {ExplorerCatalogue} from '@/lib/explorer-data';
 const normalize=(s:string)=>s.toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 function Choice({label,value,onChange,options}:{label:string;value:string;onChange:(s:string)=>void;options:[string,string][]}){return <div className="filter-choice"><span>{label}</span><Select value={value} onValueChange={onChange}><SelectTrigger aria-label={label}><SelectValue/></SelectTrigger><SelectContent position="popper">{options.map(([v,t])=><SelectItem key={v} value={v}>{t}</SelectItem>)}</SelectContent></Select></div>}
-export default function Explorer({initial,initialStage='all',funding=false,initialQuery=''}:{initial:Catalogue;initialStage?:string;funding?:boolean;initialQuery?:string}){
- const [data,setData]=useState(initial),[stage,setStage]=useState(initialStage),[query,setQuery]=useState(initialQuery),[country,setCountry]=useState('all'),[field,setField]=useState('all'),[kind,setKind]=useState('all'),[status,setStatus]=useState('current'),[sort,setSort]=useState('deadline'),[page,setPage]=useState(1),[compare,setCompare]=useState<string[]>([]),[dialog,setDialog]=useState(false),[refreshing,setRefreshing]=useState(false),[refreshError,setRefreshError]=useState(false);
- async function refresh(){setRefreshing(true);try{const r=await fetch('/api/catalogue',{signal:AbortSignal.timeout(12000)});if(!r.ok)throw new Error();const updated=await r.json() as Catalogue;if(!Array.isArray(updated.records))throw new Error();setData(updated);setRefreshError(false);}catch{setRefreshError(true);}finally{setRefreshing(false);}}
- useEffect(()=>{const t=setInterval(refresh,300000);return()=>clearInterval(t);},[]);
+export default function Explorer({initial,initialStage='all',funding=false,initialQuery=''}:{initial:string;initialStage?:string;funding?:boolean;initialQuery?:string}){
+ // One JSON string avoids serializing thousands of nested RSC props while
+ // preserving server-rendered results. Parse once; refreshes use the listing API.
+ const [data,setData]=useState<ExplorerCatalogue>(()=>JSON.parse(initial)),[stage,setStage]=useState(initialStage),[query,setQuery]=useState(initialQuery),[country,setCountry]=useState('all'),[field,setField]=useState('all'),[kind,setKind]=useState('all'),[status,setStatus]=useState('current'),[sort,setSort]=useState('deadline'),[page,setPage]=useState(1),[compare,setCompare]=useState<string[]>([]),[dialog,setDialog]=useState(false),[refreshing,setRefreshing]=useState(false),[refreshError,setRefreshError]=useState(false);
+ const refresh=useCallback(async()=>{setRefreshing(true);try{const r=await fetch('/api/explorer'+(funding?'?funding=1':''),{signal:AbortSignal.timeout(12000)});if(!r.ok)throw new Error();const updated=await r.json() as ExplorerCatalogue;if(!Array.isArray(updated.records))throw new Error();setData(updated);setRefreshError(false);}catch{setRefreshError(true);}finally{setRefreshing(false);}},[funding]);
+ useEffect(()=>{const t=setInterval(refresh,300000);return()=>clearInterval(t);},[refresh]);
  useEffect(()=>{setPage(1);const url=new URL(location.href);if(stage==='all')url.searchParams.delete('etapa');else url.searchParams.set('etapa',stage);if(query)url.searchParams.set('q',query);else url.searchParams.delete('q');history.replaceState(null,'',url);},[stage,query,country,field,kind,status,sort]);
  const base=useMemo(()=>data.records.filter(r=>funding?r.kind.includes('funding'):!r.kind.includes('funding')),[data,funding]);
  const eligible=base.filter(r=>stage==='all'||r.stage===stage||r.eligibleStages?.includes(stage as import('@/lib/types').Stage));
