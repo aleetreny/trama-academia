@@ -17,3 +17,16 @@ test('audit and database publication reject an excluded row before contacting th
   }
  }finally{await fs.rm(dir,{recursive:true,force:true});}
 });
+
+test('an unverified transcontinental campus is rejected before database writes',async()=>{
+ const dir=await fs.mkdtemp(path.join(os.tmpdir(),'trama-campus-publication-'));
+ try{
+  await fs.mkdir(path.join(dir,'data'));
+  const record={id:'campus-example',country:'RU',kind:'programme',title:'Computer Science',institution:'University',fields:['Informática'],url:'https://example.edu/programme',sourceId:'source'};
+  await fs.writeFile(path.join(dir,'data/catalogue.json'),JSON.stringify({records:[record],sources:[{id:'source'}]}));
+  await fs.writeFile(path.join(dir,'data/exclusions.json'),'[]');
+  for(const script of ['./audit.mjs','../db/sync.mjs']){
+   assert.throws(()=>execFileSync(process.execPath,[fileURLToPath(new URL(script,import.meta.url))],{cwd:dir,env:{...process.env,DATABASE_URL:'postgresql://test:test@unreachable.invalid/test'},stdio:'pipe',timeout:5000}),error=>error.status===1&&/unverified campus destination/i.test(String(error.stderr)));
+  }
+ }finally{await fs.rm(dir,{recursive:true,force:true});}
+});

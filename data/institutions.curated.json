@@ -15916,24 +15916,22 @@
     "domain": "knu.ua",
     "sources": [
       {
-        "type": "masters",
         "url": "https://csc.knu.ua/en/master",
-        "label": "Master Degree - Faculty of Computer Science and Cybernetics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Índice oficial · Taras Shevchenko National University of Kyiv",
+        "observedAt": "2026-09-19T21:36:57.078Z",
+        "checkedAt": "2026-09-19T21:36:57.078Z",
+        "contentHash": "e9b5fa6a038d8c0542c961d877f21ad38e8cfeb14638b7b96fb0c7729e495034",
+        "accessOutcome": "ok"
       },
       {
-        "type": "masters",
         "url": "https://csc.knu.ua/en/postgraduate",
-        "label": "Postgraduate Studies - Faculty of Computer Science and Cybernetics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "phd",
+        "label": "Doctorado — Faculty of Computer Science and Cybernetics — doctoral routes",
+        "observedAt": "2026-09-20T11:32:13.101Z",
+        "checkedAt": "2026-09-20T11:32:13.101Z",
+        "contentHash": "1edc369d2a7b905be35709d14d15143e8a3c3589130a75b89047727d3e8617ec",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -15987,14 +15985,13 @@
     "domain": "kpi.ua",
     "sources": [
       {
-        "type": "phd",
         "url": "https://iate.kpi.ua/en/students-and-phd-students/degree-programmes/dte-f3-kn-msc-onp-2025/",
-        "label": "Computer Sciences — Master’s degree · research programme – IATE, Igor Sikorsky KPI",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Master — Computer Science",
+        "observedAt": "2026-09-20T11:32:12.775Z",
+        "checkedAt": "2026-09-20T11:32:12.775Z",
+        "contentHash": "2ca6eb52fdd668bf0aaefb85bdc195c8f9716b5fa4a623e16d76eaa0915807bc",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -16035,6 +16032,24 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://iate.kpi.ua/en/students-and-phd-students/degree-programmes/ipze-f2-phd-2025/",
+        "type": "phd",
+        "label": "Doctorado — Software Engineering",
+        "observedAt": "2026-09-20T11:32:10.664Z",
+        "checkedAt": "2026-09-20T11:32:10.664Z",
+        "contentHash": "120cb1b553e31c13e0d1f0844806c81a6b7f2cb6e935861d98982c7d0e8428be",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://iate.kpi.ua/en/students-and-phd-students/degree-programmes/ipze-f2-msc-onp-2025/",
+        "type": "masters",
+        "label": "Master — Software Engineering of Intelligent Cyber-Physical Systems in Energy",
+        "observedAt": "2026-09-20T11:32:13.396Z",
+        "checkedAt": "2026-09-20T11:32:13.396Z",
+        "contentHash": "a98f9bdb9106afabf07fb5ee690a75560a1186aec3135840cfef6fb36ac35fda",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -16098,14 +16113,22 @@
         }
       },
       {
-        "type": "phd",
         "url": "https://ami.lnu.edu.ua/en/academics/postgraduates",
-        "label": "PhD and Doctorate - Faculty of Applied Mathematics ...",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "phd",
+        "label": "Índice oficial · Lviv University",
+        "observedAt": "2026-09-19T21:53:43.660Z",
+        "checkedAt": "2026-09-19T21:53:43.660Z",
+        "contentHash": "160fd6268270ca8bd6b3a0157c275266c4d66c51ac4357a619d2cc509fb7a5d7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ami.lnu.edu.ua/academics/master",
+        "type": "masters",
+        "label": "Índice oficial · Lviv University",
+        "observedAt": "2026-09-19T21:56:02.304Z",
+        "checkedAt": "2026-09-19T21:56:02.304Z",
+        "contentHash": "d6cb5f97f41b0e8a1fa523c498cc904e994ef404991a8416d1381660bb81e8cb",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -16281,14 +16304,13 @@
         }
       },
       {
-        "type": "masters",
         "url": "https://nure.ua/en/applicants/specialties-and-specialization/f4-system-analysis-and-data-science/master-s-degree-f4-system-analysis-and-data-science",
-        "label": "Master’s Degree F4 System Analysis and Data Science | NURE - Kharkiv National University of Radio Electronics | NURE - Kharkiv National University of Radio Electronics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Índice oficial · Kharkiv National University of Radio Electronics",
+        "observedAt": "2026-09-19T21:54:15.215Z",
+        "checkedAt": "2026-09-19T21:54:15.215Z",
+        "contentHash": "ae3fca8da03a20242fd2686b5c8b276ce1dc8b91aac25950770b3ad098d6e331",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -16301,14 +16323,13 @@
         }
       },
       {
-        "type": "masters",
         "url": "https://nure.ua/en/applicants/specialties-and-specialization/f3-computer-science/master-s-degree-f3-computer-science",
-        "label": "Master's Degree F3 Computer Science",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Índice oficial · Kharkiv National University of Radio Electronics",
+        "observedAt": "2026-09-19T21:39:02.892Z",
+        "checkedAt": "2026-09-19T21:39:02.892Z",
+        "contentHash": "de07b27d3dc35e45c896e59e88038c278cfb6fd4d748979c053dffee344e0b5c",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -16319,6 +16340,24 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://nure.ua/en/applicants/specialties-and-specialization/f2-software-engineering/phd-f2-software-engineering",
+        "type": "phd",
+        "label": "Índice oficial · Kharkiv National University of Radio Electronics",
+        "observedAt": "2026-09-19T22:08:50.000Z",
+        "checkedAt": "2026-09-19T22:08:50.000Z",
+        "contentHash": "095b3d2b866386aed24893d62d9377325a694a9cb0f189cca4f024069a1844cf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://nure.ua/en/applicants/specialties-and-specialization/f3-computer-science/phd-f3-computer-science",
+        "type": "phd",
+        "label": "Índice oficial · Kharkiv National University of Radio Electronics",
+        "observedAt": "2026-09-19T22:09:04.793Z",
+        "checkedAt": "2026-09-19T22:09:04.793Z",
+        "contentHash": "76c8fb92f7fb2a8213682a7787006a9318c2960620c32a5b7b832b4194e824b3",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -16414,24 +16453,22 @@
     "domain": "itu.edu.tr",
     "sources": [
       {
-        "type": "research",
-        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Dili=EN&Program=BBL_BB_DR",
-        "label": "Computer Sciences Doctor of Philosophy Program",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=BBL_BB_DR&Dili=EN",
+        "type": "phd",
+        "label": "Doctorado — Computer Sciences",
+        "observedAt": "2026-09-20T11:31:26.689Z",
+        "checkedAt": "2026-09-20T11:31:26.689Z",
+        "contentHash": "d96c4cab49571c40e11b93eb985e1ec6a78a727384fe7974a6b5c62b766202cc",
+        "accessOutcome": "ok"
       },
       {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=BBL_BB_YL&Dili=EN",
         "type": "masters",
-        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Dili=EN&Program=BBL_BB_YL",
-        "label": "Computer Sciences Master of Science Program",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Master — Computer Sciences",
+        "observedAt": "2026-09-20T11:31:51.228Z",
+        "checkedAt": "2026-09-20T11:31:51.228Z",
+        "contentHash": "6a26e311448f7f1bea6c25de949a445bb0c54bf81389680a9b613777454958ca",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -16444,14 +16481,13 @@
         }
       },
       {
-        "type": "research",
         "url": "https://www.tyyc.itu.edu.tr/?Dili=EN",
-        "label": "ITU | Program Information Package - TYYÇ",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Índice oficial · Istanbul Technical University",
+        "observedAt": "2026-09-19T21:38:02.871Z",
+        "checkedAt": "2026-09-19T21:38:02.871Z",
+        "contentHash": "ff5b305c6fb6fc928743c50eec1878a240132c07b5a5c47d0d4a005155f75d15",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -16462,6 +16498,132 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Dili=EN&Program=MTB_MT_DR",
+        "type": "phd",
+        "label": "Doctorado — Architectural Design Computing",
+        "observedAt": "2026-09-20T11:31:17.039Z",
+        "checkedAt": "2026-09-20T11:31:17.039Z",
+        "contentHash": "e07bb94819976a48425df3b6073b27485428ac540d075933959be91d5b37b4f4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=HBM_HB_DR&Dili=EN",
+        "type": "phd",
+        "label": "Doctorado — Computational Science and Engineering",
+        "observedAt": "2026-09-20T11:31:21.592Z",
+        "checkedAt": "2026-09-20T11:31:21.592Z",
+        "contentHash": "63e14bf0babd848d470267ef4660f554124a25f27a277769ad2a1d2c5a08f19f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=BLG_BG_DR&Dili=EN",
+        "type": "phd",
+        "label": "Doctorado — Computer Engineering",
+        "observedAt": "2026-09-20T11:31:23.813Z",
+        "checkedAt": "2026-09-20T11:31:23.813Z",
+        "contentHash": "1f673bf842494d3880890bf7a68850396c15451c199fdc2deeaa66a5bf4cb3cc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=KOM_KO_DR&Dili=EN",
+        "type": "phd",
+        "label": "Doctorado — Control and Automation Engineering",
+        "observedAt": "2026-09-20T11:31:29.642Z",
+        "checkedAt": "2026-09-20T11:31:29.642Z",
+        "contentHash": "45989254cd4f4ed5b720023342edff453a8280e326ba7ddd1e86f66745795873",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=BGM_KR_DR&Dili=EN",
+        "type": "phd",
+        "label": "Doctorado — Cybersecurity Engineering and Cryptography",
+        "observedAt": "2026-09-20T11:31:33.529Z",
+        "checkedAt": "2026-09-20T11:31:33.529Z",
+        "contentHash": "138e77c243beb83fb74e43235553f7f016e44964f15ab591d45ade5c87f3a23a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=MAT_MM_DR&Dili=EN",
+        "type": "phd",
+        "label": "Doctorado — Mathematical Engineering",
+        "observedAt": "2026-09-20T11:31:36.150Z",
+        "checkedAt": "2026-09-20T11:31:36.150Z",
+        "contentHash": "212d6bfb110fa4d31bd929add4c22c2112ef594138d6952ada722406a02fa6d9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Dili=EN&Program=MTB_MT_YL",
+        "type": "masters",
+        "label": "Master — Architectural Design Computing",
+        "observedAt": "2026-09-20T11:31:39.518Z",
+        "checkedAt": "2026-09-20T11:31:39.518Z",
+        "contentHash": "c6ace5bac7aef3693483db4f4f755ddff832975b34ff2ed2d38a85de443de840",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=BVA_IA_YL&Dili=EN",
+        "type": "masters",
+        "label": "Master — Big Data and Business Analytics",
+        "observedAt": "2026-09-20T11:31:42.856Z",
+        "checkedAt": "2026-09-20T11:31:42.856Z",
+        "contentHash": "fc8997f9f0218a95f45569a32bb833b2b9bda88341a3734b4099e3cfea045daf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=HBM_HB_YL&Dili=EN",
+        "type": "masters",
+        "label": "Master — Computational Science and Engineering",
+        "observedAt": "2026-09-20T11:31:45.148Z",
+        "checkedAt": "2026-09-20T11:31:45.148Z",
+        "contentHash": "46a0d7ec8e899034981e7478ed7000180a767e6a5d75dbfea3e72e1bfbb8fc3a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=BLG_BG_YL&Dili=EN",
+        "type": "masters",
+        "label": "Master — Computer Engineering",
+        "observedAt": "2026-09-20T11:31:47.657Z",
+        "checkedAt": "2026-09-20T11:31:47.657Z",
+        "contentHash": "298f2aba8da2bf85806aa30dea14290d08e926f04d42d00ab6c200c977a889ec",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=KOM_KO_YL&Dili=EN",
+        "type": "masters",
+        "label": "Master — Control and Automation Engineering",
+        "observedAt": "2026-09-20T11:31:53.664Z",
+        "checkedAt": "2026-09-20T11:31:53.664Z",
+        "contentHash": "299f6b701d61980b9ce6bbab92840654db85e5a0d233a7040054e05f94a83a78",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=BGM_KR_YL&Dili=EN",
+        "type": "masters",
+        "label": "Master — Cybersecurity Engineering and Cryptography",
+        "observedAt": "2026-09-20T11:31:56.560Z",
+        "checkedAt": "2026-09-20T11:31:56.560Z",
+        "contentHash": "fff5de50559b736857a35a1b1e37f3a6930452787975b6f3488ea9d252f96f9a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=MAT_MM_YL&Dili=EN",
+        "type": "masters",
+        "label": "Master — Mathematical Engineering",
+        "observedAt": "2026-09-20T11:31:58.917Z",
+        "checkedAt": "2026-09-20T11:31:58.917Z",
+        "contentHash": "77a35de098805256120572f858e2c1e9c7775758020500552be02b0632e32181",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=MAK_SD_YL&Dili=EN",
+        "type": "masters",
+        "label": "Master — System Dynamics and Control",
+        "observedAt": "2026-09-20T11:32:02.159Z",
+        "checkedAt": "2026-09-20T11:32:02.159Z",
+        "contentHash": "f6af3755f5ed25b4a42781b668fb0d97a102d7f9daabd96e97e72a2ecf51a3bd",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -16486,24 +16648,22 @@
     "domain": "itmo.ru",
     "sources": [
       {
-        "type": "masters",
         "url": "https://abit.itmo.ru/en/program/master/ai",
-        "label": "Artificial Intelligence",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Master — Artificial Intelligence",
+        "observedAt": "2026-09-20T11:29:09.029Z",
+        "checkedAt": "2026-09-20T11:29:09.029Z",
+        "contentHash": "e5702dc7221160a3632d69ea0c4fe591ea102b9b0c4f9a67a580ff14749218e5",
+        "accessOutcome": "ok"
       },
       {
-        "type": "masters",
         "url": "https://abit.itmo.ru/en/programs/master",
-        "label": "All Master’s programs at ITMO",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Índice oficial · ITMO University",
+        "observedAt": "2026-09-19T21:37:35.802Z",
+        "checkedAt": "2026-09-19T21:37:35.802Z",
+        "contentHash": "74e14abad18e675ff83c9975f85d350e72626075c6f6b9ee32bcc94f52b18ccf",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -16526,14 +16686,121 @@
         }
       },
       {
-        "type": "masters",
         "url": "https://abit.itmo.ru/en/program/master/bd_ml",
-        "label": "Big data and machine learning",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Master — Big Data and Machine Learning",
+        "observedAt": "2026-09-20T11:29:09.835Z",
+        "checkedAt": "2026-09-20T11:29:09.835Z",
+        "contentHash": "8727bc3fb3836105a07ef529a9c0c4d925ff8b0ef196fe266e18a588fc06c8d5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/programs/phd",
+        "type": "phd",
+        "label": "Índice oficial · ITMO University",
+        "observedAt": "2026-09-20T10:35:59.020Z",
+        "checkedAt": "2026-09-20T10:35:59.020Z",
+        "contentHash": "ef6230fb36f71f33b5679cd3dc1062d25421ce53aff7f6cc387c4d4b1d508877",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/postgraduate/ai-ml",
+        "type": "phd",
+        "label": "Doctorado — Artificial Intelligence and Machine Learning",
+        "observedAt": "2026-09-20T11:29:02.512Z",
+        "checkedAt": "2026-09-20T11:29:02.512Z",
+        "contentHash": "b1256b249710a4c55e6bde4451eca47634b22a1c2adf3b37ccaeca993cdbe90c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/postgraduate/chemoinformatics",
+        "type": "phd",
+        "label": "Doctorado — Chemoinformatics",
+        "observedAt": "2026-09-20T11:29:03.797Z",
+        "checkedAt": "2026-09-20T11:29:03.797Z",
+        "contentHash": "4b3d1f9981e91e07938296df107bb1ec16ba812c599cd99172d931f9d4999855",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/postgraduate/cybersecurity",
+        "type": "phd",
+        "label": "Doctorado — Cybersecurity",
+        "observedAt": "2026-09-20T11:29:05.587Z",
+        "checkedAt": "2026-09-20T11:29:05.587Z",
+        "contentHash": "be1c42fccc03cc4a5b3fc299f7c7388755a05075ace35daf5dcf16452a716e37",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/postgraduate/math-modeling-numerical-methods",
+        "type": "phd",
+        "label": "Doctorado — Mathematical Modeling, Numerical Methods and Software Complexes",
+        "observedAt": "2026-09-20T11:29:06.140Z",
+        "checkedAt": "2026-09-20T11:29:06.140Z",
+        "contentHash": "35233ef8367850835beb546cbaa9f23d409ceb5adc99fdbe4f22ebef93f4fc7a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/postgraduate/theoretical-computer-science-cybernetics",
+        "type": "phd",
+        "label": "Doctorado — Theoretical Informatics and Cybernetics",
+        "observedAt": "2026-09-20T11:29:06.815Z",
+        "checkedAt": "2026-09-20T11:29:06.815Z",
+        "contentHash": "a9922c7232496cb3426b40338d3820ad5beaa65607bbc44bf4fa82197a5344de",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/master/ai_industry",
+        "type": "masters",
+        "label": "Master — AI in the Industry",
+        "observedAt": "2026-09-20T11:29:07.895Z",
+        "checkedAt": "2026-09-20T11:29:07.895Z",
+        "contentHash": "81717a69731f42fc1e3a40c8c556e50af2c401078df9ce2c042c8c40d9aa86a5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/master/bioinformatics",
+        "type": "masters",
+        "label": "Master — Bioinformatics and Systems Biology",
+        "observedAt": "2026-09-20T11:29:10.600Z",
+        "checkedAt": "2026-09-20T11:29:10.600Z",
+        "contentHash": "27ec0b6ffb473a9cc236ad27c3f72d5cd77b28a949e0097d1573c31811bcd3b4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/master/business_it",
+        "type": "masters",
+        "label": "Master — Business Information Systems",
+        "observedAt": "2026-09-20T11:29:11.397Z",
+        "checkedAt": "2026-09-20T11:29:11.397Z",
+        "contentHash": "e71a89eedb2f59aade7dfc7f74f2ce671649e520bcb3adac115314a6e72c8448",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/master/urbanistics",
+        "type": "masters",
+        "label": "Master — Digital Urban Studies",
+        "observedAt": "2026-09-20T11:29:12.186Z",
+        "checkedAt": "2026-09-20T11:29:12.186Z",
+        "contentHash": "7e76ffdd3d5adb56b25b6f6e4c812e86c46caaffc4e6e7fcace08c2be565f588",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/master/programming",
+        "type": "masters",
+        "label": "Master — Programming and Computer Science",
+        "observedAt": "2026-09-20T11:29:12.988Z",
+        "checkedAt": "2026-09-20T11:29:12.988Z",
+        "contentHash": "28f70a482513881b457ee6c4591fee06f3df902ad1dcab881b24938fe3846045",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://abit.itmo.ru/en/program/master/internet_technologies",
+        "type": "masters",
+        "label": "Master — Programming and Internet Technologies",
+        "observedAt": "2026-09-20T11:29:13.795Z",
+        "checkedAt": "2026-09-20T11:29:13.795Z",
+        "contentHash": "fd4d28af18f41e94e7352ad25787851356db12c01002efcb6a96b9cb5cfd8f95",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -16558,14 +16825,13 @@
     "domain": "hse.ru",
     "sources": [
       {
+        "url": "https://www.hse.ru/en/ma/datasci",
         "type": "masters",
-        "url": "https://www.hse.ru/en/ma/datasci/",
-        "label": "Master's Programme in Data Science — HSE University",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "label": "Master — Data Science",
+        "observedAt": "2026-09-20T11:30:14.442Z",
+        "checkedAt": "2026-09-20T11:30:14.442Z",
+        "contentHash": "76ccc9a05c987aff1c13b6fc4cdd6477c570203a57f2c8125ab88d855f168dca",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -16606,6 +16872,213 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://www.hse.ru/en/education/msk/magister",
+        "type": "masters",
+        "label": "Índice oficial · undefined",
+        "observedAt": "2026-09-19T22:14:44.270Z",
+        "checkedAt": "2026-09-19T22:14:44.270Z",
+        "contentHash": "bae50e6445c1d24c69e5ddc8b5a9fd0fc42b8a2947b6ade086108df0c21c16d2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://aspirantura.hse.ru/en/spec",
+        "type": "phd",
+        "label": "Índice oficial · National Research University Higher School of Economics",
+        "observedAt": "2026-09-20T11:03:01.004Z",
+        "checkedAt": "2026-09-20T11:03:01.004Z",
+        "contentHash": "9cf928c97acd893d7d707b706332627c1ff7db4c5560b1be693ddbcd30961ab3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://aspirantura.hse.ru/en/cs",
+        "type": "phd",
+        "label": "Doctorado — Doctoral School of Computer Science",
+        "observedAt": "2026-09-20T11:29:12.193Z",
+        "checkedAt": "2026-09-20T11:29:12.193Z",
+        "contentHash": "7820c9450e851855b45963fd16dfaf3471421ab202ecd3178cbb6b037e2ae81e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/aim/",
+        "type": "masters",
+        "label": "Master — Applied Artificial Intelligence Models",
+        "observedAt": "2026-09-20T11:29:13.003Z",
+        "checkedAt": "2026-09-20T11:29:13.003Z",
+        "contentHash": "be7c0f0470a7832621cedb20b0b22be4b76c74492a54351b1a80d9824710fbbe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/mds",
+        "type": "masters",
+        "label": "Master — Applied Neural Network Technologies",
+        "observedAt": "2026-09-20T11:29:14.918Z",
+        "checkedAt": "2026-09-20T11:29:14.918Z",
+        "contentHash": "470c9754d39de80c24d70df292227b10f49cc78cb84289383bb5ddb82a3edca6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/edgeai/",
+        "type": "masters",
+        "label": "Master — Artificial Intelligence Software and Hardware",
+        "observedAt": "2026-09-20T11:29:16.934Z",
+        "checkedAt": "2026-09-20T11:29:16.934Z",
+        "contentHash": "3e74a876f9a7e8ebb5f169a7582dd27d2bc23136db26a3d56774f050f8d7a8ff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/ai_telecom/",
+        "type": "masters",
+        "label": "Master — Artificial Intelligence Technologies in Telecommunications",
+        "observedAt": "2026-09-20T11:29:26.460Z",
+        "checkedAt": "2026-09-20T11:29:26.460Z",
+        "contentHash": "37553704954e3ccf7d89f44912c8f8890eefd83efb6a95e61a593ac61af70bd7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/backend/",
+        "type": "masters",
+        "label": "Master — Backend Development and Software Systems Architecture",
+        "observedAt": "2026-09-20T11:29:32.318Z",
+        "checkedAt": "2026-09-20T11:29:32.318Z",
+        "contentHash": "02a9cefa4e2165fea66f3810ae1737bf5130e92d44aa8a33a438c147efbddb94",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/bigdata-analytics/",
+        "type": "masters",
+        "label": "Master — Big Data Analytics",
+        "observedAt": "2026-09-20T11:29:34.988Z",
+        "checkedAt": "2026-09-20T11:29:34.988Z",
+        "contentHash": "49bc4a2c9151d2813c3c6125f163575ab4173da336bf88b04fc4c96ba44524e9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/agrobiotechnology/",
+        "type": "masters",
+        "label": "Master — Bioinformatics in Agrobiotechnology",
+        "observedAt": "2026-09-20T11:29:41.308Z",
+        "checkedAt": "2026-09-20T11:29:41.308Z",
+        "contentHash": "dd8f76addaa05df3e064d16d711b7b1fc5e3dc11154af5c0222b2f14053cd1c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/badsf/",
+        "type": "masters",
+        "label": "Master — Business Analytics and Digital Solutions in Finance",
+        "observedAt": "2026-09-20T11:29:50.623Z",
+        "checkedAt": "2026-09-20T11:29:50.623Z",
+        "contentHash": "05d8a585d4fd064dbf407727ce9fd96cf3de182356faad31c033a03ef92b7511",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/ling/",
+        "type": "masters",
+        "label": "Master — Computational Linguistics",
+        "observedAt": "2026-09-20T11:29:56.264Z",
+        "checkedAt": "2026-09-20T11:29:56.264Z",
+        "contentHash": "3b99a556ca5f280452d3ddf6cc6a5f049a730bcae1f5b71754bd8b5df8ac6019",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/sna/",
+        "type": "masters",
+        "label": "Master — Data Analytics and Social Statistics",
+        "observedAt": "2026-09-20T11:29:59.069Z",
+        "checkedAt": "2026-09-20T11:29:59.069Z",
+        "contentHash": "8bab446b9c51d38605f72e3bff35326f9cf3516832e0beab0e8b3541df2ee29d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/data-engineering/",
+        "type": "masters",
+        "label": "Master — Data Engineering",
+        "observedAt": "2026-09-20T11:30:05.443Z",
+        "checkedAt": "2026-09-20T11:30:05.443Z",
+        "contentHash": "756e338b2d2ab4b4c2ca496c0d0c42b8c93bfc01d0367a35a1feaa9ad30dcb1a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/gamedev/",
+        "type": "masters",
+        "label": "Master — Digital Engineering for Computer Games",
+        "observedAt": "2026-09-20T11:30:20.607Z",
+        "checkedAt": "2026-09-20T11:30:20.607Z",
+        "contentHash": "f434d0dcc510963948d17393151b1596b8e3062ad8ac26fed8920d69d76f8bc1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/fintech/",
+        "type": "masters",
+        "label": "Master — Financial Technologies and Data Analysis",
+        "observedAt": "2026-09-20T11:30:23.522Z",
+        "checkedAt": "2026-09-20T11:30:23.522Z",
+        "contentHash": "aeeaa1b389c5e2493b617adb2d978dae61bf8af17eb35084b3ade1e8a975b93d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/aisec/",
+        "type": "masters",
+        "label": "Master — Information Security of Artificial Intelligence Systems",
+        "observedAt": "2026-09-20T11:30:29.395Z",
+        "checkedAt": "2026-09-20T11:30:29.395Z",
+        "contentHash": "328aa28b6ec721867f85d0cab917bda97bbda7f3bbaae408b5187e2f92f304df",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/internet/",
+        "type": "masters",
+        "label": "Master — Internet of Things and Cyber-physical Systems",
+        "observedAt": "2026-09-20T11:30:38.315Z",
+        "checkedAt": "2026-09-20T11:30:38.315Z",
+        "contentHash": "1b178112c0b7795d0c240eed3785e8412abc3c339bd8641964dede0a7903fb12",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/mldp/",
+        "type": "masters",
+        "label": "Master — Machine Learning in a Digital Product",
+        "observedAt": "2026-09-20T11:30:45.011Z",
+        "checkedAt": "2026-09-20T11:30:45.011Z",
+        "contentHash": "64a311a91bcb6a3fccae8c6d8c33e90810290d728d649591c78ac4a414368974",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/ipii/",
+        "type": "masters",
+        "label": "Master — Research and Entrepreneurship in Artificial Intelligence",
+        "observedAt": "2026-09-20T11:30:47.067Z",
+        "checkedAt": "2026-09-20T11:30:47.067Z",
+        "contentHash": "1e10b113af9c2ced7739239dd34fdbf82a8fb39bb0ff973da576525e26015e6f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/sdhd/",
+        "type": "masters",
+        "label": "Master — Smart Devices: Hardware Development",
+        "observedAt": "2026-09-20T11:30:53.562Z",
+        "checkedAt": "2026-09-20T11:30:53.562Z",
+        "contentHash": "9291c0b59159f33d2b4c8687ebeb9894f0226f1ba236b3f5deaf4137d7f4d0b6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/geoanalytics/",
+        "type": "masters",
+        "label": "Master — Spatial Data and Applied Geoanalytics",
+        "observedAt": "2026-09-20T11:31:02.310Z",
+        "checkedAt": "2026-09-20T11:31:02.310Z",
+        "contentHash": "93b649cf76d217491d31e6b6879ccdfa203d993898235ce817bf08a822ab9481",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.hse.ru/en/ma/samt/",
+        "type": "masters",
+        "label": "Master — Systems Analysis and Mathematical Technologies",
+        "observedAt": "2026-09-20T11:31:08.649Z",
+        "checkedAt": "2026-09-20T11:31:08.649Z",
+        "contentHash": "4073421ae3843792f63063b170a0a01ef87331e825f2a5464458924e920244c5",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -16630,14 +17103,13 @@
     "domain": "bsu.by",
     "sources": [
       {
-        "type": "masters",
         "url": "https://mmf.bsu.by/en/masters-programmes/",
-        "label": "Master’s Programmes | MMF BSU",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Índice oficial · Belarusian State University",
+        "observedAt": "2026-09-20T10:29:30.589Z",
+        "checkedAt": "2026-09-20T10:29:30.589Z",
+        "contentHash": "4dc4ebc2be7f23e49db9358896b1600581c5b87ee35bd0d888057eff4806733d",
+        "accessOutcome": "ok"
       },
       {
         "type": "research",
@@ -16678,6 +17150,15 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://mmf.bsu.by/ru/aspirantura/",
+        "type": "phd",
+        "label": "Índice oficial · Belarusian State University",
+        "observedAt": "2026-09-20T10:45:53.548Z",
+        "checkedAt": "2026-09-20T10:45:53.548Z",
+        "contentHash": "f832874c03052bf386eac0d56eab941640903bb8cf8b07a34fe82426c5a8ba99",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -18040,5 +18521,414 @@
       }
     ],
     "observedAt": "2026-09-20T11:03:37.074Z"
+  },
+  {
+    "id": "ru-skoltech",
+    "name": "Skolkovo Institute of Science and Technology",
+    "country": "RU",
+    "ror": "https://ror.org/03f9nc143",
+    "domains": [
+      "skoltech.ru"
+    ],
+    "officialUrl": "http://www.skoltech.ru/en",
+    "sources": [
+      {
+        "url": "https://www.skoltech.ru/en/education",
+        "type": "masters",
+        "label": "Índice oficial · Skolkovo Institute of Science and Technology",
+        "observedAt": "2026-09-20T10:31:54.992Z",
+        "checkedAt": "2026-09-20T10:31:54.992Z",
+        "contentHash": "0bf2cbc456cd619d16e4f220cacc232ed55ee2f913de57fb796d22acfe5f24d5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.skoltech.ru/en/programs/phd-data-science",
+        "type": "phd",
+        "label": "Doctorado — Computational and Data Science and Engineering",
+        "observedAt": "2026-09-20T11:31:05.625Z",
+        "checkedAt": "2026-09-20T11:31:05.625Z",
+        "contentHash": "a75b9380aed2a0299d4d78bb6a044160371a1c139878dac3b08f08f62ca3b672",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.skoltech.ru/en/programs/phd-mechanics",
+        "type": "phd",
+        "label": "Doctorado — Mathematics and Mechanics",
+        "observedAt": "2026-09-20T11:31:09.943Z",
+        "checkedAt": "2026-09-20T11:31:09.943Z",
+        "contentHash": "3c0941d9fb4fc5dc865285c137a22852206d567e934368bfb1a459b7c263852c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.skoltech.ru/en/programs/msc-advanced-computational-science",
+        "type": "masters",
+        "label": "Master — Advanced Computational Science",
+        "observedAt": "2026-09-20T11:31:11.386Z",
+        "checkedAt": "2026-09-20T11:31:11.386Z",
+        "contentHash": "336f4ec76238159cbb8293a861818607f572e9110d2a867c072a0000e25f9826",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.skoltech.ru/en/programs/msc-data-sciences",
+        "type": "masters",
+        "label": "Master — AI and Machine Learning",
+        "observedAt": "2026-09-20T11:31:12.826Z",
+        "checkedAt": "2026-09-20T11:31:12.826Z",
+        "contentHash": "04e6478696eb08c29d56cfd9ab7328c671b16cf9fcbd399e003f1dd2286177f0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.skoltech.ru/en/programs/msc-ai-robotics",
+        "type": "masters",
+        "label": "Master — AI Robotics",
+        "observedAt": "2026-09-20T11:31:14.257Z",
+        "checkedAt": "2026-09-20T11:31:14.257Z",
+        "contentHash": "77e12271a1d0e17b8ff4763a06d635810f1cf26f386ba13ec31ad7385ad342b4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.skoltech.ru/en/programs/msc-applied-computational-mechanics",
+        "type": "masters",
+        "label": "Master — Applied Computational Mechanics",
+        "observedAt": "2026-09-20T11:31:15.487Z",
+        "checkedAt": "2026-09-20T11:31:15.487Z",
+        "contentHash": "a0c4ee3b4fa9112bd1a426d46c7e554b1d803a40e74e9f3ca120ef920d2211cb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.skoltech.ru/en/programs/msc-energy-systems",
+        "type": "masters",
+        "label": "Master — Digital Electrical Energy",
+        "observedAt": "2026-09-20T11:31:17.019Z",
+        "checkedAt": "2026-09-20T11:31:17.019Z",
+        "contentHash": "0c580e30d993a70bf9801f43f7040d902b9012d44c78b594e04745528ba403b7",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:41:19.061Z"
+  },
+  {
+    "id": "ru-spbu",
+    "name": "St Petersburg University",
+    "country": "RU",
+    "ror": "https://ror.org/023znxa73",
+    "domains": [
+      "spbu.ru"
+    ],
+    "officialUrl": "http://spbu.ru/",
+    "sources": [
+      {
+        "url": "https://spbu.ru/postupayushchim/programms/magistratura",
+        "type": "masters",
+        "label": "Índice oficial · St Petersburg University",
+        "observedAt": "2026-09-20T10:31:59.168Z",
+        "checkedAt": "2026-09-20T10:31:59.168Z",
+        "contentHash": "6c8eb692d5d10a28791a8de0927618bec948590a1f8cbe500990948f6bce2254",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://spbu.ru/postupayushchim/programms/aspirantura",
+        "type": "phd",
+        "label": "Índice oficial · St Petersburg University",
+        "observedAt": "2026-09-20T10:31:59.948Z",
+        "checkedAt": "2026-09-20T10:31:59.948Z",
+        "contentHash": "e88388a9971d07c0b628b0a9cda1537af6f7e12fd9aede772f43b4fcc9409f91",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:41:19.078Z"
+  },
+  {
+    "id": "ru-spbpu",
+    "name": "Peter the Great St. Petersburg Polytechnic University",
+    "country": "RU",
+    "ror": "https://ror.org/02x91aj62",
+    "domains": [
+      "spbstu.ru"
+    ],
+    "officialUrl": "https://www.spbstu.ru/",
+    "sources": [
+      {
+        "url": "https://english.spbstu.ru/education/programs/programs-in-english/master-s-degree/",
+        "type": "masters",
+        "label": "Índice oficial · undefined",
+        "observedAt": "2026-09-20T10:32:03.198Z",
+        "checkedAt": "2026-09-20T10:32:03.198Z",
+        "contentHash": "5dac395990e2640bf18a01a72518dd08e9c3cbb5baa7af61d57addabe41735db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.spbstu.ru/education/programs/programs-in-english/master-s-degree/technologies-business-engineering/",
+        "type": "masters",
+        "label": "Master — Business Engineering",
+        "observedAt": "2026-09-20T11:31:02.400Z",
+        "checkedAt": "2026-09-20T11:31:02.400Z",
+        "contentHash": "4fc6f71bea1584d4d24ba1e84d2c38cb43e8981348459146a1c55d9dc7d34d84",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.spbstu.ru/education/programs/programs-in-english/master-s-degree/intelligent-systems/",
+        "type": "masters",
+        "label": "Master — Intelligent Systems",
+        "observedAt": "2026-09-20T11:31:04.059Z",
+        "checkedAt": "2026-09-20T11:31:04.059Z",
+        "contentHash": "d294aad648c2f526dc31726505f41018d3c88a24defff6667492de37f89bf230",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.spbstu.ru/education/programs/programs-in-english/master-s-degree/quantitative-finance/",
+        "type": "masters",
+        "label": "Master — Quantitative Finance",
+        "observedAt": "2026-09-20T11:31:04.806Z",
+        "checkedAt": "2026-09-20T11:31:04.806Z",
+        "contentHash": "b1cb8616ff1b9bb0d2a48649f26a39109f1abb4903d8a7c79ad77f8ead5794d9",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:41:19.094Z"
+  },
+  {
+    "id": "tr-yildiz",
+    "name": "Yıldız Technical University",
+    "country": "TR",
+    "ror": "https://ror.org/0547yzj13",
+    "domains": [
+      "yildiz.edu.tr"
+    ],
+    "officialUrl": "https://yildiz.edu.tr",
+    "sources": [
+      {
+        "url": "https://fbe.yildiz.edu.tr/en/en/graduate-programs-0/thesis-masters-program",
+        "type": "masters",
+        "label": "Índice oficial · Yıldız Technical University",
+        "observedAt": "2026-09-20T10:32:03.204Z",
+        "checkedAt": "2026-09-20T10:32:03.204Z",
+        "contentHash": "44cceca8273c856aaa4f98c0789eb89033062a13f929f26178ed5e90ec62132f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/en/lisansustu-programlar/doctorate",
+        "type": "masters",
+        "label": "Índice oficial · Yıldız Technical University",
+        "observedAt": "2026-09-20T10:32:03.824Z",
+        "checkedAt": "2026-09-20T10:32:03.824Z",
+        "contentHash": "696bed297016b64171cda3609bf30c6cec0690b58d70ddc994a2ea9d420cc833",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27489",
+        "type": "phd",
+        "label": "Doctorado — Computer Aided Architecture",
+        "observedAt": "2026-09-20T11:31:56.608Z",
+        "checkedAt": "2026-09-20T11:31:56.608Z",
+        "contentHash": "9e1c884cf218aa6845c45e25362b027df2f27f5012fe7a14f1f84d6f58184a87",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27162",
+        "type": "phd",
+        "label": "Doctorado — Computer Engineering",
+        "observedAt": "2026-09-20T11:31:58.376Z",
+        "checkedAt": "2026-09-20T11:31:58.376Z",
+        "contentHash": "0680169d454ae6d5feb30121be6d32415821953811ab08b8ecf1f1b932b7eb31",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27384",
+        "type": "phd",
+        "label": "Doctorado — Control and Automation Engineering",
+        "observedAt": "2026-09-20T11:31:58.936Z",
+        "checkedAt": "2026-09-20T11:31:58.936Z",
+        "contentHash": "8cb0329f998ff37c050513784eca41bdf9f5d5da3dbb2a7d3e02cf1b48a9333e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27441",
+        "type": "phd",
+        "label": "Doctorado — Mathematical Engineering",
+        "observedAt": "2026-09-20T11:32:00.201Z",
+        "checkedAt": "2026-09-20T11:32:00.201Z",
+        "contentHash": "8cd1b1fdf45a0e32d58d3de0ca90c3e61924f55cde4e12aadfdff7c2c4c9cdbc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27429",
+        "type": "phd",
+        "label": "Doctorado — Mathematics",
+        "observedAt": "2026-09-20T11:32:01.136Z",
+        "checkedAt": "2026-09-20T11:32:01.136Z",
+        "contentHash": "6ef54ff19f37095999335e195d9a0462f22f6265a034427d2e65534f992a239f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27273",
+        "type": "phd",
+        "label": "Doctorado — Remote Sensing and Geographic Information Systems",
+        "observedAt": "2026-09-20T11:32:01.826Z",
+        "checkedAt": "2026-09-20T11:32:01.826Z",
+        "contentHash": "1b2afb7059c1dd96eaae74d6e3205762c0ed0bab1d47500f369630da4af48ecc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27333",
+        "type": "phd",
+        "label": "Doctorado — Statistics",
+        "observedAt": "2026-09-20T11:32:02.730Z",
+        "checkedAt": "2026-09-20T11:32:02.730Z",
+        "contentHash": "ed27725bccf84aa9b4853a062f3ebb1100dc2745886c6c305fd0975d6e068454",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27594",
+        "type": "masters",
+        "label": "Master — Artificial Intelligence and Data Engineering (English)",
+        "observedAt": "2026-09-20T11:32:03.419Z",
+        "checkedAt": "2026-09-20T11:32:03.419Z",
+        "contentHash": "a52f0bf4823473778bdc82d778b1b7e2c1c828a4a638e11e7dcf6fe19ac186c5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27486",
+        "type": "masters",
+        "label": "Master — Computer Aided Architecture",
+        "observedAt": "2026-09-20T11:32:04.256Z",
+        "checkedAt": "2026-09-20T11:32:04.256Z",
+        "contentHash": "3db0824d7d02f4802bc2d3e4972eb4b7d57baa49d5202870930e1308124eeeb7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27159",
+        "type": "masters",
+        "label": "Master — Computer Engineering",
+        "observedAt": "2026-09-20T11:32:05.010Z",
+        "checkedAt": "2026-09-20T11:32:05.010Z",
+        "contentHash": "bbba2888f8370c2fb4beb30c940e63dda4f8521383d203ae56dee98bb8a052f9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27381",
+        "type": "masters",
+        "label": "Master — Control and Automation Engineering",
+        "observedAt": "2026-09-20T11:32:06.629Z",
+        "checkedAt": "2026-09-20T11:32:06.629Z",
+        "contentHash": "b0ea5b64110806e24cb6b1f91c05eb410fa084f7cd9e4377327b902c7f4e6d76",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27537",
+        "type": "masters",
+        "label": "Master — Cybersecurity and Cryptography",
+        "observedAt": "2026-09-20T11:32:07.444Z",
+        "checkedAt": "2026-09-20T11:32:07.444Z",
+        "contentHash": "d5040e561a6700d19146dd1c841fb59319fec6be1c341d8d66f118c0be988a80",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27561",
+        "type": "masters",
+        "label": "Master — Data Science and Big Data",
+        "observedAt": "2026-09-20T11:32:08.254Z",
+        "checkedAt": "2026-09-20T11:32:08.254Z",
+        "contentHash": "3888e17d0cc9cdde6408e94bb3e35db24169ddf4e6e2b4a44558f3d0b8e3ef56",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27438",
+        "type": "masters",
+        "label": "Master — Mathematical Engineering",
+        "observedAt": "2026-09-20T11:32:09.903Z",
+        "checkedAt": "2026-09-20T11:32:09.903Z",
+        "contentHash": "2805e1c170b2cb727b1366358fe684a40fec5b51e7ee3fe152918ad4179b5fa4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27426",
+        "type": "masters",
+        "label": "Master — Mathematics",
+        "observedAt": "2026-09-20T11:32:10.649Z",
+        "checkedAt": "2026-09-20T11:32:10.649Z",
+        "contentHash": "31f1a4ce7547955560f76e5a70fb99b22bc10ded35556a51c50e0978a9f04b50",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27270",
+        "type": "masters",
+        "label": "Master — Remote Sensing and Geographic Information Systems",
+        "observedAt": "2026-09-20T11:32:11.487Z",
+        "checkedAt": "2026-09-20T11:32:11.487Z",
+        "contentHash": "94f8c8b0716d43c84dd1e5bfe3d1a13473f6e7a97c9e8052517fedbcfb6edeba",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://fbe.yildiz.edu.tr/node/27330",
+        "type": "masters",
+        "label": "Master — Statistics",
+        "observedAt": "2026-09-20T11:32:12.259Z",
+        "checkedAt": "2026-09-20T11:32:12.259Z",
+        "contentHash": "08c61d4e4cd6778292d686cadc85b58978252bcdb3abb3d4f8b3d1373c2b9d13",
+        "accessOutcome": "ok"
+      }
+    ],
+    "observedAt": "2026-09-20T11:41:19.109Z"
+  },
+  {
+    "id": "tr-koc",
+    "name": "Koç University",
+    "country": "TR",
+    "ror": "https://ror.org/00jzwgz36",
+    "domains": [
+      "ku.edu.tr"
+    ],
+    "officialUrl": "https://www.ku.edu.tr",
+    "sources": [
+      {
+        "url": "https://www.ku.edu.tr",
+        "type": "research",
+        "label": "Fuente institucional pendiente de acceso",
+        "observedAt": "2026-09-20T10:29:32.613Z",
+        "accessOutcome": "robots_unavailable_403"
+      }
+    ],
+    "observedAt": "2026-09-20T11:41:19.120Z"
+  },
+  {
+    "id": "by-bsuir",
+    "name": "Belarusian State University of Informatics and Radioelectronics",
+    "country": "BY",
+    "ror": "https://ror.org/02sehzp52",
+    "domains": [
+      "bsuir.by"
+    ],
+    "officialUrl": "http://www.bsuir.by/index.jsp?&lang=en",
+    "sources": [
+      {
+        "url": "https://www.bsuir.by/index.jsp?&lang=en",
+        "type": "research",
+        "label": "Fuente institucional pendiente de acceso",
+        "observedAt": "2026-09-20T10:29:30.748Z",
+        "accessOutcome": "fetch failed"
+      }
+    ],
+    "observedAt": "2026-09-20T11:41:19.120Z"
+  },
+  {
+    "id": "by-bntu",
+    "name": "Belarusian National Technical University",
+    "country": "BY",
+    "ror": "https://ror.org/040a2r459",
+    "domains": [
+      "bntu.by"
+    ],
+    "officialUrl": "https://bntu.by",
+    "sources": [
+      {
+        "url": "https://bntu.by",
+        "type": "research",
+        "label": "Fuente institucional pendiente de acceso",
+        "observedAt": "2026-09-20T10:29:30.752Z",
+        "accessOutcome": "fetch failed"
+      }
+    ],
+    "observedAt": "2026-09-20T11:41:19.129Z"
   }
 ]

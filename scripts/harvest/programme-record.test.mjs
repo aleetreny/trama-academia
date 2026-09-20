@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {verifyProgramme,mergeProgrammeRecords} from './programme-record.mjs';
+import {programmeText} from './programme-evidence.mjs';
 
 const seed={title:'Summer research in Computer Science',institution:'Test university',country:'CH',url:'https://example.edu/summer',kind:'programme',stage:'grado',entry:'Grado en curso',fields:['Informática'],duration:'8 semanas',funding:{kind:'scholarship',text:'94 CHF por día'},evidencePages:[{url:'https://example.edu/conditions',label:'Condiciones'}],evidenceChecks:[{field:'funding',url:'https://example.edu/conditions',phrases:['94 CHF per calendar day']}]};
 test('an unknown career stage is rejected before fetching or publishing a programme',async()=>{
@@ -43,6 +44,27 @@ test('contact-form degree options cannot supply research or discipline while gen
  await assert.rejects(verifyProgramme(candidate,page(fakeDiscipline)),/discipline_unverified/);
  const valid='<form><main>'+('Computer science research and a master thesis. '.repeat(7))+'</main></form>';
  assert.equal((await verifyProgramme(candidate,page(valid))).status,'programme');
+});
+test('a visible page title outside main survives without admitting unrelated or hidden headings',()=>{
+ const main='<main>Programme curriculum and admission requirements.</main>';
+ assert.equal(programmeText('<div class="page-title-wrapper"><h1>Computer Science MSc</h1></div>'+main),'Computer Science MSc Programme curriculum and admission requirements.');
+ for(const wrapper of ['nav','header','aside'])assert.equal(programmeText(`<${wrapper}><h1>Computer Science MSc</h1></${wrapper}>`+main),'Programme curriculum and admission requirements.');
+ for(const attributes of ['hidden','aria-hidden="true"','style="display:none"'])assert.equal(programmeText(`<div ${attributes}><h1>Computer Science MSc</h1></div>`+main),'Programme curriculum and admission requirements.');
+ assert.equal(programmeText('<h1>Generic university title</h1><main><h1>Mathematics MSc</h1>Curriculum</main>'),'Mathematics MScCurriculum');
+});
+test('Leeds academic key facts outside main retain the programme duration and admission requirements',()=>{
+ const facts='<div class="uol-key-facts"><dl><dt>Duration</dt><dd>12 Months (Full time)</dd><dt>Entry requirements</dt><dd>Mathematics degree</dd></dl></div>';
+ assert.equal(programmeText(facts+'<main>Research project</main>'),'Duration12 Months (Full time)Entry requirementsMathematics degree Research project');
+ assert.equal(programmeText('<div hidden>'+facts+'</div><main>Research project</main>'),'Research project');
+ assert.equal(programmeText('<nav>'+facts+'</nav><main>Research project</main>'),'Research project');
+});
+test('a labelled admission score keeps its DOM boundary instead of absorbing the following heading number',async()=>{
+ const candidate={...seed,evidencePages:[],evidenceChecks:[{field:'entry',labelledValues:[{container:'.basvuru-card',labelSelector:'.basvuru-card-title',valueSelector:'.basvuru-card-content',label:'Minimum Yabancı Dil Puanı',value:'50'}]}]};
+ const page=(score='50')=>async url=>({...await fetcher()(url),body:'<main>'+('Computer science research. '.repeat(10))+`<div class="basvuru-card"><div class="basvuru-card-title">Minimum Yabancı Dil Puanı</div><div class="basvuru-card-content">${score}</div></div><h2>2. Curriculum</h2></main>`});
+ assert.equal((await verifyProgramme(candidate,page())).status,'programme');
+ await assert.rejects(verifyProgramme(candidate,page('55')),/evidence_value_changed: entry/);
+ const wrong=structuredClone(candidate);wrong.evidenceChecks[0].labelledValues[0].value='502';
+ await assert.rejects(verifyProgramme(wrong,page()),/evidence_value_changed: entry/);
 });
 test('missing supporting evidence never creates a new programme from an unverified seed',async()=>{
  await assert.rejects(verifyProgramme(seed,async url=>{if(url.endsWith('/conditions'))throw new Error('http_403');return fetcher()(url);}),/http_403/);

@@ -4,7 +4,7 @@
 
 Un atlas de oportunidades académicas en Europa para ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas.
 
-El ámbito principal es Europa; Armenia, Azerbaiyán y Georgia se identifican como ampliación académica del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Se incluyen países pequeños y territorios.
+El ámbito principal es Europa; Armenia, Azerbaiyán y Georgia se identifican como ampliación académica del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Se incluyen países pequeños y territorios. En países transcontinentales, los programas requieren evidencia de su campus europeo y de la unidad que los imparte; esa comprobación no amplía automáticamente el ámbito de las vacantes ni de los tiers.
 
 TRAMA organiza el recorrido en primeras experiencias, máster, doctorado, investigación posdoctoral y carrera académica. Incluye financiación, comparación de hasta tres oportunidades, condiciones del doctorado por país y un registro público de cobertura.
 
