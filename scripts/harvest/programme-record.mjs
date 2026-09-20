@@ -30,7 +30,11 @@ export async function verifyProgramme(seed,fetchPage=getPage){
   const text=isPdf?clean(await extractPdfText(page,{pages:reference.pages})):reference.format==='nuxt-programme'?nuxtProgrammeText(page.body,page.finalUrl,reference.programmeId):programmeText(page.body);
   const heading=isPdf?'':clean(load(page.body)('h1').text());
   if(/page not found|404 not found|page introuvable/i.test(heading)||text.length<200||/verify that you.re not a robot|javascript is disabled|enable javascript and then reload/i.test(text.slice(0,500)))throw new Error('content_missing: '+reference.url);
-  documents.set(reference.url,{...page,text,label:reference.label,...(reference.pages?{pages:reference.pages}:{})});
+  // Supporting pages may omit an editorial label. Keep the official heading
+  // visible instead of stringifying an absent label as "undefined".
+  const suppliedLabel=typeof reference.label==='string'?clean(reference.label):'';
+  const label=suppliedLabel&&!/^(undefined|null)$/i.test(suppliedLabel)?suppliedLabel:heading||('Documento oficial'+(isPdf?' en PDF':'')+' · '+new URL(page.finalUrl).hostname);
+  documents.set(reference.url,{...page,text,label,...(reference.pages?{pages:reference.pages}:{})});
  }
  const primary=documents.get(primaryUrl);
  const research=documents.get(seed.researchEvidenceUrl||primaryUrl);

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T12:24:54.475Z",
+  "generatedAt": "2026-09-20T12:35:52.910Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -74958,7 +74958,7 @@
           },
           {
             "url": "https://www.fes.de/studienfoerderung/stipendium/promotionsfoerderung-fuer-auslaender-innen",
-            "label": "undefined",
+            "label": "Promotions-förderung",
             "checkedAt": "2026-09-20T11:33:27.671Z",
             "contentHash": "72e80aa005ad70a9505bf17d0acc9177a8244977eaabe2cfdff4209ce3a1f4fc"
           }
@@ -75083,13 +75083,13 @@
           },
           {
             "url": "https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/bewerbung",
-            "label": "undefined",
+            "label": "Bewerbung",
             "checkedAt": "2026-09-20T11:33:28.346Z",
             "contentHash": "308cc955be9f049d471217a05aaf2a13ccd15832432903ee91e7489d81ce4101"
           },
           {
             "url": "https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/finanzielle-foerderung",
-            "label": "undefined",
+            "label": "Finanzielle Förderung",
             "checkedAt": "2026-09-20T11:33:29.174Z",
             "contentHash": "5a59aaccffdb2955725d11b31335f6aee601b1161d96532a83a8d4492c1ab7eb"
           }
@@ -75386,13 +75386,13 @@
           },
           {
             "url": "https://www.boeckler.de/de/faq-2659.htm",
-            "label": "undefined",
+            "label": "Stipendien: FAQ - Häufig gestellte Fragen",
             "checkedAt": "2026-09-20T11:33:29.847Z",
             "contentHash": "e3d4eb0fb64183edc45d0a5cefad55685badce26f28e3b25a3d0d0879058c0c3"
           },
           {
             "url": "https://www.boeckler.de/de/bewerbungsfristen-2669.htm",
-            "label": "undefined",
+            "label": "Stipendien: Fristen und Termine",
             "checkedAt": "2026-09-20T11:33:31.422Z",
             "contentHash": "0408cad76065483010f89d2688c68013a1f14b5296641c7fbeee8a02f46d0bdd"
           }
@@ -75518,13 +75518,13 @@
           },
           {
             "url": "https://www.boell.de/sites/default/files/2026-04/3-a2-1b-info_checklist_application_prom_may_2025.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · www.boell.de",
             "checkedAt": "2026-09-20T11:33:26.846Z",
             "contentHash": "13b35e9c539a1246e3fb42df9b73d3bacd1f45507fd1cc48659344b9d77842f9"
           },
           {
             "url": "https://www.boell.de/en/2025/05/14/financial-support",
-            "label": "undefined",
+            "label": "Financial support",
             "checkedAt": "2026-09-20T11:33:27.794Z",
             "contentHash": "27650a43de9607c54128214e5ed611f4bdb1d2ed6913d4aa6a0a724153017d13"
           }
@@ -75590,7 +75590,7 @@
           },
           {
             "url": "https://www.boeckler.de/data/26_MWG_Merkblatt.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · www.boeckler.de",
             "checkedAt": "2026-09-20T11:33:30.805Z",
             "contentHash": "786b8fd68342a158fbf9984b65c8d66271ae642afa0fe1883fa899bcb1bb0a70"
           }
@@ -75655,7 +75655,7 @@
           },
           {
             "url": "https://www.snf.ch/media/en/QP8QTPcH0WBr9GzN/SNSF_StG_2026_Call_Document.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · www.snf.ch",
             "checkedAt": "2026-09-20T11:33:30.845Z",
             "contentHash": "52b01986cdde1827a568458f23cb58cc612ab129b6dc0816fe591734eb315b5b"
           }
@@ -75780,7 +75780,7 @@
           },
           {
             "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-ENW-XS-2026_ENG-2.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · www.nwo.nl",
             "checkedAt": "2026-09-20T11:33:49.906Z",
             "contentHash": "519b60cae994b57ed4412d6f62375e1725a7ac28fd56a94c1bcdaa32ce2e6958"
           }
@@ -76432,7 +76432,7 @@
           },
           {
             "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-NWO-Talent-programme-Vici-2026_EN_v20jan.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · www.nwo.nl",
             "checkedAt": "2026-09-20T11:33:44.346Z",
             "contentHash": "77f0d73c17915fd55c98b60fb4d3d9925c0be1b86e7eb886979851ba99809023"
           }
@@ -76497,7 +76497,7 @@
           },
           {
             "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-OC-ENW-M-round-26-27_EN.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · www.nwo.nl",
             "checkedAt": "2026-09-20T11:33:46.667Z",
             "contentHash": "c3975879cf9761e7bddfa729df471061499dcb500538d198161fe9157be09f5d"
           }
@@ -76564,7 +76564,7 @@
           },
           {
             "url": "https://www.nwo.nl/sites/nwo/files/media-files/Hestia-Call-for-Proposals-2025-1.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · www.nwo.nl",
             "checkedAt": "2026-09-20T11:33:56.617Z",
             "contentHash": "b15e57d7b2d7ad34dbdd2ec421736636e493135e494a9c9beca65641a3f84d26"
           }
@@ -99061,7 +99061,7 @@
           },
           {
             "url": "https://www.akerscholarship.no/universitetene",
-            "label": "undefined",
+            "label": "Documento oficial · www.akerscholarship.no",
             "checkedAt": "2026-09-20T12:17:19.006Z",
             "contentHash": "37795044be20177c0a759dac0d206039c997a778dd19f33553b46c6f768dffca"
           }
@@ -99126,7 +99126,7 @@
           },
           {
             "url": "https://english.hi.is/regulation-university-iceland-doctoral-grant-fund/no-10332019",
-            "label": "undefined",
+            "label": "Regulation on the University of Iceland Doctoral Grant Fund, no. 1033/2019",
             "checkedAt": "2026-09-20T12:17:20.255Z",
             "contentHash": "7cf93c61328ea4c434a2f9bbf63c14fa7882c90a36cb4680f13515fc803eba18"
           }
@@ -99366,7 +99366,7 @@
           },
           {
             "url": "https://www.oulu.fi/en/for-students/study-right/annual-registration/tuition-fees-and-scholarships-for-continuing-students",
-            "label": "undefined",
+            "label": "Continuing student tuition fees and scholarships",
             "checkedAt": "2026-09-20T12:17:26.346Z",
             "contentHash": "96fe824aa2bbe5e4a2b5e639a0b4c9768787a65aeddb08407b916c0303df2101"
           }
@@ -99431,13 +99431,13 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           },
           {
             "url": "https://www.cambridgetrust.org/scholarship/cambridge-masters-studentship-international/",
-            "label": "undefined",
+            "label": "Cambridge Trust Masters Studentship (International Fees)",
             "checkedAt": "2026-09-20T12:17:25.911Z",
             "contentHash": "e7f86482a300a3fe0d0feb3864bcd771754849fd38449e0df2392c533f605224"
           }
@@ -99502,7 +99502,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -99566,13 +99566,13 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           },
           {
             "url": "https://www.cambridgetrust.org/scholarship/vice-chancellors-award/",
-            "label": "undefined",
+            "label": "Vice-Chancellor’s Award",
             "checkedAt": "2026-09-20T12:17:26.640Z",
             "contentHash": "abb25d009867936d07dfa1f79f9c8a2230de5cc8d31f7bc4219ea8622cb68b19"
           }
@@ -99633,7 +99633,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -99698,7 +99698,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -99762,7 +99762,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -99828,7 +99828,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -99892,7 +99892,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -99957,7 +99957,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100023,7 +100023,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100090,7 +100090,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100155,7 +100155,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100220,7 +100220,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100286,7 +100286,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100351,7 +100351,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100416,7 +100416,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100480,7 +100480,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100545,7 +100545,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100611,7 +100611,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100676,7 +100676,7 @@
           },
           {
             "url": "https://registryservices.ed.ac.uk/sites/default/files/2026-01/Eligible%20Programmes.pdf",
-            "label": "undefined",
+            "label": "Documento oficial en PDF · registryservices.ed.ac.uk",
             "checkedAt": "2026-09-20T12:17:21.207Z",
             "contentHash": "afc7afd03b437fa1ac4cd83566031937e062bf40f2e579a7169e510a8c2130b6"
           }
@@ -100741,7 +100741,7 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           }
@@ -100806,13 +100806,13 @@
           },
           {
             "url": "https://www.cambridgetrust.org/postgraduate-applicants/",
-            "label": "undefined",
+            "label": "Postgraduate applicants",
             "checkedAt": "2026-09-20T12:17:25.078Z",
             "contentHash": "ff578c77eee14fcb121f92ce0b0aff13a8e00d66589f3353ba603686c4f9894c"
           },
           {
             "url": "https://www.universitiesnz.ac.nz/scholarships/woolf-fisher-scholarship",
-            "label": "undefined",
+            "label": "Woolf Fisher Scholarship",
             "checkedAt": "2026-09-20T12:17:42.207Z",
             "contentHash": "cc86ffe958173b63c9caa27a3e4e7e031f3b17339a19072f1ee9de2ef68716b8"
           }
@@ -129980,5369 +129980,152 @@
     }
   ],
   "run": {
-    "id": "7fe2a8df-c5d8-4a9e-9596-f37db3d1d0a8",
+    "id": "5578da4c-82bf-43a2-aa2f-4fc79f5096bb",
     "type": "programme-verification",
-    "parentRunId": "d2e88017-9908-4ea9-9b84-d62a292f4dfe",
-    "startedAt": "2026-09-20T12:24:50.449Z",
-    "finishedAt": "2026-09-20T12:24:54.475Z",
+    "parentRunId": "7fe2a8df-c5d8-4a9e-9596-f37db3d1d0a8",
+    "startedAt": "2026-09-20T12:35:52.009Z",
+    "finishedAt": "2026-09-20T12:35:52.910Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-91ba9b4aff482bdde262",
-        "name": "University of York · MSc Data Science (Artificial Intelligence and Statistics)",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-data-science-ai-statistics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:06:33.887Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b192fbd49df620d35bb8",
-        "name": "University of Aberdeen · Artificial Intelligence",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1034/artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:04.321Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3f9fcbeb3b2bb82a2dff",
-        "name": "University of Aberdeen · Biotechnology and Bioinformatics",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1036/msc-biotechnology-bioinformatics-and-bio-business/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:12.635Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-797b5ac344c46c89baf2",
-        "name": "University of Aberdeen · Cybersecurity and Machine Learning",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/2023/cybersecurity-and-machine-learning/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:13.850Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f323954571451022d1cf",
-        "name": "University of Aberdeen · Data Science and Business Management",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/2036/business-management-and-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:14.943Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b8a1b9724d0fd7848cb2",
-        "name": "University of Aberdeen · Geographical Information Systems",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/99/geographical-information-systems/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:16.134Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-72d2bb36168aec2b37a7",
-        "name": "University of Aberdeen · Health Data Science",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1230/health-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:17.267Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-76c4cf8392429cd68897",
-        "name": "University of Aberdeen · Information Technology",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/133/information-technology/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:18.392Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-44c9824a36ad0a24f81c",
-        "name": "University of Aberdeen · Planetary and Data Sciences",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/2188/planetary-and-data-sciences/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:19.533Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1cb9a5a48d3b16e0300f",
-        "name": "University of Bath · Advanced Machine Learning MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-advanced-machine-learning",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:19.552Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e8ea151e60b7363f0c6a",
-        "name": "University of Aberdeen · Robotics and Artificial Intelligence",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1977/robotics-and-artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:20.697Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0d80976519917707f2a0",
-        "name": "University of Aberdeen · PhD — Computing Science",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-research/research-areas/863/computing-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:21.782Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ca93e5bb981cbcb2a374",
-        "name": "University of Bath · Artificial Intelligence MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-artificial-intelligence",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:21.419Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2b8655ff245ac3c3e40a",
-        "name": "University of Bath · Artificial Intelligence for Engineering and Design MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-artificial-intelligence-for-engineering-and-design",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:22.988Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6fc8b22d3c2f17a956f9",
-        "name": "University of Bath · Computer Science MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-computer-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:24.479Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-32e6fcb65d156b49a5cf",
-        "name": "University of Bath · Data Science MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-data-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:26.095Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b9cbe799ac6e077c00eb",
-        "name": "University of Birmingham · Advanced Computer Science MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/advanced-computer-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:27.882Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-89451d97c1ce6f059b4c",
-        "name": "University of Bath · Financial Mathematics with Data Science MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-financial-mathematics-with-data-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:27.823Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-45e4dab47b045fe48aa9",
-        "name": "University of Birmingham · Cyber Security MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/cyber-security-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:28.946Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a99258e971c5660a2f5a",
-        "name": "University of Bath · Molecular Biosciences (Bioinformatics) MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-molecular-biosciences-bioinformatics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:29.347Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-57e47aa30742093395c3",
-        "name": "University of Birmingham · Human Computer Interaction MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/human-computer-interaction-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:29.727Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ee8e97373cbbe4431965",
-        "name": "University of Birmingham · Natural Computation MRes",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/natural-computation-mres",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:30.362Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-96c657c7b31fb17ce65d",
-        "name": "University of Bath · Statistics and Data Science MSc",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/msc-statistics-and-data-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:31.011Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3927cc75007a31378e33",
-        "name": "University of Birmingham · Artificial Intelligence (AI) and Machine Learning MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/artificial-intelligence-machine-learning-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:31.084Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-caf2893095f7197743ae",
-        "name": "University of Birmingham · Advanced Engineering Management (Artificial Intelligence (AI) and Automation) MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/engineering-management-courses/advanced-engineering-management-artificial-intelligence-ai-automation",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:31.823Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d37bd6eef8bb7919703e",
-        "name": "University of Birmingham · Economics, AI and Data Science MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/economics-ai-and-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:32.698Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-706e026a2ed89c4e513e",
-        "name": "University of Birmingham · Sport Data Science and AI MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/sport-and-exercise-sciences-courses/sport-data-science-and-ai-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:33.508Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3a082f5550d0f194cacf",
-        "name": "University of Birmingham · Applications of Data Science MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/physics-and-astronomy-courses/applications-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:34.233Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f630598b13ed179c0927",
-        "name": "University of Birmingham · Financial Data Science MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/financial-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:35.079Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0ad0b066e7e35603bc50",
-        "name": "University of Birmingham · Statistical Data Science MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistical-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:35.831Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7cfb8451b74b6fc556fb",
-        "name": "University of Birmingham · Computer Science PhD",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:36.625Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1e40aa0c82d452cbd136",
-        "name": "University of Birmingham · Electronic and Computer Engineering MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/electronic-electrical-and-systems-engineering-courses/electronic-computer-engineering-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:37.464Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7a838c459657a99b9fbb",
-        "name": "University of Birmingham · Robotics MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mechanical-engineering-courses/robotics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:38.320Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-29967a87e9241438de13",
-        "name": "University of Birmingham · Applied Mathematics MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/applied-mathematics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:39.006Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-07a9b3b476f10d42bbcf",
-        "name": "University of Birmingham · Mathematical Finance MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/mathematical-finance-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:39.814Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-97f2c7b8bffacdef14b1",
-        "name": "University of Birmingham · Mathematics, Operational Research, Statistics and Econometrics (MORSE) MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/mathematics-operational-research-statistics-econometrics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:40.622Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7ccf5d0601ea543ad016",
-        "name": "University of Birmingham · Statistics MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:41.424Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ba291fad4c43d635f9d7",
-        "name": "University of Birmingham · Applied Mathematics MRes",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/applied-mathematics-mres",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:42.216Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-65063db4c7c6087f11ef",
-        "name": "University of Birmingham · Management Mathematics MRes",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/management-mathematics-mres",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:43.051Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3aa5e2c4ae645c8774bd",
-        "name": "University of Birmingham · Statistics MRes",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistics-mres",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:44.067Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-147af831f2de423056d5",
-        "name": "Dublin City University · MSc in Computing",
-        "url": "https://www.dcu.ie/courses/postgraduate/school-computing/msc-computing",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:44.725Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ddb7bb01d2f174581639",
-        "name": "University of Birmingham · Applied Mathematics PhD",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/applied-mathematics-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:44.700Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5c64052f7523c8ee42db",
-        "name": "University of Birmingham · Management Mathematics PhD",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/management-mathematics-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:45.452Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bec8e85d9d0c1137756a",
-        "name": "University of Birmingham · Statistics PhD",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/mathematics-courses/statistics-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:46.267Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2b2fe45cf0640c628534",
-        "name": "University of Exeter · PhD — Computer Science",
-        "url": "https://www.exeter.ac.uk/study/pg-research/degrees/computerscience/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:45.298Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2b7e8779a66f348b27e8",
-        "name": "University of Exeter · MSc Finance and Data Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-finance-and-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:47.334Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5fd146ec70c7ad47aa79",
-        "name": "University of Exeter · PhD — Mathematics",
-        "url": "https://www.exeter.ac.uk/study/pg-research/degrees/mathematics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:45.726Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b1c114d7fcae574906fc",
-        "name": "University of Exeter · MSc Artificial Intelligence",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:48.132Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f0ba4545a19c99f1aebb",
-        "name": "University of Exeter · MSc Artificial Intelligence for the Environment",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-artificial-intelligence-for-the-environment/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:48.856Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2d9b17169f1dd5d61cdf",
-        "name": "University of Exeter · MSc Biomedical Data and Artificial Intelligence",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-biomedical-data-and-artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:49.685Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bc8185377e3c3e8ee17b",
-        "name": "University of Exeter · MSc Generative Artificial Intelligence",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-generative-artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:50.468Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1f4e83cc7a655d70e4e8",
-        "name": "University of Exeter · MSc Human Centred Artificial Intelligence",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-human-centred-artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:51.306Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-489644c30d02f14c5cb0",
-        "name": "University of Exeter · MSc Business Analytics",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-business-analytics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:52.065Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-33be7638822fe43fb376",
-        "name": "University of Exeter · MSc Marketing and Business Analytics",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-marketing-and-business-analytics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:52.856Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5cfc3a99cd6eb0998905",
-        "name": "University of Exeter · MSc Advanced Computer Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-advanced-computer-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:53.653Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3334b803680063d462bf",
-        "name": "University of Exeter · MSc Computer Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-computer-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:54.471Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0b3b09c8c3dc6020868f",
-        "name": "University of Exeter · MSc Cyber Security Analytics",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-cyber-security-analytics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:55.267Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-789708da9824999699bc",
-        "name": "University of Exeter · MSc Advanced Data Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-advanced-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:56.074Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6de6f9e7975d8495cde5",
-        "name": "University of Exeter · MSc Applied Data Science and Statistics",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-applied-data-science-and-statistics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:56.986Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c4a26a3beabeb79c39c0",
-        "name": "University of Exeter · MSc Data Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:57.699Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-be7b3485b15e5a94f2aa",
-        "name": "University of Exeter · MSc Health Data Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-health-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:58.788Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3568580a55c981fabd2a",
-        "name": "University of Exeter · MSc Security and Data Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-security-and-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:55:59.338Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-148e22a7e795dc0bc783",
-        "name": "University of Exeter · MSc Social Data Science",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-social-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:00.172Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-df8da314d6573f788330",
-        "name": "University of Exeter · MSc Genomic Medicine (Data Science)",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-genomic-medicine-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:00.869Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0eb5a755931884c9d1bf",
-        "name": "University of Exeter · MSc Mathematical Finance",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-mathematical-finance/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:01.745Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a7854d6d0981a2d7f7c0",
-        "name": "University of Galway · Cybersecurity Risk Management (MSc)",
-        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/cybersecurity-risk-management.html",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:03.195Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1abb83ffd90b1d73d674",
-        "name": "University of Exeter · MSc Mathematics",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-mathematics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:02.480Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3c7573d504ae5cec603c",
-        "name": "University of Exeter · MSc Statistics",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-statistics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:03.326Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-818cafa00c820ce17ddb",
-        "name": "University of Galway · Applied Clinical Data Analytics (MSc)",
-        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/applied-clinical-data-analytics.html",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:03.900Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b51ac8e6a0bdfd55051f",
-        "name": "University of Galway · Health Data Science (MSc)",
-        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/health-data-science.html",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:04.699Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-04440619d490a771bc1c",
-        "name": "University of Exeter · MSc Neuroscience (Data Science)",
-        "url": "https://www.exeter.ac.uk/masters-degrees/msc-neuroscience-data-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:04.074Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-401e00ef4c966f6d7c66",
-        "name": "University of Galway · Intelligent Robotics (MSc)",
-        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/intelligent-robotics.html",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:05.467Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f021a1b06b8685819b44",
-        "name": "University of Leeds · Health Informatics with Data Science MSc",
-        "url": "https://courses.leeds.ac.uk/j993/health-informatics-with-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:06.315Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e120c2f6c1b3c8b8c375",
-        "name": "University of Galway · Software Design & Development (MSc, HDip, MSc External)",
-        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/software-design-development.html",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:06.293Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-503c92af33ec97863ec9",
-        "name": "University of Galway · Electronic & Computer Engineering (ME)",
-        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/%20electronic-computer-engineering.html",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:07.066Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d6b5ca360adfcd24cbca",
-        "name": "University of Leeds · Management of Information Systems and Digital Innovation MSc",
-        "url": "https://courses.leeds.ac.uk/j796/management-of-information-systems-and-digital-innovation-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:07.471Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-aba7a504697a1a46f177",
-        "name": "University of Galway · Genomics Data Science (MSc)",
-        "url": "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/genomics-data-science.html",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:07.921Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4658db311c9779744e50",
-        "name": "University of Leeds · Mathematics MSc",
-        "url": "https://courses.leeds.ac.uk/f669/mathematics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:08.338Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0511b9cc816dfaebe832",
-        "name": "University of Leeds · Mechatronics and Robotics Engineering MSc(Eng)",
-        "url": "https://courses.leeds.ac.uk/j916/mechatronics-and-robotics-engineering-msc-eng-",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:09.119Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8e373ca73767c5ae5856",
-        "name": "University of Leeds · Music and Data Science MA",
-        "url": "https://courses.leeds.ac.uk/k133/music-and-data-science-ma",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:10.275Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2348913b0110ec9af261",
-        "name": "University of Leeds · Precision Medicine: Genomic Data Science MSc",
-        "url": "https://courses.leeds.ac.uk/j679/precision-medicine-genomic-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:11.758Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d0bbb6e29c39714ed817",
-        "name": "University of Leeds · Quantitative Finance MSc",
-        "url": "https://courses.leeds.ac.uk/k274/quantitative-finance-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:12.592Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-629d294ed3c9324cfd87",
-        "name": "University of Leeds · Statistics MSc",
-        "url": "https://courses.leeds.ac.uk/f038/statistics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:13.298Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fd8d588e0b00ae8d89c3",
-        "name": "University of Leeds · Urban Data Science and Analytics MSc",
-        "url": "https://courses.leeds.ac.uk/j135/urban-data-science-and-analytics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:14.288Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-de61b4eef1896c550b5d",
-        "name": "University of Leeds · Artificial Intelligence (online) MSc",
-        "url": "https://courses.leeds.ac.uk/d500/artificial-intelligence-online-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:15.032Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7273b748bf09c10957f8",
-        "name": "University of Leeds · Business Analytics and Decision Sciences MSc",
-        "url": "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:15.901Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fccc6f7fa103983a4959",
-        "name": "University of Leeds · Consumer Analytics and Marketing Strategy MSc",
-        "url": "https://courses.leeds.ac.uk/g963/consumer-analytics-and-marketing-strategy-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:16.701Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-cc8c7a740ae9265e5cca",
-        "name": "University of Leeds · Data Science and Analytics MSc",
-        "url": "https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:17.514Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e245d3eb5b6ee623f054",
-        "name": "University of Leeds · Data Science and Analytics for Health MRes",
-        "url": "https://courses.leeds.ac.uk/i927/data-science-and-analytics-for-health-mres",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:18.327Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3d9053c7e712a85bf891",
-        "name": "University of Leeds · Digital Chemistry: AI, Automation and Data Science MSc",
-        "url": "https://courses.leeds.ac.uk/k269/digital-chemistry-ai-automation-and-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:19.081Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-22b88beb5e69cfed9726",
-        "name": "University of Limerick · Applied Social Data Analytics - MSc",
-        "url": "https://www.ul.ie/study/postgraduate/applied-social-data-analytics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:18.339Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-58196ac36e67ea02211b",
-        "name": "University of Leeds · Digital Human Resource Management and Data Analytics MSc",
-        "url": "https://courses.leeds.ac.uk/k318/digital-human-resource-management-and-data-analytics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:19.892Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1a07ead16fdc18171220",
-        "name": "University of Limerick · Artificial Intelligence - MSc (Online)",
-        "url": "https://www.ul.ie/study/postgraduate/artificial-intelligence-msc-online",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:25:25.515Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-956ba8130112298925d6",
-        "name": "University of Limerick · Artificial Intelligence and Machine Learning - MSc",
-        "url": "https://www.ul.ie/study/postgraduate/artificial-intelligence-and-machine-learning-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:32:06.339Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-52c7c562566c808b23fd",
-        "name": "University of Limerick · Computer Vision and Artificial Intelligence - MEng",
-        "url": "https://www.ul.ie/study/postgraduate/computer-vision-and-artificial-intelligence-meng",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:22.527Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4b9fba7a196a4c08f16e",
-        "name": "University of Limerick · Edge Computing - MEng",
-        "url": "https://www.ul.ie/study/postgraduate/edge-computing-meng",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:24.180Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-229fa048db9ba5757ec9",
-        "name": "University of Limerick · Health Informatics - MSc",
-        "url": "https://www.ul.ie/study/postgraduate/health-informatics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:25.839Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e182bdaf694e1504ad25",
-        "name": "University of Limerick · Machine Learning for Finance - MSc (Online)",
-        "url": "https://www.ul.ie/study/postgraduate/machine-learning-for-finance-msc-online",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:28.968Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4e13e086130bea23b070",
-        "name": "University of Limerick · Mathematical Modelling - MSc",
-        "url": "https://www.ul.ie/study/postgraduate/mathematical-modelling-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:30.629Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5dfe3f22bbe187e295cf",
-        "name": "University of Nottingham · Advanced Computer Science or Advanced Computer Science (Artificial Intelligence) MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/computer-science-artificial-intelligence",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:37.723Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c6fb8d2b755d00662c38",
-        "name": "University of Limerick · Sociology and Data Analytics - MSc",
-        "url": "https://www.ul.ie/study/postgraduate/sociology-and-data-analytics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:32.971Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4833a1e1337a8c376d25",
-        "name": "University of Nottingham · Bioinformatics MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/bioinformatics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:39.129Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-161422449ac5ac470f3e",
-        "name": "University of Limerick · Software Development: International Systems - MSc",
-        "url": "https://www.ul.ie/study/postgraduate/software-development-international-systems-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:34.524Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b5371669e1ba566d74b0",
-        "name": "University of Nottingham · Business Consulting and Analytics (online) MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-consulting-and-analytics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:39.859Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-289333091aa498ee6997",
-        "name": "University of Nottingham · Business, Analytics and AI MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-analytics-and-ai-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:40.718Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bea1f4ac655398d7f116",
-        "name": "University of Limerick · Software Engineering - MSc",
-        "url": "https://www.ul.ie/study/postgraduate/software-engineering-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:38.513Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a8a68278e71927b44cf9",
-        "name": "University of Nottingham · Computational Biology PhD",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/computational-biology-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:41.565Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e43a2e33850a9479c7cc",
-        "name": "University of Nottingham · Computational Neuroscience, Cognition and AI MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/computational-neuroscience-cognition-and-ai-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:42.354Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-04c17c00183a3b1fea45",
-        "name": "University of Nottingham · Computer Science PhD",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/computer-science-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:43.009Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b240cbcd197c85d5d8d3",
-        "name": "University of Nottingham · Computer Science or Computer Science (Artificial Intelligence) (2-year) MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/computer-science-artificial-intelligence-2-year",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:43.938Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ca5a97de16a8d39f7d18",
-        "name": "University of Nottingham · Cyber Physical Systems MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/cyberphysical-systems-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:44.657Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-cb08b408b73c26cd905a",
-        "name": "University of Nottingham · Cyber Security MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/cybersecurity",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:45.500Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c9d0fe2e7e8ef9ad7afc",
-        "name": "University of Nottingham · Data Analytics and AI MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-analytics-and-ai-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:46.279Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2cf78f0ebf77a70dfb69",
-        "name": "University of Nottingham · Data Science MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:47.045Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-00945a109ed0cc08c501",
-        "name": "University of Nottingham · Economics and Data Science MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/economics-and-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:47.945Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-707606f238f4a622bd94",
-        "name": "University of Nottingham · Electronic Communications and Computer Engineering MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/electronic-communications-and-computer-engineering-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:49.643Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8ea9420eb3104ffd2895",
-        "name": "University of Nottingham · Health Informatics PhD/MPhil",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/healthinformatics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:50.116Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3be0d599d60bff77a366",
-        "name": "University of Sheffield · Advanced Computer Science",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/advanced-computer-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:50.915Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3506ec7fb1e78be6d78f",
-        "name": "University of Nottingham · Human Computer Interaction MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/human-computer-interaction-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:50.873Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a43c51e314201c1394c1",
-        "name": "University of Sheffield · Advanced Control and Systems Engineering",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/advanced-control-and-systems-engineering-msceng",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:51.638Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f9b9340fb9d6ac788b5e",
-        "name": "University of Nottingham · Machine Learning in Science MSc",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/machine-learning-in-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:51.821Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-911ebe690a7b62ae3285",
-        "name": "University of Sheffield · Artificial Intelligence for Engineering",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/artificial-intelligence-engineering-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:52.406Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0657df23e2d4b01ee3c1",
-        "name": "University of Nottingham · Mathematics PhD",
-        "url": "https://www.nottingham.ac.uk/pgstudy/course/research/mathematics-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:52.590Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-aad678e7ad6e384ffe99",
-        "name": "University of Sheffield · Business Analytics",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/business-analytics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:53.263Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f3afd90a5822e2ce0f32",
-        "name": "University of Sheffield · Cognitive and Computational Neuroscience",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/cognitive-and-computational-neuroscience-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:54.416Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d31a94f92000997e6e81",
-        "name": "University of Sheffield · Computer Science",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:55.022Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-37af49a6aa47d256c4c0",
-        "name": "University of Sheffield · Computer Science with Speech and Natural Language Processing",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/computer-science-speech-and-natural-language-processing-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:55.920Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-56ac86aeb1b3e0424696",
-        "name": "University of Sheffield · Cybersecurity and Artificial Intelligence",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/cybersecurity-and-artificial-intelligence-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:57.094Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8bff60c78ad9959b6aec",
-        "name": "University of Sheffield · Data Science",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:57.443Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-19aa9946ddb6ba87d10a",
-        "name": "University of Sheffield · Environmental Science and Data",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/environmental-science-and-data-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:58.062Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-883ea17d6f85fff52b38",
-        "name": "University of Sheffield · Geographical Information Systems (GIS)",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/geographical-information-systems-gis-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:58.860Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a266081abe28224d7408",
-        "name": "University of Sheffield · Health Economics and Decision Modelling",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/health-economics-and-decision-modelling-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:56:59.593Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ed9c74579de1064a9679",
-        "name": "University of Sheffield · Information Systems",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/information-systems-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:00.462Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6d680ac3d35416739f5b",
-        "name": "University of Sheffield · Mathematical and Theoretical Physics",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/mathematical-and-theoretical-physics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:01.208Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-dd21be1767b091c783ff",
-        "name": "University of Southampton · MSc Actuarial Science",
-        "url": "https://www.southampton.ac.uk/courses/actuarial-science-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:01.217Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1e709aace5c399fd1201",
-        "name": "University of Sheffield · Mathematics",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/mathematics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:02.073Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-218b72ef24d81bd7e3cd",
-        "name": "University of Southampton · MSc Aerodynamics and Computation",
-        "url": "https://www.southampton.ac.uk/courses/aerodynamics-computation-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:02.194Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-22471240078506fef1f6",
-        "name": "University of Sheffield · Robotics",
-        "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/robotics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:02.797Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3523381653c32c9000b3",
-        "name": "University of Southampton · MSc Applied Statistics",
-        "url": "https://www.southampton.ac.uk/courses/applied-statistics-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:02.884Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-acd315d7f291a690c6e1",
-        "name": "University of Southampton · MSc Artificial Intelligence",
-        "url": "https://www.southampton.ac.uk/courses/artificial-intelligence-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:03.709Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6610c2ac716fec1f7c20",
-        "name": "University of Southampton · MRes Big Data Biology",
-        "url": "https://www.southampton.ac.uk/courses/big-data-biology-masters-mres",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:04.464Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c209db93966ce69f30ba",
-        "name": "University of Southampton · MSc Business Analytics and Finance",
-        "url": "https://www.southampton.ac.uk/courses/business-analytics-finance-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:05.290Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-77ee12daf1e26a49f67d",
-        "name": "University of Southampton · MSc Business Analytics and Management Science",
-        "url": "https://www.southampton.ac.uk/courses/business-analytics-management-science-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:06.075Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3a7d02700d82904eac0d",
-        "name": "University of Southampton · MSc Computational Engineering Design (Advanced Mechanical Engineering Science)",
-        "url": "https://www.southampton.ac.uk/courses/computational-engineering-design-advanced-mechanical-engineering-science-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:06.958Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-443e6915835403956e46",
-        "name": "University of Southampton · MSc Computer Science",
-        "url": "https://www.southampton.ac.uk/courses/computer-science-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:07.683Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c5973cc9be7278599328",
-        "name": "University of Southampton · MSc Cyber Security",
-        "url": "https://www.southampton.ac.uk/courses/cyber-security-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:08.489Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d5bcfcb9a32579f9e543",
-        "name": "University of Southampton · MSc Data Science",
-        "url": "https://www.southampton.ac.uk/courses/data-science-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:09.352Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c36719d3d6f77686f0c6",
-        "name": "University of Southampton · MSc Data and Decision Analytics",
-        "url": "https://www.southampton.ac.uk/courses/data-decision-analytics-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:10.081Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5763619961ffc07a3a01",
-        "name": "University of Southampton · MSc Digital Humanities (Data Science)",
-        "url": "https://www.southampton.ac.uk/courses/digital-humanities-data-science-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:10.916Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7713b33cfc4ad2136ac3",
-        "name": "University of Southampton · MSc Digital Strategy and Information Systems",
-        "url": "https://www.southampton.ac.uk/courses/digital-strategy-information-systems-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:11.701Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1793ea0930aad07bfee0",
-        "name": "University of Southampton · MSc Geographical Information Systems and Remote Sensing",
-        "url": "https://www.southampton.ac.uk/courses/geographical-information-systems-remote-sensing-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:12.498Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-af59a2f0673774bc8485",
-        "name": "University of Southampton · MSc Logistics and Supply Chain Analytics",
-        "url": "https://www.southampton.ac.uk/courses/logistics-supply-chain-analytics-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:13.275Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e701f4dee940907f5558",
-        "name": "University of Southampton · MSc Machine Learning",
-        "url": "https://www.southampton.ac.uk/courses/machine-learning-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:14.078Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-65f70178821cd68b3f7e",
-        "name": "University of Southampton · MSc Maritime Engineering Science: Advanced Computational Engineering",
-        "url": "https://www.southampton.ac.uk/courses/maritime-engineering-science-advanced-computational-engineering-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:15.656Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b9cd81280820268d7898",
-        "name": "University of Southampton · MSc Marketing Analytics",
-        "url": "https://www.southampton.ac.uk/courses/marketing-analytics-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:16.459Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-09fbb9da3a72a0ccd2b9",
-        "name": "University of Southampton · MSc Operational Research and Data Science",
-        "url": "https://www.southampton.ac.uk/courses/operational-research-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:17.295Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-cc367894b365e264d320",
-        "name": "University of Southampton · MSc Operational Research and Finance",
-        "url": "https://www.southampton.ac.uk/courses/operational-research-finance-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:18.065Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6b5c92aadb102500b2ee",
-        "name": "University of Southampton · MSc Robotics and Autonomous Systems",
-        "url": "https://www.southampton.ac.uk/courses/robotics-autonomous-systems-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:18.903Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b52a8a909d7d74416894",
-        "name": "University of Southampton · MSc Social Research Methods with Applied Statistics",
-        "url": "https://www.southampton.ac.uk/courses/social-research-methods-with-applied-statistics-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:19.703Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-317e8ca26b47c6eda4e5",
-        "name": "University of Strathclyde · Accounting, Finance & Data Analytics (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/accountingfinancedataanalytics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:20.553Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ce29cc65c16be8db05e8",
-        "name": "University of Southampton · MSc Software Engineering",
-        "url": "https://www.southampton.ac.uk/courses/software-engineering-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:20.529Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-625ead7be975ed7d0fba",
-        "name": "University of Strathclyde · Advanced Computational Mathematics (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedcomputationalmathematics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:22.336Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-cca3b187aad73cd775b3",
-        "name": "University of Southampton · MSc Statistics",
-        "url": "https://www.southampton.ac.uk/courses/statistics-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:21.345Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2d5ac666996bf8160f5f",
-        "name": "University of Strathclyde · Advanced Computer Science (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedcomputerscience/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:23.222Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c19b3170f2fd54318234",
-        "name": "University of Southampton · MSc Statistics with Applications in Medicine",
-        "url": "https://www.southampton.ac.uk/courses/statistics-with-applications-in-medicine-masters-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:22.119Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-780b235bda24f4c93cf5",
-        "name": "University of Strathclyde · Advanced Data Science (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advanceddatascience/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:24.109Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0f564e5d421d3ea07a31",
-        "name": "University of Strathclyde · Advanced Mathematical Modelling (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedmathematicalmodelling/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:24.774Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a40daf9c3f9d2264aafb",
-        "name": "University of Strathclyde · Applied Statistics (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/appliedstatistics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:25.589Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b17a18e0d4d60703d943",
-        "name": "University of Strathclyde · Artificial Intelligence & Applications (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/artificialintelligenceapplications/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:26.375Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-683c856687f314372c78",
-        "name": "University of Strathclyde · Autonomous Robotic Intelligent Systems (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/autonomousroboticintelligentsystems/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:27.164Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8f5fdc3ca59c7a98d969",
-        "name": "University of Strathclyde · Chemistry with Artificial Intelligence (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/chemistrywithartificialintelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:27.979Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1c5e8762bf3ccb9db161",
-        "name": "University of Strathclyde · Chemistry with Data Science (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/chemistrywithdatascience/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:28.809Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e59f967d138521bbc028",
-        "name": "University of Strathclyde · Data Analytics (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/dataanalytics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:29.552Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-75837b9bdbc6021cb10a",
-        "name": "University of Strathclyde · Data Science for Politics & Policymaking (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/datascienceforpoliticspolicymaking/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:30.375Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-79661a9a89ffa1daaf6d",
-        "name": "University of Strathclyde · Financial Mathematics & Data Science (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/financialmathematicsdatascience/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:33.157Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e45279664d1430123d12",
-        "name": "University of Strathclyde · Human Resource Management & People Analytics (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/humanresourcemanagementpeopleanalytics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:33.528Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-799dafb54344b34e6b3c",
-        "name": "University of Strathclyde · Machine Learning & Deep Learning (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/machinelearningdeeplearning/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:34.301Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b807b4713022b2863386",
-        "name": "University of Strathclyde · Cyber Security (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/msccybersecurity/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:35.129Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-134a9bdfcaceb048d566",
-        "name": "University of Strathclyde · Quantitative Finance (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/quantitativefinance/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:35.906Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-29d18af7d2bc6b66e076",
-        "name": "University of Strathclyde · Software Development (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/softwaredevelopment/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:36.763Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-addcb8bd43238e3d0175",
-        "name": "University of Strathclyde · Sport Data Analytics (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/sportdataanalytics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:37.496Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-db8e0a0cad8f4517c2a9",
-        "name": "University of Strathclyde · Statistics & Data Science (MSc)",
-        "url": "https://www.strath.ac.uk/courses/postgraduatetaught/statisticsdatascience/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:40.337Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0496e08ea9941436778c",
-        "name": "University of York · PhD — Computer Science",
-        "url": "https://www.york.ac.uk/computer-science/study/postgraduate-research/phd-computer-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:40.675Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-74aa3ab46999228ca0a9",
-        "name": "University of Strathclyde · Mathematical Sciences (MRes)",
-        "url": "https://www.strath.ac.uk/courses/research/mathematicalsciencesmres/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:40.664Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-087fb33963a3a6a28a46",
-        "name": "University of York · Computer Science (by research)",
-        "url": "https://www.york.ac.uk/computer-science/study/postgraduate-research/msc-computer-science-by-research/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:41.379Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-87a0524b6ba12e8673e7",
-        "name": "University of Strathclyde · Computer & information sciences (PhD, MPhil)",
-        "url": "https://www.strath.ac.uk/courses/research/computerinformationsciences/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:43.627Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-96211c51cf39f2b50c4d",
-        "name": "University of Strathclyde · Mathematics & statistics (PhD, MPhil)",
-        "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:44.015Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e662a77343234a1ea121",
-        "name": "University of York · PhD — Mathematics",
-        "url": "https://www.york.ac.uk/maths/study/postgraduate-research/phd-mphil-mathematics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:42.144Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-40ed75dba3e4da617bc9",
-        "name": "University of York · Advanced Computer Science",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-advanced-computer-science/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:42.963Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3237d807b9fc922dc96d",
-        "name": "University of York · Business Analytics",
-        "url": "https://york.ac.uk/study/postgraduate-taught/courses/msc-business-analytics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:44.578Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8c0a98d69b04973b6aff",
-        "name": "University of York · Artificial Intelligence",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:43.737Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ab49d39c68c80917e408",
-        "name": "University of York · Artificial Intelligence and Technology-Enhanced Learning",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-ai-technology-enhanced-learning/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:44.566Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-462760f64665af4bf9cb",
-        "name": "University of York · Bioinformatics",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-bioinformatics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:45.349Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-725ab5da4717f0dcba61",
-        "name": "University of York · Cyber Security",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cyber-security/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:46.154Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9fead37d2026ecdd7f90",
-        "name": "University of York · Data Science",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-data-science-computational",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:46.973Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-538d16179f682a652f68",
-        "name": "University of York · Data Science (Psychology)",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-data-science-human-behaviour/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:48.518Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-904b659b9127b05e8931",
-        "name": "University of York · Data Science (Scientific)",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-data-science-scientific/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:50.264Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-87866694349990f3cd56",
-        "name": "University of York · Mathematical Finance",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-mathematical-finance/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:50.918Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a481f3bfa1faac7b7d44",
-        "name": "Lancaster University · Applied Mathematics PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/applied-mathematics-phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:50.930Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a5d0c0866e3e6258b8bf",
-        "name": "University of York · Mathematical Sciences",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-mathematical-sciences/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:51.711Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6efe7469f4a33ab1d55d",
-        "name": "University of York · Statistics and Computational Finance",
-        "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-statistics-and-computational-finance/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:52.505Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2b2d93252397f2461385",
-        "name": "Lancaster University · Artificial Intelligence MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/artificial-intelligence-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:57:57.137Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a7e0b9fb7738d0e570b2",
-        "name": "Lancaster University · Business Analytics MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/business-analytics-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:58:07.448Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-621f1cda860e4c5cf8ca",
-        "name": "Lancaster University · Computer Science MPhil/PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/computer-science-mphilphd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:58:17.411Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f91a8dbf4cf424c257f6",
-        "name": "Lancaster University · Computer Science MSc by Research",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/computer-science-msc-by-research/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:58:27.127Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-76e81f7561afa86f657a",
-        "name": "Lancaster University · Cyber Security MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/cyber-security-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:58:37.213Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bc3a44587d5951619aa6",
-        "name": "Lancaster University · Data Science MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:58:47.474Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4c317843a8e750208326",
-        "name": "Lancaster University · Health Data Science MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/health-data-science-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:58:57.865Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d878f9f921db85bdf9e2",
-        "name": "Lancaster University · Health Data Science PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/health-data-science-phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:59:07.747Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a22948df78e4f1e587fd",
-        "name": "Lancaster University · Information Systems and Digital Business Innovation MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/information-systems-and-digital-business-innovation-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:59:17.230Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e8ac621c1c7e050bc093",
-        "name": "Lancaster University · Mathematics PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/mathematics-phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:59:37.468Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f2c1edfc72ab6e7829b1",
-        "name": "Lancaster University · Psychology and Behavioural Analytics MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/psychology-and-behavioural-analytics-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:59:47.219Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-52fc65696f24cf5a9f8a",
-        "name": "Lancaster University · Social Statistics PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/social-statistics-phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:59:57.450Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1a648ec4961d0b468606",
-        "name": "Lancaster University · Statistics MSc",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-msc/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:07.291Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ccd6429a7bcf457ed9f1",
-        "name": "Lancaster University · Statistics PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:17.960Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-53c4d128bc5c2b66c6da",
-        "name": "University College Cork · Business Analytics MSc",
-        "url": "https://www.ucc.ie/en/ckl51/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:17.973Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-03cfa04859aff955d5ab",
-        "name": "Lancaster University · Statistics and Epidemiology PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-and-epidemiology-phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:27.488Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-96a6864b3029f5e13a63",
-        "name": "University College Cork · Cybersecurity MSc",
-        "url": "https://www.ucc.ie/en/msccyb/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:18.727Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7aa7e683769bdaaa09d0",
-        "name": "University College Cork · Mathematical Modelling & Machine Learning MSc",
-        "url": "https://www.ucc.ie/en/ckr56/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:19.499Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7219b32dda4a61d2398e",
-        "name": "Lancaster University · Statistics and Operational Research (STOR-i) PhD",
-        "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-and-operational-research-stori-phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:37.137Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-48f2c18103db2d2ed34d",
-        "name": "University College Cork · Bioinformatics & Computational Biology MSc",
-        "url": "https://www.ucc.ie/en/ckr33/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:20.379Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f96f80229c8ed7796c93",
-        "name": "University of Southampton · PhD in Social Statistics and Demography",
-        "url": "https://www.southampton.ac.uk/study/postgraduate-research/social-statistics-demography",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:21.955Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bda85bc5a996d5dee6c0",
-        "name": "Heriot-Watt University · PhD opportunities in Computer Science",
-        "url": "https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/research/phds/phd-opportunities-in-computer-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:22.674Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0f9362ecc0b36784b189",
-        "name": "University College Cork · Computing Science MSc",
-        "url": "https://www.ucc.ie/en/ckr40/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:21.100Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0e36cd773888215b4605",
-        "name": "Heriot-Watt University · MSc Applied Mathematical Sciences",
-        "url": "https://www.hw.ac.uk/study/postgraduate/applied-mathematical-sciences",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:23.289Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6bd7f600a852bb17392e",
-        "name": "Heriot-Watt University · MSc Computational Mathematics and Data Analysis",
-        "url": "https://www.hw.ac.uk/study/postgraduate/computational-mathematics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:24.057Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3bb74d2e7092fb33ec40",
-        "name": "Heriot-Watt University · MSc Mathematics",
-        "url": "https://www.hw.ac.uk/study/postgraduate/mathematics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:24.869Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b8a60ffea3fcbaf72f9d",
-        "name": "Heriot-Watt University · MSc Actuarial Management",
-        "url": "https://www.hw.ac.uk/study/postgraduate/actuarial-management",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:25.652Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1dbff6f9540f1bd52a6b",
-        "name": "Heriot-Watt University · MSc Actuarial Science",
-        "url": "https://www.hw.ac.uk/study/postgraduate/actuarial-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:26.461Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4f4fe665f051e2ae1054",
-        "name": "Heriot-Watt University · MSc Applied Cyber Security",
-        "url": "https://www.hw.ac.uk/study/postgraduate/applied-cybersecurity",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:27.261Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-df73c6a037d4b8e5a759",
-        "name": "Heriot-Watt University · MSc Applied Data Science",
-        "url": "https://www.hw.ac.uk/study/postgraduate/applied-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:28.106Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2b9bb5f786281856e6dd",
-        "name": "Heriot-Watt University · MSc Artificial Intelligence",
-        "url": "https://www.hw.ac.uk/study/postgraduate/artificial-intelligence",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:28.831Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bf4f9aff84b84a3168cd",
-        "name": "Heriot-Watt University · MSc Business Analytics and Consultancy",
-        "url": "https://www.hw.ac.uk/study/postgraduate/business-analytics-and-consultancy",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:29.710Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d893a9abfa1233274433",
-        "name": "Heriot-Watt University · MSc Computer Science for Cyber Security",
-        "url": "https://www.hw.ac.uk/study/postgraduate/computer-science-for-cyber-security",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:30.469Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ea56cadbffc76d296279",
-        "name": "Heriot-Watt University · MSc Data Science",
-        "url": "https://www.hw.ac.uk/study/postgraduate/data-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:31.306Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e53404ceecde5daba611",
-        "name": "Heriot-Watt University · MSc Information Technology (Software Systems)",
-        "url": "https://www.hw.ac.uk/study/postgraduate/information-technology-software-systems",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:32.099Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b9668ba07625bb358695",
-        "name": "Heriot-Watt University · MSc Mathematical Biology, Ecology and Medicine",
-        "url": "https://www.hw.ac.uk/study/postgraduate/mathematical-biology-ecology-and-medicine",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:32.955Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ef42bf332089cc32e34a",
-        "name": "University of Birmingham · Bioinformatics MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/bioinformatics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:35.274Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e924ffd54a342fcf957f",
-        "name": "Heriot-Watt University · MSc Robotics",
-        "url": "https://www.hw.ac.uk/study/postgraduate/robotics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:33.658Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-14d2cfcc58377b43cccc",
-        "name": "Heriot-Watt University · MSc Software Engineering",
-        "url": "https://www.hw.ac.uk/study/postgraduate/software-engineering",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:34.506Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4081524880cd3843f9ea",
-        "name": "University of Birmingham · Cognitive Neuroimaging and Data Science MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/psychology-courses/cognitive-neuroimaging-and-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:36.502Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c881fbbdd81b85666548",
-        "name": "University of Birmingham · Health Data Science  MSc",
-        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/health-data-science-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:36.816Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9c547a7e8202ab37bd78",
-        "name": "University of Aberdeen · Mathematics PhD",
-        "url": "https://www.abdn.ac.uk/study/postgraduate-research/research-areas/883/mathematical-sciences/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:36.833Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fedf3559f84b2061d4f4",
-        "name": "University of Southampton · PhD Computer Science",
-        "url": "https://www.southampton.ac.uk/study/postgraduate-research/electronics-computer-science",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:37.144Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8f664b92b23b1558f8b9",
-        "name": "University of Bath · PhD Computer Science",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-computer-science-full-time/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:37.685Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8ff2e3e2aa75b1f4229c",
-        "name": "University of Southampton · Mathematical Sciences PhD",
-        "url": "https://www.southampton.ac.uk/study/postgraduate-research/mathematical-sciences",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:37.416Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f1595d130b46203feda7",
-        "name": "Heriot-Watt University · PhD Mathematics",
-        "url": "https://www.hw.ac.uk/study/research/mathematics-phd",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:58:14.690Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f31d8290d96abefaf8fa",
-        "name": "University of Bath · PhD Mathematics",
-        "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-mathematics-full-time/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:38.416Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9ef0d6a6fbf4549e9268",
-        "name": "University of Strathclyde · PhD Management Science",
-        "url": "https://www.strath.ac.uk/courses/research/managementscience/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:00:38.331Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-efde768219b731ff91c6",
-        "name": "Trinity College Dublin · E3 Balanced Solutions for a Better World — máster · 2026",
-        "url": "https://www.tcd.ie/e3/education/scholarships/",
+        "id": "programme-dc30bf74f05cbdd2bfcf",
+        "name": "Friedrich Ebert Foundation · FES — becas para estudiantes y doctorandos internacionales en Alemania",
+        "url": "https://www.fes.de/studienfoerderung/stipendium/grundfoerderung-fuer-auslaender-innen",
         "adapter": "programme",
         "type": "funder",
-        "scope": "IE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:11.457Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3f1e4fd80d7dbaea8fcb",
-        "name": "University of Helsinki · University of Helsinki — tuition fee waivers de máster · reglas 2026",
-        "url": "https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/tuition-fees-and-scholarship-programme",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:11.458Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a54f975145d5b8a87a87",
-        "name": "University of Edinburgh · Edinburgh Doctoral College Scholarships · 2026/27",
-        "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international/doctoral-college",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:12.386Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-eceb0139379afdbb7e33",
-        "name": "University of Glasgow · Global Leadership Scholarship · 2026/27",
-        "url": "https://www.gla.ac.uk/scholarships/globalleadershipscholarship/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:11.458Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2f9c5865be9c3da92c0d",
-        "name": "Trinity College Dublin · Trinity Research Doctorate Awards — rutas PI y estudiante con PI · 2026/27",
-        "url": "https://www.tcd.ie/graduatestudies/awards/trda-pi/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "IE",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:13.178Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-621c9111c6dc3f4ddccf",
-        "name": "University of Edinburgh · Spärck AI Scholarship — Edinburgh · 2026",
-        "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-international-students-19",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:13.064Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-389d09a90a050cd5bbc0",
-        "name": "University of Edinburgh · John Fisher High Performance Computing Masters Scholarships · 2026",
-        "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-international-students-20",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:13.838Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-06f0c552a6b743204cda",
-        "name": "University of Edinburgh · School of Mathematics Masters Scholarships · 2026",
-        "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-international-students-37",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:14.564Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2c2d8029fdaee85e7bdd",
-        "name": "Uppsala University · Uppsala University scholarships — Global y Anders Wall · 2026",
-        "url": "https://www.uu.se/en/study/masters-studies/scholarships/uppsala-university-scholarships",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:15.374Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4794b8a3a26d7ff13f45",
-        "name": "Stockholm University · Stockholm University Scholarship Scheme — máster",
-        "url": "https://www.su.se/scholarships",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:15.675Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-08d2350dbd18f5d6c440",
-        "name": "University of Edinburgh / Bseisu Foundation · Bseisu–University of Edinburgh Scholarships · 2026/27",
-        "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-international-students-12",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:15.361Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f1b6dc34704bd493fd82",
-        "name": "Lund University · Lund University Global Scholarship · 2026",
-        "url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/scholarships-and-awards/lund-university-global-scholarship",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:16.195Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6bdd49a1fc67caacd5e5",
-        "name": "Linköping University · LiU International Scholarship · 2026",
-        "url": "https://liu.se/en/article/scholarships",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:16.567Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-875dbaedad5d41affb8e",
-        "name": "University of Copenhagen · Danish Government Scholarships — UCPH Science",
-        "url": "https://www.ku.dk/studies/masters/application-and-admission/scholarships",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:16.861Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-dacdc39285271d9b552d",
-        "name": "University of Edinburgh · European Merit Scholarship — France, Germany, Spain · 2026/27",
-        "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-international-students-4",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:16.182Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3953721323e03162d3cc",
-        "name": "IT University of Copenhagen · ITU State Scholarships — MSc",
-        "url": "https://en.itu.dk/Programmes/MSc-Programmes/Applying-to-an-MSc-programme",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:16.914Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5664cb065cb577fec797",
-        "name": "University of Turku · University of Turku Merit Scholarship — desde ingreso 2026",
-        "url": "https://www.utu.fi/en/study-at-utu/scholarships-and-tuition-fees",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
+        "scope": "DE",
         "stages": [
           "grado",
-          "master"
+          "master",
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T12:17:17.599Z",
-          "pages": 1,
+          "checkedAt": "2026-09-20T11:33:27.007Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-db5ede1810db0c96ae66",
-        "name": "BI Norwegian Business School · BI Presidential Scholarship · 2026",
-        "url": "https://www.bi.no/en/programmes-and-individual-courses/scholarships/bi-presidential-scholarships/",
+        "id": "programme-87a196e6e56ec53e88e1",
+        "name": "Studienstiftung des deutschen Volkes · Studienstiftung — beca doctoral en Alemania",
+        "url": "https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung",
         "adapter": "programme",
         "type": "funder",
-        "scope": "NO",
+        "scope": "DE",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T12:17:18.391Z",
-          "pages": 1,
+          "checkedAt": "2026-09-20T11:33:27.794Z",
+          "pages": 3,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-bf0553251c24e7cb5c75",
-        "name": "BI Norwegian Business School · BI Master International Scholarship · 2026",
-        "url": "https://www.bi.no/en/programmes-and-individual-courses/scholarships/master-of-science-international-scholarship/",
+        "id": "programme-808d5d16c0fed1c62893",
+        "name": "Hans Böckler Foundation · Hans Böckler — beca doctoral",
+        "url": "https://www.boeckler.de/de/stipendium-fur-promovierende-2670.htm",
         "adapter": "programme",
         "type": "funder",
-        "scope": "NO",
+        "scope": "DE",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T12:17:19.431Z",
-          "pages": 1,
+          "checkedAt": "2026-09-20T11:33:27.953Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-7cd50846dc9bd9d82bdc",
+        "name": "Hans Böckler Foundation · Maria-Weber-Grant — sustitución parcial de docencia",
+        "url": "https://www.boeckler.de/de/maria-weber-grant-2668.htm",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "DE",
+        "stages": [
+          "postdoc",
+          "faculty"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T11:33:28.865Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-b603c9a550865325e37a",
+        "name": "Heinrich Böll Foundation · Heinrich Böll — becas doctorales internacionales en Alemania",
+        "url": "https://www.boell.de/en/applying-scholarship",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "DE",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T11:33:26.269Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-793767e71e2e3d4c465c",
+        "name": "Swiss National Science Foundation (SNSF) · SNSF Starting Grants · 2026",
+        "url": "https://www.snf.ch/en/w728UqT1Yw256Mz2/funding/careers/snsf-starting-grants",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "CH",
+        "stages": [
+          "postdoc",
+          "faculty"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T11:33:30.665Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-5ea00cf7cf2a60ae9244",
+        "name": "Dutch Research Council (NWO) · NWO Vici Science · 2026",
+        "url": "https://www.nwo.nl/en/calls/nwo-talent-programme-vici-science-2026",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "NL",
+        "stages": [
+          "faculty"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T11:33:32.214Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -135370,6 +130153,49 @@
         }
       },
       {
+        "id": "programme-792206d0b6901792a8a3",
+        "name": "Dutch Research Council (NWO) · NWO Open Competition Science XS · 2026",
+        "url": "https://www.nwo.nl/en/calls/open-competition-domain-science-xs-package-26-3",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "NL",
+        "stages": [
+          "postdoc",
+          "faculty"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T11:33:38.309Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-ec335a68d51b1e22f348",
+        "name": "Dutch Research Council (NWO) · NWO Hestia — incorporación de investigadores refugiados · 2026",
+        "url": "https://www.nwo.nl/en/calls/hestia-impulse-for-refugees-in-science",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "NL",
+        "stages": [
+          "grado",
+          "doctorado",
+          "postdoc"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T11:33:52.611Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
         "id": "programme-3b5ee19864e940f2a65c",
         "name": "University of Iceland · University of Iceland PhD Grants Fund · 2026",
         "url": "https://english.hi.is/research/funds-and-grants/internal-grants/phd-grants-fund",
@@ -135384,66 +130210,6 @@
         "report": {
           "checkedAt": "2026-09-20T12:17:18.170Z",
           "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3ec04fc63d4e0c4df933",
-        "name": "BI Norwegian Business School · BI Women in Finance and Tech Master Scholarship · 2026",
-        "url": "https://www.bi.no/en/programmes-and-individual-courses/scholarships/women-in-finance-and-tech-master-scholarship/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:20.166Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7ac38d021d9a0ce887de",
-        "name": "BI Norwegian Business School · BI Future African Leader Scholarship · 2026",
-        "url": "https://www.bi.no/en/programmes-and-individual-courses/scholarships/future-african-leader-scholarship/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:21.004Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-176cf6c04b52429fc7d1",
-        "name": "A. Wilhelmsen Foundation / BI Norwegian Business School · A. Wilhelmsen Foundation Scholarship Programme — BI · 2026",
-        "url": "https://www.bi.no/en/programmes-and-individual-courses/scholarships/a.-wilhelmsen-foundation-scholarship-programme",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "NO",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:21.773Z",
-          "pages": 1,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -135491,19 +130257,19 @@
         }
       },
       {
-        "id": "programme-8dd676502caa0a59f6bd",
-        "name": "University of Cambridge / Cambridge Trust · Federico Zichy Thyssen Cambridge Scholarship",
-        "url": "https://www.cambridgetrust.org/scholarship/federico-zichy-thyssen-cambridge-scholarship/",
+        "id": "programme-847a7d4374fe2c440dbd",
+        "name": "Dutch Research Council (NWO) · NWO Open Competition Science M · 2026–2027",
+        "url": "https://www.nwo.nl/en/calls/open-competition-domain-science-m-2026/2027",
         "adapter": "programme",
         "type": "funder",
-        "scope": "GB",
+        "scope": "NL",
         "stages": [
-          "master"
+          "faculty"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T12:17:24.249Z",
+          "checkedAt": "2026-09-20T11:33:35.187Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -135525,6 +130291,26 @@
         "report": {
           "checkedAt": "2026-09-20T12:17:23.497Z",
           "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-8dd676502caa0a59f6bd",
+        "name": "University of Cambridge / Cambridge Trust · Federico Zichy Thyssen Cambridge Scholarship",
+        "url": "https://www.cambridgetrust.org/scholarship/federico-zichy-thyssen-cambridge-scholarship/",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "GB",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T12:17:24.249Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -135819,6 +130605,26 @@
         }
       },
       {
+        "id": "programme-eb85dbf16769765152a7",
+        "name": "University of Edinburgh · Darlington Scholarship · 2026/27",
+        "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-uk-students/university-of",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "GB",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T12:17:21.011Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
         "id": "programme-81959adc5b8d7fdbc958",
         "name": "University of Cambridge / Cambridge Trust · William & Margaret Brown Cambridge International Scholarship",
         "url": "https://www.cambridgetrust.org/scholarship/william-margaret-brown-cambridge-international-scholarship/",
@@ -135853,26 +130659,6 @@
         "status": "healthy",
         "report": {
           "checkedAt": "2026-09-20T12:17:25.078Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-eb85dbf16769765152a7",
-        "name": "University of Edinburgh · Darlington Scholarship · 2026/27",
-        "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-uk-students/university-of",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T12:17:21.011Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -135921,11 +130707,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-20T12:24:50.449Z",
-      "finishedAt": "2026-09-20T12:24:54.475Z",
+      "startedAt": "2026-09-20T12:35:52.009Z",
+      "finishedAt": "2026-09-20T12:35:52.910Z",
       "scope": "selected-programmes",
-      "verified": 296,
-      "attempted": 296,
+      "verified": 35,
+      "attempted": 35,
       "partial": 0
     }
   },

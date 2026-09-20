@@ -19,6 +19,17 @@ test('programme conditions are tied to their own source and the oldest supportin
  assert.equal(r.verifiedAt,'2026-09-18T10:00:00Z');assert.equal(r.status,'programme');assert.equal(r.deadline,null);
  assert.equal(r.evidence.references.length,2);assert.equal(r.evidence.references[1].label,'Condiciones');assert.equal(r.evidenceChecks,undefined);
 });
+test('unlabelled supporting documents publish their heading or an official-source label',async()=>{
+ const page=async url=>({...await fetcher()(url),body:'<h1>International tuition fee support</h1>'+(await fetcher()(url)).body});
+ for(const label of [undefined,'','  ',null,'undefined']){
+  const candidate={...seed,evidencePages:[{url:'https://example.edu/conditions',label}]};
+  assert.equal((await verifyProgramme(candidate,page)).evidence.references[1].label,'International tuition fee support');
+ }
+ const candidate={...seed,evidencePages:[{url:'https://example.edu/conditions'}]};
+ const record=await verifyProgramme(candidate,fetcher());
+ assert.equal(record.evidence.references[1].label,'Documento oficial · example.edu');
+ assert.equal(record.evidence.references[0].label,'Información del programa');
+});
 test('a scholarship for master students is a funding scheme, not a research degree',async()=>{
  const r=await verifyProgramme({...seed,kind:'funding-programme',stage:'master',eligibleStages:['master','doctorado']},fetcher());
  assert.equal(r.programmeType,'Programa de financiación');
