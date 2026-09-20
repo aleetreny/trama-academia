@@ -29,6 +29,9 @@ function restoreStreamedBoundaries($){
 }
 export function programmeText(html){
  const $=load(html);restoreStreamedBoundaries($);$('script,style,noscript,nav,header,footer,select,textarea,[role="listbox"]').remove();
+ // Bielefeld's recent-page history is a plain div and can name unrelated
+ // degrees. Match that specific history link, not academic Studienverlauf.
+ $('div.menulinks:has(> strong > a[href*="/sinfo/publ/Verlauf.jsp"])').remove();
  // Contact-form dropdowns can list every degree at the university. Their options
  // are not evidence of this programme's discipline or research component. Keep
  // the enclosing form: older academic sites wrap real content in a server form.
@@ -64,5 +67,7 @@ export function hasResearchComponent(text){
  // Yildiz course tables join the thesis title to its course code. Match the
  // actual thesis title, not "Tezsiz Yuksek Lisans" (a non-thesis degree).
  if(/yüksek lisans tezi/i.test(text))return true;
- return /\bthes(?:is|es)\b|dissertation|disserta[çc](?:[aã]o|[oõ]es)|tese de mestrado|tesi (?:di laurea|magistrale)|argomento di tesi|research project|research.oriented|independent research|master[’']?s?\s+(?:degree\s+)?(?:final\s+)?project|mémoire|stage de recherche|stage[^.!?;]{0,90}laboratoire de recherche|travail de fin d[’']études|masterarbeit|praca\s+(?:dyplomowa\s+)?magisterska|pracy\s+magisterskiej|\bdiplomamunka\b|\bkandidatspeciale\b|\bmikrotez[ëe](?![a-zë])|\bmasterverkætlan|\bmasterritgerð|trabajo\s+(?:de\s+)?fin(?:al)?\s+(?:de\s+)?m[aá]ster|treball final de m[aà]ster|projet\s+(?:de\s+)?recherche|diplomov[áa]\s*pr[áa]c[ae]|diplomovej\s+pr[áa]ce|metodol[óo]gia\s+v[ýy]skumu/i.test(text);
+ // Fribourg names the final research dissertation "travail de master".
+ if(/\btravail de master\b/i.test(text))return true;
+ return /\bthes(?:is|es)\b|dissertation|disserta[çc](?:[aã]o|[oõ]es)|tese de mestrado|tesi (?:di laurea|magistrale)|argomento di tesi|research project|research.oriented|independent research|master[’']?s?\s+(?:degree\s+)?(?:final\s+)?project|mémoire|stage de recherche|stage[^.!?;]{0,90}laboratoire de recherche|travail de fin d[’']études|master[ -]?arbeit|praca\s+(?:dyplomowa\s+)?magisterska|pracy\s+magisterskiej|\bdiplomamunka\b|\bkandidatspeciale\b|\bmikrotez[ëe](?![a-zë])|\bmasterverkætlan|\bmasterritgerð|trabajo\s+(?:de\s+)?fin(?:al)?\s+(?:de\s+)?m[aá]ster|treball final de m[aà]ster|projet\s+(?:de\s+)?recherche|diplomov[áa]\s*pr[áa]c[ae]|diplomovej\s+pr[áa]ce|metodol[óo]gia\s+v[ýy]skumu/i.test(text);
 }

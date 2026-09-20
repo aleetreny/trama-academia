@@ -4616,6 +4616,87 @@
         "discoveredFrom": "https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait/msc-data-science-and-artificial-intelligence-technology",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters",
+        "type": "index",
+        "label": "Índice oficial · Delft University of Technology",
+        "observedAt": "2026-09-20T11:38:14.194Z",
+        "checkedAt": "2026-09-20T11:38:14.194Z",
+        "contentHash": "38c02ed38dc8a40c956ba6cfabea50fc27fddde03cede2a31479987ecf014d3f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters/am/msc-applied-mathematics",
+        "type": "masters",
+        "label": "MSc Applied Mathematics",
+        "observedAt": "2026-09-20T12:52:44.079Z",
+        "checkedAt": "2026-09-20T12:52:44.079Z",
+        "contentHash": "bc2da8f9f1f8880d182bf2c9b358fea6273ad7001de69f1eb08df2137d92f4a6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters/cese/msc-computer-embedded-systems-engineering",
+        "type": "masters",
+        "label": "MSc Computer & Embedded Systems Engineering",
+        "observedAt": "2026-09-20T12:52:45.237Z",
+        "checkedAt": "2026-09-20T12:52:45.237Z",
+        "contentHash": "9b2d0755e7495f793447d06f339148a26d86214c7dddadce03b737f9fb60ad6f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T12:52:46.098Z",
+        "checkedAt": "2026-09-20T12:52:46.098Z",
+        "contentHash": "4533767bcabc39c916746e2ac992288214907830fb6b37f833847647a95e5276",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters/dsait/msc-data-science-and-artificial-intelligence-technology",
+        "type": "masters",
+        "label": "MSc Data Science and Artificial Intelligence Technology",
+        "observedAt": "2026-09-20T12:52:27.827Z",
+        "checkedAt": "2026-09-20T12:52:27.827Z",
+        "contentHash": "325b446c1d604d1241720db7093bc2ae28dd8c7da92233998e3ceeff6bc064a0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters/gm/msc-geomatics",
+        "type": "masters",
+        "label": "MSc Geomatics for the Built Environment",
+        "observedAt": "2026-09-20T12:52:51.664Z",
+        "checkedAt": "2026-09-20T12:52:51.664Z",
+        "contentHash": "735d5e3fcfbba836c2b6a8efc06d87fd8df10e5cb3bb0104e904ca129e3db058",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters/qist/msc-quantum-information-science-technology",
+        "type": "masters",
+        "label": "MSc Quantum Information Science & Technology",
+        "observedAt": "2026-09-20T12:52:52.516Z",
+        "checkedAt": "2026-09-20T12:52:52.516Z",
+        "contentHash": "115022561ac1d06fcfcd73b705ae69b3ee7676d31e33289c4badcf40e02638fb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/en/education/programmes/masters/robotics/msc-robotics",
+        "type": "masters",
+        "label": "MSc Robotics",
+        "observedAt": "2026-09-20T12:52:53.270Z",
+        "checkedAt": "2026-09-20T12:52:53.270Z",
+        "contentHash": "f6ed02de239edd90d8a46d31846eeecb8a21a7f78c6934781ff6d38e595f3338",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tudelft.nl/onderwijs/opleidingen/phd/phd-programme",
+        "type": "phd",
+        "label": "PhD — Electrical Engineering, Mathematics and Computer Science",
+        "observedAt": "2026-09-20T12:54:49.603Z",
+        "checkedAt": "2026-09-20T12:54:49.603Z",
+        "contentHash": "bea7cb5a65042af22bf436808cace0481d7e41b6802d3a0574d67943a5511e95",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -4668,26 +4749,22 @@
         "contentHash": "df82bb0529a658f6026faca2eec5b0658372df1c32efe59c4a137d49abb9ad19"
       },
       {
-        "type": "masters",
         "url": "https://www.tue.nl/en/education/degree-programs/master-programs",
-        "label": "Master's programs",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:27.655Z",
-        "discoveredFrom": "https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "index",
+        "label": "Índice oficial · Eindhoven University of Technology",
+        "observedAt": "2026-09-20T11:36:19.739Z",
+        "checkedAt": "2026-09-20T11:36:19.739Z",
+        "contentHash": "748c8cfbbc6b74a991b36f1ac3dd51daa03f950f8b2aebcf6585354ff7b68bbf",
+        "accessOutcome": "ok"
       },
       {
-        "type": "phd",
         "url": "https://www.tue.nl/en/education/graduate-school/phd",
-        "label": "PhD",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:27.655Z",
-        "discoveredFrom": "https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "phd",
+        "label": "PhD at TU/e — Mathematics and Computer Science",
+        "observedAt": "2026-09-20T12:52:41.416Z",
+        "checkedAt": "2026-09-20T12:52:41.416Z",
+        "contentHash": "f80c0a8b83505e4d453231c0430e582186a11866893e220f5632ef34567067f2",
+        "accessOutcome": "ok"
       },
       {
         "type": "funding",
@@ -4754,6 +4831,69 @@
         "discoveredFrom": "https://educationguide.tue.nl/programs/graduate-school/masters-programs/data-science-artificial-intelligence",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.tue.nl/en/education/graduate-school/master-artificial-intelligence-and-engineering-systems",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence and Engineering Systems",
+        "observedAt": "2026-09-20T12:52:51.669Z",
+        "checkedAt": "2026-09-20T12:52:51.669Z",
+        "contentHash": "e10338b7d74665e83d1e4a2939027a1100c2f2c4547eb5be31ac32c056ed60b9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering",
+        "type": "masters",
+        "label": "MSc Computer Science and Engineering",
+        "observedAt": "2026-09-20T12:52:58.155Z",
+        "checkedAt": "2026-09-20T12:52:58.155Z",
+        "contentHash": "0ef672934a0874701377e7c5cb2706adbc67004e931bd2db73447f4bd99ad2d4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tue.nl/en/education/graduate-school/master-embedded-systems",
+        "type": "masters",
+        "label": "MSc Embedded Systems",
+        "observedAt": "2026-09-20T12:53:01.137Z",
+        "checkedAt": "2026-09-20T12:53:01.137Z",
+        "contentHash": "18f2aa6c34d88da7ea9cb2ead6dcc98b2f0e70f40a0ac4ca0485a221244cde3c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tue.nl/en/education/graduate-school/master-data-science-in-business-and-entrepreneurship",
+        "type": "masters",
+        "label": "MSc Data Science in Business and Entrepreneurship",
+        "observedAt": "2026-09-20T12:53:03.834Z",
+        "checkedAt": "2026-09-20T12:53:03.834Z",
+        "contentHash": "2bba3a092a03e79207be2ccc2f9bb20db70d3ab35a007e4106547b1799b37fee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tue.nl/en/education/graduate-school/master-human-technology-interaction",
+        "type": "masters",
+        "label": "MSc Human-Technology Interaction",
+        "observedAt": "2026-09-20T12:53:06.801Z",
+        "checkedAt": "2026-09-20T12:53:06.801Z",
+        "contentHash": "a2877df32e048ce0ced1c26f51baa8a649c1b52e3b2fd1e9de7e39bc68192321",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tue.nl/en/education/graduate-school/master-industrial-and-applied-mathematics",
+        "type": "masters",
+        "label": "MSc Industrial and Applied Mathematics",
+        "observedAt": "2026-09-20T12:53:28.209Z",
+        "checkedAt": "2026-09-20T12:53:28.209Z",
+        "contentHash": "13019f83d7553368ac8055ebd9d15d21b1aba2521a88efa25ebf28420ff7e9d2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tue.nl/en/education/graduate-school/master-systems-and-control",
+        "type": "masters",
+        "label": "MSc Systems and Control",
+        "observedAt": "2026-09-20T12:53:34.135Z",
+        "checkedAt": "2026-09-20T12:53:34.135Z",
+        "contentHash": "7c6391335cec237b236157af62bb80b0142a950149690ff9e460e81eac73fa21",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -4779,14 +4919,13 @@
     "coverageStatus": "subject_source_verified",
     "sources": [
       {
-        "type": "masters",
         "url": "https://www.utwente.nl/en/education/master/programmes/",
-        "label": "All master's programmes",
-        "status": "verified_http_content",
-        "checkedAt": "2026-09-19T21:09:01.733Z",
-        "observedAt": "2026-09-19T20:55:27.684Z",
-        "accessOutcome": "ok",
-        "contentHash": "ef79f70b69c3ceddf4d81822381ad4d5d8eb843ac328b4fbb4b7530838996885"
+        "type": "index",
+        "label": "Índice oficial · University of Twente",
+        "observedAt": "2026-09-20T11:36:20.437Z",
+        "checkedAt": "2026-09-20T11:36:20.437Z",
+        "contentHash": "9adf3a9a6dd16150f71d674865122da5e273a288543af6d17aee28d892c94c94",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -4840,6 +4979,15 @@
         "discoveredFrom": "https://www.utwente.nl/en/education/master/programmes/applied-mathematics/specialisation/mathematics-data-science-ai/courses-and-research/",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.utwente.nl/en/education/tgs/phd/",
+        "type": "phd",
+        "label": "PhD at University of Twente — Mathematics of Data Science",
+        "observedAt": "2026-09-20T12:52:42.992Z",
+        "checkedAt": "2026-09-20T12:52:42.992Z",
+        "contentHash": "d57b10bd95fc71dea8424878127f18f4d62571669ee9d973b5a12c1caaa82db3",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -5052,6 +5200,78 @@
         "discoveredFrom": "https://www.uu.nl/en/masters/artificial-intelligence/study-programme",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.uu.nl/en/masters/masters-programmes",
+        "type": "index",
+        "label": "Índice oficial · Utrecht University",
+        "observedAt": "2026-09-20T11:38:15.174Z",
+        "checkedAt": "2026-09-20T11:38:15.174Z",
+        "contentHash": "301525615bf65bc55f6392cff69e9e6e4048465749f9869c0f72b69bbb82aa04",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates",
+        "type": "phd",
+        "label": "Graduate School of Natural Sciences — PhD in Information and Computing Sciences",
+        "observedAt": "2026-09-20T12:52:43.325Z",
+        "checkedAt": "2026-09-20T12:52:43.325Z",
+        "contentHash": "9931b074e8d58ea3c2c6fe8cd0eb50d5ea92bc64f4299b0ce139cf39543203b5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.nl/en/masters/applied-data-science",
+        "type": "masters",
+        "label": "MSc Applied Data Science",
+        "observedAt": "2026-09-20T12:53:36.274Z",
+        "checkedAt": "2026-09-20T12:53:36.274Z",
+        "contentHash": "e2c1f3e3318284f96d9abc6c72bab7aaec278f13f00272775fcb81765ce0e7c5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.nl/en/masters/bioinformatics-and-biocomplexity",
+        "type": "masters",
+        "label": "MSc Bioinformatics and Biocomplexity",
+        "observedAt": "2026-09-20T12:53:37.139Z",
+        "checkedAt": "2026-09-20T12:53:37.139Z",
+        "contentHash": "16bebbefbaf7a2840bf02fa2480e01142b81b520d36e17ef9052fcf6ddf9e52b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.nl/en/masters/business-informatics",
+        "type": "masters",
+        "label": "MSc Information Science — Business Informatics / Human-Computer Interaction",
+        "observedAt": "2026-09-20T12:53:38.009Z",
+        "checkedAt": "2026-09-20T12:53:38.009Z",
+        "contentHash": "acc32f6b5dcb4313bf428a384cfa701f623b1fe73a88a6161bba746787b4c005",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.nl/en/masters/computing-science",
+        "type": "masters",
+        "label": "MSc Informatica — Computing Science / Data Science",
+        "observedAt": "2026-09-20T12:53:42.072Z",
+        "checkedAt": "2026-09-20T12:53:42.072Z",
+        "contentHash": "08f90369ce2821cae45604c92afb98b3469271c59813b9082b9dab5d05393eed",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.nl/en/masters/economics-and-data-analysis",
+        "type": "masters",
+        "label": "MSc Economics and Data Analysis",
+        "observedAt": "2026-09-20T12:53:43.574Z",
+        "checkedAt": "2026-09-20T12:53:43.574Z",
+        "contentHash": "d59bf48c7c9d27168396fa18b1f7d8a7b9c31bdf101b9a72d0fa26923dfce060",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.nl/en/masters/mathematical-sciences",
+        "type": "masters",
+        "label": "MSc Mathematical Sciences",
+        "observedAt": "2026-09-20T12:53:47.617Z",
+        "checkedAt": "2026-09-20T12:53:47.617Z",
+        "contentHash": "2d57b0f2aa36eb2b9c5c4368f998019a0bb7f4c1291bef1120fff5a77d3b99d1",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -7513,6 +7733,58 @@
         "discoveredFrom": "https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme/research",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes",
+        "type": "phd",
+        "label": "Índice oficial · University of Helsinki",
+        "observedAt": "2026-09-20T11:17:12.645Z",
+        "checkedAt": "2026-09-20T11:17:12.645Z",
+        "contentHash": "b45134fdfc602e7d8454f62ef42e50766d565ac21c1be3efd39d43b967ed201b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.helsinki.fi/en/degree-programmes",
+        "type": "index",
+        "label": "Índice oficial · University of Helsinki",
+        "observedAt": "2026-09-20T11:52:40.740Z",
+        "accessOutcome": "javascript_required"
+      },
+      {
+        "url": "https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme",
+        "type": "masters",
+        "label": "MSc Life Science Informatics",
+        "observedAt": "2026-09-20T12:53:46.758Z",
+        "checkedAt": "2026-09-20T12:53:46.758Z",
+        "contentHash": "d8e0ea13e043922b25a4c94f96e3d15214d441250415b30ccec9a6542b1c18c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.helsinki.fi/en/degree-programmes/computer-science-masters-programme",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T12:53:48.130Z",
+        "checkedAt": "2026-09-20T12:53:48.130Z",
+        "contentHash": "e9727d6ca4dd748ca6ed5d42f98f35f6e4106d47d751ef26f00a55b412c917b5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.helsinki.fi/en/degree-programmes/theoretical-and-computational-methods-masters-programme",
+        "type": "masters",
+        "label": "MSc Theoretical and Computational Methods",
+        "observedAt": "2026-09-20T12:53:48.908Z",
+        "checkedAt": "2026-09-20T12:53:48.908Z",
+        "contentHash": "55b2c08818b606ae4de93e058f6f2241c8a004a4a8596fe2d8c603cfd4a6ff8f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.helsinki.fi/en/degree-programmes/mathematics-and-statistics-masters-programme",
+        "type": "masters",
+        "label": "MSc Mathematics and Statistics",
+        "observedAt": "2026-09-20T12:53:50.519Z",
+        "checkedAt": "2026-09-20T12:53:50.519Z",
+        "contentHash": "464fecc3927e3b562b8ba0ec4c178e4508755f0eb3c51a3f6e56feeccbc647e5",
+        "accessOutcome": "ok"
       }
     ]
   },
@@ -9361,6 +9633,67 @@
         "checkedAt": "2026-09-19T21:03:08.304Z",
         "contentHash": "fe241a264a060b897f52090db41d0245f0051a48c6debbf9849ba80ad7d81d5f",
         "finalUrl": "https://www.kuleuven.be/scholarships/year/2026-2027/science-leuven-scholarship"
+      },
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/",
+        "type": "index",
+        "label": "Índice oficial · KU Leuven",
+        "observedAt": "2026-09-20T11:54:02.173Z",
+        "accessOutcome": "javascript_required"
+      },
+      {
+        "url": "https://set.kuleuven.be/phd/applicants",
+        "type": "phd",
+        "label": "Arenberg Doctoral School — ruta de investigación en Computer Science",
+        "observedAt": "2026-09-20T12:52:40.621Z",
+        "checkedAt": "2026-09-20T12:52:40.621Z",
+        "contentHash": "e92927503ab37bb291c5d9d7d9390701bd4b08046c144654e1152c14e35da0ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_56224748/diploma_omschrijving",
+        "type": "masters",
+        "label": "Master of Cybersecurity",
+        "observedAt": "2026-09-20T12:53:56.576Z",
+        "checkedAt": "2026-09-20T12:53:56.576Z",
+        "contentHash": "7c34c82f5a2965a7ed634c2f01bd4d53266f67c649fc49edc9b872e7c5de97ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_51016880/diploma_omschrijving",
+        "type": "masters",
+        "label": "Master of Artificial Intelligence",
+        "observedAt": "2026-09-20T12:53:59.692Z",
+        "checkedAt": "2026-09-20T12:53:59.692Z",
+        "contentHash": "79c6c8194c83ba874f93622cf400a02a25402c279f6e28eb93a3fae76f04f416",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_56117796/diploma_omschrijving",
+        "type": "masters",
+        "label": "Master of Artificial Intelligence in Business and Industry",
+        "observedAt": "2026-09-20T12:54:00.974Z",
+        "checkedAt": "2026-09-20T12:54:00.974Z",
+        "contentHash": "83594f79d0f0a22c46f84ab76ebb9feef17dbde7222ba095a6b1874b16c629c0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_51016883/diploma_omschrijving",
+        "type": "masters",
+        "label": "Master of Bioinformatics",
+        "observedAt": "2026-09-20T10:34:03.095Z",
+        "checkedAt": "2026-09-20T10:34:03.095Z",
+        "contentHash": "f7f6f09847e9b80847000f9fa48a1e94ba06ab23cc39d1b94adb64b12faaabd7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_51958514/diploma_omschrijving",
+        "type": "masters",
+        "label": "Master of Mathematics",
+        "observedAt": "2026-09-20T10:44:56.637Z",
+        "checkedAt": "2026-09-20T10:44:56.637Z",
+        "contentHash": "0a8e7d2d297d3553d4ac81f7c519824f7987eb8047fc2f8947897c3daa44aa59",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -9382,6 +9715,123 @@
         "checkedAt": "2026-09-19T20:57:08.804Z",
         "contentHash": "4ad610c5cfc66ebc3f8365d78cfb9a881f5a6db3d13452afab4a7b0f64e8111b",
         "finalUrl": "https://studiekiezer.ugent.be/2026/master-of-science-in-statistical-data-analysis-en/programma"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/en/zoek",
+        "type": "index",
+        "label": "Índice oficial · Ghent University",
+        "observedAt": "2026-09-20T11:38:13.087Z",
+        "checkedAt": "2026-09-20T11:38:13.087Z",
+        "contentHash": "e96a9cdf7b1c368dc62a548e09cabe8d64c2cbc14bf4f525fcabcd313bb24d8d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/doctor-of-computer-science-engineering",
+        "type": "phd",
+        "label": "Doctor of Computer Science Engineering",
+        "observedAt": "2026-09-20T12:52:34.146Z",
+        "checkedAt": "2026-09-20T12:52:34.146Z",
+        "contentHash": "edab5c2298f21826f770614f60c76e4feebe613e4792b013f98f46a341654a08",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/doctor-of-statistical-data-analysis",
+        "type": "phd",
+        "label": "Doctor of Statistical Data Analysis",
+        "observedAt": "2026-09-20T12:52:34.956Z",
+        "checkedAt": "2026-09-20T12:52:34.956Z",
+        "contentHash": "58a6767935774dd4001dd1246ae1750f5f2a5ec25039e11b9f872b389ee73d1b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/doctor-of-bioscience-engineering-bioinformatics",
+        "type": "phd",
+        "label": "Doctor of Bioscience Engineering: Bioinformatics",
+        "observedAt": "2026-09-20T12:52:36.574Z",
+        "checkedAt": "2026-09-20T12:52:36.574Z",
+        "contentHash": "dfa0e3f6af517451b76423189edf6d71fd7d8975be0f2dde03c734d690158dfc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/doctor-of-bioscience-engineering-mathematical-modelling",
+        "type": "phd",
+        "label": "Doctor of Bioscience Engineering: Mathematical Modelling",
+        "observedAt": "2026-09-20T12:52:37.366Z",
+        "checkedAt": "2026-09-20T12:52:37.366Z",
+        "contentHash": "f60bb446bac8f63f0bcdb9fb3ea815fb7783f8487a84edb4d79048841da8e648",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/doctor-of-science-bioinformatics",
+        "type": "phd",
+        "label": "Doctor of Science: Bioinformatics",
+        "observedAt": "2026-09-20T12:52:39.094Z",
+        "checkedAt": "2026-09-20T12:52:39.094Z",
+        "contentHash": "fa493eca9248396765e31a1d3b32f9876baafe13589f14e2283b8918154b830f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/doctor-of-computer-science",
+        "type": "phd",
+        "label": "Doctor of Computer Science",
+        "observedAt": "2026-09-20T12:52:41.410Z",
+        "checkedAt": "2026-09-20T12:52:41.410Z",
+        "contentHash": "875e1b597c750571bdad014ae283843c2f0d0b91996160d68d689764a4e99579",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/master-of-science-in-bioinformatics-systems-biology-en",
+        "type": "masters",
+        "label": "MSc Bioinformatics",
+        "observedAt": "2026-09-20T12:54:08.118Z",
+        "checkedAt": "2026-09-20T12:54:08.118Z",
+        "contentHash": "b47f3be91e49cf5970eb038c25464eff23300f192905586cf91bc923a09727b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/master-of-science-in-business-engineering-data-analytics-en",
+        "type": "masters",
+        "label": "MSc Business Engineering — Data Analytics",
+        "observedAt": "2026-09-20T12:54:08.591Z",
+        "checkedAt": "2026-09-20T12:54:08.591Z",
+        "contentHash": "190400269591c5cb1df261162c82a8d84bc6cc1b74c4aa7799f8f48e8eb372be",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/master-of-science-in-de-industriele-wetenschappen-informatica",
+        "type": "masters",
+        "label": "MSc Information Engineering Technology",
+        "observedAt": "2026-09-20T12:54:10.048Z",
+        "checkedAt": "2026-09-20T12:54:10.048Z",
+        "contentHash": "a26ef97aa8a13a9a8d82fa633327b0ec976ce29b1eaa0282fd0d06464a0a79af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/master-of-science-in-de-informatica",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T12:54:10.809Z",
+        "checkedAt": "2026-09-20T12:54:10.809Z",
+        "contentHash": "442b86de027f91e1b99746ab74611e2d73208d96368d97f32291e0661e7333b7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/master-of-science-in-computer-science-engineering-en",
+        "type": "masters",
+        "label": "MSc Computer Science Engineering",
+        "observedAt": "2026-09-20T12:54:13.181Z",
+        "checkedAt": "2026-09-20T12:54:13.181Z",
+        "contentHash": "912a02f64e10aa53f4c444df356f79841474011a56150c2ed039269da4da88ab",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studiekiezer.ugent.be/2026/master-of-science-in-de-wiskunde",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T12:54:14.804Z",
+        "checkedAt": "2026-09-20T12:54:14.804Z",
+        "contentHash": "2a470b023e67bb6aaeb1085c72207073598c5f5c6943403fa4e676ec01fd89b8",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -9403,6 +9853,87 @@
         "checkedAt": "2026-09-19T20:57:10.057Z",
         "contentHash": "df923a13d63e75903f9f2da678046891423e42f0a44fde25ac61662f73b3e94e",
         "finalUrl": "https://uclouvain.be/en-prog-2026-dats2m-programme"
+      },
+      {
+        "url": "https://uclouvain.be/fr/catalogue-formations/masters-2026",
+        "type": "index",
+        "label": "Índice oficial · UCLouvain",
+        "observedAt": "2026-09-20T10:45:06.949Z",
+        "checkedAt": "2026-09-20T10:45:06.949Z",
+        "contentHash": "371a6b747a4de5d4483595cacf7b6a8f0600b559499432304c82cc457cf46282",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-info2m",
+        "type": "masters",
+        "label": "Master [120] : ingénieur civil en informatique",
+        "observedAt": "2026-09-20T12:52:12.067Z",
+        "checkedAt": "2026-09-20T12:52:12.067Z",
+        "contentHash": "db90249dfd63d7a9f90135425bbcf5f29ca5c620afe55c53ab2be7ea0ce43518",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-map2m",
+        "type": "masters",
+        "label": "Master [120] : ingénieur civil en mathématiques appliquées",
+        "observedAt": "2026-09-20T11:58:52.984Z",
+        "checkedAt": "2026-09-20T11:58:52.984Z",
+        "contentHash": "432938c41a6187f595c4f8f0c9a9abcc6bf3cd7ba1c72af8394b2e89ad817d1c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-date2m",
+        "type": "masters",
+        "label": "Master [120] : ingénieur civil en science des données",
+        "observedAt": "2026-09-20T11:18:11.186Z",
+        "checkedAt": "2026-09-20T11:18:11.186Z",
+        "contentHash": "de2505049829eb4fffb97ff218d6ac22e279d90b23fe99bb52ce1773cf72a5af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-sinf2m",
+        "type": "masters",
+        "label": "Master [120] en sciences informatiques",
+        "observedAt": "2026-09-20T12:18:17.114Z",
+        "checkedAt": "2026-09-20T12:18:17.114Z",
+        "contentHash": "3fd501e5382f4f15c444f45e96e695a40065d194ba5d4fd67069377df63568b1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-math2m",
+        "type": "masters",
+        "label": "Master [120] en sciences mathématiques",
+        "observedAt": "2026-09-20T12:52:12.580Z",
+        "checkedAt": "2026-09-20T12:52:12.580Z",
+        "contentHash": "9d05860012b0beb8c38d8bc38cc26c9d5df986adb66d6953035268272b29ea95",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-stat2m",
+        "type": "masters",
+        "label": "Master [120] en statistique, orientation générale",
+        "observedAt": "2026-09-20T12:37:42.099Z",
+        "checkedAt": "2026-09-20T12:37:42.099Z",
+        "contentHash": "4a7726630a3072a344e5a750c88a9cbccbf3a87bdd10d47de27bd3a687240e94",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-sinf2m1",
+        "type": "masters",
+        "label": "Master [60] en sciences informatiques",
+        "observedAt": "2026-09-20T12:46:32.078Z",
+        "checkedAt": "2026-09-20T12:46:32.078Z",
+        "contentHash": "c2575e5bfb290d527e4d09bbfcd65d2c033e4d4262e313fd88c6b628bed498a5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uclouvain.be/prog-2026-math2m1",
+        "type": "masters",
+        "label": "Master [60] en sciences mathématiques",
+        "observedAt": "2026-09-20T12:52:13.321Z",
+        "checkedAt": "2026-09-20T12:52:13.321Z",
+        "contentHash": "e07abe4ec4cc2f6732289857ccefb002c87f138d26188cfcdba969461fb502c1",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
@@ -12177,6 +12708,42 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://ut.ee/en/doctoral-programmes",
+        "type": "phd",
+        "label": "Índice oficial · University of Tartu",
+        "observedAt": "2026-09-19T23:53:43.546Z",
+        "checkedAt": "2026-09-19T23:53:43.546Z",
+        "contentHash": "a76f3c3fa2f60cb7be03420db3c3c521b37a1f1155a9a1a469c950c88cba5e91",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://cs.ut.ee/en/content/masters-studies",
+        "type": "index",
+        "label": "Índice oficial · University of Tartu",
+        "observedAt": "2026-09-19T21:54:47.559Z",
+        "checkedAt": "2026-09-19T21:54:47.559Z",
+        "contentHash": "296285413ce3f61d8e6aaaab0340152ad246c7ee34ab425220df68baed63936e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ut.ee/en/curriculum/engineering-and-technology",
+        "type": "phd",
+        "label": "Doctoral Programme in Engineering and Technology — Computer Engineering",
+        "observedAt": "2026-09-20T12:53:34.141Z",
+        "checkedAt": "2026-09-20T12:53:34.141Z",
+        "contentHash": "e93f38f6dd490cf8f960c955b13e57db0b0aac93c3cf781577bfc1ea4355b574",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://cs.ut.ee/en/content/software-engineering-msc",
+        "type": "masters",
+        "label": "MSc Software Engineering",
+        "observedAt": "2026-09-20T12:53:35.311Z",
+        "checkedAt": "2026-09-20T12:53:35.311Z",
+        "contentHash": "dd719a5155c2884cf16686ae5f633132e7f5a26780842e8e4270741373f019f8",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -12218,6 +12785,24 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://taltech.ee/en/masters-studies-it",
+        "type": "index",
+        "label": "Índice oficial · Tallinn University of Technology",
+        "observedAt": "2026-09-19T23:42:24.801Z",
+        "checkedAt": "2026-09-19T23:42:24.801Z",
+        "contentHash": "5c70226233b17844fab8fb6b1c99ce2ccb9f8142d6e9602b91bd26a63427b29f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://taltech.ee/en/doctoral-studies-it",
+        "type": "phd",
+        "label": "PhD in Information and Communication Technology",
+        "observedAt": "2026-09-20T12:52:29.988Z",
+        "checkedAt": "2026-09-20T12:52:29.988Z",
+        "contentHash": "ee6d92ade45f2416b9e5ff7be1d158fbdeae26a175edcc1d35899ac4493d8e80",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -12259,6 +12844,33 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://www.lu.lv/en/studies/study-programmes-1/doctoral-studies",
+        "type": "phd",
+        "label": "Índice oficial · University of Latvia",
+        "observedAt": "2026-09-19T21:54:28.021Z",
+        "checkedAt": "2026-09-19T21:54:28.021Z",
+        "contentHash": "b62790a361cfe2e649025aab2420dd626567944ca8975f2915b3b857f60ce972",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes",
+        "type": "index",
+        "label": "Índice oficial · University of Latvia",
+        "observedAt": "2026-09-19T21:51:17.146Z",
+        "checkedAt": "2026-09-19T21:51:17.146Z",
+        "contentHash": "dfbbdd597e4f238c4deb8d7818590c5db41aaf0e80881103259c1874f6dee751",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/epidemiology-and-medical-statistics-en",
+        "type": "masters",
+        "label": "Master in Epidemiology and Medical Statistics",
+        "observedAt": "2026-09-20T12:53:35.771Z",
+        "checkedAt": "2026-09-20T12:53:35.771Z",
+        "contentHash": "482c760a67422f7863997d4c94540a9b151551add7239586bce5adf9a429e74a",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -12343,14 +12955,103 @@
         }
       },
       {
-        "type": "masters",
         "url": "https://mif.vu.lt/lt3/en/admission/master-studies/informatics",
-        "label": "Faculty of Mathematics and Informatics - Informatics",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Informatics",
+        "observedAt": "2026-09-20T12:52:15.533Z",
+        "checkedAt": "2026-09-20T12:52:15.533Z",
+        "contentHash": "4ccc6ebf523537e2295733b50f903b7c666dd7d76dbe593fee2aead2184622dd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/studies/master-studies-info",
+        "type": "index",
+        "label": "Índice oficial · Vilnius University",
+        "observedAt": "2026-09-19T21:55:04.252Z",
+        "checkedAt": "2026-09-19T21:55:04.252Z",
+        "contentHash": "058a4ad327a3a596ca464f391d0a60ff7584bbfe0ec7fdf6a7e89ea45e651836",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/studies/phd-studies",
+        "type": "phd",
+        "label": "Índice oficial · Vilnius University",
+        "observedAt": "2026-09-19T22:14:03.890Z",
+        "checkedAt": "2026-09-19T22:14:03.890Z",
+        "contentHash": "30f17de9b06428a6ce899d9a5071218d15ecb0057fd4b31ca376129e494cd2cd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/master-studies/computer-modelling",
+        "type": "masters",
+        "label": "Computer Modelling",
+        "observedAt": "2026-09-20T12:52:13.310Z",
+        "checkedAt": "2026-09-20T12:52:13.310Z",
+        "contentHash": "061a77e64b221a1e139e5976f6ad048ff6c31f8b7b4ffead3086ed29fd2f99ab",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/master-studies/financial-and-actuarial-mathematics",
+        "type": "masters",
+        "label": "Financial and Actuarial Mathematics",
+        "observedAt": "2026-09-20T12:52:14.732Z",
+        "checkedAt": "2026-09-20T12:52:14.732Z",
+        "contentHash": "26316e8357cbbda7caecf7c2e4844ba54d7ca5941b14a4a13b71d1d69350a7f7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/master-studies/international-cybersecurity-and-cyberintelligence",
+        "type": "masters",
+        "label": "International Cybersecurity and Cyberintelligence",
+        "observedAt": "2026-09-20T12:52:16.327Z",
+        "checkedAt": "2026-09-20T12:52:16.327Z",
+        "contentHash": "6b15b9c73f7f6b0aa6c3c1b467098a4d5badc2114d17b9ec7bf00e9793717a7b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/master-studies/mathematics",
+        "type": "masters",
+        "label": "Mathematics",
+        "observedAt": "2026-09-20T12:52:17.129Z",
+        "checkedAt": "2026-09-20T12:52:17.129Z",
+        "contentHash": "b37e76d058e11dccdf65778dc95f45c81a5d720fa9d43ab9c5b5c349c7a9aa45",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/master-studies/software-engineering",
+        "type": "masters",
+        "label": "Software Engineering",
+        "observedAt": "2026-09-20T12:52:18.038Z",
+        "checkedAt": "2026-09-20T12:52:18.038Z",
+        "contentHash": "c6d5429da04a5bd17ce77cff2cb040c000c421381ec330e646b15fa8ef882903",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/phd-studies/informatics",
+        "type": "phd",
+        "label": "PhD in Informatics",
+        "observedAt": "2026-09-20T12:52:23.654Z",
+        "checkedAt": "2026-09-20T12:52:23.654Z",
+        "contentHash": "eef446854ab0a401a111d15e85089f0a9ce65c7de4043f8b9401820acdbe51a9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/phd-studies/informatics-engineering",
+        "type": "phd",
+        "label": "PhD in Informatics Engineering",
+        "observedAt": "2026-09-20T12:52:25.656Z",
+        "checkedAt": "2026-09-20T12:52:25.656Z",
+        "contentHash": "39e560d1c257a9376af79e64d16d303c35529d04d4c7a208ed5475d5aa48cd7e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mif.vu.lt/lt3/en/admission/phd-studies/mathematics",
+        "type": "phd",
+        "label": "PhD in Mathematics",
+        "observedAt": "2026-09-20T12:52:26.501Z",
+        "checkedAt": "2026-09-20T12:52:26.501Z",
+        "contentHash": "fb643734cc304eadda740d038713957d9a7afb049817bcf62e16f8d2c7a295e1",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -12382,6 +13083,105 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://admissions.ktu.edu/programmes/m/",
+        "type": "index",
+        "label": "Índice oficial · Kaunas University of Technology",
+        "observedAt": "2026-09-20T11:38:16.490Z",
+        "checkedAt": "2026-09-20T11:38:16.490Z",
+        "contentHash": "074f696808b7f3cc584c21240e8f13c06a1b382f186bb547cbd08ecc24f99c21",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programmes/d/",
+        "type": "phd",
+        "label": "Índice oficial · Kaunas University of Technology",
+        "observedAt": "2026-09-20T11:38:17.443Z",
+        "checkedAt": "2026-09-20T11:38:17.443Z",
+        "contentHash": "4a91a5266057b8e21f57aa3409f3fcaec28cb3065c9a5678bd9148bc25752321",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/m-artificial-intelligence-in-computer-science/",
+        "type": "masters",
+        "label": "Artificial Intelligence in Computer Science",
+        "observedAt": "2026-09-20T12:52:16.344Z",
+        "checkedAt": "2026-09-20T12:52:16.344Z",
+        "contentHash": "7400b54d09219fa5e6c66f2a7ad4ff03bcf71d11aad2e39820a34a82924588e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/m-information-technologies-of-distance-education/",
+        "type": "masters",
+        "label": "Information Technologies of Distance Education",
+        "observedAt": "2026-09-20T12:52:19.278Z",
+        "checkedAt": "2026-09-20T12:52:19.278Z",
+        "contentHash": "00815c3cb0d3b7ca41c0a7e6d078828cbd521186d4989936419a40fd7d6032f3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/m-information-and-information-technology-security/",
+        "type": "masters",
+        "label": "Information and Information Technology Security",
+        "observedAt": "2026-09-20T12:52:21.327Z",
+        "checkedAt": "2026-09-20T12:52:21.327Z",
+        "contentHash": "9358777b5be0c6284f3f80258da0f60e0733ba5f8e1897d2343346308eec561f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/m-software-engineering/",
+        "type": "masters",
+        "label": "Software Engineering",
+        "observedAt": "2026-09-20T12:52:23.635Z",
+        "checkedAt": "2026-09-20T12:52:23.635Z",
+        "contentHash": "83fec678ec6e2e91a613b38bb50abe82ac41c8b46ec8420877036a31c4d23e8d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/m-applied-mathematics/",
+        "type": "masters",
+        "label": "Applied Mathematics",
+        "observedAt": "2026-09-20T12:52:25.841Z",
+        "checkedAt": "2026-09-20T12:52:25.841Z",
+        "contentHash": "d9ea73cda8ab861be5612497578cf5ff12c68de9b5377db2831dbccd2e876223",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/m-business-big-data-analytics/",
+        "type": "masters",
+        "label": "Business Big Data Analytics",
+        "observedAt": "2026-09-20T12:52:27.973Z",
+        "checkedAt": "2026-09-20T12:52:27.973Z",
+        "contentHash": "4899df820e5440801ac20ff3a560a8f11d1e33b3ba398e618bf6b1b1191e3375",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/d-informatics/",
+        "type": "phd",
+        "label": "PhD in Informatics",
+        "observedAt": "2026-09-20T12:52:29.980Z",
+        "checkedAt": "2026-09-20T12:52:29.980Z",
+        "contentHash": "1707fd54a6c3767f3af700d1ce65f345e72713ec74735865cb72a8c40d81ab5a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/d-mathematics/",
+        "type": "phd",
+        "label": "PhD in Mathematics",
+        "observedAt": "2026-09-20T12:52:31.727Z",
+        "checkedAt": "2026-09-20T12:52:31.727Z",
+        "contentHash": "ff1bcb07d55c972713711a601c164b01ac43f2f999f1516005c44c8552517d04",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://admissions.ktu.edu/programme/d-informatics-engineering/",
+        "type": "phd",
+        "label": "PhD in Informatics Engineering",
+        "observedAt": "2026-09-20T12:52:33.620Z",
+        "checkedAt": "2026-09-20T12:52:33.620Z",
+        "contentHash": "9bc3fbd16d3bf019d1dc82976cc4252bdcbdb8db7b09a427f7d2afca667c9de4",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -14620,24 +15420,22 @@
     "domain": "vilniustech.lt",
     "sources": [
       {
-        "type": "masters",
         "url": "https://vilniustech.lt/en/international-students/study-programmes/graduate-studies/",
-        "label": "Graduate study programmes - Vilnius Tech",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "index",
+        "label": "Índice oficial · Vilnius Gediminas Technical University",
+        "observedAt": "2026-09-19T21:38:18.750Z",
+        "checkedAt": "2026-09-19T21:38:18.750Z",
+        "contentHash": "c471640300ebab138ccf7cd922581130afe72e2a5778669422e33f09035836a8",
+        "accessOutcome": "ok"
       },
       {
-        "type": "research",
         "url": "https://vilniustech.lt/en/study-programme/data-science-and-statistics-314850-u-454/",
-        "label": "Data Science and Statistics Studies | VILNIUS TECH",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Data Science and Statistics",
+        "observedAt": "2026-09-20T12:53:30.802Z",
+        "checkedAt": "2026-09-20T12:53:30.802Z",
+        "contentHash": "1df1dbb8899b052997bcc27325c73ce067e03e04ab8592064653099c11eba566",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -14660,14 +15458,58 @@
         }
       },
       {
-        "type": "research",
         "url": "https://vilniustech.lt/en/study-programme/information-systems-software-engineering-137752-u-454/",
-        "label": "Information Systems Software Engineering | VILNIUS TECH",
-        "status": "discovered",
-        "checkedAt": "2026-09-19T21:26:41Z",
-        "_review": {
-          "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
-        }
+        "type": "masters",
+        "label": "Information Systems Software Engineering",
+        "observedAt": "2026-09-20T12:53:33.339Z",
+        "checkedAt": "2026-09-20T12:53:33.339Z",
+        "contentHash": "b81c021b61b8bc93e6eb184c40e59ca30dfa7931b2d69b7c694b5371c99fd6a2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://vilniustech.lt/en/research-and-innovation/doctoral-studies/",
+        "type": "phd",
+        "label": "Índice oficial · Vilnius Gediminas Technical University",
+        "observedAt": "2026-09-19T22:12:44.664Z",
+        "checkedAt": "2026-09-19T22:12:44.664Z",
+        "contentHash": "da577f41147cfac5dc36fbe1033b26d600ecf4e9258fe9c43ed00081d3292774",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://vilniustech.lt/en/study-programme/information-electronics-systems-130511-u/",
+        "type": "masters",
+        "label": "Artificial Intelligence Systems",
+        "observedAt": "2026-09-20T12:53:28.215Z",
+        "checkedAt": "2026-09-20T12:53:28.215Z",
+        "contentHash": "76e1edf68d7139b60f6f49eaa27cbe2dc656bc9b2f83b94bfb17e21deacd9d9f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://vilniustech.lt/en/study-programme/engineering-of-artificial-intelligence-1593143-u-454/",
+        "type": "masters",
+        "label": "Engineering of Artificial Intelligence",
+        "observedAt": "2026-09-20T12:53:31.777Z",
+        "checkedAt": "2026-09-20T12:53:31.777Z",
+        "contentHash": "35aac6db3838944b7a2414238c879951da44c9622776f29d6b55a826a306b44d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://vilniustech.lt/en/study-programme/information-and-information-technologies-security-137753-u-454/",
+        "type": "masters",
+        "label": "Information and Information Technologies Security",
+        "observedAt": "2026-09-20T12:53:32.523Z",
+        "checkedAt": "2026-09-20T12:53:32.523Z",
+        "contentHash": "4a105e4b2069611e7f89cd44c03d3fb4a93e42131106248e849d33db1e020a7a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://vilniustech.lt/en/study-programme/management-of-artificial-intelligence-solutions-1593142-u-454/",
+        "type": "masters",
+        "label": "Management of Artificial Intelligence Solutions",
+        "observedAt": "2026-09-20T12:53:34.124Z",
+        "checkedAt": "2026-09-20T12:53:34.124Z",
+        "contentHash": "890504895b2f1748d746db0012547bca8238c3e3f5cbe134b23a7356e459b89c",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -22202,5 +23044,327 @@
       }
     ],
     "observedAt": "2026-09-20T12:24:40.177Z"
+  },
+  {
+    "id": "nl-university-of-amsterdam",
+    "name": "University of Amsterdam",
+    "country": "NL",
+    "ror": "https://ror.org/04dkp9463",
+    "domains": [
+      "uva.nl"
+    ],
+    "officialUrl": "https://www.uva.nl",
+    "observedAt": "2026-09-20T13:06:14.620Z",
+    "sources": [
+      {
+        "url": "https://www.uva.nl/en/education/master-s/master-s-programmes/masters-programmes.html",
+        "type": "index",
+        "label": "Índice oficial · University of Amsterdam",
+        "observedAt": "2026-09-20T11:43:09.529Z",
+        "checkedAt": "2026-09-20T11:43:09.529Z",
+        "contentHash": "f2019150a12a7a2e55e74c1164f230da48695823b2aeeec15acd3a84706ea328",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/en/programmes/masters/actuarial-science-and-mathematical-finance/actuarial-science-and-mathematical-finance.html",
+        "type": "masters",
+        "label": "MSc Actuarial Science and Mathematical Finance",
+        "observedAt": "2026-09-20T12:54:13.183Z",
+        "checkedAt": "2026-09-20T12:54:13.183Z",
+        "contentHash": "ee5394d2d51dab7204480350f74df0c6ed6fef172e683453bd58aa4840cd0158",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence",
+        "observedAt": "2026-09-20T12:54:13.994Z",
+        "checkedAt": "2026-09-20T12:54:13.994Z",
+        "contentHash": "e9330e194614bdce53eb79fa86a50ef312ecd5ed9a7dff87871f280cdb03452b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/bioinformatics-and-systems-biology/bioinformatics-and-systems-biology.html",
+        "type": "masters",
+        "label": "MSc Bioinformatics and Systems Biology",
+        "observedAt": "2026-09-20T12:54:16.478Z",
+        "checkedAt": "2026-09-20T12:54:16.478Z",
+        "contentHash": "6dd2bc1afdf80b30a6a1454ee1a966193a682420fe76144ef69cf05990da5d03",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html",
+        "type": "masters",
+        "label": "MSc Computational Science",
+        "observedAt": "2026-09-20T12:54:18.736Z",
+        "checkedAt": "2026-09-20T12:54:18.736Z",
+        "contentHash": "7cba2bef8dcc969500730fd66430df33f249281d06035e9902425f7f470b71be",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/computer-science/computer-science.html",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T12:54:25.120Z",
+        "checkedAt": "2026-09-20T12:54:25.120Z",
+        "contentHash": "e0d257ecd4671cf2e55d31d02112e845c9e24c6cfd745c10b4b4cb62f22de8a5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/en/programmes/masters/econometrics/econometrics.html",
+        "type": "masters",
+        "label": "MSc Econometrics",
+        "observedAt": "2026-09-20T12:54:27.596Z",
+        "checkedAt": "2026-09-20T12:54:27.596Z",
+        "contentHash": "4e1e06e335d2c0783e947ccd290f5855a14e43d1c6d01f566816e1f438ef1fb1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/logic/logic.html",
+        "type": "masters",
+        "label": "MSc Logic",
+        "observedAt": "2026-09-20T12:54:28.402Z",
+        "checkedAt": "2026-09-20T12:54:28.402Z",
+        "contentHash": "19994a741e9db8abcf8bd1fe11591eb32f6037ab749baef0c800cb79a2fc56c8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/mathematics/mathematics.html",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T12:54:30.806Z",
+        "checkedAt": "2026-09-20T12:54:30.806Z",
+        "contentHash": "e57a5b85e8d1b44e25611b4738caf2ee2fca04a4bd54d5c2ad726d68446ed11e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/en/programmes/masters/medical-informatics/medical-informatics.html",
+        "type": "masters",
+        "label": "MSc Medical Informatics",
+        "observedAt": "2026-09-20T12:54:37.167Z",
+        "checkedAt": "2026-09-20T12:54:37.167Z",
+        "contentHash": "0c8f87d5f8b9f4e3638d653ea10781e43e837a9136794d59d94e79e19cece5a6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/quantum-computer-science/quantum-computer-science.html",
+        "type": "masters",
+        "label": "MSc Quantum Computer Science",
+        "observedAt": "2026-09-20T12:54:39.611Z",
+        "checkedAt": "2026-09-20T12:54:39.611Z",
+        "contentHash": "9e268746756810f54409f7e85a96bc82f6521f38c974009d788d8ebf07e7b27d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/software-engineering.html",
+        "type": "masters",
+        "label": "MSc Software Engineering",
+        "observedAt": "2026-09-20T12:54:42.045Z",
+        "checkedAt": "2026-09-20T12:54:42.045Z",
+        "contentHash": "00ff4a5615b6f972565d5ac4c778a0e9625fdc3c773ac46b099869f50bfb1d2e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/shared-content/programmas/en/masters/stochastics-and-financial-mathematics/stochastics-and-financial-mathematics.html",
+        "type": "masters",
+        "label": "MSc Stochastics and Financial Mathematics",
+        "observedAt": "2026-09-20T12:54:43.734Z",
+        "checkedAt": "2026-09-20T12:54:43.734Z",
+        "contentHash": "77f52620f147abe7a03de169438926885877d881813eb1512dc7a56e45ca3840",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uva.nl/en/shared-content/subsites/amsterdam-business-school/en/research-masters/business-data-science/business-data-science.html",
+        "type": "masters",
+        "label": "Research Master Business Data Science",
+        "observedAt": "2026-09-20T12:54:49.595Z",
+        "checkedAt": "2026-09-20T12:54:49.595Z",
+        "contentHash": "2390c85ead3c017038c1c22597e26765b7b481462039cd7fe29e97c6081d0d3c",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "fi-university-of-turku",
+    "name": "University of Turku",
+    "country": "FI",
+    "ror": "https://ror.org/05vghhr25",
+    "domains": [
+      "utu.fi"
+    ],
+    "officialUrl": "https://www.utu.fi",
+    "observedAt": "2026-09-20T13:06:14.664Z",
+    "sources": [
+      {
+        "url": "https://www.utu.fi/en/study-at-utu/bachelors-and-masters-degree-programmes",
+        "type": "index",
+        "label": "Índice oficial · University of Turku",
+        "observedAt": "2026-09-20T11:43:05.758Z",
+        "checkedAt": "2026-09-20T11:43:05.758Z",
+        "contentHash": "b7b23fcdb6943efd04b044e0b8a758eaead5434800fe89a653220d7d915ac2d3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.utu.fi/en/research/utugs/doctoral-programmes",
+        "type": "index",
+        "label": "Índice oficial · University of Turku",
+        "observedAt": "2026-09-20T11:45:45.230Z",
+        "checkedAt": "2026-09-20T11:45:45.230Z",
+        "contentHash": "42c2651400763ed863893eaf6269b7a343e573bf960ef39720be2080cd0bd86b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.utu.fi/en/research/utugs/exactus",
+        "type": "phd",
+        "label": "Doctoral Programme in Exact Sciences (EXACTUS)",
+        "observedAt": "2026-09-20T12:52:32.827Z",
+        "checkedAt": "2026-09-20T12:52:32.827Z",
+        "contentHash": "764490dffa4a2cc937e18e242b45aeb1ae561325aec3b7da357f5061482c8f01",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.utu.fi/en/research/utugs/dpt",
+        "type": "phd",
+        "label": "Doctoral Programme in Technology (DPT)",
+        "observedAt": "2026-09-20T12:52:34.143Z",
+        "checkedAt": "2026-09-20T12:52:34.143Z",
+        "contentHash": "967edd6f22549debf24d39eae8f1b7311c1c91cbb5b26481fa5a6fad4f1a8ffb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-information-and-communication-technology-cryptography",
+        "type": "masters",
+        "label": "MSc Information and Communication Technology",
+        "observedAt": "2026-09-20T12:53:49.981Z",
+        "checkedAt": "2026-09-20T12:53:49.981Z",
+        "contentHash": "a4874ecd867eff43957b733177167329a0d27b4c96db59948246304a639dc4d1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-exact-sciences-mathematics-and-statistics",
+        "type": "masters",
+        "label": "MSc Exact Sciences — Mathematics and Statistics",
+        "observedAt": "2026-09-20T12:53:50.878Z",
+        "checkedAt": "2026-09-20T12:53:50.878Z",
+        "contentHash": "2e9f084ee6ab81a3aec670bbbbb156c1551649b7e48659545b81b1fa53f9140b",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "fi-tampere-university",
+    "name": "Tampere University",
+    "country": "FI",
+    "ror": "https://ror.org/033003e23",
+    "domains": [
+      "tuni.fi"
+    ],
+    "officialUrl": "https://www.tuni.fi/en",
+    "observedAt": "2026-09-20T13:06:14.682Z",
+    "sources": [
+      {
+        "url": "https://www.tuni.fi/en/tau/masters-programmes",
+        "type": "index",
+        "label": "Índice oficial · Tampere University",
+        "observedAt": "2026-09-20T11:43:05.766Z",
+        "checkedAt": "2026-09-20T11:43:05.766Z",
+        "contentHash": "dc6ccc6392e2260199de257aa8b26345dbbf11d06e2405c6130af50d3f53d744",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tuni.fi/en/tau/doctoral-programmes",
+        "type": "phd",
+        "label": "Índice oficial · Tampere University",
+        "observedAt": "2026-09-20T11:43:05.767Z",
+        "checkedAt": "2026-09-20T11:43:05.767Z",
+        "contentHash": "92c3009ceb01ca3aeeea5473877e1c920ce952f5b33f3b582898b6b8b4880195",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tuni.fi/en/tau/doctoral-programmes/doctoral-programme-humans-and-technologies",
+        "type": "phd",
+        "label": "Doctoral Programme of Humans and Technologies",
+        "observedAt": "2026-09-20T12:52:30.554Z",
+        "checkedAt": "2026-09-20T12:52:30.554Z",
+        "contentHash": "f60a111c10c0a5f304a6fe38e2c3f76f8590d4f211f7c8d21b2c8fdbc5a2640f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tuni.fi/en/tau/doctoral-programmes/doctoral-programme-computing-and-electrical-engineering",
+        "type": "phd",
+        "label": "Doctoral Programme in Computing and Electrical Engineering",
+        "observedAt": "2026-09-20T12:52:32.818Z",
+        "checkedAt": "2026-09-20T12:52:32.818Z",
+        "contentHash": "a92139ba46fd0c6529fc521c89fca109e33f985d158b557ae98824634cdef364",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tuni.fi/en/tau/masters-programmes/human-technology-interaction-computing-sciences-and-electrical-engineering",
+        "type": "masters",
+        "label": "Master’s Programme in Computing Sciences and Electrical Engineering — Human-Technology Interaction",
+        "observedAt": "2026-09-20T12:53:54.349Z",
+        "checkedAt": "2026-09-20T12:53:54.349Z",
+        "contentHash": "83b83afe6899cd43e0241268a44e2403290bbb99c7582f991ce7ee18bdbcee24",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.tuni.fi/en/tau/masters-programmes/biomedical-informatics-biomedical-sciences-and-engineering",
+        "type": "masters",
+        "label": "MSc Biomedical Sciences and Engineering — Biomedical Informatics",
+        "observedAt": "2026-09-20T12:53:56.557Z",
+        "checkedAt": "2026-09-20T12:53:56.557Z",
+        "contentHash": "d5b075413bf723eea1467a6f4e6a8bae89ab49988678d585a1b76dc026e31527",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "fi-university-of-oulu",
+    "name": "University of Oulu",
+    "country": "FI",
+    "ror": "https://ror.org/03yj89h83",
+    "domains": [
+      "oulu.fi"
+    ],
+    "officialUrl": "https://www.oulu.fi",
+    "observedAt": "2026-09-20T13:06:14.695Z",
+    "sources": [
+      {
+        "url": "https://www.oulu.fi/en/apply/international-programmes",
+        "type": "index",
+        "label": "Índice oficial · University of Oulu",
+        "observedAt": "2026-09-20T11:43:06.160Z",
+        "checkedAt": "2026-09-20T11:43:06.160Z",
+        "contentHash": "c82310c39a2d1e3705e27ded191d69bdd5d51c081147f12eba7d4e1bffe634fe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.oulu.fi/en/research/graduate-school/thesis-requirements-and-doctoral-studies/doctoral-degree-programmes-and-major-subjects",
+        "type": "phd",
+        "label": "Doctoral Programme in Information Technology and Electrical Engineering",
+        "observedAt": "2026-09-20T12:52:43.806Z",
+        "checkedAt": "2026-09-20T12:52:43.806Z",
+        "contentHash": "e6e25633c6f37e7519c92a14eb723cf743fcc68cfc16c3dac5eb89e0d62ea558",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.oulu.fi/en/apply/masters-computer-science-and-engineering",
+        "type": "masters",
+        "label": "MSc Computer Science and Engineering",
+        "observedAt": "2026-09-20T12:53:51.727Z",
+        "checkedAt": "2026-09-20T12:53:51.727Z",
+        "contentHash": "48c8b1a695cc2fd857fae7c5eaac92944e5cee1341d16d9c7a770fb4db03517a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.oulu.fi/en/apply/masters-epidemiology-and-biomedical-data-science",
+        "type": "masters",
+        "label": "Master in Epidemiology and Biomedical Data Science",
+        "observedAt": "2026-09-20T12:54:01.603Z",
+        "checkedAt": "2026-09-20T12:54:01.603Z",
+        "contentHash": "5554966591f09954e3aef54d690cf0dffb46019539d21303ef5352f387f3fa9f",
+        "accessOutcome": "ok"
+      }
+    ]
   }
 ]
