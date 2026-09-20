@@ -1217,8 +1217,18 @@
         "discoveredFrom": "https://imprs.is.mpg.de/program",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.kyb.tuebingen.mpg.de/701943/cactues",
+        "type": "research",
+        "label": "CaCTüS · organización conjunta con MPI Biological Cybernetics y Tübingen AI Center",
+        "observedAt": "2026-09-20T14:19:31.754Z",
+        "checkedAt": "2026-09-20T14:19:31.754Z",
+        "contentHash": "0264b1c30e801081dd9b512f34426c057be92dc1e4d7a9d1be8d40f56f71cdeb",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/04fq9j139"
   },
   {
     "id": "gb-university-of-edinburgh",
@@ -6534,14 +6544,13 @@
         "contentHash": null
       },
       {
-        "type": "masters",
         "url": "https://www.sdu.dk/en/uddannelse/kandidat/data-science-kolding",
-        "label": "Data Science – Master’s in Denmark - SDU",
-        "status": "verified_http_content",
-        "checkedAt": "2026-09-19T20:55:33.412Z",
-        "observedAt": "2026-09-19T20:54:09.740Z",
-        "accessOutcome": "ok",
-        "contentHash": "9c8a78b10102d15eb6e4d8c50507f9a988e9ba282f7d46b7281385d6d7a56305"
+        "type": "masters",
+        "label": "Data Science, MSc",
+        "observedAt": "2026-09-20T14:06:07.907Z",
+        "checkedAt": "2026-09-20T14:06:07.907Z",
+        "contentHash": "0bab133790ecebc50193bf73152f4c76e60fb273c44142f50c9babbe6b0b0bea",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -6598,15 +6607,13 @@
         "contentHash": null
       },
       {
-        "type": "phd",
         "url": "https://www.sdu.dk/en/forskning/phd/naturvidenskabelig_phd_uddannelse",
-        "label": "PhD programme at the Faculty of Science",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:33.412Z",
-        "discoveredFrom": "https://www.sdu.dk/en/uddannelse/kandidat/data-science-kolding",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "phd",
+        "label": "PhD Science",
+        "observedAt": "2026-09-20T12:10:19.767Z",
+        "checkedAt": "2026-09-20T12:10:19.767Z",
+        "contentHash": "d3d20609ad5bce7425c7c6c8059233699e02971c42ed49bba615d40e292427b1",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -6631,15 +6638,13 @@
         "contentHash": null
       },
       {
-        "type": "phd",
         "url": "https://www.sdu.dk/en/forskning/phd/phdtek",
-        "label": "PhD Programme at the Faculty of Engineering",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:33.412Z",
-        "discoveredFrom": "https://www.sdu.dk/en/uddannelse/kandidat/data-science-kolding",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Southern Denmark",
+        "observedAt": "2026-09-19T22:56:36.957Z",
+        "checkedAt": "2026-09-19T22:56:36.957Z",
+        "contentHash": "43c92ef6b25793a405dd877d6a24b5e27148eb0193196652ffc1b6e3c31246e2",
+        "accessOutcome": "ok"
       },
       {
         "type": "jobs",
@@ -6695,8 +6700,90 @@
         "discoveredFrom": "https://www.sdu.dk/en/uddannelse/kandidat/anvendt_matematik/opbygning",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/alle-kandidatuddannelser",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Southern Denmark",
+        "observedAt": "2026-09-20T13:00:34.745Z",
+        "checkedAt": "2026-09-20T13:00:34.745Z",
+        "contentHash": "efa86917836e85ec0a0adc848da38006ed2671bc08a954d3a5977c42a83e16b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/anvendt_matematik",
+        "type": "masters",
+        "label": "Applied Mathematics, MSc",
+        "observedAt": "2026-09-20T10:36:53.850Z",
+        "checkedAt": "2026-09-20T10:36:53.850Z",
+        "contentHash": "2b7ce116b963915f7437a8aca2217d69732e5b7d354775f5ab2d2a73909bc7a9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/artificial-intelligence",
+        "type": "masters",
+        "label": "Artificial Intelligence, MSc",
+        "observedAt": "2026-09-20T14:06:05.598Z",
+        "checkedAt": "2026-09-20T14:06:05.598Z",
+        "contentHash": "7dd7345e198e2a0af6c4ecab4b1a46595a11d800389d51d0500fa564eb1c3909",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/computationalbiomedicine",
+        "type": "masters",
+        "label": "Computational Biomedicine, MSc",
+        "observedAt": "2026-09-20T14:06:06.267Z",
+        "checkedAt": "2026-09-20T14:06:06.267Z",
+        "contentHash": "5b101d96e4d3355fa3c7a4a6ccc29a3844e7b35c03b34e9ac7925f838fbbd49b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/datalogi",
+        "type": "masters",
+        "label": "Computer Science, MSc",
+        "observedAt": "2026-09-20T14:06:07.082Z",
+        "checkedAt": "2026-09-20T14:06:07.082Z",
+        "contentHash": "99984ca271c1046f170f0052e9dda4bedc7015d666ee08372bed2ce3ed641f93",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/matematik",
+        "type": "masters",
+        "label": "Mathematics, MSc",
+        "observedAt": "2026-09-20T14:06:15.111Z",
+        "checkedAt": "2026-09-20T14:06:15.111Z",
+        "contentHash": "2609bdecf394deaea7ab512f186765ca156beff8056355d64a3dbbbdb25ebf74",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/quantum-computing",
+        "type": "masters",
+        "label": "Quantum Computing, MSc",
+        "observedAt": "2026-09-20T14:06:15.928Z",
+        "checkedAt": "2026-09-20T14:06:15.928Z",
+        "contentHash": "202dd88381af6fe7c210fed087baee205aaeac26cb636b9997e0372d8a1d1b69",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/robotteknologi",
+        "type": "masters",
+        "label": "Robot Systems (Advanced Robotics Technology/Drones and Autonomous Systems)",
+        "observedAt": "2026-09-20T14:06:17.826Z",
+        "checkedAt": "2026-09-20T14:06:17.826Z",
+        "contentHash": "2bc1ce6124ce8b6a0e7cf258ea5abdfcece18c2af1cf30d094ce665c130dcda2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sdu.dk/en/uddannelse/kandidat/softwareengineering",
+        "type": "masters",
+        "label": "MSc Software Engineering",
+        "observedAt": "2026-09-20T11:55:50.991Z",
+        "checkedAt": "2026-09-20T11:55:50.991Z",
+        "contentHash": "a8915ede9f24e7157381516bd67858b7fdbb615b2ad208d6b5cb88933b57bd7f",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/03yrrjy16"
   },
   {
     "id": "dk-it-university-of-copenhagen",
@@ -6750,15 +6837,13 @@
         "contentHash": null
       },
       {
-        "type": "phd",
         "url": "https://en.itu.dk/Research/PhD-Programme",
-        "label": "PhD Programme",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:33.514Z",
-        "discoveredFrom": "https://en.itu.dk/Programmes/MSc-Programmes/Data-Science/",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "phd",
+        "label": "PhD at IT University of Copenhagen",
+        "observedAt": "2026-09-20T14:07:29.346Z",
+        "checkedAt": "2026-09-20T14:07:29.346Z",
+        "contentHash": "5e01db3053a2a2487ff6ffeffa499ac16085a342afdca46c6f89abb236c018f8",
+        "accessOutcome": "ok"
       },
       {
         "type": "jobs",
@@ -6825,8 +6910,81 @@
         "discoveredFrom": "https://en.itu.dk/Programmes/MSc-Programmes/Data-Science/",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://en.itu.dk/Programmes/MSc-Programmes",
+        "type": "index",
+        "label": "Índice o normativa oficial · IT University of Copenhagen",
+        "observedAt": "2026-09-20T12:58:44.847Z",
+        "checkedAt": "2026-09-20T12:58:44.847Z",
+        "contentHash": "929cd0ce63d3706ae47ce9363d838cd24bfccf60981f39b83efcf8c98d32c7c6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://itu.dk/Uddannelser/Kandidatuddannelser",
+        "type": "index",
+        "label": "Índice o normativa oficial · IT University of Copenhagen",
+        "observedAt": "2026-09-20T13:09:08.763Z",
+        "checkedAt": "2026-09-20T13:09:08.763Z",
+        "contentHash": "d9acdd5bd7daccad90cf87690e468f86b51cbfd78f8d6949d9443e1b4f736196",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.itu.dk/Programmes/MSc-Programmes/Computer-Science",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T14:06:00.895Z",
+        "checkedAt": "2026-09-20T14:06:00.895Z",
+        "contentHash": "5b2afaa60a8fc5b239cbdfec58de6e977694cd194aaef68acaf27805057b99f3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.itu.dk/Programmes/MSc-Programmes/Software-Design",
+        "type": "masters",
+        "label": "MSc Software Design",
+        "observedAt": "2026-09-20T14:06:02.544Z",
+        "checkedAt": "2026-09-20T14:06:02.544Z",
+        "contentHash": "d3a44db9bec256ce53dbfa4abf5d4da8e0a157e06cffb3ea88e5edd46df681a8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.itu.dk/Programmes/MSc-Programmes/Advanced-Software-Engineering",
+        "type": "masters",
+        "label": "MSc Advanced Software Engineering — industrial master",
+        "observedAt": "2026-09-20T14:06:03.131Z",
+        "checkedAt": "2026-09-20T14:06:03.131Z",
+        "contentHash": "055014f766c75854cca0afd49e11a2a6162ec06d0586ba64bdb26946fc8094c7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.itu.dk/Programmes/MSc-Programmes/Business-Analytics-and-Artificial-Intelligence",
+        "type": "masters",
+        "label": "MSc Business Analytics and Artificial Intelligence — industrial master",
+        "observedAt": "2026-09-20T14:07:06.740Z",
+        "checkedAt": "2026-09-20T14:07:06.740Z",
+        "contentHash": "51fbfb47b1e5e8af778939a78c35b3b125e1389dd7b86e3a333dccc024344e87",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.itu.dk/Programmes/MSc-Programmes/Digital-Design-and-Interactive-Technologies",
+        "type": "masters",
+        "label": "MSc Digital Design and Interactive Technologies",
+        "observedAt": "2026-09-20T10:45:55.712Z",
+        "checkedAt": "2026-09-20T10:45:55.712Z",
+        "contentHash": "8893b18527c3f2edad99958ade82a0ac10b7b8a10edffb752f7dbc7d9cab776a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.itu.dk/Programmes/MSc-Programmes/Games",
+        "type": "masters",
+        "label": "MSc Games",
+        "observedAt": "2026-09-20T14:07:07.411Z",
+        "checkedAt": "2026-09-20T14:07:07.411Z",
+        "contentHash": "7f805be15f1d355ce838464658f6d9095da7349b8a565e5ee7475614a993ff85",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/02309jg23"
   },
   {
     "id": "dk-aalborg-university",
@@ -6858,17 +7016,151 @@
         "contentHash": "7fa7c401fd5c276a2136ca678e0f703379a8a50299ad272e5e2da8cd0a8fdf65"
       },
       {
-        "type": "masters",
         "url": "https://studieordninger.aau.dk/2026/59",
-        "label": "Master’s degree",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:34.388Z",
-        "discoveredFrom": "https://studieordninger.aau.dk/2026/59/6625",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "index",
+        "label": "Índice o normativa oficial · Aalborg University",
+        "observedAt": "2026-09-19T23:34:31.224Z",
+        "checkedAt": "2026-09-19T23:34:31.224Z",
+        "contentHash": "31b7b4b7fb67d1502bd1c217fc103bba883cac73c9ef594133fe0902aff32f1d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/api/graphQLContent",
+        "type": "index",
+        "label": "Índice o normativa oficial · Aalborg University",
+        "observedAt": "2026-09-20T13:06:08.591Z",
+        "checkedAt": "2026-09-20T13:06:08.591Z",
+        "contentHash": "d126000eeef164a6322684123590f846362b11ecdabc16238adff8f99618f87a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.phd.aau.dk/eng/organization-and-management",
+        "type": "phd",
+        "label": "PhD Mathematics, Physics and Computational Science",
+        "observedAt": "2026-09-20T14:07:11.522Z",
+        "checkedAt": "2026-09-20T14:07:11.522Z",
+        "contentHash": "662dbb0c18353cec94fb64421783a2a2b23195c59e1806e13323d3c53b24e5e8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.phd.aau.dk/tech/organization-and-management",
+        "type": "phd",
+        "label": "PhD Computer Science",
+        "observedAt": "2026-09-20T14:07:12.169Z",
+        "checkedAt": "2026-09-20T14:07:12.169Z",
+        "contentHash": "6689ac612b84132239a057086b518dd799ee3a4546419a4dba82a9f8c3b5f2e7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/biomedical-engineering-and-informatics",
+        "type": "masters",
+        "label": "MSc Engineering — Biomedical Engineering and Informatics",
+        "observedAt": "2026-09-20T14:07:20.523Z",
+        "checkedAt": "2026-09-20T14:07:20.523Z",
+        "contentHash": "55ad4e0707e794c20474fc4d407f322aa53744a5d30e2b8d2085115f8898ebfd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/computer-engineering-kbh",
+        "type": "masters",
+        "label": "MSc Engineering — Computer Engineering",
+        "observedAt": "2026-09-20T14:07:21.091Z",
+        "checkedAt": "2026-09-20T14:07:21.091Z",
+        "contentHash": "ce948324ff1add8cf4f217fe1f093fd2838a4bf18d75dd54c02ad0f36debaf24",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/cyber-security",
+        "type": "masters",
+        "label": "MSc Engineering — Cyber Security",
+        "observedAt": "2026-09-20T14:07:22.044Z",
+        "checkedAt": "2026-09-20T14:07:22.044Z",
+        "contentHash": "7b4db1058e59c5bf178e4ed4f38ac11ef809f2e22dbb0af5992d152ad4a6a635",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/datalogi",
+        "type": "masters",
+        "label": "MSc Computer Science (Datalogi)",
+        "observedAt": "2026-09-20T14:07:22.783Z",
+        "checkedAt": "2026-09-20T14:07:22.783Z",
+        "contentHash": "2e061809e0d54d957fd03ad0ad1e449480e8573debd6116d638772584421bbde",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/computer-science-it",
+        "type": "masters",
+        "label": "MSc Computer Science (IT)",
+        "observedAt": "2026-09-20T14:07:23.625Z",
+        "checkedAt": "2026-09-20T14:07:23.625Z",
+        "contentHash": "e79ac2daefc9867ce7e06a0d9fe9115d4bd3e79e48a7ac6d0b709205dc97d995",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/datavidenskab-og-machine-learning",
+        "type": "masters",
+        "label": "MSc Data Science and Machine Learning",
+        "observedAt": "2026-09-20T14:07:24.385Z",
+        "checkedAt": "2026-09-20T14:07:24.385Z",
+        "contentHash": "c2bf9fb5373dbd376fd9393bba2d034c5a1c59e9d292c8e182f64a92c7879400",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/information-studies",
+        "type": "masters",
+        "label": "MSc Information Technology — Information Studies",
+        "observedAt": "2026-09-20T14:07:25.238Z",
+        "checkedAt": "2026-09-20T14:07:25.238Z",
+        "contentHash": "101b5fb74b18477d0d710bb398f9caf71f8a89411f3036e269295e3c5a236a0d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/robotics",
+        "type": "masters",
+        "label": "MSc Engineering — Robotics",
+        "observedAt": "2026-09-20T14:07:26.002Z",
+        "checkedAt": "2026-09-20T14:07:26.002Z",
+        "contentHash": "de6bdb8787374c4032e89cf5e95a60a44c74e0d1606c054ff1a0e9f5e3827bce",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/software",
+        "type": "masters",
+        "label": "MSc Engineering — Software",
+        "observedAt": "2026-09-20T14:07:26.823Z",
+        "checkedAt": "2026-09-20T14:07:26.823Z",
+        "contentHash": "f0575e68c75b420e968ea0f98c6f2362b3f14df950069b70d98057dab4d6b5e8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/matematik",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T14:07:27.559Z",
+        "checkedAt": "2026-09-20T14:07:27.559Z",
+        "contentHash": "074337d5aa53836f33df1ce9d556f3dd9a89c78edeb4ab8daa4d91ce0974e722",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/matematik-teknologi",
+        "type": "masters",
+        "label": "MSc Engineering — Mathematical Engineering",
+        "observedAt": "2026-09-20T14:07:28.396Z",
+        "checkedAt": "2026-09-20T14:07:28.396Z",
+        "contentHash": "2b8617e2fcd2b72534a71ddc7ab2d37b2077f37b94074517d8ae173fa3baef46",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.aau.dk/uddannelser/kandidat/matematik-oekonomi",
+        "type": "masters",
+        "label": "MSc Mathematics-Economics",
+        "observedAt": "2026-09-20T14:07:29.192Z",
+        "checkedAt": "2026-09-20T14:07:29.192Z",
+        "contentHash": "50a2ba41631ce33ef16f54568c16bc0465329e1ae0265546f859df6db801512a",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/04m5j1k67"
   },
   {
     "id": "no-university-of-oslo",
@@ -6976,8 +7268,36 @@
         "observedAt": "2026-09-19T20:54:09.741Z",
         "accessOutcome": "ok",
         "contentHash": "d9ba35d37217ee1e2bbb002e14b8955b7e70c24fd3eae2955166893c3ce0cfe7"
+      },
+      {
+        "url": "https://www.nmbu.no/api/search/all/study_program?q=&locale=en",
+        "type": "index",
+        "label": "Índice o normativa oficial · Norwegian University of Life Sciences",
+        "observedAt": "2026-09-20T13:06:09.239Z",
+        "checkedAt": "2026-09-20T13:06:09.239Z",
+        "contentHash": "3605caccd3ea0e96d2f53c664399fe59b90432056c33e2509b3d97b5282b20fc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nmbu.no/en/studies/phd/science-and-technology",
+        "type": "phd",
+        "label": "PhD Science and Technology",
+        "observedAt": "2026-09-20T14:07:10.335Z",
+        "checkedAt": "2026-09-20T14:07:10.335Z",
+        "contentHash": "31e2ddda7968a3639acc73c1ee78e217c8e87db129dac12f0f0025dbd0ac6840",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.nmbu.no/en/studies/phd/life-and-food-sciences",
+        "type": "phd",
+        "label": "PhD Life and Food Sciences",
+        "observedAt": "2026-09-20T14:07:11.721Z",
+        "checkedAt": "2026-09-20T14:07:11.721Z",
+        "contentHash": "93b45455a782f7d6c92c29b891e2377ac4d42ffb470689bb6399cd6ded30307f",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/04a1mvv97"
   },
   {
     "id": "no-university-of-bergen",
@@ -7038,8 +7358,81 @@
         "discoveredFrom": "https://www4.uib.no/en/studies/programmes/informatics-masters",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www4.uib.no/en/studies/programmes?study_level=master&teachinglanguage=english&page=0",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Bergen",
+        "observedAt": "2026-09-20T13:03:08.411Z",
+        "checkedAt": "2026-09-20T13:03:08.411Z",
+        "contentHash": "e25af6b0dc3211eb8770f550980bb22fba14b1cb7d267c35090659514f853d41",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www4.uib.no/en/studies/programmes?study_level=master&teachinglanguage=english&page=1",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Bergen",
+        "observedAt": "2026-09-20T13:03:09.410Z",
+        "checkedAt": "2026-09-20T13:03:09.410Z",
+        "contentHash": "d2a5b47c40db6e016cea013e6c77863ac2d09c8ef3599aec1da480e59613e75c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www4.uib.no/en/studies/programmes?study_level=master&teachinglanguage=english&page=2",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Bergen",
+        "observedAt": "2026-09-20T13:03:09.556Z",
+        "checkedAt": "2026-09-20T13:03:09.556Z",
+        "contentHash": "56f9d5b5b15bd69db5e51509fc43d30f7ffd32b08ff8f576a21ba7bc8d2873ee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www4.uib.no/en/studies/programmes?study_level=master&teachinglanguage=english&page=3",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Bergen",
+        "observedAt": "2026-09-20T13:03:09.656Z",
+        "checkedAt": "2026-09-20T13:03:09.656Z",
+        "contentHash": "f39ca8056b5ef58501ecb9266a36045e08da722e4b7aa75905e27f00e0501eb0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www4.uib.no/en/faculty-of-science-and-technology/research-at-the-faculty-of-science-and-technology/the-phd-programme-at-the-faculty-of-science-and-technology",
+        "type": "phd",
+        "label": "PhD Science and Technology — Computer and Information Science route",
+        "observedAt": "2026-09-20T14:11:33.672Z",
+        "checkedAt": "2026-09-20T14:11:33.672Z",
+        "contentHash": "e058c879982ab6f0ff021f52fe8bc1e0aa5fcbe966c9ab89396e0974b92de879",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www4.uib.no/en/studies/programmes/applied-and-computational-mathematics-masters",
+        "type": "masters",
+        "label": "Applied and Computational Mathematics (Master's)",
+        "observedAt": "2026-09-20T14:06:50.481Z",
+        "checkedAt": "2026-09-20T14:06:50.481Z",
+        "contentHash": "ca1a2390b22578fcf7576457a59a60748ded61b267dc07f39abcab35ae249a41",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www4.uib.no/en/studies/programmes/joint-masters-in-software-engineering-masters",
+        "type": "masters",
+        "label": "Joint Master’s in Software Engineering (Master's)",
+        "observedAt": "2026-09-20T14:06:51.366Z",
+        "checkedAt": "2026-09-20T14:06:51.366Z",
+        "contentHash": "4ff31db61d4590d4e40be2ead9d2727178883dff2a5646525f6e73503474f304",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www4.uib.no/en/studies/programmes/statistics-and-data-science-masters",
+        "type": "masters",
+        "label": "Statistics and Data Science (Master’s)",
+        "observedAt": "2026-09-20T14:06:52.187Z",
+        "checkedAt": "2026-09-20T14:06:52.187Z",
+        "contentHash": "b19552b3987ef0a0077d4e05b590d0ac171afa67737ce67adaeff3de1901a144",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/03zga2b32"
   },
   {
     "id": "no-university-of-stavanger",
@@ -7081,17 +7474,61 @@
         "contentHash": null
       },
       {
-        "type": "phd",
         "url": "https://www.uis.no/en/studies/research/energy/phd-programme-in-science-and-technology",
-        "label": "PhD programme in Science and Technology with relevant specialisation at the University of Stavanger",
-        "status": "observed_institutional_link",
-        "checkedAt": null,
-        "observedAt": "2026-09-19T20:55:36.993Z",
-        "discoveredFrom": "https://www.uis.no/en/studies/data-science-master",
-        "accessOutcome": "not_fetched",
-        "contentHash": null
+        "type": "phd",
+        "label": "PhD Science and Technology",
+        "observedAt": "2026-09-20T14:07:10.139Z",
+        "checkedAt": "2026-09-20T14:07:10.139Z",
+        "contentHash": "e000ecfb2834d2d5b4743119af59eeb9092fb7c235caec4d115403ef475e2e44",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uis.no/en/studietilbud",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Stavanger",
+        "observedAt": "2026-09-20T13:00:35.258Z",
+        "checkedAt": "2026-09-20T13:00:35.258Z",
+        "contentHash": "836187a9a95f24c92f742d135f90987bf0af69fc86a40c6ec929e8c8beb8bdd3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uis.no/nb/studietilbud",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Stavanger",
+        "observedAt": "2026-09-20T13:00:35.570Z",
+        "checkedAt": "2026-09-20T13:00:35.570Z",
+        "contentHash": "fd63465aca748437dc745ca813246575f4a4d80f46c6f4cb8d2c72d541bf86db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uis.no/en/studies/computational-engineering-master",
+        "type": "masters",
+        "label": "Computational Engineering – Master",
+        "observedAt": "2026-09-20T14:06:22.235Z",
+        "checkedAt": "2026-09-20T14:06:22.235Z",
+        "contentHash": "f4264dd1bac02f081cc642713d7af07381adbe16822d5379f4e754e8565ea3c5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uis.no/en/studies/computer-science-master",
+        "type": "masters",
+        "label": "Computer Science – Master",
+        "observedAt": "2026-09-20T14:06:23.796Z",
+        "checkedAt": "2026-09-20T14:06:23.796Z",
+        "contentHash": "a7dd57c57a139e19fa21ba02929cab0a06c71ff6398e245f138e3a489d3977b1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uis.no/en/studies/mathematics-and-physics-master",
+        "type": "masters",
+        "label": "Mathematics and Physics – Master",
+        "observedAt": "2026-09-20T14:06:24.912Z",
+        "checkedAt": "2026-09-20T14:06:24.912Z",
+        "contentHash": "68aa6a8bf138c5e682a7a738c7b5a73743ad600e4a54ed62d5414775729ac654",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/02qte9q33"
   },
   {
     "id": "no-uit-the-arctic-university-of-norway",
@@ -7129,8 +7566,72 @@
         "observedAt": "2026-09-19T20:54:09.741Z",
         "accessOutcome": "ok",
         "contentHash": "6c934ddc9f701d4b9ee87bd616721ccad218931f9f8fbc46767ca2459dc3dc2e"
+      },
+      {
+        "url": "https://uit.no/utdanning",
+        "type": "index",
+        "label": "Índice o normativa oficial · UiT The Arctic University of Norway",
+        "observedAt": "2026-09-20T13:00:35.145Z",
+        "checkedAt": "2026-09-20T13:00:35.145Z",
+        "contentHash": "5703a5d2e3c53f36ab00d87ce0aedf4c0b455fb5deae8892efe59c39916d3851",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uit.no/utdanning/program/660951/phd_programme_in_engineering_science",
+        "type": "index",
+        "label": "Índice o normativa oficial · UiT The Arctic University of Norway",
+        "observedAt": "2026-09-20T13:36:23.843Z",
+        "checkedAt": "2026-09-20T13:36:23.843Z",
+        "contentHash": "4ae17cfcd680736624fb4ca2ebef7ee0f3f6620216ad3e053823eb47a669a5ee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uit.no/utdanning/program/659221/phd_programme_in_natural_science",
+        "type": "index",
+        "label": "Índice o normativa oficial · UiT The Arctic University of Norway",
+        "observedAt": "2026-09-20T13:36:23.845Z",
+        "checkedAt": "2026-09-20T13:36:23.845Z",
+        "contentHash": "484d8847f390ca78b40da44b7cba4ae96cb1294b1dbcbe4c30c7b46a276555e8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uit.no/utdanning/program/660392/phd_programme_in_science",
+        "type": "phd",
+        "label": "PhD Science",
+        "observedAt": "2026-09-20T14:07:12.649Z",
+        "checkedAt": "2026-09-20T14:07:12.649Z",
+        "contentHash": "88f2203e879436a8e24887b7ce593510549b76f5c3434796d43b61c95a6fd135",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uit.no/utdanning/program/446261/applied_computer_science_-_master",
+        "type": "masters",
+        "label": "Applied Computer Science",
+        "observedAt": "2026-09-20T14:06:52.985Z",
+        "checkedAt": "2026-09-20T14:06:52.985Z",
+        "contentHash": "33a989deb5d968182e5b2d80f580e6dfec19738a7c2c1f35f654e40b4cedf5c7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uit.no/utdanning/program/271264/computational_chemistry_-_master",
+        "type": "masters",
+        "label": "Computational chemistry",
+        "observedAt": "2026-09-20T14:06:56.060Z",
+        "checkedAt": "2026-09-20T14:06:56.060Z",
+        "contentHash": "2971401b171aeff5f88f4436a274e56f0b19f3eda57895c46518953fbca889c0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://uit.no/utdanning/program/270766/mathematical_sciences_-_master",
+        "type": "masters",
+        "label": "Mathematical Sciences",
+        "observedAt": "2026-09-20T14:06:58.037Z",
+        "checkedAt": "2026-09-20T14:06:58.037Z",
+        "contentHash": "a32fe939807f943b301b82562adbc97ae98f69473988162fe8421f544509bcd2",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/00wge5k78"
   },
   {
     "id": "no-oslo-metropolitan-university",
@@ -7418,14 +7919,13 @@
     "coverageStatus": "subject_source_verified",
     "sources": [
       {
-        "type": "masters",
         "url": "https://www.su.se/english/education/course-catalogue/nm/nmsmm",
-        "label": "NMSMM - Stockholms universitet",
-        "status": "verified_http_content",
-        "checkedAt": "2026-09-19T20:55:39.701Z",
-        "observedAt": "2026-09-19T20:54:09.741Z",
-        "accessOutcome": "ok",
-        "contentHash": "e9e8c06f0ed1405906db8af0e005707ef06f215eba88425c22e706052f57fc0e"
+        "type": "masters",
+        "label": "Master's Programme in Mathematical Statistics and Machine Learning",
+        "observedAt": "2026-09-20T14:06:27.571Z",
+        "checkedAt": "2026-09-20T14:06:27.571Z",
+        "contentHash": "906e3c1e20ec9bc075187d67d564387cd071f96e7d5a6a41d05936791b242588",
+        "accessOutcome": "ok"
       },
       {
         "type": "funding",
@@ -7448,8 +7948,90 @@
         "discoveredFrom": "https://www.su.se/english/education/course-catalogue/nm/nmsmm",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.su.se/appresource/4.3ff0275418f3840b5e81988e/12.61cb70d01961e09c14243ec/search",
+        "type": "index",
+        "label": "Índice o normativa oficial · Stockholm University",
+        "observedAt": "2026-09-20T13:06:10.020Z",
+        "checkedAt": "2026-09-20T13:06:10.020Z",
+        "contentHash": "371ad864aac31c41c2d83479108665f9b48b71e8d6cf588eac80b827bd2f677a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/divisions/department-of-mathematics/education/courses-and-programmes/phd-studies",
+        "type": "phd",
+        "label": "PhD studies in Mathematics, Mathematical Statistics and Computational Mathematics",
+        "observedAt": "2026-09-20T14:07:12.980Z",
+        "checkedAt": "2026-09-20T14:07:12.980Z",
+        "contentHash": "76112b4b6a5c5b56f6dc8a711ecadc1222948a9e174d4381fd2a1668a4ef682a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/education/course-catalogue/nm/nmbmo",
+        "type": "masters",
+        "label": "Master's Programme in Computational Mathematics",
+        "observedAt": "2026-09-20T11:13:22.338Z",
+        "checkedAt": "2026-09-20T11:13:22.338Z",
+        "contentHash": "19771905c08b372af2a35b73a71979586ed926e1e4fa442889ce4b06dac82979",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/education/course-catalogue/nb/nbefo",
+        "type": "masters",
+        "label": "Master's Programme in Computational Physics",
+        "observedAt": "2026-09-20T14:06:25.651Z",
+        "checkedAt": "2026-09-20T14:06:25.651Z",
+        "contentHash": "46513813b79451e43875e5ac577b40a6ad59a3929e1fb9347de5b5d8aa0d02d8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/education/course-catalogue/sc/scsso",
+        "type": "masters",
+        "label": "Master's Programme in Computer and Systems Sciences",
+        "observedAt": "2026-09-20T14:06:26.812Z",
+        "checkedAt": "2026-09-20T14:06:26.812Z",
+        "contentHash": "add6704df029df3f66090f91b5feb8fc9619432b324aec87df4bb82fff40f4b3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/education/course-catalogue/ss/sstao",
+        "type": "masters",
+        "label": "Master's Programme in Statistics",
+        "observedAt": "2026-09-20T14:06:28.513Z",
+        "checkedAt": "2026-09-20T14:06:28.513Z",
+        "contentHash": "27fe876a2253a5de4bae1b93de3ae27440c605d6bc1c5d9823d068e29b1bf3e4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/education/course-catalogue/sd/sdsbo",
+        "type": "masters",
+        "label": "Master’s Program in Data Science, Statistics and Decision Analysis",
+        "observedAt": "2026-09-20T14:06:29.129Z",
+        "checkedAt": "2026-09-20T14:06:29.129Z",
+        "contentHash": "411bd0e78e1c92c4657dc44fb720a4662db8d4148a5b596874fe9fc7d8670a36",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/education/course-catalogue/ss/sslio",
+        "type": "masters",
+        "label": "Master’s Programme in Strategic Information Systems Management",
+        "observedAt": "2026-09-20T14:06:29.922Z",
+        "checkedAt": "2026-09-20T14:06:29.922Z",
+        "contentHash": "53d13463be9680a6cdfa432dbd2c925ea3d88094e64de4c941a04f2dcec53f18",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.su.se/english/education/course-catalogue/sm/smino",
+        "type": "masters",
+        "label": "MSc Information Security",
+        "observedAt": "2026-09-20T14:07:28.538Z",
+        "checkedAt": "2026-09-20T14:07:28.538Z",
+        "contentHash": "0beb702b71b1097f13671b4c37546db14fde3d1cedd6454f718232cd5ef41bdc",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/05f0yaq80"
   },
   {
     "id": "se-uppsala-university",
@@ -7545,8 +8127,72 @@
         "discoveredFrom": "https://www.uu.se/en/study/outline?query=2555",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.uu.se/en/staff/faculty/science-and-technology/education-and-teaching/doctoral-studies/subjects-and-study-plans/subjects",
+        "type": "index",
+        "label": "Índice o normativa oficial · Uppsala University",
+        "observedAt": "2026-09-20T13:09:06.921Z",
+        "checkedAt": "2026-09-20T13:09:06.921Z",
+        "contentHash": "f513d5918b79bd277f7dec062f49b206f11bc00c230b12a6d7ba52718e6791e5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.se/en/study/masters-studies/masters-programmes/subjects/information-technology-and-data-science",
+        "type": "index",
+        "label": "Índice o normativa oficial · Uppsala University",
+        "observedAt": "2026-09-20T13:14:41.858Z",
+        "checkedAt": "2026-09-20T13:14:41.858Z",
+        "contentHash": "5eab0a1edf39942853c4088e7c2b74ffbfdae4a039858f1903dc0331ac361648",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.se/en/study/masters-studies/masters-programmes/subjects/mathematics-and-statistics",
+        "type": "index",
+        "label": "Índice o normativa oficial · Uppsala University",
+        "observedAt": "2026-09-20T13:14:41.865Z",
+        "checkedAt": "2026-09-20T13:14:41.865Z",
+        "contentHash": "7cd5dc96ea009447c0e92354423791d0b334ee50f29a493664a855bc987f6b5a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.se/en/study/programme/masters-programme-computer-science",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T14:07:03.743Z",
+        "checkedAt": "2026-09-20T14:07:03.743Z",
+        "contentHash": "56c862c3e783a0ddfd88c1ef9dd35a87ccbab37cca99f93bcbc4557e8a909cf2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.se/en/study/programme/masters-programme-embedded-systems",
+        "type": "masters",
+        "label": "MSc Embedded Systems",
+        "observedAt": "2026-09-20T14:07:04.777Z",
+        "checkedAt": "2026-09-20T14:07:04.777Z",
+        "contentHash": "d069ecd7d1e8e983dcc345539fbb5edb2824bb5f428538482d64033c4ee31f53",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.se/en/study/programme/masters-programme-human-computer-interaction",
+        "type": "masters",
+        "label": "MSc Human–Computer Interaction",
+        "observedAt": "2026-09-20T14:07:05.602Z",
+        "checkedAt": "2026-09-20T14:07:05.602Z",
+        "contentHash": "c8346921fec892c2cbde9ad08057fbd44404d0d25a5ed955f60759677b2569fc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uu.se/en/study/programme/masters-programme-information-systems",
+        "type": "masters",
+        "label": "MSc Information Systems",
+        "observedAt": "2026-09-20T14:07:06.324Z",
+        "checkedAt": "2026-09-20T14:07:06.324Z",
+        "contentHash": "34fa188e92e7b48f9094b948a1804d614f778ea598eb92b80ea619203ecb0fb7",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/048a87296"
   },
   {
     "id": "se-linkoping-university",
@@ -7630,8 +8276,117 @@
         "discoveredFrom": "https://liu.se/en/article/forskarutbildning-i-datalogi",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://liu.se/forskning/forskarutbildning/forskarutbildningsamnen",
+        "type": "index",
+        "label": "Índice o normativa oficial · Linköping University",
+        "observedAt": "2026-09-20T13:00:33.350Z",
+        "checkedAt": "2026-09-20T13:00:33.350Z",
+        "contentHash": "00e7acff75ea4d8d791a25fab4acdabd9d7941f280675d5d37415186bb577a76",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/dfsmedia/dd35e243dfb7406993c1815aaf88a675/113417-source/options/download/intl-programmes-2026-webb",
+        "type": "index",
+        "label": "Índice o normativa oficial · Linköping University",
+        "observedAt": "2026-09-20T13:09:08.714Z",
+        "checkedAt": "2026-09-20T13:09:08.714Z",
+        "contentHash": "b4251bc4514d0c50e3490d288d9633376fe0c249b05667fef55137c725dae753",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/en/education/program/6mics",
+        "type": "masters",
+        "label": "MSc Computer Science",
+        "observedAt": "2026-09-20T14:07:07.424Z",
+        "checkedAt": "2026-09-20T14:07:07.424Z",
+        "contentHash": "daa37c66a0a5e5c5397c79826873bc4d162042f839b2a65e20e0876bb4f1bf48",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/en/education/program/f7mcd",
+        "type": "masters",
+        "label": "MSc Computational Social Science",
+        "observedAt": "2026-09-20T14:07:08.167Z",
+        "checkedAt": "2026-09-20T14:07:08.167Z",
+        "contentHash": "c7f1efd88d935fb79f7807789b04241eef010a62f5ef53de46764c4331f47a11",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/en/education/program/6mcys",
+        "type": "masters",
+        "label": "MSc Cybersecurity",
+        "observedAt": "2026-09-20T11:56:44.391Z",
+        "checkedAt": "2026-09-20T11:56:44.391Z",
+        "contentHash": "87b6bbe53a58f992f78364474f7029f077b473f8639fc3315dd56b00043bc0b1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieinfo.liu.se/en/program/6MDSI/6098",
+        "type": "masters",
+        "label": "MSc Data Science and Information Engineering",
+        "observedAt": "2026-09-20T14:07:08.173Z",
+        "checkedAt": "2026-09-20T14:07:08.173Z",
+        "contentHash": "d4e1bf15f0f541015ba7526688084cd6528b6bec556dcc23ca75d20e3fed29ff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studieinfo.liu.se/en/program/6mtsl/",
+        "type": "masters",
+        "label": "MSc Intelligent Transport Systems and Logistics",
+        "observedAt": "2026-09-20T14:07:09.489Z",
+        "checkedAt": "2026-09-20T14:07:09.489Z",
+        "contentHash": "1ab493165c453387f98996d02172f7388d297724bd07ba73aa04bfba69121654",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/artikel/forskarutbildning-inom-informationssystem",
+        "type": "phd",
+        "label": "PhD Information Systems",
+        "observedAt": "2026-09-20T14:07:13.334Z",
+        "checkedAt": "2026-09-20T14:07:13.334Z",
+        "contentHash": "0838c339f0e5f2a422c37ec145a131f778f5b1d45589667b6d40246b8a64b5c7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/artikel/forskarutbildning-i-statistik",
+        "type": "phd",
+        "label": "PhD Statistics",
+        "observedAt": "2026-09-20T14:07:13.897Z",
+        "checkedAt": "2026-09-20T14:07:13.897Z",
+        "contentHash": "44095dbfacf98d1e5b773c6213e9d45b35e8f548867d92583c3e14dcf37b26c0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/artikel/forskarutbildning-i-infrainformatik",
+        "type": "phd",
+        "label": "PhD Infra Informatics",
+        "observedAt": "2026-09-20T14:07:14.457Z",
+        "checkedAt": "2026-09-20T14:07:14.457Z",
+        "contentHash": "f79e9a822481c818025a1f5e64ac144d6610f7aae9e9b7840bbad54c10dc7527",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/artikel/forskarutbildning-i-matematiska-vetenskaper",
+        "type": "phd",
+        "label": "PhD Mathematical Sciences",
+        "observedAt": "2026-09-20T14:07:16.636Z",
+        "checkedAt": "2026-09-20T14:07:16.636Z",
+        "contentHash": "3aedcb6d94bf1e7d525b2b0d94d56a70f1a1db974caa31efcba19f43b03bbe9e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://liu.se/artikel/forskarutbildning-i-teori-och-modellering-inom-naturvetenskap",
+        "type": "phd",
+        "label": "PhD Theory and Modelling in Natural Sciences",
+        "observedAt": "2026-09-20T14:07:18.488Z",
+        "checkedAt": "2026-09-20T14:07:18.488Z",
+        "contentHash": "6aedb07603a2ab8e4a2053aae99c3a5f88b0ce46c3a3080a06a081ffd32419cf",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/05ynxx418"
   },
   {
     "id": "se-kth-royal-institute-of-technology",
@@ -7810,8 +8565,171 @@
         "observedAt": "2026-09-19T20:54:09.741Z",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/find-education/business-economics-and-management",
+        "type": "index",
+        "label": "Índice o normativa oficial · Lund University",
+        "observedAt": "2026-09-20T13:09:06.536Z",
+        "checkedAt": "2026-09-20T13:09:06.536Z",
+        "contentHash": "2f454eaa265cda8f632aa78fdc7d37aa9d1464fa2eeaeecacb2ce88b92b1e620",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/find-education/engineering-and-technology",
+        "type": "index",
+        "label": "Índice o normativa oficial · Lund University",
+        "observedAt": "2026-09-20T13:09:06.537Z",
+        "checkedAt": "2026-09-20T13:09:06.537Z",
+        "contentHash": "dad4b68f6e9985050f697325dd87e483973eaccfe8a169cb3347b3c47061d4a1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/find-education/science",
+        "type": "index",
+        "label": "Índice o normativa oficial · Lund University",
+        "observedAt": "2026-09-20T13:09:06.537Z",
+        "checkedAt": "2026-09-20T13:09:06.537Z",
+        "contentHash": "cb7c9a66730757d556b2ed260708e1362589e238a1b23dc3d6d07a16c5012aa8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/find-education/social-sciences",
+        "type": "index",
+        "label": "Índice o normativa oficial · Lund University",
+        "observedAt": "2026-09-20T13:09:06.537Z",
+        "checkedAt": "2026-09-20T13:09:06.537Z",
+        "contentHash": "81cd3420433309aaa77a0528c3f14c7b6065a57bdda156eaed12cdb56b1e10b8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.science.lu.se/education/programmes-and-courses/doctoral-studies",
+        "type": "index",
+        "label": "Índice o normativa oficial · Lund University",
+        "observedAt": "2026-09-20T12:04:49.793Z",
+        "checkedAt": "2026-09-20T12:04:49.793Z",
+        "contentHash": "453cd2d0ad873b43cb3dd23f5aa5932dde6f1ce6183f07f85a30614a802c485f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/information-systems-masters-programme-one-year-EAGSY",
+        "type": "masters",
+        "label": "MSc Information Systems — one year",
+        "observedAt": "2026-09-20T14:06:56.556Z",
+        "checkedAt": "2026-09-20T14:06:56.556Z",
+        "contentHash": "9486a5f2d92693c9214623a82e92ab7159848190268dddbc698ee4a56bf48aa8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/applied-computational-science-biology-master-programme-NATBV-TBBO",
+        "type": "masters",
+        "label": "Master in Applied Computational Science",
+        "observedAt": "2026-09-20T14:06:57.062Z",
+        "checkedAt": "2026-09-20T14:06:57.062Z",
+        "contentHash": "67ad6085663d3cad303073fc879bfa539c35e0d1592e80155ee7bb72ea511ffe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/bioinformatics-master-programme-NABIN",
+        "type": "masters",
+        "label": "MSc Bioinformatics",
+        "observedAt": "2026-09-20T14:06:57.882Z",
+        "checkedAt": "2026-09-20T14:06:57.882Z",
+        "contentHash": "aa74789ae697478455973db88b38f92b78d5466929d7c32e28f40c8319868384",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/computational-science-geoscience-master-programme-NABER-BEGE",
+        "type": "masters",
+        "label": "Master in Computational Science",
+        "observedAt": "2026-09-20T14:07:00.055Z",
+        "checkedAt": "2026-09-20T14:07:00.055Z",
+        "contentHash": "83ad6549ee946cdd66906a246e9992c27c1b3f4983ac3a6436322325d95a858f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/gis-and-remote-sensing-master-programme-NAGIS",
+        "type": "masters",
+        "label": "MSc GIS and Remote Sensing",
+        "observedAt": "2026-09-20T14:07:02.127Z",
+        "checkedAt": "2026-09-20T14:07:02.127Z",
+        "contentHash": "ffea5b61ec174071164735ef50798c9079ae51b310c21f76e2f5f666ae477da4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/mathematical-statistics-master-programme-NAMAS",
+        "type": "masters",
+        "label": "MSc Mathematical Statistics",
+        "observedAt": "2026-09-20T14:07:02.693Z",
+        "checkedAt": "2026-09-20T14:07:02.693Z",
+        "contentHash": "31e01b25f8643f5e0aec0100cf76be054f078c6e8edf4328f0e5b351bb8cfbcd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/mathematics-master-programme-NAMAT",
+        "type": "masters",
+        "label": "MSc Mathematics",
+        "observedAt": "2026-09-20T14:07:03.984Z",
+        "checkedAt": "2026-09-20T14:07:03.984Z",
+        "contentHash": "49d0673a3a0e71e119408d0337a527508b9a40df1e1e5c85e9271a4d170cef4e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lunduniversity.lu.se/study/social-scientific-data-analysis-master-of-science-programme-SASDA",
+        "type": "masters",
+        "label": "MSc Social Scientific Data Analysis",
+        "observedAt": "2026-09-20T14:07:04.688Z",
+        "checkedAt": "2026-09-20T14:07:04.688Z",
+        "contentHash": "fb00ad34d34e570d86f75e65c518733ababcd6e6bc619d0b31099fac5e0431f6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.science.lu.se/sites/science.lu.se/files/2024-05/Mathematical%20Statistics%20general%20syllabus%202020.pdf",
+        "type": "phd",
+        "label": "PhD Mathematical Statistics",
+        "observedAt": "2026-09-20T14:07:16.755Z",
+        "checkedAt": "2026-09-20T14:07:16.755Z",
+        "contentHash": "a8524ca1ad6335a61fada218c2e8f72c5bd55d25b6cc0d9c84a988a0483b957b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.science.lu.se/sites/science.lu.se/files/2024-05/Computational%20Chemistry%20general%20syllabus%202024.pdf",
+        "type": "phd",
+        "label": "PhD Computational Chemistry",
+        "observedAt": "2026-09-20T14:07:18.319Z",
+        "checkedAt": "2026-09-20T14:07:18.319Z",
+        "contentHash": "d2df8138bf560b9a1317801691f79f32038d4b0544bc41689ef6498a14651ff1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.science.lu.se/sites/science.lu.se/files/2024-10/ASP_computational-science.pdf",
+        "type": "phd",
+        "label": "PhD Computational Science",
+        "observedAt": "2026-09-20T14:07:18.613Z",
+        "checkedAt": "2026-09-20T14:07:18.613Z",
+        "contentHash": "aa4e7a8531949bbcf0f6b952697e7fd4e8b62a946022b444ffa25e68188b2815",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.science.lu.se/sites/science.lu.se/files/2024-05/Theoretical%20Physics%20specialisation%20in%20Computational%20Biology%20general%20syllabus%202020.pdf",
+        "type": "phd",
+        "label": "PhD Theoretical Physics — Computational Biology",
+        "observedAt": "2026-09-20T14:07:19.499Z",
+        "checkedAt": "2026-09-20T14:07:19.499Z",
+        "contentHash": "76cf84e985756e33e2db3ccc5c639fd2db42ee5c5870088ea8a7e84a624d1972",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.science.lu.se/sites/science.lu.se/files/2024-05/Numerical%20Analysis%20general%20syllabus%202020.pdf",
+        "type": "phd",
+        "label": "PhD Numerical Analysis",
+        "observedAt": "2026-09-20T14:07:20.420Z",
+        "checkedAt": "2026-09-20T14:07:20.420Z",
+        "contentHash": "45bc4fc51a499a01c069dbf72b8979440b9126c0675cf257eb67cc90ece93e8b",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/012a77v79"
   },
   {
     "id": "se-university-of-gothenburg",
@@ -7840,8 +8758,108 @@
         "observedAt": "2026-09-19T20:54:09.741Z",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.gu.se/en/study-in-gothenburg/programs-and-courses/masters-programs",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Gothenburg",
+        "observedAt": "2026-09-20T13:00:32.222Z",
+        "checkedAt": "2026-09-20T13:00:32.222Z",
+        "contentHash": "98c215d40983998750175b61f9a5eba47a6e4eee8500e871fcac31a2f3549c1b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/index%2ephp/en/science-and-technology/doctoral-studies/become-a-phd-student-at-the-faculty-of-science-and-technology",
+        "type": "phd",
+        "label": "Doctoral studies in Science and Technology",
+        "observedAt": "2026-09-20T14:07:12.181Z",
+        "checkedAt": "2026-09-20T14:07:12.181Z",
+        "contentHash": "770540098ee253b871d629754db2988b1a7e527ec4a3ab5c092e7831bcf3e46f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/computer-science-masters-programme-n2cos",
+        "type": "masters",
+        "label": "Computer Science, Master’s Programme",
+        "observedAt": "2026-09-20T14:05:57.871Z",
+        "checkedAt": "2026-09-20T14:05:57.871Z",
+        "contentHash": "c8677fdbebec4a20e4526bdea73fb650cb4145722dcb91272fe106f395fccc5b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/game-design-technology-masters-programme-n2gdt",
+        "type": "masters",
+        "label": "Game Design & Technology, Master’s Programme",
+        "observedAt": "2026-09-20T14:05:58.415Z",
+        "checkedAt": "2026-09-20T14:05:58.415Z",
+        "contentHash": "8c81f7b1676643117e57ad0ade43ce78903add6dccf059f3fc2ee37422f109c8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/human-centered-artificial-intelligence-masters-programme-t2hai",
+        "type": "masters",
+        "label": "Human-centered Artificial Intelligence, Master’s Programme",
+        "observedAt": "2026-09-20T14:05:59.242Z",
+        "checkedAt": "2026-09-20T14:05:59.242Z",
+        "contentHash": "b41a19f63e2371697325474daa1d9233025db85bf90156d963909ae9a2ad11a4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/logic-masters-programme-h2log",
+        "type": "masters",
+        "label": "Logic, Master’s Programme",
+        "observedAt": "2026-09-20T14:05:59.988Z",
+        "checkedAt": "2026-09-20T14:05:59.988Z",
+        "contentHash": "e0d9f45fa207aa66368e272ed95f44f90b1ae06bbb3ab5d13a43ae9c7722af6d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/software-engineering-and-management-masters-programme-n2sof",
+        "type": "masters",
+        "label": "Software Engineering and Management, Master’s Programme",
+        "observedAt": "2026-09-20T14:06:00.881Z",
+        "checkedAt": "2026-09-20T14:06:00.881Z",
+        "contentHash": "ae5cf9ad1a20f43820f121279f053879c83bb9a289ae4a4e005727b55479337a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/complex-adaptive-systems-masters-programme-n2cas",
+        "type": "masters",
+        "label": "Complex Adaptive Systems, Master’s Programme",
+        "observedAt": "2026-09-20T14:06:01.546Z",
+        "checkedAt": "2026-09-20T14:06:01.546Z",
+        "contentHash": "3e6dd5014659eec2306001f2c9f740b12ce63c243d98066c8b67d19001d20972",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/mathematical-sciences-masters-programme-n2mat",
+        "type": "masters",
+        "label": "Mathematical Sciences, Master’s Programme",
+        "observedAt": "2026-09-20T14:06:02.464Z",
+        "checkedAt": "2026-09-20T14:06:02.464Z",
+        "contentHash": "43d8bffb66b3c463a72b7b389fca40f8eb5b71deaaaf4451c9a9f29ea9d2f590",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/master-in-language-technology-h2ltg",
+        "type": "masters",
+        "label": "MA Language Technology",
+        "observedAt": "2026-09-20T14:07:27.589Z",
+        "checkedAt": "2026-09-20T14:07:27.589Z",
+        "contentHash": "e8124311730368f96b69f0b52f75b1f0208ef20f48d80c55edcdceba54391149",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gu.se/en/study-gothenburg/masters-programme-in-applied-biostatistics-m2sta",
+        "type": "masters",
+        "label": "Master of Medical Science — Applied Biostatistics",
+        "observedAt": "2026-09-20T14:07:28.722Z",
+        "checkedAt": "2026-09-20T14:07:28.722Z",
+        "contentHash": "0dc1a8a6480751ac26f6bde1dba8c30ac1c7e336d5d3b7c153f73374e0758924",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/01tm6cn81"
   },
   {
     "id": "fi-aalto-university",
@@ -8336,24 +9354,22 @@
         "contentHash": "3fa9738e2e89e74ab712e122d7c4730a5e84ab4f314d8af97aba1b922421915d"
       },
       {
-        "type": "masters",
         "url": "https://www.ru.is/en/departments/dcs/artificial-intelligence-msc",
-        "label": "Artificial Intelligence MSc | Háskólinn í Reykjavík",
-        "status": "verified_http_content",
-        "checkedAt": "2026-09-19T20:55:44.253Z",
-        "observedAt": "2026-09-19T20:54:09.741Z",
-        "accessOutcome": "ok",
-        "contentHash": "7c4ced9405ffd2d026e4bec081aa87f77f651f224148f88474ff6aad89c0d555"
+        "type": "masters",
+        "label": "MSc Artificial Intelligence",
+        "observedAt": "2026-09-20T14:07:05.451Z",
+        "checkedAt": "2026-09-20T14:07:05.451Z",
+        "contentHash": "7c4ced9405ffd2d026e4bec081aa87f77f651f224148f88474ff6aad89c0d555",
+        "accessOutcome": "ok"
       },
       {
-        "type": "masters",
         "url": "https://www.ru.is/en/departments/dcs/gervigreind-og-maltaekni-msc",
-        "label": "AI and Language Technology MSc | Háskólinn í Reykjavík",
-        "status": "verified_http_content",
-        "checkedAt": "2026-09-19T20:55:44.524Z",
-        "observedAt": "2026-09-19T20:54:09.741Z",
-        "accessOutcome": "ok",
-        "contentHash": "7a864e530b2111d5157879e4b5d7d3da1a56c4ba42ff27234ee1dec9ddb81380"
+        "type": "masters",
+        "label": "MSc AI and Language Technology",
+        "observedAt": "2026-09-20T14:07:07.442Z",
+        "checkedAt": "2026-09-20T14:07:07.442Z",
+        "contentHash": "7a864e530b2111d5157879e4b5d7d3da1a56c4ba42ff27234ee1dec9ddb81380",
+        "accessOutcome": "ok"
       },
       {
         "type": "phd",
@@ -8387,8 +9403,34 @@
         "discoveredFrom": "https://en.ru.is/en/departments/dcs/gagnavisindi-msc",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://www.ru.is/en/departments/dcs",
+        "type": "index",
+        "label": "Índice o normativa oficial · Reykjavík University",
+        "observedAt": "2026-09-20T13:14:43.246Z",
+        "checkedAt": "2026-09-20T13:14:43.246Z",
+        "contentHash": "86b91ede87d473d94422c78fb40b87c2a303bdc5ecc5aee402d120def0124edf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://hr.kreatives.is/wp-content/uploads/2024/11/Rules.Phd_.Programme.DCS_.v.November.2024.pdf",
+        "type": "index",
+        "label": "Normativa oficial pendiente de acceso · Reykjavík University",
+        "observedAt": "2026-09-20T13:26:20.496Z",
+        "accessOutcome": "robots_disallowed"
+      },
+      {
+        "url": "https://www.ru.is/en/departments/dcs/cybersecurity",
+        "type": "masters",
+        "label": "MSc Cybersecurity",
+        "observedAt": "2026-09-20T14:07:06.705Z",
+        "checkedAt": "2026-09-20T14:07:06.705Z",
+        "contentHash": "97df2678763c7d0c26ba10510ebc5f1318e5334878f06217d4031811a2f70855",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/05d2kyx68"
   },
   {
     "id": "is-university-of-iceland",
@@ -8421,14 +9463,13 @@
         "contentHash": null
       },
       {
-        "type": "masters",
         "url": "https://english.hi.is/data-science/ms",
+        "type": "masters",
         "label": "Data Science, MS",
-        "status": "verified_http_content",
-        "checkedAt": "2026-09-19T20:55:42.881Z",
-        "observedAt": "2026-09-19T20:54:09.741Z",
-        "accessOutcome": "ok",
-        "contentHash": "5c073d9a3ecc2b3bf23f05236ce35685a08afb4bd94b39ae52ec67a19b3b6731"
+        "observedAt": "2026-09-20T14:06:41.711Z",
+        "checkedAt": "2026-09-20T14:06:41.711Z",
+        "contentHash": "59e8c9334e07f6875df418ea3cc410a7160d58e5a67f53ae399650d20c495a21",
+        "accessOutcome": "ok"
       },
       {
         "type": "masters",
@@ -8461,8 +9502,621 @@
         "discoveredFrom": "https://english.hi.is/computer-science/ms",
         "accessOutcome": "not_fetched",
         "contentHash": null
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=0",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T11:56:39.140Z",
+        "checkedAt": "2026-09-20T11:56:39.140Z",
+        "contentHash": "007b69c84ac24e280977591bb29d58ed5a3ccc2c0a2b5122cf69c55baff5d4f2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=1",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T11:57:51.098Z",
+        "checkedAt": "2026-09-20T11:57:51.098Z",
+        "contentHash": "1e2bf66d7f02ee5e2f272d6ec42b36f1d110ab7afe164f9bb271a35a9ad574d3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=2",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T11:58:09.458Z",
+        "checkedAt": "2026-09-20T11:58:09.458Z",
+        "contentHash": "cc6294175ed7dc24adcd53cbed7dc162428a5dbe8d97860af2eee38bd2256986",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=3",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T11:57:14.398Z",
+        "checkedAt": "2026-09-20T11:57:14.398Z",
+        "contentHash": "14d240814740b1fdf54a9a932169cf6e92b09c858de5e5c56b55066368fb5f2d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=4",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T11:57:31.349Z",
+        "checkedAt": "2026-09-20T11:57:31.349Z",
+        "contentHash": "e837ecc7e018807e0f5a11f77e28fd16c2819d1fb91cdede22c1bb9948566f30",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=5",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:20.610Z",
+        "checkedAt": "2026-09-20T13:02:20.610Z",
+        "contentHash": "83f181d308f1ca78873a0175c51df276c382cd712dd993c9aa651aad85c36b47",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=6",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:20.641Z",
+        "checkedAt": "2026-09-20T13:02:20.641Z",
+        "contentHash": "65067b57935912bc95db7bfeac0cb72af1bf78fdbeee61582007c45f6be10cb9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=7",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:21.005Z",
+        "checkedAt": "2026-09-20T13:02:21.005Z",
+        "contentHash": "da3ac4e14304bff5305b707b35865c16a9da4aa687fe809d5fd47722de505f17",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=8",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:21.949Z",
+        "checkedAt": "2026-09-20T13:02:21.949Z",
+        "contentHash": "96f6c19aab7049de96d39a212c054fd7765be87725ed9e45d66fbc4a865be433",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=9",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:22.429Z",
+        "checkedAt": "2026-09-20T13:02:22.429Z",
+        "contentHash": "fd423706ede3d7caa6e03abd3e1d7518cf6e9998225abacd3cfeda63e92ed8c5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=10",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:22.791Z",
+        "checkedAt": "2026-09-20T13:02:22.791Z",
+        "contentHash": "43b4c77250efe3b738ab606f40b45cdd0023746c908352feee4b55338f59ef24",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=11",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:23.744Z",
+        "checkedAt": "2026-09-20T13:02:23.744Z",
+        "contentHash": "57c20c629f9a9ab71674be48ec272be037a35fad99125041b6899921bbc5db60",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=12",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:24.980Z",
+        "checkedAt": "2026-09-20T13:02:24.980Z",
+        "contentHash": "9232be2397bed89fc31bfb83edaeec788e7558eec1304f16d38c1070f3f72a22",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=13",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:25.741Z",
+        "checkedAt": "2026-09-20T13:02:25.741Z",
+        "contentHash": "9b4e2061a13cfd4719a249002c25b6db78bdd1e52e34d344efda2293d4f4a965",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=14",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:26.605Z",
+        "checkedAt": "2026-09-20T13:02:26.605Z",
+        "contentHash": "bef772688c095bb0e4f4296c624136a5624b9d027ea4d9012fea93d91b365572",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=15",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:27.589Z",
+        "checkedAt": "2026-09-20T13:02:27.589Z",
+        "contentHash": "e85998c4999ae8dcd3b0ee22253ce32a6a46b149ece4c0b6294e3e814f5bc481",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=16",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:28.364Z",
+        "checkedAt": "2026-09-20T13:02:28.364Z",
+        "contentHash": "7db2e7f4fbd7ff63ad910036ab7d985dfa7155d4142576fe3c87a9b2cfed8034",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=17",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:29.297Z",
+        "checkedAt": "2026-09-20T13:02:29.297Z",
+        "contentHash": "b9c1101c725fc32c2b40384dc7f87391ae10b98e3cc50ca69e01c504018e50fb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=18",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:30.347Z",
+        "checkedAt": "2026-09-20T13:02:30.347Z",
+        "contentHash": "d3b56d4010e86d7b95a93469a5705eb4c119c9467656a3f635cad36bc5f20a18",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=19",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:31.083Z",
+        "checkedAt": "2026-09-20T13:02:31.083Z",
+        "contentHash": "a337384a11d319e1fdd1d32547d0380e844278f2a09f8be8d0685824ffd4bf92",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=20",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:32.071Z",
+        "checkedAt": "2026-09-20T13:02:32.071Z",
+        "contentHash": "8e7e06f7dc80883fb30f44b6e848ff692d63d3850dc6450b1f33b8bd72e8e677",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=21",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:32.942Z",
+        "checkedAt": "2026-09-20T13:02:32.942Z",
+        "contentHash": "3dbf996b2dbe4a2be79b8b960ec7a2cc4854b8cdf226ae633a81f44b6bc8d854",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=22",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:33.812Z",
+        "checkedAt": "2026-09-20T13:02:33.812Z",
+        "contentHash": "f0577c1a6d5275a56bcc4b958210bad7332ea9897c4583a2aa391c87f3a92cf2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=23",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:34.657Z",
+        "checkedAt": "2026-09-20T13:02:34.657Z",
+        "contentHash": "2fa0f775290821b63fca6d5893b8ad4badced29f576697d2165f371d71a9fb9a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=24",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:35.734Z",
+        "checkedAt": "2026-09-20T13:02:35.734Z",
+        "contentHash": "905c30e16071c15c9ec277cf436dc47ffbea669147bbe16a5e574901516d1429",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=25",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:36.792Z",
+        "checkedAt": "2026-09-20T13:02:36.792Z",
+        "contentHash": "509ee1ff57ffcec0abba6829b718cba5ca2a6d0c6d6ec11a1c6cd3327ace23a0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=26",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:37.602Z",
+        "checkedAt": "2026-09-20T13:02:37.602Z",
+        "contentHash": "56b6153309e25b0e64e81ca727980b17feb0fa90c4b4da072520ffbfcaa8a08f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=27",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:38.446Z",
+        "checkedAt": "2026-09-20T13:02:38.446Z",
+        "contentHash": "82a0306f8a557d0fa8f3da1ca11a4484ef81c89c7e5fa8d664f46ac01b21ca6d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=28",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:39.351Z",
+        "checkedAt": "2026-09-20T13:02:39.351Z",
+        "contentHash": "90441b7d1112dca0c49dc0bf2d011edfdc5e660039347062b83d92cbdd4cbfa5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=29",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:40.313Z",
+        "checkedAt": "2026-09-20T13:02:40.313Z",
+        "contentHash": "af0ed9217e2d260fd21b224a047fda2d8e6d2be6f359577ac075b9072d63a3c5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=30",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:41.259Z",
+        "checkedAt": "2026-09-20T13:02:41.259Z",
+        "contentHash": "49b815addb7f8fbc7fe4dc9be171d0c2915571af4dfebcd2ad747d150ba3981e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=31",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:41.906Z",
+        "checkedAt": "2026-09-20T13:02:41.906Z",
+        "contentHash": "8cc7f148425dc7c873a52accc3dfbdb817e36fe26149599ff67263b80b7350b1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=32",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:42.949Z",
+        "checkedAt": "2026-09-20T13:02:42.949Z",
+        "contentHash": "4d93a59d99b5a274c2fa1172ffadeb445fc5838eaa44327f5d5287bb727da56c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=33",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:43.811Z",
+        "checkedAt": "2026-09-20T13:02:43.811Z",
+        "contentHash": "d8e374f150ca4260de96f9b068d9f699d8973399b4523cc6e50f5fb7c10916af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=34",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:44.939Z",
+        "checkedAt": "2026-09-20T13:02:44.939Z",
+        "contentHash": "8aaeb474398705819e027e6da392f8918158665f9e51b9bcc8564f0974c8bc2b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=35",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:45.872Z",
+        "checkedAt": "2026-09-20T13:02:45.872Z",
+        "contentHash": "f493fd1e72b40570eba8c3d6a7a23826cfa67fe7e32dfd5c30a2f4b2d2b6c708",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=36",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:46.667Z",
+        "checkedAt": "2026-09-20T13:02:46.667Z",
+        "contentHash": "39b500f5d015688f60833babde57c69a8713535300a31b8ff4dea70f136aed85",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=37",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:47.495Z",
+        "checkedAt": "2026-09-20T13:02:47.495Z",
+        "contentHash": "a60ef5d5cb3abf3350ed1b35a995863e275325026217c57032b1126ea39a2d09",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=38",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:48.567Z",
+        "checkedAt": "2026-09-20T13:02:48.567Z",
+        "contentHash": "ac8ff643455ac1fdbd2d1daf869861d5887667bf05ef6e4210f636665a3d30ab",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=39",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:49.413Z",
+        "checkedAt": "2026-09-20T13:02:49.413Z",
+        "contentHash": "cb178541eaacbf6a6a2e885d718f4a74ce0b738b21c6ead07cd2b54adef9e334",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=40",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:50.305Z",
+        "checkedAt": "2026-09-20T13:02:50.305Z",
+        "contentHash": "e8914ad3c448ac8336bd7d50ea838adc9979970abbb5efb804d51f8b863405d0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=41",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:51.171Z",
+        "checkedAt": "2026-09-20T13:02:51.171Z",
+        "contentHash": "ff142756c2b41c8c43b4231ce7d7bcfd699aca3e5496b3974653213af778cc14",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=42",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:52.139Z",
+        "checkedAt": "2026-09-20T13:02:52.139Z",
+        "contentHash": "cd1ab13955af31d8c5c7efd725978b4428b40fbb5440ee88ad33044b80fa828a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=43",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:52.917Z",
+        "checkedAt": "2026-09-20T13:02:52.917Z",
+        "contentHash": "d9c2d00e409ea024a783697653dee3edcdf491df21c736649ef4835b996a3a76",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=44",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:53.758Z",
+        "checkedAt": "2026-09-20T13:02:53.758Z",
+        "contentHash": "92f18eb4f5dcdfe3644fd979c0b700da35e23d4ead20bae2f44f44769071551e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=45",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:54.735Z",
+        "checkedAt": "2026-09-20T13:02:54.735Z",
+        "contentHash": "a560f80d26f62b3e51850e24821534d04039e3e65a0629d063015cabe56ef091",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=46",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:55.675Z",
+        "checkedAt": "2026-09-20T13:02:55.675Z",
+        "contentHash": "a908f5aae5ddf2d48d840b42a64d070d15f7ab1638e7da2389a1c4fd551e41aa",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=47",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:56.499Z",
+        "checkedAt": "2026-09-20T13:02:56.499Z",
+        "contentHash": "d7575fd5daf253a58578ef70eb9844ab896e3646d52f2d32dd707e08271a50f2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=48",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:57.123Z",
+        "checkedAt": "2026-09-20T13:02:57.123Z",
+        "contentHash": "3b2943ba87f0b1b8adc7f40e24f7b2ee4459d0d15c4a72e8135a86d06e2eec91",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=49",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:58.360Z",
+        "checkedAt": "2026-09-20T13:02:58.360Z",
+        "contentHash": "00f4ba34a95b41c02d41ab5bdc6fe1105733e95aba9fbafdcddd5d3aa274b636",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=50",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:02:59.257Z",
+        "checkedAt": "2026-09-20T13:02:59.257Z",
+        "contentHash": "e97e345828857e655e95d18f0b74829d2b3ec3ad326c7295f5201e0e04423818",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=51",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:00.213Z",
+        "checkedAt": "2026-09-20T13:03:00.213Z",
+        "contentHash": "62dff60eaae8013cc02fd0d1c67313ea1703f2069451c6fbe99907e7f0ee4048",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=52",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:01.139Z",
+        "checkedAt": "2026-09-20T13:03:01.139Z",
+        "contentHash": "5ae607458c7f6830fba69fb739f17824baafb7e972c15453e531e9ca828cfa90",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=53",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:01.983Z",
+        "checkedAt": "2026-09-20T13:03:01.983Z",
+        "contentHash": "cdebc103d7e77ff1a3c29c1f77f6c0c8045fbfdac1f54e6fffc55b4519f2ddf1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=54",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:02.820Z",
+        "checkedAt": "2026-09-20T13:03:02.820Z",
+        "contentHash": "79f71b162b0637bdccc042a911b37b655916cac6a583cfc17e544c12b7462fbc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=55",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:03.898Z",
+        "checkedAt": "2026-09-20T13:03:03.898Z",
+        "contentHash": "cbc77be6f4be59ae719368407f9e61f6db300560d312ead7e0da3e1442b3e6c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=60",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T11:56:19.091Z",
+        "checkedAt": "2026-09-20T11:56:19.091Z",
+        "contentHash": "ea242e58693a9ae526f8b0a750d4fe7e36dd56866a40c7116a579c4a0d9fae72",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=56",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:04.948Z",
+        "checkedAt": "2026-09-20T13:03:04.948Z",
+        "contentHash": "dc410b9773a284ad9d135e799718d5a4fc6efef4625722cd6e58f73f4e634e9d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=57",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:05.525Z",
+        "checkedAt": "2026-09-20T13:03:05.525Z",
+        "contentHash": "423c55878ffcf69227087a0cde66a5dff02b40dcf4fba3a37ae0e89cc922b07d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=58",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:06.629Z",
+        "checkedAt": "2026-09-20T13:03:06.629Z",
+        "contentHash": "fe1754a3109a9ebf316efe0f1551626b189132497bdb301e26389732eee83432",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/programmes?page=59",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Iceland",
+        "observedAt": "2026-09-20T13:03:07.687Z",
+        "checkedAt": "2026-09-20T13:03:07.687Z",
+        "contentHash": "88a38ec3a4570dff24f87914c04dcf2f0fb4606514ab20a79e7a77342c6dcc91",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/bioinformatics/ms",
+        "type": "masters",
+        "label": "Bioinformatics, MS",
+        "observedAt": "2026-09-20T14:06:36.301Z",
+        "checkedAt": "2026-09-20T14:06:36.301Z",
+        "contentHash": "04b4e61d3bcf1077d90233c6b2a134c32c588bbeb95f113de838301d708c020a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/computational-engineering/ms",
+        "type": "masters",
+        "label": "Computational Engineering, MS",
+        "observedAt": "2026-09-20T14:06:38.293Z",
+        "checkedAt": "2026-09-20T14:06:38.293Z",
+        "contentHash": "adb39d65fa3921dbea92f698331ac71f2e88f05fc104226d543ebaad3402cd31",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/electrical-and-computer-engineering/ms",
+        "type": "masters",
+        "label": "Electrical and Computer Engineering, MS",
+        "observedAt": "2026-09-20T14:06:44.361Z",
+        "checkedAt": "2026-09-20T14:06:44.361Z",
+        "contentHash": "4996bf841e16857f3e7f460dbfadb6d1d17065b5ca1a022e8cce05982cf2017e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/mathematics/ms",
+        "type": "masters",
+        "label": "Mathematics, MS",
+        "observedAt": "2026-09-20T14:06:47.504Z",
+        "checkedAt": "2026-09-20T14:06:47.504Z",
+        "contentHash": "285ace031654eb5117f35115bc83b32905a512235f7ad3e3080d4a4e899adf4f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/software-engineering/ms",
+        "type": "masters",
+        "label": "Software Engineering, MS",
+        "observedAt": "2026-09-20T14:06:50.445Z",
+        "checkedAt": "2026-09-20T14:06:50.445Z",
+        "contentHash": "46c27ef62618b9e4be39746bc5b0d7984af29237c6a2037bd3eece52804325ee",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/statistics/ms",
+        "type": "masters",
+        "label": "Statistics, MS",
+        "observedAt": "2026-09-20T14:06:53.904Z",
+        "checkedAt": "2026-09-20T14:06:53.904Z",
+        "contentHash": "23e43d2baaccaeb8f6ea041fbfae4a1b3ba53e16d767f32d65ec210c01a757a7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://english.hi.is/computer-science/phd",
+        "type": "phd",
+        "label": "PhD Computer Science",
+        "observedAt": "2026-09-20T14:06:56.539Z",
+        "checkedAt": "2026-09-20T14:06:56.539Z",
+        "contentHash": "81021962bcd4e9c2d0374e0179a9a082b8b25d48867facaedf5d9ceb8ed06ae7",
+        "accessOutcome": "ok"
       }
-    ]
+    ],
+    "ror": "https://ror.org/01db6h964"
   },
   {
     "id": "west-upc",
@@ -18574,6 +20228,15 @@
         "_review": {
           "checkedAtMeaning": "Research review timestamp; not an origin HTTP success time."
         }
+      },
+      {
+        "url": "https://www.seeu.edu.mk/en/future-students/financial-aid",
+        "type": "funding",
+        "label": "SEEU — ayudas de matrícula y Work and Study · 2026/27",
+        "observedAt": "2026-09-20T14:01:10.092Z",
+        "checkedAt": "2026-09-20T14:01:10.092Z",
+        "contentHash": "431e03a376b958442a4890d0c638529ae934b0c702f1d36df92ec36d0e99155b",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -18586,7 +20249,8 @@
       "tiers": "not_assessed",
       "nextAction": "Read robots and fetch official catalogues; enumerate individual programmes and current funding/job calls. A discovered source is not an imported opportunity.",
       "reviewedAt": "2026-09-19T21:26:41Z"
-    }
+    },
+    "ror": "https://ror.org/00m04y575"
   },
   {
     "id": "xk-prishtina",
@@ -20406,9 +22070,46 @@
         "observedAt": "2026-09-19T22:47:41.607Z",
         "contentHash": "43fe75b31b2e977303620143a641439d573253bf44d2f7970933f43c092b83dd",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/financial-aid-definition/",
+        "type": "funding",
+        "label": "AUA — ayuda de matrícula por necesidad económica",
+        "observedAt": "2026-09-20T14:33:49.425Z",
+        "checkedAt": "2026-09-20T14:33:49.425Z",
+        "contentHash": "d0d828bb721b00308aa0c59a3fac7eaa15a62659a8a5a6d92684219df666925d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/deadlines/",
+        "type": "funding",
+        "label": "Edición y plazos · AUA — International Scholarship",
+        "observedAt": "2026-09-20T14:33:54.071Z",
+        "checkedAt": "2026-09-20T14:33:54.071Z",
+        "contentHash": "a8e2724039793750f41caca3ccbf7334c9433fb8d9c04fc71c0b5284ef8dfc3e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/international-scholarships/",
+        "type": "funding",
+        "label": "AUA — International Scholarship",
+        "observedAt": "2026-09-20T14:33:52.858Z",
+        "checkedAt": "2026-09-20T14:33:52.858Z",
+        "contentHash": "8440eae60b9688b3e116ba603b6fdf40febe92fd9154cb57fea097548f4e987f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://finaid.aua.am/procedures/",
+        "type": "funding",
+        "label": "AUA — becas académicas y AUA/MESCS de posgrado",
+        "observedAt": "2026-09-20T14:33:53.220Z",
+        "checkedAt": "2026-09-20T14:33:53.220Z",
+        "contentHash": "2f51aae0d707a2c1a674af4ac77d5a20b30d000c5dc37c06063a75318fae6253",
+        "accessOutcome": "ok"
       }
     ],
-    "geographyNote": "Ampliación académica del EEES; sede en Yerevan. No se presume localización en la Europa geográfica."
+    "geographyNote": "Ampliación académica del EEES; no se presume localización en la Europa geográfica.",
+    "ror": "https://ror.org/04dngzj56"
   },
   {
     "id": "ada-university",
@@ -24823,5 +26524,864 @@
     "tier": null,
     "tierStatus": "not_assessed",
     "coverageStatus": "sources_reviewed"
+  },
+  {
+    "id": "se-north8-umu",
+    "name": "Umeå University",
+    "country": "SE",
+    "city": "Umeå",
+    "ror": "https://ror.org/05kb8h459",
+    "officialUrl": "https://www.umu.se",
+    "domains": [
+      "umu.se"
+    ],
+    "sources": [
+      {
+        "url": "https://api.cms.umu.se/UtbildningList?query=",
+        "type": "index",
+        "label": "Índice o normativa oficial · Umeå University",
+        "observedAt": "2026-09-20T13:08:44.003Z",
+        "checkedAt": "2026-09-20T13:08:44.003Z",
+        "contentHash": "898bfa50fec2675103cf3fe1a7772593cd81ca1fee09982f982b36e7ea5ace80",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/faculty-of-science-and-technology/education/doctoral-studies/?languageId=1",
+        "type": "index",
+        "label": "Índice o normativa oficial · Umeå University",
+        "observedAt": "2026-09-20T13:09:07.716Z",
+        "checkedAt": "2026-09-20T13:09:07.716Z",
+        "contentHash": "a9871f3a0f731338d04aa132715a2803ab8b137a358d91aded86d7b5bfb2f21a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/education/programmes/masters-programme-in-artificial-intelligence/",
+        "type": "masters",
+        "label": "Master's Programme in Artificial Intelligence",
+        "observedAt": "2026-09-20T14:06:28.528Z",
+        "checkedAt": "2026-09-20T14:06:28.528Z",
+        "contentHash": "ae3e181171ba2c5782e9d37d8d60d5d62d2e4bd9039d60ddfe608c931c4d62bf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/education/programmes/masters-programme-in-bioinformatics/",
+        "type": "masters",
+        "label": "Master's Programme in Bioinformatics",
+        "observedAt": "2026-09-20T14:06:30.396Z",
+        "checkedAt": "2026-09-20T14:06:30.396Z",
+        "contentHash": "399bf5f0d080950d33ec6874bee58e67e05caa2921a5307e277d7dff6b55d033",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/education/programmes/masters-programme-in-computing-science/",
+        "type": "masters",
+        "label": "Master's Programme in Computing Science",
+        "observedAt": "2026-09-20T14:06:30.996Z",
+        "checkedAt": "2026-09-20T14:06:30.996Z",
+        "contentHash": "94971ef7b39ee17982bb4b9cba6f697d6a029096e1fa45903de37570775385f2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/education/programmes/masters-programme-in-human-computer-interaction-and-user-experience/",
+        "type": "masters",
+        "label": "Master's Programme in Human Computer Interaction and User Experience",
+        "observedAt": "2026-09-20T14:06:32.500Z",
+        "checkedAt": "2026-09-20T14:06:32.500Z",
+        "contentHash": "b283f2c470bcbb9db7dbf2bf403e729e605ae4236987f2127d01e07af93cc741",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/education/programmes/masters-programme-in-mathematical-statistics/",
+        "type": "masters",
+        "label": "Master's Programme in Mathematical Statistics",
+        "observedAt": "2026-09-20T14:06:33.919Z",
+        "checkedAt": "2026-09-20T14:06:33.919Z",
+        "contentHash": "64596ff7088160565b51b2544afd6e6c3a133609948bcde8ac6a724ef5723a67",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/education/programmes/masters-programme-in-mathematics/",
+        "type": "masters",
+        "label": "Master's Programme in Mathematics",
+        "observedAt": "2026-09-20T14:06:34.994Z",
+        "checkedAt": "2026-09-20T14:06:34.994Z",
+        "contentHash": "907a66cc812ab65676d5c965741f838ccc098a41e34f96cb6103e272151d3a1e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/education/programmes/masters-programme-in-robotics-and-control/",
+        "type": "masters",
+        "label": "Master's Programme in Robotics and Control",
+        "observedAt": "2026-09-20T14:06:36.294Z",
+        "checkedAt": "2026-09-20T14:06:36.294Z",
+        "contentHash": "fed1729284f199fce4771e2efb9bbc32404fe708667ab55a081523bb45eb3cb5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/faculty-of-science-and-technology/education/doctoral-studies/computing-science-and-computational-science-and-engineering/",
+        "type": "phd",
+        "label": "PhD Computing Science",
+        "observedAt": "2026-09-20T14:07:20.373Z",
+        "checkedAt": "2026-09-20T14:07:20.373Z",
+        "contentHash": "980451c5d7e6b392930cadb6f7c0a9eab8dddb5c77701c115f7ff77d84a29c79",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.umu.se/en/faculty-of-science-and-technology/education/doctoral-studies/mathematics-mathematical-statistics-and-computational-science-and-engineering/",
+        "type": "phd",
+        "label": "PhD studies in Mathematics, Mathematical Statistics and Computational Mathematics and Statistics",
+        "observedAt": "2026-09-20T14:07:30.539Z",
+        "checkedAt": "2026-09-20T14:07:30.539Z",
+        "contentHash": "96d8d4b3258e925a7f9e4ebc42e0fed7a586d1646d41e89fb664773ca14e6dd8",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "se-north8-lnu",
+    "name": "Linnaeus University",
+    "country": "SE",
+    "city": "Vaxjo",
+    "ror": "https://ror.org/00j9qag85",
+    "officialUrl": "https://lnu.se",
+    "domains": [
+      "lnu.se"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lnu.se/en/research/PhD-studies/",
+        "type": "index",
+        "label": "Índice o normativa oficial · Linnaeus University",
+        "observedAt": "2026-09-20T13:00:34.451Z",
+        "checkedAt": "2026-09-20T13:00:34.451Z",
+        "contentHash": "29ffdb92f6ce746d7b5f53a6889d69f4e8e0f35e6d85f89cf47af2e17b714380",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lnu.se/en/research/PhD-studies/computer-and-information-science/",
+        "type": "phd",
+        "label": "PhD Computer and Information Science",
+        "observedAt": "2026-09-20T14:07:09.185Z",
+        "checkedAt": "2026-09-20T14:07:09.185Z",
+        "contentHash": "03e90ebff6350e98449d84764b0e0a9950acdc2cd9b30402634fd9dd49eadc50",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lnu.se/en/research/PhD-studies/mathematics/",
+        "type": "phd",
+        "label": "PhD Mathematics",
+        "observedAt": "2026-09-20T14:07:10.135Z",
+        "checkedAt": "2026-09-20T14:07:10.135Z",
+        "contentHash": "bacc4e2c8c6e1517965e84b14ba5baced9ce5ddb9c4121f06873a118b3898256",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lnu.se/en/research/PhD-studies/statistics/",
+        "type": "phd",
+        "label": "PhD Statistics",
+        "observedAt": "2026-09-20T14:07:10.975Z",
+        "checkedAt": "2026-09-20T14:07:10.975Z",
+        "contentHash": "6aa768ed9c21faf94f31a725371ed28a1574f5f5394a9d6a39f7c8af78fc6704",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "se-north8-ltu",
+    "name": "Luleå University of Technology",
+    "country": "SE",
+    "city": "Luleå",
+    "ror": "https://ror.org/016st3p78",
+    "officialUrl": "https://www.ltu.se",
+    "domains": [
+      "ltu.se"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ltu.se/en/education/master-and-bachelor-programmes/master-programmes",
+        "type": "index",
+        "label": "Índice o normativa oficial · Luleå University of Technology",
+        "observedAt": "2026-09-20T13:06:48.354Z",
+        "checkedAt": "2026-09-20T13:06:48.354Z",
+        "contentHash": "a68c3b533e81a130fed3a0bde5054f6a28778d6432889c9c3e60e0c3a67b126b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ltu.se/en/research/third-cycle-studies/research-subjects-and-general-syllabi",
+        "type": "index",
+        "label": "Índice o normativa oficial · Luleå University of Technology",
+        "observedAt": "2026-09-20T13:09:06.530Z",
+        "checkedAt": "2026-09-20T13:09:06.530Z",
+        "contentHash": "5396ef509d7c684111809d2e614364f20a8877dd874cad24af8c97d14cbb7fb4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ltu.se/en/research/third-cycle-studies/research-subjects-and-general-syllabi/technical-field-of-study-general-syllabi",
+        "type": "index",
+        "label": "Índice o normativa oficial · Luleå University of Technology",
+        "observedAt": "2026-09-20T13:14:41.866Z",
+        "checkedAt": "2026-09-20T13:14:41.866Z",
+        "contentHash": "9cb6b0843c0da458d1af7b5d5ba60a9e3a9a0c34addb387e8b6cee5f07444899",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ltu.se/en/research/third-cycle-studies/research-subjects-and-general-syllabi/humanities-and-social-sciences---general-syllabi",
+        "type": "index",
+        "label": "Índice o normativa oficial · Luleå University of Technology",
+        "observedAt": "2026-09-20T13:14:41.865Z",
+        "checkedAt": "2026-09-20T13:14:41.865Z",
+        "contentHash": "fcdd2c3de20cc1a0351993f7c51b646371a09fbe816e66270c0130eea78e35c3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ltu.se/en/education/programme/tmdia-master-programme-in-applied-ai",
+        "type": "masters",
+        "label": "Master Programme in Applied AI",
+        "observedAt": "2026-09-20T14:06:02.559Z",
+        "checkedAt": "2026-09-20T14:06:02.559Z",
+        "contentHash": "fc70272e82924594d68d8517b76465b2840009a71983009dd41d349cac46ac15",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ltu.se/en/education/programme/fmisa-master-programme-in-information-security",
+        "type": "masters",
+        "label": "Master Programme in Information Security",
+        "observedAt": "2026-09-20T14:06:03.727Z",
+        "checkedAt": "2026-09-20T14:06:03.727Z",
+        "contentHash": "6cfa521b520bf93b1f6449914ee53f606a7ff2e1045413c9fd14c65714df4611",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ltu.se/en/education/programme/tmcsa-master-programme-in-cyber-security",
+        "type": "masters",
+        "label": "Master Programme in Cyber Security",
+        "observedAt": "2026-09-20T14:06:04.392Z",
+        "checkedAt": "2026-09-20T14:06:04.392Z",
+        "contentHash": "add1adf82082505a0d6e2710ba88e40ad1676813b77ea77aff1612ef091277ff",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ltu.se/en/education/programme/tmdra-master-programme-in-autonomous-humanoid-robotic-systems",
+        "type": "masters",
+        "label": "Master Programme in Autonomous Humanoid Robotic Systems",
+        "observedAt": "2026-09-20T14:06:21.969Z",
+        "checkedAt": "2026-09-20T14:06:21.969Z",
+        "contentHash": "3ec5bc73d2f6d59e7b9d1364150f4abb6054ce667559b8fbb8693de74ba76268",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "dk-north8-ruc",
+    "name": "Roskilde University",
+    "country": "DK",
+    "city": "Roskilde",
+    "ror": "https://ror.org/014axpa37",
+    "officialUrl": "https://ruc.dk",
+    "domains": [
+      "ruc.dk"
+    ],
+    "sources": [
+      {
+        "url": "https://ruc.dk/en/master/programmes",
+        "type": "index",
+        "label": "Índice o normativa oficial · Roskilde University",
+        "observedAt": "2026-09-20T12:08:52.548Z",
+        "checkedAt": "2026-09-20T12:08:52.548Z",
+        "contentHash": "a9c1f05c26ab642d858307b131c47f9ecedb429665ad2b96e1eea0fd9b6a05b8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ruc.dk/en/doctoral-school-science-and-environment",
+        "type": "phd",
+        "label": "PhD Science and Environment — Mathematics route",
+        "observedAt": "2026-09-20T11:17:59.405Z",
+        "checkedAt": "2026-09-20T11:17:59.405Z",
+        "contentHash": "01ab63f08fa3f29bfa3c3e4c6baac85f0bafd20ff41f6e27e5a8b160290072af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ruc.dk/en/doctoral-school-people-and-technology",
+        "type": "index",
+        "label": "Índice o normativa oficial · Roskilde University",
+        "observedAt": "2026-09-20T12:15:05.006Z",
+        "checkedAt": "2026-09-20T12:15:05.006Z",
+        "contentHash": "4435f74f53eb150e9ab73a63835ce6d98c912cd7fdb5b8748c095182dc8b407b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ruc.dk/en/phd-programme-information-technology",
+        "type": "phd",
+        "label": "PhD Information Technology",
+        "observedAt": "2026-09-20T14:07:30.138Z",
+        "checkedAt": "2026-09-20T14:07:30.138Z",
+        "contentHash": "9f2a631cd9b234b1eb08c1835ccb1ec17bbc6f102755db83f7dd4365b4de1ff9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ruc.dk/en/master/computer-science",
+        "type": "masters",
+        "label": "Computer Science",
+        "observedAt": "2026-09-20T14:06:21.539Z",
+        "checkedAt": "2026-09-20T14:06:21.539Z",
+        "contentHash": "bf25d736c13864e1ead0b0784de130df63d065b6b4af2cde41ec466ab28b7dc8",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "no-north8-uia",
+    "name": "University of Agder",
+    "country": "NO",
+    "city": "Kristiansand",
+    "ror": "https://ror.org/03x297z98",
+    "officialUrl": "https://www.uia.no",
+    "domains": [
+      "uia.no"
+    ],
+    "sources": [
+      {
+        "url": "https://www.uia.no/english/studies/programmes/",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Agder",
+        "observedAt": "2026-09-20T13:00:35.846Z",
+        "checkedAt": "2026-09-20T13:00:35.846Z",
+        "contentHash": "ce362994c700fafe2c4f92f7e911b1a30d633bec5767d607fb4509bf355f6f5f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uia.no/studier/program/?typeFilter=2-%C3%A5rig%20master",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Agder",
+        "observedAt": "2026-09-20T13:02:20.559Z",
+        "checkedAt": "2026-09-20T13:02:20.559Z",
+        "contentHash": "87e4a25e51a85278d2f56697bfd785c5b3a82ca4ac351f8bc3e0a653ab101255",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uia.no/english/studies/programmes/phd-programme-in-engineering-and-science/index.html",
+        "type": "phd",
+        "label": "PhD Engineering and Science",
+        "observedAt": "2026-09-20T14:07:30.179Z",
+        "checkedAt": "2026-09-20T14:07:30.179Z",
+        "contentHash": "27af663c6d43694bdf15fd70ce96dab8b63e43a653937529402f2b636614d1bc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uia.no/english/studies/programmes/phd-programme-in-social-sciences/index.html",
+        "type": "phd",
+        "label": "PhD Social Sciences — Information Systems route",
+        "observedAt": "2026-09-20T14:07:30.816Z",
+        "checkedAt": "2026-09-20T14:07:30.816Z",
+        "contentHash": "4813807b34a37fb59b037c933d05e333c81d9af1c0b1ead445db42367c2228bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uia.no/english/studies/programmes/artificial-intelligence-and-internet-of-things-master/index.html",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence and the Internet of Things",
+        "observedAt": "2026-09-20T14:06:24.391Z",
+        "checkedAt": "2026-09-20T14:06:24.391Z",
+        "contentHash": "64f2e1f6222b3f1b51996d48a01d102e07887ac6b945fa33480c98d3246276f4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uia.no/english/studies/programmes/cybersecurity-engineering-master/index.html",
+        "type": "masters",
+        "label": "MSc Cybersecurity Engineering",
+        "observedAt": "2026-09-20T14:06:25.638Z",
+        "checkedAt": "2026-09-20T14:06:25.638Z",
+        "contentHash": "d46d4c8db86a93aa63efbca45a4ad4d416131e09f2750f3fdfa68a03549b69ca",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uia.no/english/studies/programmes/cybersecurity-management-master/index.html",
+        "type": "masters",
+        "label": "MSc Cybersecurity Management",
+        "observedAt": "2026-09-20T14:06:26.486Z",
+        "checkedAt": "2026-09-20T14:06:26.486Z",
+        "contentHash": "1456833d21c5748e5847f012b5a6f23586a658ad6a361c609fed4b73bd9afe62",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "is-north8-unak",
+    "name": "University of Akureyri",
+    "country": "IS",
+    "city": "Akureyri",
+    "ror": "https://ror.org/01gnd8r41",
+    "officialUrl": "https://www.unak.is",
+    "domains": [
+      "unak.is"
+    ],
+    "sources": [
+      {
+        "url": "https://www.unak.is/english/study/education/degree-seeking-students",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Akureyri",
+        "observedAt": "2026-09-20T13:00:36.527Z",
+        "checkedAt": "2026-09-20T13:00:36.527Z",
+        "contentHash": "431576fce96f89319473886f38de09a9b8d39bf9b4af780ee1fa7a0eefaed72d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.unak.is/english/study/education/phd",
+        "type": "index",
+        "label": "Índice o normativa oficial · University of Akureyri",
+        "observedAt": "2026-09-20T13:00:36.985Z",
+        "checkedAt": "2026-09-20T13:00:36.985Z",
+        "contentHash": "6d5c68e41c488130945cbac269f874c41730424dd01f6e5310388324251f3d88",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "gb-london-mathematical-society",
+    "name": "London Mathematical Society",
+    "country": "GB",
+    "ror": "https://ror.org/01r1e1h27",
+    "officialUrl": "https://www.lms.ac.uk/",
+    "domains": [
+      "lms.ac.uk"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries",
+        "type": "funding",
+        "label": "Undergraduate Research Bursaries — matemáticas y estadística · 2027",
+        "observedAt": "2026-09-20T14:18:50.795Z",
+        "checkedAt": "2026-09-20T14:18:50.795Z",
+        "contentHash": "fc1ceb8be15f075977505fd9e6793c9e55590244fb656afc53676436b3c79de0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
+        "type": "funding",
+        "label": "Bases de las Undergraduate Research Bursaries 2027",
+        "observedAt": "2026-09-20T14:19:31.754Z",
+        "checkedAt": "2026-09-20T14:19:31.754Z",
+        "contentHash": "06a924a3d0c21f0d8b8762f4f7b15a16c0c18dad36039cb501076f9f79f0565f",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "de-max-planck-institute-for-biological-cybernetics",
+    "name": "Max Planck Institute for Biological Cybernetics",
+    "country": "DE",
+    "ror": "https://ror.org/026nmvv73",
+    "officialUrl": "https://www.kyb.tuebingen.mpg.de/",
+    "domains": [
+      "kyb.tuebingen.mpg.de",
+      "projects.tuebingen.mpg.de"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyb.tuebingen.mpg.de/701943/cactues",
+        "type": "research",
+        "label": "CaCTüS — Computation and Cognition Summer Internship",
+        "observedAt": "2026-09-20T14:19:31.754Z",
+        "checkedAt": "2026-09-20T14:19:31.754Z",
+        "contentHash": "0264b1c30e801081dd9b512f34426c057be92dc1e4d7a9d1be8d40f56f71cdeb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.projects.tuebingen.mpg.de/",
+        "type": "research",
+        "label": "Programa conjunto CaCTüS · calendario y campos de investigación",
+        "observedAt": "2026-09-20T14:20:44.105Z",
+        "checkedAt": "2026-09-20T14:20:44.105Z",
+        "contentHash": "8dfa9e8cbde5365fab4d825aad704be7c686b78a50d82dacab50f38803ee9a96",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "al-east11-epoka",
+    "name": "EPOKA University",
+    "country": "AL",
+    "officialUrl": "https://admissions.epoka.edu.al/content/NTQw/Scholarships/Master-Study-Programs",
+    "domains": [
+      "epoka.edu.al"
+    ],
+    "sources": [
+      {
+        "url": "https://admissions.epoka.edu.al/content/NTQw/Scholarships/Master-Study-Programs",
+        "type": "funding",
+        "label": "EPOKA — descuentos de mérito para máster",
+        "observedAt": "2026-09-20T14:33:49.426Z",
+        "checkedAt": "2026-09-20T14:33:49.426Z",
+        "contentHash": "8524794035c46d8ed522fa36c44be23e689a42f83a5c24dc51e8226c9bf4a5af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://cms.epoka.edu.al/api/CMS_Archive/assets/Directive-on-scholarships-pdf-363",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · EPOKA — descuentos de mérito para máster",
+        "observedAt": "2026-09-20T14:33:54.424Z",
+        "checkedAt": "2026-09-20T14:33:54.424Z",
+        "contentHash": "a44ac4599b97b51a7a032524836f1b534c845e29724e33c8dc5286e9c88f4512",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/04xgcc957"
+  },
+  {
+    "id": "xk-east11-ubt",
+    "name": "UBT Higher Education Institution",
+    "country": "XK",
+    "officialUrl": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+    "domains": [
+      "ubt-uni.net"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ubt-uni.net/en/study/student-services/financial-assistance/scholarships/",
+        "type": "funding",
+        "label": "UBT — descuentos por rendimiento académico",
+        "observedAt": "2026-09-20T14:33:54.079Z",
+        "checkedAt": "2026-09-20T14:33:54.079Z",
+        "contentHash": "73f0a5fe2a67ee8737581c47990d6241396dd236bcbcaa46aa3c15fdccd462f9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.ubt-uni.net/sq/30-per-qind-burse-per-ish-studentet-e-ubt-se-ne-programet-me-inovative-master-regjistrohu-sott/",
+        "type": "funding",
+        "label": "UBT — beca de máster para sus graduados · anuncio 2026",
+        "observedAt": "2026-09-20T14:33:54.829Z",
+        "checkedAt": "2026-09-20T14:33:54.829Z",
+        "contentHash": "fb23ce9bf2f63aeaa78c21f5f84c853c36e38059a5a4afd6d4c7d00a078f83d3",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/00033n668"
+  },
+  {
+    "id": "me-east11-education-science",
+    "name": "Ministerio de Educación, Ciencia e Innovación de Montenegro",
+    "country": "ME",
+    "officialUrl": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+    "domains": [
+      "gov.me"
+    ],
+    "sources": [
+      {
+        "url": "https://www.gov.me/clanak/konkurs-za-sufinansiranje-master-i-doktorskih-studija",
+        "type": "funding",
+        "label": "Montenegro — cofinanciación de máster, doctorado y viajes · 2026",
+        "observedAt": "2026-09-20T14:33:54.819Z",
+        "checkedAt": "2026-09-20T14:33:54.819Z",
+        "contentHash": "a89fd5ecbf698ccb751981fb8408c0d482a418c6207ffdec1c0d8c7f6c9c7f32",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/clanak/konkurs-za-dodjelu-stipendija-izvrsnosti-za-doktorska-istrazivanja-u-crnoj-gori-3",
+        "type": "funding",
+        "label": "Montenegro — excelencia en investigación doctoral nacional · 2025",
+        "observedAt": "2026-09-20T14:33:57.178Z",
+        "checkedAt": "2026-09-20T14:33:57.178Z",
+        "contentHash": "532cc0dec154cde39da3786797dd003322ecf71218fcd3250d88a69a7239f9bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://wapi.gov.me/download/e8b034b4-af73-4b47-bb35-5b1b26f4a7d4?version=1.0",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · Montenegro — excelencia en investigación doctoral nacional · 2025",
+        "observedAt": "2026-09-20T14:33:58.111Z",
+        "checkedAt": "2026-09-20T14:33:58.111Z",
+        "contentHash": "13dedc6aab6a3600b8e9ee49c23196136cb9a699cd31e3804c47c387b6e7f54f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/clanak/konkurs-za-stipendije-izvrsnosti-za-doktorska-istrazivanja-u-inostranstvu",
+        "type": "funding",
+        "label": "Montenegro — excelencia doctoral en el extranjero · 2025",
+        "observedAt": "2026-09-20T14:33:58.072Z",
+        "checkedAt": "2026-09-20T14:33:58.072Z",
+        "contentHash": "f558b61ecde76a663466808c74060b5827abf32035eaf10c6ef4dba5894100af",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://wapi.gov.me/download/1198bd0f-94e0-4e24-a391-ab2afa52e7d2?version=1.0",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · Montenegro — excelencia doctoral en el extranjero · 2025",
+        "observedAt": "2026-09-20T14:33:59.715Z",
+        "checkedAt": "2026-09-20T14:33:59.715Z",
+        "contentHash": "e1b9481c29af3462f912d6d4b9eb2f1042f7c7e8dc29e34fb13cb1fbd2d89d2b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/mps/resor-prosvjete/krediti-i-stipendije",
+        "type": "index",
+        "label": "Montenegro: portada de créditos y becas",
+        "observedAt": "2026-09-20T13:54:51.106Z",
+        "checkedAt": "2026-09-20T13:54:51.106Z",
+        "contentHash": "625f6b9d99231a3a59f63d380603127e12b0b0a0aaf571a97aa9108d875b8a4c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.gov.me/mps/nauka-i-inovacije-2/konkursi-i-pozivi-u-oblasti-nauke",
+        "type": "index",
+        "label": "Montenegro: portada de convocatorias de ciencia",
+        "observedAt": "2026-09-20T14:01:03.375Z",
+        "checkedAt": "2026-09-20T14:01:03.375Z",
+        "contentHash": "5397e6f768f8ba7d35e054294ff1bdcd43f164f2f0dcd8ff9189bf35b41ddf0a",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "md-east11-education-research",
+    "name": "Ministerio de Educación e Investigación de Moldova",
+    "country": "MD",
+    "officialUrl": "https://mecc.gov.md/ro/node/16086",
+    "domains": [
+      "mecc.gov.md",
+      "mec.gov.md"
+    ],
+    "sources": [
+      {
+        "url": "https://mecc.gov.md/ro/node/16086",
+        "type": "funding",
+        "label": "Moldova — becas de excelencia y por áreas para doctorandos · 2026",
+        "observedAt": "2026-09-20T14:33:54.835Z",
+        "checkedAt": "2026-09-20T14:33:54.835Z",
+        "contentHash": "4da6c29fe38984e70525c0286480952306a11b7b1a76e2fdeb27bdc23553d385",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.mec.gov.md/ro/advanced-page-type/programe-de-burse",
+        "type": "index",
+        "label": "MEC Moldova: archivo completo Programe de burse",
+        "observedAt": "2026-09-20T13:53:39.529Z",
+        "checkedAt": "2026-09-20T13:53:39.529Z",
+        "contentHash": "88461cde3b30d7de373465f60dbb8970966ba03d4360369503b0e61546c756a6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.mec.gov.md/ro/content/legislatia",
+        "type": "index",
+        "label": "MEC Moldova: índice normativo de investigación",
+        "observedAt": "2026-09-20T13:52:38.706Z",
+        "checkedAt": "2026-09-20T13:52:38.706Z",
+        "contentHash": "e0b189a54dae534692c5617eb3f3d6f55a1f3cc8a28fe5ede6ae28e7eba5f118",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/03twcgp39"
+  },
+  {
+    "id": "xk-east11-education-science",
+    "name": "Ministerio de Educación y Ciencia de Kosovo",
+    "country": "XK",
+    "officialUrl": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+    "domains": [
+      "mash.rks-gov.net"
+    ],
+    "sources": [
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2026/05/Konkurs-per-ndarjen-e-granteve-te-mobiliteteve-afatshkurtera-2026.pdf",
+        "type": "funding",
+        "label": "Kosovo — movilidad científica de corta duración · 2026",
+        "observedAt": "2026-09-20T14:33:55.834Z",
+        "checkedAt": "2026-09-20T14:33:55.834Z",
+        "contentHash": "0d14117a77cba113279815b482c9637830d14df2426303b8ab7f2b37424389de",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Bursa-elitare-dhe-per-student-me-aftesi-te-kufizuara-Thirrja-2025-26.pdf",
+        "type": "funding",
+        "label": "Kosovo — becas de excelencia y apoyo por discapacidad · 2025/26",
+        "observedAt": "2026-09-20T14:33:58.702Z",
+        "checkedAt": "2026-09-20T14:33:58.702Z",
+        "contentHash": "a702ba354c4267d919d1bc6660bce1b17d6860d668b5040548ca99161fbc4a77",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mash.rks-gov.net/wp-content/uploads/2025/10/Konkursi-per-Bursat-Master-jashte-vendit-2025.pdf",
+        "type": "funding",
+        "label": "Kosovo — becas de máster en universidades extranjeras top 200 · 2025",
+        "observedAt": "2026-09-20T14:33:59.483Z",
+        "checkedAt": "2026-09-20T14:33:59.483Z",
+        "contentHash": "d617c3b40883b69e3c3f729e2700fc71c7ceaa727de1459e9253147ce7eb89ce",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mash.rks-gov.net/konkurse/",
+        "type": "index",
+        "label": "MASH Kosovo: archivo completo de concursos",
+        "observedAt": "2026-09-20T13:53:37.966Z",
+        "checkedAt": "2026-09-20T13:53:37.966Z",
+        "contentHash": "f07b6f0f4d544dcbbd7a9327b96a1527635a040c1e802c42242de2981e13d3ec",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "mk-east11-education-science",
+    "name": "Ministerio de Educación y Ciencia de Macedonia del Norte",
+    "country": "MK",
+    "officialUrl": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+    "domains": [
+      "mon.gov.mk"
+    ],
+    "sources": [
+      {
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-vtor-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "type": "funding",
+        "label": "Macedonia del Norte — becas de máster y doctorado en el extranjero · 2026/27",
+        "observedAt": "2026-09-20T14:33:56.338Z",
+        "checkedAt": "2026-09-20T14:33:56.338Z",
+        "contentHash": "34d6b6c758ed8f4f4b1f873d63e2e5735b6f95a1c9e4ebb706627ec7fc78345e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon/konkurs-za-dodeluvanje-stipendii-za-akademski-studii-od-tret-ciklus-vo-stranstvo-za-akademskata-2026-2027-godina",
+        "type": "funding",
+        "label": "Requisitos de acceso · Macedonia del Norte — becas de máster y doctorado en el extranjero · 2026/27",
+        "observedAt": "2026-09-20T14:33:58.011Z",
+        "checkedAt": "2026-09-20T14:33:58.011Z",
+        "contentHash": "7e2c304f9459d23f272633e21fab8f02ee1bf1bb222caf575e7de6f8a341b48b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mon.gov.mk/mk-MK/konkursi-i-stipendii/stipendii-mon",
+        "type": "index",
+        "label": "MON: archivo de becas",
+        "observedAt": "2026-09-20T13:53:36.979Z",
+        "checkedAt": "2026-09-20T13:53:36.979Z",
+        "contentHash": "df208f607fec10877bd22b475e41e34c286528cef5f54ff22a90e473b6dd00c4",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/0221ghv91"
+  },
+  {
+    "id": "mt-east11-malta-enterprise",
+    "name": "Malta Enterprise",
+    "country": "MT",
+    "officialUrl": "https://maltaenterprise.com/GetQualified2026",
+    "domains": [
+      "maltaenterprise.com"
+    ],
+    "sources": [
+      {
+        "url": "https://maltaenterprise.com/GetQualified2026",
+        "type": "funding",
+        "label": "Malta — Get Qualified 2026 y Attainment Bonus",
+        "observedAt": "2026-09-20T14:33:59.615Z",
+        "checkedAt": "2026-09-20T14:33:59.615Z",
+        "contentHash": "27cd8466d5c1909c801b710b8689a41e6a97bde57ff98f90d11ae9d6f08da30c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://maltaenterprise.com/sites/default/files/Get%20Qualified-%20Guidance%20Notes%20%28Version%201.0%20-%202026%29_0.pdf",
+        "type": "funding",
+        "label": "Bases y condiciones oficiales · Malta — Get Qualified 2026 y Attainment Bonus",
+        "observedAt": "2026-09-20T14:34:00.519Z",
+        "checkedAt": "2026-09-20T14:34:00.519Z",
+        "contentHash": "6e24f6112e5e811a3f424ba2fd7b03ed9658b05a6a4fbe1abdedd7c6566bc477",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/00ck9ex56"
+  },
+  {
+    "id": "ge-east11-rustaveli",
+    "name": "Shota Rustaveli National Science Foundation of Georgia",
+    "country": "GE",
+    "officialUrl": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+    "domains": [
+      "rustaveli.org.ge"
+    ],
+    "sources": [
+      {
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi/fondi-atskhadebs-2026-tslis-akhalgazrda-metsnierta-kvlevebis-grantit-dafinansebis-konkurss",
+        "type": "funding",
+        "label": "Georgia — Research Grants for Young Scientists · 2026",
+        "observedAt": "2026-09-20T14:33:59.893Z",
+        "checkedAt": "2026-09-20T14:33:59.893Z",
+        "contentHash": "2a180826cc919474c4e64cfb69569a832b3d5f451d307a36a29007ae2cd6efe1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/akhalgazrda-metsnierta-postdoqtorantebis-kvleviti-grantebis-konkursi",
+        "type": "funding",
+        "label": "Ciudadanía y elegibilidad · Georgia — Research Grants for Young Scientists · 2026",
+        "observedAt": "2026-09-20T14:34:02.655Z",
+        "checkedAt": "2026-09-20T14:34:02.655Z",
+        "contentHash": "29dfc27a70755e0691cee0f34daad0682147f4aa2c1d9ba9bb0fbc2f35363cea",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/siakhleebi/fondi-atskhadebs-2026-tslis-shota-rustavelis-saqartvelos-erovnuli-sametsniero-fondisa-da-saqartvelos-franguli-institutis-ertoblivi-kvleviti-stajirebis-programis-sagranto-konkurss",
+        "type": "funding",
+        "label": "Georgia–Francia — estancia de investigación GFI · 2026",
+        "observedAt": "2026-09-20T14:34:01.784Z",
+        "checkedAt": "2026-09-20T14:34:01.784Z",
+        "contentHash": "e42d6f93c76c45764bee5ec6314b986c3a698007cf9d96f59f4d0010431059db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/konkursebi-da-programebi",
+        "type": "index",
+        "label": "SRNSFG: índice general completo de programas",
+        "observedAt": "2026-09-20T13:55:03.978Z",
+        "checkedAt": "2026-09-20T13:55:03.978Z",
+        "contentHash": "d6563b810436f03879691d8d12e8fd6c069ea057ed45b3ac17f7cc2532a2a7db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://rustaveli.org.ge/eng/2026-tslis-konkursebi",
+        "type": "index",
+        "label": "SRNSFG: calendario completo de convocatorias 2026",
+        "observedAt": "2026-09-20T13:55:04.841Z",
+        "checkedAt": "2026-09-20T13:55:04.841Z",
+        "contentHash": "be69795c26fd69e4f0aeb6b038831b1b9c72ebd355bbe8de788e4cbd984120e5",
+        "accessOutcome": "ok"
+      }
+    ],
+    "ror": "https://ror.org/00xc87681",
+    "geographyNote": "Ampliación académica del EEES; no se presume localización en la Europa geográfica."
+  },
+  {
+    "id": "az-east11-study-in-azerbaijan",
+    "name": "Ministerios de Asuntos Exteriores y de Ciencia y Educación de Azerbaiyán",
+    "country": "AZ",
+    "officialUrl": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+    "domains": [
+      "studyinazerbaijan.edu.az"
+    ],
+    "sources": [
+      {
+        "url": "https://www.studyinazerbaijan.edu.az/H.Aliyev_IEG_CALL_18.04.pdf",
+        "type": "funding",
+        "label": "Azerbaiyán — Heydar Aliyev International Education Grant · 2026/27",
+        "observedAt": "2026-09-20T14:34:00.397Z",
+        "checkedAt": "2026-09-20T14:34:00.397Z",
+        "contentHash": "4b370d88f48414442116e8cfc2028f4bc76988c376ef0bedfafb78de6652d0be",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://docs.google.com/spreadsheets/d/1HRhnXQekFQ3Le4WV9tEF1nJ4xCUtnEKR/edit?usp=drive_link&ouid=115156725582018381157&rtpof=true&sd=true",
+        "type": "funding",
+        "label": "Áreas y estudios elegibles · Azerbaiyán — Heydar Aliyev International Education Grant · 2026/27",
+        "observedAt": "2026-09-20T14:34:06.762Z",
+        "checkedAt": "2026-09-20T14:34:06.762Z",
+        "contentHash": "78b553c72e8f430d6da2c22867c5b12a032edb35709b977462cc4270bc420047",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.studyinazerbaijan.edu.az/financial-support",
+        "type": "index",
+        "label": "Study in Azerbaijan: cinco grupos de apoyo",
+        "observedAt": "2026-09-20T13:51:54.844Z",
+        "checkedAt": "2026-09-20T13:51:54.844Z",
+        "contentHash": "5d6b21304fa5af02e83c5c48ee9f5c914d7e5ee51c4d2d0f16cac9605d74cf71",
+        "accessOutcome": "ok"
+      }
+    ],
+    "geographyNote": "Ampliación académica del EEES; no se presume localización en la Europa geográfica."
   }
 ]

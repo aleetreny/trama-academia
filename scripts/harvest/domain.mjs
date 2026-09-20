@@ -8,6 +8,10 @@ export function fieldsFrom(text){
   // Normalise the languages observed in programme catalogues before applying the
   // shared discipline rules. This prevents an English-only admission bias.
   text=String(text).replace(/mathematics applied to/gi,'applied mathematics');
+  // Bergen's official subject name includes both computing and information science.
+  text=text.replace(/\bcomputer and information sciences?\b/gi,'computer science');
+  // Named subjects in the Czech VSB, UWB and CTU programme catalogues.
+  text=text.replace(/výpočetní a aplikovaná matematika|numerická matematika/gi,'applied mathematics').replace(/strojové učení|umělou inteligenci/gi,'machine learning');
   // BayNAT's named computational-mathematics programme is an applied route.
   text=text.replace(/computational mathematics in science and engineering/gi,'computational applied mathematics');
   // Fribourg describes applied-probability supervision in French. Preserve the
