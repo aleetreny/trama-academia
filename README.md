@@ -79,6 +79,7 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 - [Revisión de Austria](docs/austria-review-2026-09-21.md): 38 másteres y 6 programas de financiación, rutas agrupadas, créditos de tesis contrastados y cobertura pendiente por institución.
 - [Revisión de doctorados de Polonia](docs/poland-doctoral-review-2026-09-21.md): seis rutas doctorales y dos ayudas, con requisitos, estipendios y rondas cerradas diferenciados.
 - [Revisión de Letonia](docs/latvia-review-2026-09-21.md): ocho másteres, un doctorado y cuatro instrumentos de financiación, con rutas agrupadas y discrepancias de admisión y elegibilidad visibles.
+- [Revisión de Malta](docs/malta-review-2026-09-21.md): quince másteres, cuatro doctorados y tres instrumentos de financiación; modalidades agrupadas, admisión de 2026 y condiciones de las ayudas verificadas.
 
 Para ampliar la cobertura, una fuente debe declarar su alcance, conservar la procedencia y superar la revisión de identidad, disciplina, geografía y condiciones. Los candidatos se preparan con `npm run harvest:candidates`; su puntuación ordena el trabajo y no los incorpora al catálogo.
 

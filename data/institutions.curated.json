@@ -15184,7 +15184,7 @@
     "name": "University of Malta",
     "country": "MT",
     "officialDomain": "um.edu.mt",
-    "officialUrl": "https://www.um.edu.mt/courses/overview/pmsciariftr8-2026-7-o/",
+    "officialUrl": "https://www.um.edu.mt",
     "sources": [
       {
         "type": "masters",
@@ -15212,11 +15212,339 @@
         "url": "https://www.um.edu.mt/research/funding/",
         "label": "Research funding",
         "status": "link_observed"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+        "type": "masters",
+        "label": "MSc Statistics — mainly by research",
+        "observedAt": "2026-09-21T01:21:00.431Z",
+        "checkedAt": "2026-09-21T01:21:00.431Z",
+        "contentHash": "9dee93486dedf4713d9f74c5d299a70cb40bb36672db927e63e2d47e1c4acdc1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+        "type": "phd",
+        "label": "Idioma y requisitos de inglés de UM · PhD — Information and Communication Technology",
+        "observedAt": "2026-09-21T01:46:45.556Z",
+        "checkedAt": "2026-09-21T01:46:45.556Z",
+        "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+        "type": "masters",
+        "label": "Oferta de octubre de 2026 · págs. 1, 38 · MSc Digital Games — rutas de 90 y 120 ECTS",
+        "observedAt": "2026-09-21T01:42:03.709Z",
+        "checkedAt": "2026-09-21T01:42:03.709Z",
+        "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
+        "type": "masters",
+        "label": "MSc Operations Research — mainly by research",
+        "observedAt": "2026-09-21T01:21:02.566Z",
+        "checkedAt": "2026-09-21T01:21:02.566Z",
+        "contentHash": "dc03cd2642524007668112644856713a0b03e2d6c7dd377f22d7385f6625821f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
+        "type": "masters",
+        "label": "MSc Mathematics — mainly by research",
+        "observedAt": "2026-09-21T01:25:27.159Z",
+        "checkedAt": "2026-09-21T01:25:27.159Z",
+        "contentHash": "c48f30fb366747dca3f5e91aaecedd9c93778e1e653aa38d9d440ee7dd3fe1ad",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+        "type": "masters",
+        "label": "MSc Bioinformatics",
+        "observedAt": "2026-09-21T01:41:33.041Z",
+        "checkedAt": "2026-09-21T01:41:33.041Z",
+        "contentHash": "a1858d9b9184be7fbb3ffa2bf4dfc3ad40b799b514213cf6998801918d4ff1c2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/molecularmedicinebiobanking/MasterofScienceinBioinformatics.pdf",
+        "type": "masters",
+        "label": "Reglamento: tesis y supervisión · págs. 2, 3 · MSc Bioinformatics",
+        "observedAt": "2026-09-21T01:45:52.832Z",
+        "checkedAt": "2026-09-21T01:45:52.832Z",
+        "contentHash": "d4a0f132db35e5ea0e322994fc8563212c896d220f8c2702dd32a5ac1d38d139",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+        "type": "funding",
+        "label": "Ejemplo de máster por investigación en UM · UM — exención de matrícula para personal y dependientes",
+        "observedAt": "2026-09-21T01:45:11.954Z",
+        "checkedAt": "2026-09-21T01:45:11.954Z",
+        "contentHash": "dd4153f5c230b89a4e2e958d6f44e2dababd239f7250f6e376f6f77ce0e6cdc8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/informationcommunicationtechnology/MasterofScience.pdf",
+        "type": "masters",
+        "label": "Reglamento del MSc · págs. 2, 3, 4 · MSc Cybersecurity",
+        "observedAt": "2026-09-21T01:38:08.618Z",
+        "checkedAt": "2026-09-21T01:38:08.618Z",
+        "contentHash": "0ea6f3af1a5f30a8ba44aa9d6b376d20a15eb11f8177929826da131641e60bde",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+        "type": "masters",
+        "label": "MSc Information Systems — rutas con tesis de 30 o 60 ECTS",
+        "observedAt": "2026-09-21T01:45:12.429Z",
+        "checkedAt": "2026-09-21T01:45:12.429Z",
+        "contentHash": "34b42a0f9130d58f935cfd135e60ca81e02ff75068cb7164bcbdac2c9b438850",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmsciiistftt4-2026-7-o/",
+        "type": "masters",
+        "label": "Modalidad completa con tesis de 30 ECTS · MSc Information Systems — rutas con tesis de 30 o 60 ECTS",
+        "observedAt": "2026-09-21T01:45:22.621Z",
+        "checkedAt": "2026-09-21T01:45:22.621Z",
+        "contentHash": "e2bbd36bf9111533a5a72cdbdc9340ff3914a8128fb13d1d483cc2c0cbf61c96",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+        "type": "masters",
+        "label": "MSc ICT — Microelectronics and Microsystems",
+        "observedAt": "2026-09-21T01:41:33.569Z",
+        "checkedAt": "2026-09-21T01:41:33.569Z",
+        "contentHash": "05939343b9ec00d31c933498492c93e100ea98a127ead09eb243554ca284c8ef",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/informationcommunicationtechnology/MasterofScienceinInformationandCommunicationTechnology.pdf",
+        "type": "masters",
+        "label": "Reglamento del MSc ICT de 120 ECTS · MSc ICT — Microelectronics and Microsystems",
+        "observedAt": "2026-09-21T01:38:09.382Z",
+        "checkedAt": "2026-09-21T01:38:09.382Z",
+        "contentHash": "75385d6d47b589ffc52c92cf7d1af9b4f5a707b45f464a55cca93c6846215402",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+        "type": "masters",
+        "label": "MSc Cybersecurity",
+        "observedAt": "2026-09-21T01:46:45.068Z",
+        "checkedAt": "2026-09-21T01:46:45.068Z",
+        "contentHash": "31217875586db6373efa84e15e184c8cecf0e3fe23d549516711cafeaacb86b0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/ict/cs/cyber/",
+        "type": "masters",
+        "label": "Descripción académica y orientación del departamento · MSc Cybersecurity",
+        "observedAt": "2026-09-21T01:45:32.630Z",
+        "checkedAt": "2026-09-21T01:45:32.630Z",
+        "contentHash": "42c9cb4d5ed3917f98dae0d2adbeb4aa343e8edf0f4031f7488305093d5ac02f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+        "type": "masters",
+        "label": "MSc Digital Games — rutas de 90 y 120 ECTS",
+        "observedAt": "2026-09-21T02:03:53.536Z",
+        "checkedAt": "2026-09-21T02:03:53.536Z",
+        "contentHash": "aafeba110cf943dcba2f36e403f96bdb3b401bffb0d3c3e9975861488263cba4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/courses/overview/pmscdtgiftt4-2026-7-o/",
+        "type": "masters",
+        "label": "Ruta de investigación: tesis de 90 ECTS · MSc Digital Games — rutas de 90 y 120 ECTS",
+        "observedAt": "2026-09-21T02:04:03.825Z",
+        "checkedAt": "2026-09-21T02:04:03.825Z",
+        "contentHash": "efa5fae3e3c9e9a0256da2bb55d477e40e091e0cdf8a92f4694ac5fe6da5b53f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/digitalgames/prospectivestudents/curriculum/",
+        "type": "masters",
+        "label": "Modalidades y especialización Game AI · MSc Digital Games — rutas de 90 y 120 ECTS",
+        "observedAt": "2026-09-21T02:03:10.070Z",
+        "checkedAt": "2026-09-21T02:03:10.070Z",
+        "contentHash": "542abd66d06ea02ca271f55c86bfd2b83f8de3a662efd88a8f97aa85cbeeeb98",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/digitalgames/prospectivestudents/studywithus/",
+        "type": "masters",
+        "label": "Documentos de solicitud, plazos y tarifas del instituto · MSc Digital Games — rutas de 90 y 120 ECTS",
+        "observedAt": "2026-09-21T02:03:10.507Z",
+        "checkedAt": "2026-09-21T02:03:10.507Z",
+        "contentHash": "38f6ec0c6aca58f0a5ffa3abef22f62616e84cc05665034a4509c29bc258be3d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+        "type": "phd",
+        "label": "PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+        "observedAt": "2026-09-21T02:02:36.528Z",
+        "checkedAt": "2026-09-21T02:02:36.528Z",
+        "contentHash": "e53337fa8eea5dd3eb8d1ccd97739995840e6682aacb151ae4f489b61dbcff6b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/science/aboutus/",
+        "type": "phd",
+        "label": "Oferta doctoral de los departamentos de Ciencias · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+        "observedAt": "2026-09-21T01:54:16.313Z",
+        "checkedAt": "2026-09-21T01:54:16.313Z",
+        "contentHash": "6df9457cb7484b64f9f9d70fa23c22ab97853b07265adefc7b9709458099bf8c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/science/maths/aboutus/",
+        "type": "phd",
+        "label": "Estudios doctorales de Matemáticas · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+        "observedAt": "2026-09-21T01:54:26.293Z",
+        "checkedAt": "2026-09-21T01:54:26.293Z",
+        "contentHash": "4c581987b6a7a6b5763b80e6e1ed4a75a5f3ff5e1d4840d215f35183c3364d20",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/science/maths/ourresearch/",
+        "type": "phd",
+        "label": "Líneas de matemáticas aplicadas · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+        "observedAt": "2026-09-21T02:01:30.942Z",
+        "checkedAt": "2026-09-21T02:01:30.942Z",
+        "contentHash": "68fa20339098407ec45bed5394b2a3142638dbbeb3853b250fe9cd112df41bf0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/science/stator/ourresearch/",
+        "type": "phd",
+        "label": "Líneas de estadística e investigación operativa · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+        "observedAt": "2026-09-21T02:04:35.180Z",
+        "checkedAt": "2026-09-21T02:04:35.180Z",
+        "contentHash": "85daede95181bf18e318ea66d1a7902e7531ab6f178617f0e9ac539b8d215de1",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/science/DoctorofPhilosophy-2.pdf",
+        "type": "phd",
+        "label": "Reglamento de Ciencias de 2024 · págs. 1, 2 · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+        "observedAt": "2026-09-21T02:03:32.013Z",
+        "checkedAt": "2026-09-21T02:03:32.013Z",
+        "contentHash": "83408d9ddbc9b497a40e2ea7af6e0b60ef7922705a8c9e111232edae9e1653c7",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/general/DoctorofPhilosophy-Ph.D.-Regulations02.pdf",
+        "type": "phd",
+        "label": "Reglamento general: admisión, duración y transferencia · págs. 4, 5, 6, 8 · PhD — Information and Communication Technology",
+        "observedAt": "2026-09-21T01:45:42.582Z",
+        "checkedAt": "2026-09-21T01:45:42.582Z",
+        "contentHash": "3e4a2445b70f0832ef2dabb1313f7ae567dba06ec87c42560caa833de97c936c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/digitalgames/phd/",
+        "type": "phd",
+        "label": "PhD Digital Games — investigación en tecnología e IA de videojuegos",
+        "observedAt": "2026-09-21T01:54:36.283Z",
+        "checkedAt": "2026-09-21T01:54:36.283Z",
+        "contentHash": "6db3f02799085a8974ad2276e1f11e26aec2fa90bb77584bff70f084bfce73cd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/digitalgames/airesearchgroup/",
+        "type": "phd",
+        "label": "Investigación del grupo de IA · PhD Digital Games — investigación en tecnología e IA de videojuegos",
+        "observedAt": "2026-09-21T02:02:11.644Z",
+        "checkedAt": "2026-09-21T02:02:11.644Z",
+        "contentHash": "22cf3a221578983a540d4a98a65a3bd8fdd8e7844c3f652f4e7f4528000ddf5a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/digitalgames/phd/phdfaqs/",
+        "type": "phd",
+        "label": "Matrícula, transferencia y tasas de investigación · PhD Digital Games — investigación en tecnología e IA de videojuegos",
+        "observedAt": "2026-09-21T02:01:51.704Z",
+        "checkedAt": "2026-09-21T02:01:51.704Z",
+        "contentHash": "9374f9737731111227769bbc4e02ed9908b776dd58f68292fffe71ec60d71972",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/digitalgames/DoctorofPhilosophy02.pdf",
+        "type": "phd",
+        "label": "Reglamento del Institute of Digital Games de 2024 · págs. 1, 2 · PhD Digital Games — investigación en tecnología e IA de videojuegos",
+        "observedAt": "2026-09-21T02:04:13.403Z",
+        "checkedAt": "2026-09-21T02:04:13.403Z",
+        "contentHash": "ca709610672ebe7baa5f65bd1e4fbfeec8cbb9bdb7960cf58e183e0d5e7414f6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/ict/students/postgraduate/",
+        "type": "phd",
+        "label": "PhD — Information and Communication Technology",
+        "observedAt": "2026-09-21T01:25:27.760Z",
+        "checkedAt": "2026-09-21T01:25:27.760Z",
+        "contentHash": "68db7f921d41f88d826ce98520af7c5ff5c4dec611b479c6768390455ee5af71",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/ict/ai/study/doctorateprogrammephd/",
+        "type": "phd",
+        "label": "Doctorado en el Departamento de IA · PhD — Information and Communication Technology",
+        "observedAt": "2026-09-21T01:54:05.495Z",
+        "checkedAt": "2026-09-21T01:54:05.495Z",
+        "contentHash": "ea578f001730264da69c89ccaa19b4ba37a39293f4f6a5ae2f5c735954c5ba60",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/ict/cis/students/learnaboutourdegrees/",
+        "type": "phd",
+        "label": "Estudios doctorales en Computer Information Systems · PhD — Information and Communication Technology",
+        "observedAt": "2026-09-21T01:54:06.031Z",
+        "checkedAt": "2026-09-21T01:54:06.031Z",
+        "contentHash": "616d1b8cfa92ec7695ee3c0ca1f7caa87fdeccc1e6f0b11c99ab3e6f7239996d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/informationcommunicationtechnology/DoctorofPhilosophy02.pdf",
+        "type": "phd",
+        "label": "Reglamento de ICT de 2023 · págs. 1, 2, 3 · PhD — Information and Communication Technology",
+        "observedAt": "2026-09-21T01:38:19.482Z",
+        "checkedAt": "2026-09-21T01:38:19.482Z",
+        "contentHash": "ffcaf0e6bb6890c82f57ef1be49a83ad5297436e33e93ac5aefd41aaefa887c9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees/",
+        "type": "funding",
+        "label": "UM — exención de matrícula para personal y dependientes",
+        "observedAt": "2026-09-20T12:06:27.532Z",
+        "checkedAt": "2026-09-20T12:06:27.532Z",
+        "contentHash": "6a46b5a7cd77604c4c658605d48d6160418dbc10411992f6a3fa6db93ff84ea9",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+        "type": "funding",
+        "label": "RIDT — ayudas para congresos de doctorandos de UM",
+        "observedAt": "2026-09-21T01:23:35.240Z",
+        "checkedAt": "2026-09-21T01:23:35.240Z",
+        "contentHash": "b6b48b0d9da6779c27bb8fabeec5a33cf0ebb4b9f90c76c47e966702e64aa459",
+        "accessOutcome": "ok"
       }
     ],
     "tier": null,
     "tierNote": "Pendiente de metodología y evidencia comparable por disciplina; no se infiere del prestigio general.",
-    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas."
+    "coverageNote": "Rutas observadas para ampliar cobertura. La presencia de una institución no significa que todas sus oportunidades estén catalogadas.",
+    "ror": "https://ror.org/03a62bv60",
+    "domains": [
+      "um.edu.mt"
+    ]
   },
   {
     "id": "west-uzh",
@@ -52130,6 +52458,135 @@
         "observedAt": "2026-09-21T01:07:28.300Z",
         "checkedAt": "2026-09-21T01:07:28.300Z",
         "contentHash": "e16a9820ce142e5cd0c6fc5d3091402b1c5643a20aaef6766dbfb3c0b66fb109",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "mt-v30-010f84q38",
+    "name": "IDEA College, Malta",
+    "country": "MT",
+    "city": "Mosta",
+    "ror": "https://ror.org/010f84q38",
+    "officialUrl": "https://mt.ideaeducation.com",
+    "domains": [
+      "mt.ideaeducation.com"
+    ],
+    "sources": [
+      {
+        "url": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence/",
+        "type": "masters",
+        "label": "MSc Artificial Intelligence",
+        "observedAt": "2026-09-19T21:50:48.617Z",
+        "checkedAt": "2026-09-19T21:50:48.617Z",
+        "contentHash": "f25142c50676a6d34f804168c5fd8b4916bd3200facb7adf0c8bbbeb1f39b37c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mt.ideaeducation.com/courses/m-sc-in-fintech/",
+        "type": "masters",
+        "label": "MSc FinTech",
+        "observedAt": "2026-09-19T22:15:03.506Z",
+        "checkedAt": "2026-09-19T22:15:03.506Z",
+        "contentHash": "ad4f6af0036451d48faf6b99e355f24b2a0c4c74da660f55382c56d9f7bf10a3",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "mt-v30-038jz4194",
+    "name": "Open Institute of Technology",
+    "country": "MT",
+    "city": "Msida",
+    "ror": "https://ror.org/038jz4194",
+    "officialUrl": "https://www.opit.com",
+    "domains": [
+      "opit.com"
+    ],
+    "sources": [
+      {
+        "url": "https://www.opit.com/courses/computer-science-master/",
+        "type": "funding",
+        "label": "Máster con investigación elegible · OPIT — ayudas de matrícula por necesidad económica y mérito",
+        "observedAt": "2026-09-19T21:50:34.194Z",
+        "checkedAt": "2026-09-19T21:50:34.194Z",
+        "contentHash": "1eec0a046c313eb7e1830c18c4d7043a6bbfbd9a71f05e397fc242ef0841770d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.opit.com/fee-admission/",
+        "type": "funding",
+        "label": "OPIT — ayudas de matrícula por necesidad económica y mérito",
+        "observedAt": "2026-09-21T01:23:32.587Z",
+        "checkedAt": "2026-09-21T01:23:32.587Z",
+        "contentHash": "3faa667fc7f71de6ac984c8948b672e8f0a6c8bf25198e603ff083bec12414bd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.opit.com/courses/master-in-enterprise-cybersecurity/",
+        "type": "masters",
+        "label": "MSc Enterprise Cybersecurity",
+        "observedAt": "2026-09-19T21:49:51.836Z",
+        "checkedAt": "2026-09-19T21:49:51.836Z",
+        "contentHash": "c50f7f3a31e33bf77803e6c3098fa0b55bc7983430d005324cd9bb3c87c99735",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence/",
+        "type": "masters",
+        "label": "MSc Responsible Artificial Intelligence",
+        "observedAt": "2026-09-19T21:51:04.363Z",
+        "checkedAt": "2026-09-19T21:51:04.363Z",
+        "contentHash": "f28e9aac071923a5187a367f728f2124a6cc3c26a605f208dd7b233a5f16bd05",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence/",
+        "type": "phd",
+        "label": "Professional Doctorate in Applied Artificial Intelligence",
+        "observedAt": "2026-09-19T21:50:18.649Z",
+        "checkedAt": "2026-09-19T21:50:18.649Z",
+        "contentHash": "b3a57889d02f72d71303362f2622256ce2116f3363e73f8df45bb5848b29ed54",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.opit.com/wp-content/uploads/2026/03/Professional-Doctorate-in-Applied-AI-Fact-Sheet.pdf",
+        "type": "phd",
+        "label": "Ficha académica de marzo de 2026 · págs. 1, 2, 3, 4, 9, 22, 23 · Professional Doctorate in Applied Artificial Intelligence",
+        "observedAt": "2026-09-21T01:42:14.471Z",
+        "checkedAt": "2026-09-21T01:42:14.471Z",
+        "contentHash": "dd0ccf128fb5cc2a5551591e764352d7398ad596a79e4c650f3d35e77aa71e43",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.opit.com/wp-content/uploads/2026/05/Instruction_for_scholarships_2026.pdf",
+        "type": "funding",
+        "label": "Bases de ayuda 2026/27 · págs. 1, 2, 3 · OPIT — ayudas de matrícula por necesidad económica y mérito",
+        "observedAt": "2026-09-21T01:38:39.489Z",
+        "checkedAt": "2026-09-21T01:38:39.489Z",
+        "contentHash": "1f6137a9f9e2c7de741745ff5f3c1d3a6591f9ad0115d6c98ea022991579fb21",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "mt-v30-02z1kxt68",
+    "name": "Malta College of Arts, Science and Technology",
+    "country": "MT",
+    "city": "Paola",
+    "ror": "https://ror.org/02z1kxt68",
+    "officialUrl": "https://mcast.edu.mt",
+    "domains": [
+      "mcast.edu.mt"
+    ],
+    "sources": [
+      {
+        "url": "https://mcast.edu.mt/full-catalogue/course/it7-o14-24/",
+        "type": "masters",
+        "label": "MSc Computing and Emerging Technologies",
+        "observedAt": "2026-09-20T10:32:10.605Z",
+        "checkedAt": "2026-09-20T10:32:10.605Z",
+        "contentHash": "fedd010b9c87344e86affdbfbf2aac26fa8cb270330992f2bd8e2fae091967d6",
         "accessOutcome": "ok"
       }
     ]

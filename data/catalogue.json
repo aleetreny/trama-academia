@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:28:00.491Z",
+  "generatedAt": "2026-09-21T02:12:02.936Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -188429,6 +188429,1657 @@
           "programme"
         ]
       }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc Statistics — mainly by research",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "3 semestres a tiempo completo · 90 ECTS; también modalidad parcial",
+      "hours": "Completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "BSc con al menos Second Class Honours en un área pertinente, obtenido en los diez años anteriores. También se estudian Third Class Honours con formación o experiencia posterior, otras titulaciones relevantes y títulos más antiguos; pueden exigirse entrevista y preparación complementaria. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "La ficha publica 13.400 EUR de matrícula total para personas no UE. La tarifa UE/EEE no se ha verificado en esta revisión; no se presume gratuidad.",
+      "programmeType": "Máster principalmente por investigación",
+      "researchNote": "Tesis de 60 ECTS y 30 ECTS de formación avanzada. Las opciones de tesis abarcan probabilidad, estadística, investigación operativa y matemática financiera o actuarial; son líneas dentro del programa. El plan 2026/27 documenta trabajo supervisado durante el curso. La modalidad parcial de la oferta de 2026 dura cinco semestres. La oferta oficial de octubre de 2026 cerró el plazo general el 22 de julio y las solicitudes tardías el 15 de septiembre de 2026 a las 14:00, con cierres específicos anteriores. Confirmar la próxima admisión; esta ficha no representa una vacante abierta.",
+      "id": "763f605a5ab1c467bc34",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+      "sourceId": "programme-763f605a5ab1c467bc34",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:21:00.431Z",
+      "seenAt": "2026-09-21T01:21:00.431Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "9dee93486dedf4713d9f74c5d299a70cb40bb36672db927e63e2d47e1c4acdc1",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:21:00.431Z",
+            "contentHash": "9dee93486dedf4713d9f74c5d299a70cb40bb36672db927e63e2d47e1c4acdc1"
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta de octubre de 2026 y calendario · págs. 1, 29",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              29
+            ]
+          }
+        ],
+        "checks": [
+          "degree-research",
+          "english",
+          "2026-calendar"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc Operations Research — mainly by research",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Matemáticas aplicadas",
+        "Estadística"
+      ],
+      "duration": "3 semestres a tiempo completo · 90 ECTS; también modalidad parcial",
+      "hours": "Completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "BSc con al menos Second Class Honours en un área pertinente, obtenido en los diez años anteriores. También se estudian Third Class Honours con formación o experiencia posterior, otras titulaciones relevantes y títulos más antiguos; pueden exigirse entrevista y preparación complementaria. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "La ficha publica 13.400 EUR de matrícula total para personas no UE. La tarifa UE/EEE no se ha verificado en esta revisión; no se presume gratuidad.",
+      "programmeType": "Máster principalmente por investigación",
+      "researchNote": "Tesis de 60 ECTS y 30 ECTS de asignaturas en métodos cuantitativos. El programa permite investigar en optimización, probabilidad, estadística y matemática financiera o actuarial. La oferta de 2026 distingue este título del MSc Statistics y contempla cinco semestres a tiempo parcial. La oferta oficial de octubre de 2026 cerró el plazo general el 22 de julio y las solicitudes tardías el 15 de septiembre de 2026 a las 14:00, con cierres específicos anteriores. Confirmar la próxima admisión; esta ficha no representa una vacante abierta.",
+      "id": "d4ce7a2f1aac7471c0d1",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
+      "sourceId": "programme-d4ce7a2f1aac7471c0d1",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:21:02.566Z",
+      "seenAt": "2026-09-21T01:21:02.566Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "dc03cd2642524007668112644856713a0b03e2d6c7dd377f22d7385f6625821f",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:21:02.566Z",
+            "contentHash": "dc03cd2642524007668112644856713a0b03e2d6c7dd377f22d7385f6625821f"
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta de octubre de 2026 y calendario · págs. 1, 29",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              29
+            ]
+          }
+        ],
+        "checks": [
+          "degree-research",
+          "english",
+          "2026-calendar"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc Mathematics — mainly by research",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "duration": "3 semestres a tiempo completo · 90 ECTS; también modalidad parcial",
+      "hours": "Completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "BSc con al menos Second Class Honours en un área pertinente, obtenido en los diez años anteriores. También se estudian Third Class Honours con formación o experiencia posterior, otras titulaciones relevantes y títulos más antiguos; pueden exigirse entrevista y preparación complementaria. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "La ficha publica 13.400 EUR de matrícula total para personas no UE. La tarifa UE/EEE no se ha verificado en esta revisión; no se presume gratuidad.",
+      "programmeType": "Máster principalmente por investigación",
+      "researchNote": "Tesis de matemáticas de 60 ECTS y 30 ECTS de asignaturas. El encaje en TRAMA se apoya en las opciones de ecuaciones diferenciales, análisis de elementos finitos y problemas inversos de imagen médica; el programa también ofrece matemática pura. La oferta de 2026 contempla seis semestres a tiempo parcial. La oferta oficial de octubre de 2026 cerró el plazo general el 22 de julio y las solicitudes tardías el 15 de septiembre de 2026 a las 14:00, con cierres específicos anteriores. Confirmar la próxima admisión; esta ficha no representa una vacante abierta.",
+      "id": "60194414f76a50aeced0",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
+      "sourceId": "programme-60194414f76a50aeced0",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:25:27.159Z",
+      "seenAt": "2026-09-21T01:25:27.159Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "c48f30fb366747dca3f5e91aaecedd9c93778e1e653aa38d9d440ee7dd3fe1ad",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:25:27.159Z",
+            "contentHash": "c48f30fb366747dca3f5e91aaecedd9c93778e1e653aa38d9d440ee7dd3fe1ad"
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta de octubre de 2026 y calendario · págs. 1, 29",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              29
+            ]
+          }
+        ],
+        "checks": [
+          "degree-research",
+          "english",
+          "2026-calendar"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc Bioinformatics",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Estadística"
+      ],
+      "duration": "3 semestres completo o 5 parcial · 90 ECTS",
+      "hours": "Completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "programmeType": "Máster principalmente por investigación",
+      "entry": "BSc Honours con al menos Second Class en TIC, informática, estadística, matemáticas, biomedicina, bioquímica médica, farmacia, ciencias médicas, biología u otra disciplina aceptada por el comité; también Medicine and Surgery o equivalente. La oferta fija un máximo de diez estudiantes. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "La ficha publica 13.400 EUR de matrícula total para personas no UE. La tarifa UE/EEE no se ha verificado en esta revisión; no se presume gratuidad.",
+      "researchNote": "30 ECTS de asignaturas y tesis supervisada de 60 ECTS, confirmados en el reglamento del programa. Trabaja el desarrollo de métodos computacionales y estadísticos para biología molecular. La ficha 2026/27 conserva una nota de calendario de tesis de 2024/25–2025/26: no se utiliza como fecha vigente. La lista oficial de octubre de 2026 confirma el programa y lo marca cerrado, sin solicitudes tardías.",
+      "id": "4a91b171a98661fd25d9",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+      "sourceId": "programme-4a91b171a98661fd25d9",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:41:33.041Z",
+      "seenAt": "2026-09-21T01:41:33.041Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a1858d9b9184be7fbb3ffa2bf4dfc3ad40b799b514213cf6998801918d4ff1c2",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:41:33.041Z",
+            "contentHash": "a1858d9b9184be7fbb3ffa2bf4dfc3ad40b799b514213cf6998801918d4ff1c2"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/molecularmedicinebiobanking/MasterofScienceinBioinformatics.pdf",
+            "label": "Reglamento: tesis y supervisión · págs. 2, 3",
+            "checkedAt": "2026-09-21T01:45:52.832Z",
+            "contentHash": "d4a0f132db35e5ea0e322994fc8563212c896d220f8c2702dd32a5ac1d38d139",
+            "pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta 2026: cierre y diez plazas · págs. 1, 45",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              45
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "programme-entry",
+          "computational-research",
+          "thesis-credit",
+          "stale-timeline",
+          "current-offer-closed",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc by Research — Faculty of ICT",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "3 semestres completo o 5 parcial · 90 ECTS",
+      "hours": "Completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "programmeType": "Máster por investigación · tesis de 80 ECTS",
+      "entry": "Grado con componente fuerte de TIC, al menos 180 ECTS y Second Class Honours Upper Division; o grado TIC de 180 ECTS con Second Class más un posgrado en TIC; o BEng Honours afín con Second Class. Puede exigirse entrevista. Consultar previamente a un posible supervisor y preparar una propuesta. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "La ficha publica 13.400 EUR de matrícula total para personas no UE. La tarifa UE/EEE no se ha verificado en esta revisión; no se presume gratuidad. Pueden añadirse tasas de laboratorio o recursos de investigación, que deben confirmarse para el proyecto.",
+      "researchNote": "Vía de investigación de la Facultad de ICT: tesis de 80 ECTS más formación metodológica. Se distingue de los másteres por especialidad con 30 o 60 ECTS de tesis. El tema depende de la experiencia y capacidad de supervisión de los departamentos. La oferta oficial de octubre de 2026 cerró el plazo general el 22 de julio y las solicitudes tardías el 15 de septiembre de 2026 a las 14:00, con cierres específicos anteriores. Confirmar la próxima admisión; esta ficha no representa una vacante abierta.",
+      "id": "9a8b4db01ba60fada59d",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+      "sourceId": "programme-9a8b4db01ba60fada59d",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:38:08.618Z",
+      "seenAt": "2026-09-21T01:45:11.954Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "dd4153f5c230b89a4e2e958d6f44e2dababd239f7250f6e376f6f77ce0e6cdc8",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:45:11.954Z",
+            "contentHash": "dd4153f5c230b89a4e2e958d6f44e2dababd239f7250f6e376f6f77ce0e6cdc8"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/informationcommunicationtechnology/MasterofScience.pdf",
+            "label": "Reglamento de la vía con tesis de 80 ECTS · págs. 2, 3, 4, 5, 6",
+            "checkedAt": "2026-09-21T01:38:08.618Z",
+            "contentHash": "0ea6f3af1a5f30a8ba44aa9d6b376d20a15eb11f8177929826da131641e60bde",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta de octubre de 2026 · págs. 1, 20",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              20
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "research-route",
+          "entry-supervision",
+          "fee",
+          "2026-calendar",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc Information Systems — rutas con tesis de 30 o 60 ECTS",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Estadística"
+      ],
+      "duration": "90 ECTS · 6 semestres parcial o 3 completo",
+      "hours": "Parcial de tarde o completo",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado MQF 6 con Second Class Honours o Category II en TIC, ingeniería o disciplina con un componente fuerte de TIC. También se estudian Third Class con cualificaciones o experiencia posterior; otros grados Honours Second Class requieren al menos tres asignaturas previas fijadas por el comité. Puede haber entrevista. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "La ficha publica 13.400 EUR de matrícula total para personas no UE. La tarifa UE/EEE no se ha verificado en esta revisión; no se presume gratuidad. Ambas rutas anuncian posibles tasas adicionales de laboratorio o investigación.",
+      "researchNote": "Una ficha para las dos modalidades del título: principalmente por investigación, parcial de seis semestres y tesis de 60 ECTS; y principalmente docente, completo de tres semestres y tesis de 30 ECTS. Ambas permiten itinerarios de Information Processing o Software Engineering; no se cuentan como títulos separados. La ficha parcial presenta un calendario de tesis de un solo verano que no concuerda con los seis semestres: debe confirmarse. La oferta oficial de octubre de 2026 cerró el plazo general el 22 de julio y las solicitudes tardías el 15 de septiembre de 2026 a las 14:00, con cierres específicos anteriores. Confirmar la próxima admisión; esta ficha no representa una vacante abierta.",
+      "id": "8a9b9f40919230ce6585",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+      "sourceId": "programme-8a9b9f40919230ce6585",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:42:03.709Z",
+      "seenAt": "2026-09-21T01:45:12.429Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "34b42a0f9130d58f935cfd135e60ca81e02ff75068cb7164bcbdac2c9b438850",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:45:12.429Z",
+            "contentHash": "34b42a0f9130d58f935cfd135e60ca81e02ff75068cb7164bcbdac2c9b438850"
+          },
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmsciiistftt4-2026-7-o/",
+            "label": "Modalidad completa con tesis de 30 ECTS",
+            "checkedAt": "2026-09-21T01:45:22.621Z",
+            "contentHash": "e2bbd36bf9111533a5a72cdbdc9340ff3914a8128fb13d1d483cc2c0cbf61c96"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta 2026 de ambas modalidades · págs. 1, 20",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              20
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "research-route",
+          "taught-route",
+          "entry",
+          "fee",
+          "fee",
+          "2026-calendar",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc ICT — Microelectronics and Microsystems",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "4 semestres completo · 120 ECTS; oferta parcial de 8 semestres",
+      "hours": "Completo; parcial según convocatoria",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado Honours en TIC, informática, ingeniería de computadores, ciencias de la computación, ingeniería afín o una combinación de áreas con componente TIC. Las vías de grado sin Honours o titulación comparable con fuerte componente TIC requieren preparación complementaria. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "No UE: 26.800 EUR de matrícula total, 13.400 EUR cada uno de los dos años. La ficha advierte de posibles tasas de laboratorio; confirmar la aplicabilidad al proyecto. Tarifa UE/EEE no verificada.",
+      "researchNote": "Máster de 120 ECTS con tesis de 60 ECTS según el reglamento de ICT, orientado a sistemas microelectrónicos y diseño de sistemas; incluye opciones de IA y aprendizaje automático. La ficha corresponde al título de ICT de 120 ECTS, distinto del MSc Microelectronics and Microsystems de 90 ECTS. La lista de octubre de 2026 marca cerrada la modalidad parcial de ocho semestres. La oferta oficial de octubre de 2026 cerró el plazo general el 22 de julio y las solicitudes tardías el 15 de septiembre de 2026 a las 14:00, con cierres específicos anteriores. Confirmar la próxima admisión; esta ficha no representa una vacante abierta.",
+      "id": "c945429e56d30a5857d8",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+      "sourceId": "programme-c945429e56d30a5857d8",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:38:09.382Z",
+      "seenAt": "2026-09-21T01:41:33.569Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "05939343b9ec00d31c933498492c93e100ea98a127ead09eb243554ca284c8ef",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:41:33.569Z",
+            "contentHash": "05939343b9ec00d31c933498492c93e100ea98a127ead09eb243554ca284c8ef"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/informationcommunicationtechnology/MasterofScienceinInformationandCommunicationTechnology.pdf",
+            "label": "Reglamento del MSc ICT de 120 ECTS",
+            "checkedAt": "2026-09-21T01:38:09.382Z",
+            "contentHash": "75385d6d47b589ffc52c92cf7d1af9b4f5a707b45f464a55cca93c6846215402"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta 2026 y cierre de la modalidad parcial · págs. 1, 21",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              21
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "programme",
+          "fee",
+          "research",
+          "2026-calendar",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+      "institution": "University of Malta",
+      "title": "MSc Cybersecurity",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "6 semestres · 90 ECTS",
+      "hours": "Parcial, formato combinado",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Acceso según el reglamento del MSc de ICT: grado MQF 6 con Second Class Honours o Category II en TIC, ingeniería o un área con componente fuerte de TIC; se contemplan otras vías con experiencia, formación complementaria o entrevista. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "feeNote": "La ficha publica 13.400 EUR de matrícula total para personas no UE. La tarifa UE/EEE no se ha verificado en esta revisión; no se presume gratuidad. Pueden añadirse tasas de laboratorio.",
+      "researchNote": "Programa orientado a la práctica profesional con tesis de 30 ECTS, impartido en formato combinado a tiempo parcial. Incluye seguridad de sistemas, análisis forense y métodos de aprendizaje automático aplicados a ciberseguridad. Las ayudas anunciadas por entidades como MDIA tienen solicitudes y requisitos separados. La oferta oficial de octubre de 2026 cerró el plazo general el 22 de julio y las solicitudes tardías el 15 de septiembre de 2026 a las 14:00, con cierres específicos anteriores. Confirmar la próxima admisión; esta ficha no representa una vacante abierta.",
+      "id": "9ed10f703fc27062d55e",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+      "sourceId": "programme-9ed10f703fc27062d55e",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:38:08.618Z",
+      "seenAt": "2026-09-21T01:46:45.068Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "31217875586db6373efa84e15e184c8cecf0e3fe23d549516711cafeaacb86b0",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:46:45.068Z",
+            "contentHash": "31217875586db6373efa84e15e184c8cecf0e3fe23d549516711cafeaacb86b0"
+          },
+          {
+            "url": "https://www.um.edu.mt/ict/cs/cyber/",
+            "label": "Descripción académica y orientación del departamento",
+            "checkedAt": "2026-09-21T01:45:32.630Z",
+            "contentHash": "42c9cb4d5ed3917f98dae0d2adbeb4aa343e8edf0f4031f7488305093d5ac02f"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/informationcommunicationtechnology/MasterofScience.pdf",
+            "label": "Reglamento del MSc · págs. 2, 3, 4",
+            "checkedAt": "2026-09-21T01:38:08.618Z",
+            "contentHash": "0ea6f3af1a5f30a8ba44aa9d6b376d20a15eb11f8177929826da131641e60bde",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta 2026 · págs. 1, 20",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              20
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "programme",
+          "fees",
+          "discipline",
+          "2026-calendar",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence",
+      "institution": "IDEA College",
+      "title": "MSc Artificial Intelligence",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "18 meses completo o 26 parcial · 90 ECTS",
+      "hours": "Completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado MQF 6 en IA, informática, matemáticas o electrónica; otro grado MQF 6 con dos años de experiencia pertinente; o diploma MQF 5 con cinco años de experiencia relevante. IELTS 6,0 o equivalente si la primera lengua no es inglés. El centro dirige la modalidad parcial a residentes en Malta y alumnado UE; indica matrícula completa para alumnado no UE por visado.",
+      "feeNote": "10.775 EUR publicados para la modalidad parcial. No se ha verificado la tarifa completa. El reclamo de recuperación del 70% depende de las bases de Get Qualified y de tributar en Malta; no es una devolución automática.",
+      "researchNote": "Máster aplicado con 60 ECTS de módulos y disertación de 30 ECTS. Verifica Python, algoritmos, matemáticas para IA y métodos de investigación; aprendizaje automático y modelización probabilística entre las optativas. Anuncia inicios en octubre de 2026 para parcial y noviembre para completo, sin que sean fechas límite de solicitud.",
+      "id": "1b23bf61c5728c945a4f",
+      "applyUrl": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence",
+      "sourceId": "programme-1b23bf61c5728c945a4f",
+      "sourceName": "IDEA College",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T21:50:48.617Z",
+      "seenAt": "2026-09-19T21:50:48.617Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "f25142c50676a6d34f804168c5fd8b4916bd3200facb7adf0c8bbbeb1f39b37c",
+        "checkedUrl": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence/",
+        "method": "official-programme-page",
+        "researchUrl": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence/",
+        "references": [
+          {
+            "url": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T21:50:48.617Z",
+            "contentHash": "f25142c50676a6d34f804168c5fd8b4916bd3200facb7adf0c8bbbeb1f39b37c"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry",
+          "fee-mode",
+          "intake"
+        ]
+      }
+    },
+    {
+      "url": "https://mt.ideaeducation.com/courses/m-sc-in-fintech",
+      "institution": "IDEA College",
+      "title": "MSc FinTech",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "18 meses completo o 26 parcial · 90 ECTS",
+      "hours": "Completo o parcial",
+      "entry": "Grado MQF 6 en un área relacionada, o diploma MQF 5 y dos años de experiencia, preferiblemente en FinTech. Se priorizan informática, ciencia de datos, estadística, matemáticas, finanzas y áreas relacionadas. Para titulados TI, la página también menciona experiencia sólida en finanzas. Modalidad parcial dirigida a alumnado de Malta/UE; el centro indica completo para alumnado no UE.",
+      "feeNote": "10.775 EUR para la modalidad parcial; tarifa completa no verificada. El posible beneficio fiscal de Get Qualified está condicionado por la normativa de Malta y la situación tributaria.",
+      "researchNote": "Máster interdisciplinar de finanzas y tecnología con tesis de 30 ECTS, módulo de métodos y asignatura obligatoria de IA y aprendizaje automático. Las optativas incluyen Python financiero, análisis de datos, ciberseguridad y negociación sistemática. Se incluye por esos componentes técnicos y de investigación; su orientación profesional principal es financiera. Anuncia entradas parciales en octubre y completas en abril/noviembre de 2026.",
+      "id": "40efcc1d641c10fb2faa",
+      "applyUrl": "https://mt.ideaeducation.com/courses/m-sc-in-fintech",
+      "sourceId": "programme-40efcc1d641c10fb2faa",
+      "sourceName": "IDEA College",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T22:15:03.506Z",
+      "seenAt": "2026-09-19T22:15:03.506Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "ad4f6af0036451d48faf6b99e355f24b2a0c4c74da660f55382c56d9f7bf10a3",
+        "checkedUrl": "https://mt.ideaeducation.com/courses/m-sc-in-fintech/",
+        "method": "official-programme-page",
+        "researchUrl": "https://mt.ideaeducation.com/courses/m-sc-in-fintech/",
+        "references": [
+          {
+            "url": "https://mt.ideaeducation.com/courses/m-sc-in-fintech/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T22:15:03.506Z",
+            "contentHash": "ad4f6af0036451d48faf6b99e355f24b2a0c4c74da660f55382c56d9f7bf10a3"
+          }
+        ],
+        "checks": [
+          "research",
+          "technical-scope",
+          "entry",
+          "fee-mode"
+        ]
+      }
+    },
+    {
+      "url": "https://www.opit.com/courses/computer-science-master",
+      "institution": "OPIT — Open Institute of Technology",
+      "title": "MSc Applied Data Science and Artificial Intelligence",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Informática"
+      ],
+      "duration": "90 o 120 ECTS · 1,5 o 2 años",
+      "hours": "En línea; tiempo completo",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado universitario, incluso en un área no técnica; no exige conocimientos previos en ciencia de datos o IA. Inglés B2 o equivalente, con prueba del centro si no se dispone de certificado.",
+      "feeNote": "Matrícula total: 6.750 EUR para 90 ECTS o 9.000 EUR para 120 ECTS. Las ayudas y descuentos se solicitan por separado.",
+      "researchNote": "Orientación aplicada entre tecnología y gestión. El proyecto y la disertación consisten en investigación supervisada por OPIT; pueden incorporar una estancia en empresa o laboratorio. Incluye programación en Python, aprendizaje automático y uso de métodos de datos en problemas reales. Dos periodos docentes suman 60 ECTS; el trabajo final se cursa en uno o dos periodos para completar 90 o 120 ECTS. La página anuncia inicio en septiembre de 2026, sin verificar una fecha límite de admisión.",
+      "id": "0a5794299728a5063894",
+      "applyUrl": "https://www.opit.com/courses/computer-science-master",
+      "sourceId": "programme-0a5794299728a5063894",
+      "sourceName": "OPIT — Open Institute of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T21:50:34.194Z",
+      "seenAt": "2026-09-19T21:50:34.194Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "1eec0a046c313eb7e1830c18c4d7043a6bbfbd9a71f05e397fc242ef0841770d",
+        "checkedUrl": "https://www.opit.com/courses/computer-science-master/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.opit.com/courses/computer-science-master/",
+        "references": [
+          {
+            "url": "https://www.opit.com/courses/computer-science-master/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T21:50:34.194Z",
+            "contentHash": "1eec0a046c313eb7e1830c18c4d7043a6bbfbd9a71f05e397fc242ef0841770d"
+          },
+          {
+            "url": "https://www.opit.com/fee-admission/",
+            "label": "Tarifas y modalidades de ayuda",
+            "checkedAt": "2026-09-21T01:23:32.587Z",
+            "contentHash": "3faa667fc7f71de6ac984c8948b672e8f0a6c8bf25198e603ff083bec12414bd"
+          }
+        ],
+        "checks": [
+          "degree-mode",
+          "research",
+          "entry",
+          "fees"
+        ]
+      }
+    },
+    {
+      "url": "https://www.opit.com/courses/master-in-enterprise-cybersecurity",
+      "institution": "OPIT — Open Institute of Technology",
+      "title": "MSc Enterprise Cybersecurity",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "90 o 120 ECTS · 1,5 o 2 años",
+      "hours": "En línea; tiempo completo",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado en STEM u otra disciplina e inglés B2 o equivalente. Requiere conocimientos técnicos previos; quien carezca de base en ciberseguridad debe realizar una evaluación de competencias informáticas y de seguridad.",
+      "feeNote": "Matrícula total: 6.750 EUR para 90 ECTS o 9.000 EUR para 120 ECTS. Las ayudas y descuentos se solicitan por separado.",
+      "researchNote": "Proyecto de investigación y disertación supervisados con relevancia industrial: desarrollo de una propuesta y estudio metodológico o práctico. La tesis ocupa uno o dos periodos, con posibilidad de integrar prácticas en empresa. Dos periodos docentes suman 60 ECTS; el trabajo final se cursa en uno o dos periodos para completar 90 o 120 ECTS. La página anuncia inicio en septiembre de 2026, sin verificar una fecha límite de admisión.",
+      "id": "e1ab48f2305dd56b5a61",
+      "applyUrl": "https://www.opit.com/courses/master-in-enterprise-cybersecurity",
+      "sourceId": "programme-e1ab48f2305dd56b5a61",
+      "sourceName": "OPIT — Open Institute of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T21:49:51.836Z",
+      "seenAt": "2026-09-19T21:49:51.836Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "c50f7f3a31e33bf77803e6c3098fa0b55bc7983430d005324cd9bb3c87c99735",
+        "checkedUrl": "https://www.opit.com/courses/master-in-enterprise-cybersecurity/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.opit.com/courses/master-in-enterprise-cybersecurity/",
+        "references": [
+          {
+            "url": "https://www.opit.com/courses/master-in-enterprise-cybersecurity/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T21:49:51.836Z",
+            "contentHash": "c50f7f3a31e33bf77803e6c3098fa0b55bc7983430d005324cd9bb3c87c99735"
+          },
+          {
+            "url": "https://www.opit.com/fee-admission/",
+            "label": "Tarifas y modalidades de ayuda",
+            "checkedAt": "2026-09-21T01:23:32.587Z",
+            "contentHash": "3faa667fc7f71de6ac984c8948b672e8f0a6c8bf25198e603ff083bec12414bd"
+          }
+        ],
+        "checks": [
+          "degree-mode",
+          "research",
+          "entry",
+          "fees"
+        ]
+      }
+    },
+    {
+      "url": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence",
+      "institution": "OPIT — Open Institute of Technology",
+      "title": "MSc Responsible Artificial Intelligence",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "duration": "90 o 120 ECTS · 1,5 o 2 años",
+      "hours": "En línea; tiempo completo",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado en STEM u otra disciplina e inglés B2 o equivalente. Se exige base técnica previa o una evaluación de competencias informáticas para quienes no la tengan.",
+      "feeNote": "Matrícula total: 6.750 EUR para 90 ECTS o 9.000 EUR para 120 ECTS. Las ayudas y descuentos se solicitan por separado.",
+      "researchNote": "Máster aplicado en IA responsable con programación, análisis y visualización de datos, diseño centrado en personas y ética. Incluye un proyecto final y disertación, también realizables con una empresa o laboratorio de investigación. Su foco combina aplicaciones y gobernanza de IA. Dos periodos docentes suman 60 ECTS; el trabajo final se cursa en uno o dos periodos para completar 90 o 120 ECTS. La página anuncia inicio en septiembre de 2026, sin verificar una fecha límite de admisión.",
+      "id": "70f5ed9ecbe6dad98525",
+      "applyUrl": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence",
+      "sourceId": "programme-70f5ed9ecbe6dad98525",
+      "sourceName": "OPIT — Open Institute of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T21:51:04.363Z",
+      "seenAt": "2026-09-19T21:51:04.363Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "f28e9aac071923a5187a367f728f2124a6cc3c26a605f208dd7b233a5f16bd05",
+        "checkedUrl": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence/",
+        "references": [
+          {
+            "url": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T21:51:04.363Z",
+            "contentHash": "f28e9aac071923a5187a367f728f2124a6cc3c26a605f208dd7b233a5f16bd05"
+          },
+          {
+            "url": "https://www.opit.com/fee-admission/",
+            "label": "Tarifas y modalidades de ayuda",
+            "checkedAt": "2026-09-21T01:23:32.587Z",
+            "contentHash": "3faa667fc7f71de6ac984c8948b672e8f0a6c8bf25198e603ff083bec12414bd"
+          }
+        ],
+        "checks": [
+          "degree-mode",
+          "research",
+          "entry",
+          "fees"
+        ]
+      }
+    },
+    {
+      "url": "https://mcast.edu.mt/full-catalogue/institute/ict/course/it7-o14-24",
+      "institution": "Malta College of Arts, Science and Technology",
+      "title": "MSc Computing and Emerging Technologies",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "3 semestres · 18 meses · 90 ECTS",
+      "entry": "Titulación MQF/EQF 6 de al menos 180 créditos en computación, sistemas o tecnologías de información, ciencia o tecnología. Otras áreas deben acreditar experiencia en computación y programación; se exige entrevista. Vía de madurez: al menos 27 años, MQF 5 afín y tres años de experiencia profesional pertinente a tiempo completo, con entrevista combinada.",
+      "feeNote": "El catálogo indica que hay matrícula de pago y remite a MG2i para importes; cifra no verificada.",
+      "researchNote": "El catálogo oficial describe formación investigadora y un trabajo independiente al final del programa en computación, datos, IA y tecnologías emergentes. No se ha confirmado el número de créditos del trabajo final. La impartición completa depende de que se forme una cohorte internacional; la modalidad parcial se consulta en MG2i. El catálogo advierte que está en actualización.",
+      "id": "66abd204416491c88f3f",
+      "applyUrl": "https://mcast.edu.mt/full-catalogue/institute/ict/course/it7-o14-24",
+      "sourceId": "programme-66abd204416491c88f3f",
+      "sourceName": "Malta College of Arts, Science and Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T10:32:10.605Z",
+      "seenAt": "2026-09-20T10:32:10.605Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "fedd010b9c87344e86affdbfbf2aac26fa8cb270330992f2bd8e2fae091967d6",
+        "checkedUrl": "https://mcast.edu.mt/full-catalogue/course/it7-o14-24/",
+        "method": "official-programme-page",
+        "researchUrl": "https://mcast.edu.mt/full-catalogue/course/it7-o14-24/",
+        "references": [
+          {
+            "url": "https://mcast.edu.mt/full-catalogue/course/it7-o14-24/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T10:32:10.605Z",
+            "contentHash": "fedd010b9c87344e86affdbfbf2aac26fa8cb270330992f2bd8e2fae091967d6"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry",
+          "conditional-cohort"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+      "title": "MSc Digital Games — rutas de 90 y 120 ECTS",
+      "stage": "master",
+      "institution": "University of Malta",
+      "country": "MT",
+      "kind": "programme",
+      "languages": [
+        "Inglés"
+      ],
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "90 ECTS: 3 semestres completo o 6 parcial; investigación de 120 ECTS: 4 semestres completo",
+      "hours": "Completo; parcial en la ruta de 90 ECTS",
+      "programmeType": "Máster con rutas docente e investigadora",
+      "entry": "Grado en TIC, ingeniería, comunicación, humanidades, ciencias sociales u otra área admitida; portfolio de trabajos y carta de motivación. Para Game AI se espera base en informática o ingeniería y programación orientada a objetos. La vía de investigación exige propuesta coherente con los estudios previos, evaluada por claridad, viabilidad y pertinencia; posible entrevista y disponibilidad de supervisor. Docencia en inglés; prueba admitida por UM para quienes cursaron secundaria en el extranjero, salvo exención. IELTS académico 6,5 con 6,0 en cada componente es una opción.",
+      "feeNote": "No UE: 13.400 EUR totales para la vía de 90 ECTS y 26.800 EUR para la de 120 ECTS. La página del instituto declara matrícula gratuita para UE y 400 EUR de inscripción anual, pero su cifra no UE de 13.400 EUR por año es imprecisa para la vía de 90 ECTS: su ficha específica fija el segundo año sin matrícula. Confirmar la tarifa individual antes de matricularse.",
+      "researchNote": "Una ficha agrupa el mismo título y sus modalidades. La vía de 90 ECTS incluye disertación de 30 ECTS, que puede adoptar la forma de videojuego desarrollado o estudio teórico. La de investigación suma 30 ECTS docentes y disertación de 90 ECTS durante dos años. TRAMA destaca Game AI y tecnología: IA, aprendizaje automático, programación y generación de contenidos; el programa también tiene una vía de humanidades. La oferta oficial de octubre de 2026 confirma ambas rutas. Los plazos de admisión de 2026 ya han pasado: el instituto fija 1 de julio para no UE que requieran visado y 22 de julio general; la lista institucional fija 15 de septiembre como plazo tardío general. La supuesta beca internacional enlazada por el instituto devuelve 404 y no se presenta como disponible.",
+      "id": "13961ee4f53d6ae643fe",
+      "applyUrl": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+      "sourceId": "programme-13961ee4f53d6ae643fe",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:42:03.709Z",
+      "seenAt": "2026-09-21T02:03:53.536Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "aafeba110cf943dcba2f36e403f96bdb3b401bffb0d3c3e9975861488263cba4",
+        "checkedUrl": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:03:53.536Z",
+            "contentHash": "aafeba110cf943dcba2f36e403f96bdb3b401bffb0d3c3e9975861488263cba4"
+          },
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscdtgiftt4-2026-7-o/",
+            "label": "Ruta de investigación: tesis de 90 ECTS",
+            "checkedAt": "2026-09-21T02:04:03.825Z",
+            "contentHash": "efa5fae3e3c9e9a0256da2bb55d477e40e091e0cdf8a92f4694ac5fe6da5b53f"
+          },
+          {
+            "url": "https://www.um.edu.mt/digitalgames/prospectivestudents/curriculum/",
+            "label": "Modalidades y especialización Game AI",
+            "checkedAt": "2026-09-21T02:03:10.070Z",
+            "contentHash": "542abd66d06ea02ca271f55c86bfd2b83f8de3a662efd88a8f97aa85cbeeeb98"
+          },
+          {
+            "url": "https://www.um.edu.mt/digitalgames/prospectivestudents/studywithus/",
+            "label": "Documentos de solicitud, plazos y tarifas del instituto",
+            "checkedAt": "2026-09-21T02:03:10.507Z",
+            "contentHash": "38f6ec0c6aca58f0a5ffa3abef22f62616e84cc05665034a4509c29bc258be3d"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/study/admissions/october_list.pdf",
+            "label": "Oferta de octubre de 2026 · págs. 1, 38",
+            "checkedAt": "2026-09-21T01:42:03.709Z",
+            "contentHash": "fb38b5ab80d71259650c6f4f782741db184dee15d9be7d09dd3db3d1d440a7bc",
+            "pages": [
+              1,
+              38
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Requisitos de inglés",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "research90",
+          "research120",
+          "technical-scope",
+          "fee-and-deadline",
+          "offer",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+      "title": "PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+      "stage": "doctorado",
+      "institution": "University of Malta",
+      "country": "MT",
+      "kind": "programme",
+      "languages": [
+        "Inglés"
+      ],
+      "fields": [
+        "Matemáticas aplicadas",
+        "Estadística"
+      ],
+      "duration": "3 años completo o 6 parcial; normalmente al menos 4 completo si se accede con grado",
+      "hours": "Completo o parcial",
+      "entry": "Máster pertinente, o grado con al menos Second Class Honours Upper Division, o titulación comparable. Normalmente obtenido en los últimos diez años; los anteriores requieren demostrar competencia investigadora. Propuesta de 2.000–3.000 palabras, acuerdo previo de supervisor y evaluación de admisión. Docencia en inglés; prueba admitida por UM para quienes cursaron secundaria en el extranjero, salvo exención. IELTS académico 6,5 con 6,0 en cada componente es una opción.",
+      "researchNote": "Doctorado de la Facultad de Ciencias con matrícula inicial MPhil y evaluación para pasar a PhD. Se agrupan las áreas pertinentes sin contar cada tema como un programa nuevo. Matemáticas ofrece problemas inversos, modelización, métodos numéricos de ecuaciones diferenciales e imagen médica; Statistics & Operations Research trabaja probabilidad, estadística, optimización y simulación. La facultad confirma que sus departamentos ofrecen doctorados ligados a sus áreas de investigación. El acceso con grado requiere recomendación académica específica y normalmente prolonga a cuatro años la duración completa. Supervisión y capacidad de acogida deben confirmarse.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "La admisión académica no incluye automáticamente contrato ni beca. Las ayudas y plazas remuneradas se solicitan por separado; matrícula y posibles tasas de investigación deben confirmarse."
+      },
+      "id": "7c0be268470c235f6d36",
+      "applyUrl": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+      "sourceId": "programme-7c0be268470c235f6d36",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:45:42.582Z",
+      "seenAt": "2026-09-21T02:02:36.528Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "e53337fa8eea5dd3eb8d1ccd97739995840e6682aacb151ae4f489b61dbcff6b",
+        "checkedUrl": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:02:36.528Z",
+            "contentHash": "e53337fa8eea5dd3eb8d1ccd97739995840e6682aacb151ae4f489b61dbcff6b"
+          },
+          {
+            "url": "https://www.um.edu.mt/science/aboutus/",
+            "label": "Oferta doctoral de los departamentos de Ciencias",
+            "checkedAt": "2026-09-21T01:54:16.313Z",
+            "contentHash": "6df9457cb7484b64f9f9d70fa23c22ab97853b07265adefc7b9709458099bf8c"
+          },
+          {
+            "url": "https://www.um.edu.mt/science/maths/aboutus/",
+            "label": "Estudios doctorales de Matemáticas",
+            "checkedAt": "2026-09-21T01:54:26.293Z",
+            "contentHash": "4c581987b6a7a6b5763b80e6e1ed4a75a5f3ff5e1d4840d215f35183c3364d20"
+          },
+          {
+            "url": "https://www.um.edu.mt/science/maths/ourresearch/",
+            "label": "Líneas de matemáticas aplicadas",
+            "checkedAt": "2026-09-21T02:01:30.942Z",
+            "contentHash": "68fa20339098407ec45bed5394b2a3142638dbbeb3853b250fe9cd112df41bf0"
+          },
+          {
+            "url": "https://www.um.edu.mt/science/stator/ourresearch/",
+            "label": "Líneas de estadística e investigación operativa",
+            "checkedAt": "2026-09-21T02:04:35.180Z",
+            "contentHash": "85daede95181bf18e318ea66d1a7902e7531ab6f178617f0e9ac539b8d215de1"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/science/DoctorofPhilosophy-2.pdf",
+            "label": "Reglamento de Ciencias de 2024 · págs. 1, 2",
+            "checkedAt": "2026-09-21T02:03:32.013Z",
+            "contentHash": "83408d9ddbc9b497a40e2ea7af6e0b60ef7922705a8c9e111232edae9e1653c7",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/general/DoctorofPhilosophy-Ph.D.-Regulations02.pdf",
+            "label": "Reglamento general de doctorado de 2023 · págs. 4, 5, 6, 8",
+            "checkedAt": "2026-09-21T01:45:42.582Z",
+            "contentHash": "3e4a2445b70f0832ef2dabb1313f7ae567dba06ec87c42560caa833de97c936c",
+            "pages": [
+              4,
+              5,
+              6,
+              8
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Requisitos de inglés",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "doctoral-offer",
+          "applied-math",
+          "statistics-or",
+          "entry",
+          "supervision-proposal",
+          "duration",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/digitalgames/phd/",
+      "title": "PhD Digital Games — investigación en tecnología e IA de videojuegos",
+      "stage": "doctorado",
+      "institution": "University of Malta",
+      "country": "MT",
+      "kind": "programme",
+      "languages": [
+        "Inglés"
+      ],
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "3 años completo o 6 parcial; normalmente al menos 4 completo si se accede con grado",
+      "hours": "Completo o parcial",
+      "entry": "Máster pertinente, o grado First Class Honours en un área apropiada. También pueden valorarse másteres de otras disciplinas con experiencia o conocimientos adecuados. CV, tres cartas de referencia, expediente y propuesta de investigación; acordar antes tema y supervisor. Docencia en inglés; prueba admitida por UM para quienes cursaron secundaria en el extranjero, salvo exención. IELTS académico 6,5 con 6,0 en cada componente es una opción.",
+      "researchNote": "Doctorado del Institute of Digital Games en tecnología, análisis y diseño de juegos. El encaje en TRAMA corresponde a las líneas de IA, aprendizaje automático, computación afectiva y modelización de jugadores. Admite solicitudes todo el año. Empieza con matrícula MPhil y requiere evaluación de transferencia y tesis doctoral; el acceso con grado suele exigir cuatro años completos. La FAQ exige formulario de tasas de investigación incluso cuando sean cero, y aclara que ser contratado como Research Support Officer no sustituye a la admisión doctoral. No se presume una plaza financiada abierta.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "La admisión académica no incluye automáticamente contrato ni beca. Las ayudas y plazas remuneradas se solicitan por separado; matrícula y posibles tasas de investigación deben confirmarse."
+      },
+      "id": "d3659403ed7cf707e9ec",
+      "applyUrl": "https://www.um.edu.mt/digitalgames/phd/",
+      "sourceId": "programme-d3659403ed7cf707e9ec",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:45:42.582Z",
+      "seenAt": "2026-09-21T01:54:36.283Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6db3f02799085a8974ad2276e1f11e26aec2fa90bb77584bff70f084bfce73cd",
+        "checkedUrl": "https://www.um.edu.mt/digitalgames/phd/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/digitalgames/phd/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/digitalgames/phd/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:54:36.283Z",
+            "contentHash": "6db3f02799085a8974ad2276e1f11e26aec2fa90bb77584bff70f084bfce73cd"
+          },
+          {
+            "url": "https://www.um.edu.mt/digitalgames/airesearchgroup/",
+            "label": "Investigación del grupo de IA",
+            "checkedAt": "2026-09-21T02:02:11.644Z",
+            "contentHash": "22cf3a221578983a540d4a98a65a3bd8fdd8e7844c3f652f4e7f4528000ddf5a"
+          },
+          {
+            "url": "https://www.um.edu.mt/digitalgames/phd/phdfaqs/",
+            "label": "Matrícula, transferencia y tasas de investigación",
+            "checkedAt": "2026-09-21T02:01:51.704Z",
+            "contentHash": "9374f9737731111227769bbc4e02ed9908b776dd58f68292fffe71ec60d71972"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/digitalgames/DoctorofPhilosophy02.pdf",
+            "label": "Reglamento del Institute of Digital Games de 2024 · págs. 1, 2",
+            "checkedAt": "2026-09-21T02:04:13.403Z",
+            "contentHash": "ca709610672ebe7baa5f65bd1e4fbfeec8cbb9bdb7960cf58e183e0d5e7414f6",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/general/DoctorofPhilosophy-Ph.D.-Regulations02.pdf",
+            "label": "Reglamento general de doctorado de 2023 · págs. 4, 5, 6, 8",
+            "checkedAt": "2026-09-21T01:45:42.582Z",
+            "contentHash": "3e4a2445b70f0832ef2dabb1313f7ae567dba06ec87c42560caa833de97c936c",
+            "pages": [
+              4,
+              5,
+              6,
+              8
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Requisitos de inglés",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "doctoral-offer",
+          "discipline",
+          "entry",
+          "separate-admission",
+          "supervision-proposal",
+          "duration",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/ict/students/postgraduate/",
+      "institution": "University of Malta",
+      "title": "PhD — Information and Communication Technology",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "3 años completo o 6 parcial; normalmente al menos 4 completo si se accede con grado",
+      "hours": "Completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Máster o grado con al menos Second Class Honours Upper Division en un área pertinente de ingeniería, TIC, matemáticas o ciencias. Títulos obtenidos en los últimos diez años, o evidencia de competencia investigadora si son anteriores. Se exige propuesta de 2.000–3.000 palabras, supervisor que acepte dirigirla y entrevista; la entrada con grado requiere recomendación académica específica. La docencia es en inglés. Para quienes cursaron secundaria en el extranjero se exige una prueba admitida por UM, salvo exención; IELTS académico 6,5 con al menos 6,0 en cada componente es una de las vías.",
+      "researchNote": "Doctorado de investigación con matrícula inicial MPhil y evaluación para transferir a PhD; tesis y defensa oral. Las solicitudes se presentan todo el año y la matrícula puede comenzar el 1 de octubre, diciembre, febrero, abril o junio. La web de la facultad describe un público de TIC; el reglamento de 2023 permite expresamente también ingeniería, matemáticas y ciencias pertinentes. Supervisión sujeta a disponibilidad. La admisión no implica contrato ni financiación.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación y posibles contratos se tramitan por separado. No se ha verificado una beca automática ni un salario asociado a la admisión."
+      },
+      "id": "96aa148a150b64955f91",
+      "applyUrl": "https://www.um.edu.mt/ict/students/postgraduate/",
+      "sourceId": "programme-96aa148a150b64955f91",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:25:27.760Z",
+      "seenAt": "2026-09-21T01:25:27.760Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "68db7f921d41f88d826ce98520af7c5ff5c4dec611b479c6768390455ee5af71",
+        "checkedUrl": "https://www.um.edu.mt/ict/students/postgraduate/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/ict/students/postgraduate/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/ict/students/postgraduate/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:25:27.760Z",
+            "contentHash": "68db7f921d41f88d826ce98520af7c5ff5c4dec611b479c6768390455ee5af71"
+          },
+          {
+            "url": "https://www.um.edu.mt/ict/ai/study/doctorateprogrammephd/",
+            "label": "Doctorado en el Departamento de IA",
+            "checkedAt": "2026-09-21T01:54:05.495Z",
+            "contentHash": "ea578f001730264da69c89ccaa19b4ba37a39293f4f6a5ae2f5c735954c5ba60"
+          },
+          {
+            "url": "https://www.um.edu.mt/ict/cis/students/learnaboutourdegrees/",
+            "label": "Estudios doctorales en Computer Information Systems",
+            "checkedAt": "2026-09-21T01:54:06.031Z",
+            "contentHash": "616d1b8cfa92ec7695ee3c0ca1f7caa87fdeccc1e6f0b11c99ab3e6f7239996d"
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/informationcommunicationtechnology/DoctorofPhilosophy02.pdf",
+            "label": "Reglamento de ICT de 2023 · págs. 1, 2, 3",
+            "checkedAt": "2026-09-21T01:38:19.482Z",
+            "contentHash": "ffcaf0e6bb6890c82f57ef1be49a83ad5297436e33e93ac5aefd41aaefa887c9",
+            "pages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/general/DoctorofPhilosophy-Ph.D.-Regulations02.pdf",
+            "label": "Reglamento general: admisión, duración y transferencia · págs. 4, 5, 6, 8",
+            "checkedAt": "2026-09-21T01:45:42.582Z",
+            "contentHash": "3e4a2445b70f0832ef2dabb1313f7ae567dba06ec87c42560caa833de97c936c",
+            "pages": [
+              4,
+              5,
+              6,
+              8
+            ]
+          },
+          {
+            "url": "https://www.um.edu.mt/study/admissionsadvice/international/englishlanguagerequirements/",
+            "label": "Idioma y requisitos de inglés de UM",
+            "checkedAt": "2026-09-21T01:46:45.556Z",
+            "contentHash": "5705dc4fc7aef7478d93d2fff71ac1f0a2ada5e70e38ef9ee1adef504021a7d2"
+          }
+        ],
+        "checks": [
+          "entry",
+          "proposal",
+          "duration",
+          "year-round",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence",
+      "institution": "OPIT — Open Institute of Technology",
+      "title": "Professional Doctorate in Applied Artificial Intelligence",
+      "country": "MT",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "programmeType": "Doctorado profesional en IA aplicada",
+      "duration": "180 ECTS · 3 años completo o 6 parcial",
+      "hours": "En línea; completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Máster MQF/EQF 7 en STEM, o máster en otra disciplina y cinco años de experiencia profesional relevante para aplicaciones de IA. Inglés B2, CV, declaración de propósito y acuerdo provisional con un supervisor; entrevista de admisión.",
+      "feeNote": "24.000 EUR de matrícula total: 4.000 EUR por periodo en completo o 2.000 en parcial. Pueden añadirse gastos de investigación, publicaciones, viajes o recursos informáticos.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "El centro menciona apoyo del empleador y posibles estipendios ligados a proyectos de supervisores, sujetos a disponibilidad. No se garantiza financiación con la admisión."
+      },
+      "researchNote": "Doctorado profesional MQF/EQF 8, impartido en línea por una institución de Malta. Combina un año de formación con propuesta, investigación aplicada, disertación y defensa ante comité; se orienta a problemas profesionales y organizativos de IA. Se conserva su denominación de Professional Doctorate y no se convierte en un PhD teórico. El desglose de créditos de la disertación difiere entre secciones del folleto de marzo de 2026; se publica el total del programa, 180 ECTS, sin adjudicar una cifra a ese módulo. Inicio anunciado en septiembre de 2026.",
+      "id": "3cc025404e2c615b6c6c",
+      "applyUrl": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence",
+      "sourceId": "programme-3cc025404e2c615b6c6c",
+      "sourceName": "OPIT — Open Institute of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T21:50:18.649Z",
+      "seenAt": "2026-09-19T21:50:18.649Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "b3a57889d02f72d71303362f2622256ce2116f3363e73f8df45bb5848b29ed54",
+        "checkedUrl": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence/",
+        "references": [
+          {
+            "url": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T21:50:18.649Z",
+            "contentHash": "b3a57889d02f72d71303362f2622256ce2116f3363e73f8df45bb5848b29ed54"
+          },
+          {
+            "url": "https://www.opit.com/wp-content/uploads/2026/03/Professional-Doctorate-in-Applied-AI-Fact-Sheet.pdf",
+            "label": "Ficha académica de marzo de 2026 · págs. 1, 2, 3, 4, 9, 22, 23",
+            "checkedAt": "2026-09-21T01:42:14.471Z",
+            "contentHash": "dd0ccf128fb5cc2a5551591e764352d7398ad596a79e4c650f3d35e77aa71e43",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              9,
+              22,
+              23
+            ]
+          }
+        ],
+        "checks": [
+          "programme-mode",
+          "entry",
+          "fee-funding",
+          "professional-research"
+        ]
+      }
+    },
+    {
+      "url": "https://www.opit.com/fee-admission/",
+      "institution": "OPIT — Open Institute of Technology",
+      "title": "OPIT — ayudas de matrícula por necesidad económica y mérito",
+      "country": "MT",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master",
+        "grado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "Según el acuerdo de la ayuda",
+      "entry": "Es necesario solicitar primero el programa y obtener la carta de admisión. La solicitud de ayuda exige documentación económica reciente o declaración fiscal; puede haber entrevista y evaluación competitiva de necesidad y mérito.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Reducción de hasta el 40% de la matrícula. La tabla publica niveles del 20%, 30% y 40% para másteres de tres periodos; no se extrapolan sus importes a la opción de cuatro periodos ni al doctorado."
+      },
+      "researchNote": "Bases 2026/27, versión de abril de 2026. Se concede como reducción de matrícula reflejada en el contrato, sin pago de manutención. No se combina con Early Bird ni con el descuento del 10% por pago anticipado. El número de ayudas depende de los fondos disponibles; los grados y másteres figuran en la tabla, pero no se ha confirmado que la modalidad cubra el doctorado profesional.",
+      "id": "3590e0f21d6e93fbfe99",
+      "applyUrl": "https://www.opit.com/fee-admission/",
+      "sourceId": "programme-3590e0f21d6e93fbfe99",
+      "sourceName": "OPIT — Open Institute of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T21:50:34.194Z",
+      "seenAt": "2026-09-21T01:23:32.587Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "3faa667fc7f71de6ac984c8948b672e8f0a6c8bf25198e603ff083bec12414bd",
+        "checkedUrl": "https://www.opit.com/fee-admission/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.opit.com/fee-admission/",
+        "references": [
+          {
+            "url": "https://www.opit.com/fee-admission/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:23:32.587Z",
+            "contentHash": "3faa667fc7f71de6ac984c8948b672e8f0a6c8bf25198e603ff083bec12414bd"
+          },
+          {
+            "url": "https://www.opit.com/wp-content/uploads/2026/05/Instruction_for_scholarships_2026.pdf",
+            "label": "Bases de ayuda 2026/27 · págs. 1, 2, 3",
+            "checkedAt": "2026-09-21T01:38:39.489Z",
+            "contentHash": "1f6137a9f9e2c7de741745ff5f3c1d3a6591f9ad0115d6c98ea022991579fb21",
+            "pages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "url": "https://www.opit.com/courses/computer-science-master/",
+            "label": "Máster con investigación elegible",
+            "checkedAt": "2026-09-19T21:50:34.194Z",
+            "contentHash": "1eec0a046c313eb7e1830c18c4d7043a6bbfbd9a71f05e397fc242ef0841770d"
+          }
+        ],
+        "checks": [
+          "master-level",
+          "eligibility",
+          "award",
+          "version"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees",
+      "institution": "University of Malta",
+      "title": "UM — exención de matrícula para personal y dependientes",
+      "country": "MT",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master",
+        "doctorado",
+        "grado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Exención de matrícula vinculada al empleo",
+      "duration": "Durante el curso, con permanencia laboral posterior",
+      "entry": "Personal de la University of Malta y dependientes del personal nombrado por el Council. Se exige solicitud y carta de aceptación del curso. No es una ayuda general para solicitantes internacionales.",
+      "funding": {
+        "kind": "fee-waiver",
+        "text": "Exención de las tasas del curso en UM. Si se abandona o no se termina en la fecha acordada, el empleado debe devolver el total exonerado, también cuando estudia su dependiente."
+      },
+      "researchNote": "La exención para máster implica cuatro años de vinculación laboral tras completar el curso; para PhD o doctorado profesional, cinco. La dimisión anticipada activa devoluciones escalonadas según el tiempo transcurrido. La ficha conserva esta obligación para el empleado tanto si cursa los estudios como si la persona beneficiaria es su dependiente. Aplicable a los programas de investigación pertinentes de UM; no incluye una promesa de manutención.",
+      "id": "15df6f6ca65edae5102e",
+      "applyUrl": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees",
+      "sourceId": "programme-15df6f6ca65edae5102e",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T12:06:27.532Z",
+      "seenAt": "2026-09-20T12:06:27.532Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6a46b5a7cd77604c4c658605d48d6160418dbc10411992f6a3fa6db93ff84ea9",
+        "checkedUrl": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T12:06:27.532Z",
+            "contentHash": "6a46b5a7cd77604c4c658605d48d6160418dbc10411992f6a3fa6db93ff84ea9"
+          },
+          {
+            "url": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+            "label": "Ejemplo de máster por investigación en UM",
+            "checkedAt": "2026-09-21T01:45:11.954Z",
+            "contentHash": "dd4153f5c230b89a4e2e958d6f44e2dababd239f7250f6e376f6f77ce0e6cdc8"
+          }
+        ],
+        "checks": [
+          "staff-only",
+          "binding",
+          "repayment"
+        ]
+      }
+    },
+    {
+      "url": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+      "institution": "University of Malta",
+      "title": "RIDT — ayudas para congresos de doctorandos de UM",
+      "country": "MT",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "Una concesión durante el doctorado",
+      "entry": "Doctorandos de UM que hayan superado la transferencia de MPhil a PhD, participen en formación de la Doctoral School y aún no hayan entregado la tesis. Deben presentar como primer autor un artículo o póster aceptado y no haber recibido esta ayuda antes. Se excluye a quienes pueden financiar el congreso por otra beca o proyecto, salvo prueba de rechazo.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Reembolso del 75% de los gastos elegibles hasta 1.750 EUR. Incluye conceptos de viaje, inscripción y dieta conforme a las bases. Se concede una sola vez durante el doctorado."
+      },
+      "researchNote": "Familia de ayudas competitivas con llamadas previstas en enero, mayo y octubre. Financia la difusión de la investigación de doctorandos matriculados en Malta; su uso para congresos europeos encaja en TRAMA, aunque las bases permiten destinos internacionales. Requiere aprobación antes de viajar y no admite congresos dentro del mes siguiente al cierre o anteriores. Salida y regreso desde Malta; justificantes y solicitud de reembolso en quince días. No se ha confirmado una convocatoria específica abierta.",
+      "id": "779a5bebb895087c937b",
+      "applyUrl": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+      "sourceId": "programme-779a5bebb895087c937b",
+      "sourceName": "University of Malta",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:23:35.240Z",
+      "seenAt": "2026-09-21T01:23:35.240Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "b6b48b0d9da6779c27bb8fabeec5a33cf0ebb4b9f90c76c47e966702e64aa459",
+        "checkedUrl": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+        "references": [
+          {
+            "url": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:23:35.240Z",
+            "contentHash": "b6b48b0d9da6779c27bb8fabeec5a33cf0ebb4b9f90c76c47e966702e64aa459"
+          }
+        ],
+        "checks": [
+          "amount",
+          "eligibility",
+          "timing"
+        ]
+      }
     }
   ],
   "sources": [
@@ -245458,130 +247109,473 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-763f605a5ab1c467bc34",
+      "name": "University of Malta · MSc Statistics — mainly by research",
+      "url": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:21:00.431Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d4ce7a2f1aac7471c0d1",
+      "name": "University of Malta · MSc Operations Research — mainly by research",
+      "url": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:21:02.566Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-60194414f76a50aeced0",
+      "name": "University of Malta · MSc Mathematics — mainly by research",
+      "url": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:25:27.159Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-4a91b171a98661fd25d9",
+      "name": "University of Malta · MSc Bioinformatics",
+      "url": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:41:33.041Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-9a8b4db01ba60fada59d",
+      "name": "University of Malta · MSc by Research — Faculty of ICT",
+      "url": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:38:08.618Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-8a9b9f40919230ce6585",
+      "name": "University of Malta · MSc Information Systems — rutas con tesis de 30 o 60 ECTS",
+      "url": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:42:03.709Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-c945429e56d30a5857d8",
+      "name": "University of Malta · MSc ICT — Microelectronics and Microsystems",
+      "url": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:38:09.382Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-9ed10f703fc27062d55e",
+      "name": "University of Malta · MSc Cybersecurity",
+      "url": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:38:08.618Z",
+        "pages": 5,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-1b23bf61c5728c945a4f",
+      "name": "IDEA College · MSc Artificial Intelligence",
+      "url": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T21:50:48.617Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-40efcc1d641c10fb2faa",
+      "name": "IDEA College · MSc FinTech",
+      "url": "https://mt.ideaeducation.com/courses/m-sc-in-fintech",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T22:15:03.506Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-0a5794299728a5063894",
+      "name": "OPIT — Open Institute of Technology · MSc Applied Data Science and Artificial Intelligence",
+      "url": "https://www.opit.com/courses/computer-science-master",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T21:50:34.194Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-e1ab48f2305dd56b5a61",
+      "name": "OPIT — Open Institute of Technology · MSc Enterprise Cybersecurity",
+      "url": "https://www.opit.com/courses/master-in-enterprise-cybersecurity",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T21:49:51.836Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-70f5ed9ecbe6dad98525",
+      "name": "OPIT — Open Institute of Technology · MSc Responsible Artificial Intelligence",
+      "url": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T21:51:04.363Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-66abd204416491c88f3f",
+      "name": "Malta College of Arts, Science and Technology · MSc Computing and Emerging Technologies",
+      "url": "https://mcast.edu.mt/full-catalogue/institute/ict/course/it7-o14-24",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T10:32:10.605Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-13961ee4f53d6ae643fe",
+      "name": "University of Malta · MSc Digital Games — rutas de 90 y 120 ECTS",
+      "url": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:42:03.709Z",
+        "pages": 6,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7c0be268470c235f6d36",
+      "name": "University of Malta · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+      "url": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:45:42.582Z",
+        "pages": 8,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d3659403ed7cf707e9ec",
+      "name": "University of Malta · PhD Digital Games — investigación en tecnología e IA de videojuegos",
+      "url": "https://www.um.edu.mt/digitalgames/phd/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:45:42.582Z",
+        "pages": 6,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-96aa148a150b64955f91",
+      "name": "University of Malta · PhD — Information and Communication Technology",
+      "url": "https://www.um.edu.mt/ict/students/postgraduate/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:25:27.760Z",
+        "pages": 6,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-3cc025404e2c615b6c6c",
+      "name": "OPIT — Open Institute of Technology · Professional Doctorate in Applied Artificial Intelligence",
+      "url": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "MT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T21:50:18.649Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-3590e0f21d6e93fbfe99",
+      "name": "OPIT — Open Institute of Technology · OPIT — ayudas de matrícula por necesidad económica y mérito",
+      "url": "https://www.opit.com/fee-admission/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "MT",
+      "stages": [
+        "master",
+        "grado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T21:50:34.194Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-15df6f6ca65edae5102e",
+      "name": "University of Malta · UM — exención de matrícula para personal y dependientes",
+      "url": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "MT",
+      "stages": [
+        "master",
+        "doctorado",
+        "grado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T12:06:27.532Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-779a5bebb895087c937b",
+      "name": "University of Malta · RIDT — ayudas para congresos de doctorandos de UM",
+      "url": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "MT",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:23:35.240Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "0d6bdca6-3e2c-4421-a1de-c3ffe964fb87",
+    "id": "b14a1e8b-c189-4da1-aa4a-1cc9e989ce40",
     "type": "programme-verification",
-    "parentRunId": "f1c6fd2f-6b63-44bc-9a96-5759228f429b",
-    "startedAt": "2026-09-21T01:16:32.885Z",
-    "finishedAt": "2026-09-21T01:28:00.491Z",
+    "parentRunId": "0d6bdca6-3e2c-4421-a1de-c3ffe964fb87",
+    "startedAt": "2026-09-21T02:11:59.907Z",
+    "finishedAt": "2026-09-21T02:12:02.936Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-17f561b82d8d43fdfc90",
-        "name": "Transport and Telecommunication Institute · Computer Science — Software Engineering / Data Analytics and Artificial Intelligence",
-        "url": "https://tsi.lv/study_programmes/computer-sciences-master",
+        "id": "programme-763f605a5ab1c467bc34",
+        "name": "University of Malta · MSc Statistics — mainly by research",
+        "url": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "LV",
+        "scope": "MT",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T11:07:27.177Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f8972082ec7768245b6b",
-        "name": "Transport and Telecommunication Institute · Management of Information Systems",
-        "url": "https://tsi.lv/study_programmes/management-of-information-systems/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "LV",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T00:28:38.191Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bd23f09070142d9e9f7a",
-        "name": "Transport and Telecommunication Institute · Smart Electronic Systems and Robotics",
-        "url": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "LV",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T00:30:08.508Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a41a998eb979036a8020",
-        "name": "Latvia University of Life Sciences and Technologies · MSc Information Technologies",
-        "url": "https://www.llu.lv/en/information_technologies",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "LV",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:39:54.554Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e04954dd527de4e00f27",
-        "name": "Latvia University of Life Sciences and Technologies · MSc Geoinformatics and Remote Sensing",
-        "url": "https://www.llu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "LV",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T23:33:08.820Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7a67abb445e8980721b1",
-        "name": "Ventspils University of Applied Sciences · MSc Computer Science",
-        "url": "https://en.venta.lv/program/computer-science-ma",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "LV",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:55:04.453Z",
+          "checkedAt": "2026-09-21T01:21:00.431Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -245589,19 +247583,19 @@
         }
       },
       {
-        "id": "programme-1a883c5e6425ba6d455e",
-        "name": "University of Latvia · Smart Cybersecurity — programa conjunto LU / RTU",
-        "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+        "id": "programme-d4ce7a2f1aac7471c0d1",
+        "name": "University of Malta · MSc Operations Research — mainly by research",
+        "url": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "LV",
+        "scope": "MT",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T00:23:33.412Z",
+          "checkedAt": "2026-09-21T01:21:02.566Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -245609,19 +247603,179 @@
         }
       },
       {
-        "id": "programme-0db55fa052ef778a866f",
-        "name": "University of Latvia · MSc Datorzinātnes — Computer Science",
-        "url": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+        "id": "programme-60194414f76a50aeced0",
+        "name": "University of Malta · MSc Mathematics — mainly by research",
+        "url": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "LV",
+        "scope": "MT",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T00:37:09.489Z",
+          "checkedAt": "2026-09-21T01:25:27.159Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-4a91b171a98661fd25d9",
+        "name": "University of Malta · MSc Bioinformatics",
+        "url": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:41:33.041Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-9a8b4db01ba60fada59d",
+        "name": "University of Malta · MSc by Research — Faculty of ICT",
+        "url": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:38:08.618Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-8a9b9f40919230ce6585",
+        "name": "University of Malta · MSc Information Systems — rutas con tesis de 30 o 60 ECTS",
+        "url": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:42:03.709Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-c945429e56d30a5857d8",
+        "name": "University of Malta · MSc ICT — Microelectronics and Microsystems",
+        "url": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:38:09.382Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-9ed10f703fc27062d55e",
+        "name": "University of Malta · MSc Cybersecurity",
+        "url": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:38:08.618Z",
+          "pages": 5,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-1b23bf61c5728c945a4f",
+        "name": "IDEA College · MSc Artificial Intelligence",
+        "url": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T21:50:48.617Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-40efcc1d641c10fb2faa",
+        "name": "IDEA College · MSc FinTech",
+        "url": "https://mt.ideaeducation.com/courses/m-sc-in-fintech",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T22:15:03.506Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-0a5794299728a5063894",
+        "name": "OPIT — Open Institute of Technology · MSc Applied Data Science and Artificial Intelligence",
+        "url": "https://www.opit.com/courses/computer-science-master",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T21:50:34.194Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -245629,80 +247783,180 @@
         }
       },
       {
-        "id": "programme-e186a590a88d30c26e65",
-        "name": "Transport and Telecommunication Institute · PhD Telematics and Logistics",
-        "url": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+        "id": "programme-e1ab48f2305dd56b5a61",
+        "name": "OPIT — Open Institute of Technology · MSc Enterprise Cybersecurity",
+        "url": "https://www.opit.com/courses/master-in-enterprise-cybersecurity",
         "adapter": "programme",
         "type": "institution",
-        "scope": "LV",
+        "scope": "MT",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T01:07:29.359Z",
-          "pages": 4,
+          "checkedAt": "2026-09-19T21:49:51.836Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-437ddbd27695fd3e84ce",
-        "name": "Transport and Telecommunication Institute · TSI — descuentos de matrícula por mérito, situación personal y vinculación",
-        "url": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+        "id": "programme-70f5ed9ecbe6dad98525",
+        "name": "OPIT — Open Institute of Technology · MSc Responsible Artificial Intelligence",
+        "url": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T21:51:04.363Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-66abd204416491c88f3f",
+        "name": "Malta College of Arts, Science and Technology · MSc Computing and Emerging Technologies",
+        "url": "https://mcast.edu.mt/full-catalogue/institute/ict/course/it7-o14-24",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T10:32:10.605Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-13961ee4f53d6ae643fe",
+        "name": "University of Malta · MSc Digital Games — rutas de 90 y 120 ECTS",
+        "url": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:42:03.709Z",
+          "pages": 6,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-7c0be268470c235f6d36",
+        "name": "University of Malta · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
+        "url": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:45:42.582Z",
+          "pages": 8,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-d3659403ed7cf707e9ec",
+        "name": "University of Malta · PhD Digital Games — investigación en tecnología e IA de videojuegos",
+        "url": "https://www.um.edu.mt/digitalgames/phd/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:45:42.582Z",
+          "pages": 6,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-96aa148a150b64955f91",
+        "name": "University of Malta · PhD — Information and Communication Technology",
+        "url": "https://www.um.edu.mt/ict/students/postgraduate/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:25:27.760Z",
+          "pages": 6,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-3cc025404e2c615b6c6c",
+        "name": "OPIT — Open Institute of Technology · Professional Doctorate in Applied Artificial Intelligence",
+        "url": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "MT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T21:50:18.649Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-3590e0f21d6e93fbfe99",
+        "name": "OPIT — Open Institute of Technology · OPIT — ayudas de matrícula por necesidad económica y mérito",
+        "url": "https://www.opit.com/fee-admission/",
         "adapter": "programme",
         "type": "funder",
-        "scope": "LV",
+        "scope": "MT",
         "stages": [
           "master",
-          "doctorado"
+          "grado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T00:45:51.644Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c9d71bbedafe6532a47b",
-        "name": "Transport and Telecommunication Institute · TSI — becas competitivas de matrícula para máster",
-        "url": "https://tsi.lv/future-students/loyalty-grants/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "LV",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T00:59:49.133Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4c8cb3b41cc257356e6c",
-        "name": "Transport and Telecommunication Institute · TSI PhD Grants — descuento para Telematics and Logistics",
-        "url": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "LV",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:00:41.338Z",
+          "checkedAt": "2026-09-19T21:50:34.194Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -245710,20 +247964,42 @@
         }
       },
       {
-        "id": "programme-dce07adfc873f95fbc15",
-        "name": "Ventspils University of Applied Sciences · Ventspils — beca académica para estudiantes en plazas estatales",
-        "url": "https://www.venta.lv/stipendijas",
+        "id": "programme-15df6f6ca65edae5102e",
+        "name": "University of Malta · UM — exención de matrícula para personal y dependientes",
+        "url": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees",
         "adapter": "programme",
         "type": "funder",
-        "scope": "LV",
+        "scope": "MT",
         "stages": [
-          "master"
+          "master",
+          "doctorado",
+          "grado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-19T23:08:46.831Z",
-          "pages": 3,
+          "checkedAt": "2026-09-20T12:06:27.532Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-779a5bebb895087c937b",
+        "name": "University of Malta · RIDT — ayudas para congresos de doctorandos de UM",
+        "url": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "MT",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:23:35.240Z",
+          "pages": 1,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -245731,11 +248007,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-21T01:16:32.885Z",
-      "finishedAt": "2026-09-21T01:28:00.491Z",
+      "startedAt": "2026-09-21T02:11:59.907Z",
+      "finishedAt": "2026-09-21T02:12:02.936Z",
       "scope": "selected-programmes",
-      "verified": 13,
-      "attempted": 13,
+      "verified": 22,
+      "attempted": 22,
       "partial": 0
     }
   },
