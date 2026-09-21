@@ -41,3 +41,9 @@ test('ambiguous identities and joint institutions never inherit a partner tier',
  assert.equal(unique({country:'ES',institution:'Unique University — Partner University',url:'https://university.es'}),null);
  assert.equal(unique({country:'ES',institution:'External',url:'https://university.es.evil.test'}),null);
 });
+
+test('master degree filter excludes internships eligible for masters students',()=>{
+ const input={...data,records:[record('degree',{kind:'programme',stage:'master'}),record('internship',{kind:'programme',stage:'grado',eligibleStages:['grado','master']})]};
+ const f=readFilters(new URLSearchParams('etapa=master&tipo=master-programme&vigencia=programme'));
+ assert.deepEqual(selectRecords(input,f,now).map(x=>x.id),['degree']);
+});
