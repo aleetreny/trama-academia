@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises';
+import {readInstitutionRegistry} from './registry-storage.mjs';
 import path from 'node:path';
 import {load} from 'cheerio';
 import {canonicalUrl,clean,fieldsFrom,hash} from './domain.mjs';
@@ -8,7 +9,7 @@ import {readCrawlState} from './crawl-state.mjs';
 // This is an editorial reading queue, never an importer. Read only the exact
 // cached response checked by the institutional crawler; do not fetch new URLs.
 const output=process.argv[2]||'.cache/discovery-candidates.json';
-const [state,registry,seeds]=await Promise.all([readCrawlState(),...['data/institutions.json','data/programmes.seed.json'].map(async file=>JSON.parse(await fs.readFile(file,'utf8')))]);
+const [state,registry,seeds]=await Promise.all([readCrawlState(),readInstitutionRegistry(),fs.readFile('data/programmes.seed.json','utf8').then(JSON.parse)]);
 const institutions=new Map(registry.institutions.map(i=>[i.id,i]));
 const existing=new Set(seeds.map(s=>canonicalUrl(s.url)));
 const byUrl=new Map();

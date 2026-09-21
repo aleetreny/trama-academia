@@ -1,4 +1,3 @@
-import fs from 'node:fs/promises';
 import {randomUUID} from 'node:crypto';
 import {load} from 'cheerio';
 import {getPage,observations,persistObservations} from './http.mjs';
@@ -6,9 +5,10 @@ import {programmeText} from './programme-evidence.mjs';
 import {fieldsFrom,idFor} from './domain.mjs';
 import {addDiscoveryJob,selectDiscoveryJobs,discoverLinks,publicUrl,isExplicitlyEmptyJobsIndex} from './institution-discovery.mjs';
 import {readCrawlState,writeCrawlState} from './crawl-state.mjs';
+import {readInstitutionRegistry,writeInstitutionRegistry} from './registry-storage.mjs';
 
 const registryFile='data/institutions.json';
-const registry=JSON.parse(await fs.readFile(registryFile,'utf8'));
+const registry=await readInstitutionRegistry(registryFile);
 const state=await readCrawlState();
 const jobs=new Map(state.jobs.map(x=>[x.id,x])),institutions=new Map(registry.institutions.map(x=>[x.id,x]));
 for(const institution of institutions.values()){
@@ -67,6 +67,6 @@ for(const i of institutions.values()){
  i.reviewStatus=i.sources.some(x=>x.status==='checked')?'sources-checked':i.sources.length?'sources-discovered':'candidate';
 }
 registry.crawl=summary();registry.generatedAt=run.finishedAt;
-await save();await fs.writeFile(registryFile+'.tmp',JSON.stringify(registry)+'\n');await fs.rename(registryFile+'.tmp',registryFile);
+await save();await writeInstitutionRegistry(registry,registryFile);
 await persistObservations({runId:run.id});
 console.log(JSON.stringify({run,...registry.crawl,observations:observations.length}));

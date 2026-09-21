@@ -1,10 +1,10 @@
-import fs from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {neon} from '@neondatabase/serverless';
 import {institutionMetadata,institutionSearchText,institutionPriority} from '../harvest/institution-summary.mjs';
 import {validateInstitutionRegistry} from '../harvest/institution-validation.mjs';
+import {readInstitutionRegistry} from '../harvest/registry-storage.mjs';
 if(!process.env.DATABASE_URL)throw new Error('DATABASE_URL required');
-const registry=JSON.parse(await fs.readFile('data/institutions.json','utf8'));
+const registry=await readInstitutionRegistry();
 validateInstitutionRegistry(registry);
 const sql=neon(process.env.DATABASE_URL);
 for(let start=0;start<registry.institutions.length;start+=100){

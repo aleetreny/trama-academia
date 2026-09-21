@@ -84,6 +84,8 @@ La edición completada el **21 de septiembre de 2026** contiene las cuatro disci
 
 ## Publicación y comprobaciones
 
+El registro se guarda en `data/institutions.json` como metadatos y manifiesto de partes de hasta 4 MiB en `data/institutions.parts/`. Cada parte conserva su hash y número de instituciones. `readInstitutionRegistry()` reconstruye y comprueba la edición completa; también lee las instantáneas anteriores. El módulo generado `data/institutions.snapshot.mjs` incluye exactamente la misma edición como respaldo de la web. El rastreador, el reconstruidor del inventario y la actualización semanal mantienen juntos estos archivos. Esta división evita superar el límite de un único archivo del servicio de publicación, sin eliminar fuentes ni cambiar indicadores.
+
 El catálogo y el registro institucional tienen tablas separadas en Neon. La página `/instituciones` consulta 25 filas con los filtros solicitados y usa la instantánea local si falla la base. El rol del sitio solo tiene lectura. El recolector puede insertar y actualizar, pero no borrar filas ni cambiar el esquema. Las migraciones se prueban primero en una rama de validación.
 
 La actualización semanal guarda `catalogue.json`, `institutions.json` e `institution-crawl.json.gz` en Git y publica los datos en Neon. Las pruebas cubren geografía transcontinental, insuficiencia de muestra, empates, cobertura de citas, rotación de países, deduplicación de enlaces, reintentos, documentos y destinos externos, además de los controles de evidencia de programas. La cobertura pública muestra tanto avances como pendientes; no representa este sistema como exhaustivo ni instantáneo.

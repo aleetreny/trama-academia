@@ -1,4 +1,4 @@
-import raw from '@/data/institutions.json';
+import raw from '@/data/institutions.snapshot.mjs';
 import {COUNTRY_NAMES} from '@/lib/types';
 import {and,count,desc,eq,sql} from 'drizzle-orm';
 import {getDb} from '@/db';

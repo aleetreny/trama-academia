@@ -52,7 +52,7 @@ jobs:
         run: |
           git config user.name 'trama-catalogue[bot]'
           git config user.email 'trama-catalogue[bot]@users.noreply.github.com'
-          git add data/catalogue.json data/institutions.json data/institution-crawl.json.gz data/institution-crawl.summary.json
+          git add data/catalogue.json data/institutions.json data/institutions.parts data/institutions.snapshot.mjs data/institution-crawl.json.gz data/institution-crawl.summary.json
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh verified academic catalogue [skip ci]'
             git pull --rebase origin main
