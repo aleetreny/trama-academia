@@ -46,7 +46,7 @@ El registro institucional consulta Neon con filtros y páginas de 25 entidades. 
 ## Reglas de vigencia y extracción
 
 - `open`: fecha futura y comprobación válida en los últimos 14 días.
-- `listed`: vacante institucional con solicitud habilitada, sin fecha publicada.
+- `listed`: vacante institucional con solicitud habilitada o anuncio reciente con fecha de publicación comprobada, sin fecha de cierre. Requiere confirmar disponibilidad; no equivale a plazo abierto. Los anuncios revisados sin cierre deben tener como máximo 30 días y una fecha vinculada a su título y enlace exactos en el índice oficial. Como las demás vacantes, pasan a `unverified` tras 14 días sin comprobación válida.
 - `rolling`: la fuente declara explícitamente admisión continua.
 - `programme`: existe el programa; no implica convocatoria abierta.
 - `unverified`: vigencia o revisión por confirmar.

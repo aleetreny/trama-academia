@@ -20,6 +20,12 @@ TRAMA es un atlas de oportunidades académicas en Europa para **ciencia de datos
 
 Puedes filtrar y comparar hasta tres oportunidades, consultar sus fuentes originales y leer las diferencias entre sistemas doctorales. El [registro institucional](https://trama-academia.aleetreny.chatgpt.site/instituciones) muestra las fuentes localizadas, el avance de revisión y los tiers de investigación por disciplina.
 
+## Edición de presentación · 21 de septiembre de 2026
+
+La instantánea de esta edición reúne **3.373 registros** y **2.946 fuentes**, junto con un inventario de **6.360 instituciones**. De ellas, 3.185 tienen fuentes localizadas y 3.160 alguna fuente comprobada. Son recuentos distintos: el inventario no acredita una revisión completa de cada institución.
+
+Esta edición cierra la ampliación manual con nueve incorporaciones verificadas en Grecia. La revisión semanal permanece configurada. La [guía de presentación](docs/presentation.md) propone un recorrido por el producto y explica cómo interpretar sus cifras y límites.
+
 ## Alcance y confianza
 
 **La cobertura sigue en ampliación.** Los recuentos y las incidencias de cada barrido están en [Fuentes](https://trama-academia.aleetreny.chatgpt.site/fuentes). Una institución localizada o un enlace pendiente no cuentan como una oportunidad verificada. Un programa existente tampoco implica una convocatoria abierta.
@@ -71,6 +77,8 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 
 ## Documentación
 
+- [Guía de presentación](docs/presentation.md): recorrido breve por el producto, cifras de esta edición y límites de cobertura.
+- [Cierre de Grecia](docs/greece-closing-review-2026-09-21.md): cinco másteres, tres familias de financiación y un anuncio docente; nueve fichas nuevas contrastadas con 26 documentos oficiales.
 - [Operación y publicación](docs/operations.md): entorno, actualización semanal, estados, credenciales, diagnóstico y despliegue.
 - [Inventario institucional y tiers](docs/institution-discovery.md): universo geográfico, identidad ROR, cola de rastreo y método bibliométrico.
 - [Adaptadores de fuentes](docs/source-adapters.md): funcionamiento y límites comprobados de los conectores.

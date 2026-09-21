@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T05:27:43.275Z",
+  "generatedAt": "2026-09-21T06:12:41.486Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -195451,6 +195451,736 @@
           "historic-not-current-quota"
         ]
       }
+    },
+    {
+      "url": "https://compmech.chemeng.ntua.gr/en/home/",
+      "institution": "National Technical University of Athens",
+      "title": "MSc Computational Mechanics",
+      "country": "GR",
+      "city": "Athens",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Matemáticas aplicadas",
+        "Machine learning"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "3 semestres · 90 ECTS",
+      "entry": "Titulación de ingeniería o disciplina afín en una universidad reconocida; se admite candidatura de último curso si el título se obtiene antes del inicio. Expediente, CV, acreditación de inglés y dos recomendaciones. La comisión puede exigir formación complementaria.",
+      "feeNote": "La guía 2025/26 actualmente enlazada indica gratuidad para estudiantes de la UE y 500 EUR por semestre para estudiantes de fuera de la UE. La propia guía permite revisar estas tarifas; confirmar las de la próxima cohorte.",
+      "researchNote": "Dos semestres de asignaturas y una tesis obligatoria de 30 ECTS sobre investigación activa del profesorado. Incluye métodos numéricos, optimización y machine learning aplicado a mecánica. Tesis con supervisor y comité de tres examinadores; admite colaboración con empresas o centros de investigación. La enseñanza y la tesis se realizan en inglés. Las fechas de asignación de tesis no son plazos de admisión.",
+      "id": "a655bf5075bc05da183f",
+      "applyUrl": "https://compmech.chemeng.ntua.gr/en/home/",
+      "sourceId": "programme-a655bf5075bc05da183f",
+      "sourceName": "National Technical University of Athens",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:42:26.046Z",
+      "seenAt": "2026-09-21T03:42:26.046Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "791e282fe697c951abd6150fba8feba31bf4372f113fd360421c610633dade41",
+        "checkedUrl": "https://compmech.chemeng.ntua.gr/en/home/",
+        "method": "official-programme-page",
+        "researchUrl": "https://compmech.chemeng.ntua.gr/en/purpose/",
+        "references": [
+          {
+            "url": "https://compmech.chemeng.ntua.gr/en/home/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T03:42:26.046Z",
+            "contentHash": "791e282fe697c951abd6150fba8feba31bf4372f113fd360421c610633dade41"
+          },
+          {
+            "url": "https://compmech.chemeng.ntua.gr/en/purpose/",
+            "label": "Estructura e investigación del programa",
+            "checkedAt": "2026-09-21T05:43:50.279Z",
+            "contentHash": "a225a70f9cd1f964a3274209a0528926e5e975c347acbef79255812f25bdb494"
+          },
+          {
+            "url": "https://compmech.chemeng.ntua.gr/en/courses-program/",
+            "label": "Plan de estudios y créditos de la tesis",
+            "checkedAt": "2026-09-21T05:43:53.011Z",
+            "contentHash": "0cdcd0dc8a0426d38d7519a09e822551223623a218c0762cde2d01546aef7171"
+          },
+          {
+            "url": "https://compmech.chemeng.ntua.gr/wp-content/uploads/2026/03/Curriculum_Computational-Mechanics_2025-2026.pdf",
+            "label": "Guía 2025/26: idioma, acceso, tarifas y supervisión · págs. 8, 9, 10, 13, 15",
+            "checkedAt": "2026-09-21T05:45:24.736Z",
+            "contentHash": "5e967689e48d7da105047a1c46039d8fe0e032900f487b9ced3baa7785e64940",
+            "pages": [
+              8,
+              9,
+              10,
+              13,
+              15
+            ]
+          }
+        ],
+        "checks": [
+          "research",
+          "thesis-credits",
+          "discipline",
+          "entry",
+          "tuition",
+          "language"
+        ]
+      }
+    },
+    {
+      "url": "https://quantum.ee.duth.gr/",
+      "institution": "Democritus University of Thrace",
+      "title": "MSc Quantum Computing and Quantum Technologies",
+      "country": "GR",
+      "city": "Xanthi",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "duration": "3–6 semestres · 90 ECTS · docencia online en directo",
+      "entry": "Grado en ciencias, informática, ingeniería u otra especialidad afín. Expediente, CV, una o más referencias e inglés C1; se exceptúa el certificado para lengua materna inglesa o titulaciones cursadas en inglés. La secretaría comprueba el reconocimiento de títulos extranjeros.",
+      "feeNote": "4.500 EUR en total, con posibilidad de tres pagos de 1.500 EUR al comienzo de cada semestre. La matrícula no acredita una beca ni un contrato de investigación.",
+      "researchNote": "Programa conjunto con NCSR Demokritos. Tesis de 30 ECTS en el tercer semestre, escrita en inglés, con supervisor y comité de tres examinadores y defensa pública. Toda la docencia se ofrece online en directo. La web espera abrir la admisión 2027/28 en abril de 2027; no es una convocatoria abierta. El reglamento admite financiación externa, pero no identifica una beca concreta garantizada.",
+      "id": "bf78eedecebaf1c797c5",
+      "applyUrl": "https://quantum.ee.duth.gr/",
+      "sourceId": "programme-bf78eedecebaf1c797c5",
+      "sourceName": "Democritus University of Thrace",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:41:32.844Z",
+      "seenAt": "2026-09-21T03:41:32.844Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "9ca339700a5fa71837d1756ecfa200b568aacb7beedc9dde9456fa3d0cd9fa37",
+        "checkedUrl": "https://quantum.ee.duth.gr/",
+        "method": "official-programme-page",
+        "researchUrl": "https://quantum.ee.duth.gr/wp-content/uploads/M.Sc_.-Regulation.pdf",
+        "references": [
+          {
+            "url": "https://quantum.ee.duth.gr/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T03:41:32.844Z",
+            "contentHash": "9ca339700a5fa71837d1756ecfa200b568aacb7beedc9dde9456fa3d0cd9fa37"
+          },
+          {
+            "url": "https://quantum.ee.duth.gr/wp-content/uploads/M.Sc_.-Regulation.pdf",
+            "label": "Traducción oficial del reglamento de 2022: plan y tesis · págs. 1, 27, 28, 29, 32, 34",
+            "checkedAt": "2026-09-21T05:45:22.456Z",
+            "contentHash": "5f15a700c16841d389c105aef9d3042df5c07317b82f43fba0c46dd6a097107a",
+            "pages": [
+              1,
+              27,
+              28,
+              29,
+              32,
+              34
+            ]
+          },
+          {
+            "url": "https://quantum.ee.duth.gr/key-information/",
+            "label": "Duración, formato, acceso y matrícula",
+            "checkedAt": "2026-09-21T05:43:55.569Z",
+            "contentHash": "fb69f9060f1f9341b1bd5e356269d3bc06cdee88def1e1ac2381ad39d15a2f08"
+          },
+          {
+            "url": "https://quantum.ee.duth.gr/applications/",
+            "label": "Documentación de acceso y próxima apertura prevista",
+            "checkedAt": "2026-09-21T05:43:59.218Z",
+            "contentHash": "78a0a516550a3b0bf182bc912f864c5f4b0b83062fbb4bc1c589664bc388003e"
+          }
+        ],
+        "checks": [
+          "tuition",
+          "entry",
+          "delivery",
+          "future-admission",
+          "references",
+          "thesis-credits",
+          "thesis-supervision",
+          "thesis-language"
+        ]
+      }
+    },
+    {
+      "institution": "National and Kapodistrian University of Athens",
+      "country": "GR",
+      "city": "Athens",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "url": "https://www.di.uoa.gr/eng",
+      "title": "MSc Computer, Telecommunications and Network Engineering",
+      "kind": "programme",
+      "languages": [
+        "Griego"
+      ],
+      "duration": "3 semestres · 90 ECTS",
+      "entry": "Orientado principalmente a titulados de informática, ingeniería informática, ingeniería eléctrica, física o áreas afines. Grado reconocido o finalización antes de la matrícula; se pueden exigir asignaturas preparatorias. Solicitud, expediente, CV e inglés B2. Hasta dos recomendaciones y publicaciones son documentación opcional en la convocatoria 2026/27.",
+      "feeNote": "2.400 EUR en cuatro pagos según la convocatoria 2026/27. Contempla exenciones por situación económica, colaboración docente y tres becas de excelencia que cubren el cuarto pago. Concesión sujeta a requisitos y selección.",
+      "researchNote": "Tesis de investigación o síntesis de 30 ECTS, con supervisor, comité de tres examinadores y defensa pública. Docencia en griego con posibilidad de algunas asignaturas en inglés; tesis en griego o inglés con aprobación. Agrupa las especializaciones en ingeniería informática, telecomunicaciones y redes. La convocatoria 2026/27 amplió el cierre hasta el 15 de junio de 2026 y está cerrada; consultar la próxima admisión.",
+      "id": "fab73a48574bf07102bc",
+      "applyUrl": "https://www.di.uoa.gr/eng",
+      "sourceId": "programme-fab73a48574bf07102bc",
+      "sourceName": "National and Kapodistrian University of Athens",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:41:43.836Z",
+      "seenAt": "2026-09-21T03:41:43.836Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "67ae95ef0209f1ce10f4add505a6e3f93a200305746567a58b0bed0bede8751b",
+        "checkedUrl": "https://www.di.uoa.gr/eng",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.di.uoa.gr/eng/st/thesis",
+        "references": [
+          {
+            "url": "https://www.di.uoa.gr/eng",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T03:41:43.836Z",
+            "contentHash": "67ae95ef0209f1ce10f4add505a6e3f93a200305746567a58b0bed0bede8751b"
+          },
+          {
+            "url": "https://www.di.uoa.gr/eng/st/thesis",
+            "label": "Tesis, supervisión, idiomas y defensa",
+            "checkedAt": "2026-09-21T05:44:05.133Z",
+            "contentHash": "624a112c122a07a690a06dbfa19939b5b6ba6181813873a1bf8ecb05d41187a7"
+          },
+          {
+            "url": "https://www.di.uoa.gr/eng/st/program",
+            "label": "Plan, créditos e idioma de docencia",
+            "checkedAt": "2026-09-21T05:44:05.928Z",
+            "contentHash": "333b9996f929ed2cf05d6e4e8b6fe16b32f920f9b10ab1d857ce09966761c82f"
+          },
+          {
+            "url": "https://www.di.uoa.gr/eng/anouncements/3067",
+            "label": "Publicación de la convocatoria y su ampliación",
+            "checkedAt": "2026-09-21T05:50:01.717Z",
+            "contentHash": "8c236459de824150a1ef4ceb4aab55e6b277ef280d5a76bc4151aaf7b45ca8be"
+          },
+          {
+            "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
+            "label": "Convocatoria 2026/27 ampliada: acceso, matrícula, ayudas y cierre el 15 de junio · págs. 1, 2",
+            "checkedAt": "2026-09-21T05:51:49.802Z",
+            "contentHash": "8f922bde2e5e70e0168fc03d3ed9c5e058954b85fd709f4f14a6c3b579e97dca",
+            "pages": [
+              1,
+              2
+            ]
+          }
+        ],
+        "checks": [
+          "research",
+          "thesis-language",
+          "defence",
+          "programme-language",
+          "total-credits",
+          "tuition-2026",
+          "entry-2026",
+          "closed-admission"
+        ]
+      }
+    },
+    {
+      "institution": "National and Kapodistrian University of Athens",
+      "country": "GR",
+      "city": "Athens",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
+      "title": "Athens CTN Engineering — exenciones y becas de máster",
+      "kind": "funding-programme",
+      "eligibleStages": [
+        "master"
+      ],
+      "entry": "Estudiantes del MSc Computer, Telecommunications and Network Engineering de la cohorte 2026/27. Exención por situación económica sujeta a los requisitos citados en la convocatoria; colaboración docente para estudiantes que pagan matrícula; excelencia según notas del primer y segundo semestre.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Exenciones por renta y colaboración docente; tres becas de excelencia que cubren el cuarto pago de matrícula."
+      },
+      "feeNote": "La convocatoria cifra la matrícula total en 2.400 EUR y no promete una ayuda de manutención. La exención por renta está limitada al 30% del alumnado que reúna los requisitos; confirmar el procedimiento y adjudicación.",
+      "researchNote": "La convocatoria 2026/27 permite exenciones a cambio de tutorías, laboratorios o corrección de ejercicios de grado. También prevé tres becas de excelencia por las calificaciones de los dos primeros semestres. Es una familia de ayudas para estudiantes del programa, no una convocatoria independiente de acceso. Se utiliza el documento de 2026 porque sus condiciones de mérito difieren de la página de matrícula y del reglamento antiguo.",
+      "id": "aa97408ad8c661133b8e",
+      "applyUrl": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
+      "sourceId": "programme-aa97408ad8c661133b8e",
+      "sourceName": "National and Kapodistrian University of Athens",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:41:43.836Z",
+      "seenAt": "2026-09-21T05:51:49.802Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "8f922bde2e5e70e0168fc03d3ed9c5e058954b85fd709f4f14a6c3b579e97dca",
+        "checkedUrl": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
+        "references": [
+          {
+            "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
+            "label": "Convocatoria 2026/27 ampliada: acceso, matrícula, ayudas y cierre el 15 de junio · págs. 1, 2",
+            "checkedAt": "2026-09-21T05:51:49.802Z",
+            "contentHash": "8f922bde2e5e70e0168fc03d3ed9c5e058954b85fd709f4f14a6c3b579e97dca",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://www.di.uoa.gr/eng/anouncements/3067",
+            "label": "Documento de 2026/27 enlazado por el programa",
+            "checkedAt": "2026-09-21T05:50:01.717Z",
+            "contentHash": "8c236459de824150a1ef4ceb4aab55e6b277ef280d5a76bc4151aaf7b45ca8be"
+          },
+          {
+            "url": "https://www.di.uoa.gr/eng",
+            "label": "Identidad del máster",
+            "checkedAt": "2026-09-21T03:41:43.836Z",
+            "contentHash": "67ae95ef0209f1ce10f4add505a6e3f93a200305746567a58b0bed0bede8751b"
+          }
+        ],
+        "checks": [
+          "tuition",
+          "income-waiver",
+          "service-waiver",
+          "merit-waiver"
+        ]
+      }
+    },
+    {
+      "institution": "National and Kapodistrian University of Athens",
+      "country": "GR",
+      "city": "Athens",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "url": "https://www.di.uoa.gr/ict",
+      "title": "MSc Information and Communication Technologies",
+      "kind": "programme",
+      "languages": [
+        "Griego"
+      ],
+      "duration": "3 semestres · 90 ECTS",
+      "entry": "Programa de conversión dirigido principalmente a titulados de áreas distintas de informática, telecomunicaciones e ingeniería eléctrica. Grado reconocido o finalización antes de la matrícula; se pueden exigir asignaturas preparatorias. Solicitud, expediente, CV e inglés B2. Hasta dos recomendaciones y publicaciones son documentación opcional en la convocatoria 2026/27.",
+      "feeNote": "2.400 EUR en cuatro pagos según la convocatoria 2026/27. Contempla exenciones por situación económica, colaboración docente y tres becas de excelencia que cubren el cuarto pago. Concesión sujeta a requisitos y selección.",
+      "researchNote": "Tesis de investigación o síntesis de 18 ECTS, con supervisor, comité de tres examinadores y defensa pública. Docencia en griego con posibilidad de algunas asignaturas en inglés; tesis en griego o inglés con aprobación. El plan asigna los otros 72 ECTS a doce asignaturas. La convocatoria 2026/27 amplió el cierre hasta el 15 de junio de 2026 y está cerrada; consultar la próxima admisión.",
+      "id": "1452af56056a3e2b444b",
+      "applyUrl": "https://www.di.uoa.gr/ict",
+      "sourceId": "programme-1452af56056a3e2b444b",
+      "sourceName": "National and Kapodistrian University of Athens",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T13:33:18.087Z",
+      "seenAt": "2026-09-20T13:33:18.087Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "4fe453d355cc02e47ec75e12c2fe78b95511e90dcf6e269900ba52e76ad9d4ee",
+        "checkedUrl": "https://www.di.uoa.gr/ict",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.di.uoa.gr/ict/st/thesis",
+        "references": [
+          {
+            "url": "https://www.di.uoa.gr/ict",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T13:33:18.087Z",
+            "contentHash": "4fe453d355cc02e47ec75e12c2fe78b95511e90dcf6e269900ba52e76ad9d4ee"
+          },
+          {
+            "url": "https://www.di.uoa.gr/ict/st/thesis",
+            "label": "Tesis, supervisión, idiomas y defensa",
+            "checkedAt": "2026-09-21T05:44:10.086Z",
+            "contentHash": "69ed17f7be40d954c55e754285e49eb5f0ad2e3699596d2204ca7e7f77b0c27c"
+          },
+          {
+            "url": "https://www.di.uoa.gr/ict/st/program",
+            "label": "Plan, créditos e idioma de docencia",
+            "checkedAt": "2026-09-21T05:44:11.600Z",
+            "contentHash": "d69b6a3752569a8e8ec46d383a64121936a7026e752a3e2edaf002f7f0094c4e"
+          },
+          {
+            "url": "https://www.di.uoa.gr/ict/anouncements/3066",
+            "label": "Publicación de la convocatoria y su ampliación",
+            "checkedAt": "2026-09-21T05:50:02.407Z",
+            "contentHash": "8ec0d47cdb71b68ea389504177097ad44743b10080d0569a108964b7f95788fc"
+          },
+          {
+            "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+            "label": "Convocatoria 2026/27 ampliada: acceso, matrícula, ayudas y cierre el 15 de junio · págs. 1, 2",
+            "checkedAt": "2026-09-21T05:51:51.206Z",
+            "contentHash": "b1a121cdc24be2382c37de08e86e1df6c920acb30381d7e0e12e915edeb92613",
+            "pages": [
+              1,
+              2
+            ]
+          }
+        ],
+        "checks": [
+          "research",
+          "thesis-language",
+          "defence",
+          "programme-language",
+          "total-credits",
+          "tuition-2026",
+          "entry-2026",
+          "closed-admission"
+        ]
+      }
+    },
+    {
+      "institution": "National and Kapodistrian University of Athens",
+      "country": "GR",
+      "city": "Athens",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+      "title": "Athens Information and Communication Technologies — exenciones y becas de máster",
+      "kind": "funding-programme",
+      "eligibleStages": [
+        "master"
+      ],
+      "entry": "Estudiantes del MSc Information and Communication Technologies de la cohorte 2026/27. Exención por situación económica sujeta a los requisitos citados en la convocatoria; colaboración docente para estudiantes que pagan matrícula; excelencia según notas del primer y segundo semestre.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Exenciones por renta y colaboración docente; tres becas de excelencia que cubren el cuarto pago de matrícula."
+      },
+      "feeNote": "La convocatoria cifra la matrícula total en 2.400 EUR y no promete una ayuda de manutención. La exención por renta está limitada al 30% del alumnado que reúna los requisitos; confirmar el procedimiento y adjudicación.",
+      "researchNote": "La convocatoria 2026/27 permite exenciones a cambio de tutorías, laboratorios o corrección de ejercicios de grado. También prevé tres becas de excelencia por las calificaciones de los dos primeros semestres. Es una familia de ayudas para estudiantes del programa, no una convocatoria independiente de acceso. Se utiliza el documento de 2026 porque sus condiciones de mérito difieren de la página de matrícula y del reglamento antiguo.",
+      "id": "2527d4f976947fbc4e11",
+      "applyUrl": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+      "sourceId": "programme-2527d4f976947fbc4e11",
+      "sourceName": "National and Kapodistrian University of Athens",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T13:33:18.087Z",
+      "seenAt": "2026-09-21T05:51:51.206Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "b1a121cdc24be2382c37de08e86e1df6c920acb30381d7e0e12e915edeb92613",
+        "checkedUrl": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+        "references": [
+          {
+            "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+            "label": "Convocatoria 2026/27 ampliada: acceso, matrícula, ayudas y cierre el 15 de junio · págs. 1, 2",
+            "checkedAt": "2026-09-21T05:51:51.206Z",
+            "contentHash": "b1a121cdc24be2382c37de08e86e1df6c920acb30381d7e0e12e915edeb92613",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://www.di.uoa.gr/ict/anouncements/3066",
+            "label": "Documento de 2026/27 enlazado por el programa",
+            "checkedAt": "2026-09-21T05:50:02.407Z",
+            "contentHash": "8ec0d47cdb71b68ea389504177097ad44743b10080d0569a108964b7f95788fc"
+          },
+          {
+            "url": "https://www.di.uoa.gr/ict",
+            "label": "Identidad del máster",
+            "checkedAt": "2026-09-20T13:33:18.087Z",
+            "contentHash": "4fe453d355cc02e47ec75e12c2fe78b95511e90dcf6e269900ba52e76ad9d4ee"
+          }
+        ],
+        "checks": [
+          "tuition",
+          "income-waiver",
+          "service-waiver",
+          "merit-waiver"
+        ]
+      }
+    },
+    {
+      "url": "https://www.di.uoa.gr/eng/anouncements/3175",
+      "institution": "National and Kapodistrian University of Athens",
+      "country": "GR",
+      "city": "Athens",
+      "stage": "master",
+      "kind": "position",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "title": "Athens Numerical Analysis — cinco colaboraciones docentes para estudiantes de máster",
+      "programmeType": "Colaboración docente con beca compensatoria",
+      "entry": "Estar matriculado en uno de los másteres del departamento: Computer Science, Computer/Telecommunications/Network Engineering o Information and Communication Technologies. Se valora conocimiento de análisis numérico y Matlab. La institución pide contactar cuanto antes.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Beca compensatoria; el anuncio no especifica importe ni modalidad de la ayuda."
+      },
+      "researchNote": "Cinco colaboraciones para corregir ejercicios de la asignatura de Análisis Numérico en 2026/27. Aporta experiencia docente universitaria; el anuncio no describe un proyecto de investigación. Publicado el 14 de septiembre de 2026, sin fecha de cierre. Confirmar que aún quedan plazas y las condiciones económicas. La copia del mismo anuncio en ICT se agrupa en esta ficha.",
+      "id": "850598d72a712212cd82",
+      "applyUrl": "https://www.di.uoa.gr/eng/anouncements/3175",
+      "sourceId": "programme-850598d72a712212cd82",
+      "sourceName": "National and Kapodistrian University of Athens",
+      "status": "listed",
+      "verifiedAt": "2026-09-21T03:41:43.836Z",
+      "seenAt": "2026-09-21T05:44:08.347Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "5904d449f97fd71a66a2e83d531d5bddcaaf602095f18e3bc7e15b0044385db6",
+        "checkedUrl": "https://www.di.uoa.gr/eng/anouncements/3175",
+        "method": "official-reviewed-call-page",
+        "researchUrl": "https://www.di.uoa.gr/eng/anouncements/3175",
+        "references": [
+          {
+            "url": "https://www.di.uoa.gr/eng/anouncements/3175",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T05:44:08.347Z",
+            "contentHash": "5904d449f97fd71a66a2e83d531d5bddcaaf602095f18e3bc7e15b0044385db6"
+          },
+          {
+            "url": "https://www.di.uoa.gr/eng",
+            "label": "Índice del programa: anuncio fechado el 14 de septiembre de 2026",
+            "checkedAt": "2026-09-21T03:41:43.836Z",
+            "contentHash": "67ae95ef0209f1ce10f4add505a6e3f93a200305746567a58b0bed0bede8751b"
+          }
+        ],
+        "checks": [
+          "places",
+          "duties",
+          "skills",
+          "cohort"
+        ]
+      },
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "deadlineNote": "Anuncio publicado el 14/09/2026 sin fecha límite indicada. Confirma que continúa disponible."
+    },
+    {
+      "institution": "Harokopio University",
+      "country": "GR",
+      "city": "Athens",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "url": "https://applied.dit.hua.gr/",
+      "title": "MSc Applied Informatics — conversión con tesis",
+      "kind": "programme",
+      "languages": [
+        "Griego",
+        "Inglés"
+      ],
+      "duration": "12 meses completos o 24 parciales · 75 ECTS",
+      "entry": "Grado reconocido de un área distinta de informática, telecomunicaciones, ciencias de la computación o campos afines. Se admiten candidaturas de último curso si terminan antes de la matrícula. Expediente, CV, motivación, inglés B2 y hasta dos recomendaciones; entrevista si la comisión la solicita.",
+      "feeNote": "3.400 EUR en total para 2026/27 según la convocatoria ampliada del 22 de junio de 2026. Esta tarifa de cohorte actualiza los 4.000 EUR generales del reglamento de 2024. Exenciones y becas sujetas a requisitos.",
+      "researchNote": "Máster de conversión con 60 ECTS de asignaturas y tesis de 15 ECTS. La tesis debe desarrollar o evaluar resultados además de revisar bibliografía, con supervisión y defensa ante tres examinadores; puede realizarse individualmente o en pareja con evaluación individual. Se escribe en griego o en inglés con acuerdo del supervisor y conforme al marco aplicable. La convocatoria 2026/27 cerró el 4 de septiembre de 2026. La página académica indica docencia en griego y/o inglés; confirmar la distribución por asignaturas y el formato de la próxima cohorte.",
+      "id": "759b4e60040aac9c4caa",
+      "applyUrl": "https://applied.dit.hua.gr/",
+      "sourceId": "programme-759b4e60040aac9c4caa",
+      "sourceName": "Harokopio University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:41:35.504Z",
+      "seenAt": "2026-09-21T03:41:35.504Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "01c1a189aa3e9a03a0e899d2cffcd0df658b9edf1fe639dd7ec2eb5f516cf46b",
+        "checkedUrl": "https://applied.dit.hua.gr/",
+        "method": "official-programme-page",
+        "researchUrl": "https://applied.dit.hua.gr/en/diploma-thesis/",
+        "references": [
+          {
+            "url": "https://applied.dit.hua.gr/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T03:41:35.504Z",
+            "contentHash": "01c1a189aa3e9a03a0e899d2cffcd0df658b9edf1fe639dd7ec2eb5f516cf46b"
+          },
+          {
+            "url": "https://applied.dit.hua.gr/en/diploma-thesis/",
+            "label": "Componente de investigación y defensa de tesis",
+            "checkedAt": "2026-09-21T05:45:25.816Z",
+            "contentHash": "524881067b0755b3deb6c1ecd758a9da17fb9ec7a6e80eddd1bb0a104eefc013"
+          },
+          {
+            "url": "https://applied.dit.hua.gr/to-programma/",
+            "label": "Plan y lenguas de docencia",
+            "checkedAt": "2026-09-21T05:44:00.019Z",
+            "contentHash": "3e64e96e6516feae2c90deaa9c17682e4aabd06534921d25382cf1b4aa47ffcb"
+          },
+          {
+            "url": "https://applied.dit.hua.gr/en/to-programma-2/",
+            "label": "Estructura y propósito del máster de conversión",
+            "checkedAt": "2026-09-21T05:49:57.071Z",
+            "contentHash": "f42d12630fb38bf21c01cadd4ae11bb0d60510f4dacc39afdb8a71e93c83520a"
+          },
+          {
+            "url": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+            "label": "Reglamento 2024: tesis, créditos y ayudas · págs. 7, 8, 9, 10, 12",
+            "checkedAt": "2026-09-21T05:49:58.507Z",
+            "contentHash": "ae0cb83895cc50bca99e6e33f555789f6ba7002bdae675af7b1b674817b4f27a",
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              12
+            ]
+          },
+          {
+            "url": "https://applied.dit.hua.gr/wp-content/uploads/2026/06/%CE%A0%CE%B1%CF%81%CE%AC%CF%84%CE%B1%CF%83%CE%B7-Applied-Informatics-Call-2026.docx.pdf",
+            "label": "Convocatoria ampliada 2026/27: requisitos, duración y matrícula · págs. 1, 2",
+            "checkedAt": "2026-09-21T06:06:10.798Z",
+            "contentHash": "901d443e0ea8cea83a3e24c49956c98ba3bc03daec93e80af6739531809223fd",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://applied.dit.hua.gr/paratasi-prosklisis-ekdilosis-endiaferontos-gia-eisagogi-metaptychiakon-foititon-2026-2027/",
+            "label": "Ampliación del plazo hasta el 4 de septiembre de 2026",
+            "checkedAt": "2026-09-21T06:03:20.438Z",
+            "contentHash": "01ae7ca143f86819598022ba8e568660dcd9432698f7e85e2c3f0110bc820526"
+          }
+        ],
+        "checks": [
+          "teaching-language",
+          "tuition-2026",
+          "entry",
+          "closed-admission",
+          "duration",
+          "thesis-credits",
+          "merit-framework",
+          "base-tuition",
+          "conversion",
+          "research-route"
+        ]
+      }
+    },
+    {
+      "institution": "Harokopio University",
+      "country": "GR",
+      "city": "Athens",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "url": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+      "title": "Harokopio Applied Informatics — becas de mérito y exenciones",
+      "kind": "funding-programme",
+      "eligibleStages": [
+        "master"
+      ],
+      "entry": "Estudiantes del MSc Applied Informatics. Las becas de excelencia se dirigen a quienes cursan a tiempo completo y obtienen las mejores calificaciones; los criterios, proceso e importe dependen de la decisión del órgano académico. Las exenciones requieren solicitud y cumplir las condiciones vigentes.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Becas de excelencia y posibles exenciones de matrícula; importes y adjudicación sujetos a decisión del programa."
+      },
+      "researchNote": "El artículo 25 del reglamento de 2024 autoriza becas de mérito para estudiantes a tiempo completo. El artículo 35 contempla exenciones conforme al marco aplicable y posibles exenciones por servicios prestados. No fija una cuantía garantizada de beca. La convocatoria 2026/27 establece 3.400 EUR de matrícula total y permite solicitar exención después de matricularse; no acredita una convocatoria de becas abierta.",
+      "id": "7b2c0d6632f1dc2908f8",
+      "applyUrl": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+      "sourceId": "programme-7b2c0d6632f1dc2908f8",
+      "sourceName": "Harokopio University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:41:35.504Z",
+      "seenAt": "2026-09-21T05:49:58.507Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "ae0cb83895cc50bca99e6e33f555789f6ba7002bdae675af7b1b674817b4f27a",
+        "checkedUrl": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+        "references": [
+          {
+            "url": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+            "label": "Artículos 25 y 35: becas y exenciones · págs. 9, 12",
+            "checkedAt": "2026-09-21T05:49:58.507Z",
+            "contentHash": "ae0cb83895cc50bca99e6e33f555789f6ba7002bdae675af7b1b674817b4f27a",
+            "pages": [
+              9,
+              12
+            ]
+          },
+          {
+            "url": "https://applied.dit.hua.gr/wp-content/uploads/2026/06/%CE%A0%CE%B1%CF%81%CE%AC%CF%84%CE%B1%CF%83%CE%B7-Applied-Informatics-Call-2026.docx.pdf",
+            "label": "Convocatoria 2026/27: matrícula de la cohorte y solicitud de exención · págs. 2",
+            "checkedAt": "2026-09-21T06:06:10.798Z",
+            "contentHash": "901d443e0ea8cea83a3e24c49956c98ba3bc03daec93e80af6739531809223fd",
+            "pages": [
+              2
+            ]
+          },
+          {
+            "url": "https://applied.dit.hua.gr/",
+            "label": "Programa al que se vinculan las ayudas",
+            "checkedAt": "2026-09-21T03:41:35.504Z",
+            "contentHash": "01c1a189aa3e9a03a0e899d2cffcd0df658b9edf1fe639dd7ec2eb5f516cf46b"
+          }
+        ],
+        "checks": [
+          "merit-scholarship",
+          "award-conditions",
+          "service-waiver",
+          "cohort-fee",
+          "waiver-application"
+        ]
+      }
     }
   ],
   "sources": [
@@ -254469,81 +255199,200 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-a655bf5075bc05da183f",
+      "name": "National Technical University of Athens · MSc Computational Mechanics",
+      "url": "https://compmech.chemeng.ntua.gr/en/home/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:42:26.046Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-bf78eedecebaf1c797c5",
+      "name": "Democritus University of Thrace · MSc Quantum Computing and Quantum Technologies",
+      "url": "https://quantum.ee.duth.gr/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:41:32.844Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-fab73a48574bf07102bc",
+      "name": "National and Kapodistrian University of Athens · MSc Computer, Telecommunications and Network Engineering",
+      "url": "https://www.di.uoa.gr/eng",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:41:43.836Z",
+        "pages": 5,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-aa97408ad8c661133b8e",
+      "name": "National and Kapodistrian University of Athens · Athens CTN Engineering — exenciones y becas de máster",
+      "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:41:43.836Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-1452af56056a3e2b444b",
+      "name": "National and Kapodistrian University of Athens · MSc Information and Communication Technologies",
+      "url": "https://www.di.uoa.gr/ict",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T13:33:18.087Z",
+        "pages": 5,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-2527d4f976947fbc4e11",
+      "name": "National and Kapodistrian University of Athens · Athens Information and Communication Technologies — exenciones y becas de máster",
+      "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T13:33:18.087Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-850598d72a712212cd82",
+      "name": "National and Kapodistrian University of Athens · Athens Numerical Analysis — cinco colaboraciones docentes para estudiantes de máster",
+      "url": "https://www.di.uoa.gr/eng/anouncements/3175",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:41:43.836Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-759b4e60040aac9c4caa",
+      "name": "Harokopio University · MSc Applied Informatics — conversión con tesis",
+      "url": "https://applied.dit.hua.gr/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:41:35.504Z",
+        "pages": 7,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7b2c0d6632f1dc2908f8",
+      "name": "Harokopio University · Harokopio Applied Informatics — becas de mérito y exenciones",
+      "url": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:41:35.504Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "6208f77e-4592-4951-802c-614891cc36a7",
+    "id": "2038ad12-f91c-4af2-a10d-39044a2a80cd",
     "type": "programme-verification",
-    "parentRunId": "b36eb87f-baf1-49a5-b803-cb2c8f18d050",
-    "startedAt": "2026-09-21T05:27:40.763Z",
-    "finishedAt": "2026-09-21T05:27:43.275Z",
+    "parentRunId": "6208f77e-4592-4951-802c-614891cc36a7",
+    "startedAt": "2026-09-21T06:12:39.595Z",
+    "finishedAt": "2026-09-21T06:12:41.486Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-0c787fd09883ef6069cc",
-        "name": "University of Ioannina · PhD Computer Science and Engineering",
-        "url": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T04:22:14.924Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7f8add5ffbded9f85662",
-        "name": "University of Thessaly · PhD Electrical and Computer Engineering — investigación en informática",
-        "url": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T04:22:24.642Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fa8c4b1d888a42ffca8a",
-        "name": "University of Ioannina · Ioannina Computer Science and Engineering — becas y puestos remunerados",
-        "url": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GR",
-        "stages": [
-          "doctorado",
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T04:33:01.883Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d48d9b1cb8b96a4a98b0",
-        "name": "University of Thessaly · MSc Science and Technology of Electrical and Computer Engineering",
-        "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+        "id": "programme-a655bf5075bc05da183f",
+        "name": "National Technical University of Athens · MSc Computational Mechanics",
+        "url": "https://compmech.chemeng.ntua.gr/en/home/",
         "adapter": "programme",
         "type": "institution",
         "scope": "GR",
@@ -254553,7 +255402,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T04:36:19.399Z",
+          "checkedAt": "2026-09-21T03:42:26.046Z",
           "pages": 4,
           "accepted": 1,
           "complete": true,
@@ -254561,29 +255410,9 @@
         }
       },
       {
-        "id": "programme-4837dd7627d5f5e0fa9e",
-        "name": "University of Thessaly · Thessaly Electrical and Computer Engineering MSc — becas de mérito",
-        "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T04:40:59.957Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-28c51452ebebe6deb5d8",
-        "name": "University of Piraeus · MSc Actuarial Science and Risk Management",
-        "url": "https://actuarial.unipi.gr/",
+        "id": "programme-bf78eedecebaf1c797c5",
+        "name": "Democritus University of Thrace · MSc Quantum Computing and Quantum Technologies",
+        "url": "https://quantum.ee.duth.gr/",
         "adapter": "programme",
         "type": "institution",
         "scope": "GR",
@@ -254593,17 +255422,17 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:42:15.307Z",
-          "pages": 3,
+          "checkedAt": "2026-09-21T03:41:32.844Z",
+          "pages": 4,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-48834f0c9143228f067d",
-        "name": "University of Piraeus · MSc Applied Statistics",
-        "url": "https://mefast.unipi.gr/",
+        "id": "programme-fab73a48574bf07102bc",
+        "name": "National and Kapodistrian University of Athens · MSc Computer, Telecommunications and Network Engineering",
+        "url": "https://www.di.uoa.gr/eng",
         "adapter": "programme",
         "type": "institution",
         "scope": "GR",
@@ -254613,67 +255442,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:42:18.314Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-53cd2447eb564b3d7d5c",
-        "name": "University of Piraeus · Piraeus Actuarial Science — becas por rendimiento",
-        "url": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:42:15.307Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1c6b5617280b7ace0880",
-        "name": "University of Piraeus · Piraeus Applied Statistics — becas por rendimiento",
-        "url": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:42:18.314Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0d65059ac2310ba29dd2",
-        "name": "University of Ioannina · MSc Data and Computer Systems Engineering",
-        "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:39:19.991Z",
+          "checkedAt": "2026-09-21T03:41:43.836Z",
           "pages": 5,
           "accepted": 1,
           "complete": true,
@@ -254681,29 +255450,9 @@
         }
       },
       {
-        "id": "programme-329d839488ca669e5fe9",
-        "name": "Athens University of Economics and Business · MSc Information Systems Development and Security",
-        "url": "https://mscis.cs.aueb.gr/el/normal/home",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T16:59:38.912Z",
-          "pages": 6,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-731f31933feb6c23f6fe",
-        "name": "Athens University of Economics and Business · AUEB Information Systems Development and Security — becas de mérito",
-        "url": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+        "id": "programme-aa97408ad8c661133b8e",
+        "name": "National and Kapodistrian University of Athens · Athens CTN Engineering — exenciones y becas de máster",
+        "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D%202026_Msc_CTN_Engineering-UoA.pdf",
         "adapter": "programme",
         "type": "funder",
         "scope": "GR",
@@ -254713,8 +255462,108 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T04:25:15.652Z",
+          "checkedAt": "2026-09-21T03:41:43.836Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-1452af56056a3e2b444b",
+        "name": "National and Kapodistrian University of Athens · MSc Information and Communication Technologies",
+        "url": "https://www.di.uoa.gr/ict",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T13:33:18.087Z",
+          "pages": 5,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-2527d4f976947fbc4e11",
+        "name": "National and Kapodistrian University of Athens · Athens Information and Communication Technologies — exenciones y becas de máster",
+        "url": "https://www.di.uoa.gr/sites/default/files/documents/grad/%CE%A0%CE%91%CE%A1%CE%91%CE%A4%CE%91%CE%A3%CE%97%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%95%CE%A9%CE%9D_2026_Msc_ICT-UoA.pdf",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T13:33:18.087Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-850598d72a712212cd82",
+        "name": "National and Kapodistrian University of Athens · Athens Numerical Analysis — cinco colaboraciones docentes para estudiantes de máster",
+        "url": "https://www.di.uoa.gr/eng/anouncements/3175",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T03:41:43.836Z",
           "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-759b4e60040aac9c4caa",
+        "name": "Harokopio University · MSc Applied Informatics — conversión con tesis",
+        "url": "https://applied.dit.hua.gr/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T03:41:35.504Z",
+          "pages": 7,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-7b2c0d6632f1dc2908f8",
+        "name": "Harokopio University · Harokopio Applied Informatics — becas de mérito y exenciones",
+        "url": "https://applied.dit.hua.gr/wp-content/uploads/2024/04/%CE%9D%CE%95%CE%9F%CE%A3-%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3-FEK-2024-Tefxos-B-02359-downloaded-23_04_2024.pdf",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T03:41:35.504Z",
+          "pages": 3,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -254722,11 +255571,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-21T05:27:40.763Z",
-      "finishedAt": "2026-09-21T05:27:43.275Z",
+      "startedAt": "2026-09-21T06:12:39.595Z",
+      "finishedAt": "2026-09-21T06:12:41.486Z",
       "scope": "selected-programmes",
-      "verified": 12,
-      "attempted": 12,
+      "verified": 9,
+      "attempted": 9,
       "partial": 0
     }
   },

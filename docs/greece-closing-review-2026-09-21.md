@@ -1,0 +1,18 @@
+# Grecia: incorporaciones verificadas al cierre de la edición
+
+Revisión del 21 de septiembre de 2026. Se incorporan **nueve fichas ya verificadas: cinco másteres, tres familias de financiación y un anuncio de colaboración docente**. El catálogo pasa de 3.364 a **3.373 registros**, conservando sin cambios todos los anteriores. Grecia pasa de 63 a 72. La ampliación utiliza 26 documentos oficiales, incluidos seis PDF.
+
+| Institución | Incorporación | Condiciones contrastadas |
+| --- | --- | --- |
+| [National Technical University of Athens](https://compmech.chemeng.ntua.gr/en/home/) | MSc Computational Mechanics | 90 ECTS, tesis de 30 ECTS vinculada a investigación activa, enseñanza en inglés. La guía 2025/26 indica gratuidad para estudiantes de la UE y 500 EUR por semestre para los demás, sujetos a revisión. |
+| [Democritus University of Thrace](https://quantum.ee.duth.gr/) | MSc Quantum Computing and Quantum Technologies | Docencia online en directo, tesis de 30 ECTS, inglés y 4.500 EUR. La web prevé la próxima apertura en abril de 2027 para 2027/28; no se presenta como admisión abierta. |
+| [National and Kapodistrian University of Athens](https://www.di.uoa.gr/eng) | MSc Computer, Telecommunications and Network Engineering; [MSc Information and Communication Technologies](https://www.di.uoa.gr/ict) | Ambos suman 90 ECTS, con tesis de 30 y 18 ECTS respectivamente. La convocatoria ampliada de 2026 fija 2.400 EUR, inglés B2 y hasta dos referencias opcionales. Cerró el 15 de junio de 2026. ICT es una vía de conversión para titulados ajenos a informática y disciplinas afines. |
+| [Harokopio University](https://applied.dit.hua.gr/) | MSc Applied Informatics, conversión con tesis | 75 ECTS, tesis de 15 ECTS, 12 meses completos o 24 parciales. La convocatoria 2026/27 confirma 3.400 EUR y cerró el 4 de septiembre. Esta tarifa actualiza los 4.000 EUR generales del reglamento de 2024. |
+
+Las dos familias de ayudas de Atenas contemplan exenciones por renta, colaboración docente y **tres becas de excelencia por programa que cubren el cuarto pago**. Se utilizan las condiciones de la convocatoria 2026/27 porque difieren de las páginas antiguas. Harokopio contempla becas de mérito y exenciones sujetas a decisión académica, sin importe garantizado.
+
+El [anuncio de Análisis Numérico de Atenas](https://www.di.uoa.gr/eng/anouncements/3175) solicita cinco estudiantes de los másteres del departamento para corregir ejercicios. Se cuenta como **un anuncio**, agrupando su copia en ICT. Su índice institucional lo fecha el 14 de septiembre de 2026; el anuncio no publica cierre ni importe. Figura como publicado sin fecha de cierre, con disponibilidad por confirmar. La verificación vincula la fecha a la tarjeta y al enlace exactos; no acepta fechas de otras noticias, contenido oculto o anuncios de más de 30 días. Como las demás vacantes, pierde vigencia tras 14 días sin comprobación válida.
+
+El barrido continental 28 terminó con 5.000 intentos: **4.484 páginas obtenidas, 505 fallos y 13.778 enlaces descubiertos en 38 países**. Se alcanzó el límite de enlaces en 260 páginas. El historial acumulado contiene 111.147 páginas leídas. Estos recuentos describen el trabajo de descubrimiento, no oportunidades verificadas.
+
+La búsqueda adicional se detiene por decisión del usuario para cerrar esta versión de presentación. Los candidatos restantes se mantienen pendientes y no aumentan el catálogo. El inventario conserva 6.360 entidades; 3.185 tienen fuentes y 3.160 alguna fuente comprobada. Los indicadores y tiers por disciplina conservan la misma edición bibliométrica y sus denominadores. **La cobertura de Europa sigue siendo parcial.**

@@ -30,6 +30,14 @@ test('Russian postgraduate speciality names are recognised without generic engin
  assert.deepEqual(fieldsFrom('05.13.15 – Вычислительные машины, комплексы и компьютерные сети'),['Informática']);
  assert.deepEqual(fieldsFrom('Машиноведение, системы приводов и детали машин'),[]);
 });
+test('Greek programme and numerical-analysis subjects are recognised with bounded names',()=>{
+ assert.deepEqual(fieldsFrom('Τεχνολογίες Πληροφορικής και Επικοινωνιών'),['Informática']);
+ assert.deepEqual(fieldsFrom('Πληροφορική'),['Informática']);
+ assert.deepEqual(fieldsFrom('Αριθμητική Ανάλυση, Matlab'),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Αριθμητική Ανάλυση'.normalize('NFD')),['Matemáticas aplicadas']);
+ assert.deepEqual(fieldsFrom('Πληροφορίες και ανάλυση δεδομένων'),[]);
+ assert.deepEqual(fieldsFrom('υπερπληροφορικής πληροφορικήςxxx'),[]);
+});
 test('Hungarian applied mathematics is recognised without promoting generic mathematics',()=>{
  assert.deepEqual(fieldsFrom('Az alkalmazott matematika a műszaki- és természet-tudományokban alkalmazott matematikai módszerekre koncentrál'),['Matemáticas aplicadas']);
  assert.deepEqual(fieldsFrom('Matematika, algebra és geometria'),[]);

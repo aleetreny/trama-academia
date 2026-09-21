@@ -29,6 +29,10 @@ export function fieldsFrom(text){
   text=text.replace(/(?<!\p{L})duomenų bazių projektavimo,\s*erdvinių duomenų programavimo(?!\p{L})/giu,'database design and spatial computing');
   // Zagreb's Croatian programme title names applied mathematics explicitly.
   text=text.replace(/(?<!\p{L})primijenjena matematika(?!\p{L})/giu,'applied mathematics');
+  // Greek official programme names and the Numerical Analysis teaching call.
+  // Keep word boundaries: generic information or analysis alone is not a field.
+  text=text.replace(/(?<!\p{L})πληροφορικ(?:ή|ής)(?!\p{L})/giu,'informatics');
+  text=text.replace(/(?<!\p{L})αριθμητική ανάλυση(?!\p{L})/giu,'numerical analysis');
   // Named Serbian/Bosnian numerical and optimisation subjects, and the
   // Montenegrin computer-science title. Generic mathematics stays unclassified.
   text=text.replace(/(?<!\p{L})(?:дискретна оптимизација|нумеричке анализе)(?!\p{L})/giu,'applied mathematics');

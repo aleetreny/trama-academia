@@ -37,3 +37,33 @@ test('rolling internships need an explicit witnessed statement and lose freshnes
  assert.equal(effectiveStatus(record,Date.parse('2026-10-06')),'unverified');
  await assert.rejects(verifyProgramme({...candidate,call:{...candidate.call,deadline:'2026-09-25'}},fetcher(text)),/invalid_rolling_call/);
 });
+
+const announcement='Ανταποδοτική Υποτροφία στο μάθημα «Αριθμητική Ανάλυση»';
+const recruitment='Ζητούνται πέντε μεταπτυχιακοί φοιτητές για το 2026-2027.';
+const indexUrl='https://example.edu/master';
+const card=(date='14/09/2026',url=seed.url)=>`<div class="views-row"><div class="views-field-created"><span class="date">${date}</span></div><div class="views-field-title"><h5><a href="${url}">${announcement}</a></h5></div></div>`;
+const undated={...seed,stage:'master',call:{listed:true,sourceText:recruitment,listing:{sourceUrl:indexUrl,title:announcement,date:'2026-09-14'}},evidencePages:[{url:indexUrl,label:'Dated institutional announcement index'}]};
+const announcementFetcher=(index=card(),checkedAt='2026-09-21T10:00:00Z')=>async url=>({body:'<main>'+('Computer Science research opportunities. '.repeat(8))+(url===indexUrl?index:announcement+' '+recruitment)+'</main>',finalUrl:url,hash:'announcement-proof',checkedAt});
+
+test('a recent undated announcement is listed with its publication date, never open or rolling',async()=>{
+ const record=await verifyProgramme(undated,announcementFetcher());
+ assert.equal(record.status,'listed');assert.equal(record.deadline,null);assert.equal(record.publishedAt,'2026-09-14T00:00:00Z');
+ assert.match(record.deadlineNote,/14\/09\/2026.*sin fecha límite/);
+ assert.equal(effectiveStatus(record,Date.parse('2026-09-22')),'listed');
+ assert.equal(effectiveStatus(record,Date.parse('2026-10-06')),'unverified');
+ await assert.rejects(verifyProgramme(undated,announcementFetcher(card(),'2026-10-15T00:00:00Z')),/call_listing_not_recent/);
+});
+test('undated calls require their own visible dated index card and cannot borrow another announcement date',async()=>{
+ for(const html of [card('14/09/2026','https://example.edu/different-call'),'<nav>'+card()+'</nav>','<div hidden>'+card()+'</div>',card()+card(),card().replace('views-field-created','unrelated-date'),card().replace(announcement,'Another announcement'),card().replace('class="date"','class="date" hidden'),card().replace('class="date"','class="date" style="display: none"'),card().replace('<a href=','<a style="display:none" href=')]){
+  await assert.rejects(verifyProgramme(undated,announcementFetcher(html)),/call_listing_date_missing/);
+ }
+ await assert.rejects(verifyProgramme({...undated,evidencePages:[]},announcementFetcher()),/invalid_undated_call/);
+});
+test('undated publication dates reject stale, future, impossible or changed dates and conflicting modes',async()=>{
+ for(const [date,iso,error] of [['13/09/2026','2026-09-14','call_listing_date_mismatch'],['31/02/2026','2026-02-31','call_listing_date_mismatch'],['22/09/2026','2026-09-22','call_listing_not_recent']]){
+  await assert.rejects(verifyProgramme({...undated,call:{...undated.call,listing:{...undated.call.listing,date:iso}}},announcementFetcher(card(date))),new RegExp(error));
+ }
+ for(const extra of [{rolling:true},{deadline:'2026-09-25'}])await assert.rejects(verifyProgramme({...undated,call:{...undated.call,...extra}},announcementFetcher()),/invalid_undated_call/);
+ const changed=async url=>{const d=await announcementFetcher()(url);if(url===seed.url)d.body=d.body.replace(recruitment,'All places have been filled.');return d;};
+ await assert.rejects(verifyProgramme(undated,changed),/call_evidence_missing/);
+});
