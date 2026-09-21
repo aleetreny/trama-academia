@@ -39,3 +39,9 @@ Ejecutar los procesos que escriben `data/catalogue.json` de forma secuencial. No
 El plan de estudios de estas fichas coloca el nombre del módulo y los ECTS en dos celdas `div`. La extracción textual podía unir `Master Thesis` y `28`, impidiendo reconocer la tesis. El lector restituye esa separación únicamente dentro del currículo identificado y encabezado como `Studienplan`, con dos celdas y un valor numérico de créditos.
 
 No se amplía la regla general de reconocimiento de tesis. Las pruebas comprueban tanto el currículo válido como tarjetas similares fuera del plan, identificadores duplicados, valores no numéricos y elementos ocultos o laterales. Las condiciones y límites del lote que utiliza este lector están en la [revisión de Austria](austria-review-2026-09-21.md).
+
+## Retirada de programas y falsos positivos de investigación
+
+La revisión integral incorpora dos controles conservadores. Una página que declara explícitamente «This study programme is no longer available» queda para revisión, aunque mantenga un currículo con tesis. La última ficha válida se conserva sin verificar; el cierre de una convocatoria anual no equivale a la retirada del título. El detector francés tampoco considera referencias a memoria RAM, caché, memoria compartida o gestión de memoria como prueba de un mémoire académico. Las excepciones de contexto tienen pruebas de regresión.
+
+La aprobación editorial sigue siendo necesaria: una tesis mencionada como requisito de admisión no acredita la tesis del programa, un proyecto profesional no equivale automáticamente a investigación y dos universidades pueden describir el mismo título conjunto. La unión bibliométrica rechaza agrupaciones explícitas de socios, incluido el separador `·`, en lugar de asignar el tier del dominio que aloja la página.

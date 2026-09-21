@@ -1,0 +1,1006 @@
+[
+  {
+    "code": "DE",
+    "name": "Alemania",
+    "scope": "Marco nacional; la regulación doctoral concreta corresponde al centro que otorga el título.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Coexisten doctorado individual y programas estructurados. También empleo universitario, becas y doctorado externo.",
+      "admission": "Generalmente máster o equivalente; algunos candidatos excelentes acceden mediante vías excepcionales y evaluación de aptitud.",
+      "duration": "No hay un plazo único aplicable a todos los doctorados. Separa duración prevista, límite académico y duración contractual.",
+      "pay": "En contratos de escala TV-L comprueba grupo, nivel y porcentaje de jornada. Una beca no es un contrato laboral.",
+      "fees": "Pregunta por contribución semestral, matrícula si procede, seguro y costes de movilidad. Financiación del proyecto no equivale a cobertura personal completa.",
+      "supervision": "El individual se articula alrededor de la dirección; el estructurado añade selección y formación organizadas. Revisa el acuerdo de supervisión.",
+      "assessment": "Disertación, a veces acumulativa, y evaluación oral: defensa o Rigorosum según reglamento. No todos exigen el mismo formato.",
+      "watch": "Una remuneración anunciada al 100 % de escala no es lo que cobra un contrato al 50 % o 65 %."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/germany/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:18:24.045Z",
+        "sourceUpdated": "13 May 2026",
+        "contentHash": "0806a7e21d0884702a36a10557af366517b9e6bd540dc65aa3cc71361c6a9a94"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "scope": "Marco nacional; las condiciones de escuelas concretas, como ISTA, no se generalizan.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Programas individuales y escuelas doctorales estructuradas. La condición de estudiante puede coexistir con empleo o financiación externa.",
+      "admission": "Máster o diploma afín, incluidas titulaciones de universidades de ciencias aplicadas; equivalencia y complementos según institución.",
+      "duration": "Mínimo de 3 años; la referencia habitual del marco es 6 semestres. La financiación puede tener otro calendario.",
+      "pay": "Comprueba si la oferta incluye un puesto remunerado o solo admisión. Las escuelas financiadas realizan selección competitiva.",
+      "fees": "Verifica tasas, aportaciones estudiantiles y cobertura del contrato o beca en la universidad y para tu situación.",
+      "supervision": "Dirección principal; son frecuentes acuerdos de tesis y equipos o comités en programas estructurados, con calendario y seguimiento.",
+      "assessment": "La universidad regula evaluación de la tesis y examen final. Consulta su currículo y estatutos.",
+      "watch": "No extrapoles al país el acceso desde grado o la financiación de un programa institucional excepcional."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/austria/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:18:35.222Z",
+        "sourceUpdated": "22 August 2026",
+        "contentHash": "a1ccb5c8d8117a548c6776e35bb223a34bfb294abd2071d94885d29fa6ac689c"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "BE",
+    "name": "Bélgica",
+    "scope": "Dos marcos consultados: Comunidad Flamenca y Comunidad Francesa.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Becas, contratos de investigación y puestos de asistente coexisten. Las comunidades y las instituciones tienen reglas propias.",
+      "admission": "Normalmente máster o equivalente; el centro decide admisión, proyecto, dirección y posibles requisitos adicionales.",
+      "duration": "Flandes no fija una duración legal única; muchas instituciones planifican 4 años. Confirma la duración de tu financiación.",
+      "pay": "FWO corresponde a Flandes; F.R.S.-FNRS al sistema francófono. Las ayudas competitivas y los contratos no son intercambiables.",
+      "fees": "Pregunta por tasas de inscripción y defensa, y por la cobertura de la ayuda. No hay aquí una tarifa nacional única.",
+      "supervision": "Escuelas doctorales y dirección de tesis; la formación y el seguimiento se concretan en la institución.",
+      "assessment": "Investigación original y defensa. El sistema francófono distingue formación doctoral de los trabajos de tesis.",
+      "watch": "Comprueba régimen de seguridad social y carga docente: una beca y una plaza de asistente pueden tener obligaciones diferentes."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/belgium-flemish-community/third-cycle-phd-programmes",
+        "scope": "Comunidad Flamenca",
+        "checkedAt": "2026-09-21T10:18:35.368Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "ec9a20b304709e831d59f62aa441600b6e5b5f112644dcc89bf0db644004a034"
+      },
+      {
+        "title": "Eurydice · Comunidad Francesa",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/belgium-french-community/third-cycle-phd-programmes",
+        "scope": "Comunidad Francesa",
+        "checkedAt": "2026-09-21T10:29:48.438Z",
+        "sourceUpdated": "21 June 2024",
+        "contentHash": "f585c9d71f6f6431d8fa6821cba8946773520d655ebbb269a3f503084edfd2c8"
+      },
+      {
+        "title": "FWO · beca doctoral de investigación fundamental",
+        "url": "https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/",
+        "scope": "Ayuda de FWO; instituciones elegibles de la Comunidad Flamenca",
+        "checkedAt": "2026-09-21",
+        "sourceUpdated": null
+      }
+    ],
+    "factSources": {
+      "model": [
+        1,
+        2
+      ],
+      "admission": [
+        1,
+        2
+      ],
+      "pay": [
+        2,
+        3
+      ],
+      "supervision": [
+        1,
+        2
+      ],
+      "assessment": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "scope": "Marco nacional; las condiciones económicas requieren la convocatoria concreta.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Doctorado de dedicación completa, parcial u otras modalidades reguladas; no toda matrícula corresponde a empleo.",
+      "admission": "Máster o equivalente y selección según institución y modalidad.",
+      "duration": "Referencia de 3 años a tiempo completo o 4 a tiempo parcial; las extensiones requieren condiciones específicas.",
+      "pay": "Comprueba beca estatal, contrato de proyecto o financiación propia. No se publica una cuantía común para todas las modalidades.",
+      "fees": "Verifica tasas y exenciones de la plaza, así como seguro, movilidad y costes de investigación.",
+      "supervision": "Plan individual, supervisión, formación y actividad de investigación organizados por el centro.",
+      "assessment": "Cumplimiento de requisitos formativos y científicos, tesis y defensa.",
+      "watch": "Pide las condiciones de tu modalidad; una plaza financiada a tiempo completo no representa al resto del sistema."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/bulgaria/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:46.108Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "4d6dfd4f7132bc5c854e7e16315771e201b3b4b9d80d4f4e4ffadeb10ed412b6"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "CZ",
+    "name": "Chequia",
+    "scope": "Marco actualizado en agosto de 2026; reforma de ingresos desde 2025/26.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Modalidades presencial y combinada con derechos de financiación distintos. El ingreso doctoral puede combinar beca y salario.",
+      "admission": "Máster y requisitos del programa; la universidad puede seleccionar mediante examen, entrevista y propuesta de investigación.",
+      "duration": "Duración estándar de 3–4 años, frecuentemente 4. No equivale al tiempo real medio ni al máximo de permanencia.",
+      "pay": "La reforma establece, para la modalidad presencial elegible dentro de duración estándar, ingresos de al menos 1,2 veces el salario mínimo de referencia.",
+      "fees": "Comprueba tasas de solicitud, idioma de impartición y matrícula en la facultad. No se publica aquí una tarifa nacional única.",
+      "supervision": "Plan individual y dirección de tesis; evaluación del progreso por el programa y su órgano académico.",
+      "assessment": "Tesis y evaluación doctoral conforme a la normativa vigente y sus disposiciones transitorias.",
+      "watch": "Pide confirmar elegibilidad, composición del ingreso y cohorte a la que se aplica la reforma; no lo llames salario neto."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/czechia/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:36.258Z",
+        "sourceUpdated": "19 August 2026",
+        "contentHash": "627d7c5da97d7636821c5b6893a73c4ecbcf2a42d0131a6f77f260003300a897"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "CY",
+    "name": "Chipre",
+    "scope": "Marco nacional; cada institución añade requisitos y condiciones económicas.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Doctorado universitario o en instituciones autorizadas. Puede acompañarse de trabajo de investigación o docencia.",
+      "admission": "Máster en un área relacionada; evaluación institucional de antecedentes y aptitud para investigar.",
+      "duration": "La fuente describe entre 6 y 16 semestres. No implica financiación durante todo el máximo académico.",
+      "pay": "Los doctorandos pueden acceder a tareas de investigación o docencia, pero la matrícula no garantiza un puesto remunerado.",
+      "fees": "Comprueba matrícula por semestre y cobertura de la ayuda, incluidas las fases posteriores a los cursos.",
+      "supervision": "Supervisión académica y dirección de investigación designadas por el departamento.",
+      "assessment": "Examen comprehensivo y tesis original con defensa; se exige una contribución al conocimiento.",
+      "watch": "Compara años financiados y máximo de permanencia: son límites distintos."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/cyprus/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:59.000Z",
+        "sourceUpdated": "14 June 2026",
+        "contentHash": "003e79ef5a36793f25fbfd586905e72f0d3c8af92163ad7b2ebfe6ef43d3deb0"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "HR",
+    "name": "Croacia",
+    "scope": "Marco nacional; cada universidad concreta duración, financiación y condiciones.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Tercer ciclo centrado en investigación, con formación doctoral. Puede coexistir con empleo de asistente o financiación externa.",
+      "admission": "Máster universitario o equivalente y condiciones de admisión del programa.",
+      "duration": "La síntesis consultada describe 3 años y 180 ECTS. Confirma el programa vigente y sus límites de permanencia.",
+      "pay": "No se atribuye financiación automática: comprueba si se ofrece una plaza de investigación, beca o solo matrícula.",
+      "fees": "Solicita las tasas del programa y quién las paga, además del presupuesto disponible para investigación y movilidad.",
+      "supervision": "Supervisión y formación según el programa; el centro define seguimiento y requisitos científicos.",
+      "assessment": "Trabajo original y defensa doctoral conforme a la regulación universitaria.",
+      "watch": "Una plaza de asistente y un programa doctoral pueden tener duraciones distintas."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/croatia/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:34.761Z",
+        "sourceUpdated": "26 March 2024",
+        "contentHash": "44ae9431d5e09f7c260501e39b6ec324363fbd459e5208e3758db118ee563823"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "DK",
+    "name": "Dinamarca",
+    "scope": "Marco nacional; las vías integradas y el doctorado industrial añaden condiciones.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Programa doctoral estructurado; muchas plazas combinan matrícula y empleo. En el industrial intervienen empresa y universidad.",
+      "admission": "Vía ordinaria tras máster (5+3). Las vías 4+4 o 3+5 permiten comenzar antes de terminar el máster.",
+      "duration": "Vía ordinaria: 3 años, 180 ECTS. En vías integradas, separa la fase previa al máster de la fase doctoral.",
+      "pay": "Comprueba acuerdo laboral, pensión, jornada y quién financia matrícula y proyecto; la fase integrada puede cambiar el régimen de ingresos.",
+      "fees": "Pregunta quién paga la inscripción y las estancias de investigación; no sumes esas partidas al dinero disponible para manutención.",
+      "supervision": "Plan doctoral, supervisión, cursos —aproximadamente 30 ECTS—, participación en otro entorno investigador y actividades de difusión o docencia.",
+      "assessment": "Tesis y defensa pública, con evaluación del cumplimiento del plan y de los requisitos del programa.",
+      "watch": "5+3 describe el recorrido formativo previo más el doctorado; no significa ocho años de contrato doctoral."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/denmark/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:18:59.363Z",
+        "sourceUpdated": "5 January 2026",
+        "contentHash": "2f28aa82ae4289512d867b8b70e9aa39e26e5f4647ea32644543ca06a3a766df"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "SK",
+    "name": "Eslovaquia",
+    "scope": "Marco nacional; distingue dedicación completa y externa.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Doctorado a tiempo completo o parcial/externo. Las condiciones de beca y empleo deben identificarse por separado.",
+      "admission": "Máster o equivalente y selección de la institución, normalmente ligada a un tema de tesis.",
+      "duration": "3–4 años a tiempo completo; 4–5 en modalidad parcial según programa.",
+      "pay": "Los estudiantes a tiempo completo pueden tener beca doctoral conforme al marco legal, con diferencias antes y después del examen de disertación.",
+      "fees": "Consulta matrícula y costes según idioma y modalidad. El régimen parcial no tiene la misma beca que el presencial.",
+      "supervision": "Plan individual que combina actividad científica y formación, bajo supervisión y seguimiento del programa.",
+      "assessment": "Examen de disertación, investigación original y defensa de tesis conforme al reglamento.",
+      "watch": "Pregunta qué cambia en beca, obligaciones y duración al superar el examen de disertación."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/slovakia/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:47.378Z",
+        "sourceUpdated": "11 March 2025",
+        "contentHash": "bcdaaa96598a261df940a7f775db9d18f61e96f6fdbaa3fce5b20ea22b0f0688"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "SI",
+    "name": "Eslovenia",
+    "scope": "Marco nacional y programas vigentes de University of Ljubljana como ejemplo explícito.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Estudiante doctoral; el esquema Young Researchers de Ljubljana añade empleo y cobertura de matrícula mediante selección.",
+      "admission": "Máster o equivalente y requisitos del programa; admisión y candidatura a financiación se tramitan por sus vías respectivas.",
+      "duration": "En Ljubljana, Informática, Matemáticas y Estadística duran 4 años y 240 ECTS. La universidad conserva también un programa de 3 años.",
+      "pay": "Young Researchers financia empleo temporal y matrícula. La cofinanciación de tasas es otra ayuda y no garantiza manutención.",
+      "fees": "Hay tasas de programa; la cobertura depende de la modalidad. La cofinanciación puede ser parcial y variar por curso.",
+      "supervision": "Cursos, seminarios e investigación con dirección y seguimiento según el programa.",
+      "assessment": "Cumplimiento del currículo, tesis y defensa. La duración real depende del avance de la investigación.",
+      "watch": "La síntesis nacional antigua habla de tres años: para duración se usan los programas actuales de Ljubljana."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/slovenia/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:33.042Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "aeae567f43a17bf080b76c4a5c8863f3d5acea168f62284661ca17e112c90a0a"
+      },
+      {
+        "title": "University of Ljubljana · programas vigentes",
+        "url": "https://www.uni-lj.si/en/study/doctoral-study/programmes",
+        "scope": "Ejemplo institucional",
+        "checkedAt": "2026-09-21T10:29:43.449Z",
+        "sourceUpdated": null,
+        "contentHash": "3d3f0c4ebc812215e3f5900ab6bf3964686c8625aaaef71eb5be38db107b2d38"
+      },
+      {
+        "title": "University of Ljubljana · duración y financiación",
+        "url": "https://www.uni-lj.si/en/study/doctoral-study/faq",
+        "scope": "Ejemplo institucional",
+        "checkedAt": "2026-09-21T10:29:48.427Z",
+        "sourceUpdated": null,
+        "contentHash": "5d31eadd5bfe75ecd1671967b6762151d55dc383f48bd1168c0c1b126d239bd1"
+      }
+    ],
+    "factSources": {
+      "model": [
+        3
+      ],
+      "duration": [
+        2,
+        3
+      ],
+      "pay": [
+        3
+      ],
+      "fees": [
+        3
+      ]
+    }
+  },
+  {
+    "code": "ES",
+    "name": "España",
+    "scope": "Marco nacional; los programas y contratos añaden condiciones.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Estudiante de doctorado. Un contrato predoctoral es una relación laboral adicional; la matrícula no lo concede.",
+      "admission": "Vía general: grado y máster, con al menos 300 ECTS en conjunto. Existen vías equivalentes y excepciones reguladas.",
+      "duration": "Máximo ordinario de 4 años a tiempo completo o 7 a tiempo parcial. Hay reglas específicas de discapacidad, interrupción y prórroga.",
+      "pay": "Contratos de proyectos, ayudas predoctorales y otras vías competitivas. Comprueba por separado admisión, selección y años de contrato.",
+      "fees": "Hay matrícula de tutela académica y posibles tasas de defensa. El importe y las exenciones dependen del territorio y la universidad.",
+      "supervision": "Tutor y dirección de tesis, plan de investigación y formación, documento de actividades y evaluación anual de la comisión académica.",
+      "assessment": "Tesis con resultados originales y defensa pública ante un tribunal. Las condiciones de tesis por publicaciones son institucionales.",
+      "watch": "Pide que te indiquen qué ocurre si el contrato acaba antes del plazo académico de depósito."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/spain/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:18:10.634Z",
+        "sourceUpdated": "9 December 2025",
+        "contentHash": "421711b2f1e27cbd777ff731967ba3ffe384f2d571cd210bd3bafe5236ce3675"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "scope": "Marco nacional bajo la reforma de formación doctoral.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "El modelo vincula a muchos doctorandos con empleo de investigador júnior. También existe doctorado de transferencia con empleador externo.",
+      "admission": "Máster o equivalente; selección sobre proyecto, aptitud y encaje con la supervisión según universidad.",
+      "duration": "Referencia de 4 años a tiempo completo, 240 ECTS. Revisa dedicación y reglas de interrupción.",
+      "pay": "Comprueba contrato y tareas si se ofrece puesto de investigador júnior. No todas las modalidades implican el mismo empleador.",
+      "fees": "Pregunta por el régimen económico del programa y los gastos cubiertos por universidad o empresa.",
+      "supervision": "Plan individual de investigación y desarrollo profesional, supervisión y evaluación periódica del avance.",
+      "assessment": "Tesis original y defensa conforme al reglamento universitario; la producción científica exigida depende del programa.",
+      "watch": "En doctorado con empresa, aclara tiempo protegido, acceso a datos y derechos de publicación antes de aceptar."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/estonia/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:09.897Z",
+        "sourceUpdated": "13 December 2024",
+        "contentHash": "a5739e72b6846a633fd147d4a86b4508e6bcc2f02f15ee375be1e56c4fb214ff"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "FI",
+    "name": "Finlandia",
+    "scope": "Marco nacional y portal oficial Study in Finland.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "El derecho a cursar el doctorado y un puesto de investigación son decisiones separadas. Hay contratos, becas y otras vías.",
+      "admission": "Máster pertinente o equivalente; selección por programa y acuerdo de supervisión, normalmente con plan de investigación y financiación.",
+      "duration": "Objetivo habitual de 4 años a tiempo completo. La fuente de financiación puede cubrir solo parte de ese periodo.",
+      "pay": "Solicita puestos doctorales o ayudas de investigación además de la admisión. El portal oficial aconseja asegurar fondos para manutención.",
+      "fees": "Los programas doctorales no cobran matrícula, con independencia de la nacionalidad. Vivienda, manutención y otros costes siguen a tu cargo.",
+      "supervision": "Trabajo de tesis más formación científica y transversal; cada universidad determina los cursos y el seguimiento.",
+      "assessment": "Evaluación de la tesis, revisión externa y defensa pública conforme al reglamento institucional.",
+      "watch": "Una carta de admisión o unos meses iniciales de financiación no acreditan cuatro años financiados."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/finland/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:11.423Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "07382db4715fb4bfa4f764d43f0a6141d35a6bdd1da1af77d36dc8544b25ba8b"
+      },
+      {
+        "title": "Study in Finland · financiación doctoral",
+        "url": "https://www.studyinfinland.fi/funding-your-studies/doctoral-funding",
+        "scope": "Portal nacional",
+        "checkedAt": "2026-09-21T10:29:47.212Z",
+        "sourceUpdated": null,
+        "contentHash": "158ba637308bed8b358cd300bd35fe228a090550cb6a19bfd6c040b44a451342"
+      }
+    ],
+    "factSources": {
+      "fees": [
+        2
+      ],
+      "pay": [
+        2
+      ]
+    }
+  },
+  {
+    "code": "FR",
+    "name": "Francia",
+    "scope": "Marco nacional y contrato doctoral público; otras financiaciones tienen condiciones propias.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Doctorado en una escuela doctoral y unidad de investigación. Puede acompañarse de contrato público, privado u otra financiación.",
+      "admission": "Máster o nivel equivalente reconocido; evaluación del proyecto y sus condiciones por la dirección, la escuela doctoral y la institución.",
+      "duration": "Referencia de 3 años equivalentes a tiempo completo; hasta 6 en otros casos. Las prórrogas académicas requieren autorización.",
+      "pay": "El contrato doctoral público y las vías empresariales son distintos. La selección es local; la admisión no adjudica automáticamente contrato.",
+      "fees": "Confirma matrícula anual, contribuciones aplicables y exenciones. No deduzcas su cobertura del salario anunciado.",
+      "supervision": "Dirección de tesis, formación de la escuela doctoral y comité de seguimiento individual para revisar avance y condiciones de investigación.",
+      "assessment": "Trabajo científico original y defensa ante un jurado. La cotutela requiere un convenio entre las instituciones.",
+      "watch": "Pide por escrito dedicación, remuneración, posibles tareas complementarias y cobertura de una extensión."
+    },
+    "sources": [
+      {
+        "title": "Ministerio francés · organización y acceso al doctorado",
+        "url": "https://www.enseignementsup-recherche.gouv.fr/fr/doctorat-51898",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21",
+        "sourceUpdated": "Publicada el 19 de mayo de 2020; contenido consultado en septiembre de 2026",
+        "accessNote": "Leída en la consulta web. El recolector automático recibió HTTP 403."
+      },
+      {
+        "title": "Ministerio francés · financiación doctoral",
+        "url": "https://www.enseignementsup-recherche.gouv.fr/fr/le-financement-doctoral-46472",
+        "scope": "Contratos y vías de financiación",
+        "checkedAt": "2026-09-21",
+        "sourceUpdated": "Publicada el 20 de noviembre de 2019; contenido consultado en septiembre de 2026",
+        "accessNote": "Leída en la consulta web. El recolector automático recibió HTTP 403."
+      }
+    ],
+    "factSources": {
+      "pay": [
+        2
+      ]
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Grecia",
+    "scope": "Marco nacional actualizado en julio de 2026.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Investigación doctoral en un departamento; hay modalidades y financiación de proyectos, incluido doctorado industrial.",
+      "admission": "Máster o, cuando lo permite el reglamento, título integrado de al menos 5 años y 300 créditos; evaluación del proyecto.",
+      "duration": "Mínimo de 3 y máximo de 6 años naturales según el marco descrito. Consulta suspensiones y reglas del departamento.",
+      "pay": "La admisión no garantiza ayuda. Pueden existir becas y contratos en proyectos, con condiciones propias.",
+      "fees": "Confirma gastos aplicables y recursos cubiertos; esta guía no equipara financiación de proyecto con manutención personal.",
+      "supervision": "Dirección y comité asesor de tres miembros; informe escrito y presentación anual del progreso, además de posibles tareas docentes.",
+      "assessment": "Defensa pública ante un comité de siete miembros, que evalúa originalidad y contribución científica.",
+      "watch": "Pregunta por las obligaciones docentes y el tiempo de investigación, aunque no haya contrato laboral."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/greece/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:58.124Z",
+        "sourceUpdated": "7 July 2026",
+        "contentHash": "bd7c40fba2a7212f552c1cfa2f786fd289d26f64aea39d81945463bd06239dbb"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "HU",
+    "name": "Hungría",
+    "scope": "Marco nacional y ejemplo actualizado de estructura doctoral en ELTE.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Escuelas doctorales con fase formativa y fase de investigación y tesis. Hay plazas financiadas y autofinanciadas.",
+      "admission": "Máster o equivalente y selección de la escuela; requisitos lingüísticos y académicos específicos.",
+      "duration": "ELTE organiza el itinerario en 8 semestres y 240 créditos. Confirma por separado los plazos de depósito y defensa.",
+      "pay": "Comprueba si la plaza ofrece beca estatal, otra ayuda o exige autofinanciación. El derecho a estudiar no acredita salario.",
+      "fees": "Pregunta por tasas de la plaza y gastos de investigación; las modalidades financiadas y autofinanciadas difieren.",
+      "supervision": "En ELTE, cursos y consultas de supervisión durante la primera fase, seguidos de investigación y preparación de la tesis.",
+      "assessment": "Examen complejo entre las fases; completar créditos no sustituye la presentación y defensa de la tesis.",
+      "watch": "La síntesis nacional consultada es anterior; para estructura y créditos se utiliza explícitamente el ejemplo de ELTE."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/hungary/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:58.600Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "c6cc245270577a61aec1fed67ab1c3894ec70a0262e58359c4cba9f08caceb4d"
+      },
+      {
+        "title": "ELTE · estructura y evaluación doctoral",
+        "url": "https://btk.elte.hu/en/phd",
+        "scope": "Ejemplo institucional",
+        "checkedAt": "2026-09-21T10:29:42.932Z",
+        "sourceUpdated": null,
+        "contentHash": "fe972ec6a39b4f44a0fe9f1f797d3ba62e40a707b11907a5c3ff606db0cc8e02"
+      }
+    ],
+    "factSources": {
+      "duration": [
+        2
+      ],
+      "supervision": [
+        2
+      ],
+      "assessment": [
+        2
+      ]
+    }
+  },
+  {
+    "code": "IE",
+    "name": "Irlanda",
+    "scope": "Marco nacional; las condiciones varían entre instituciones y financiadores.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Coexisten doctorados tradicionales y estructurados. Ser estudiante financiado no implica automáticamente empleo universitario.",
+      "admission": "Buen grado honours y, según programa, máster; puede existir transferencia desde un máster de investigación tras evaluación.",
+      "duration": "Referencia de 3–4 años a tiempo completo; los estructurados suelen organizarse en 4. Confirma la duración financiada.",
+      "pay": "Becas, proyectos y otras ayudas competitivas. Pide cuantía, años, condiciones de renovación y cobertura de matrícula.",
+      "fees": "Comprueba tarifa aplicable y si la beca cubre todo el importe, incluidos posibles diferenciales internacionales.",
+      "supervision": "Dirección y seguimiento académico; los programas estructurados incorporan formación investigadora y habilidades transferibles.",
+      "assessment": "Tesis original y examen oral o viva, con evaluación interna y externa según reglamento.",
+      "watch": "Comprueba si una admisión inicial a MPhil o máster requiere una evaluación posterior para pasar al doctorado."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/ireland/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:24.244Z",
+        "sourceUpdated": "21 September 2026",
+        "contentHash": "5c8ca659b3151b8ddc66539e984bf7eeec7e1e967e1f1f40580f1931ae0f667a"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "IS",
+    "name": "Islandia",
+    "scope": "Marco nacional; la información económica se determina en cada programa.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Condición de estudiante; la financiación mediante proyectos, becas o empleo debe comprobarse por separado.",
+      "admission": "Máster de investigación o equivalente; la fuente describe una tesis de máster de al menos 30 ECTS.",
+      "duration": "Normalmente 3–4 años, 180–240 ECTS. Revisa el plan, la dedicación y la duración de la ayuda.",
+      "pay": "No hay una remuneración universal documentada aquí. Solicita la oferta de financiación y su cobertura completa.",
+      "fees": "Comprueba matrícula, tasas administrativas, seguros y costes de estancia para tu modalidad y situación.",
+      "supervision": "Dirección y plan de investigación; el programa establece formación, supervisión y seguimiento del progreso.",
+      "assessment": "Tesis original, evaluación por especialistas y defensa pública con participación externa.",
+      "watch": "Valora el presupuesto de manutención junto con la cobertura de viajes y trabajo de campo."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/iceland/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:23.345Z",
+        "sourceUpdated": "1 April 2026",
+        "contentHash": "07c8e004c03a9ad3df2b942775fe3719c9432d6e28e47601c5d6415602d21290"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "IT",
+    "name": "Italia",
+    "scope": "Marco nacional; cada bando establece plazas, becas y condiciones.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Dottorato di ricerca organizado por un programa y su colegio doctoral; puede haber plazas con beca y sin beca.",
+      "admission": "Máster o título extranjero idóneo. Admisión mediante concurso público, con pruebas y documentación fijadas en el bando.",
+      "duration": "Mínimo nacional de 3 años. Como ejemplo, SISSA describe programas de 3 o 4 años; confirma la duración de la convocatoria concreta.",
+      "pay": "La beca doctoral no debe presentarse como salario neto. Revisa importe bruto, cotizaciones y ayudas de movilidad.",
+      "fees": "Confirma tasas, aportaciones regionales y exenciones del programa, además de qué gastos cubre realmente la beca.",
+      "supervision": "Dirección académica y colegio doctoral; formación y evaluación del progreso antes de avanzar al siguiente curso.",
+      "assessment": "Tesis original, evaluación y examen final; los requisitos de publicaciones y movilidad se fijan por programa.",
+      "watch": "En convocatorias conjuntas, cada especialidad puede tener plazos distintos y diferente número de becas."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/italy/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:18:47.281Z",
+        "sourceUpdated": "16 July 2024",
+        "contentHash": "4fe8d804bfc65b4bf97ff84b786bfa63a2b49a79a99e8465a3a2a0d3b2796368"
+      },
+      {
+        "title": "SISSA · reglas generales del doctorado",
+        "url": "https://www.math.sissa.it/content/general-rules/",
+        "scope": "Ejemplo institucional de duración; no representa a todos los programas italianos",
+        "checkedAt": "2026-09-21",
+        "sourceUpdated": null
+      }
+    ],
+    "factSources": {
+      "duration": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "code": "LV",
+    "name": "Letonia",
+    "scope": "Marco nacional anterior a la reforma y transición documentada por la University of Latvia.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Sistema en transición hacia doctorados basados en empleo; University of Latvia prevé introducir gradualmente el modelo hasta finales de 2026.",
+      "admission": "Máster o equivalente como vía general; consulta admisión y requisitos de la nueva escuela doctoral de tu universidad.",
+      "duration": "La síntesis nacional anterior describe 3–4 años. Confirma la duración que corresponde a tu programa y cohorte reformados.",
+      "pay": "No se presupone empleo ni una cuantía para todos: pide contrato, dedicación y financiación de la cohorte concreta.",
+      "fees": "Comprueba plaza financiada o de pago y qué cubre la oferta; la transición puede cambiar condiciones entre cohortes.",
+      "supervision": "En University of Latvia, la nueva escuela doctoral coordina calidad, supervisión de programas y proceso de promoción.",
+      "assessment": "Investigación y evaluación de tesis conforme a los requisitos de la universidad y la normativa aplicable a tu cohorte.",
+      "watch": "La fecha de entrada y el régimen de transición son esenciales: no reutilices condiciones de convocatorias anteriores."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/latvia/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:20.967Z",
+        "sourceUpdated": "14 January 2024",
+        "contentHash": "cfff44ca0ff4eafb6669033a68d953e3f4db51aa6f5af26584dee311813f335e"
+      },
+      {
+        "title": "University of Latvia · transición al nuevo modelo",
+        "url": "https://www.lu.lv/en/admission/study-programmes-1/doctoral-studies/",
+        "scope": "Ejemplo institucional",
+        "checkedAt": "2026-09-21T10:29:42.932Z",
+        "sourceUpdated": null,
+        "contentHash": "7e6af9c4112b51f1373fc20acd62e8e72cda6e3044024ca1e070ad8bb761a94b"
+      }
+    ],
+    "factSources": {
+      "model": [
+        2
+      ],
+      "supervision": [
+        2
+      ]
+    }
+  },
+  {
+    "code": "LT",
+    "name": "Lituania",
+    "scope": "Marco nacional; plazas y financiación se determinan por convocatoria.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Estudios doctorales con formación científica e investigación; las plazas financiadas y no financiadas deben distinguirse.",
+      "admission": "Vilnius University exige máster o equivalente. Cada centro selecciona conforme a su convocatoria: comprueba proyecto, antecedentes y entrevista.",
+      "duration": "Hasta 4 años a tiempo completo o 6 a tiempo parcial.",
+      "pay": "Consulta si hay plaza financiada por el Estado, ayuda de proyecto u otra modalidad. La admisión no demuestra empleo.",
+      "fees": "Confirma si tu plaza lleva matrícula y qué costes de investigación, movilidad y defensa están cubiertos.",
+      "supervision": "Formación doctoral de al menos 30 créditos, trabajo de tesis y seguimiento por la supervisión y el comité correspondiente.",
+      "assessment": "Tesis original y defensa pública tras cumplir los requisitos formativos y científicos del programa.",
+      "watch": "Pide identificar por escrito la modalidad financiada y la dedicación antes de comparar importes."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/lithuania/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:21.127Z",
+        "sourceUpdated": "9 April 2025",
+        "contentHash": "838ca7306f675d82f7248e9cb8cbf3146ad3555fc34b5878a420dba465e86690"
+      },
+      {
+        "title": "Vilnius University · admisión doctoral 2026",
+        "url": "https://www.vu.lt/en/admissions/doctoral-studies",
+        "scope": "Ejemplo institucional: requisitos de Vilnius University",
+        "checkedAt": "2026-09-21",
+        "sourceUpdated": null
+      }
+    ],
+    "factSources": {
+      "admission": [
+        2
+      ]
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Luxemburgo",
+    "scope": "Universidad de Luxemburgo y marco descrito por Eurydice.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Doctorandos empleados por universidad o centro, con financiación externa o propia. Escuela doctoral y contrato son dimensiones distintas.",
+      "admission": "Máster; aceptación del proyecto y de la supervisión, evaluación de aptitud y decisión institucional de admisión.",
+      "duration": "La referencia consultada describe 36–48 meses. Verifica contrato, prórrogas y modalidad en la oferta vigente.",
+      "pay": "La vía puede ser una vacante remunerada o un proyecto con financiación externa. No hay salario único aplicable a todos.",
+      "fees": "Pregunta por matrícula y costes personales incluso si existe contrato; comprueba recursos del proyecto y movilidad.",
+      "supervision": "Dirección habilitada y comité de acompañamiento. Es posible cotutela mediante acuerdo entre instituciones.",
+      "assessment": "Tesis original y defensa oral ante jurado con miembros externos.",
+      "watch": "Un acuerdo de supervisión permite tramitar la admisión; no equivale a una oferta laboral."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/luxembourg/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:32.951Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "e0645ee172c598252394dbdfd8826e6ad41bb0fdc1877be43c6e573d0fb74787"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "scope": "La comparación se refiere al PhD de University of Malta; el DRes de MCAST es otra vía.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Investigación doctoral con supervisión; pueden existir matrícula inicial de MPhil y posterior transferencia al PhD.",
+      "admission": "Normalmente máster relacionado; existen excepciones de acceso y evaluación mediante entrevista y propuesta de investigación.",
+      "duration": "Consulta duración, dedicación completa o parcial y plazos de transferencia en el reglamento del PhD concreto.",
+      "pay": "Becas, proyectos o contratos requieren confirmación individual. La admisión académica no garantiza financiación.",
+      "fees": "Comprueba tarifa aplicable por programa y situación, así como financiación de investigación y gastos de estancia.",
+      "supervision": "Dirección principal nombrada institucionalmente; puede haber codirección, reuniones regulares y registro del progreso.",
+      "assessment": "Tesis y examen conforme al reglamento. La transferencia de MPhil requiere superar su evaluación específica.",
+      "watch": "No confundas el PhD universitario con el doctorado profesional DRes, que exige experiencia y tiene otra estructura."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/malta/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:21:10.033Z",
+        "sourceUpdated": "25 March 2026",
+        "contentHash": "36a9ba559936a6c2ff9433a245a11f7f089c0376d5e88863ec797a8f10e1b97d"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "NO",
+    "name": "Noruega",
+    "scope": "Marco nacional; confirma la vacante y el reglamento de la universidad.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Muchas plazas son empleos temporales de investigación doctoral; existen también candidatos financiados por otras entidades.",
+      "admission": "Máster pertinente o equivalente y requisitos del programa; la contratación debe coordinarse con la admisión académica.",
+      "duration": "3 años de investigación; son frecuentes contratos de 4 años que incorporan tareas adicionales, como docencia.",
+      "pay": "Compara salario bruto anual, pensión, dedicación y obligaciones del puesto. Una posible ampliación no es financiación ya adjudicada.",
+      "fees": "Consulta costes de inscripción, movilidad y manutención aplicables; el anuncio laboral debe aclarar qué recursos proporciona.",
+      "supervision": "Supervisión, plan de investigación, formación doctoral y seguimiento. La parte formativa suele rondar 30 créditos.",
+      "assessment": "Tesis evaluada por un comité, lección de prueba y defensa; requisitos concretos en el reglamento del centro.",
+      "watch": "Comprueba qué porcentaje del contrato se reserva a investigación y qué tareas justifican el cuarto año."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/norway/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:12.274Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "838f197c211178a0ce3942611dfca76dee66283813b9ccb7de6861a852309ddc"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "NL",
+    "name": "Países Bajos",
+    "scope": "Marco nacional; distingue doctorandos empleados, becarios y externos.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Muchos doctorandos son empleados de la universidad. También existen candidatos con beca, empresa o financiación propia.",
+      "admission": "Máster o equivalente como vía habitual; selección por proyecto y supervisión, con excepciones reguladas por la institución.",
+      "duration": "El contrato universitario típico es de 4 años a tiempo completo. Otras modalidades y dedicaciones pueden diferir.",
+      "pay": "Para empleo, consulta escala, jornada, progresión y complementos del convenio vigente. Una beca externa tiene condiciones distintas.",
+      "fees": "No presupongas que el régimen económico de un empleado se aplica al doctorando externo; solicita todos los costes por escrito.",
+      "supervision": "Promotor o equipo de supervisión, plan de formación e investigación y seguimiento según escuela y reglamento.",
+      "assessment": "Tesis original, evaluación por un comité y defensa pública. La estructura de la tesis varía por disciplina.",
+      "watch": "Identifica tu categoría de doctorando antes de comparar cifras y duración de dos ofertas."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/netherlands/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:18:48.219Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "d01890c150d28acf2eb800851a8c91de9c1ed5e8eefe03585792cab3c021881d"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "PL",
+    "name": "Polonia",
+    "scope": "Escuelas doctorales; la vía externa de obtención del título es distinta.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Formación en una escuela doctoral, mediante currículo y plan individual de investigación; no equivale por sí sola a empleo.",
+      "admission": "Título de máster o equivalente como vía ordinaria; selección competitiva y excepciones reguladas para trayectorias destacadas.",
+      "duration": "3–4 años, predominantemente 4. Las prórrogas académicas no amplían automáticamente el periodo de beca.",
+      "pay": "En escuelas, la beca doctoral tiene un máximo de 4 años y condiciones legales. Su mínimo cambia tras la evaluación intermedia.",
+      "fees": "Confirma las condiciones de la escuela y los costes de procedimientos externos; no confundas ambas vías.",
+      "supervision": "Plan individual durante el primer año y evaluación intermedia, además de supervisión y actividades formativas.",
+      "assessment": "Tesis, revisión y defensa para obtener el grado doctoral; la evaluación intermedia condiciona la continuidad en la escuela.",
+      "watch": "Comprueba si la oferta es admisión en una escuela o un procedimiento externo, y qué beca corresponde."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/poland/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:35.268Z",
+        "sourceUpdated": "8 December 2025",
+        "contentHash": "b0f0b263d251c8fc11a46b441f707cca15e408d60a1a1ef068a0a1513eb82055"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "scope": "Marco nacional con amplia autonomía de cada institución.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Tercer ciclo centrado en investigación original; puede incluir un curso doctoral. Ser admitido no supone tener empleo.",
+      "admission": "Máster o equivalente. Excepcionalmente, grado o currículo académico, científico o profesional reconocido como suficiente por la institución.",
+      "duration": "La fuente nacional no fija una única duración para todos los programas. Consulta el reglamento y los años financiados.",
+      "pay": "Becas, proyectos y otras convocatorias deben solicitarse o acreditarse por separado. No hay una cuantía universal en esta guía.",
+      "fees": "Comprueba tasas de matrícula (propinas), inscripción y tasas de tesis en el programa; pregunta expresamente qué cubre la ayuda.",
+      "supervision": "La universidad define dirección, seguimiento, formación y condiciones de aceptación de la tesis en su reglamento.",
+      "assessment": "Trabajo de investigación original y discusión pública ante un jurado; los formatos admitidos dependen de la institución.",
+      "watch": "Confirma primero el encaje con un supervisor y después la financiación disponible para ese proyecto."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/portugal/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:18:11.196Z",
+        "sourceUpdated": "27 April 2026",
+        "contentHash": "6f366d43cdef21f9eae9f5b80a1f12b7842d559dfe1c21585c29b0a212e13164"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "GB",
+    "name": "Reino Unido",
+    "scope": "Características del título según QAA; financiación UKRI como ejemplo, no regla de todo doctorado.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "PhD o DPhil de investigación; también doctorados profesionales o basados en práctica. Una studentship no se presenta como empleo.",
+      "admission": "Requisitos institucionales: grado con nivel suficiente y, en ciertos programas, máster. Comprueba si solicitas proyecto, centro doctoral o propuesta propia.",
+      "duration": "Confirma duración del programa, matrícula y manutención: no tienen por qué terminar a la vez ni cubrir extensiones.",
+      "pay": "UKRI: mínimo £20.780/año hasta septiembre de 2026 y £21.805 desde el 1 de octubre de 2026, a tiempo completo.",
+      "fees": "UKRI aporta la tasa doméstica: £5.238 en 2026/27. Un estudiante internacional puede tener una diferencia de matrícula que cubrir.",
+      "supervision": "Entorno de investigación y supervisión; los doctorados profesionales suelen incorporar más formación impartida al principio.",
+      "assessment": "Contribución original al conocimiento mediante investigación o aplicación original; consulta tesis y examen oral del programa.",
+      "watch": "UKRI no recibe solicitudes individuales: se solicita a la entidad que ofrece la studentship. Separa admisión y financiación."
+    },
+    "sources": [
+      {
+        "title": "QAA · características de los doctorados",
+        "url": "https://www.qaa.ac.uk/the-quality-code/characteristics-statements/characteristics-statement-doctoral-degrees",
+        "scope": "Marco de cualificaciones, edición 2020",
+        "checkedAt": "2026-09-21T10:29:46.399Z",
+        "sourceUpdated": null,
+        "contentHash": "9c1f716a9a7d1e15f115d042067f62732c74ea6ee6c03faebd2c1ed85a96ebbe"
+      },
+      {
+        "title": "UKRI · manutención, tasas y solicitud",
+        "url": "https://www.ukri.org/manage-your-award/support-for-ukri-funded-students/",
+        "scope": "Solo studentships de UKRI",
+        "checkedAt": "2026-09-21T10:29:45.132Z",
+        "sourceUpdated": null,
+        "contentHash": "cf5d129e3f123f1386b346e301910c6b25408ee83fad254aa0f0883b221639d0"
+      }
+    ],
+    "factSources": {
+      "pay": [
+        2
+      ],
+      "fees": [
+        2
+      ],
+      "watch": [
+        2
+      ]
+    }
+  },
+  {
+    "code": "RO",
+    "name": "Rumanía",
+    "scope": "Marco nacional; se utiliza la duración actualizada bajo la Ley 199/2023.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Doctorado organizado por una escuela doctoral. Hay plazas financiadas públicamente y modalidades de pago.",
+      "admission": "Máster o equivalente y al menos 300 ECTS entre estudios previos; selección de la institución.",
+      "duration": "Duración ordinaria de 4 años. Puede haber extensión de 1–2 años bajo condiciones y autorización.",
+      "pay": "La beca o financiación depende de plaza y modalidad. Una prórroga académica no documenta por sí misma financiación adicional.",
+      "fees": "Comprueba si la plaza es financiada o con tasas y qué gastos de matrícula, investigación y defensa corresponden.",
+      "supervision": "Dirección doctoral y programa de formación e investigación de la escuela; seguimiento conforme a su regulación.",
+      "assessment": "Tesis original y evaluación/defensa según los procedimientos nacionales e institucionales vigentes.",
+      "watch": "Usa la convocatoria del curso actual: las referencias anteriores a la reforma pueden describir tres años."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/romania/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:20:45.987Z",
+        "sourceUpdated": "18 March 2026",
+        "contentHash": "d25e32bfc007ceabdb8646fdae76a22815e505bca3722abd9ba99ecc3ac12615"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "SE",
+    "name": "Suecia",
+    "scope": "Marco nacional; salarios y convocatorias se concretan por universidad.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Admisión doctoral normalmente vinculada a financiación asegurada; empleo doctoral frecuente, con alternativas externas.",
+      "admission": "Máster, o al menos 240 créditos con 60 de nivel avanzado, o conocimientos equivalentes; requisitos específicos por disciplina.",
+      "duration": "Doctorado: 240 créditos, equivalentes a 4 años de dedicación completa. Licentiate: 120 créditos, equivalente a 2 años.",
+      "pay": "Las plazas laborales tienen salario y condiciones locales. Docencia, permisos o dedicación parcial pueden alargar el calendario.",
+      "fees": "Comprueba las condiciones económicas de tu modalidad y los gastos de movilidad o estancia; no extrapoles desde una beca externa.",
+      "supervision": "Plan individual de estudios y supervisión; cursos y tesis se distribuyen según la disciplina y se revisa el progreso.",
+      "assessment": "Tesis doctoral y defensa pública. El licentiate es una cualificación distinta y no equivale al PhD.",
+      "watch": "Distingue años de trabajo efectivo en la tesis de años naturales cuando hay tareas departamentales."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/sweden/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:19:00.188Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "9337018bb589ecbbb15bee802f0ea03db857f412478d0a936a049ae5848ad330"
+      }
+    ],
+    "factSources": {}
+  },
+  {
+    "code": "CH",
+    "name": "Suiza",
+    "scope": "Marco nacional; las condiciones laborales se fijan por institución y plaza.",
+    "checkedAt": "2026-09-21",
+    "facts": {
+      "model": "Doctorado individual o estructurado; muchos candidatos son empleados como asistentes, mientras otros tienen beca o financiación externa.",
+      "admission": "Máster reconocido y aceptación académica, habitualmente ligada a supervisión. Las vías directas desde grado son excepciones institucionales.",
+      "duration": "Referencia orientativa de 3–5 años; contrato, porcentaje de jornada y renovaciones deben confirmarse en cada oferta.",
+      "pay": "Comprueba escala, tramo y porcentaje contratado. No extrapoles el salario de ETH a todas las universidades ni becas.",
+      "fees": "Salario y tasas doctorales son conceptos distintos. Pide importes de matrícula, examen y costes personales.",
+      "supervision": "Dirección de tesis y requisitos de formación/seguimiento según universidad y escuela doctoral.",
+      "assessment": "Tesis y evaluación doctoral según reglamento; formatos y exigencias de publicaciones varían por disciplina.",
+      "watch": "Compara el salario anual bruto y la jornada contratada, además del coste de vida y los años cubiertos."
+    },
+    "sources": [
+      {
+        "title": "Eurydice · estudios de tercer ciclo",
+        "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/switzerland/third-cycle-phd-programmes",
+        "scope": "Marco nacional",
+        "checkedAt": "2026-09-21T10:21:10.829Z",
+        "sourceUpdated": "27 November 2023",
+        "contentHash": "41c6a2ee7b458c3b1b9ef118dd4e61f7d2860caea827ba1d12a3dff88f48440d"
+      }
+    ],
+    "factSources": {}
+  }
+]

@@ -47,3 +47,18 @@ test('master degree filter excludes internships eligible for masters students',(
  const f=readFilters(new URLSearchParams('etapa=master&tipo=master-programme&vigencia=programme'));
  assert.deepEqual(selectRecords(input,f,now).map(x=>x.id),['degree']);
 });
+
+test('measured zero sorts before missing impact or volume, without inventing a zero',()=>{
+ const input={records:[record('a-missing'),record('z-zero'),record('non-finite')],institutions:{
+  'a-missing':{metrics:{cs:{...metric(10),top10Share:null,volume:null}}},
+  'z-zero':{metrics:{cs:{...metric(10),top10Share:0,volume:0}}},
+  'non-finite':{metrics:{cs:{...metric(10),top10Share:NaN,volume:Infinity}}},
+ }};
+ for(const sort of ['impact','volume'])assert.deepEqual(selectRecords(input,{...defaults,sort},now).map(r=>r.id),['z-zero','a-missing','non-finite']);
+});
+
+test('a summer school accessible to masters students is not a masters degree',()=>{
+ const input={...data,records:[record('degree',{kind:'programme',stage:'master'}),record('school',{kind:'programme',stage:'master',recurrence:{category:'summer-school'}})]};
+ assert.deepEqual(selectRecords(input,{...defaults,kind:'master-programme'},now).map(r=>r.id),['degree']);
+ assert.equal(selectRecords(input,{...defaults,stage:'master',kind:'programme'},now).length,2);
+});

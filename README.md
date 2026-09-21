@@ -2,7 +2,7 @@
 
 **El recorrido hacia la investigación, con fuentes a la vista.**
 
-[Abrir TRAMA](https://aleetreny.github.io/trama-academia) · [Explorar oportunidades](https://aleetreny.github.io/trama-academia/explorar) · [Financiación](https://aleetreny.github.io/trama-academia/financiacion) · [Cobertura y fuentes](https://aleetreny.github.io/trama-academia/fuentes)
+[Abrir TRAMA](https://aleetreny.github.io/trama-academia) · [Explorar oportunidades](https://aleetreny.github.io/trama-academia/explorar) · [Financiación](https://aleetreny.github.io/trama-academia/financiacion) · [Programas recurrentes](https://aleetreny.github.io/trama-academia/programas) · [Guías de doctorado](https://aleetreny.github.io/trama-academia/guia) · [Cobertura y fuentes](https://aleetreny.github.io/trama-academia/fuentes)
 
 [![Verificar aplicación](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml/badge.svg)](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml)
 
@@ -13,22 +13,25 @@ TRAMA es un atlas de oportunidades académicas en Europa para **ciencia de datos
 | Etapa | Contenido |
 | --- | --- |
 | Primeras experiencias | Ayudantías, prácticas y programas que aportan experiencia de investigación. |
-| Máster | Títulos con tesis o componente de investigación documentado. |
+| Máster | Programas con tesis, trabajo final o componente de investigación documentado; la ficha distingue las rutas optativas y las prácticas. |
 | Doctorado | Programas y plazas, requisitos de acceso, duración y condiciones publicadas. |
 | Después del doctorado | Posdoctorados y puestos de investigación o carrera académica. |
 | Financiación | Becas, ayudas y programas de apoyo, con requisitos y convocatorias diferenciados. |
+| Programas recurrentes | Escuelas de verano, estancias y ayudas con continuidad documentada, aunque la última convocatoria esté cerrada. |
 
-Puedes combinar etapa, país, área, tier por disciplina, financiación, idioma, vigencia y plazo, ordenar por prestigio investigador, impacto, actividad o fecha, compartir los filtros mediante la URL y comparar hasta tres oportunidades, consultar sus fuentes originales y leer las diferencias entre sistemas doctorales. El [registro institucional](https://aleetreny.github.io/trama-academia/instituciones) muestra las fuentes localizadas, el avance de revisión y los tiers de investigación por disciplina.
+Puedes combinar etapa, país, área, tier por disciplina, financiación, idioma, vigencia y plazo, ordenar por prestigio investigador, impacto, actividad o fecha, compartir los filtros mediante la URL y comparar hasta tres oportunidades, consultar sus fuentes originales y comparar dos sistemas doctorales con acceso a 31 guías por país. El directorio de programas recurrentes permite planificar próximas solicitudes sin confundir una edición documentada con una convocatoria abierta. El [registro institucional](https://aleetreny.github.io/trama-academia/instituciones) muestra las fuentes localizadas, el avance de revisión y los tiers de investigación por disciplina.
 
-## Edición de presentación · 21 de septiembre de 2026
+## Revisión integral · 21 de septiembre de 2026
 
-La instantánea de esta edición reúne **3.373 registros** y **2.946 fuentes**, junto con un inventario de **6.360 instituciones**. De ellas, 3.185 tienen fuentes localizadas y 3.160 alguna fuente comprobada. Son recuentos distintos: el inventario no acredita una revisión completa de cada institución.
+La instantánea preparada reúne **3.629 registros**, **3.201 fuentes** y **3.186 semillas de programas**, junto con un inventario de **6.360 instituciones**. Los registros incluyen programas, anuncios y financiación; las semillas son entradas de adquisición revisadas, no un contador adicional de oportunidades. Inventariar una institución no acredita una revisión completa de su oferta.
 
-Esta edición cierra la ampliación manual con nueve incorporaciones verificadas en Grecia. La revisión semanal permanece configurada. La [guía de presentación](docs/presentation.md) propone un recorrido por el producto y explica cómo interpretar sus cifras y límites.
+Tras el cierre anterior, el usuario reabrió expresamente la ampliación para un lote finito: **250 programas de máster y cinco escuelas de verano nuevos**, más un máster de ETH recuperado de las semillas pendientes (256 altas en total). Las 591 decisiones editoriales incluyen también opciones ya cubiertas, descartes y casos retenidos. El directorio permanente reúne **19 programas recurrentes** y la guía compara **31 países**, con fuentes por criterio. La revisión semanal permanece configurada; este cierre no inicia una adquisición manual ilimitada.
+
+**Validación local completada; publicación en curso:** estas cifras describen la instantánea local preparada; todavía no acreditan su publicación ni su sincronización histórica. El [informe de revisión](docs/review-2026-09-21.md#validación-y-publicación) separa las comprobaciones realizadas de las pendientes. La [guía de presentación](docs/presentation.md) explica el recorrido y los límites del producto.
 
 ## Alcance y confianza
 
-**La cobertura sigue en ampliación.** Los recuentos y las incidencias de cada barrido están en [Fuentes](https://aleetreny.github.io/trama-academia/fuentes). Una institución localizada o un enlace pendiente no cuentan como una oportunidad verificada. Un programa existente tampoco implica una convocatoria abierta.
+**La cobertura europea es parcial.** El lote manual de esta revisión queda delimitado; una ampliación posterior requiere un nuevo encargo. Los recuentos y las incidencias de adquisición están en [Fuentes](https://aleetreny.github.io/trama-academia/fuentes). Una institución localizada o un enlace pendiente no cuentan como una oportunidad verificada. Un programa existente tampoco implica una convocatoria abierta.
 
 - **Fuentes identificables.** Cada ficha enlaza la institución o el anuncio y conserva la fecha de comprobación. Las nuevas incorporaciones contrastan las condiciones con páginas y PDF oficiales; los cambios que afectan a su evidencia se retienen para revisión.
 - **Condiciones explícitas.** Plazos, duración, idiomas, requisitos y financiación se publican cuando hay evidencia. Los campos desconocidos siguen como desconocidos. Una ayuda condicionada no se presenta como financiación garantizada.
@@ -36,7 +39,7 @@ Esta edición cierra la ampliación manual con nueve incorporaciones verificadas
 - **Actualización semanal.** El recolector se ejecuta los lunes a las 04:23 UTC y admite ejecución manual. Al terminar correctamente, se construye y publica una nueva edición en GitHub Pages. El buscador consulta esa edición cada cinco minutos, sin volver a rastrear las fuentes.
 - **Continuidad de los datos.** La web se genera desde las instantáneas versionadas y funciona sin base de datos en tiempo de consulta. Neon conserva la adquisición y el historial de observaciones. Los errores de acceso conservan la última ficha válida y quedan registrados.
 
-El ámbito principal es Europa, incluidos países pequeños y territorios. Armenia, Azerbaiyán y Georgia figuran como ampliación académica explícita del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Los programas de países transcontinentales necesitan evidencia de su campus europeo; esa comprobación no concede automáticamente un tier a toda la institución.
+El ámbito principal es Europa, incluidos países pequeños y territorios. Armenia, Azerbaiyán y Georgia figuran como ampliación académica explícita del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Los programas de países transcontinentales necesitan evidencia de su campus europeo; los itinerarios que exigen movilidad fuera del ámbito europeo se excluyen. La comprobación geográfica no concede automáticamente un tier a toda la institución.
 
 La extracción respeta `robots.txt`, límites de acceso y bloqueos. Algunos sitios requieren nuevos adaptadores o revisión manual; todavía puede haber duplicados entre fuentes o idiomas. El catálogo ayuda a localizar opciones y documenta su evidencia; la convocatoria original determina las condiciones aplicables.
 
@@ -55,6 +58,7 @@ Abrir la dirección que imprime el servidor; por defecto, `http://localhost:3000
 
 ```sh
 npm test
+npm run lint
 npm run typecheck
 npm run build
 ```
@@ -63,13 +67,14 @@ Los recolectores de PDF requieren además Python 3.10 o posterior y las dependen
 
 ## Cómo está organizado
 
-La aplicación utiliza React y la exportación estática de Next.js, publicada en **GitHub Pages** mediante GitHub Actions. Las 3.373 fichas tienen HTML propio y admiten acceso directo. Los índices de búsqueda se descargan por separado, los detalles visibles se cargan en paralelo y la comparación solo se descarga cuando se abre. Las fuentes tipográficas se sirven localmente. Los recolectores de Node verifican fuentes públicas; Python extrae PDF y Neon conserva el historial de adquisición. No se necesitan servicios de ChatGPT para consultar o publicar esta versión.
+La aplicación utiliza React y la exportación estática de Next.js, publicada en **GitHub Pages** mediante GitHub Actions. La exportación genera HTML propio para cada ficha y permite acceder a ella directamente. Los índices de búsqueda se descargan por separado, los detalles visibles se cargan en paralelo y la comparación solo se descarga cuando se abre. Las fuentes tipográficas se sirven localmente. Los recolectores de Node verifican fuentes públicas; Python extrae PDF y Neon conserva el historial de adquisición. No se necesitan servicios de ChatGPT para consultar o publicar esta versión.
 
 | Ruta | Función |
 | --- | --- |
 | `app/`, `components/`, `lib/` | Páginas, interacción, consulta y presentación del catálogo. |
 | `data/catalogue.json` | Instantánea pública de oportunidades y fuentes. |
-| `data/programmes.seed.json`, `data/sources.json` | Programas revisados, evidencia y configuración de adaptadores. |
+| `data/programmes.seed.json`, `data/sources.json` | Programas revisados, recurrencia, evidencia y configuración de adaptadores. |
+| `data/country-guides.json` | Comparación de 31 países, ocho criterios y referencias oficiales por criterio. |
 | `data/institutions.curated.json`, `data/institutions.json` | Fuentes institucionales revisadas y registro público con indicadores. |
 | `data/institution-crawl.json.gz` + `data/institution-crawl.parts/` | Cola reanudable de descubrimiento, dividida en partes con huellas SHA-256; conserva todo el historial y admite leer el formato anterior. Su resumen legible está en `data/institution-crawl.summary.json`. |
 | `scripts/harvest/` | Adquisición, extracción, controles de evidencia y auditoría. |
@@ -82,6 +87,7 @@ El flujo de CI verifica las pruebas, los tipos, las fichas exportadas y los pres
 
 - [Continuidad y trabajo pendiente](docs/continuation.md): punto de entrada para otro agente, prioridades, decisiones vigentes y contexto local disponible.
 - [Guía de presentación](docs/presentation.md): recorrido breve por el producto, cifras de esta edición y límites de cobertura.
+- [Revisión integral](docs/review-2026-09-21.md): balance de 591 decisiones, 256 altas, programas recurrentes, guías y revisión funcional, con el estado de validación y publicación.
 - [Cierre de Grecia](docs/greece-closing-review-2026-09-21.md): cinco másteres, tres familias de financiación y un anuncio docente; nueve fichas nuevas contrastadas con 26 documentos oficiales.
 - [Operación y publicación](docs/operations.md): entorno, actualización semanal, estados, credenciales, diagnóstico y despliegue.
 - [Inventario institucional y tiers](docs/institution-discovery.md): universo geográfico, identidad ROR, cola de rastreo y método bibliométrico.

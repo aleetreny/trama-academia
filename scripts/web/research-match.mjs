@@ -9,7 +9,7 @@ export function createInstitutionMatcher(institutions){
   const exact=names.get(record.country+'|'+normalise(record.institution));
   if(exact?.size===1)return {institution:[...exact.values()][0],method:'name-country'};
   if(exact?.size>1)return null;
-  if(/(?:\s[—–/]\s|\s&\s|consortium|consorcio)/i.test(record.institution))return null;
+  if(/(?:\s[—–/·]\s|\s&\s|consortium|consorcio)/i.test(record.institution))return null;
   let domain=host(record.url);
   while(domain.includes('.')){
    const candidates=[...(domains.get(domain)?.values()||[])].filter(i=>i.country===record.country);

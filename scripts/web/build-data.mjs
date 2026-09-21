@@ -18,7 +18,7 @@ const metric=m=>Object.fromEntries(['openalexId','volume','impactEligible','top1
 const metrics=i=>Object.fromEntries(Object.entries(i.researchMetrics).filter(([,m])=>m.openalexId||typeof m.volume==='number'||m.tier).map(([k,v])=>[k,metric(v)]));
 for(let offset=0;offset<catalogue.records.length;offset+=64){await Promise.all(catalogue.records.slice(offset,offset+64).map(async r=>{
  const match=matcher(r);if(match){identities[match.institution.id]={id:match.institution.id,name:match.institution.name,ror:match.institution.ror,metrics:metrics(match.institution)};matches.push({recordId:r.id,institutionId:match.institution.id,method:match.method});}
- const detailPath=await write('records/'+r.id,r),keys=['id','title','institution','country','city','kind','stage','eligibleStages','fields','status','verifiedAt','deadline','languages','lastError'];
+ const detailPath=await write('records/'+r.id,r),keys=['id','title','institution','country','city','kind','stage','eligibleStages','recurrence','fields','status','verifiedAt','deadline','languages','lastError'];
  rows.push({...Object.fromEntries(keys.filter(k=>r[k]!==undefined).map(k=>[k,r[k]])),funding:{kind:r.funding.kind},researchInstitutionId:match?.institution.id||null,detailPath});
 }));}
 rows.sort((a,b)=>a.id.localeCompare(b.id));const paths={};

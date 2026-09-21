@@ -2,16 +2,29 @@ import fs from 'node:fs/promises';
 import {randomUUID} from 'node:crypto';
 import {persistObservations} from './http.mjs';
 import {idFor} from './domain.mjs';
-import {verifyProgramme,mergeProgrammeRecords} from './programme-record.mjs';
+import {verifyProgramme} from './programme-record.mjs';
 import {selectProgrammeSeeds} from './programme-selection.mjs';
+import {programmeCheckpoint,serialCheckpointWriter} from './programme-checkpoint.mjs';
 
 const startedAt=new Date().toISOString();
 const allSeeds=JSON.parse(await fs.readFile('data/programmes.seed.json','utf8'));
 const selectedFile=process.argv.find(arg=>arg.startsWith('--only='))?.slice(7);
 const seeds=selectProgrammeSeeds(allSeeds,selectedFile?JSON.parse(await fs.readFile(selectedFile,'utf8')):undefined);
+const initial=JSON.parse(await fs.readFile('data/catalogue.json','utf8'));
+const run=process.argv.includes('--standalone')||!initial.run?{id:randomUUID(),type:'programme-verification',parentRunId:initial.run?.id||null,startedAt,finishedAt:null,status:'running'}:{...initial.run};
 const records=[],reports=[];
-let next=0;
+let next=0,checkpointError;
+const writer=serialCheckpointWriter(async data=>{
+ await fs.writeFile('data/catalogue.json.tmp',JSON.stringify(data,null,2)+'\n');
+ await fs.rename('data/catalogue.json.tmp','data/catalogue.json');
+ await persistObservations({runId:run.id});
+ console.log(JSON.stringify({checkpoint:true,runId:run.id,...data.run.programmes}));
+});
+function checkpoint(finished=false){
+ return writer.write(programmeCheckpoint({initial,allSeeds,records:[...records],reports:[...reports],run,startedAt,total:seeds.length,started:next,selected:!!selectedFile,finished})).catch(error=>{checkpointError??=error;throw error;});
+}
 async function worker(){while(next<seeds.length){
+ if(checkpointError)throw checkpointError;
  const seed=seeds[next++];
  const source={id:'programme-'+idFor(seed.url),name:seed.institution+' · '+seed.title,url:seed.url,adapter:'programme',type:seed.kind.includes('funding')?'funder':'institution',scope:seed.country,stages:seed.eligibleStages||[seed.stage],enabled:true};
  try{
@@ -22,19 +35,15 @@ async function worker(){while(next<seeds.length){
   reports.push({...source,status:'partial',report:{checkedAt:new Date().toISOString(),accepted:0,complete:false,errors:[{error:error.message}]}});
   console.log(JSON.stringify({programme:seed.title,status:error.message}));
  }
+ if(reports.length%25===0)await checkpoint();
 }}
-await Promise.all([worker(),worker(),worker(),worker()]);
-const data=JSON.parse(await fs.readFile('data/catalogue.json','utf8'));
-data.records=mergeProgrammeRecords(data.records,records,reports);
-const seedSourceIds=new Set(allSeeds.map(s=>'programme-'+idFor(s.url)));
-const sources=new Map(data.sources.filter(s=>!s.id.startsWith('programme-')||seedSourceIds.has(s.id)||data.records.some(r=>r.sourceId===s.id)).map(s=>[s.id,s]));
-for(const report of reports)sources.set(report.id,report);
-data.sources=[...sources.values()];
-const finishedAt=new Date().toISOString();
-const summary={startedAt,finishedAt,scope:selectedFile?'selected-programmes':'all-programmes',verified:records.length,attempted:seeds.length,partial:reports.filter(r=>r.status==='partial').length};
-if(process.argv.includes('--standalone')||!data.run)data.run={id:randomUUID(),type:'programme-verification',parentRunId:data.run?.id||null,startedAt,finishedAt,status:data.sources.some(s=>s.status==='partial')?'partial':'complete',sources:reports,programmes:summary};
-else data.run={...data.run,finishedAt,programmes:summary,status:data.sources.some(s=>s.status==='partial')?'partial':data.run.status};
-if(!selectedFile)data.programmesCheckedAt=finishedAt;data.generatedAt=finishedAt;
-await fs.writeFile('data/catalogue.json.tmp',JSON.stringify(data,null,2)+'\n');await fs.rename('data/catalogue.json.tmp','data/catalogue.json');
-await persistObservations({runId:data.run.id});
-console.log(JSON.stringify({...summary,totalRecords:data.records.length,runId:data.run.id}));
+await checkpoint();
+const timer=setInterval(()=>{checkpoint().catch(error=>{checkpointError??=error;});},30000);
+let outcomes;
+try{outcomes=await Promise.allSettled([worker(),worker(),worker(),worker()]);}
+finally{clearInterval(timer);}
+await writer.flush();
+const failed=outcomes.find(outcome=>outcome.status==='rejected');
+if(failed)throw failed.reason;
+if(checkpointError)throw checkpointError;
+await checkpoint(true);

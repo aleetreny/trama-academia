@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import robotsParser from 'robots-parser';
 import {hash} from './domain.mjs';
+import {persistObservationFile} from './observation-store.mjs';
 export const AGENT='TramaResearchBot/1.0 (+https://github.com/aleetreny/trama-academia)';
 const queues=new Map(),robots=new Map(),lastRequest=new Map();
 const delay=ms=>new Promise(r=>setTimeout(r,ms));
@@ -75,8 +76,5 @@ export async function getPage(url,{refresh=false,format='text'}={}){
  });
 }
 export async function persistObservations({runId}={}){
- let prev={};try{prev=JSON.parse(await fs.readFile('.cache/observations.json','utf8'));}catch{}
- const currentRunId=runId||prev.runId;
- const all=[...(prev.observations||[]).map(o=>({...o,runId:o.runId||prev.runId})),...observations.map(o=>({...o,runId:currentRunId}))];const unique=new Map(all.map(o=>[o.url+'|'+o.checkedAt,o]));
- await fs.writeFile('.cache/observations.json',JSON.stringify({runId:currentRunId,observations:[...unique.values()]},null,2));
+ await persistObservationFile('.cache/observations.json',observations,{runId});
 }

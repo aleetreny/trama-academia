@@ -2,7 +2,7 @@ import {COUNTRY_NAMES,FIELDS,STAGES,statusOf,type Opportunity} from './types.ts'
 export const SUBJECTS=[['cs','Informática'],['ml','IA y aprendizaje automático'],['statistics','Estadística y probabilidad'],['applied-math','Matemáticas aplicadas']] as const;
 export type ResearchMetric={tier:string|null;score:number|null;volume:number|null;top10Share:number|null;impactEligible:number|null;impactCoverage:number|null;openalexId:string|null;reason:string|null};
 export type ResearchInstitution={id:string;name:string;ror:string|null;metrics:Record<string,ResearchMetric>};
-export type SearchRecord=Pick<Opportunity,'id'|'title'|'institution'|'country'|'city'|'kind'|'stage'|'eligibleStages'|'fields'|'status'|'verifiedAt'|'deadline'|'languages'|'lastError'>&{funding:{kind:string};researchInstitutionId:string|null;detailPath:string};
+export type SearchRecord=Pick<Opportunity,'id'|'title'|'institution'|'country'|'city'|'kind'|'stage'|'eligibleStages'|'recurrence'|'fields'|'status'|'verifiedAt'|'deadline'|'languages'|'lastError'>&{funding:{kind:string};researchInstitutionId:string|null;detailPath:string};
 export type SearchData={generatedAt:string|null;researchGeneratedAt:string|null;records:SearchRecord[];institutions:Record<string,ResearchInstitution>};
 export type Filters={stage:string;q:string;country:string;field:string;kind:string;status:string;subject:string;tier:string;funding:string;language:string;closing:string;sort:string;page:number};
 export const defaults:Filters={stage:'all',q:'',country:'all',field:'all',kind:'all',status:'current',subject:'cs',tier:'all',funding:'all',language:'all',closing:'all',sort:'prestige',page:1};
@@ -14,6 +14,7 @@ export const normaliseSearch=(s:string)=>s.normalize('NFKD').replace(/\p{M}/gu,'
 export const recordStatus=(r:SearchRecord,now=Date.now())=>statusOf(r,now);
 export function researchMetric(r:SearchRecord,data:SearchData,subject:string){return r.researchInstitutionId?data.institutions[r.researchInstitutionId]?.metrics[subject]:undefined;}
 export const isRanked=(m:ResearchMetric|undefined)=>Boolean(m?.tier&&Number.isFinite(m.score));
+export function descendingMetric(a:number|null|undefined,b:number|null|undefined){const knownA=typeof a==='number'&&Number.isFinite(a),knownB=typeof b==='number'&&Number.isFinite(b);return Number(knownB)-Number(knownA)||(knownA&&knownB?b!-a!:0);}
 const fundingGroups:Record<string,string[]>={salary:['salary','employment'],scholarship:['scholarship','partial-scholarship','allowance'],waiver:['tuition-waiver','tuition','fee-waiver'],grant:['grant','mobility-grant','research-grant','project-grant'],mixed:['mixed'],unconfirmed:['unconfirmed']};
 const languagePatterns:Record<string,RegExp>={english:/\b(ingles|english)\b/,spanish:/\b(espanol|castellano|spanish)\b/,french:/\b(frances|french)\b/,german:/\b(aleman|german|deutsch)\b/};
 export function selectRecords(data:SearchData,f:Filters,now=Date.now()){
@@ -23,7 +24,7 @@ export function selectRecords(data:SearchData,f:Filters,now=Date.now()){
   if(f.stage!=='all'&&r.stage!==f.stage&&!r.eligibleStages?.includes(f.stage as Opportunity['stage']))return false;
   if(f.country!=='all'&&r.country!==f.country||f.field!=='all'&&!r.fields.includes(f.field))return false;
   if(words.length){const text=normaliseSearch([r.title,r.institution,r.city,COUNTRY_NAMES[r.country],...r.fields].join(' '));if(!words.every(w=>text.includes(w)))return false;}
-  if(f.kind!=='all'&&(f.kind==='master-programme'?r.kind!=='programme'||r.stage!=='master':f.kind==='programme'?!r.kind.includes('programme'):r.kind!=='position'))return false;
+  if(f.kind!=='all'&&(f.kind==='master-programme'?r.kind!=='programme'||r.stage!=='master'||r.recurrence?.category==='summer-school':f.kind==='programme'?!r.kind.includes('programme'):r.kind!=='position'))return false;
   if(f.status!=='all'&&(f.status==='current'?['closed','unverified'].includes(status):status!==f.status))return false;
   if(f.tier==='ranked'&&!ranked||f.tier==='unranked'&&ranked||f.tier==='T1T2'&&!['T1','T2'].includes(m?.tier||'')||/^T[1-4]$/.test(f.tier)&&m?.tier!==f.tier)return false;
   if(f.funding!=='all'&&!fundingGroups[f.funding]?.includes(r.funding.kind))return false;
@@ -33,7 +34,7 @@ export function selectRecords(data:SearchData,f:Filters,now=Date.now()){
  });
  return rows.sort((a,b)=>{
   let d=0;
-  if(['prestige','impact','volume'].includes(f.sort)){const am=researchMetric(a,data,f.subject),bm=researchMetric(b,data,f.subject);d=Number(isRanked(bm))-Number(isRanked(am));if(!d&&isRanked(am)&&isRanked(bm)){const key=f.sort==='impact'?'top10Share':f.sort==='volume'?'volume':'score';d=(bm?.[key]??0)-(am?.[key]??0);}}
+  if(['prestige','impact','volume'].includes(f.sort)){const am=researchMetric(a,data,f.subject),bm=researchMetric(b,data,f.subject);d=Number(isRanked(bm))-Number(isRanked(am));if(!d&&isRanked(am)&&isRanked(bm)){const key=f.sort==='impact'?'top10Share':f.sort==='volume'?'volume':'score';d=descendingMetric(am?.[key],bm?.[key]);}}
   else if(f.sort==='recent')d=(Date.parse(b.verifiedAt||'')||0)-(Date.parse(a.verifiedAt||'')||0);
   else if(f.sort==='institution')d=a.institution.localeCompare(b.institution,'es');
   else if(f.sort==='deadline'){const av=Date.parse(a.deadline||''),bv=Date.parse(b.deadline||'');d=(Number.isFinite(av)?av:Infinity)-(Number.isFinite(bv)?bv:Infinity);}

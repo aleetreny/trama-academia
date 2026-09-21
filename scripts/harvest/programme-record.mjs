@@ -40,6 +40,9 @@ export async function verifyProgramme(seed,fetchPage=getPage){
   documents.set(reference.url,{...page,text,label,...(reference.pages?{pages:reference.pages}:{}),...(reference.format==='inertia-scholarship'?{inertiaScholarshipId:reference.scholarshipId}:{})});
  }
  const primary=documents.get(primaryUrl);
+ // An archived curriculum can retain thesis evidence after the degree is withdrawn.
+ // Hold an explicit programme-level withdrawal for review; a closed annual call is different.
+ if(seed.kind==='programme'&&/this (?:study )?program(?:me)? is no longer available\b/i.test(primary.text))throw new Error('programme_discontinued: '+primaryUrl);
  const research=documents.get(seed.researchEvidenceUrl||primaryUrl);
  const observedFields=fieldsFrom([...documents.values()].map(p=>p.text).join(' '));
  const fields=seed.fields|| (seed.kind.includes('funding')?FIELDS:fieldsFrom(seed.title+' '+primary.text.slice(0,5000)).filter(field=>observedFields.includes(field)));

@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {effectiveStatus,fieldsFrom,canonicalUrl,stageFrom} from './domain.mjs';
-import {parseEuraxess,parseEuraxessList} from './adapters.mjs';
+import {parseEuraxess} from './adapters.mjs';
 const now=Date.parse('2026-09-19T12:00:00Z');
 test('unknown deadlines are not open and stale checks cannot imply open',()=>{assert.equal(effectiveStatus({kind:'position',verifiedAt:'2026-09-19',status:'unverified'},now),'unverified');assert.equal(effectiveStatus({kind:'position',verifiedAt:'2026-08-01',deadline:'2026-11-01',status:'open'},now),'unverified');assert.equal(effectiveStatus({kind:'position',verifiedAt:'2026-09-19',deadline:'2026-09-18',status:'open'},now),'closed');});
 test('programme existence does not imply a currently open application round',()=>assert.equal(effectiveStatus({kind:'programme',verifiedAt:'2026-09-19'},now),'programme'));

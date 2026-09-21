@@ -158,6 +158,10 @@ export function programmeText(html){
 }
 export function hasResearchComponent(text){
  text=String(text).normalize('NFC');
+ // French computing curricula use "mémoire" for RAM and memory management.
+ // Remove those technical phrases before looking for a dissertation, without
+ // hiding a separate, genuine mémoire de master in the same curriculum.
+ text=text.replace(/\b(?:gestion|hiérarchie|hierarchie|allocation|adressage)\s+(?:(?:de|des)\s+(?:la\s+)?)?mémoires?\b|\bmémoires?\s+(?:vive|morte|virtuelle|partagée|distribuée|cache|centrale|secondaire)s?\b/gi,' ');
  // Belgrade names the master's dissertation in its own second-cycle study
  // plan. The numerical course columns are not part of the dissertation name.
  if(/(?<!\p{L})МАСТЕР СТУДИЈЕ МАТЕМАТИКА(?!\p{L})/iu.test(text)&&/Математика - 1 година, 60 ЕСПБ/iu.test(text)&&/(?<!\p{L})Дипломски мастер рад(?=\d|\s|$)/iu.test(text))return true;

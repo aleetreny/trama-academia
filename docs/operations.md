@@ -20,6 +20,7 @@ GitHub Actions prepara Python 3.12 y la misma versión fijada de `pypdf`. `TRAMA
 
 ```sh
 npm test
+npm run lint
 npm run typecheck
 npm run build
 ```
@@ -39,6 +40,12 @@ La web pública es estática, no necesita iniciar sesión ni conectarse a Neon. 
 7. Invocar el flujo reutilizable de CI con el SHA guardado: pruebas, tipos, exportación y despliegue en GitHub Pages. Este paso explícito también cubre los commits del bot que no disparan otro flujo de `push`.
 
 El secreto de repositorio `DATABASE_URL` es una credencial específica del recolector con SELECT, INSERT y UPDATE; no permite DELETE ni cambios de esquema. La web no utiliza esta credencial. Las migraciones de `db/migrations` se aplican por separado con una credencial de administración, primero en una rama de validación.
+
+El refresco dispone de 240 minutos. La comprobación de programas guarda un checkpoint al inicio, cada 25 resultados y cada 30 segundos, con un único escritor. Conserva las fichas aún no revisadas y diferencia `running`, revisión parcial y revisión terminada; una interrupción no acredita que se haya comprobado todo el catálogo. Los archivos del catálogo y de observaciones se reemplazan mediante archivo temporal y renombrado. Un historial ilegible o con identidades inválidas detiene la operación; nunca se interpreta como un historial vacío.
+
+Antes de sincronizar Neon y antes de guardar Git, el flujo comprueba que `origin/main` sigue en el commit inicial. Si ha avanzado, conserva el diagnóstico y detiene los pasos restantes. No hace rebase automático ni fuerza el push. Git y Neon no forman una transacción conjunta: un cambio concurrente después de la primera comprobación puede dejar Neon sincronizado y la publicación Git detenida. Por ello, no publicar manualmente ni ejecutar otro sincronizador mientras esté activo el refresco; reconciliar la edición y repetir la sincronización si ocurre esa situación.
+
+El artefacto `catalogue-diagnostics`, retenido durante 14 días, incluye la última instantánea del catálogo, observaciones técnicas, auditoría y cola institucional recuperables. No contiene credenciales ni cuerpos de páginas. Tras un fallo, revisar el estado y los recuentos del checkpoint, recuperar el artefacto y comprobar los elementos pendientes antes de reanudar. No presentar ese archivo parcial como una revisión completa.
 
 El buscador vuelve a consultar el manifiesto publicado cada cinco minutos y tiene un botón de actualización. Los índices y fichas tienen nombres derivados de su contenido: la caché puede reutilizar ediciones idénticas sin confundir datos nuevos con antiguos. Esto actualiza los datos ya publicados; **no lanza un nuevo rastreo de internet**.
 
@@ -84,7 +91,7 @@ Son dos operaciones distintas. Neon conserva el historial de adquisición; una p
 3. Con la credencial del recolector disponible en el entorno, ejecutar `npm run db:sync` y `npm run db:sync:institutions`. Comparar las filas sincronizadas con la instantánea local.
 4. Confirmar en Git los datos, semillas y fuentes que pertenezcan a la edición. Conservar los registros y fichas anteriores salvo correcciones documentadas; una lectura parcial no autoriza a borrarlos.
 
-La sincronización escribe por lotes: puede quedar a medias si falla. Repetirla con la misma instantánea es seguro; hay que comprobar el resultado antes de considerar publicada una edición. `db:sync` conserva las filas omitidas y solo excluye las identificadas en `data/exclusions.json`.
+La sincronización escribe por lotes: puede quedar a medias si falla. Repetirla con la misma instantánea es seguro; hay que comprobar el resultado antes de considerar publicada una edición. Las observaciones consultan sus identidades existentes en lotes de hasta 1.000 y solo insertan las faltantes en transacciones de hasta 100; la reanudación consulta de nuevo la base de datos, sin confiar en un checkpoint local. Se preservan SHA-256 de URL y fecha, identificador de ejecución original y filas históricas. El resultado distingue observaciones existentes, insertadas y conflictos concurrentes. `db:sync` conserva las filas omitidas y solo excluye las identificadas en `data/exclusions.json`.
 
 ### Esquema
 
@@ -109,6 +116,8 @@ Para comprobar el índice de observaciones en una base configurada, ejecutar `no
 | `/data/explorer.<hash>.json`, `/data/funding.<hash>.json` | Campos de búsqueda, condiciones clasificadas e indicadores institucionales. |
 | `/data/records/<id>.<hash>.json` | Ficha completa sin pérdida de evidencia; se descarga para los resultados visibles. |
 | `/oportunidad/<id>/` | HTML completo, accesible mediante enlace directo y sin ejecutar búsquedas. |
+| `/programas/` | Directorio recurrente con edición y calendario separados de vigencia. |
+| `/guia/`, `/guia/<código>/` | Comparación de dos países y 31 guías con fuentes por criterio. |
 | `/instituciones/`, `/fuentes/` | Índices independientes con filtros y paginación. |
 | `/api/catalogue`, `/api/explorer` | Copias estáticas de compatibilidad; no aceptan consultas al servidor. |
 | `/build-info.json` | Commit, edición, número de fichas y tamaños del HTML comprobados al compilar. |
@@ -127,3 +136,9 @@ Los estados de las fichas se recalculan en el navegador conforme pasan los plazo
 | Se agota la cuota bibliométrica | Esperar el reinicio indicado por el proveedor. Solo incorporar disciplinas con agregados completos; no publicar un tier a partir de una descarga parcial. |
 
 Las ejecuciones semanales conservan diagnósticos como artefactos de GitHub Actions durante 14 días. Los datos brutos y los documentos de trabajo están ignorados por Git; no deben incorporarse a una publicación.
+
+## Mantener programas recurrentes y guías
+
+La propiedad opcional `recurrence` de las semillas describe categoría, periodicidad, calendario, edición de referencia, estado de esa edición y cautelas. Solo se añade con evidencia de continuidad; no anticipar fechas o financiación de una edición futura. El verificador conserva esta información en la ficha y el directorio la recibe como un resumen compacto. Las escuelas de verano se identifican como formación investigadora, no como titulaciones.
+
+Las guías se editan en `data/country-guides.json`. Sus ocho criterios necesitan referencias mediante `factSources`; el título, URL, ámbito, consulta y actualización de cada fuente son datos separados. Una regla de una universidad no debe generalizarse al país. Tras cambiar datos o guías, ejecutar pruebas, tipos y build; comprobar también la selección por URL y la lectura en móvil. No editar los índices generados.

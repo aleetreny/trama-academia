@@ -17,13 +17,13 @@ Etapa, país, área del programa, disciplina de los indicadores, tier —incluid
 ## Carga y actualización
 
 - El HTML inicial no contiene el catálogo completo. Los índices de oportunidades y financiación se descargan por separado y tienen nombres con huella de contenido.
-- Solo se descargan las condiciones completas de los 12 resultados visibles, en paralelo; se conservan para comparar hasta tres fichas. La interfaz de comparación se carga al abrirla.
+- Solo se descargan las condiciones completas de los 12 resultados visibles, en paralelo; se conservan para comparar hasta tres fichas. Si falla una descarga, las demás permanecen disponibles y se puede reintentar la ficha afectada. La interfaz de comparación se carga al abrirla.
 - El directorio institucional y el registro de fuentes tienen sus propios índices. Las fuentes de cada institución se descargan al desplegar su sección.
 - Las tipografías WOFF2 están alojadas en el mismo sitio, con sus licencias OFL. No hay una solicitud inicial a Google Fonts.
 - El buscador consulta el manifiesto cada cinco minutos y permite actualizarlo manualmente. La vigencia se recalcula en el navegador; los plazos no esperan a una nueva adquisición para aparecer vencidos.
 - El flujo semanal invoca explícitamente CI y publicación después de guardar los datos. Los commits del bot no dependen de activar otro flujo por `push`.
 
-`npm run build` compara las 3.373 fichas JSON completas con la instantánea, comprueba sus páginas HTML, los enlaces y activos bajo `/trama-academia/`, y aplica presupuestos de tamaño a los índices y páginas iniciales. Los tamaños de HTML y el commit exacto aparecen en `build-info.json`.
+`npm run build` compara todas las fichas JSON completas con la instantánea, comprueba sus páginas HTML, los enlaces internos, sus anclas y los activos bajo `/trama-academia/`, y aplica presupuestos de tamaño a los índices y páginas iniciales. Los tamaños de HTML y el commit exacto aparecen en `build-info.json`.
 
 ## Comprobación de la migración
 
@@ -44,3 +44,11 @@ Referencias de implementación: [exportación estática de Next.js](https://next
 El anuncio `11291c30724438736a8d`, alojado en el portal de ETH, corresponde a la **posición B en TUM, Múnich**, con cierre el **25 de agosto de 2026**. La [fuente oficial](https://jobs.ethz.ch/job/view/11996), releída el 21 de septiembre, distingue empleador, campus, contrato doctoral y plazo de la cabecera genérica del portal. Se conserva la ficha y su historial en Git; se corrigen identidad, país, etapa, condiciones y estado cerrado. No debe heredar automáticamente los indicadores de ETH ni figurar entre las vacantes vigentes.
 
 `data/opportunity-corrections.json` guarda esta corrección revisada. El adaptador solo la aplica cuando coinciden identidad, URL y las condiciones contrastadas; si cambia esa evidencia, detiene la actualización de la ficha y conserva la versión anterior para revisión. Esta comprobación puntual no equivale a un nuevo barrido de todo el catálogo.
+
+## Directorio recurrente y guías por país
+
+`/programas/` reúne escuelas de verano, estancias y ayudas con continuidad documentada. Sus filtros de tipo, nivel de acceso, país y texto se conservan en la URL; la paginación muestra ocho fichas. La edición de referencia, la frecuencia y su calendario no implican que la siguiente convocatoria esté abierta. Las escuelas no cuentan como títulos de máster ni de doctorado.
+
+`/guia/` compara dos países mediante ocho criterios y conserva la selección en `pais1` y `pais2`. Las 31 guías `/guia/<código>/` cubren UE27, Reino Unido, Suiza, Noruega e Islandia; cada criterio enlaza sus fuentes y distingue alcance nacional, regional o institucional. La fecha de consulta no sustituye a la fecha de actualización de la fuente. Las guías y fichas individuales tienen HTML completo.
+
+La revisión integral de septiembre añade navegación activa, adaptación a tableta, foco de resultados al paginar, recuperación de errores y verificación de enlaces y anclas de todas las fichas. Los detalles y límites están en el [informe de revisión](review-2026-09-21.md).

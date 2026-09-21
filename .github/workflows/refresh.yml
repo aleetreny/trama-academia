@@ -13,7 +13,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 240
     outputs:
       published-ref: ${{ steps.edition.outputs.sha }}
     steps:
@@ -44,6 +44,8 @@ jobs:
         run: npm run harvest:institutions
       - name: Auditar el catálogo resultante
         run: npm run harvest:audit
+      - name: Comprobar que main no cambió durante la revisión
+        run: node scripts/harvest/refresh-head-guard.mjs
       - name: Publicar el catálogo en Neon
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
@@ -55,12 +57,12 @@ jobs:
       - name: Guardar la edición pública
         id: edition
         run: |
+          node scripts/harvest/refresh-head-guard.mjs
           git config user.name 'trama-catalogue[bot]'
           git config user.email 'trama-catalogue[bot]@users.noreply.github.com'
           git add data/catalogue.json data/institutions.json data/institutions.parts data/institutions.snapshot.mjs data/institution-crawl.json.gz data/institution-crawl.parts data/institution-crawl.summary.json
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh verified academic catalogue [skip ci]'
-            git pull --rebase origin main
             git push
           fi
           echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
@@ -72,6 +74,8 @@ jobs:
           path: |
             .cache/audit.json
             .cache/harvest-progress.json
+            .cache/observations.json
+            data/catalogue.json
             data/institution-crawl.json.gz
             data/institution-crawl.parts
             data/institution-crawl.summary.json
