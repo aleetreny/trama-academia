@@ -14923,38 +14923,45 @@
     {
       "id": "11291c30724438736a8d",
       "kind": "position",
-      "stage": "faculty",
+      "stage": "doctorado",
       "title": "Doctoral Position at the Professorship of Marketing & Technology (TUM)",
-      "institution": "ETH Zurich",
-      "country": "CH",
-      "city": "Zurich",
+      "institution": "Technical University of Munich",
+      "country": "DE",
+      "city": "Munich",
       "url": "https://jobs.ethz.ch/job/view/11996",
       "applyUrl": "mailto:marktech@mgt.tum.de",
       "sourceId": "eth-jobs",
       "sourceName": "ETH Zurich · Vacantes",
-      "verifiedAt": "2026-09-19T20:56:12.055Z",
-      "seenAt": "2026-09-19T20:56:12.055Z",
-      "status": "listed",
-      "deadline": null,
-      "deadlinePrecision": null,
+      "verifiedAt": "2026-09-21T08:50:41.707Z",
+      "seenAt": "2026-09-21T08:50:41.707Z",
+      "status": "closed",
+      "deadline": "2026-08-25",
+      "deadlinePrecision": "day",
       "fields": [
         "Informática"
       ],
       "entry": "Máster",
       "contract": "fixed-term",
       "hours": "70%-80%",
-      "duration": null,
-      "languages": [],
+      "duration": "Contrato de 3 años",
+      "languages": [
+        "Inglés C1/C2; alemán o alemán suizo valorados"
+      ],
       "funding": {
         "kind": "salary",
-        "text": "Contrato ETH; importe por confirmar en la oferta"
+        "text": "Contrato doctoral en TUM según TV-L E13; importe por confirmar. El anuncio distingue estas condiciones de las de la posición A en ETH."
       },
       "evidence": {
-        "contentHash": "28745690bf551eb993192b52057c03f1aa4626ecd9a381d3ca9c91da6cf870b7",
+        "contentHash": "adbce96b1ef439a9678b3633b5181f30f3391a775e71ac1b7f901d35d6420843",
         "checkedUrl": "https://jobs.ethz.ch/job/view/11996",
-        "method": "official-vacancy-html"
+        "method": "official-vacancy-html",
+        "checks": [
+          "Reviewed institutional identity and deadline: 2026-09-21"
+        ]
       },
-      "lastError": null
+      "lastError": null,
+      "deadlineNote": "La convocatoria de la posición B cerró el 25 de agosto de 2026; consulta si existe una nueva edición.",
+      "researchNote": "Posición B de un proyecto conjunto ETH–TUM sobre realidad virtual e interacción persona–ordenador. El puesto corresponde a TUM en Múnich, con énfasis en diseño experimental, psicología del consumidor y análisis de datos. La institución que aloja el anuncio no es necesariamente la que contrata."
     },
     {
       "id": "dea723db301794620065",

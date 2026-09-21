@@ -38,3 +38,9 @@ Medidas de la misma edición del 21 de septiembre de 2026. Son tamaños de recur
 La revisión funcional cubre filtros combinados, cambio de disciplina, identidad ambigua, ceros y datos insuficientes, plazo con precisión de día, enlaces compartidos, comparación, búsqueda de fuentes y lectura de indicadores en escritorio y móvil. Los filtros requieren JavaScript; las fichas y la guía tienen HTML completo. Con JavaScript desactivado, la etiqueta de vigencia corresponde a la construcción y debe contrastarse con la fecha visible.
 
 Referencias de implementación: [exportación estática de Next.js](https://nextjs.org/docs/app/guides/static-exports) y [flujos de publicación oficiales de GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+## Corrección institucional detectada durante la revisión
+
+El anuncio `11291c30724438736a8d`, alojado en el portal de ETH, corresponde a la **posición B en TUM, Múnich**, con cierre el **25 de agosto de 2026**. La [fuente oficial](https://jobs.ethz.ch/job/view/11996), releída el 21 de septiembre, distingue empleador, campus, contrato doctoral y plazo de la cabecera genérica del portal. Se conserva la ficha y su historial en Git; se corrigen identidad, país, etapa, condiciones y estado cerrado. No debe heredar automáticamente los indicadores de ETH ni figurar entre las vacantes vigentes.
+
+`data/opportunity-corrections.json` guarda esta corrección revisada. El adaptador solo la aplica cuando coinciden identidad, URL y las condiciones contrastadas; si cambia esa evidencia, detiene la actualización de la ficha y conserva la versión anterior para revisión. Esta comprobación puntual no equivale a un nuevo barrido de todo el catálogo.

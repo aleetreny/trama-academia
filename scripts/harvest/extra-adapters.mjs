@@ -1,4 +1,5 @@
 import {load} from 'cheerio';
+import {applyReviewedCorrection} from './reviewed-corrections.mjs';
 import {getPage} from './http.mjs';
 import {clean,idFor,stageFrom,fieldsFrom,entryLevel,effectiveStatus} from './domain.mjs';
 import {parseJobPosting} from './adapters.mjs';
@@ -15,9 +16,9 @@ export function parseEth(html,url,source,page){
  const apply=$('a.application__button--link').attr('href');
  const body=clean($('.application').text());
  const rolling=/until (?:the position is )?filled|rolling basis|until filled/i.test(body);
- const r={id:idFor(url),kind:'position',stage,title,institution:'ETH Zurich',country:'CH',city,url,applyUrl:apply||url,sourceId:source.id,sourceName:source.name,verifiedAt:page.checkedAt,seenAt:page.checkedAt,status:rolling?'rolling':apply?'listed':'unverified',deadline:null,deadlinePrecision:null,fields,entry:entryLevel(profile),contract:location.split(',').slice(2).join(',').trim()||null,hours:location.split(',')[0],duration:null,languages:[],funding:{kind:'salary',text:'Contrato ETH; importe por confirmar en la oferta'},evidence:{contentHash:page.hash,checkedUrl:page.finalUrl,method:'official-vacancy-html'}};
+ let r={id:idFor(url),kind:'position',stage,title,institution:'ETH Zurich',country:'CH',city,url,applyUrl:apply||url,sourceId:source.id,sourceName:source.name,verifiedAt:page.checkedAt,seenAt:page.checkedAt,status:rolling?'rolling':apply?'listed':'unverified',deadline:null,deadlinePrecision:null,fields,entry:entryLevel(profile),contract:location.split(',').slice(2).join(',').trim()||null,hours:location.split(',')[0],duration:null,languages:[],funding:{kind:'salary',text:'Contrato ETH; importe por confirmar en la oferta'},evidence:{contentHash:page.hash,checkedUrl:page.finalUrl,method:'official-vacancy-html'}};
  if(stage==='doctorado'&&r.entry==='Doctorado')r.entry=/master[’']?s?\s+degree|\bMSc\b/i.test(profile)?'Máster':/bachelor[’']?s?\s+degree|\bBSc\b/i.test(profile)?'Grado':'Consultar requisitos';
- r.status=effectiveStatus(r);return r;
+ r=applyReviewedCorrection(r,$('body').text());r.status=effectiveStatus(r);return r;
 }
 export async function crawlEth(source,{onRecord=()=>{},onProgress=()=>{}}={}){
  const p=await getPage(source.url);const $=load(p.body);
