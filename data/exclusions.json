@@ -22,5 +22,41 @@
     "evidenceUrl": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-formacion-profesorado-universitario-fpu-2026",
     "replacedBy": "5aa9a4ab6fb81e4ae2ca",
     "reviewedAt": "2026-09-20T15:48:29.145Z"
+  },
+  {
+    "id": "7ca8048f431c1340f87a",
+    "reason": "Administrative office-management position: budget monitoring, procurement, travel, HR and executive support. Chair is the employing unit, not the academic rank of this role; computational methods describe the chair's wider research, not the duties of this post.",
+    "evidenceUrl": "https://jobs.ethz.ch/job/view/JOPG_ethz_DgfeAMtNrOfjGsSuCO",
+    "reviewedAt": "2026-09-21T11:52:29.807Z",
+    "evidenceHash": "d4a926ef69dcd4b2b51098b72579469fc7a34da68e2ae45546fe1bcf4099e7df",
+    "requiredText": [
+      "Office Manager (Administrative Officer)",
+      "Finance, Procurement & Grant Management",
+      "Completed commercial or administrative vocational training"
+    ]
+  },
+  {
+    "id": "d8ff583c533c85d2f94f",
+    "reason": "Electronics-workshop management and technical support: builds and repairs equipment and procures components, requiring vocational or engineering training. The only artificial-intelligence mention is the recruitment disclaimer saying AI is not used for preselection; no research role in the catalogue disciplines is documented.",
+    "evidenceUrl": "https://jobs.ethz.ch/job/view/JOPG_ethz_xfuKg5qPN9KmLA8WvS",
+    "reviewedAt": "2026-09-21T11:52:39.224Z",
+    "evidenceHash": "50c4df6eefff4ac9e93bc0443de38252d055c76a2459a71f86ec9d02cffd4624",
+    "requiredText": [
+      "Leiter:in für unsere elektronische Werkstatt",
+      "reparieren bestehende Anlagen und beschaffen die erforderlichen Komponenten",
+      "nicht durch künstliche Intelligenz"
+    ]
+  },
+  {
+    "id": "c8a22668c367c24bc361",
+    "reason": "Pure-mathematics research in tensor-triangular geometry, point-free topology, homotopy theory and commutative algebra. Statistics appears in the department name and computing specific examples is ordinary mathematical calculation; neither establishes research in statistics, computer science or applied mathematics within the catalogue scope.",
+    "evidenceUrl": "https://www.jobs.ac.uk/job/DSZ760/research-fellow",
+    "reviewedAt": "2026-09-21T11:52:40.783Z",
+    "evidenceHash": "249b6ae56a4bda7220ea769daf488bccd292f9cccaf60eff82187f1cd1c4f95f",
+    "requiredText": [
+      "Point-free methods in tensor-triangular geometry.",
+      "point-free topology (i.e., the theory of frames and lattices)",
+      "computing specific examples arising from stable equivariant homotopy theory, commutative algebra, and representation theory."
+    ]
   }
 ]

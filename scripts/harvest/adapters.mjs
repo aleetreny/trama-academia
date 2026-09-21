@@ -1,6 +1,7 @@
 import {load} from 'cheerio';
 import {COUNTRIES,clean,idFor,fieldsFrom,stageFrom,entryLevel,effectiveStatus,salaryFromText,requiredDegree,durationFrom} from './domain.mjs';
 import {getPage} from './http.mjs';
+import {applyReviewedCorrection} from './reviewed-corrections.mjs';
 
 function visible($){$('script,style,nav,header,footer,[hidden],[aria-hidden="true"],[style*="display:none"],[style*="display: none"]').remove();return clean(($('main').length?$('main'):$('body')).text());}
 function ddMap($){const data={};$('dt').each((_,el)=>{const k=clean($(el).text());const v=clean($(el).next('dd').text());if(v)(data[k]??=[]).push(v);});return data;}
@@ -55,7 +56,7 @@ function jobPosting($){
   function walk(v){if(!v||typeof v!=='object')return null;if(v['@type']==='JobPosting'||(Array.isArray(v['@type'])&&v['@type'].includes('JobPosting')))return v;for(const x of Object.values(v)){if(x&&typeof x==='object'){const r=Array.isArray(x)?x.map(walk).find(Boolean):walk(x);if(r)return r;}}return null;}
   for(const e of $('script[type="application/ld+json"]').toArray()){try{const v=walk(JSON.parse($(e).text()));if(v)return v;}catch{}}return null;
 }
-export function parseJobPosting(html,url,source,page){
+export function parseJobPosting(html,url,source,page,corrections){
  const $=load(html),j=jobPosting($);if(!j)return null;
  const title=clean(j.title),desc=clean(load(j.description||'').text());
  const locs=Array.isArray(j.jobLocation)?j.jobLocation:[j.jobLocation];
@@ -76,7 +77,7 @@ export function parseJobPosting(html,url,source,page){
  if(stage==='doctorado'&&record.entry==='Doctorado')record.entry='Consultar requisitos';
  // Qualification mentions in prose may describe colleagues, so don't infer a degree from the full description.
  const text=visible($);if(/vacancy has expired|vacancy is no longer available|position has been filled/i.test(text))record.status='closed';
- record.status=effectiveStatus(record);return record;
+ const corrected=applyReviewedCorrection(record,text,corrections);corrected.status=effectiveStatus(corrected);return corrected;
 }
 export async function crawlAcademicTransfer(source,{onRecord=()=>{},onProgress=()=>{}}={}){
  const sitemap=await getPage('https://www.academictransfer.com/sitemap-vacancies.xml');const $=load(sitemap.body,{xmlMode:true});

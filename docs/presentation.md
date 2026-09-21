@@ -20,11 +20,11 @@ TRAMA reúne oportunidades académicas europeas en ciencia de datos, aprendizaje
 
 | Medida | Recuento | Qué representa |
 | --- | ---: | --- |
-| Registros | 3.629 | Programas, anuncios y financiación; no todos están abiertos. |
+| Registros | 3.637 | Programas, anuncios y financiación; no todos están abiertos. |
 | Fuentes | 3.201 | Fuentes del catálogo, con estado y fecha de comprobación. |
 | Semillas de programas | 3.186 | Entradas revisadas para adquisición; no se suman a los registros. |
 | Instituciones inventariadas | 6.360 | Entidades localizadas; no equivale a cobertura completa. |
-| Altas de esta revisión | 256 | 250 másteres del lote, uno de semillas pendientes y cinco escuelas de verano. |
+| Altas de esta revisión | 264 | 251 másteres, cinco escuelas y ocho vacantes aceptadas del refresco semanal. |
 | Programas recurrentes | 19 | Cinco escuelas, once estancias y tres familias de financiación; ya incluidos en el catálogo. |
 | Guías doctorales | 31 | UE27, Islandia, Noruega, Reino Unido y Suiza; ocho criterios por país y 42 fuentes oficiales. |
 

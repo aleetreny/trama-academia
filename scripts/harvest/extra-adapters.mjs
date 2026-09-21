@@ -8,10 +8,11 @@ export function parseEth(html,url,source,page){
  const location=clean($('.description h4').first().text());
  // ETH also advertises positions in Singapore: employer location is not job location.
  const city=location.split(',')[1]?.trim();if(!city||! /^(Zurich|Zürich|Basel|Basle|Lugano|Lausanne|Villigen|Dübendorf|Schwerzenbach|Bern|Brugg|Birmensdorf)/i.test(city))return null;
- const profile=clean($('[aria-label="Profile"]').text());
- const research=clean($('.description__introduction').text()+' '+$('[aria-label="Job description"]').text());
- const description=clean($('.description').text().split('Profile')[0]);
- const fields=fieldsFrom(title+' '+research+' '+description);const stage=stageFrom(title,'',profile);
+ const profile=clean($('[aria-label="Profile"], [aria-label="Profil"]').text());
+ // English and German adverts have explicit role sections. Recruitment notices
+ // such as "nicht durch künstliche Intelligenz" are not research evidence.
+ const research=clean($('.description__introduction, [aria-labelledby~="project-background"], [aria-label="Project background"], [aria-label="Projekthintergrund"], [aria-label="Job description"], [aria-label="Stellenbeschreibung"]').text());
+ const fields=fieldsFrom(title+' '+research);const stage=stageFrom(title,'',profile);
  if(!stage||!fields.length)return null;
  const apply=$('a.application__button--link').attr('href');
  const body=clean($('.application').text());

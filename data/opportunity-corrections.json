@@ -5,7 +5,12 @@
     "title": "Doctoral Position at the Professorship of Marketing & Technology (TUM)",
     "reviewedAt": "2026-09-21",
     "reason": "The ETH portal hosts a TUM position. The employer, campus and closing date in the announcement override the generic Zurich portal header.",
-    "requiredText": ["This job announcement is for position B", "TUM Campus Munich", "25th August 2026", "TV-L E13 at TUM"],
+    "requiredText": [
+      "This job announcement is for position B",
+      "TUM Campus Munich",
+      "25th August 2026",
+      "TV-L E13 at TUM"
+    ],
     "patch": {
       "institution": "Technical University of Munich",
       "country": "DE",
@@ -15,9 +20,43 @@
       "deadlinePrecision": "day",
       "deadlineNote": "La convocatoria de la posición B cerró el 25 de agosto de 2026; consulta si existe una nueva edición.",
       "duration": "Contrato de 3 años",
-      "funding": {"kind": "salary", "text": "Contrato doctoral en TUM según TV-L E13; importe por confirmar. El anuncio distingue estas condiciones de las de la posición A en ETH."},
-      "languages": ["Inglés C1/C2; alemán o alemán suizo valorados"],
+      "funding": {
+        "kind": "salary",
+        "text": "Contrato doctoral en TUM según TV-L E13; importe por confirmar. El anuncio distingue estas condiciones de las de la posición A en ETH."
+      },
+      "languages": [
+        "Inglés C1/C2; alemán o alemán suizo valorados"
+      ],
       "researchNote": "Posición B de un proyecto conjunto ETH–TUM sobre realidad virtual e interacción persona–ordenador. El puesto corresponde a TUM en Múnich, con énfasis en diseño experimental, psicología del consumidor y análisis de datos. La institución que aloja el anuncio no es necesariamente la que contrata."
+    }
+  },
+  {
+    "id": "9878e5b40c223bc07d41",
+    "url": "https://www.jobs.ac.uk/job/DSW529/phd-studentship-universal-layered-triple-route-architecture-for-heterogeneous-quantum-classical-security",
+    "title": "PhD Studentship - Universal Layered Triple-Route Architecture for Heterogeneous Quantum-Classical Security",
+    "reviewedAt": "2026-09-21T11:52:39.453Z",
+    "reason": "The body explicitly describes a salaried doctoral teaching assistant position and a six-year part-time PhD. Generic JobPosting metadata and the studentship title do not turn this teaching employment into a stipend or establish full-time doctoral study.",
+    "requiredText": [
+      "These are doctoral teaching assistant positions that combine a PhD programme with a university teaching contract.",
+      "Your time will be split approximately 60% on research and 40% on teaching.",
+      "The position is grade 6 with a current salary of £31,236 and includes payment of home PhD tuition fees for the duration of the 6-year award.",
+      "Home students can apply. Applicants must have the right to work in the UK. We are unable to offer visa sponsorship for this role.",
+      "PhD Computing and Digital Technology — six years part-time"
+    ],
+    "patch": {
+      "contract": "Contrato doctoral con docencia (DTA); duración determinada",
+      "hours": "Doctorado a tiempo parcial; aproximadamente 60% de investigación y 40% de docencia",
+      "duration": "6 años",
+      "entry": "Grado sólido en informática, física, matemáticas, ingeniería o disciplina afín; máster valorado",
+      "funding": {
+        "kind": "salary",
+        "text": "Contrato docente doctoral DTA, grado 6: salario publicado de 31.236 GBP y matrícula doctoral home durante los seis años. Confirmar las condiciones del contrato.",
+        "amount": 31236,
+        "currency": "GBP",
+        "period": "year"
+      },
+      "eligibilityNote": "La convocatoria menciona candidatos con condición home y exige derecho a trabajar en Reino Unido; no ofrece patrocinio de visado. Confirmar la clasificación de tasas con la institución.",
+      "researchNote": "Doctorado sobre un marco de seguridad que integra criptografía cuántica, poscuántica y clásica. La oferta combina investigación doctoral a tiempo parcial (aprox. 60%) con docencia universitaria (aprox. 40%). El encabezado genérico indica Full Time, mientras que el texto y la solicitud especifican doctorado a tiempo parcial de seis años."
     }
   }
 ]

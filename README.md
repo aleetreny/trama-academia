@@ -23,9 +23,9 @@ Puedes combinar etapa, país, área, tier por disciplina, financiación, idioma,
 
 ## Revisión integral · 21 de septiembre de 2026
 
-La instantánea preparada reúne **3.629 registros**, **3.201 fuentes** y **3.186 semillas de programas**, junto con un inventario de **6.360 instituciones**. Los registros incluyen programas, anuncios y financiación; las semillas son entradas de adquisición revisadas, no un contador adicional de oportunidades. Inventariar una institución no acredita una revisión completa de su oferta.
+La instantánea preparada reúne **3.637 registros**, **3.201 fuentes** y **3.186 semillas de programas**, junto con un inventario de **6.360 instituciones**. Los registros incluyen programas, anuncios y financiación; las semillas son entradas de adquisición revisadas, no un contador adicional de oportunidades. Inventariar una institución no acredita una revisión completa de su oferta.
 
-Tras el cierre anterior, el usuario reabrió expresamente la ampliación para un lote finito: **250 programas de máster y cinco escuelas de verano nuevos**, más un máster de ETH recuperado de las semillas pendientes (256 altas en total). Las 591 decisiones editoriales incluyen también opciones ya cubiertas, descartes y casos retenidos. El directorio permanente reúne **19 programas recurrentes** y la guía compara **31 países**, con fuentes por criterio. La revisión semanal permanece configurada; este cierre no inicia una adquisición manual ilimitada.
+Tras el cierre anterior, el usuario reabrió expresamente la ampliación para un lote finito: **250 programas de máster y cinco escuelas de verano nuevos**, más un máster de ETH recuperado de las semillas pendientes (256 altas editoriales). Se integran además ocho vacantes de la actualización semanal, tras excluir tres falsos positivos. Las 591 decisiones editoriales incluyen también opciones ya cubiertas, descartes y casos retenidos. El directorio permanente reúne **19 programas recurrentes** y la guía compara **31 países**, con fuentes por criterio. La revisión semanal permanece configurada; este cierre no inicia una adquisición manual ilimitada.
 
 **Validación local completada; publicación en curso:** estas cifras describen la instantánea local preparada; todavía no acreditan su publicación ni su sincronización histórica. El [informe de revisión](docs/review-2026-09-21.md#validación-y-publicación) separa las comprobaciones realizadas de las pendientes. La [guía de presentación](docs/presentation.md) explica el recorrido y los límites del producto.
 
@@ -87,7 +87,7 @@ El flujo de CI verifica las pruebas, los tipos, las fichas exportadas y los pres
 
 - [Continuidad y trabajo pendiente](docs/continuation.md): punto de entrada para otro agente, prioridades, decisiones vigentes y contexto local disponible.
 - [Guía de presentación](docs/presentation.md): recorrido breve por el producto, cifras de esta edición y límites de cobertura.
-- [Revisión integral](docs/review-2026-09-21.md): balance de 591 decisiones, 256 altas, programas recurrentes, guías y revisión funcional, con el estado de validación y publicación.
+- [Revisión integral](docs/review-2026-09-21.md): balance de 591 decisiones, 264 altas, programas recurrentes, guías y revisión funcional, con el estado de validación y publicación.
 - [Cierre de Grecia](docs/greece-closing-review-2026-09-21.md): cinco másteres, tres familias de financiación y un anuncio docente; nueve fichas nuevas contrastadas con 26 documentos oficiales.
 - [Operación y publicación](docs/operations.md): entorno, actualización semanal, estados, credenciales, diagnóstico y despliegue.
 - [Inventario institucional y tiers](docs/institution-discovery.md): universo geográfico, identidad ROR, cola de rastreo y método bibliométrico.

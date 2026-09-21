@@ -62,6 +62,8 @@ export function fieldsFrom(text){
   return rules.filter(([,re])=>re.test(text)).map(([name])=>name);
 }
 export function stageFrom(title,profile='',qualification=''){
+  // The employing chair does not turn an explicitly administrative role into faculty.
+  if(/\b(?:office manager|administrative officer)\b/i.test(title))return null;
   if(/research engineer|ing[ée]nieur/i.test(title)&&/PhD|Doctoral|doctorat/i.test(qualification))return 'postdoc';
   if(/post.?doc|postdoctoral|postdoktor/i.test(title))return 'postdoc';
   if(/professor|lecturer|tenure|faculty|group leader|chair |ma[iî]tre de conf|charg[ée].? de recherche|directeur de recherche|f[øö]rsteamanuensis|universitetslektor|universitetsadjunkt|dosent/i.test(title))return 'faculty';
