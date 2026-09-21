@@ -23,11 +23,11 @@ Puedes combinar etapa, país, área, tier por disciplina, financiación, idioma,
 
 ## Revisión integral · 21 de septiembre de 2026
 
-La instantánea preparada reúne **3.637 registros**, **3.201 fuentes** y **3.186 semillas de programas**, junto con un inventario de **6.360 instituciones**. Los registros incluyen programas, anuncios y financiación; las semillas son entradas de adquisición revisadas, no un contador adicional de oportunidades. Inventariar una institución no acredita una revisión completa de su oferta.
+La edición publicada el 21 de septiembre de 2026 reúne **3.637 registros**, **3.201 fuentes** y **3.186 semillas de programas**, junto con un inventario de **6.360 instituciones**. Los registros incluyen programas, anuncios y financiación; las semillas son entradas de adquisición revisadas, no un contador adicional de oportunidades. Inventariar una institución no acredita una revisión completa de su oferta.
 
 Tras el cierre anterior, el usuario reabrió expresamente la ampliación para un lote finito: **250 programas de máster y cinco escuelas de verano nuevos**, más un máster de ETH recuperado de las semillas pendientes (256 altas editoriales). Se integran además ocho vacantes de la actualización semanal, tras excluir tres falsos positivos. Las 591 decisiones editoriales incluyen también opciones ya cubiertas, descartes y casos retenidos. El directorio permanente reúne **19 programas recurrentes** y la guía compara **31 países**, con fuentes por criterio. La revisión semanal permanece configurada; este cierre no inicia una adquisición manual ilimitada.
 
-**Validación local completada; publicación en curso:** estas cifras describen la instantánea local preparada; todavía no acreditan su publicación ni su sincronización histórica. El [informe de revisión](docs/review-2026-09-21.md#validación-y-publicación) separa las comprobaciones realizadas de las pendientes. La [guía de presentación](docs/presentation.md) explica el recorrido y los límites del producto.
+**Edición validada, sincronizada y publicada:** pasan 219 pruebas Node y dos pruebas PDF, tipos, lint y compilación. Se han comprobado el despliegue y las rutas públicas. El [informe de revisión](docs/review-2026-09-21.md#validación-y-publicación) conserva las evidencias y los límites de las comprobaciones. La [guía de presentación](docs/presentation.md) explica el recorrido y el alcance del producto.
 
 ## Alcance y confianza
 

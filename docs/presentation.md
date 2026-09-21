@@ -16,7 +16,7 @@ TRAMA reúne oportunidades académicas europeas en ciencia de datos, aprendizaje
 
 ## Cifras de la revisión del 21 de septiembre de 2026
 
-**Edición local preparada; validación final y publicación en curso.** Antes de presentar estas cifras como públicas, comprobar el estado del [informe de revisión](review-2026-09-21.md#validación-y-publicación) y `build-info.json` del sitio.
+**Edición publicada y verificada.** El [informe de revisión](review-2026-09-21.md#validación-y-publicación) registra las comprobaciones y el despliegue. El [archivo de compilación público](https://aleetreny.github.io/trama-academia/build-info.json) identifica la edición servida; comprobarlo antes de reutilizar estas cifras en una fecha posterior.
 
 | Medida | Recuento | Qué representa |
 | --- | ---: | --- |
@@ -38,4 +38,4 @@ La aplicación permite consultar, filtrar, comparar y revisar la procedencia de 
 
 Las guías orientan la comparación, pero las condiciones finales dependen del programa, el contrato y la convocatoria. La admisión y la financiación son decisiones distintas; una duración académica no acredita el mismo número de años financiados. Un ejemplo universitario no se presenta como regla nacional. Un tier institucional tampoco garantiza la calidad de un programa, supervisor u oferta de financiación, y los consorcios no heredan los indicadores de un único socio.
 
-La revisión de interfaz cubre los recorridos principales en escritorio y móvil, navegación por teclado, filtros, comparación, estados vacíos y recuperación de errores de red. Las correcciones de tableta y la edición definitiva necesitan confirmación sobre la compilación final. El [informe de revisión](review-2026-09-21.md) documenta el alcance sin equiparar estas pruebas con todas las combinaciones posibles de dispositivo, navegador y datos. La [guía de operación](operations.md) explica el mantenimiento y la recuperación.
+La revisión de interfaz cubre los recorridos principales en escritorio y móvil, navegación por teclado, filtros, comparación, estados vacíos y recuperación de errores de red. Las correcciones de tableta se confirmaron en la exportación final de la interfaz; después del despliegue se comprobaron las rutas públicas afectadas y la guía a 390 px. El [informe de revisión](review-2026-09-21.md) documenta el alcance sin equiparar estas pruebas con todas las combinaciones posibles de dispositivo, navegador y datos. La [guía de operación](operations.md) explica el mantenimiento y la recuperación.
