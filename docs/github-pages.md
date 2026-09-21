@@ -22,7 +22,7 @@ El buscador de oportunidades presenta país, área, financiación y vigencia com
 - Solo se descargan las condiciones completas de los 12 resultados visibles, en paralelo; se conservan para comparar hasta tres fichas. Si falla una descarga, las demás permanecen disponibles y se puede reintentar la ficha afectada. La interfaz de comparación se carga al abrirla.
 - El directorio institucional y el registro de fuentes tienen sus propios índices. Las fuentes de cada institución se descargan al desplegar su sección.
 - Las tipografías WOFF2 están alojadas en el mismo sitio, con sus licencias OFL. No hay una solicitud inicial a Google Fonts.
-- El buscador consulta el manifiesto cada cinco minutos y permite actualizarlo manualmente. La vigencia se recalcula en el navegador; los plazos no esperan a una nueva adquisición para aparecer vencidos.
+- La primera lectura del manifiesto revalida su caché HTTP; los índices con huella conservan su caché normal. El buscador vuelve a consultar el manifiesto cada cinco minutos y permite actualizarlo manualmente. La vigencia se recalcula en el navegador; los plazos no esperan a una nueva adquisición para aparecer vencidos.
 - El flujo semanal invoca explícitamente CI y publicación después de guardar los datos. Los commits del bot no dependen de activar otro flujo por `push`.
 
 `npm run build` compara todas las fichas JSON completas con la instantánea, comprueba sus páginas HTML, los enlaces internos, sus anclas y los activos bajo `/trama-academia/`, y aplica presupuestos de tamaño a los índices y páginas iniciales. Los tamaños de HTML y el commit exacto aparecen en `build-info.json`.

@@ -31,7 +31,7 @@ La [ampliación de financiación española y europea](docs/funding-review-2026-0
 
 Tras el cierre anterior, el usuario reabrió expresamente la ampliación para un lote finito: **250 programas de máster y cinco escuelas de verano nuevos**, más un máster de ETH recuperado de las semillas pendientes (256 altas editoriales). Se integran además ocho vacantes de la actualización semanal, tras excluir tres falsos positivos. Las 591 decisiones editoriales incluyen también opciones ya cubiertas, descartes y casos retenidos. Aquella revisión dejó 19 programas recurrentes y la guía compara **31 países**, con fuentes por criterio. La revisión semanal permanece configurada; este cierre no inicia una adquisición manual ilimitada.
 
-**Edición validada, sincronizada y publicada:** pasan 248 pruebas Node y dos pruebas PDF, tipos, lint y compilación. Se han comprobado el despliegue y las rutas públicas. El [informe de financiación](docs/funding-review-2026-09-21.md) y el [informe de revisión anterior](docs/review-2026-09-21.md#validación-y-publicación) conservan las evidencias y los límites de las comprobaciones. La [guía de presentación](docs/presentation.md) explica el recorrido y el alcance del producto.
+**Edición validada, sincronizada y publicada:** pasan 249 pruebas Node y dos pruebas PDF, tipos, lint y compilación. Se han comprobado el despliegue y las rutas públicas. El [informe de financiación](docs/funding-review-2026-09-21.md) y el [informe de revisión anterior](docs/review-2026-09-21.md#validación-y-publicación) conservan las evidencias y los límites de las comprobaciones. La [guía de presentación](docs/presentation.md) explica el recorrido y el alcance del producto.
 
 ## Alcance y confianza
 

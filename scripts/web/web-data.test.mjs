@@ -42,6 +42,20 @@ test('details are separated by edition path and explicit refresh fetches again',
  assert.equal(calls,3);
 });
 
+test('initial loading revalidates the mutable manifest while reusing immutable edition indexes',async t=>{
+ const calls=[];
+ t.mock.method(globalThis,'fetch',async (url,options)=>{
+  calls.push({url,cache:options.cache});
+  if(url.endsWith('/manifest.json'))return response({paths:{funding:options.cache==='no-cache'?'data/funding-new-hash.json':'data/funding-old-hash.json'}});
+  return response({edition:url.includes('new-hash')?'new':'old'});
+ });
+ assert.deepEqual(await loadIndex('funding'),{edition:'new'});
+ assert.deepEqual(await loadIndex('funding'),{edition:'new'});
+ assert.equal(calls.length,2,'in-memory manifest and immutable index are reused within the visit');
+ assert.equal(calls[0].cache,'no-cache');
+ assert.equal(calls[1].cache,undefined,'hashed files retain HTTP cache benefits');
+});
+
 test('malformed detail and manifest data are reported as unavailable',async t=>{
  t.mock.method(globalThis,'fetch',async ()=>response({}));
  assert.deepEqual((await loadDetails(['data/invalid-detail.json'])).failedPaths,['data/invalid-detail.json']);

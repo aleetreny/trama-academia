@@ -3,7 +3,9 @@ import type {Opportunity} from './types.ts';
 const cache=new Map<string,Promise<unknown>>();
 export async function readJson<T>(path:string,fresh=false):Promise<T>{
  if(!fresh&&cache.has(path))return cache.get(path) as Promise<T>;
- const task=fetch(assetPath(path),{signal:AbortSignal.timeout(20000),...(fresh?{cache:'no-cache' as const}:{})}).then(r=>{if(!r.ok)throw new Error('No se pudo leer la edición');return r.json();});
+ // The mutable pointer must revalidate on a new visit. Hashed edition files
+ // retain normal HTTP caching; otherwise new UI can receive yesterday's index.
+ const task=fetch(assetPath(path),{signal:AbortSignal.timeout(20000),...(fresh||path==='data/manifest.json'?{cache:'no-cache' as const}:{})}).then(r=>{if(!r.ok)throw new Error('No se pudo leer la edición');return r.json();});
  cache.set(path,task);task.catch(()=>{if(cache.get(path)===task)cache.delete(path);});return task as Promise<T>;
 }
 type IndexKey='explorer'|'funding'|'institutions'|'sources';
