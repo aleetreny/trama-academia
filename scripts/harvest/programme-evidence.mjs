@@ -177,6 +177,13 @@ export function hasResearchComponent(text){
  // Tartu explicitly reserves the last semester for writing the master's thesis.
  // The bare Estonian word also occurs in a TalTech degree replacing it by an exam.
  if(/(?<!\p{L})viimane semester on mõeldud magistritöö kirjutamiseks(?!\p{L})/iu.test(text))return true;
+ // LU/RTU's Latvian cybersecurity plan has a coded, 30-credit dissertation
+ // under the state examination. A generic final exam or thesis title is not enough.
+ if(/(?<!\p{L})E Valsts pārbaudījums 30 E-1 DE1137 LU un RTU Maģistra darbs 30 Kopā 120(?!\d)/iu.test(text))return true;
+ // LU's CS programme explicitly requires the 30-ECTS dissertation in semester
+ // four. Retain both the programme identity and the affirmative requirement.
+ if(/(?<!\p{L})Datorzinātņu maģistra programma(?!\p{L})/iu.test(text)
+  && /(?<!\p{L})4\.semestrī jāizstrādā 20 krp \(30 ECTS\) maģistra darbs(?!\p{L})/iu.test(text))return true;
  // Lithuanian curricula name the master's final dissertation separately from
  // the bachelor's final work; keep the complete degree-qualified title.
  if(/(?<!\p{L})magistro\s+baigiamasis\s+darbas(?!\p{L})/iu.test(text))return true;

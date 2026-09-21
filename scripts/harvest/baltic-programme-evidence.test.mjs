@@ -3,6 +3,22 @@ import assert from 'node:assert/strict';
 import {programmeText,hasResearchComponent} from './programme-evidence.mjs';
 import {fieldsFrom} from './domain.mjs';
 
+test('Latvian cybersecurity dissertation requires its examination row and credit context',()=>{
+ const positive='E Valsts pārbaudījums 30 E-1 DE1137 LU un RTU Maģistra darbs 30 Kopā 120';
+ assert.equal(hasResearchComponent(positive),true);
+ assert.equal(hasResearchComponent(positive.normalize('NFD')),true);
+ for(const text of ['Maģistra darbs','Pētniecības metodes',positive.replace('Maģistra','Bakalaura'),positive.replace('Maģistra darbs 30','Maģistra darba seminārs 30'),positive.replace('Kopā 120','Kopā 1200')])assert.equal(hasResearchComponent(text),false);
+ assert.equal(hasResearchComponent(programmeText('<nav>'+positive+'</nav><main>Pētniecības metodes</main>')),false);
+});
+test('Latvian CS curriculum requires an affirmative, programme-specific dissertation requirement',()=>{
+ const degree='Datorzinātņu maģistra programma';
+ const requirement='4.semestrī jāizstrādā 20 krp (30 ECTS) maģistra darbs';
+ assert.equal(hasResearchComponent(degree+' '+requirement),true);
+ assert.equal(hasResearchComponent((degree+' '+requirement).normalize('NFD')),true);
+ for(const text of [degree,requirement,degree+' '+requirement.replace('jāizstrādā','nav jāizstrādā'),degree+' '+requirement.replace('maģistra darbs','bakalaura darbs'),degree+' Maģistra kursa darbs datorzinātnē'])assert.equal(hasResearchComponent(text),false);
+ assert.equal(hasResearchComponent(programmeText('<div hidden>'+degree+' '+requirement+'</div><main>'+degree+'</main>')),false);
+});
+
 test('Estonian thesis-writing semester does not include the actual exam-instead-of-thesis route',()=>{
  const positive='Viimane semester on mõeldud magistritöö kirjutamiseks.';
  assert.equal(hasResearchComponent(positive),true);

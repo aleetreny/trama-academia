@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T00:16:12.853Z",
+  "generatedAt": "2026-09-21T01:28:00.491Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -187482,6 +187482,953 @@
           "application"
         ]
       }
+    },
+    {
+      "url": "https://tsi.lv/study_programmes/computer-sciences-master",
+      "institution": "Transport and Telecommunication Institute",
+      "country": "LV",
+      "title": "Computer Science — Software Engineering / Data Analytics and Artificial Intelligence",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos"
+      ],
+      "duration": "90 o 120 ECTS; 1,5–2 años a tiempo completo, 2–2,5 parcial",
+      "languages": [
+        "Letón",
+        "Inglés"
+      ],
+      "entry": "Vía de 120 ECTS: grado afín de al menos 180 ECTS en informática, matemáticas, electrónica, electricidad o TI, o formación profesional superior equivalente. También se contempla economía, gestión, logística, finanzas o empresa con un año de experiencia en TI y examen. Vía de 90 ECTS: grado afín de cuatro años y 240 ECTS, con al menos 6 créditos de programación y 4 de bases de datos. Para estudiar en inglés se exige B2 o una de las acreditaciones equivalentes previstas en las bases; existen exenciones por estudios previos en inglés. Los títulos extranjeros requieren reconocimiento académico.",
+      "researchNote": "Un único máster con dos rutas: Software Engineering y doble titulación con UWE Bristol en Data Analytics and Artificial Intelligence, esta última en inglés. Ambas incluyen tesis de máster y formación metodológica; el plan incorpora IA, minería de datos y bases de datos. Los requisitos se toman de las normas de admisión 2026/27: la página promocional de la doble titulación menciona de forma inconsistente formación secundaria. El calendario general de 2026/27 admite solicitudes de Letonia, UE, EEE y Ucrania hasta el 30 de septiembre de 2026; para otros países anuncia la entrada de invierno de 2027. Comprobar la disponibilidad de la ruta elegida.",
+      "id": "17f561b82d8d43fdfc90",
+      "applyUrl": "https://tsi.lv/study_programmes/computer-sciences-master",
+      "sourceId": "programme-17f561b82d8d43fdfc90",
+      "sourceName": "Transport and Telecommunication Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T11:07:27.177Z",
+      "seenAt": "2026-09-20T11:07:27.177Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "38e3b530e3b8f08266e622f2802f7ef8dfb3307964d7d3447870709f9de3663e",
+        "checkedUrl": "https://tsi.lv/study_programmes/computer-sciences-master/",
+        "method": "official-programme-page",
+        "researchUrl": "https://tsi.lv/study_programmes/computer-sciences-master/",
+        "references": [
+          {
+            "url": "https://tsi.lv/study_programmes/computer-sciences-master/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T11:07:27.177Z",
+            "contentHash": "38e3b530e3b8f08266e622f2802f7ef8dfb3307964d7d3447870709f9de3663e"
+          },
+          {
+            "url": "https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/",
+            "label": "Ruta de doble titulación con UWE",
+            "checkedAt": "2026-09-21T00:28:34.948Z",
+            "contentHash": "08630c2f59b33de4116571caad9d578824be9fdb7b071b79be04d62bc5c72685"
+          },
+          {
+            "url": "https://tsi.lv/wp-content/uploads/2025/11/uznemsanas-noteikumi-2026-2027_eng-.pdf",
+            "label": "Requisitos y especializaciones 2026/27 · págs. 1, 15",
+            "checkedAt": "2026-09-21T00:45:50.427Z",
+            "contentHash": "7c28594b23e6be2c3b0b339be3d468a8cc74bc6889613fe5dbbedacc02263acd",
+            "pages": [
+              1,
+              15
+            ]
+          },
+          {
+            "url": "https://tsi.lv/future-students/admission/",
+            "label": "Calendario general de admisión",
+            "checkedAt": "2026-09-21T00:33:58.920Z",
+            "contentHash": "9b10bd4907c8ebbab8fe5ac779600908a68318710b2391e26cc53a1f6669293a"
+          }
+        ],
+        "checks": [
+          "research",
+          "double-degree",
+          "single-programme-routes",
+          "entry",
+          "calendar"
+        ]
+      }
+    },
+    {
+      "url": "https://tsi.lv/study_programmes/management-of-information-systems/",
+      "institution": "Transport and Telecommunication Institute",
+      "country": "LV",
+      "title": "Management of Information Systems",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "90 o 120 ECTS; 1,5–2 años completo, 2–2,5 parcial o a distancia",
+      "languages": [
+        "Letón",
+        "Inglés"
+      ],
+      "entry": "Vía de 120 ECTS: grado de al menos 180 ECTS en informática, matemáticas, electrónica, electricidad o TIC. Las bases también contemplan titulaciones en economía, gestión, logística, finanzas o empresa con al menos un año de experiencia en TI y examen. Vía de 90 ECTS: titulación afín de cuatro años y 240 ECTS. Para estudiar en inglés se exige B2 o una de las acreditaciones equivalentes previstas en las bases; existen exenciones por estudios previos en inglés. Los títulos extranjeros requieren reconocimiento académico.",
+      "researchNote": "Un programa con rutas en Digital Transformation, Cybersecurity Operations e IT Project Management; incluye una opción a distancia en inglés y una doble titulación con UWE Bristol en IT Project Management. El plan exige tesis de máster e incorpora investigación, minería de datos y sistemas de información. Las bases de 2026/27 requieren educación superior, pese a la referencia a educación secundaria que aparece en la página promocional. El calendario general de 2026/27 admite solicitudes de Letonia, UE, EEE y Ucrania hasta el 30 de septiembre de 2026; para otros países anuncia la entrada de invierno de 2027. Comprobar la disponibilidad de la ruta elegida.",
+      "id": "f8972082ec7768245b6b",
+      "applyUrl": "https://tsi.lv/study_programmes/management-of-information-systems/",
+      "sourceId": "programme-f8972082ec7768245b6b",
+      "sourceName": "Transport and Telecommunication Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:28:38.191Z",
+      "seenAt": "2026-09-21T00:28:38.191Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "df3a51c0961370dadb68ce00f99e6a8b25441ed1e8c7de257aeb38506d84e2ae",
+        "checkedUrl": "https://tsi.lv/study_programmes/management-of-information-systems/",
+        "method": "official-programme-page",
+        "researchUrl": "https://tsi.lv/study_programmes/management-of-information-systems/",
+        "references": [
+          {
+            "url": "https://tsi.lv/study_programmes/management-of-information-systems/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T00:28:38.191Z",
+            "contentHash": "df3a51c0961370dadb68ce00f99e6a8b25441ed1e8c7de257aeb38506d84e2ae"
+          },
+          {
+            "url": "https://tsi.lv/study_programmes/double-degree-in-management-of-information-systems-it-project-management/",
+            "label": "Ruta de doble titulación con UWE",
+            "checkedAt": "2026-09-21T00:28:42.169Z",
+            "contentHash": "37775ce4490042adf51b0181c913238f4464587310ad22b7b28c559df7498044"
+          },
+          {
+            "url": "https://tsi.lv/wp-content/uploads/2025/11/uznemsanas-noteikumi-2026-2027_eng-.pdf",
+            "label": "Requisitos y especializaciones 2026/27 · págs. 1, 17",
+            "checkedAt": "2026-09-21T00:45:50.427Z",
+            "contentHash": "7c28594b23e6be2c3b0b339be3d468a8cc74bc6889613fe5dbbedacc02263acd",
+            "pages": [
+              1,
+              17
+            ]
+          },
+          {
+            "url": "https://tsi.lv/future-students/admission/",
+            "label": "Calendario general de admisión",
+            "checkedAt": "2026-09-21T00:33:58.920Z",
+            "contentHash": "9b10bd4907c8ebbab8fe5ac779600908a68318710b2391e26cc53a1f6669293a"
+          }
+        ],
+        "checks": [
+          "research",
+          "double-degree",
+          "routes",
+          "entry",
+          "calendar"
+        ]
+      }
+    },
+    {
+      "url": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
+      "institution": "Transport and Telecommunication Institute",
+      "country": "LV",
+      "title": "Smart Electronic Systems and Robotics",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "90 o 120 ECTS; 1,5–2 años a tiempo completo",
+      "languages": [
+        "Letón",
+        "Inglés"
+      ],
+      "entry": "Vía larga: grado afín de al menos 180 ECTS en informática, matemáticas, electricidad, electrónica o TI. Vía corta de Embedded Electronics: cuatro años y 240 ECTS en electrónica, electricidad o TIC; otras ingenierías necesitan 6 ECTS de circuitos y 6 de sistemas embebidos. Vía corta de Robotics and AI: cuatro años y 240 ECTS en robótica o mecatrónica; otras ingenierías necesitan 6 ECTS de control automático y 6 de tecnología robótica. La admisión desde otras áreas se evalúa individualmente. Para estudiar en inglés se exige B2 o una de las acreditaciones equivalentes previstas en las bases; existen exenciones por estudios previos en inglés. Los títulos extranjeros requieren reconocimiento académico.",
+      "researchNote": "Agrupa Embedded Electronics and Smart Systems y la ruta de doble titulación con UWE Bristol en Robotics and Artificial Intelligence, impartida en inglés. Ambas incluyen tesis, metodología y trabajo de laboratorio; se verifican IA y visión por computador. Las páginas actuales anuncian septiembre de 2026 para la vía larga y febrero de 2027 para la corta. El reglamento de noviembre de 2025 conserva el nombre Computer Engineering and Electronics y requisitos anteriores; se muestran los requisitos específicos de las páginas actuales, que conviene confirmar con la dirección del programa. El calendario general de 2026/27 admite solicitudes de Letonia, UE, EEE y Ucrania hasta el 30 de septiembre de 2026; para otros países anuncia la entrada de invierno de 2027. Comprobar la disponibilidad de la ruta elegida.",
+      "id": "bd23f09070142d9e9f7a",
+      "applyUrl": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
+      "sourceId": "programme-bd23f09070142d9e9f7a",
+      "sourceName": "Transport and Telecommunication Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:30:08.508Z",
+      "seenAt": "2026-09-21T00:45:52.527Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "10a373eff6792c3550ccbd46384e6855213f4d53e48b9489ab05f0544d983900",
+        "checkedUrl": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
+        "method": "official-programme-page",
+        "researchUrl": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
+        "references": [
+          {
+            "url": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T00:45:52.527Z",
+            "contentHash": "10a373eff6792c3550ccbd46384e6855213f4d53e48b9489ab05f0544d983900"
+          },
+          {
+            "url": "https://tsi.lv/study_programmes/double-degree-in-robotics-and-artificial-intelligence/",
+            "label": "Ruta de doble titulación en robótica e IA",
+            "checkedAt": "2026-09-21T00:30:08.508Z",
+            "contentHash": "45ddc3401ee5f6dfc9c67e343733e6c44b0bf3447cbcd43bfc16cb0a0aa9c198"
+          },
+          {
+            "url": "https://tsi.lv/wp-content/uploads/2025/11/uznemsanas-noteikumi-2026-2027_eng-.pdf",
+            "label": "Denominación anterior y requisitos generales 2026/27 · págs. 1, 14",
+            "checkedAt": "2026-09-21T00:45:50.427Z",
+            "contentHash": "7c28594b23e6be2c3b0b339be3d468a8cc74bc6889613fe5dbbedacc02263acd",
+            "pages": [
+              1,
+              14
+            ]
+          },
+          {
+            "url": "https://tsi.lv/future-students/admission/",
+            "label": "Calendario general de admisión",
+            "checkedAt": "2026-09-21T00:33:58.920Z",
+            "contentHash": "9b10bd4907c8ebbab8fe5ac779600908a68318710b2391e26cc53a1f6669293a"
+          }
+        ],
+        "checks": [
+          "research",
+          "embedded-entry",
+          "robotics-entry",
+          "double-degree",
+          "intakes",
+          "previous-name",
+          "calendar"
+        ]
+      }
+    },
+    {
+      "url": "https://www.llu.lv/en/information_technologies",
+      "institution": "Latvia University of Life Sciences and Technologies",
+      "country": "LV",
+      "title": "MSc Information Technologies",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "2 años · 120 ECTS",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado en ingeniería, informática, matemáticas o física, o diploma profesional superior de ingeniería que habilite para el máster. Inglés B2: IELTS 6, TOEFL PBT 547 o iBT 80 según la ficha. La ruta en inglés publica 3.300 EUR por año; la ficha letona publica 1.700 EUR por semestre y 15 plazas financiadas competitivas. Son tarifas publicadas por rutas distintas, no una misma cifra anual.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "La ficha letona anuncia 15 plazas con financiación estatal, sujetas a admisión y elegibilidad. No se ha confirmado que cubran la ruta internacional en inglés ni que incluyan manutención."
+      },
+      "researchNote": "Máster académico en Jelgava con tesis de 30 ECTS en el cuarto semestre, verificada en el plan 2026/27. Incluye algoritmos, bases de datos, análisis con R, ciencia de datos y aprendizaje automático. El programa en inglés anuncia entradas en septiembre y febrero; su puesta en marcha requiere un grupo mínimo de cinco estudiantes. Las versiones lingüísticas se agrupan en una ficha.",
+      "feeNote": "Ruta internacional en inglés: 3.300 EUR por año. La ficha letona publica 1.700 EUR por semestre; no se ha unificado la tarifa entre rutas.",
+      "id": "a41a998eb979036a8020",
+      "applyUrl": "https://www.llu.lv/en/information_technologies",
+      "sourceId": "programme-a41a998eb979036a8020",
+      "sourceName": "Latvia University of Life Sciences and Technologies",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T10:39:54.554Z",
+      "seenAt": "2026-09-21T01:00:36.908Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "95f3efbb83cb246fb2bf0763465122b09df5db07be901b07427a4c0dc516451b",
+        "checkedUrl": "https://www.lbtu.lv/en/information_technologies",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.lbtu.lv/en/information_technologies",
+        "references": [
+          {
+            "url": "https://www.lbtu.lv/en/information_technologies",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:00:36.908Z",
+            "contentHash": "95f3efbb83cb246fb2bf0763465122b09df5db07be901b07427a4c0dc516451b"
+          },
+          {
+            "url": "https://www.lbtu.lv/lv/magistra-studijas/informacijas-tehnologijas",
+            "label": "Ficha y plazas publicadas en letón",
+            "checkedAt": "2026-09-20T10:39:54.554Z",
+            "contentHash": "b59a1fdedcd140a224a610e483f962f131c5a1d220506f1a8a034499d140d59e"
+          },
+          {
+            "url": "https://www.lbtu.lv/sites/default/files/2026-08/Mgr_plans_26_27_ENG.pdf",
+            "label": "Plan de estudios 2026/27",
+            "checkedAt": "2026-09-21T01:07:34.071Z",
+            "contentHash": "ebaf9e4d5590174db8e0c31d96ec76f5c0bc4b81c06ee4850cc0aed73529f717"
+          },
+          {
+            "url": "https://www.lbtu.lv/en/master-study-programmes",
+            "label": "Intakes y tamaño mínimo del grupo",
+            "checkedAt": "2026-09-21T00:59:45.335Z",
+            "contentHash": "bdfa500766d03f1cfafe3047cacfa1e07612bc7dd554479e23def723331ad5ec"
+          }
+        ],
+        "checks": [
+          "degree-language-fee",
+          "entry",
+          "research",
+          "thesis-credits",
+          "local-funding",
+          "minimum-cohort"
+        ]
+      }
+    },
+    {
+      "url": "https://www.llu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing-master",
+      "institution": "Latvia University of Life Sciences and Technologies",
+      "country": "LV",
+      "title": "MSc Geoinformatics and Remote Sensing",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "2 años · 120 ECTS",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado de al menos tres años y 180 ECTS en agricultura, ciencias forestales, logística, ordenación territorial, geodesia, arquitectura del paisaje, ciencias ambientales, naturales o ingeniería. Se exige inglés B2 y carta de motivación; IELTS 6 o equivalentes. La ruta internacional publica 3.300 EUR al año y una tasa de solicitud no reembolsable de 160 EUR. La ficha letona publica 1.850 EUR por semestre y 15 plazas estatales competitivas.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "La ficha letona anuncia 15 plazas financiadas por el Estado; no se ha confirmado su disponibilidad para la ruta internacional ni una beca de manutención."
+      },
+      "researchNote": "Un máster académico con tres especializaciones: agricultura y bosques, administración territorial y gestión de crisis. Su encaje informático se apoya en tecnologías de información geográfica, gestión y protección de geodatos y modelización; no solo en el nombre del título. El cuarto semestre se dedica a la tesis. La oferta en inglés se mantiene enlazada desde el catálogo actual, admite en septiembre y requiere un mínimo de cinco estudiantes. El portal de admisión marca cerrada la entrada de otoño de 2026/27.",
+      "feeNote": "Ruta internacional: 3.300 EUR por año y 160 EUR de solicitud no reembolsables. La ficha letona publica 1.850 EUR por semestre.",
+      "id": "e04954dd527de4e00f27",
+      "applyUrl": "https://www.llu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing-master",
+      "sourceId": "programme-e04954dd527de4e00f27",
+      "sourceName": "Latvia University of Life Sciences and Technologies",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:33:08.820Z",
+      "seenAt": "2026-09-21T01:00:38.867Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "313cc3ce3ab9b6d717f48ece726fc9403bd307e0da9ab3ebe137ffdef2a159ab",
+        "checkedUrl": "https://www.lbtu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.lbtu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing",
+        "references": [
+          {
+            "url": "https://www.lbtu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:00:38.867Z",
+            "contentHash": "313cc3ce3ab9b6d717f48ece726fc9403bd307e0da9ab3ebe137ffdef2a159ab"
+          },
+          {
+            "url": "https://www.lbtu.lv/lv/magistra-studijas/jaunums-geoinformatika-un-talizpete",
+            "label": "Ruta publicada en letón",
+            "checkedAt": "2026-09-19T23:33:08.820Z",
+            "contentHash": "cb6444e535c868ae60bc83ba2bde13ea221f525536de0db9411c413182fe5e3c"
+          },
+          {
+            "url": "https://apply.llu.lv/courses/course/52-master-geoinformatic-and-remote-sensing",
+            "label": "Requisitos, tasas y estado de admisión internacional",
+            "checkedAt": "2026-09-21T01:07:36.045Z",
+            "contentHash": "50a0d5dc8c197f7e0e47e5e8315f7e7f6e680f8d70c9eaf841a2a8ad82344e02"
+          },
+          {
+            "url": "https://www.lbtu.lv/en/master-study-programmes",
+            "label": "Catálogo actual y tamaño mínimo del grupo",
+            "checkedAt": "2026-09-21T00:59:45.335Z",
+            "contentHash": "bdfa500766d03f1cfafe3047cacfa1e07612bc7dd554479e23def723331ad5ec"
+          }
+        ],
+        "checks": [
+          "degree-language",
+          "computing-research",
+          "entry-fee",
+          "closed-intake",
+          "local-funding",
+          "minimum-cohort"
+        ]
+      }
+    },
+    {
+      "url": "https://en.venta.lv/program/computer-science-ma",
+      "institution": "Ventspils University of Applied Sciences",
+      "country": "LV",
+      "title": "MSc Computer Science",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Estadística"
+      ],
+      "duration": "2 años a tiempo completo",
+      "languages": [
+        "Inglés",
+        "Letón"
+      ],
+      "entry": "Admisión a máster sujeta a las reglas de Ventspils. La página internacional exige acreditación de inglés, entrevista y examen de matemáticas. Sus cabeceras mezclan 2026/27 y 2027/28: las fechas y las tarifas diferenciadas que aparecen en el cuerpo corresponden a 2027/28 y no se trasladan aquí a la ronda actual. Confirmar con admisiones el título previo elegible y el calendario aplicable.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "El programa contempla plazas estatales para ciudadanos de Letonia, UE, EEE y países del espacio Schengen, según su ficha. Son competitivas y no equivalen a una beca concedida."
+      },
+      "researchNote": "Máster académico con un semestre completo de tesis, proyecto de investigación y metodología científica. Incluye estadística, aprendizaje profundo, tratamiento de imágenes y computación paralela. Las versiones en inglés y letón se agrupan en una ficha. La página letona publica una matrícula de 4.210 EUR por año; no se ha confirmado una tarifa única para todas las nacionalidades en la ronda actual.",
+      "feeNote": "La ficha letona publica 4.210 EUR por año. La página internacional mezcla cursos 2026/27 y 2027/28: confirmar la tarifa aplicable a la nacionalidad y convocatoria.",
+      "id": "7a67abb445e8980721b1",
+      "applyUrl": "https://en.venta.lv/program/computer-science-ma",
+      "sourceId": "programme-7a67abb445e8980721b1",
+      "sourceName": "Ventspils University of Applied Sciences",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T21:55:04.453Z",
+      "seenAt": "2026-09-21T00:59:47.813Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "882c6a9b23431779415c0f0041199917d3141c029058a74d7a705c75c61401db",
+        "checkedUrl": "https://en.venta.lv/program/computer-science-ma",
+        "method": "official-programme-page",
+        "researchUrl": "https://en.venta.lv/program/computer-science-ma",
+        "references": [
+          {
+            "url": "https://en.venta.lv/program/computer-science-ma",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T00:59:47.813Z",
+            "contentHash": "882c6a9b23431779415c0f0041199917d3141c029058a74d7a705c75c61401db"
+          },
+          {
+            "url": "https://www.venta.lv/program/datorzinatnes-magistrs",
+            "label": "Versión letona del programa",
+            "checkedAt": "2026-09-19T21:55:04.453Z",
+            "contentHash": "1e5af56b03ee1d57e467032240689de04f20b657c25f9eae88fcb107da87625a"
+          },
+          {
+            "url": "https://en.venta.lv/join-us/terms-of-admission",
+            "label": "Admisión internacional con discrepancia de curso",
+            "checkedAt": "2026-09-21T00:30:02.873Z",
+            "contentHash": "051a3e8adf8befade9064dbae93062caf29a7c5a2870571faa4bcb32d9a04732"
+          }
+        ],
+        "checks": [
+          "research",
+          "curriculum",
+          "duration-language-funding",
+          "published-fee",
+          "calendar-discrepancy"
+        ]
+      }
+    },
+    {
+      "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+      "institution": "University of Latvia",
+      "country": "LV",
+      "title": "Smart Cybersecurity — programa conjunto LU / RTU",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "4 semestres · 120 ECTS",
+      "languages": [
+        "Letón"
+      ],
+      "programmeType": "Máster anunciado; apertura pendiente",
+      "entry": "Título de primer ciclo en informática y examen de acceso; o título de otra disciplina, al menos tres años de experiencia profesional en informática o ciberseguridad y examen. La matrícula todavía figura como pendiente de determinar.",
+      "researchNote": "Programa conjunto con Riga Technical University, anunciado por la facultad como de próxima apertura. El plan incluye una tesis de 30 ECTS y se estudia en ambas universidades. Se eligen dos de seis áreas de especialización, sin que constituyan seis títulos distintos. No se ha confirmado una convocatoria de admisión abierta; las 40 plazas anunciadas no se cuentan como vacantes actuales.",
+      "feeNote": "Importe pendiente de determinar en la página del programa.",
+      "id": "1a883c5e6425ba6d455e",
+      "applyUrl": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+      "sourceId": "programme-1a883c5e6425ba6d455e",
+      "sourceName": "University of Latvia",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:23:33.412Z",
+      "seenAt": "2026-09-21T00:28:33.552Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "5d3ae8435336c57c2eff4f9e470339261abb419bfa714cf17552871e699046f3",
+        "checkedUrl": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.lu.lv/fileadmin/user_upload/lu_portal/eztf.lu.lv/EZTF_dokumenti/Studiju_programmas_plans_Vieda_Kiberdrosiba.pdf",
+        "references": [
+          {
+            "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T00:28:33.552Z",
+            "contentHash": "5d3ae8435336c57c2eff4f9e470339261abb419bfa714cf17552871e699046f3"
+          },
+          {
+            "url": "https://www.lu.lv/fileadmin/user_upload/lu_portal/eztf.lu.lv/EZTF_dokumenti/Studiju_programmas_plans_Vieda_Kiberdrosiba.pdf",
+            "label": "Plan conjunto: tesis y créditos",
+            "checkedAt": "2026-09-21T00:37:11.442Z",
+            "contentHash": "0d9bdd0e2deea8f4f41a2af4be0bbcd341197afd01d85f567f320fb6517ab44d"
+          },
+          {
+            "url": "https://eztf.lu.lv/en/admission/masters-study-programmes/",
+            "label": "Catálogo de la facultad: apertura pendiente",
+            "checkedAt": "2026-09-21T00:23:33.412Z",
+            "contentHash": "f6e71403404e825f61a3461f417db453da3fd26be59a95843f01700291ecff03"
+          }
+        ],
+        "checks": [
+          "degree-entry",
+          "joint-specialisations",
+          "thesis-credits",
+          "opening-pending"
+        ]
+      }
+    },
+    {
+      "url": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+      "institution": "University of Latvia",
+      "country": "LV",
+      "title": "MSc Datorzinātnes — Computer Science",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "1 o 2 años · 60 o 120 ECTS",
+      "languages": [
+        "Letón"
+      ],
+      "entry": "Ruta de 120 ECTS: grado en informática; para otras ciencias naturales, matemáticas, ingeniería o gestión se requieren tres años de experiencia en informática y un examen de matemáticas y programación, con al menos 125 puntos en cada parte. Esta segunda vía no permite Bioinformática. La ruta de 60 ECTS en Advanced Programming exige estudios previos de informática de cuatro años y 240 ECTS. La ficha publica una matrícula de 4.200 EUR sin precisar aquí el periodo de cobro.",
+      "researchNote": "Un máster con siete especializaciones: Computer Science, Software Engineering, Information Technologies, Information Systems, Computer Engineering, Bioinformatics y Advanced Programming. La descripción curricular oficial de 2024 exige una tesis de 30 ECTS, en el cuarto semestre de la ruta larga o segundo de la corta. La ficha de admisión 2026/27 mantiene la estructura de 60/120 ECTS y las siete especializaciones; el documento curricular se identifica con su fecha para distinguirlo de las bases actuales.",
+      "feeNote": "4.200 EUR publicados tanto para UE/EEE/Suiza como para otros países; la ficha no precisa el periodo de cobro.",
+      "id": "0db55fa052ef778a866f",
+      "applyUrl": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+      "sourceId": "programme-0db55fa052ef778a866f",
+      "sourceName": "University of Latvia",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:37:09.489Z",
+      "seenAt": "2026-09-21T00:37:09.489Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "3bd3f1905e2f0857e0ccfb39b93c81f3899f8db1f2039792422228ec2903b70d",
+        "checkedUrl": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+        "method": "official-programme-page",
+        "researchUrl": "https://eztf.lu.lv/fileadmin/user_upload/LU.LV/Apaksvietnes/Fakultates/www.df.lu.lv/mag_progr_saturs_2024.pdf",
+        "references": [
+          {
+            "url": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T00:37:09.489Z",
+            "contentHash": "3bd3f1905e2f0857e0ccfb39b93c81f3899f8db1f2039792422228ec2903b70d"
+          },
+          {
+            "url": "https://eztf.lu.lv/fileadmin/user_upload/LU.LV/Apaksvietnes/Fakultates/www.df.lu.lv/mag_progr_saturs_2024.pdf",
+            "label": "Descripción curricular oficial de 2024 · págs. 1, 2",
+            "checkedAt": "2026-09-21T01:07:37.168Z",
+            "contentHash": "9fb1007b3847015680bc11083df98140dcb425836a56955a79f53b011d580622",
+            "pages": [
+              1,
+              2
+            ]
+          }
+        ],
+        "checks": [
+          "current-programme",
+          "entry",
+          "published-fee",
+          "thesis"
+        ]
+      }
+    },
+    {
+      "url": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+      "institution": "Transport and Telecommunication Institute",
+      "country": "LV",
+      "title": "PhD Telematics and Logistics",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "3 años completo o 4 parcial · 180 ECTS",
+      "languages": [
+        "Letón",
+        "Inglés"
+      ],
+      "feeNote": "Curso 2026/27: 5.000 EUR al año a tiempo completo o 4.000 EUR al año a tiempo parcial. Los descuentos requieren concurso y condiciones adicionales.",
+      "entry": "Máster en TIC, electrónica o áreas afines. Propuesta doctoral de 2.500–3.000 palabras, copia de la tesis de máster y presentación de la propuesta; si la formación previa difiere, examen adicional con al menos dos cuestiones teóricas. Selección con mínimo de 60 puntos. Elegir área y posible supervisor; se admite proponer un tema propio o industrial. Para candidatos extranjeros, idioma B2 acreditado con las exenciones de las bases y reconocimiento de la titulación.",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Matrícula 2026/27: 5.000 EUR/año a tiempo completo o 4.000 EUR/año parcial. Existe un concurso separado de descuentos de hasta el 100%, dirigido en sus bases de 2026 a investigadores procedentes de los países bálticos y actualmente cerrado. La admisión no garantiza financiación ni salario."
+      },
+      "researchNote": "Doctorado de ingeniería y tecnología con tesis original y defensa pública. Incluye minería de datos, aprendizaje automático, estadística multivariante, investigación operativa e IA, aplicados a telemática y logística. Las bases 2026/27 permiten solicitar durante todo el curso; esta vía de admisión es independiente del concurso de financiación. Si se obtiene el descuento doctoral, su formulario exige aceptar una relación laboral de investigación o docencia con TSI durante al menos tres años, sin publicar aquí salario.",
+      "id": "e186a590a88d30c26e65",
+      "applyUrl": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+      "sourceId": "programme-e186a590a88d30c26e65",
+      "sourceName": "Transport and Telecommunication Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:07:29.359Z",
+      "seenAt": "2026-09-21T01:09:03.069Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "c0e2bc6566721071fd6091136ebefbd95fe9cb4b660e87d5d20eed0002a64845",
+        "checkedUrl": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+        "method": "official-programme-page",
+        "researchUrl": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+        "references": [
+          {
+            "url": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:09:03.069Z",
+            "contentHash": "c0e2bc6566721071fd6091136ebefbd95fe9cb4b660e87d5d20eed0002a64845"
+          },
+          {
+            "url": "https://tsi.lv/wp-content/uploads/2025/11/uznemsanas-noteikumi_doktora-studiju-programmas-eng-.pdf",
+            "label": "Normas de admisión doctoral 2026/27 · págs. 1, 2, 3, 4, 5",
+            "checkedAt": "2026-09-21T01:07:32.077Z",
+            "contentHash": "69df4716ac2841e7f88df0c7bd681f9278e15562774a073d7c0ec4f306922595",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "url": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+            "label": "Concurso doctoral: estado y líneas de investigación",
+            "checkedAt": "2026-09-21T01:07:29.359Z",
+            "contentHash": "4bc477475a87bbc4f0683c27108aef31fd6075b36faed5315278032b4e69557e"
+          },
+          {
+            "url": "https://tsi.lv/wp-content/uploads/2026/04/phd-grant-regulation-2026.pdf",
+            "label": "Condiciones del descuento doctoral de 2026 · págs. 1, 2, 5",
+            "checkedAt": "2026-09-21T01:09:02.270Z",
+            "contentHash": "5536f5755bb3397d28e634b0bc225d22739e4137fa116cadc374d42830bd0a24",
+            "pages": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "checks": [
+          "research",
+          "duration-fee",
+          "entry",
+          "year-round",
+          "funding-closed",
+          "funding-region",
+          "employment-condition"
+        ]
+      }
+    },
+    {
+      "url": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+      "institution": "Transport and Telecommunication Institute",
+      "country": "LV",
+      "title": "TSI — descuentos de matrícula por mérito, situación personal y vinculación",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master",
+        "doctorado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "Por semestre o durante los estudios, según modalidad",
+      "entry": "Estudiantes o solicitantes de TSI que cumplan los criterios de cada modalidad. El descuento por rendimiento exige media del semestre anterior de al menos 8, ninguna nota inferior a 7, evaluaciones en plazo sin repetir para subir nota y matrícula pagada a tiempo. Existen modalidades para antiguos alumnos y familiares, discapacidad, familias numerosas y jóvenes sin cuidado parental menores de 24 años.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Reducción de matrícula: 10% por rendimiento durante un semestre; en las modalidades de antiguos alumnos o apoyo social, 20% para programas ordinarios y 10% para dobles titulaciones. Las bases fijan un máximo acumulado general del 30% para másteres ordinarios, 20% para dobles titulaciones y 20% para doctorado, con excepciones discrecionales. No es un pago de manutención."
+      },
+      "researchNote": "Familia de descuentos según la orden de 18 de marzo de 2026, aplicable a los programas de investigación de TSI si se cumplen los requisitos. Las modalidades doctorales concretas incluyen antiguos alumnos y familiares. La orden permite acumulación con topes, mientras la página general todavía dice que los descuentos no se combinan; se conserva esta discrepancia y se prioriza la norma fechada. No se aplica con otra beca o ayuda, ni con deudas académicas o económicas, salvo la excepción de apoyo social que recogen las bases.",
+      "id": "437ddbd27695fd3e84ce",
+      "applyUrl": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+      "sourceId": "programme-437ddbd27695fd3e84ce",
+      "sourceName": "Transport and Telecommunication Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:45:51.644Z",
+      "seenAt": "2026-09-21T00:45:51.644Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a3a4bf4dddfac08d647c7f85c2198b5b1a5d9138294059261ac8fea72283923a",
+        "checkedUrl": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+        "references": [
+          {
+            "url": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+            "label": "Orden de descuentos de marzo de 2026 · págs. 1, 3",
+            "checkedAt": "2026-09-21T00:45:51.644Z",
+            "contentHash": "a3a4bf4dddfac08d647c7f85c2198b5b1a5d9138294059261ac8fea72283923a",
+            "pages": [
+              1,
+              3
+            ]
+          },
+          {
+            "url": "https://tsi.lv/future-students/loyalty-grants/",
+            "label": "Página general con condiciones discrepantes",
+            "checkedAt": "2026-09-21T01:00:41.338Z",
+            "contentHash": "9b946ec85afb555d04741e20f660cbd9e6f93bc26767d626cb5961f5efaf5c41"
+          }
+        ],
+        "checks": [
+          "current-policy",
+          "caps",
+          "exclusions",
+          "conflicting-overview"
+        ]
+      }
+    },
+    {
+      "url": "https://tsi.lv/future-students/loyalty-grants/",
+      "institution": "Transport and Telecommunication Institute",
+      "country": "LV",
+      "title": "TSI — becas competitivas de matrícula para máster",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "entry": "La página general limita las ayudas de máster a solicitantes procedentes de Letonia y estudios a tiempo completo. No precisa si esa procedencia se define por nacionalidad o residencia; debe confirmarse en las bases de cada edición. La última convocatoria concreta revisada, de 2025, se dirige a nuevos solicitantes.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Descuentos competitivos del 50%, 75% o 100% de la matrícula de máster. La página los describe como anuales; no se ha confirmado una nueva convocatoria abierta para 2026."
+      },
+      "researchNote": "Financiación recurrente de TSI para sus másteres, sin multiplicar la ayuda por cada especialización. La convocatoria concreta publicada el 13 de junio de 2025 cerró el 27 de julio de 2025; no se presenta como vigente. El descuento no implica una paga de manutención.",
+      "id": "c9d71bbedafe6532a47b",
+      "applyUrl": "https://tsi.lv/future-students/loyalty-grants/",
+      "sourceId": "programme-c9d71bbedafe6532a47b",
+      "sourceName": "Transport and Telecommunication Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:59:49.133Z",
+      "seenAt": "2026-09-21T01:00:41.338Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "9b946ec85afb555d04741e20f660cbd9e6f93bc26767d626cb5961f5efaf5c41",
+        "checkedUrl": "https://tsi.lv/future-students/loyalty-grants/",
+        "method": "official-programme-page",
+        "researchUrl": "https://tsi.lv/future-students/loyalty-grants/",
+        "references": [
+          {
+            "url": "https://tsi.lv/future-students/loyalty-grants/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:00:41.338Z",
+            "contentHash": "9b946ec85afb555d04741e20f660cbd9e6f93bc26767d626cb5961f5efaf5c41"
+          },
+          {
+            "url": "https://tsi.lv/events/scholarship-for-masters-studies-apply-now/",
+            "label": "Última convocatoria concreta revisada — 2025",
+            "checkedAt": "2026-09-21T00:59:49.133Z",
+            "contentHash": "5249d5267cd39f9a0518bcaff03c47a889e70988d82c16e1fcec5e0b0f8fa449"
+          }
+        ],
+        "checks": [
+          "eligibility",
+          "amount",
+          "closed-edition"
+        ]
+      }
+    },
+    {
+      "url": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+      "institution": "Transport and Telecommunication Institute",
+      "country": "LV",
+      "title": "TSI PhD Grants — descuento para Telematics and Logistics",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "duration": "Un año, renovable hasta tres",
+      "entry": "Concurso vinculado al doctorado a tiempo completo en Telematics and Logistics. Las bases de 2026 se dirigen a jóvenes investigadores procedentes de Letonia, Lituania y Estonia; no equivalen a la oferta mundial de la página general. Exigen al menos 8 en la defensa de la tesis de máster y en el examen de admisión, documentación académica, CV, motivación y propuesta doctoral. El formulario exige aceptar una relación laboral de investigación o docencia con TSI durante al menos tres años si se obtiene la ayuda.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Descuento de hasta el 100% de matrícula por un curso, renovable con evaluación anual positiva hasta un máximo de tres años. Número de ayudas fijado por TSI. No cubre otros servicios y no publica un estipendio ni salario."
+      },
+      "researchNote": "La página publica temas para 2026 en aprendizaje automático, decisiones con datos, IA, robótica y visión, pero marca el concurso como cerrado. Se mantiene como instrumento recurrente con las condiciones específicas de las bases enlazadas. La página promocional general anuncia alcance mundial; prevalece aquí la limitación báltica del reglamento 2026. Las posibles oportunidades laborales no permiten inferir remuneración o condiciones de contrato.",
+      "id": "4c8cb3b41cc257356e6c",
+      "applyUrl": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+      "sourceId": "programme-4c8cb3b41cc257356e6c",
+      "sourceName": "Transport and Telecommunication Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T01:00:41.338Z",
+      "seenAt": "2026-09-21T01:07:29.359Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "4bc477475a87bbc4f0683c27108aef31fd6075b36faed5315278032b4e69557e",
+        "checkedUrl": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+        "method": "official-programme-page",
+        "researchUrl": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+        "references": [
+          {
+            "url": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T01:07:29.359Z",
+            "contentHash": "4bc477475a87bbc4f0683c27108aef31fd6075b36faed5315278032b4e69557e"
+          },
+          {
+            "url": "https://tsi.lv/wp-content/uploads/2026/04/phd-grant-regulation-2026.pdf",
+            "label": "Bases de la ayuda doctoral 2026 · págs. 1, 2, 5",
+            "checkedAt": "2026-09-21T01:09:02.270Z",
+            "contentHash": "5536f5755bb3397d28e634b0bc225d22739e4137fa116cadc374d42830bd0a24",
+            "pages": [
+              1,
+              2,
+              5
+            ]
+          },
+          {
+            "url": "https://tsi.lv/future-students/loyalty-grants/",
+            "label": "Resumen general con alcance geográfico discrepante",
+            "checkedAt": "2026-09-21T01:00:41.338Z",
+            "contentHash": "9b946ec85afb555d04741e20f660cbd9e6f93bc26767d626cb5961f5efaf5c41"
+          }
+        ],
+        "checks": [
+          "closed-topics",
+          "eligibility-region",
+          "renewal",
+          "employment-condition",
+          "overview-discrepancy"
+        ]
+      }
+    },
+    {
+      "url": "https://www.venta.lv/stipendijas",
+      "institution": "Ventspils University of Applied Sciences",
+      "country": "LV",
+      "title": "Ventspils — beca académica para estudiantes en plazas estatales",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master"
+      ],
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Estadística"
+      ],
+      "duration": "Un semestre",
+      "entry": "Estudiantes matriculados en plazas financiadas por el Estado, con rendimiento satisfactorio y todas las obligaciones académicas cumplidas. Se ordena principalmente por la nota media del semestre anterior; se aplican prioridades sociales en caso de empate. Se excluye a quienes pagan matrícula o tienen asignaturas o evaluaciones suspendidas pendientes.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "140 EUR al mes, durante septiembre–enero o febrero–junio. Concesión por semestre y número de beneficiarios proporcional a las plazas estatales de cada curso; no se concede automáticamente con la admisión."
+      },
+      "researchNote": "Ayuda institucional de rendimiento que puede financiar el MSc Computer Science con tesis cuando se obtiene una plaza estatal. Las páginas letona e inglesa coinciden en importe y duración. Esta ficha recoge esa modalidad: otras becas sociales, municipales o de patrocinadores tienen condiciones propias y algunas cifras discrepantes.",
+      "id": "dce07adfc873f95fbc15",
+      "applyUrl": "https://www.venta.lv/stipendijas",
+      "sourceId": "programme-dce07adfc873f95fbc15",
+      "sourceName": "Ventspils University of Applied Sciences",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:08:46.831Z",
+      "seenAt": "2026-09-19T23:08:46.831Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7473280d3912467c0e1b07e28bdbe4b5a8b2d59a67652cda021618014561fabb",
+        "checkedUrl": "https://www.venta.lv/stipendijas",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.venta.lv/stipendijas",
+        "references": [
+          {
+            "url": "https://www.venta.lv/stipendijas",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T23:08:46.831Z",
+            "contentHash": "7473280d3912467c0e1b07e28bdbe4b5a8b2d59a67652cda021618014561fabb"
+          },
+          {
+            "url": "https://en.venta.lv/join-us/scholarships-and-reduced-tuition-fees",
+            "label": "Condiciones publicadas en inglés",
+            "checkedAt": "2026-09-21T01:07:28.300Z",
+            "contentHash": "e16a9820ce142e5cd0c6fc5d3091402b1c5643a20aaef6766dbfb3c0b66fb109"
+          },
+          {
+            "url": "https://en.venta.lv/program/computer-science-ma",
+            "label": "Máster elegible y acceso a plazas estatales",
+            "checkedAt": "2026-09-21T00:59:47.813Z",
+            "contentHash": "882c6a9b23431779415c0f0041199917d3141c029058a74d7a705c75c61401db"
+          }
+        ],
+        "checks": [
+          "amount",
+          "eligibility",
+          "period",
+          "programme"
+        ]
+      }
     }
   ],
   "sources": [
@@ -244250,171 +245197,533 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-17f561b82d8d43fdfc90",
+      "name": "Transport and Telecommunication Institute · Computer Science — Software Engineering / Data Analytics and Artificial Intelligence",
+      "url": "https://tsi.lv/study_programmes/computer-sciences-master",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T11:07:27.177Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-f8972082ec7768245b6b",
+      "name": "Transport and Telecommunication Institute · Management of Information Systems",
+      "url": "https://tsi.lv/study_programmes/management-of-information-systems/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:28:38.191Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-bd23f09070142d9e9f7a",
+      "name": "Transport and Telecommunication Institute · Smart Electronic Systems and Robotics",
+      "url": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:30:08.508Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-a41a998eb979036a8020",
+      "name": "Latvia University of Life Sciences and Technologies · MSc Information Technologies",
+      "url": "https://www.llu.lv/en/information_technologies",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T10:39:54.554Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-e04954dd527de4e00f27",
+      "name": "Latvia University of Life Sciences and Technologies · MSc Geoinformatics and Remote Sensing",
+      "url": "https://www.llu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing-master",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:33:08.820Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7a67abb445e8980721b1",
+      "name": "Ventspils University of Applied Sciences · MSc Computer Science",
+      "url": "https://en.venta.lv/program/computer-science-ma",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T21:55:04.453Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-1a883c5e6425ba6d455e",
+      "name": "University of Latvia · Smart Cybersecurity — programa conjunto LU / RTU",
+      "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:23:33.412Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-0db55fa052ef778a866f",
+      "name": "University of Latvia · MSc Datorzinātnes — Computer Science",
+      "url": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:37:09.489Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-e186a590a88d30c26e65",
+      "name": "Transport and Telecommunication Institute · PhD Telematics and Logistics",
+      "url": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "LV",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:07:29.359Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-437ddbd27695fd3e84ce",
+      "name": "Transport and Telecommunication Institute · TSI — descuentos de matrícula por mérito, situación personal y vinculación",
+      "url": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "LV",
+      "stages": [
+        "master",
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:45:51.644Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-c9d71bbedafe6532a47b",
+      "name": "Transport and Telecommunication Institute · TSI — becas competitivas de matrícula para máster",
+      "url": "https://tsi.lv/future-students/loyalty-grants/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:59:49.133Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-4c8cb3b41cc257356e6c",
+      "name": "Transport and Telecommunication Institute · TSI PhD Grants — descuento para Telematics and Logistics",
+      "url": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "LV",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T01:00:41.338Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-dce07adfc873f95fbc15",
+      "name": "Ventspils University of Applied Sciences · Ventspils — beca académica para estudiantes en plazas estatales",
+      "url": "https://www.venta.lv/stipendijas",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "LV",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:08:46.831Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "f1c6fd2f-6b63-44bc-9a96-5759228f429b",
+    "id": "0d6bdca6-3e2c-4421-a1de-c3ffe964fb87",
     "type": "programme-verification",
-    "parentRunId": "6990b576-b767-4cc0-b708-e44ca53f5d1b",
-    "startedAt": "2026-09-21T00:16:10.266Z",
-    "finishedAt": "2026-09-21T00:16:12.853Z",
+    "parentRunId": "f1c6fd2f-6b63-44bc-9a96-5759228f429b",
+    "startedAt": "2026-09-21T01:16:32.885Z",
+    "finishedAt": "2026-09-21T01:28:00.491Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-5867f97f1b7f2bb28a94",
-        "name": "Wrocław University of Science and Technology · Doctoral School — Information and Communication Technology",
-        "url": "https://szd.pwr.edu.pl/en/about-us",
+        "id": "programme-17f561b82d8d43fdfc90",
+        "name": "Transport and Telecommunication Institute · Computer Science — Software Engineering / Data Analytics and Artificial Intelligence",
+        "url": "https://tsi.lv/study_programmes/computer-sciences-master",
         "adapter": "programme",
         "type": "institution",
-        "scope": "PL",
+        "scope": "LV",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T23:55:49.065Z",
-          "pages": 9,
+          "checkedAt": "2026-09-20T11:07:27.177Z",
+          "pages": 4,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-e499ae5b4c0911f1deb4",
-        "name": "Poznań University of Technology · Doctoral School — Information and Communication Technology",
-        "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+        "id": "programme-f8972082ec7768245b6b",
+        "name": "Transport and Telecommunication Institute · Management of Information Systems",
+        "url": "https://tsi.lv/study_programmes/management-of-information-systems/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "PL",
+        "scope": "LV",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T21:46:55.258Z",
-          "pages": 6,
+          "checkedAt": "2026-09-21T00:28:38.191Z",
+          "pages": 4,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-07d1f7fe8595ec2e70d5",
-        "name": "Lodz University of Technology · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
-        "url": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+        "id": "programme-bd23f09070142d9e9f7a",
+        "name": "Transport and Telecommunication Institute · Smart Electronic Systems and Robotics",
+        "url": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "PL",
+        "scope": "LV",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T23:55:44.741Z",
-          "pages": 6,
+          "checkedAt": "2026-09-21T00:30:08.508Z",
+          "pages": 4,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-176f8e91babaea97b296",
-        "name": "Nicolaus Copernicus University · Academia Scientiarum Thoruniensis — PhD in Mathematics",
-        "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+        "id": "programme-a41a998eb979036a8020",
+        "name": "Latvia University of Life Sciences and Technologies · MSc Information Technologies",
+        "url": "https://www.llu.lv/en/information_technologies",
         "adapter": "programme",
         "type": "institution",
-        "scope": "PL",
+        "scope": "LV",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T23:55:41.188Z",
-          "pages": 9,
+          "checkedAt": "2026-09-20T10:39:54.554Z",
+          "pages": 4,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-c126cc22306336842e6b",
-        "name": "University of Łódź · Doctoral School of Exact and Natural Sciences — Informatyka",
-        "url": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+        "id": "programme-e04954dd527de4e00f27",
+        "name": "Latvia University of Life Sciences and Technologies · MSc Geoinformatics and Remote Sensing",
+        "url": "https://www.llu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing-master",
         "adapter": "programme",
         "type": "institution",
-        "scope": "PL",
+        "scope": "LV",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T23:56:00.978Z",
-          "pages": 5,
+          "checkedAt": "2026-09-19T23:33:08.820Z",
+          "pages": 4,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-85dbe4af485bfca6c301",
-        "name": "Warsaw University of Technology · Doctoral School — Informatyka techniczna i telekomunikacja",
-        "url": "https://www.sd.pw.edu.pl/sd_en",
+        "id": "programme-7a67abb445e8980721b1",
+        "name": "Ventspils University of Applied Sciences · MSc Computer Science",
+        "url": "https://en.venta.lv/program/computer-science-ma",
         "adapter": "programme",
         "type": "institution",
-        "scope": "PL",
+        "scope": "LV",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T23:56:03.225Z",
-          "pages": 5,
+          "checkedAt": "2026-09-19T21:55:04.453Z",
+          "pages": 3,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-728e41c010c4aa24572d",
-        "name": "Poznań University of Technology · PUT — complemento de beca doctoral por méritos 2026/27",
-        "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/zwiekszenie-stypendium",
+        "id": "programme-1a883c5e6425ba6d455e",
+        "name": "University of Latvia · Smart Cybersecurity — programa conjunto LU / RTU",
+        "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "LV",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T00:23:33.412Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-0db55fa052ef778a866f",
+        "name": "University of Latvia · MSc Datorzinātnes — Computer Science",
+        "url": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "LV",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T00:37:09.489Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-e186a590a88d30c26e65",
+        "name": "Transport and Telecommunication Institute · PhD Telematics and Logistics",
+        "url": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "LV",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T01:07:29.359Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-437ddbd27695fd3e84ce",
+        "name": "Transport and Telecommunication Institute · TSI — descuentos de matrícula por mérito, situación personal y vinculación",
+        "url": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
         "adapter": "programme",
         "type": "funder",
-        "scope": "PL",
+        "scope": "LV",
         "stages": [
+          "master",
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T00:07:10.481Z",
-          "pages": 1,
+          "checkedAt": "2026-09-21T00:45:51.644Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-76dc5d3b9f9923cd9d48",
-        "name": "Poznań University of Technology · PUT Own Scholarship Fund — research scholarship for PhD students",
-        "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/stypendium-naukowe",
+        "id": "programme-c9d71bbedafe6532a47b",
+        "name": "Transport and Telecommunication Institute · TSI — becas competitivas de matrícula para máster",
+        "url": "https://tsi.lv/future-students/loyalty-grants/",
         "adapter": "programme",
         "type": "funder",
-        "scope": "PL",
+        "scope": "LV",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T00:59:49.133Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-4c8cb3b41cc257356e6c",
+        "name": "Transport and Telecommunication Institute · TSI PhD Grants — descuento para Telematics and Logistics",
+        "url": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "LV",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T00:07:09.473Z",
-          "pages": 1,
+          "checkedAt": "2026-09-21T01:00:41.338Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-dce07adfc873f95fbc15",
+        "name": "Ventspils University of Applied Sciences · Ventspils — beca académica para estudiantes en plazas estatales",
+        "url": "https://www.venta.lv/stipendijas",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "LV",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T23:08:46.831Z",
+          "pages": 3,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -244422,11 +245731,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-21T00:16:10.266Z",
-      "finishedAt": "2026-09-21T00:16:12.853Z",
+      "startedAt": "2026-09-21T01:16:32.885Z",
+      "finishedAt": "2026-09-21T01:28:00.491Z",
       "scope": "selected-programmes",
-      "verified": 8,
-      "attempted": 8,
+      "verified": 13,
+      "attempted": 13,
       "partial": 0
     }
   },

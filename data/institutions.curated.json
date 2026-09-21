@@ -20308,7 +20308,7 @@
     "name": "University of Latvia",
     "country": "LV",
     "city": "Riga",
-    "officialUrl": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/mathematics-and-data-science-en/",
+    "officialUrl": "https://www.lu.lv",
     "domain": "lu.lv",
     "sources": [
       {
@@ -20428,6 +20428,51 @@
         "observedAt": "2026-09-20T18:35:15.462Z",
         "checkedAt": "2026-09-20T18:35:15.462Z",
         "contentHash": "1990b2d1ae35f4936b522c2e8fc4e9ea864ebdc70844dff0d830e9759be5591f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/smart-cybersecurity-lv/",
+        "type": "masters",
+        "label": "Smart Cybersecurity — programa conjunto LU / RTU",
+        "observedAt": "2026-09-21T00:28:33.552Z",
+        "checkedAt": "2026-09-21T00:28:33.552Z",
+        "contentHash": "5d3ae8435336c57c2eff4f9e470339261abb419bfa714cf17552871e699046f3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lu.lv/fileadmin/user_upload/lu_portal/eztf.lu.lv/EZTF_dokumenti/Studiju_programmas_plans_Vieda_Kiberdrosiba.pdf",
+        "type": "masters",
+        "label": "Plan conjunto: tesis y créditos · Smart Cybersecurity — programa conjunto LU / RTU",
+        "observedAt": "2026-09-21T00:37:11.442Z",
+        "checkedAt": "2026-09-21T00:37:11.442Z",
+        "contentHash": "0d9bdd0e2deea8f4f41a2af4be0bbcd341197afd01d85f567f320fb6517ab44d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://eztf.lu.lv/en/admission/masters-study-programmes/",
+        "type": "masters",
+        "label": "Catálogo de la facultad: apertura pendiente · Smart Cybersecurity — programa conjunto LU / RTU",
+        "observedAt": "2026-09-21T00:23:33.412Z",
+        "checkedAt": "2026-09-21T00:23:33.412Z",
+        "contentHash": "f6e71403404e825f61a3461f417db453da3fd26be59a95843f01700291ecff03",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lu.lv/studijas/studiju-programmas/magistra-limena-studijas/datorzinatnes/",
+        "type": "masters",
+        "label": "MSc Datorzinātnes — Computer Science",
+        "observedAt": "2026-09-21T00:37:09.489Z",
+        "checkedAt": "2026-09-21T00:37:09.489Z",
+        "contentHash": "3bd3f1905e2f0857e0ccfb39b93c81f3899f8db1f2039792422228ec2903b70d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://eztf.lu.lv/fileadmin/user_upload/LU.LV/Apaksvietnes/Fakultates/www.df.lu.lv/mag_progr_saturs_2024.pdf",
+        "type": "masters",
+        "label": "Descripción curricular oficial de 2024 · págs. 1, 2 · MSc Datorzinātnes — Computer Science",
+        "observedAt": "2026-09-21T01:07:37.168Z",
+        "checkedAt": "2026-09-21T01:07:37.168Z",
+        "contentHash": "9fb1007b3847015680bc11083df98140dcb425836a56955a79f53b011d580622",
         "accessOutcome": "ok"
       }
     ],
@@ -51803,6 +51848,288 @@
         "observedAt": "2026-09-20T23:30:22.331Z",
         "checkedAt": "2026-09-20T23:30:22.331Z",
         "contentHash": "3e33d4b89d1ea6a056f8d276444c38101629644c99cd48c8a5feb9143400f8f6",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "lv-v29-03f077y84",
+    "name": "Latvia University of Life Sciences and Technologies",
+    "country": "LV",
+    "city": "Jelgava",
+    "ror": "https://ror.org/03f077y84",
+    "officialUrl": "https://www.lbtu.lv",
+    "domains": [
+      "lbtu.lv"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lbtu.lv/en/information_technologies",
+        "type": "masters",
+        "label": "MSc Information Technologies",
+        "observedAt": "2026-09-21T01:00:36.908Z",
+        "checkedAt": "2026-09-21T01:00:36.908Z",
+        "contentHash": "95f3efbb83cb246fb2bf0763465122b09df5db07be901b07427a4c0dc516451b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lbtu.lv/lv/magistra-studijas/informacijas-tehnologijas",
+        "type": "masters",
+        "label": "Ficha y plazas publicadas en letón · MSc Information Technologies",
+        "observedAt": "2026-09-20T10:39:54.554Z",
+        "checkedAt": "2026-09-20T10:39:54.554Z",
+        "contentHash": "b59a1fdedcd140a224a610e483f962f131c5a1d220506f1a8a034499d140d59e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lbtu.lv/sites/default/files/2026-08/Mgr_plans_26_27_ENG.pdf",
+        "type": "masters",
+        "label": "Plan de estudios 2026/27 · MSc Information Technologies",
+        "observedAt": "2026-09-21T01:07:34.071Z",
+        "checkedAt": "2026-09-21T01:07:34.071Z",
+        "contentHash": "ebaf9e4d5590174db8e0c31d96ec76f5c0bc4b81c06ee4850cc0aed73529f717",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lbtu.lv/en/master-study-programmes",
+        "type": "masters",
+        "label": "Catálogo actual y tamaño mínimo del grupo · MSc Geoinformatics and Remote Sensing",
+        "observedAt": "2026-09-21T00:59:45.335Z",
+        "checkedAt": "2026-09-21T00:59:45.335Z",
+        "contentHash": "bdfa500766d03f1cfafe3047cacfa1e07612bc7dd554479e23def723331ad5ec",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lbtu.lv/en/article/2023-05-03/geoinformatics-and-remote-sensing",
+        "type": "masters",
+        "label": "MSc Geoinformatics and Remote Sensing",
+        "observedAt": "2026-09-21T01:00:38.867Z",
+        "checkedAt": "2026-09-21T01:00:38.867Z",
+        "contentHash": "313cc3ce3ab9b6d717f48ece726fc9403bd307e0da9ab3ebe137ffdef2a159ab",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.lbtu.lv/lv/magistra-studijas/jaunums-geoinformatika-un-talizpete",
+        "type": "masters",
+        "label": "Ruta publicada en letón · MSc Geoinformatics and Remote Sensing",
+        "observedAt": "2026-09-19T23:33:08.820Z",
+        "checkedAt": "2026-09-19T23:33:08.820Z",
+        "contentHash": "cb6444e535c868ae60bc83ba2bde13ea221f525536de0db9411c413182fe5e3c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://apply.llu.lv/courses/course/52-master-geoinformatic-and-remote-sensing",
+        "type": "masters",
+        "label": "Requisitos, tasas y estado de admisión internacional · MSc Geoinformatics and Remote Sensing",
+        "observedAt": "2026-09-21T01:07:36.045Z",
+        "checkedAt": "2026-09-21T01:07:36.045Z",
+        "contentHash": "50a0d5dc8c197f7e0e47e5e8315f7e7f6e680f8d70c9eaf841a2a8ad82344e02",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "lv-v29-01628w679",
+    "name": "Transport and Telecommunication Institute",
+    "country": "LV",
+    "city": "Riga",
+    "ror": "https://ror.org/01628w679",
+    "officialUrl": "http://www.tsi.lv/",
+    "domains": [
+      "tsi.lv"
+    ],
+    "sources": [
+      {
+        "url": "https://tsi.lv/study_programmes/computer-sciences-master/",
+        "type": "masters",
+        "label": "Computer Science — Software Engineering / Data Analytics and Artificial Intelligence",
+        "observedAt": "2026-09-20T11:07:27.177Z",
+        "checkedAt": "2026-09-20T11:07:27.177Z",
+        "contentHash": "38e3b530e3b8f08266e622f2802f7ef8dfb3307964d7d3447870709f9de3663e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/",
+        "type": "masters",
+        "label": "Ruta de doble titulación con UWE · Computer Science — Software Engineering / Data Analytics and Artificial Intelligence",
+        "observedAt": "2026-09-21T00:28:34.948Z",
+        "checkedAt": "2026-09-21T00:28:34.948Z",
+        "contentHash": "08630c2f59b33de4116571caad9d578824be9fdb7b071b79be04d62bc5c72685",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/wp-content/uploads/2025/11/uznemsanas-noteikumi-2026-2027_eng-.pdf",
+        "type": "masters",
+        "label": "Denominación anterior y requisitos generales 2026/27 · págs. 1, 14 · Smart Electronic Systems and Robotics",
+        "observedAt": "2026-09-21T00:45:50.427Z",
+        "checkedAt": "2026-09-21T00:45:50.427Z",
+        "contentHash": "7c28594b23e6be2c3b0b339be3d468a8cc74bc6889613fe5dbbedacc02263acd",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/future-students/admission/",
+        "type": "masters",
+        "label": "Calendario general de admisión · Smart Electronic Systems and Robotics",
+        "observedAt": "2026-09-21T00:33:58.920Z",
+        "checkedAt": "2026-09-21T00:33:58.920Z",
+        "contentHash": "9b10bd4907c8ebbab8fe5ac779600908a68318710b2391e26cc53a1f6669293a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/study_programmes/management-of-information-systems/",
+        "type": "masters",
+        "label": "Management of Information Systems",
+        "observedAt": "2026-09-21T00:28:38.191Z",
+        "checkedAt": "2026-09-21T00:28:38.191Z",
+        "contentHash": "df3a51c0961370dadb68ce00f99e6a8b25441ed1e8c7de257aeb38506d84e2ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/study_programmes/double-degree-in-management-of-information-systems-it-project-management/",
+        "type": "masters",
+        "label": "Ruta de doble titulación con UWE · Management of Information Systems",
+        "observedAt": "2026-09-21T00:28:42.169Z",
+        "checkedAt": "2026-09-21T00:28:42.169Z",
+        "contentHash": "37775ce4490042adf51b0181c913238f4464587310ad22b7b28c559df7498044",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/study_programmes/computer-engineering-and-electronics/",
+        "type": "masters",
+        "label": "Smart Electronic Systems and Robotics",
+        "observedAt": "2026-09-21T00:45:52.527Z",
+        "checkedAt": "2026-09-21T00:45:52.527Z",
+        "contentHash": "10a373eff6792c3550ccbd46384e6855213f4d53e48b9489ab05f0544d983900",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/study_programmes/double-degree-in-robotics-and-artificial-intelligence/",
+        "type": "masters",
+        "label": "Ruta de doble titulación en robótica e IA · Smart Electronic Systems and Robotics",
+        "observedAt": "2026-09-21T00:30:08.508Z",
+        "checkedAt": "2026-09-21T00:30:08.508Z",
+        "contentHash": "45ddc3401ee5f6dfc9c67e343733e6c44b0bf3447cbcd43bfc16cb0a0aa9c198",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/study_programmes/telematics-and-logistics/",
+        "type": "phd",
+        "label": "PhD Telematics and Logistics",
+        "observedAt": "2026-09-21T01:09:03.069Z",
+        "checkedAt": "2026-09-21T01:09:03.069Z",
+        "contentHash": "c0e2bc6566721071fd6091136ebefbd95fe9cb4b660e87d5d20eed0002a64845",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/wp-content/uploads/2025/11/uznemsanas-noteikumi_doktora-studiju-programmas-eng-.pdf",
+        "type": "phd",
+        "label": "Normas de admisión doctoral 2026/27 · págs. 1, 2, 3, 4, 5 · PhD Telematics and Logistics",
+        "observedAt": "2026-09-21T01:07:32.077Z",
+        "checkedAt": "2026-09-21T01:07:32.077Z",
+        "contentHash": "69df4716ac2841e7f88df0c7bd681f9278e15562774a073d7c0ec4f306922595",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/future-students/loyalty-grants/discounts-and-grants-from-tsi/tsi-grants-for-doctoral-students/",
+        "type": "funding",
+        "label": "TSI PhD Grants — descuento para Telematics and Logistics",
+        "observedAt": "2026-09-21T01:07:29.359Z",
+        "checkedAt": "2026-09-21T01:07:29.359Z",
+        "contentHash": "4bc477475a87bbc4f0683c27108aef31fd6075b36faed5315278032b4e69557e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/wp-content/uploads/2026/04/phd-grant-regulation-2026.pdf",
+        "type": "funding",
+        "label": "Bases de la ayuda doctoral 2026 · págs. 1, 2, 5 · TSI PhD Grants — descuento para Telematics and Logistics",
+        "observedAt": "2026-09-21T01:09:02.270Z",
+        "checkedAt": "2026-09-21T01:09:02.270Z",
+        "contentHash": "5536f5755bb3397d28e634b0bc225d22739e4137fa116cadc374d42830bd0a24",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/wp-content/uploads/2026/03/atlaides_pielikums_03.2026_eng.pdf",
+        "type": "funding",
+        "label": "TSI — descuentos de matrícula por mérito, situación personal y vinculación",
+        "observedAt": "2026-09-21T00:45:51.644Z",
+        "checkedAt": "2026-09-21T00:45:51.644Z",
+        "contentHash": "a3a4bf4dddfac08d647c7f85c2198b5b1a5d9138294059261ac8fea72283923a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/future-students/loyalty-grants/",
+        "type": "funding",
+        "label": "Resumen general con alcance geográfico discrepante · TSI PhD Grants — descuento para Telematics and Logistics",
+        "observedAt": "2026-09-21T01:00:41.338Z",
+        "checkedAt": "2026-09-21T01:00:41.338Z",
+        "contentHash": "9b946ec85afb555d04741e20f660cbd9e6f93bc26767d626cb5961f5efaf5c41",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://tsi.lv/events/scholarship-for-masters-studies-apply-now/",
+        "type": "funding",
+        "label": "Última convocatoria concreta revisada — 2025 · TSI — becas competitivas de matrícula para máster",
+        "observedAt": "2026-09-21T00:59:49.133Z",
+        "checkedAt": "2026-09-21T00:59:49.133Z",
+        "contentHash": "5249d5267cd39f9a0518bcaff03c47a889e70988d82c16e1fcec5e0b0f8fa449",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "lv-v29-03sc6wx59",
+    "name": "Ventspils University of Applied Sciences",
+    "country": "LV",
+    "city": "Ventspils",
+    "ror": "https://ror.org/03sc6wx59",
+    "officialUrl": "https://www.venta.lv",
+    "domains": [
+      "venta.lv"
+    ],
+    "sources": [
+      {
+        "url": "https://en.venta.lv/program/computer-science-ma",
+        "type": "funding",
+        "label": "Máster elegible y acceso a plazas estatales · Ventspils — beca académica para estudiantes en plazas estatales",
+        "observedAt": "2026-09-21T00:59:47.813Z",
+        "checkedAt": "2026-09-21T00:59:47.813Z",
+        "contentHash": "882c6a9b23431779415c0f0041199917d3141c029058a74d7a705c75c61401db",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.venta.lv/program/datorzinatnes-magistrs",
+        "type": "masters",
+        "label": "Versión letona del programa · MSc Computer Science",
+        "observedAt": "2026-09-19T21:55:04.453Z",
+        "checkedAt": "2026-09-19T21:55:04.453Z",
+        "contentHash": "1e5af56b03ee1d57e467032240689de04f20b657c25f9eae88fcb107da87625a",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.venta.lv/join-us/terms-of-admission",
+        "type": "masters",
+        "label": "Admisión internacional con discrepancia de curso · MSc Computer Science",
+        "observedAt": "2026-09-21T00:30:02.873Z",
+        "checkedAt": "2026-09-21T00:30:02.873Z",
+        "contentHash": "051a3e8adf8befade9064dbae93062caf29a7c5a2870571faa4bcb32d9a04732",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.venta.lv/stipendijas",
+        "type": "funding",
+        "label": "Ventspils — beca académica para estudiantes en plazas estatales",
+        "observedAt": "2026-09-19T23:08:46.831Z",
+        "checkedAt": "2026-09-19T23:08:46.831Z",
+        "contentHash": "7473280d3912467c0e1b07e28bdbe4b5a8b2d59a67652cda021618014561fabb",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://en.venta.lv/join-us/scholarships-and-reduced-tuition-fees",
+        "type": "funding",
+        "label": "Condiciones publicadas en inglés · Ventspils — beca académica para estudiantes en plazas estatales",
+        "observedAt": "2026-09-21T01:07:28.300Z",
+        "checkedAt": "2026-09-21T01:07:28.300Z",
+        "contentHash": "e16a9820ce142e5cd0c6fc5d3091402b1c5643a20aaef6766dbfb3c0b66fb109",
         "accessOutcome": "ok"
       }
     ]
