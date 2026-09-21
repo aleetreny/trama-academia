@@ -33,7 +33,7 @@ GitHub Actions comprueba y publica `main`. El refresco semanal ejecuta su propia
 
 ## Contexto local y contexto de GitHub
 
-La carpeta local completa está en `~/Documents/Codex/Trama Academia`. Incluye Git, dependencias, cachés, evidencia de investigación, archivos congelados y configuraciones privadas. La ruta anterior se conserva como enlace de compatibilidad; no es una segunda copia. El traslado mantuvo los 22 árboles de trabajo y sus commits; comprobación en `work/relocation-2026-09-21.json`.
+La carpeta local completa está en `~/Documents/ChatGPT/Trama Academia`. Incluye Git, dependencias, cachés, evidencia de investigación, archivos congelados y configuraciones privadas. Las rutas anteriores bajo `Documents/Codex` se conservan como enlaces de compatibilidad; no son copias adicionales. El traslado mantuvo los 22 árboles de trabajo y sus commits; comprobación en `work/relocation-chatgpt-2026-09-21.json`.
 
 GitHub contiene código, instantáneas públicas, cola reanudable, pruebas y documentación suficiente para construir la web y continuar su desarrollo. **Un clon no contiene toda la investigación privada local ni la conversación completa.** `work/`, `.cache/`, archivos de entorno y notas locales están excluidos deliberadamente. Para seguir desde este ordenador, vincular el proyecto a la carpeta completa; no copiar únicamente los archivos versionados.
 
