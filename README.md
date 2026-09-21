@@ -80,6 +80,7 @@ El flujo de CI verifica las pruebas, los tipos, las fichas exportadas y los pres
 
 ## Documentación
 
+- [Continuidad y trabajo pendiente](docs/continuation.md): punto de entrada para otro agente, prioridades, decisiones vigentes y contexto local disponible.
 - [Guía de presentación](docs/presentation.md): recorrido breve por el producto, cifras de esta edición y límites de cobertura.
 - [Cierre de Grecia](docs/greece-closing-review-2026-09-21.md): cinco másteres, tres familias de financiación y un anuncio docente; nueve fichas nuevas contrastadas con 26 documentos oficiales.
 - [Operación y publicación](docs/operations.md): entorno, actualización semanal, estados, credenciales, diagnóstico y despliegue.
