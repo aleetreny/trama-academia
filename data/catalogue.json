@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:08:58.072Z",
+  "generatedAt": "2026-09-21T05:27:43.275Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -194512,6 +194512,945 @@
           "closed-admission"
         ]
       }
+    },
+    {
+      "url": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+      "title": "PhD Computer Science and Engineering",
+      "institution": "University of Ioannina",
+      "city": "Ioannina",
+      "country": "GR",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "languages": [
+        "Griego",
+        "Inglés"
+      ],
+      "duration": "3–6 años; ampliación motivada hasta 8 años",
+      "entry": "Máster afín o título integrado de nivel máster; estudiantes que están terminando pueden solicitar, pero deben obtener el título antes de ser admitidos. Proponer supervisor, tema e idioma de tesis, aportar expediente, CV, al menos dos referencias adicionales a la del supervisor propuesto y una declaración de intereses. Entrevista y acreditación de buen inglés. Sin certificado, el reglamento prevé un examen de traducción de texto técnico al griego. Los títulos extranjeros requieren reconocimiento o comprobación institucional.",
+      "feeNote": "La documentación revisada no fija una tarifa doctoral. Becas y puestos remunerados sujetos a disponibilidad y selección; la admisión no garantiza financiación.",
+      "researchNote": "Investigación doctoral original en informática e ingeniería de computadores. El reglamento de junio de 2025 permite tesis en griego o inglés y exige evaluación de progreso. Pueden imponerse entre uno y cuatro cursos durante los tres primeros semestres. La página griega anuncia solicitudes del 1 de septiembre de 2026 al 28 de febrero de 2027. Su normativa vigente sustituye los requisitos del reglamento inglés de 2022; la página inglesa conserva una convocatoria de 2024.",
+      "id": "0c787fd09883ef6069cc",
+      "applyUrl": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+      "sourceId": "programme-0c787fd09883ef6069cc",
+      "sourceName": "University of Ioannina",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T04:22:14.924Z",
+      "seenAt": "2026-09-21T04:33:01.883Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a8fd444d313e109c9d7bdd8a9dbe9a033e90bfdf00557372323c7c94a8f0ec07",
+        "checkedUrl": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+        "references": [
+          {
+            "url": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T04:33:01.883Z",
+            "contentHash": "a8fd444d313e109c9d7bdd8a9dbe9a033e90bfdf00557372323c7c94a8f0ec07"
+          },
+          {
+            "url": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+            "label": "Reglamento doctoral de junio de 2025: acceso, duración y financiación · págs. 1, 2, 3, 4, 7, 8",
+            "checkedAt": "2026-09-21T04:34:19.065Z",
+            "contentHash": "7e862a702d0d40f79ff24bc73adc2d62b2750d83162a87673a21ed1717b75c5d",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              7,
+              8
+            ]
+          },
+          {
+            "url": "https://www.cse.uoi.gr/studies/doctoral-studies/?lang=en",
+            "label": "Descripción inglesa del área; convocatoria y requisitos antiguos",
+            "checkedAt": "2026-09-21T04:22:14.924Z",
+            "contentHash": "b3e4135d7a29cf41edae22310f091c7700640d306424b2a8cb6b309c8e3c58bf"
+          }
+        ],
+        "checks": [
+          "current-admission-window",
+          "current-call-linked",
+          "current-regulation",
+          "entry",
+          "duration",
+          "language",
+          "conditional-funding"
+        ]
+      }
+    },
+    {
+      "url": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+      "title": "PhD Electrical and Computer Engineering — investigación en informática",
+      "institution": "University of Thessaly",
+      "city": "Volos",
+      "country": "GR",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "languages": [
+        "Griego",
+        "Inglés"
+      ],
+      "duration": "3–6 años ordinarios; prórroga sujeta a aprobación",
+      "entry": "Máster o título integrado afín de cinco años y 300 ECTS. Acreditación de inglés al menos B2 o equivalente, con exención para titulaciones universitarias extranjeras cursadas en inglés. Expedientes, CV, propuesta de investigación, al menos dos referencias y entrevista. Acordar un tema de informática y su supervisión en el departamento.",
+      "feeNote": "Estudios doctorales gratuitos según el reglamento de abril de 2025. La admisión no equivale a un contrato ni garantiza una beca.",
+      "researchNote": "Tesis original en griego o inglés con defensa pública. Antes de defender se exigen al menos dos publicaciones en revistas internacionales de calidad o congresos de excelencia, con la autoría prevista en el reglamento. Puede asignarse apoyo docente de hasta seis horas semanales. La página anuncia ventanas generales de solicitud del 1 de julio al 30 de septiembre y del 1 de noviembre al 30 de enero, además de convocatorias específicas. El PDF reúne dos reglamentos: esta ficha utiliza únicamente las páginas 1–6 de ingeniería, no las de Economía.",
+      "id": "7f8add5ffbded9f85662",
+      "applyUrl": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+      "sourceId": "programme-7f8add5ffbded9f85662",
+      "sourceName": "University of Thessaly",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T04:22:24.642Z",
+      "seenAt": "2026-09-21T04:22:24.642Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "bd67aaf9514fb94976a9d1cee9b5d6a2d1b682c9acf19fa6d1c8656bbd5bd10e",
+        "checkedUrl": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+        "references": [
+          {
+            "url": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T04:22:24.642Z",
+            "contentHash": "bd67aaf9514fb94976a9d1cee9b5d6a2d1b682c9acf19fa6d1c8656bbd5bd10e"
+          },
+          {
+            "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/phd-studies/KanonismosDD_2025.pdf",
+            "label": "Reglamento doctoral de ingeniería: abril de 2025 · págs. 1, 2, 3, 4, 5, 6",
+            "checkedAt": "2026-09-21T04:25:05.796Z",
+            "contentHash": "a63a60f8c21c7c5b9576cbf6215cd4ecbd79392ed3493ba4b9dda47efc21c1df",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "url": "https://www.e-ce.uth.gr/studies/subject-areas/?lang=en",
+            "label": "Áreas de informática del departamento y continuidad doctoral",
+            "checkedAt": "2026-09-21T04:41:53.999Z",
+            "contentHash": "693a03944ecd1ded01efa1bc28fe724a5aaa452da44221b428d989908261ebc6"
+          }
+        ],
+        "checks": [
+          "admission-windows",
+          "entry",
+          "fees",
+          "duration",
+          "publications",
+          "teaching",
+          "departmental-computing-route"
+        ]
+      }
+    },
+    {
+      "url": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+      "title": "Ioannina Computer Science and Engineering — becas y puestos remunerados",
+      "institution": "University of Ioannina",
+      "city": "Ioannina",
+      "country": "GR",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "eligibleStages": [
+        "doctorado",
+        "master"
+      ],
+      "entry": "Estudiantes del departamento: prioridad a doctorandos y después a estudiantes de máster, salvo condiciones distintas de la entidad financiadora. Para doctorandos, solicitud escrita con firma del supervisor. Entre quienes cursan el primer año doctoral, prioridad por nota de máster o título integrado; los empates siguen las reglas del artículo 12.",
+      "duration": "Doctorado: normalmente un semestre, renovable por otro según rendimiento y financiador",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Becas o puestos remunerados cuando existan fondos; importe y plazas por convocatoria, sin concesión automática."
+      },
+      "researchNote": "El artículo 12 del reglamento de 2025 establece la selección y la renovación, pero no anuncia una convocatoria financiada concreta. La remuneración por tareas de apoyo corresponde a trabajo adicional a las obligaciones ordinarias del doctorado. No debe confundirse la obligación de apoyo docente con un contrato garantizado. Para máster, el artículo 11 del reglamento de 2023 exige haber completado entre uno y cuatro semestres y estar al día en las obligaciones; la clasificación depende del rendimiento académico.",
+      "id": "fa8c4b1d888a42ffca8a",
+      "applyUrl": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+      "sourceId": "programme-fa8c4b1d888a42ffca8a",
+      "sourceName": "University of Ioannina",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T04:33:01.883Z",
+      "seenAt": "2026-09-21T04:34:19.065Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7e862a702d0d40f79ff24bc73adc2d62b2750d83162a87673a21ed1717b75c5d",
+        "checkedUrl": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+        "references": [
+          {
+            "url": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+            "label": "Artículo 12: disponibilidad, prioridad, solicitud y renovación · págs. 1, 7, 8",
+            "checkedAt": "2026-09-21T04:34:19.065Z",
+            "contentHash": "7e862a702d0d40f79ff24bc73adc2d62b2750d83162a87673a21ed1717b75c5d",
+            "pages": [
+              1,
+              7,
+              8
+            ]
+          },
+          {
+            "url": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+            "label": "Departamento y programa doctoral vigente",
+            "checkedAt": "2026-09-21T04:33:01.883Z",
+            "contentHash": "a8fd444d313e109c9d7bdd8a9dbe9a033e90bfdf00557372323c7c94a8f0ec07"
+          },
+          {
+            "url": "https://www.cse.uoi.gr/wp-content/uploads/2023/02/%CE%95%CF%83%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8C%CF%82-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CE%A0%CE%9C%CE%A3-2023.pdf",
+            "label": "Artículo 11: selección de estudiantes de máster · págs. 10",
+            "checkedAt": "2026-09-21T04:42:48.835Z",
+            "contentHash": "f1a1e3075489935cb93c7b4062dde4f50da9e62fe12e3241b52bc1cb47f9087e",
+            "pages": [
+              10
+            ]
+          }
+        ],
+        "checks": [
+          "availability-priority",
+          "selection",
+          "renewal",
+          "additional-paid-work",
+          "master-selection"
+        ]
+      }
+    },
+    {
+      "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+      "institution": "University of Thessaly",
+      "title": "MSc Science and Technology of Electrical and Computer Engineering",
+      "country": "GR",
+      "city": "Volos",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "languages": [
+        "Griego",
+        "Inglés"
+      ],
+      "duration": "2 semestres · 60 ECTS; máximo ordinario de 6 semestres",
+      "entry": "Grado en ingeniería, informática o ciencias afines; otras especialidades pueden admitirse excepcionalmente si acreditan preparación suficiente. Se valoran expediente, asignaturas relevantes, trabajo final, referencias y entrevista. Quienes aún terminan el grado deben acreditar su obtención antes de matricularse. Confirmar la acreditación lingüística y el idioma efectivo de las asignaturas elegidas.",
+      "feeNote": "2.000 EUR según el reglamento y la guía enlazados actualmente: 1.500 EUR por seis asignaturas y 500 EUR por la tesis. Exenciones bajo los requisitos aplicables y posibles becas por mérito; confirmar las condiciones de la cohorte.",
+      "researchNote": "Tesis obligatoria de 15 ECTS con propuesta, supervisor y defensa pública ante tres examinadores, tras al menos tres meses de trabajo. El resto son 45 ECTS de asignaturas. Las opciones de informática incluyen algoritmos, software, computación distribuida, minería de datos e inteligencia artificial; su oferta depende del semestre. El reglamento permite enseñanza y tesis en griego o inglés. La guía vigente y la página griega exigen tesis, aunque la página inglesa antigua aún describe una vía de ocho asignaturas sin ella. Hay obligaciones de apoyo docente; no implican remuneración automática.",
+      "id": "d48d9b1cb8b96a4a98b0",
+      "applyUrl": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+      "sourceId": "programme-d48d9b1cb8b96a4a98b0",
+      "sourceName": "University of Thessaly",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T04:36:19.399Z",
+      "seenAt": "2026-09-21T04:36:19.399Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "903679a4cfe485fce0f3beb0f5bb438ac8cea05d923a7857eed75b58f3df0c1b",
+        "checkedUrl": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+        "method": "official-programme-page",
+        "researchUrl": "https://ece-msc.e-ce.uth.gr/kanonismoi/%CE%915-%CE%9F%CE%94-%CE%A3%CE%A0%CE%9F%CE%A5%CE%94%CE%A9%CE%9D-%CE%95%CE%A4%CE%97%CE%9C%CE%9C%CE%A5-EN.pdf",
+        "references": [
+          {
+            "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T04:36:19.399Z",
+            "contentHash": "903679a4cfe485fce0f3beb0f5bb438ac8cea05d923a7857eed75b58f3df0c1b"
+          },
+          {
+            "url": "https://ece-msc.e-ce.uth.gr/kanonismoi/%CE%915-%CE%9F%CE%94-%CE%A3%CE%A0%CE%9F%CE%A5%CE%94%CE%A9%CE%9D-%CE%95%CE%A4%CE%97%CE%9C%CE%9C%CE%A5-EN.pdf",
+            "label": "Guía del programa: tesis obligatoria, matrícula y créditos · págs. 5, 6, 8, 9, 10, 11, 13, 14",
+            "checkedAt": "2026-09-21T04:42:49.966Z",
+            "contentHash": "cffd972dc10d8aa765bf518ad4cc1e2ef013e2752d6bb7b320b3a06c32516880",
+            "pages": [
+              5,
+              6,
+              8,
+              9,
+              10,
+              11,
+              13,
+              14
+            ]
+          },
+          {
+            "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+            "label": "Reglamento vigente enlazado por el departamento · págs. 5, 8, 9, 10, 11, 12, 14",
+            "checkedAt": "2026-09-21T04:40:59.957Z",
+            "contentHash": "c40aa0491dd9d640b44e91e05f49e203f8a3db239c279faeff1117063d4e3488",
+            "pages": [
+              5,
+              8,
+              9,
+              10,
+              11,
+              12,
+              14
+            ]
+          },
+          {
+            "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/courses/?lang=en",
+            "label": "Asignaturas de informática e inteligencia artificial",
+            "checkedAt": "2026-09-21T04:36:21.316Z",
+            "contentHash": "a7ea7b98c04da691c20d91da86362ae64cbf9ee6b00df9af4003eee259e29003"
+          }
+        ],
+        "checks": [
+          "compulsory-research",
+          "tuition",
+          "credits-language",
+          "duration",
+          "entry",
+          "computing-options"
+        ]
+      }
+    },
+    {
+      "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+      "institution": "University of Thessaly",
+      "title": "Thessaly Electrical and Computer Engineering MSc — becas de mérito",
+      "country": "GR",
+      "city": "Volos",
+      "kind": "funding-programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "eligibleStages": [
+        "master"
+      ],
+      "entry": "Estudiantes del MSc Science and Technology of Electrical and Computer Engineering que pagan matrícula. Selección por rendimiento durante el máster y disponibilidad económica; no se concede a quienes ya tienen otra beca ni a quienes ingresaron exentos de matrícula.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Becas por mérito de cuantía y cupo determinados por el departamento, sujetas a fondos disponibles."
+      },
+      "researchNote": "Son ayudas competitivas durante los estudios, no financiación garantizada al acceder. El departamento puede exigir tareas específicas a los beneficiarios. Se distinguen de las exenciones por criterios económicos o sociales y de una posible remuneración por participación en proyectos de investigación.",
+      "id": "4837dd7627d5f5e0fa9e",
+      "applyUrl": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+      "sourceId": "programme-4837dd7627d5f5e0fa9e",
+      "sourceName": "University of Thessaly",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T04:40:59.957Z",
+      "seenAt": "2026-09-21T04:40:59.957Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "c40aa0491dd9d640b44e91e05f49e203f8a3db239c279faeff1117063d4e3488",
+        "checkedUrl": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+        "references": [
+          {
+            "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+            "label": "Reglamento: becas, incompatibilidades y tareas · págs. 1, 25",
+            "checkedAt": "2026-09-21T04:40:59.957Z",
+            "contentHash": "c40aa0491dd9d640b44e91e05f49e203f8a3db239c279faeff1117063d4e3488",
+            "pages": [
+              1,
+              25
+            ]
+          },
+          {
+            "url": "https://ece-msc.e-ce.uth.gr/kanonismoi/%CE%915-%CE%9F%CE%94-%CE%A3%CE%A0%CE%9F%CE%A5%CE%94%CE%A9%CE%9D-%CE%95%CE%A4%CE%97%CE%9C%CE%9C%CE%A5-EN.pdf",
+            "label": "Máster con tesis y posibles ayudas económicas · págs. 8, 10, 11",
+            "checkedAt": "2026-09-21T04:42:49.966Z",
+            "contentHash": "cffd972dc10d8aa765bf518ad4cc1e2ef013e2752d6bb7b320b3a06c32516880",
+            "pages": [
+              8,
+              10,
+              11
+            ]
+          }
+        ],
+        "checks": [
+          "merit-and-budget",
+          "incompatibilities",
+          "conditions"
+        ]
+      }
+    },
+    {
+      "url": "https://actuarial.unipi.gr/",
+      "institution": "University of Piraeus",
+      "title": "MSc Actuarial Science and Risk Management",
+      "country": "GR",
+      "city": "Piraeus",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Estadística"
+      ],
+      "languages": [
+        "Griego"
+      ],
+      "duration": "3 semestres completos o 5 parciales · 90 ECTS",
+      "entry": "Titulación universitaria de primer ciclo o TEI afín, con comprobación de títulos extranjeros. También pueden solicitar quienes terminen el grado antes de concluir la convocatoria de exámenes de septiembre. Expediente, CV, dos referencias, inglés B2 y entrevista. La selección valora notas de estadística, probabilidad y ciencia actuarial.",
+      "feeNote": "6.500 EUR en total según el reglamento de 2023 actualmente enlazado: 2.200 + 2.200 + 2.100 EUR a tiempo completo, o cinco pagos de 1.300 EUR a tiempo parcial. Confirmar tarifa de la cohorte; becas de mérito durante el programa sujetas a selección.",
+      "researchNote": "Tesis de 18 ECTS y formación en métodos estadísticos, modelos de supervivencia y modelos financieros estocásticos. Supervisión y evaluación ante un comité. Enseñanza y tesis normalmente en griego; el departamento puede autorizar inglés para determinadas asignaturas y para la tesis. Las modalidades completa y parcial están agrupadas. El registro nacional consultado no anuncia una convocatoria abierta.",
+      "id": "28c51452ebebe6deb5d8",
+      "applyUrl": "https://actuarial.unipi.gr/",
+      "sourceId": "programme-28c51452ebebe6deb5d8",
+      "sourceName": "University of Piraeus",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:42:15.307Z",
+      "seenAt": "2026-09-21T03:42:15.307Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "82dd30fbc11b2b7d9da4d72eea10b27eb001a4dfe861b4b306abc1e5c81e5fe5",
+        "checkedUrl": "https://actuarial.unipi.gr/",
+        "method": "official-programme-page",
+        "researchUrl": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+        "references": [
+          {
+            "url": "https://actuarial.unipi.gr/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T03:42:15.307Z",
+            "contentHash": "82dd30fbc11b2b7d9da4d72eea10b27eb001a4dfe861b4b306abc1e5c81e5fe5"
+          },
+          {
+            "url": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+            "label": "Reglamento 2023/24 en adelante: acceso, tesis y matrícula · págs. 4, 5, 6, 7, 8, 9, 10, 11, 12",
+            "checkedAt": "2026-09-21T04:32:41.325Z",
+            "contentHash": "d159b2c38a14c8a4027bfbb9088fbc4de250e91e6389f3c154e8859ed0e4c0bf",
+            "pages": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "url": "https://studies.minedu.gov.gr/program/909/master/actuarial-science-and-risk-management/",
+            "label": "Registro oficial: identidad, idioma, matrícula y estado de admisión",
+            "checkedAt": "2026-09-21T04:47:57.652Z",
+            "contentHash": "079e34a034942072d86d22a822ad71fb904ff96d943a78262ca307209ea6e964"
+          }
+        ],
+        "checks": [
+          "tuition",
+          "thesis-credits",
+          "entry",
+          "programme-language"
+        ]
+      }
+    },
+    {
+      "url": "https://mefast.unipi.gr/",
+      "institution": "University of Piraeus",
+      "title": "MSc Applied Statistics",
+      "country": "GR",
+      "city": "Piraeus",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Estadística"
+      ],
+      "languages": [
+        "Griego"
+      ],
+      "duration": "3 semestres completos o 5 parciales · 90 ECTS",
+      "entry": "Grado universitario reconocido o TEI afín; admite perfiles de estadística, matemáticas, informática y otras áreas enumeradas en el reglamento. Expediente, CV, referencias, inglés B2 y entrevista; títulos extranjeros sujetos a comprobación. La modalidad parcial requiere justificar empleo u otras circunstancias contempladas por el programa.",
+      "feeNote": "5.400 EUR en total: tres semestres de 1.800 EUR o cinco de 1.080 EUR según el reglamento enlazado y el catálogo nacional. Confirmar los importes de la cohorte. Existen becas por rendimiento y exenciones sujetas a requisitos.",
+      "researchNote": "Tesis obligatoria de 18 ECTS, con supervisor y defensa ante tres examinadores. El plan incluye regresión, análisis de datos, modelos lineales generalizados y optativas estadísticas. La tesis se escribe en griego, con posibilidad de inglés previa autorización. La web nacional no anuncia convocatoria abierta en la revisión; consultar el próximo plazo institucional.",
+      "id": "48834f0c9143228f067d",
+      "applyUrl": "https://mefast.unipi.gr/",
+      "sourceId": "programme-48834f0c9143228f067d",
+      "sourceName": "University of Piraeus",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:42:18.314Z",
+      "seenAt": "2026-09-21T03:42:18.314Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "56b4354d64c38f3b3172562bb5f84c074e2d869a7e5ea437e7438d9aa9970aa0",
+        "checkedUrl": "https://mefast.unipi.gr/",
+        "method": "official-programme-page",
+        "researchUrl": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+        "references": [
+          {
+            "url": "https://mefast.unipi.gr/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T03:42:18.314Z",
+            "contentHash": "56b4354d64c38f3b3172562bb5f84c074e2d869a7e5ea437e7438d9aa9970aa0"
+          },
+          {
+            "url": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+            "label": "Reglamento 2023/24 en adelante: acceso, modalidades, tesis y matrícula · págs. 3, 4, 5, 6, 7, 8, 9, 10",
+            "checkedAt": "2026-09-21T04:32:58.116Z",
+            "contentHash": "2236f9e9897043e203c18ddc4a87e65d94d87132aef63159d003938cf590e8e8",
+            "pages": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "url": "https://studies.minedu.gov.gr/program/910/master/applied-statistics/",
+            "label": "Registro oficial: idioma, créditos y matrícula",
+            "checkedAt": "2026-09-21T04:47:59.258Z",
+            "contentHash": "391147813c59c1a3be45f5c4aac1e1e1b284d42de2827a25817fbf2fc5ddaf99"
+          }
+        ],
+        "checks": [
+          "tuition",
+          "thesis-credits",
+          "entry",
+          "thesis-defence",
+          "registry"
+        ]
+      }
+    },
+    {
+      "url": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+      "institution": "University of Piraeus",
+      "title": "Piraeus Actuarial Science — becas por rendimiento",
+      "country": "GR",
+      "city": "Piraeus",
+      "kind": "funding-programme",
+      "stage": "master",
+      "fields": [
+        "Estadística"
+      ],
+      "eligibleStages": [
+        "master"
+      ],
+      "entry": "Estudiantes de la modalidad completa del MSc Actuarial Science and Risk Management que pagan matrícula, han aprobado todas las asignaturas requeridas del primer año y cursan el tercer semestre. Clasificación por media hasta la convocatoria de septiembre.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Hasta tres exenciones anuales por mérito: 100%, 70% y 50% de la matrícula de un semestre, sujetas a presupuesto."
+      },
+      "researchNote": "El artículo 9.7 del reglamento vigente fija estas ayudas después del primer año. Los empates reparten el importe y el departamento puede modificar porcentajes o no conceder becas según sus recursos. Los porcentajes no se aplican a toda la matrícula del máster y no garantizan financiación de acceso.",
+      "id": "53cd2447eb564b3d7d5c",
+      "applyUrl": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+      "sourceId": "programme-53cd2447eb564b3d7d5c",
+      "sourceName": "University of Piraeus",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:42:15.307Z",
+      "seenAt": "2026-09-21T04:32:41.325Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "d159b2c38a14c8a4027bfbb9088fbc4de250e91e6389f3c154e8859ed0e4c0bf",
+        "checkedUrl": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+        "references": [
+          {
+            "url": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+            "label": "Artículo 9.7: beneficiarios, porcentajes y disponibilidad · págs. 10",
+            "checkedAt": "2026-09-21T04:32:41.325Z",
+            "contentHash": "d159b2c38a14c8a4027bfbb9088fbc4de250e91e6389f3c154e8859ed0e4c0bf",
+            "pages": [
+              10
+            ]
+          },
+          {
+            "url": "https://actuarial.unipi.gr/",
+            "label": "Programa de Actuarial Science and Risk Management",
+            "checkedAt": "2026-09-21T03:42:15.307Z",
+            "contentHash": "82dd30fbc11b2b7d9da4d72eea10b27eb001a4dfe861b4b306abc1e5c81e5fe5"
+          }
+        ],
+        "checks": [
+          "eligible",
+          "award",
+          "conditional"
+        ]
+      }
+    },
+    {
+      "url": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+      "institution": "University of Piraeus",
+      "title": "Piraeus Applied Statistics — becas por rendimiento",
+      "country": "GR",
+      "city": "Piraeus",
+      "kind": "funding-programme",
+      "stage": "master",
+      "fields": [
+        "Estadística"
+      ],
+      "eligibleStages": [
+        "master"
+      ],
+      "entry": "Estudiantes que pagan matrícula del MSc Applied Statistics tras completar el segundo semestre y aprobar al menos ocho asignaturas. Se ordenan por media de las asignaturas aprobadas hasta junio del primer año. La concesión a estudiantes parciales requiere decisión departamental.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Hasta tres ayudas por mérito: 70%, 50% y 30% de la matrícula de un semestre, con porcentajes revisables según presupuesto."
+      },
+      "researchNote": "Ayudas durante el máster reguladas en el artículo 9.7, distintas de las exenciones por situación económica o social. El importe y la concesión dependen de la decisión del departamento; no son becas de manutención ni financiación garantizada al ingresar.",
+      "id": "1c6b5617280b7ace0880",
+      "applyUrl": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+      "sourceId": "programme-1c6b5617280b7ace0880",
+      "sourceName": "University of Piraeus",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:42:18.314Z",
+      "seenAt": "2026-09-21T04:32:58.116Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "2236f9e9897043e203c18ddc4a87e65d94d87132aef63159d003938cf590e8e8",
+        "checkedUrl": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+        "method": "official-programme-page",
+        "researchUrl": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+        "references": [
+          {
+            "url": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+            "label": "Artículo 9.7: selección, porcentajes y modalidad parcial · págs. 8",
+            "checkedAt": "2026-09-21T04:32:58.116Z",
+            "contentHash": "2236f9e9897043e203c18ddc4a87e65d94d87132aef63159d003938cf590e8e8",
+            "pages": [
+              8
+            ]
+          },
+          {
+            "url": "https://mefast.unipi.gr/",
+            "label": "Programa de Applied Statistics",
+            "checkedAt": "2026-09-21T03:42:18.314Z",
+            "contentHash": "56b4354d64c38f3b3172562bb5f84c074e2d869a7e5ea437e7438d9aa9970aa0"
+          }
+        ],
+        "checks": [
+          "selection",
+          "award",
+          "flexibility"
+        ]
+      }
+    },
+    {
+      "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
+      "institution": "University of Ioannina",
+      "title": "MSc Data and Computer Systems Engineering",
+      "country": "GR",
+      "city": "Ioannina",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "languages": [
+        "Griego"
+      ],
+      "duration": "3 semestres · 90 ECTS; máximo ordinario de 5 semestres",
+      "entry": "Grado de ingeniería, informática, ciencias, tecnología o economía entre las titulaciones contempladas. Expediente, CV, dos referencias, declaración de intereses e inglés B2. Sin certificado de inglés, el examen previsto traduce un texto técnico al griego. La comisión puede exigir hasta tres asignaturas previas de informática. Los títulos extranjeros requieren reconocimiento conforme a las condiciones del programa.",
+      "feeNote": "Sin matrícula según el registro oficial del Ministerio. Becas o tareas remuneradas sujetas a fondos disponibles y selección; no se garantiza manutención.",
+      "researchNote": "Tesis obligatoria de 30 ECTS, de investigación o desarrollo técnico original, con supervisor y defensa pública ante tres evaluadores; dura al menos un semestre. Se suman 60 ECTS de cursos, seminarios y prácticas docentes. Las especializaciones Data Science and Engineering y Advanced Computer Systems se agrupan en esta ficha. Se permite tesis en inglés con resumen extenso en griego y algunas clases pueden impartirse en inglés. El programa exige apoyo docente durante al menos dos semestres: no supone remuneración automática. La página griega conserva como activa una convocatoria que cerró el 16 de mayo de 2025; consultar la próxima admisión.",
+      "id": "0d65059ac2310ba29dd2",
+      "applyUrl": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
+      "sourceId": "programme-0d65059ac2310ba29dd2",
+      "sourceName": "University of Ioannina",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T03:39:19.991Z",
+      "seenAt": "2026-09-21T04:34:30.775Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "0f326e6160375ec940268e4055a38f9c7a42d317423c3f09757f62a288d9631d",
+        "checkedUrl": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.cse.uoi.gr/wp-content/uploads/2023/02/%CE%95%CF%83%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8C%CF%82-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CE%A0%CE%9C%CE%A3-2023.pdf",
+        "references": [
+          {
+            "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T04:34:30.775Z",
+            "contentHash": "0f326e6160375ec940268e4055a38f9c7a42d317423c3f09757f62a288d9631d"
+          },
+          {
+            "url": "https://www.cse.uoi.gr/wp-content/uploads/2023/02/%CE%95%CF%83%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8C%CF%82-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CE%A0%CE%9C%CE%A3-2023.pdf",
+            "label": "Reglamento aplicable desde la primavera de 2022/23 · págs. 1, 2, 3, 4, 5, 6, 8, 9, 10, 11",
+            "checkedAt": "2026-09-21T04:42:48.835Z",
+            "contentHash": "f1a1e3075489935cb93c7b4062dde4f50da9e62fe12e3241b52bc1cb47f9087e",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/xrisima-eggrafa-metaptyxiakwn/",
+            "label": "Identificación de la versión vigente del reglamento",
+            "checkedAt": "2026-09-21T04:41:41.223Z",
+            "contentHash": "238a69611049205647b38dd234962c056bf664f7bd99404187d044c30a478061"
+          },
+          {
+            "url": "https://www.cse.uoi.gr/studies/graduate-studies/general/?lang=en",
+            "label": "Descripción inglesa y especializaciones",
+            "checkedAt": "2026-09-21T04:22:00.669Z",
+            "contentHash": "0e8ffa915a781f737532d4ea50cc4fdbbfa0ebd3ce3224d728fed243e2c2e473"
+          },
+          {
+            "url": "https://studies.minedu.gov.gr/el/program-el/1228/master/data-and-computer-systems-engineering/",
+            "label": "Registro oficial: gratuidad, idioma y créditos",
+            "checkedAt": "2026-09-21T03:39:19.991Z",
+            "contentHash": "8bd63ad27ee5bd1465fd047f4bbf4c92635e4989a0bc32e1efecd23bf08455f0"
+          }
+        ],
+        "checks": [
+          "research-thesis",
+          "entry",
+          "duration",
+          "thesis-language",
+          "fees-language-credits",
+          "old-admission-not-current",
+          "specialisations"
+        ]
+      }
+    },
+    {
+      "url": "https://mscis.cs.aueb.gr/el/normal/home",
+      "institution": "Athens University of Economics and Business",
+      "title": "MSc Information Systems Development and Security",
+      "country": "GR",
+      "city": "Athens",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "languages": [
+        "Griego",
+        "Inglés"
+      ],
+      "duration": "3 semestres completos o 21 meses parciales · 90 ECTS",
+      "hours": "Modalidad parcial: dos tardes por semana, normalmente 18:00–21:00",
+      "entry": "Titulación universitaria de primer ciclo reconocida, expediente, CV, dos referencias y declaración de intereses de hasta 300 palabras. La convocatoria exige acreditar buen inglés mediante First Certificate de Cambridge o Michigan, o certificado equivalente. Quienes aún terminan el grado debían obtenerlo en la convocatoria de septiembre de 2026.",
+      "feeNote": "Convocatorias 2026/27: 4.000 EUR a tiempo completo y 5.600 EUR a tiempo parcial, pagaderos en fracciones. Exenciones y becas competitivas según sus condiciones; la modalidad parcial no hereda automáticamente las ayudas de la completa.",
+      "researchNote": "Tesis individual obligatoria de 24 ECTS bajo supervisión, evaluada por supervisor y segundo examinador. Dos especializaciones agrupadas: Intelligent Large-Scale Information Systems Development y Cybersecurity & Digital Infrastructures Protection. La vía completa reserva al menos tres meses para la tesis; en la parcial se realiza junto a las asignaturas. El plan admite docencia y exámenes en griego o inglés: confirmar el idioma efectivo de la cohorte. Ambas últimas convocatorias cerraron el 4 de septiembre de 2026.",
+      "id": "329d839488ca669e5fe9",
+      "applyUrl": "https://mscis.cs.aueb.gr/el/normal/home",
+      "sourceId": "programme-329d839488ca669e5fe9",
+      "sourceName": "Athens University of Economics and Business",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T16:59:38.912Z",
+      "seenAt": "2026-09-20T16:59:38.912Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7ca7c08862737ebece8ed533756fa9d8c719f3b25e39c212bc0df68a9ce0cdc6",
+        "checkedUrl": "https://mscis.cs.aueb.gr/el/normal/home",
+        "method": "official-programme-page",
+        "researchUrl": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+        "references": [
+          {
+            "url": "https://mscis.cs.aueb.gr/el/normal/home",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T16:59:38.912Z",
+            "contentHash": "7ca7c08862737ebece8ed533756fa9d8c719f3b25e39c212bc0df68a9ce0cdc6"
+          },
+          {
+            "url": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+            "label": "Plan completo: tesis, créditos e idiomas",
+            "checkedAt": "2026-09-21T04:25:15.652Z",
+            "contentHash": "6629b7313fa6c31de50f55721a67194eb24d3086d0220bc78b110de5251c1a29"
+          },
+          {
+            "url": "https://mscis.cs.aueb.gr/el/static/partial_study_program",
+            "label": "Plan parcial y trabajo individual supervisado",
+            "checkedAt": "2026-09-21T04:52:32.113Z",
+            "contentHash": "5d892fab4c9d715175d981735ba6da1bd763c5ce00dd83b962713860096c4c1f"
+          },
+          {
+            "url": "https://mscis.cs.aueb.gr/CMS/site/pdf/%CE%A0%CE%9C%CE%A3%20%CE%91%CE%91-%CE%A0%CE%A3%20(FT)%20%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7%202026-27%20%CE%B3%CE%B9%CE%B1%20%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CF%83%CE%B7_2%CE%BF%CF%82%20%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF%CF%82.pdf",
+            "label": "Convocatoria completa 2026/27: matrícula, acceso y cierre · págs. 1, 2",
+            "checkedAt": "2026-09-21T04:52:30.596Z",
+            "contentHash": "47b22a7a29443fc97e0c646da12517d18d0772d65f5fbeae1a200416e06dc745",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://mscis.cs.aueb.gr/CMS/site/pdf/%CE%A0%CE%9C%CE%A3%20%CE%91%CE%91-%CE%A0%CE%A3%20(%20PT)%20%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7%202026-27%20%20%CE%B3%CE%B9%CE%B1%20%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CF%83%CE%B7_2%CE%BF%CF%82%20%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%82.pdf",
+            "label": "Convocatoria parcial 2026/27: duración, horario y matrícula · págs. 1, 2",
+            "checkedAt": "2026-09-21T04:52:31.525Z",
+            "contentHash": "2c9c181aa080a8b1d777ab048f7bb928c91af4fe97e2f8eb93af73afc516966e",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://studies.minedu.gov.gr/el/program-el/1183/master/information-systems/",
+            "label": "Registro nacional y titulación previa",
+            "checkedAt": "2026-09-21T03:39:15.814Z",
+            "contentHash": "504a925d0ea912b05804ccbb7467878e8934deda6c2ef4747641dd3581f6f526"
+          }
+        ],
+        "checks": [
+          "research",
+          "part-time-research",
+          "languages",
+          "full-time-2026",
+          "part-time-2026"
+        ]
+      }
+    },
+    {
+      "url": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+      "institution": "Athens University of Economics and Business",
+      "title": "AUEB Information Systems Development and Security — becas de mérito",
+      "country": "GR",
+      "city": "Athens",
+      "kind": "funding-programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "eligibleStages": [
+        "master"
+      ],
+      "entry": "Estudiantes seleccionados de la modalidad completa. La ayuda de acceso se dirige a titulados con calificación de excelencia; las ayudas por rendimiento consideran las notas de los dos primeros semestres. Recibir la primera no excluye optar a la segunda.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Ayuda de acceso de hasta el 50% de la matrícula para expedientes excelentes, además de ayudas por rendimiento durante el máster."
+      },
+      "researchNote": "La página general establece estas modalidades y la convocatoria 2026/27 confirma que pueden existir becas de excelencia. Las ocho becas de 4.000 EUR que menciona esa convocatoria son un ejemplo del curso anterior 2025/26, no ocho plazas garantizadas para 2026/27. Confirmar cupos, cuantías y convocatoria individual. La ficha corresponde exclusivamente a la modalidad completa.",
+      "id": "731f31933feb6c23f6fe",
+      "applyUrl": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+      "sourceId": "programme-731f31933feb6c23f6fe",
+      "sourceName": "Athens University of Economics and Business",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T04:25:15.652Z",
+      "seenAt": "2026-09-21T04:25:15.652Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6629b7313fa6c31de50f55721a67194eb24d3086d0220bc78b110de5251c1a29",
+        "checkedUrl": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+        "method": "official-programme-page",
+        "researchUrl": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+        "references": [
+          {
+            "url": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T04:25:15.652Z",
+            "contentHash": "6629b7313fa6c31de50f55721a67194eb24d3086d0220bc78b110de5251c1a29"
+          },
+          {
+            "url": "https://mscis.cs.aueb.gr/CMS/site/pdf/%CE%A0%CE%9C%CE%A3%20%CE%91%CE%91-%CE%A0%CE%A3%20(FT)%20%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7%202026-27%20%CE%B3%CE%B9%CE%B1%20%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CF%83%CE%B7_2%CE%BF%CF%82%20%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF%CF%82.pdf",
+            "label": "Convocatoria actual: posibilidades de beca y ejemplo del curso anterior · págs. 1",
+            "checkedAt": "2026-09-21T04:52:30.596Z",
+            "contentHash": "47b22a7a29443fc97e0c646da12517d18d0772d65f5fbeae1a200416e06dc745",
+            "pages": [
+              1
+            ]
+          }
+        ],
+        "checks": [
+          "entry-award",
+          "performance-and-combination",
+          "historic-not-current-quota"
+        ]
+      }
     }
   ],
   "sources": [
@@ -253289,180 +254228,261 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-0c787fd09883ef6069cc",
+      "name": "University of Ioannina · PhD Computer Science and Engineering",
+      "url": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T04:22:14.924Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7f8add5ffbded9f85662",
+      "name": "University of Thessaly · PhD Electrical and Computer Engineering — investigación en informática",
+      "url": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T04:22:24.642Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-fa8c4b1d888a42ffca8a",
+      "name": "University of Ioannina · Ioannina Computer Science and Engineering — becas y puestos remunerados",
+      "url": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "doctorado",
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T04:33:01.883Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d48d9b1cb8b96a4a98b0",
+      "name": "University of Thessaly · MSc Science and Technology of Electrical and Computer Engineering",
+      "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T04:36:19.399Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-4837dd7627d5f5e0fa9e",
+      "name": "University of Thessaly · Thessaly Electrical and Computer Engineering MSc — becas de mérito",
+      "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T04:40:59.957Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-28c51452ebebe6deb5d8",
+      "name": "University of Piraeus · MSc Actuarial Science and Risk Management",
+      "url": "https://actuarial.unipi.gr/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:42:15.307Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-48834f0c9143228f067d",
+      "name": "University of Piraeus · MSc Applied Statistics",
+      "url": "https://mefast.unipi.gr/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:42:18.314Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-53cd2447eb564b3d7d5c",
+      "name": "University of Piraeus · Piraeus Actuarial Science — becas por rendimiento",
+      "url": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:42:15.307Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-1c6b5617280b7ace0880",
+      "name": "University of Piraeus · Piraeus Applied Statistics — becas por rendimiento",
+      "url": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:42:18.314Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-0d65059ac2310ba29dd2",
+      "name": "University of Ioannina · MSc Data and Computer Systems Engineering",
+      "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T03:39:19.991Z",
+        "pages": 5,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-329d839488ca669e5fe9",
+      "name": "Athens University of Economics and Business · MSc Information Systems Development and Security",
+      "url": "https://mscis.cs.aueb.gr/el/normal/home",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T16:59:38.912Z",
+        "pages": 6,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-731f31933feb6c23f6fe",
+      "name": "Athens University of Economics and Business · AUEB Information Systems Development and Security — becas de mérito",
+      "url": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "GR",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T04:25:15.652Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "b36eb87f-baf1-49a5-b803-cb2c8f18d050",
+    "id": "6208f77e-4592-4951-802c-614891cc36a7",
     "type": "programme-verification",
-    "parentRunId": "27f89fb5-2e12-4d3b-af4d-cbd7eb8ba59b",
-    "startedAt": "2026-09-21T04:08:55.145Z",
-    "finishedAt": "2026-09-21T04:08:58.072Z",
+    "parentRunId": "b36eb87f-baf1-49a5-b803-cb2c8f18d050",
+    "startedAt": "2026-09-21T05:27:40.763Z",
+    "finishedAt": "2026-09-21T05:27:43.275Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-872f0390122f9f5e8bea",
-        "name": "Athens University of Economics and Business · MSc Computer Science",
-        "url": "https://www.dept.aueb.gr/en/gradcs",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T22:13:00.089Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-41cd7982c2fdae67d3ce",
-        "name": "International Hellenic University · MSc Cybersecurity",
-        "url": "https://st.ihu.gr/studies/postgraduate/cybersecurity",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T13:23:46.037Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ba619937f00007a7122a",
-        "name": "International Hellenic University · MSc Data Science",
-        "url": "https://st.ihu.gr/studies/postgraduate/datascience",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T13:20:31.470Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-0c9b509fc09b1bcd33e9",
-        "name": "International Hellenic University · MSc Mobile and Web Computing: Internet of Things Applications",
-        "url": "https://st.ihu.gr/studies/postgraduate/mobile",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T13:17:00.242Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fa4715cf52ad3407348f",
-        "name": "Athens University of Economics and Business · MSc Artificial Intelligence and Data Science — vía investigadora a tiempo parcial",
-        "url": "https://datascience.aueb.gr",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:55:53.605Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-90a64b3ad3dac5087376",
-        "name": "Athens University of Economics and Business · MSc Applied Statistics and Data Analytics",
-        "url": "https://www.dept.aueb.gr/en/stat/content/msc-applied-statistics-and-data-analytics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:51:43.464Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b2dc5908d674089c7767",
-        "name": "Athens University of Economics and Business · MSc Statistical Data Science",
-        "url": "https://www.dept.aueb.gr/en/stat/content/msc-statistics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:38:54.406Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8113241f3f41d1271e5d",
-        "name": "Athens University of Economics and Business · MSc Sports Analytics — inicio pendiente de acreditación",
-        "url": "https://www.dept.aueb.gr/en/stat/content/msc-sports-analytics",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T22:14:56.357Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fd5d173d38faeb5eae93",
-        "name": "Athens University of Economics and Business · PhD Statistics",
-        "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/594-FEK_B_277_EpikeroKanonismosDidakorikonSpoudonTmimatosStatistikis_6thSing18.12.2025.pdf",
+        "id": "programme-0c787fd09883ef6069cc",
+        "name": "University of Ioannina · PhD Computer Science and Engineering",
+        "url": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
         "adapter": "programme",
         "type": "institution",
         "scope": "GR",
@@ -253472,67 +254492,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:21:10.067Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e94cca0765b9b68cd929",
-        "name": "University of West Attica · MSc Artificial Intelligence and Deep Learning",
-        "url": "https://aidl.uniwa.gr/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:24:37.869Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6ffc2ad6e5a911afa300",
-        "name": "Athens University of Economics and Business · AUEB AI and Data Science — becas y ayudantías",
-        "url": "https://datascience.aueb.gr/page.php?id=132",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T13:33:40.164Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e5bcceab65ee74a357b6",
-        "name": "Athens University of Economics and Business · AUEB Statistics — exenciones de matrícula por mérito",
-        "url": "https://www.dept.aueb.gr/en/stat/content/rewards-and-scholarships-program",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:38:54.406Z",
+          "checkedAt": "2026-09-21T04:22:14.924Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -253540,9 +254500,70 @@
         }
       },
       {
-        "id": "programme-07a53d12c2d09c97580b",
-        "name": "International Hellenic University · IHU Science and Technology — becas de excelencia y reducciones de matrícula",
-        "url": "https://www.ihu.gr/ucips/scholarships",
+        "id": "programme-7f8add5ffbded9f85662",
+        "name": "University of Thessaly · PhD Electrical and Computer Engineering — investigación en informática",
+        "url": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "GR",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T04:22:24.642Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-fa8c4b1d888a42ffca8a",
+        "name": "University of Ioannina · Ioannina Computer Science and Engineering — becas y puestos remunerados",
+        "url": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "GR",
+        "stages": [
+          "doctorado",
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T04:33:01.883Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-d48d9b1cb8b96a4a98b0",
+        "name": "University of Thessaly · MSc Science and Technology of Electrical and Computer Engineering",
+        "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T04:36:19.399Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-4837dd7627d5f5e0fa9e",
+        "name": "University of Thessaly · Thessaly Electrical and Computer Engineering MSc — becas de mérito",
+        "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
         "adapter": "programme",
         "type": "funder",
         "scope": "GR",
@@ -253552,27 +254573,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T10:54:23.498Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-ac31e3620904fef95cb3",
-        "name": "University of the Aegean · MSc Information and Communication Systems Security",
-        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems-security",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:38:50.995Z",
+          "checkedAt": "2026-09-21T04:40:59.957Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -253580,9 +254581,9 @@
         }
       },
       {
-        "id": "programme-f67198eac9425d05bb43",
-        "name": "University of the Aegean · MSc Information and Communication Systems",
-        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems",
+        "id": "programme-28c51452ebebe6deb5d8",
+        "name": "University of Piraeus · MSc Actuarial Science and Risk Management",
+        "url": "https://actuarial.unipi.gr/",
         "adapter": "programme",
         "type": "institution",
         "scope": "GR",
@@ -253592,7 +254593,47 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:38:56.615Z",
+          "checkedAt": "2026-09-21T03:42:15.307Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-48834f0c9143228f067d",
+        "name": "University of Piraeus · MSc Applied Statistics",
+        "url": "https://mefast.unipi.gr/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T03:42:18.314Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-53cd2447eb564b3d7d5c",
+        "name": "University of Piraeus · Piraeus Actuarial Science — becas por rendimiento",
+        "url": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "GR",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T03:42:15.307Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -253600,11 +254641,11 @@
         }
       },
       {
-        "id": "programme-9fbac634b2e31f2f78f7",
-        "name": "University of the Aegean · MSc Internet of Things: Artificial Intelligence and Next Generation Networks",
-        "url": "https://msc.icsd.aegean.gr/en/masters/internet-of-things",
+        "id": "programme-1c6b5617280b7ace0880",
+        "name": "University of Piraeus · Piraeus Applied Statistics — becas por rendimiento",
+        "url": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
         "adapter": "programme",
-        "type": "institution",
+        "type": "funder",
         "scope": "GR",
         "stages": [
           "master"
@@ -253612,7 +254653,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:38:54.992Z",
+          "checkedAt": "2026-09-21T03:42:18.314Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -253620,9 +254661,9 @@
         }
       },
       {
-        "id": "programme-ba83d85f68baa8bae493",
-        "name": "Hellenic Open University · MSc Information Systems",
-        "url": "https://www.eap.gr/en/postgraduate-specialization-in-information-systems/",
+        "id": "programme-0d65059ac2310ba29dd2",
+        "name": "University of Ioannina · MSc Data and Computer Systems Engineering",
+        "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
         "adapter": "programme",
         "type": "institution",
         "scope": "GR",
@@ -253632,17 +254673,17 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:39:37.594Z",
-          "pages": 2,
+          "checkedAt": "2026-09-21T03:39:19.991Z",
+          "pages": 5,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-57d8c780ae18ff28b274",
-        "name": "Hellenic Open University · MSc Pervasive and Mobile Computing Systems",
-        "url": "https://www.eap.gr/en/mobile-and-pervasive-computing-systems/",
+        "id": "programme-329d839488ca669e5fe9",
+        "name": "Athens University of Economics and Business · MSc Information Systems Development and Security",
+        "url": "https://mscis.cs.aueb.gr/el/normal/home",
         "adapter": "programme",
         "type": "institution",
         "scope": "GR",
@@ -253652,87 +254693,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:39:38.403Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e9507eaef72adafbbee1",
-        "name": "Hellenic Open University · Master in Mathematics — especialización Applied Mathematics",
-        "url": "https://www.eap.gr/en/postgraduate-studies-in-mathematics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:39:39.118Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-85cbc0f07d2cc371d314",
-        "name": "Hellenic Open University · MSc Bioinformatics and Neuroinformatics",
-        "url": "https://www.eap.gr/en/bioinformatics-and-neuroinformatics/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:50:56.756Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7354613fc8794288e5a4",
-        "name": "International Hellenic University · MSc Information and Communication Technology Systems",
-        "url": "https://st.ihu.gr/studies/postgraduate/ict",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:43:04.726Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-740fc4f83a8779a7ecc6",
-        "name": "International Hellenic University · MSc Web Intelligence",
-        "url": "https://msc.iee.ihu.gr/en/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:39:41.673Z",
+          "checkedAt": "2026-09-20T16:59:38.912Z",
           "pages": 6,
           "accepted": 1,
           "complete": true,
@@ -253740,49 +254701,9 @@
         }
       },
       {
-        "id": "programme-9726ece97aa63a3dc892",
-        "name": "University of Piraeus · MSc Advanced Cybersecurity Technologies and Governance by Research",
-        "url": "https://cybersecgov-res.ds.unipi.gr/en/home/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:40:08.603Z",
-          "pages": 7,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7f262a1998800afd5967",
-        "name": "University of Piraeus · MSc Advanced Cybersecurity Technologies and Governance",
-        "url": "https://cybersecgov.ds.unipi.gr/en/home/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:52:50.518Z",
-          "pages": 6,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3a314ecf198b87176dfb",
-        "name": "University of Piraeus · EU-iNSPIRE — exención de matrícula en los másteres de ciberseguridad",
-        "url": "https://cybersecgov-res.ds.unipi.gr/en/application-submission/",
+        "id": "programme-731f31933feb6c23f6fe",
+        "name": "Athens University of Economics and Business · AUEB Information Systems Development and Security — becas de mérito",
+        "url": "https://mscis.cs.aueb.gr/el/static/full_study_program",
         "adapter": "programme",
         "type": "funder",
         "scope": "GR",
@@ -253792,88 +254713,8 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T03:49:13.015Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e6f8957e7d0e6f879782",
-        "name": "Aristotle University of Thessaloniki · MSc Health Statistics and Data Analytics",
-        "url": "https://hsda.med.auth.gr/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:43:50.700Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-423828b47672a1525496",
-        "name": "University of West Attica · MSc Cybersecurity",
-        "url": "https://cscyb.uniwa.gr/en/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:39:32.756Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c272bc36e505dd89f1e3",
-        "name": "Mediterranean Agronomic Institute of Chania · MSc Geoinformation in Environmental Management",
-        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:43:09.518Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2424714e4ddff88d0761",
-        "name": "Mediterranean Agronomic Institute of Chania · CIHEAM Chania — becas de máster con matrícula, alojamiento y manutención",
-        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T03:49:45.620Z",
-          "pages": 4,
+          "checkedAt": "2026-09-21T04:25:15.652Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -253881,11 +254722,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-21T04:08:55.145Z",
-      "finishedAt": "2026-09-21T04:08:58.072Z",
+      "startedAt": "2026-09-21T05:27:40.763Z",
+      "finishedAt": "2026-09-21T05:27:43.275Z",
       "scope": "selected-programmes",
-      "verified": 29,
-      "attempted": 29,
+      "verified": 12,
+      "attempted": 12,
       "partial": 0
     }
   },

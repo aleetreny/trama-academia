@@ -222,6 +222,13 @@ export function hasResearchComponent(text){
  if(/\bstage de fin d[’']études\b[^.!?;]{0,150}\.\s*Il constitue une initiation aux métiers de la recherche,\s*il peut être effectué en laboratoire de recherche\b/i.test(text))return true;
  // Ioannina's regulation names a postgraduate dissertation in the genitive.
  if(/(?<!\p{L})μεταπτυχιακής\s+διπλωματικής\s+εργασίας(?!\p{L})/iu.test(text))return true;
+ // AUEB's information-systems plan omits the postgraduate adjective in the
+ // thesis row. Require its master's context, 24-credit row and faculty
+ // supervision together; a diploma-work mention alone remains insufficient.
+ const greekPlan=clean(text);
+ if(/(?<!\p{L})Πρόγραμμα Μεταπτυχιακών Σπουδών(?!\p{L})/iu.test(greekPlan)
+  && /(?<!\p{L})Εκπόνηση Διπλωματικής Εργασίας 24(?!\d)/iu.test(greekPlan)
+  && /(?<!\p{L})υπό την εποπτεία μέλους ΔΕΠ του Τμήματος(?!\p{L})/iu.test(greekPlan))return true;
  // The TUI course PDF splits a diacritic inside its dissertation title. Require
  // its assigned Master level, programme, course label and code together.
  const courseRecord=clean(text.replace(/[\u200B\uFEFF]/g,''));

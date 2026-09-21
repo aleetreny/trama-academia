@@ -26589,6 +26589,60 @@
         "checkedAt": "2026-09-20T13:30:36.761Z",
         "contentHash": "de348ef940e04e78e3aa013ff9fa1a7fe01a81e8c20983f1759238ba0a4b70cd",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mscis.cs.aueb.gr/el/normal/home",
+        "type": "masters",
+        "label": "MSc Information Systems Development and Security",
+        "observedAt": "2026-09-20T16:59:38.912Z",
+        "checkedAt": "2026-09-20T16:59:38.912Z",
+        "contentHash": "7ca7c08862737ebece8ed533756fa9d8c719f3b25e39c212bc0df68a9ce0cdc6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mscis.cs.aueb.gr/el/static/full_study_program",
+        "type": "funding",
+        "label": "AUEB Information Systems Development and Security — becas de mérito",
+        "observedAt": "2026-09-21T04:25:15.652Z",
+        "checkedAt": "2026-09-21T04:25:15.652Z",
+        "contentHash": "6629b7313fa6c31de50f55721a67194eb24d3086d0220bc78b110de5251c1a29",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mscis.cs.aueb.gr/el/static/partial_study_program",
+        "type": "masters",
+        "label": "Plan parcial y trabajo individual supervisado · MSc Information Systems Development and Security",
+        "observedAt": "2026-09-21T04:52:32.113Z",
+        "checkedAt": "2026-09-21T04:52:32.113Z",
+        "contentHash": "5d892fab4c9d715175d981735ba6da1bd763c5ce00dd83b962713860096c4c1f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mscis.cs.aueb.gr/CMS/site/pdf/%CE%A0%CE%9C%CE%A3%20%CE%91%CE%91-%CE%A0%CE%A3%20(FT)%20%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7%202026-27%20%CE%B3%CE%B9%CE%B1%20%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CF%83%CE%B7_2%CE%BF%CF%82%20%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF%CF%82.pdf",
+        "type": "funding",
+        "label": "Convocatoria actual: posibilidades de beca y ejemplo del curso anterior · págs. 1 · AUEB Information Systems Development and Security — becas de mérito",
+        "observedAt": "2026-09-21T04:52:30.596Z",
+        "checkedAt": "2026-09-21T04:52:30.596Z",
+        "contentHash": "47b22a7a29443fc97e0c646da12517d18d0772d65f5fbeae1a200416e06dc745",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mscis.cs.aueb.gr/CMS/site/pdf/%CE%A0%CE%9C%CE%A3%20%CE%91%CE%91-%CE%A0%CE%A3%20(%20PT)%20%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7%202026-27%20%20%CE%B3%CE%B9%CE%B1%20%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%AF%CE%B5%CF%85%CF%83%CE%B7_2%CE%BF%CF%82%20%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%82.pdf",
+        "type": "masters",
+        "label": "Convocatoria parcial 2026/27: duración, horario y matrícula · págs. 1, 2 · MSc Information Systems Development and Security",
+        "observedAt": "2026-09-21T04:52:31.525Z",
+        "checkedAt": "2026-09-21T04:52:31.525Z",
+        "contentHash": "2c9c181aa080a8b1d777ab048f7bb928c91af4fe97e2f8eb93af73afc516966e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1183/master/information-systems/",
+        "type": "masters",
+        "label": "Registro nacional y titulación previa · MSc Information Systems Development and Security",
+        "observedAt": "2026-09-21T03:39:15.814Z",
+        "checkedAt": "2026-09-21T03:39:15.814Z",
+        "contentHash": "504a925d0ea912b05804ccbb7467878e8934deda6c2ef4747641dd3581f6f526",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -43826,6 +43880,78 @@
         "checkedAt": "2026-09-20T16:27:00.149Z",
         "contentHash": "27445ddd333baedd40a8be3746472b886bafd4f9996592efde0f6bfce0a1b89a",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.cse.uoi.gr/spoudes/didaktorikes-spoudes/",
+        "type": "funding",
+        "label": "Departamento y programa doctoral vigente · Ioannina Computer Science and Engineering — becas y puestos remunerados",
+        "observedAt": "2026-09-21T04:33:01.883Z",
+        "checkedAt": "2026-09-21T04:33:01.883Z",
+        "contentHash": "a8fd444d313e109c9d7bdd8a9dbe9a033e90bfdf00557372323c7c94a8f0ec07",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.cse.uoi.gr/wp-content/uploads/2025/06/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%82-%CE%A0%CE%94%CE%A3-2025_%CE%99%CE%BF%CF%85%CE%BD%CE%B9%CE%BF%CF%82.pdf",
+        "type": "funding",
+        "label": "Ioannina Computer Science and Engineering — becas y puestos remunerados",
+        "observedAt": "2026-09-21T04:34:19.065Z",
+        "checkedAt": "2026-09-21T04:34:19.065Z",
+        "contentHash": "7e862a702d0d40f79ff24bc73adc2d62b2750d83162a87673a21ed1717b75c5d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.cse.uoi.gr/studies/doctoral-studies/?lang=en",
+        "type": "phd",
+        "label": "Descripción inglesa del área; convocatoria y requisitos antiguos · PhD Computer Science and Engineering",
+        "observedAt": "2026-09-21T04:22:14.924Z",
+        "checkedAt": "2026-09-21T04:22:14.924Z",
+        "contentHash": "b3e4135d7a29cf41edae22310f091c7700640d306424b2a8cb6b309c8e3c58bf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.cse.uoi.gr/wp-content/uploads/2023/02/%CE%95%CF%83%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8C%CF%82-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CE%A0%CE%9C%CE%A3-2023.pdf",
+        "type": "masters",
+        "label": "Reglamento aplicable desde la primavera de 2022/23 · págs. 1, 2, 3, 4, 5, 6, 8, 9, 10, 11 · MSc Data and Computer Systems Engineering",
+        "observedAt": "2026-09-21T04:42:48.835Z",
+        "checkedAt": "2026-09-21T04:42:48.835Z",
+        "contentHash": "f1a1e3075489935cb93c7b4062dde4f50da9e62fe12e3241b52bc1cb47f9087e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/genikes-plirofories/",
+        "type": "masters",
+        "label": "MSc Data and Computer Systems Engineering",
+        "observedAt": "2026-09-21T04:34:30.775Z",
+        "checkedAt": "2026-09-21T04:34:30.775Z",
+        "contentHash": "0f326e6160375ec940268e4055a38f9c7a42d317423c3f09757f62a288d9631d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.cse.uoi.gr/spoudes/metaptyxiakes-spoudes/xrisima-eggrafa-metaptyxiakwn/",
+        "type": "masters",
+        "label": "Identificación de la versión vigente del reglamento · MSc Data and Computer Systems Engineering",
+        "observedAt": "2026-09-21T04:41:41.223Z",
+        "checkedAt": "2026-09-21T04:41:41.223Z",
+        "contentHash": "238a69611049205647b38dd234962c056bf664f7bd99404187d044c30a478061",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.cse.uoi.gr/studies/graduate-studies/general/?lang=en",
+        "type": "masters",
+        "label": "Descripción inglesa y especializaciones · MSc Data and Computer Systems Engineering",
+        "observedAt": "2026-09-21T04:22:00.669Z",
+        "checkedAt": "2026-09-21T04:22:00.669Z",
+        "contentHash": "0e8ffa915a781f737532d4ea50cc4fdbbfa0ebd3ce3224d728fed243e2c2e473",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1228/master/data-and-computer-systems-engineering/",
+        "type": "masters",
+        "label": "Registro oficial: gratuidad, idioma y créditos · MSc Data and Computer Systems Engineering",
+        "observedAt": "2026-09-21T03:39:19.991Z",
+        "checkedAt": "2026-09-21T03:39:19.991Z",
+        "contentHash": "8bd63ad27ee5bd1465fd047f4bbf4c92635e4989a0bc32e1efecd23bf08455f0",
+        "accessOutcome": "ok"
       }
     ],
     "ror": "https://ror.org/01qg3j183"
@@ -43955,6 +44081,60 @@
         "observedAt": "2026-09-21T04:06:13.259Z",
         "checkedAt": "2026-09-21T04:06:13.259Z",
         "contentHash": "89231825764b04b4f60ece96d593ed44e65bae4ae6ade20ca03f68494d54b6ae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://actuarial.unipi.gr/",
+        "type": "funding",
+        "label": "Programa de Actuarial Science and Risk Management · Piraeus Actuarial Science — becas por rendimiento",
+        "observedAt": "2026-09-21T03:42:15.307Z",
+        "checkedAt": "2026-09-21T03:42:15.307Z",
+        "contentHash": "82dd30fbc11b2b7d9da4d72eea10b27eb001a4dfe861b4b306abc1e5c81e5fe5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://actuarial.unipi.gr/wp-content/uploads/2026/06/%CE%A6%CE%95%CE%9A-4833-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA.-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%91%CE%BD%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7.pdf",
+        "type": "funding",
+        "label": "Piraeus Actuarial Science — becas por rendimiento",
+        "observedAt": "2026-09-21T04:32:41.325Z",
+        "checkedAt": "2026-09-21T04:32:41.325Z",
+        "contentHash": "d159b2c38a14c8a4027bfbb9088fbc4de250e91e6389f3c154e8859ed0e4c0bf",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/program/909/master/actuarial-science-and-risk-management/",
+        "type": "masters",
+        "label": "Registro oficial: identidad, idioma, matrícula y estado de admisión · MSc Actuarial Science and Risk Management",
+        "observedAt": "2026-09-21T04:47:57.652Z",
+        "checkedAt": "2026-09-21T04:47:57.652Z",
+        "contentHash": "079e34a034942072d86d22a822ad71fb904ff96d943a78262ca307209ea6e964",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mefast.unipi.gr/",
+        "type": "funding",
+        "label": "Programa de Applied Statistics · Piraeus Applied Statistics — becas por rendimiento",
+        "observedAt": "2026-09-21T03:42:18.314Z",
+        "checkedAt": "2026-09-21T03:42:18.314Z",
+        "contentHash": "56b4354d64c38f3b3172562bb5f84c074e2d869a7e5ea437e7438d9aa9970aa0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://mefast.unipi.gr/wp-content/uploads/2023/09/%CE%A6%CE%95%CE%9A-4832-01.08.2023-%CE%95%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7-%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CE%95%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CF%83%CE%BC%CE%AD%CE%BD%CE%B7-%CE%A3%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE.pdf",
+        "type": "funding",
+        "label": "Piraeus Applied Statistics — becas por rendimiento",
+        "observedAt": "2026-09-21T04:32:58.116Z",
+        "checkedAt": "2026-09-21T04:32:58.116Z",
+        "contentHash": "2236f9e9897043e203c18ddc4a87e65d94d87132aef63159d003938cf590e8e8",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/program/910/master/applied-statistics/",
+        "type": "masters",
+        "label": "Registro oficial: idioma, créditos y matrícula · MSc Applied Statistics",
+        "observedAt": "2026-09-21T04:47:59.258Z",
+        "checkedAt": "2026-09-21T04:47:59.258Z",
+        "contentHash": "391147813c59c1a3be45f5c4aac1e1e1b284d42de2827a25817fbf2fc5ddaf99",
         "accessOutcome": "ok"
       }
     ],
@@ -53971,6 +54151,82 @@
         "observedAt": "2026-09-21T03:49:47.675Z",
         "checkedAt": "2026-09-21T03:49:47.675Z",
         "contentHash": "b7d8cd4050e35c49a47d4ddfa944506ca5a1ff5488c173f1fa6f322447a290fc",
+        "accessOutcome": "ok"
+      }
+    ]
+  },
+  {
+    "id": "gr-v33-04v4g9h31",
+    "name": "University of Thessaly",
+    "country": "GR",
+    "city": "Volos",
+    "ror": "https://ror.org/04v4g9h31",
+    "officialUrl": "https://www.uth.gr",
+    "domains": [
+      "uth.gr"
+    ],
+    "sources": [
+      {
+        "url": "https://www.e-ce.uth.gr/studies/postgraduate/phd-studies/?lang=en",
+        "type": "phd",
+        "label": "PhD Electrical and Computer Engineering — investigación en informática",
+        "observedAt": "2026-09-21T04:22:24.642Z",
+        "checkedAt": "2026-09-21T04:22:24.642Z",
+        "contentHash": "bd67aaf9514fb94976a9d1cee9b5d6a2d1b682c9acf19fa6d1c8656bbd5bd10e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/phd-studies/KanonismosDD_2025.pdf",
+        "type": "phd",
+        "label": "Reglamento doctoral de ingeniería: abril de 2025 · págs. 1, 2, 3, 4, 5, 6 · PhD Electrical and Computer Engineering — investigación en informática",
+        "observedAt": "2026-09-21T04:25:05.796Z",
+        "checkedAt": "2026-09-21T04:25:05.796Z",
+        "contentHash": "a63a60f8c21c7c5b9576cbf6215cd4ecbd79392ed3493ba4b9dda47efc21c1df",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.e-ce.uth.gr/studies/subject-areas/?lang=en",
+        "type": "phd",
+        "label": "Áreas de informática del departamento y continuidad doctoral · PhD Electrical and Computer Engineering — investigación en informática",
+        "observedAt": "2026-09-21T04:41:53.999Z",
+        "checkedAt": "2026-09-21T04:41:53.999Z",
+        "contentHash": "693a03944ecd1ded01efa1bc28fe724a5aaa452da44221b428d989908261ebc6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/",
+        "type": "masters",
+        "label": "MSc Science and Technology of Electrical and Computer Engineering",
+        "observedAt": "2026-09-21T04:36:19.399Z",
+        "checkedAt": "2026-09-21T04:36:19.399Z",
+        "contentHash": "903679a4cfe485fce0f3beb0f5bb438ac8cea05d923a7857eed75b58f3df0c1b",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ece-msc.e-ce.uth.gr/kanonismoi/%CE%915-%CE%9F%CE%94-%CE%A3%CE%A0%CE%9F%CE%A5%CE%94%CE%A9%CE%9D-%CE%95%CE%A4%CE%97%CE%9C%CE%9C%CE%A5-EN.pdf",
+        "type": "funding",
+        "label": "Máster con tesis y posibles ayudas económicas · págs. 8, 10, 11 · Thessaly Electrical and Computer Engineering MSc — becas de mérito",
+        "observedAt": "2026-09-21T04:42:49.966Z",
+        "checkedAt": "2026-09-21T04:42:49.966Z",
+        "contentHash": "cffd972dc10d8aa765bf518ad4cc1e2ef013e2752d6bb7b320b3a06c32516880",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.e-ce.uth.gr/wp-content/uploads/studies/postgraduate/science-and-technology-of-ece/science-and-technology-of-ece-studies-regulation.pdf",
+        "type": "funding",
+        "label": "Thessaly Electrical and Computer Engineering MSc — becas de mérito",
+        "observedAt": "2026-09-21T04:40:59.957Z",
+        "checkedAt": "2026-09-21T04:40:59.957Z",
+        "contentHash": "c40aa0491dd9d640b44e91e05f49e203f8a3db239c279faeff1117063d4e3488",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.e-ce.uth.gr/studies/postgraduate/science-and-technology-of-ece/courses/?lang=en",
+        "type": "masters",
+        "label": "Asignaturas de informática e inteligencia artificial · MSc Science and Technology of Electrical and Computer Engineering",
+        "observedAt": "2026-09-21T04:36:21.316Z",
+        "checkedAt": "2026-09-21T04:36:21.316Z",
+        "contentHash": "a7ea7b98c04da691c20d91da86362ae64cbf9ee6b00df9af4003eee259e29003",
         "accessOutcome": "ok"
       }
     ]
