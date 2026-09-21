@@ -65,7 +65,7 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 | `data/catalogue.json` | Instantánea pública de oportunidades y fuentes. |
 | `data/programmes.seed.json`, `data/sources.json` | Programas revisados, evidencia y configuración de adaptadores. |
 | `data/institutions.curated.json`, `data/institutions.json` | Fuentes institucionales revisadas y registro público con indicadores. |
-| `data/institution-crawl.json.gz` | Cola reanudable de descubrimiento; su resumen legible está en `data/institution-crawl.summary.json`. |
+| `data/institution-crawl.json.gz` + `data/institution-crawl.parts/` | Cola reanudable de descubrimiento, dividida en partes con huellas SHA-256; conserva todo el historial y admite leer el formato anterior. Su resumen legible está en `data/institution-crawl.summary.json`. |
 | `scripts/harvest/` | Adquisición, extracción, controles de evidencia y auditoría. |
 | `db/`, `scripts/db/` | Esquema, migraciones y sincronización con Neon. |
 
@@ -80,6 +80,7 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 - [Revisión de doctorados de Polonia](docs/poland-doctoral-review-2026-09-21.md): seis rutas doctorales y dos ayudas, con requisitos, estipendios y rondas cerradas diferenciados.
 - [Revisión de Letonia](docs/latvia-review-2026-09-21.md): ocho másteres, un doctorado y cuatro instrumentos de financiación, con rutas agrupadas y discrepancias de admisión y elegibilidad visibles.
 - [Revisión de Malta](docs/malta-review-2026-09-21.md): quince másteres, cuatro doctorados y tres instrumentos de financiación; modalidades agrupadas, admisión de 2026 y condiciones de las ayudas verificadas.
+- [Revisión de Chipre](docs/cyprus-review-2026-09-21.md): veinte másteres, seis doctorados, siete ayudas y tres convocatorias o prácticas; identidad institucional, movilidad, tesis y condiciones económicas contrastadas.
 
 Para ampliar la cobertura, una fuente debe declarar su alcance, conservar la procedencia y superar la revisión de identidad, disciplina, geografía y condiciones. Los candidatos se preparan con `npm run harvest:candidates`; su puntuación ordena el trabajo y no los incorpora al catálogo.
 

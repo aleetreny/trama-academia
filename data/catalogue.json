@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:12:02.936Z",
+  "generatedAt": "2026-09-21T03:08:33.073Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -190080,6 +190080,2296 @@
           "timing"
         ]
       }
+    },
+    {
+      "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+      "institution": "American University of Beirut – Mediterraneo",
+      "title": "MSc Business Analytics — opción de tesis de investigación",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "90 ECTS · 1,5 años",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Titulación universitaria y expediente, declaración de propósito y CV. IELTS académico 7 o TOEFL iBT 97 —5 en la escala 2026 de 1 a 6—, salvo exención. GRE/GMAT no son obligatorios para admisión.",
+      "feeNote": "La tabla publicada es de 2025/26: 320 EUR por ECTS, 19.200 EUR por 60 ECTS anuales. No es una tarifa 2026/27 confirmada ni el precio total de los 90 ECTS. Las becas se aplican por separado.",
+      "researchNote": "Permite elegir una tesis de investigación de 18 ECTS en lugar del capstone de 9 ECTS con una optativa adicional. Incluye estadística, optimización y aprendizaje automático. El campus principal es Pafos, pero todos los estudiantes deben poder viajar al Líbano y completar una estancia en AUB Beirut. La admisión de primavera de 2027 cierra el 30 de noviembre de 2026; el plazo de otoño de 2027 es el 15 de marzo de 2027.",
+      "id": "588eead498d2b2e4b10f",
+      "applyUrl": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+      "sourceId": "programme-588eead498d2b2e4b10f",
+      "sourceName": "American University of Beirut – Mediterraneo",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T11:19:30.588Z",
+      "seenAt": "2026-09-20T12:02:27.838Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7251c389d5984ea95cd28319972373ce407bb6610674c574bd431993f32b42d6",
+        "checkedUrl": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+        "method": "official-programme-page",
+        "researchUrl": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+        "references": [
+          {
+            "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T12:02:27.838Z",
+            "contentHash": "7251c389d5984ea95cd28319972373ce407bb6610674c574bd431993f32b42d6"
+          },
+          {
+            "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Admissions.aspx",
+            "label": "Admisión, fechas y estancia obligatoria en Beirut",
+            "checkedAt": "2026-09-20T12:40:26.385Z",
+            "contentHash": "518cbe85b39081eb9ec89f94ebe51e2449defba69353ff104756b178b4f39596"
+          },
+          {
+            "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+            "label": "Tarifas publicadas y ayudas de posgrado",
+            "checkedAt": "2026-09-20T11:19:30.588Z",
+            "contentHash": "d2b1f59182187551db1fcab95c9c1b3d99b24a8fef916389f25a667e3a24d699"
+          },
+          {
+            "url": "https://aubmed.ac.cy/Documents/MS-in-Business-Analytics.pdf",
+            "label": "Plan: alternativas de tesis y capstone · págs. 1",
+            "checkedAt": "2026-09-21T02:25:49.588Z",
+            "contentHash": "7ce9ab6488ea8d652b5cf4c46edd17cba5d4c4792eb8fff438d9dad28b97e45c",
+            "pages": [
+              1
+            ]
+          }
+        ],
+        "checks": [
+          "research-option",
+          "thesis-option",
+          "entry-calendar-mobility",
+          "dated-fee"
+        ]
+      }
+    },
+    {
+      "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+      "institution": "European University Cyprus",
+      "title": "MSc Artificial Intelligence — online",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Machine learning",
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "duration": "18 meses · 90 ECTS",
+      "hours": "En línea",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado en informática, matemáticas, ingeniería o campo afín; otros perfiles pueden acceder tras cursos preparatorios. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+      "feeNote": "6.237 EUR por los 90 ECTS completos; la tarifa a distancia incluye las reducciones anunciadas. La solicitud tiene una tasa de 80 o 200 EUR según el caso.",
+      "researchNote": "Tesis AI690 de 30 ECTS, además de 40 ECTS obligatorios y 20 optativos. Incluye aprendizaje automático, representación del conocimiento y grandes datos, con opciones de redes neuronales, NLP y robótica. Anuncia entrada en octubre de 2026, sin plazo de solicitud confirmado.",
+      "id": "5548b74c6126005d7a09",
+      "applyUrl": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+      "sourceId": "programme-5548b74c6126005d7a09",
+      "sourceName": "European University Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:39:20.454Z",
+      "seenAt": "2026-09-19T23:39:20.454Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "1af1e54bc19dd0dfed308899746147669bfea7620dc07b64396191420202a461",
+        "checkedUrl": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+        "method": "official-programme-page",
+        "researchUrl": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+        "references": [
+          {
+            "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T23:39:20.454Z",
+            "contentHash": "1af1e54bc19dd0dfed308899746147669bfea7620dc07b64396191420202a461"
+          }
+        ],
+        "checks": [
+          "curriculum",
+          "entry",
+          "fees-duration"
+        ]
+      }
+    },
+    {
+      "url": "https://euc.ac.cy/en/programs/master-computer-science/",
+      "institution": "European University Cyprus",
+      "title": "MSc Computer Science",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "18 meses · 90 ECTS",
+      "hours": "Presencial · Nicosia",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado en informática, ingeniería de computadores o un campo relacionado. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+      "feeNote": "La web muestra 6.237 EUR con las etiquetas «por año» y «90 ECTS Full Program». El importe anual o total queda por confirmar por esa contradicción; no se multiplica ni se presenta como coste completo.",
+      "researchNote": "Tesis CSC694 de 20 ECTS, con 50 ECTS obligatorios y 20 optativos. Programa de informática con investigación y opciones de continuación doctoral. La ficha anuncia octubre de 2026 como siguiente entrada, no como fecha límite.",
+      "id": "37db37a2b45cdf8bbafb",
+      "applyUrl": "https://euc.ac.cy/en/programs/master-computer-science/",
+      "sourceId": "programme-37db37a2b45cdf8bbafb",
+      "sourceName": "European University Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:56:37.088Z",
+      "seenAt": "2026-09-19T23:56:37.088Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "43745a2e6f191e77f4fc1a7b45efb67762dde8df43a638d93f3d2920976f4a5b",
+        "checkedUrl": "https://euc.ac.cy/en/programs/master-computer-science/",
+        "method": "official-programme-page",
+        "researchUrl": "https://euc.ac.cy/en/programs/master-computer-science/",
+        "references": [
+          {
+            "url": "https://euc.ac.cy/en/programs/master-computer-science/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T23:56:37.088Z",
+            "contentHash": "43745a2e6f191e77f4fc1a7b45efb67762dde8df43a638d93f3d2920976f4a5b"
+          }
+        ],
+        "checks": [
+          "thesis",
+          "entry",
+          "fee-conflict"
+        ]
+      }
+    },
+    {
+      "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+      "institution": "European University Cyprus",
+      "title": "MSc Financial Data Analytics and Sustainable Finance — título conjunto",
+      "country": "EU",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Informática"
+      ],
+      "duration": "2 años · 120 ECTS",
+      "hours": "Presencial, con movilidad obligatoria",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado universitario reconocido. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+      "feeNote": "EUC publica 9.240 EUR por año/60 ECTS, con posibles reducciones. Confirmar el coste completo con el consorcio; no se extrapola esta tarifa a los cuatro centros.",
+      "researchNote": "Tesis de 30 ECTS y métodos cuantitativos: econometría, computación financiera, IA y grandes datos. Inicio obligatorio en Pardubice (Chequia); segundo semestre en EUC (Chipre); tercero en LUMSA (Italia) o Vilnius (Lituania); tesis en cualquiera de los cuatro. Se agrupan las especializaciones de finanzas corporativas y mercados financieros en una ficha.",
+      "id": "6c6876b1d9948d2e30f0",
+      "applyUrl": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+      "sourceId": "programme-6c6876b1d9948d2e30f0",
+      "sourceName": "European University Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:25:09.361Z",
+      "seenAt": "2026-09-21T02:25:09.361Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6e170d215c46f639bb149e1d32e02229d472a497727940a5d23ea25b4129d9b6",
+        "checkedUrl": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+        "method": "official-programme-page",
+        "researchUrl": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+        "references": [
+          {
+            "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:25:09.361Z",
+            "contentHash": "6e170d215c46f639bb149e1d32e02229d472a497727940a5d23ea25b4129d9b6"
+          }
+        ],
+        "checks": [
+          "research",
+          "geography",
+          "entry-fee"
+        ]
+      }
+    },
+    {
+      "url": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+      "institution": "Frederick University",
+      "title": "MSc Web and Smart Systems",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "18 meses completo · 90 ECTS; opción parcial",
+      "hours": "Nicosia o Limassol · completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado en informática, ingeniería de computadores, tecnologías de la información o un campo afín. IELTS 6 o TOEFL 70, u otra certificación aceptada; exención para titulados de universidades anglófonas. Se valora experiencia relevante.",
+      "feeNote": "9.000 EUR por el programa completo; financiación no automática.",
+      "researchNote": "Tesis de 20 ECTS más 10 ECTS de metodología y planificación. Las dos especializaciones, Web Systems y Smart Systems, comparten título y se agrupan. Trabaja sistemas distribuidos, datos, interacción persona-ordenador y dispositivos conectados; permite investigación independiente.",
+      "id": "ed6f2ee2384667474a31",
+      "applyUrl": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+      "sourceId": "programme-ed6f2ee2384667474a31",
+      "sourceName": "Frederick University",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:39:36.321Z",
+      "seenAt": "2026-09-19T23:39:36.321Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "ec8fd20a8f8818cf49f0383dea8ed3e393126160f147401dc337bf42700dad3c",
+        "checkedUrl": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+        "method": "official-programme-page",
+        "researchUrl": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+        "references": [
+          {
+            "url": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T23:39:36.321Z",
+            "contentHash": "ec8fd20a8f8818cf49f0383dea8ed3e393126160f147401dc337bf42700dad3c"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry-fees"
+        ]
+      }
+    },
+    {
+      "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+      "institution": "Neapolis University Pafos",
+      "title": "MSc Information Systems and Digital Innovation",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "3 semestres · 90 ECTS",
+      "hours": "Presencial o a distancia",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Titulación universitaria, declaración de interés y dos referencias, al menos una académica. La página publica un mínimo de inglés B1; contempla prueba propia y cursos de apoyo.",
+      "feeNote": "Importe no confirmado en las páginas revisadas; solicitar presupuesto del itinerario elegido.",
+      "researchNote": "Tesis original de 30 ECTS, propuesta supervisada y defensa ante tres miembros. Incluye métodos de investigación, programación con aprendizaje automático y analítica de grandes datos. Las modalidades presencial y a distancia se agrupan. La presencial contempla finalizar en 12 meses con tesis durante el verano; confirmar disponibilidad de esa opción.",
+      "id": "a24c026d87580c142fe8",
+      "applyUrl": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+      "sourceId": "programme-a24c026d87580c142fe8",
+      "sourceName": "Neapolis University Pafos",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T10:48:47.929Z",
+      "seenAt": "2026-09-20T10:48:47.929Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a2b72a05a7e0705d72a3f94273b004bf202063053785e10f66ca0a4053969589",
+        "checkedUrl": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+        "references": [
+          {
+            "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T10:48:47.929Z",
+            "contentHash": "a2b72a05a7e0705d72a3f94273b004bf202063053785e10f66ca0a4053969589"
+          },
+          {
+            "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation-distance-learning",
+            "label": "Modalidad a distancia del mismo título",
+            "checkedAt": "2026-09-20T14:07:02.468Z",
+            "contentHash": "cf189455df509817e9e9aa87dee0bbba6357d763e7b559bab02ad07e75efe2b1"
+          }
+        ],
+        "checks": [
+          "research-entry",
+          "discipline",
+          "distance-thesis"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+      "institution": "University of Central Lancashire Cyprus",
+      "title": "MSc Computing",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "90 ECTS · completo o parcial",
+      "hours": "Presencial; completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado con al menos Lower Second Class (2:2) o equivalente. Acreditación de inglés: la web indica IELTS 6,5 y el folleto enlazado especifica C1; confirmar el criterio vigente.",
+      "feeNote": "9.500 EUR por 90 ECTS, tras la reducción general de 1.000 EUR sobre 10.500 EUR; ayudas adicionales sujetas a condiciones.",
+      "researchNote": "Máster aplicado con proyecto de 30 ECTS y formación en análisis crítico e investigación. El folleto enlazado de septiembre de 2026 difiere de la web en asignaturas y requisito de inglés: confirmar el plan y el certificado exigido con admisiones.",
+      "id": "7857bb8253757a05ee94",
+      "applyUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+      "sourceId": "programme-7857bb8253757a05ee94",
+      "sourceName": "University of Central Lancashire Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T10:34:42.528Z",
+      "seenAt": "2026-09-20T10:34:42.528Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "49ba9425eed9068b2e220eb5e287642ab535037627acb199bd61d15289d06cd5",
+        "checkedUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+        "references": [
+          {
+            "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T10:34:42.528Z",
+            "contentHash": "49ba9425eed9068b2e220eb5e287642ab535037627acb199bd61d15289d06cd5"
+          },
+          {
+            "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+            "label": "Tarifas y becas para 2026/27",
+            "checkedAt": "2026-09-21T02:19:52.489Z",
+            "contentHash": "a35de1fa128b56127a74bca9100c9d0b36d9d5cce2c960f295cba0ba7e0f586d"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry",
+          "published-fees",
+          "linked-2026-factsheet"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+      "institution": "University of Central Lancashire Cyprus",
+      "title": "MSc Data Analytics",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática"
+      ],
+      "duration": "90 ECTS · completo o parcial",
+      "hours": "Presencial o a distancia; completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado con al menos Lower Second Class (2:2) o equivalente e IELTS 6,5 o equivalente.",
+      "feeNote": "Tarifa de referencia: 9.500 EUR presencial y 8.500 EUR a distancia por 90 ECTS. Para nuevo alumnado 2026/27 se anuncia beca del 30% sobre 10.500 EUR: 7.350 EUR finales, según condiciones y sin sumar otros descuentos.",
+      "researchNote": "Proyecto de máster de 30 ECTS y módulo de análisis crítico para desarrollar investigación y escritura académica. Combina almacenamiento, minería y análisis de datos. Modalidades presencial y a distancia agrupadas; el certificado SAS complementa el título y no equivale a otro máster.",
+      "id": "443ba1a35ea2786805e6",
+      "applyUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+      "sourceId": "programme-443ba1a35ea2786805e6",
+      "sourceName": "University of Central Lancashire Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:30:34.974Z",
+      "seenAt": "2026-09-19T23:38:06.986Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7e4c264aa4cc10f9389b2e362ba1774d7a395c8e78de01515854859973238aec",
+        "checkedUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+        "references": [
+          {
+            "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-19T23:38:06.986Z",
+            "contentHash": "7e4c264aa4cc10f9389b2e362ba1774d7a395c8e78de01515854859973238aec"
+          },
+          {
+            "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+            "label": "Tarifas y becas para 2026/27",
+            "checkedAt": "2026-09-21T02:19:52.489Z",
+            "contentHash": "a35de1fa128b56127a74bca9100c9d0b36d9d5cce2c960f295cba0ba7e0f586d"
+          },
+          {
+            "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics-distance-learning/",
+            "label": "Modalidad a distancia del mismo título",
+            "checkedAt": "2026-09-19T23:30:34.974Z",
+            "contentHash": "93b068bf529b15c2b8793171adcf1512613f15d7cc79d0a65f38949d8d5c13fb"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry",
+          "published-fees"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+      "institution": "University of Central Lancashire Cyprus",
+      "title": "MSc Cybersecurity",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "90 ECTS · completo o parcial",
+      "hours": "Presencial o a distancia; completo o parcial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado con al menos Lower Second Class (2:2) o equivalente e IELTS 6,5 o equivalente.",
+      "feeNote": "Tarifa de referencia: 9.500 EUR presencial y 8.500 EUR a distancia por 90 ECTS. La beca anunciada para nuevo alumnado 2026/27 reduce el precio a 7.350 EUR, con condiciones; no se acumula con otros descuentos.",
+      "researchNote": "Proyecto de máster de 30 ECTS, acompañado de formación en investigación, defensa de redes, informática forense y gestión de seguridad. Se agrupan las modalidades presencial y a distancia; escoger un proyecto con pregunta y evaluación investigadoras según la supervisión disponible.",
+      "id": "3e12bd311ad127f12a34",
+      "applyUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+      "sourceId": "programme-3e12bd311ad127f12a34",
+      "sourceName": "University of Central Lancashire Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:19:52.489Z",
+      "seenAt": "2026-09-21T02:31:42.679Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "f48a92ccf23ab5bad8a64b7dbc84ef5bec99f31c8c811270e5efa7da054f4f4c",
+        "checkedUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+        "references": [
+          {
+            "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:31:42.679Z",
+            "contentHash": "f48a92ccf23ab5bad8a64b7dbc84ef5bec99f31c8c811270e5efa7da054f4f4c"
+          },
+          {
+            "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+            "label": "Tarifas y becas para 2026/27",
+            "checkedAt": "2026-09-21T02:19:52.489Z",
+            "contentHash": "a35de1fa128b56127a74bca9100c9d0b36d9d5cce2c960f295cba0ba7e0f586d"
+          },
+          {
+            "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity-distance-learning/",
+            "label": "Modalidad a distancia del mismo título",
+            "checkedAt": "2026-09-21T02:31:42.896Z",
+            "contentHash": "7d1cc98c05eef3684569cbf6a27db52d21d88442ba8be2f97ef89f9ee9f71c28"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry",
+          "published-fees"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+      "institution": "University of Limassol",
+      "title": "MSc Business Intelligence and Data Analytics",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática"
+      ],
+      "duration": "14 o 24 meses · 90 ECTS",
+      "hours": "Presencial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado reconocido; referencia académica UK 2:2, US 3,0 o Chipre/Grecia 6,5, con valoración de experiencia para notas inferiores. Inglés mediante estudios previos, condición de hablante nativo, IELTS 5,5 u otra vía admitida. Se exige una base cuantitativa previa.",
+      "feeNote": "8.930 EUR por el programa completo.",
+      "researchNote": "BI500: proyecto de investigación en ciencia de datos de 12 ECTS. Incluye métodos estadísticos, Python, datos masivos e IA aplicada. Orientación empresarial con un componente investigador explícito.",
+      "id": "c7000e2b2a037c6b7bfd",
+      "applyUrl": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+      "sourceId": "programme-c7000e2b2a037c6b7bfd",
+      "sourceName": "University of Limassol",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T14:19:14.946Z",
+      "seenAt": "2026-09-20T14:19:14.946Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a5bd286ebfe4aff6cf5330d0f029dcbba976fce4c8972291e5e7c7c3e8d7b46f",
+        "checkedUrl": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+        "references": [
+          {
+            "url": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T14:19:14.946Z",
+            "contentHash": "a5bd286ebfe4aff6cf5330d0f029dcbba976fce4c8972291e5e7c7c3e8d7b46f"
+          },
+          {
+            "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+            "label": "Duración y tarifas publicadas",
+            "checkedAt": "2026-09-21T02:19:34.824Z",
+            "contentHash": "0248fb41acc3fbe1cd8cd90f5b2744cdeba38977ba0de2025ba66fbe241645de"
+          },
+          {
+            "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-business-intelligence-and-data-analytics.pdf",
+            "label": "Plan y créditos del proyecto · págs. 1",
+            "checkedAt": "2026-09-21T02:19:30.745Z",
+            "contentHash": "539250e13a3d49cacb24d2dd351208fa9cca0107021ab4dd4dc46f8f9a6a2116",
+            "pages": [
+              1
+            ]
+          }
+        ],
+        "checks": [
+          "programme-entry",
+          "research-route",
+          "project-credit",
+          "fees-duration"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+      "institution": "University of Limassol",
+      "title": "MSc Computer Science and Business Technologies",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística"
+      ],
+      "duration": "14 meses · 90 ECTS",
+      "hours": "Presencial",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado reconocido; referencia académica UK 2:2, US 3,0 o Chipre/Grecia 6,5, con valoración de experiencia para notas inferiores. Inglés mediante estudios previos, condición de hablante nativo, IELTS 5,5 u otra vía admitida. Base cuantitativa y entrevista personal; puede requerir GRE/GMAT cuando la institución previa no sea conocida por el comité.",
+      "feeNote": "8.930 EUR por el programa completo.",
+      "researchNote": "AT1000: proyecto de investigación obligatorio de 18 ECTS. Combina algoritmos, programación, computación en la nube, datos e IA con aplicaciones empresariales.",
+      "id": "2981cb040837eb300812",
+      "applyUrl": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+      "sourceId": "programme-2981cb040837eb300812",
+      "sourceName": "University of Limassol",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T14:14:18.141Z",
+      "seenAt": "2026-09-20T14:14:18.141Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "d2dcdda8c8314678ab55078b3603e8b64ee1c730fb368bde49d3168c2afc3345",
+        "checkedUrl": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+        "references": [
+          {
+            "url": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T14:14:18.141Z",
+            "contentHash": "d2dcdda8c8314678ab55078b3603e8b64ee1c730fb368bde49d3168c2afc3345"
+          },
+          {
+            "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+            "label": "Duración y tarifas publicadas",
+            "checkedAt": "2026-09-21T02:19:34.824Z",
+            "contentHash": "0248fb41acc3fbe1cd8cd90f5b2744cdeba38977ba0de2025ba66fbe241645de"
+          },
+          {
+            "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-computer-science-business-technology.pdf",
+            "label": "Plan y créditos del proyecto · págs. 2",
+            "checkedAt": "2026-09-21T02:19:32.763Z",
+            "contentHash": "667f3cd433a72298a4b14267087f5237162a555ccf1c9dc8a7b7a9e00f0af52d",
+            "pages": [
+              2
+            ]
+          }
+        ],
+        "checks": [
+          "programme-entry",
+          "research-route",
+          "project-credit",
+          "fees-duration"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+      "institution": "University of Limassol",
+      "title": "MSc Data Analytics for Business — distance learning",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Ciencia de datos",
+        "Informática"
+      ],
+      "duration": "18 meses · 90 ECTS",
+      "hours": "A distancia",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado reconocido; referencia académica UK 2:2, US 3,0 o Chipre/Grecia 6,5, con valoración de experiencia para notas inferiores. Inglés mediante estudios previos, condición de hablante nativo, IELTS 5,5 u otra vía admitida.",
+      "feeNote": "8.750 EUR por el programa completo.",
+      "researchNote": "BAN700: proyecto final de 10 ECTS, con opción explícita de investigación o de aplicación profesional. Para la trayectoria académica interesa acordar la primera. Se distingue del MSc Business Intelligence and Data Analytics por título, estructura y modalidad.",
+      "id": "3abe2182ae2924239dfe",
+      "applyUrl": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+      "sourceId": "programme-3abe2182ae2924239dfe",
+      "sourceName": "University of Limassol",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T13:38:12.101Z",
+      "seenAt": "2026-09-20T13:38:12.101Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "4b2f30597cd2e1b91725eee44f2865dcc012e3a76005ab5b2f62c7a42351f262",
+        "checkedUrl": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+        "references": [
+          {
+            "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T13:38:12.101Z",
+            "contentHash": "4b2f30597cd2e1b91725eee44f2865dcc012e3a76005ab5b2f62c7a42351f262"
+          },
+          {
+            "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+            "label": "Duración y tarifas publicadas",
+            "checkedAt": "2026-09-21T02:19:34.824Z",
+            "contentHash": "0248fb41acc3fbe1cd8cd90f5b2744cdeba38977ba0de2025ba66fbe241645de"
+          },
+          {
+            "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-data-analytics-for-business-dl.pdf",
+            "label": "Plan y créditos del proyecto · págs. 1",
+            "checkedAt": "2026-09-21T02:19:34.077Z",
+            "contentHash": "f6756d46c4016d2b77660e2a4f22cf2b9e64f280f8013ff7af79dd4fb6ee25d5",
+            "pages": [
+              1
+            ]
+          }
+        ],
+        "checks": [
+          "programme-entry",
+          "research-route",
+          "project-credit",
+          "fees-duration"
+        ]
+      }
+    },
+    {
+      "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+      "institution": "Eastern Mediterranean University",
+      "title": "MSc Applied Mathematics and Computer Science — with thesis",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Matemáticas aplicadas",
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "4 semestres en el plan; cabecera de 1–2 años",
+      "entry": "Grado en matemáticas, informática, física, ingeniería, economía u otra disciplina afín; pueden exigirse complementos. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+      "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+      "researchNote": "Siete asignaturas, seminario y tesis con defensa oral. Líneas de métodos numéricos, optimización, modelización, bioinformática e IA. Programa en Famagusta, norte de Chipre; no se confunde con el MSc Mathematics del mismo departamento.",
+      "id": "a4c7a337baa011420ead",
+      "applyUrl": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+      "sourceId": "programme-a4c7a337baa011420ead",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:53:34.972Z",
+      "seenAt": "2026-09-21T00:53:34.972Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a1a5a6a0adafbf4a9ef9d7a3db7ecd83c3eca1a72c119712c1060f6f8c24f66b",
+        "checkedUrl": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+        "references": [
+          {
+            "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T00:53:34.972Z",
+            "contentHash": "a1a5a6a0adafbf4a9ef9d7a3db7ecd83c3eca1a72c119712c1060f6f8c24f66b"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+            "label": "Admisión al posgrado",
+            "checkedAt": "2026-09-21T02:37:58.045Z",
+            "contentHash": "9143c326ba0fa42e2c6b2c07f43237831f421b53e05da7adaf2e0fe1f1a6fffb"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+            "label": "Inglés y exenciones",
+            "checkedAt": "2026-09-21T02:38:00.321Z",
+            "contentHash": "8b8b163cd1ac092aeb34fb9a719c49ca2bdc6004e24bc6140a25db32328da6d8"
+          }
+        ],
+        "checks": [
+          "research-entry",
+          "graduate-admission",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+      "institution": "Eastern Mediterranean University",
+      "title": "MSc Computer Engineering — with thesis",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "120 ECTS en el plan publicado · cabecera de 1–2 años",
+      "entry": "Grado en ingeniería, matemáticas o ciencias naturales con media superior a 2,5/4. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+      "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+      "researchNote": "Tesis CMPE500 de 60 ECTS, siete asignaturas de 8 ECTS y seminario de 4 ECTS. Investigación en redes, IA, robótica, seguridad y optimización. La variante sin tesis no se incluye como otra vía investigadora.",
+      "id": "401b6bbef61a839e12ea",
+      "applyUrl": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+      "sourceId": "programme-401b6bbef61a839e12ea",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:37:58.045Z",
+      "seenAt": "2026-09-21T02:39:10.004Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "bab3b8a6d2021818dfb393a1f478ad23dbe3b301f0792d172c37875d3cede9a5",
+        "checkedUrl": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+        "references": [
+          {
+            "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:39:10.004Z",
+            "contentHash": "bab3b8a6d2021818dfb393a1f478ad23dbe3b301f0792d172c37875d3cede9a5"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+            "label": "Admisión al posgrado",
+            "checkedAt": "2026-09-21T02:37:58.045Z",
+            "contentHash": "9143c326ba0fa42e2c6b2c07f43237831f421b53e05da7adaf2e0fe1f1a6fffb"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+            "label": "Inglés y exenciones",
+            "checkedAt": "2026-09-21T02:38:00.321Z",
+            "contentHash": "8b8b163cd1ac092aeb34fb9a719c49ca2bdc6004e24bc6140a25db32328da6d8"
+          },
+          {
+            "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091?tab=curriculum",
+            "label": "Plan oficial y créditos de tesis",
+            "checkedAt": "2026-09-21T02:42:14.740Z",
+            "contentHash": "1cdc6fe66a48b140275c50c60077c3cb00ae7addf7ab0fdc9e2fb29e78267c35"
+          }
+        ],
+        "checks": [
+          "entry-research",
+          "thesis-credits",
+          "graduate-admission",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+      "institution": "Eastern Mediterranean University",
+      "title": "MSc Information Technology — with thesis",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "Duración y créditos totales a confirmar con el departamento",
+      "entry": "Grado en tecnologías de la información, informática, ingeniería de computadores, sistemas de información o área afín. Otros perfiles pueden necesitar cursos puente e entrevista. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+      "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+      "researchNote": "Cuatro asignaturas centrales, tres optativas, seminario y tesis. Permite investigación cualitativa, cuantitativa o mixta; líneas de minería de texto y datos, aprendizaje automático, redes y sistemas. Se selecciona la modalidad con tesis, diferenciada de la profesional sin tesis.",
+      "id": "8666eada0ae56770c2f7",
+      "applyUrl": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+      "sourceId": "programme-8666eada0ae56770c2f7",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:37:58.045Z",
+      "seenAt": "2026-09-21T02:39:11.565Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "82e992fa85d927923a86a08160ce3df4e0f3e68adb3a570bbc549a289ce78164",
+        "checkedUrl": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+        "references": [
+          {
+            "url": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:39:11.565Z",
+            "contentHash": "82e992fa85d927923a86a08160ce3df4e0f3e68adb3a570bbc549a289ce78164"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+            "label": "Admisión al posgrado",
+            "checkedAt": "2026-09-21T02:37:58.045Z",
+            "contentHash": "9143c326ba0fa42e2c6b2c07f43237831f421b53e05da7adaf2e0fe1f1a6fffb"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+            "label": "Inglés y exenciones",
+            "checkedAt": "2026-09-21T02:38:00.321Z",
+            "contentHash": "8b8b163cd1ac092aeb34fb9a719c49ca2bdc6004e24bc6140a25db32328da6d8"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry",
+          "graduate-admission",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+      "institution": "Eastern Mediterranean University",
+      "title": "MSc Mathematics — with thesis",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "duration": "4 semestres en el plan · cabecera de 1–2 años",
+      "entry": "Grado en matemáticas o un campo pertinente; el comité puede exigir preparación adicional. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+      "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+      "researchNote": "Siete asignaturas, seminario y tesis con defensa oral. El programa combina matemática pura y aplicada; el encaje en TRAMA depende de temas como ecuaciones diferenciales, métodos numéricos, control óptimo o procesos estocásticos. La página de colaboración con Pau conduce al mismo título y no se cuenta de nuevo.",
+      "id": "aa659758c21154437597",
+      "applyUrl": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+      "sourceId": "programme-aa659758c21154437597",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:37:58.045Z",
+      "seenAt": "2026-09-21T02:39:13.956Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "be6c37cc0db7efcee5e3a05e64c6e472becccd0fc940075f8cbed5bec0c8151e",
+        "checkedUrl": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+        "references": [
+          {
+            "url": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:39:13.956Z",
+            "contentHash": "be6c37cc0db7efcee5e3a05e64c6e472becccd0fc940075f8cbed5bec0c8151e"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+            "label": "Admisión al posgrado",
+            "checkedAt": "2026-09-21T02:37:58.045Z",
+            "contentHash": "9143c326ba0fa42e2c6b2c07f43237831f421b53e05da7adaf2e0fe1f1a6fffb"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+            "label": "Inglés y exenciones",
+            "checkedAt": "2026-09-21T02:38:00.321Z",
+            "contentHash": "8b8b163cd1ac092aeb34fb9a719c49ca2bdc6004e24bc6140a25db32328da6d8"
+          }
+        ],
+        "checks": [
+          "research-entry",
+          "graduate-admission",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+      "institution": "Cyprus International University",
+      "title": "MSc Computer Engineering — thesis option",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "2 años",
+      "entry": "Grado en informática, programación, ingeniería eléctrica u otra ciencia o ingeniería con base informática. Para solicitantes internacionales: IELTS 5,5 o TOEFL iBT 65; sin certificado se realiza la prueba de CIU al llegar.",
+      "feeNote": "Tarifa individual mediante la calculadora oficial; importe no confirmado. La ayuda general del 50% para alumnado internacional de grado no se aplica automáticamente al máster.",
+      "researchNote": "Se elige la vía de siete asignaturas, seminario y tesis, distinta de la vía sin tesis con diez asignaturas y proyecto de graduación. Incluye redes, IA, ingeniería del software, bases de datos, minería de datos y lenguaje natural.",
+      "id": "0b793404ae462f0f6333",
+      "applyUrl": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+      "sourceId": "programme-0b793404ae462f0f6333",
+      "sourceName": "Cyprus International University",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T10:28:24.188Z",
+      "seenAt": "2026-09-21T02:41:26.812Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6f34755683df21dfbe110b826094108a843bafed8df738dc9a9c64c0dc2787ce",
+        "checkedUrl": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+        "method": "official-programme-page",
+        "researchUrl": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+        "references": [
+          {
+            "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:41:26.812Z",
+            "contentHash": "6f34755683df21dfbe110b826094108a843bafed8df738dc9a9c64c0dc2787ce"
+          },
+          {
+            "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+            "label": "Ayudas: separar grado y posgrado",
+            "checkedAt": "2026-09-20T10:28:24.188Z",
+            "contentHash": "98a570e84ba17b9d50dd84148a7d8e9d837cbd89ca4055f30594acdedb7562fb"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry",
+          "funding-boundary"
+        ]
+      }
+    },
+    {
+      "url": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+      "institution": "Cyprus Aydın University",
+      "title": "MSc Computer Engineering — with thesis",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "2 años · 4 semestres · 120 ECTS",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "El instituto evalúa la preparación previa y puede exigir asignaturas adicionales. El umbral académico y la acreditación lingüística específica no están confirmados en la ficha; consultar admisiones de posgrado.",
+      "feeNote": "7.000 EUR por el máster, más una cuota única de 600 EUR por registro, IVA y actividades. Los cursos puente cuestan 300 EUR cada uno. Las reducciones de matrícula requieren confirmación individual.",
+      "researchNote": "Tesis de 60 ECTS y otros 60 ECTS de formación: siete asignaturas y seminario. El centro usa actualmente el nombre Cyprus Aydın University; su perfil institucional anterior figura como Kıbrıs İlim Üniversitesi. Se mantiene una ficha por título.",
+      "id": "4537267357f3f6d4fcc9",
+      "applyUrl": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+      "sourceId": "programme-4537267357f3f6d4fcc9",
+      "sourceName": "Cyprus Aydın University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:34:16.495Z",
+      "seenAt": "2026-09-21T02:42:15.720Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "d9e6eed46e6ef3151bf18410df25398250d131ecd3923c1e81b309f6989b2990",
+        "checkedUrl": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+        "method": "official-programme-page",
+        "researchUrl": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+        "references": [
+          {
+            "url": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:42:15.720Z",
+            "contentHash": "d9e6eed46e6ef3151bf18410df25398250d131ecd3923c1e81b309f6989b2990"
+          },
+          {
+            "url": "https://cau.edu.tr/tezli-programlar/",
+            "label": "Catálogo: modalidad con tesis e idioma inglés",
+            "checkedAt": "2026-09-21T02:34:16.495Z",
+            "contentHash": "b15f1fc26f8b3e5a78af1186742b1e3a311411d3d85d7ba8ed6ed025af8ebdc6"
+          },
+          {
+            "url": "https://international.cau.edu.tr/tuition-fees/",
+            "label": "Tarifas y cargos de posgrado",
+            "checkedAt": "2026-09-21T02:48:48.982Z",
+            "contentHash": "be1eae0990c188872e4e8223f60e522e125c00b70f7d88ef6d78262e449a3f6f"
+          }
+        ],
+        "checks": [
+          "graduate-fees",
+          "thesis-structure",
+          "catalogue-language"
+        ]
+      }
+    },
+    {
+      "url": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+      "institution": "Cyprus Aydın University",
+      "title": "MSc Software Engineering — with thesis",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "duration": "2 años · 4 semestres · 120 ECTS",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "El instituto evalúa la preparación previa y puede exigir asignaturas adicionales. El umbral académico y la acreditación lingüística específica no están confirmados en la ficha; consultar admisiones de posgrado.",
+      "feeNote": "7.000 EUR por el máster, más una cuota única de 600 EUR por registro, IVA y actividades. Los cursos puente cuestan 300 EUR cada uno. Las reducciones de matrícula requieren confirmación individual.",
+      "researchNote": "Tesis de 60 ECTS y otros 60 ECTS de formación: siete asignaturas y seminario. El centro usa actualmente el nombre Cyprus Aydın University; su perfil institucional anterior figura como Kıbrıs İlim Üniversitesi. Se mantiene una ficha por título.",
+      "id": "870cf2a5a9621ac7235b",
+      "applyUrl": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+      "sourceId": "programme-870cf2a5a9621ac7235b",
+      "sourceName": "Cyprus Aydın University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:34:16.495Z",
+      "seenAt": "2026-09-21T02:42:18.961Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "0843a5e381211b65a1f63544ec5ac8789034138f0f9615e2383e0d9b3504cef8",
+        "checkedUrl": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+        "method": "official-programme-page",
+        "researchUrl": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+        "references": [
+          {
+            "url": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:42:18.961Z",
+            "contentHash": "0843a5e381211b65a1f63544ec5ac8789034138f0f9615e2383e0d9b3504cef8"
+          },
+          {
+            "url": "https://cau.edu.tr/tezli-programlar/",
+            "label": "Catálogo: modalidad con tesis e idioma inglés",
+            "checkedAt": "2026-09-21T02:34:16.495Z",
+            "contentHash": "b15f1fc26f8b3e5a78af1186742b1e3a311411d3d85d7ba8ed6ed025af8ebdc6"
+          },
+          {
+            "url": "https://international.cau.edu.tr/tuition-fees/",
+            "label": "Tarifas y cargos de posgrado",
+            "checkedAt": "2026-09-21T02:48:48.982Z",
+            "contentHash": "be1eae0990c188872e4e8223f60e522e125c00b70f7d88ef6d78262e449a3f6f"
+          }
+        ],
+        "checks": [
+          "graduate-fees",
+          "thesis-structure",
+          "catalogue-language"
+        ]
+      }
+    },
+    {
+      "url": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+      "institution": "Kıbrıs Amerikan Üniversitesi",
+      "title": "M.Tech. Information Technology — with thesis",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "master",
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado reconocido en tecnologías de la información, informática, ingeniería de computadores, sistemas de información o un área cercana. Para otros perfiles pueden exigirse cursos puente e entrevista.",
+      "feeNote": "Matrícula y posibles ayudas no confirmadas.",
+      "researchNote": "Siete optativas, seminario de posgrado y tesis. Permite investigación en sistemas y bases de datos, redes, minería de datos y aprendizaje automático. Corresponde al centro de dominio auc.edu.tr, distinto de American University of Cyprus de aucy.ac.cy. Duración y créditos de tesis pendientes de confirmar.",
+      "id": "7952d7d8337fb868c483",
+      "applyUrl": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+      "sourceId": "programme-7952d7d8337fb868c483",
+      "sourceName": "Kıbrıs Amerikan Üniversitesi",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:47:46.159Z",
+      "seenAt": "2026-09-21T02:47:46.159Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "duration": null,
+      "contract": null,
+      "programmeType": "Máster con componente de investigación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7c6ea6594a4b1e419d85586194f742c2ccba36b4447e49446f881ae4cf321cfe",
+        "checkedUrl": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+        "method": "official-programme-page",
+        "researchUrl": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+        "references": [
+          {
+            "url": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:47:46.159Z",
+            "contentHash": "7c6ea6594a4b1e419d85586194f742c2ccba36b4447e49446f881ae4cf321cfe"
+          }
+        ],
+        "checks": [
+          "research-entry",
+          "discipline-language"
+        ]
+      }
+    },
+    {
+      "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+      "institution": "European University Cyprus",
+      "title": "PhD Computer Science",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "Mínimo 3 años · 180 ECTS",
+      "hours": "Presencial · Nicosia",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Máster reconocido, propuesta de 3.000–5.000 palabras, expedientes, CV y dos referencias académicas; posible entrevista. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+      "feeNote": "14.400 EUR por el programa completo de 180 ECTS. Reducciones y financiación requieren confirmación individual.",
+      "researchNote": "30 ECTS de cursos, 30 de propuesta, 90 de trabajo de campo y 30 de tesis. Líneas de aprendizaje automático, ciencia de redes, IoT, ciberseguridad, robótica y teoría de juegos. Plazas limitadas por año. El plazo general de otoño ya ha pasado; las fechas de primavera publicadas son 1 de diciembre para no UE y 15 de enero para UE, sujetas a convocatoria y plazas.",
+      "id": "44a866356895094ab41b",
+      "applyUrl": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+      "sourceId": "programme-44a866356895094ab41b",
+      "sourceName": "European University Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:31:41.765Z",
+      "seenAt": "2026-09-21T02:31:41.765Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "d69e41226fb06194e5cdfaa2b108e8167a003d337adf5093e27538663749cbb6",
+        "checkedUrl": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+        "method": "official-programme-page",
+        "researchUrl": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+        "references": [
+          {
+            "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:31:41.765Z",
+            "contentHash": "d69e41226fb06194e5cdfaa2b108e8167a003d337adf5093e27538663749cbb6"
+          }
+        ],
+        "checks": [
+          "doctoral-research",
+          "entry",
+          "fee-calendar"
+        ]
+      }
+    },
+    {
+      "url": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+      "institution": "Frederick University",
+      "title": "PhD Electrical Engineering, Computer Engineering and Informatics",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Ciencia de datos"
+      ],
+      "duration": "3 años completo · 180 ECTS; opción parcial",
+      "hours": "Completo o parcial · Nicosia/Limassol",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Grado y máster pertinente; la convocatoria 2026/27 contempla excepciones al máster en circunstancias especiales. Propuesta de unas 1.500 palabras, declaración personal, dos referencias e inglés acreditado o estudios previos en inglés.",
+      "feeNote": "12.600 EUR por el programa completo. La convocatoria 2026/27 anunció ayudas de matrícula de hasta el 90%, condicionadas a aprobación; cerró el 14 de septiembre de 2026. No se confirma una nueva ayuda abierta.",
+      "researchNote": "28 ECTS doctorales, examen de cualificación, propuesta y defensa. Exige tres trabajos científicos presentados para publicación, al menos uno aceptado/publicado en revista y uno presentado y publicado en congreso. La convocatoria 2026/27 incluye IA, seguridad, computación cuántica, visión y grandes datos. Los temas se agrupan como un programa, con título final según la tesis.",
+      "id": "2cc386105b7deefacede",
+      "applyUrl": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+      "sourceId": "programme-2cc386105b7deefacede",
+      "sourceName": "Frederick University",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T13:58:06.654Z",
+      "seenAt": "2026-09-20T13:58:06.654Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "56660f557440c1ae5f4314b1cb884e48b47a5d4eb65c039163ec8845f12e0e2e",
+        "checkedUrl": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+        "references": [
+          {
+            "url": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T13:58:06.654Z",
+            "contentHash": "56660f557440c1ae5f4314b1cb884e48b47a5d4eb65c039163ec8845f12e0e2e"
+          },
+          {
+            "url": "https://frederick.ac.cy/images/PhD_positions_in_DECEI_2026-27.pdf",
+            "label": "Convocatoria 2026/27: temas, acceso, cierre y ayuda · págs. 1, 2, 3",
+            "checkedAt": "2026-09-21T02:25:07.493Z",
+            "contentHash": "be776217fb6961ca699d7aa6bf2ed07f741bff965a48b9cb367ef19cba716e0b",
+            "pages": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "checks": [
+          "programme-fee",
+          "scope",
+          "call-entry",
+          "closed-scholarship"
+        ]
+      }
+    },
+    {
+      "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+      "institution": "Eastern Mediterranean University",
+      "title": "PhD Applied Mathematics and Computer Science",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Matemáticas aplicadas",
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "3,5–5 años publicados; plan de 8 semestres",
+      "entry": "Máster en matemáticas, informática o área relacionada; posibles cursos preparatorios. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+      "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+      "researchNote": "Plan de ocho semestres con siete asignaturas y tesis defendida oralmente. Investigación en métodos numéricos, modelización, optimización y computación.",
+      "id": "24d2f1b7993bb9726d51",
+      "applyUrl": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+      "sourceId": "programme-24d2f1b7993bb9726d51",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:37:58.045Z",
+      "seenAt": "2026-09-21T02:41:21.539Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "721caefaddead4d77e7eb073106665b1899f67762db2cf5a73db12c945dee5d7",
+        "checkedUrl": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+        "references": [
+          {
+            "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:41:21.539Z",
+            "contentHash": "721caefaddead4d77e7eb073106665b1899f67762db2cf5a73db12c945dee5d7"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+            "label": "Admisión al posgrado",
+            "checkedAt": "2026-09-21T02:37:58.045Z",
+            "contentHash": "9143c326ba0fa42e2c6b2c07f43237831f421b53e05da7adaf2e0fe1f1a6fffb"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+            "label": "Inglés y exenciones",
+            "checkedAt": "2026-09-21T02:38:00.321Z",
+            "contentHash": "8b8b163cd1ac092aeb34fb9a719c49ca2bdc6004e24bc6140a25db32328da6d8"
+          }
+        ],
+        "checks": [
+          "doctoral-programme",
+          "entry",
+          "doctoral-entry",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+      "institution": "Eastern Mediterranean University",
+      "title": "PhD Computer Engineering",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Matemáticas aplicadas"
+      ],
+      "duration": "3,5–5 años publicados",
+      "entry": "Grado en ingeniería, matemáticas o ciencias naturales con media superior a 2,75/4 y máster con tesis. Se requiere disponibilidad de supervisor; pueden asignarse hasta tres complementos. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+      "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+      "researchNote": "Líneas de IA, visión, redes, robótica, seguridad y optimización. La admisión depende de encontrar supervisión para el tema y no incorpora una financiación automática.",
+      "id": "471998e499b152b924b6",
+      "applyUrl": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+      "sourceId": "programme-471998e499b152b924b6",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:37:58.045Z",
+      "seenAt": "2026-09-21T02:41:23.677Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6f23394eb4e8b47c15e28f754f070d218510bdf15d8c75aa5e6c47b97bcd7607",
+        "checkedUrl": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+        "references": [
+          {
+            "url": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:41:23.677Z",
+            "contentHash": "6f23394eb4e8b47c15e28f754f070d218510bdf15d8c75aa5e6c47b97bcd7607"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+            "label": "Admisión al posgrado",
+            "checkedAt": "2026-09-21T02:37:58.045Z",
+            "contentHash": "9143c326ba0fa42e2c6b2c07f43237831f421b53e05da7adaf2e0fe1f1a6fffb"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+            "label": "Inglés y exenciones",
+            "checkedAt": "2026-09-21T02:38:00.321Z",
+            "contentHash": "8b8b163cd1ac092aeb34fb9a719c49ca2bdc6004e24bc6140a25db32328da6d8"
+          }
+        ],
+        "checks": [
+          "doctoral-programme",
+          "entry",
+          "doctoral-entry",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+      "institution": "Eastern Mediterranean University",
+      "title": "PhD Mathematics",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "duration": "3,5–5 años publicados; plan de 8 semestres",
+      "entry": "Máster en matemáticas o área afín; posibles cursos preparatorios. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+      "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+      "researchNote": "Ocho semestres en el plan, siete asignaturas y tesis con defensa oral. Incluye matemática pura y aplicada: el encaje depende de la investigación en ecuaciones diferenciales, control óptimo, métodos numéricos u otras líneas aplicadas.",
+      "id": "a47909a5db250e832234",
+      "applyUrl": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+      "sourceId": "programme-a47909a5db250e832234",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:37:58.045Z",
+      "seenAt": "2026-09-21T02:41:25.228Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a68152aad8bb6ff858aa4eb5a9890afe947ae0e59f3e142fdaae5a21ffab697c",
+        "checkedUrl": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+        "references": [
+          {
+            "url": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:41:25.228Z",
+            "contentHash": "a68152aad8bb6ff858aa4eb5a9890afe947ae0e59f3e142fdaae5a21ffab697c"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+            "label": "Admisión al posgrado",
+            "checkedAt": "2026-09-21T02:37:58.045Z",
+            "contentHash": "9143c326ba0fa42e2c6b2c07f43237831f421b53e05da7adaf2e0fe1f1a6fffb"
+          },
+          {
+            "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+            "label": "Inglés y exenciones",
+            "checkedAt": "2026-09-21T02:38:00.321Z",
+            "contentHash": "8b8b163cd1ac092aeb34fb9a719c49ca2bdc6004e24bc6140a25db32328da6d8"
+          }
+        ],
+        "checks": [
+          "doctoral-programme",
+          "entry",
+          "doctoral-entry",
+          "english"
+        ]
+      }
+    },
+    {
+      "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+      "institution": "Cyprus International University",
+      "title": "PhD Computer Engineering",
+      "country": "CY",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática",
+        "Machine learning"
+      ],
+      "duration": "5 años publicados",
+      "entry": "Grado y máster reconocidos, expedientes, CV y propuesta doctoral. Para solicitantes internacionales se publica IELTS 5,5 o TOEFL iBT 65; sin certificado se realiza la prueba de CIU.",
+      "feeNote": "Importe según la calculadora oficial; no confirmado para un expediente individual. Las becas de posgrado se solicitan y evalúan por separado.",
+      "researchNote": "Siete asignaturas doctorales, seminario, examen de cualificación, investigación y defensa. Para defender se exige al menos un artículo relacionado con la tesis publicado en SCI o SCI-Expanded. Agrupa las líneas Computing Systems & Software Engineering y Signal Processing & Communication.",
+      "id": "3bdc6b31494dec9fc56c",
+      "applyUrl": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+      "sourceId": "programme-3bdc6b31494dec9fc56c",
+      "sourceName": "Cyprus International University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:41:27.771Z",
+      "seenAt": "2026-09-21T02:41:27.771Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Financiación no garantizada"
+      },
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "075febee255c40c54f8902f2c398d5d2b3a37525513b2431ee5f9ea8b02af383",
+        "checkedUrl": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+        "method": "official-programme-page",
+        "researchUrl": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+        "references": [
+          {
+            "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:41:27.771Z",
+            "contentHash": "075febee255c40c54f8902f2c398d5d2b3a37525513b2431ee5f9ea8b02af383"
+          }
+        ],
+        "checks": [
+          "research",
+          "entry"
+        ]
+      }
+    },
+    {
+      "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+      "institution": "American University of Beirut – Mediterraneo",
+      "title": "AUB Mediterraneo — ayudas y becas de posgrado",
+      "country": "CY",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Admisión al máster y pago de la confirmación de matrícula. La ayuda por necesidad exige solicitud dentro de las dos semanas siguientes a solicitar admisión; la beca de mérito se considera sin solicitud separada.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Ayuda por necesidad de hasta el 50% o beca de mérito de hasta el 100% de matrícula; los importes dependen de la concesión."
+      },
+      "duration": "Duración normal del título, condicionada al rendimiento",
+      "researchNote": "Reducciones de matrícula, sin estipendio de manutención confirmado. La beca de cohortes iniciales es del 20% hasta 2027/28 inclusive y exige devolver lo recibido si se abandona el título. Se mantienen mientras haya buen rendimiento; no se suman porcentajes para prometer financiación total. El MSc Business Analytics admite tesis de investigación.",
+      "id": "926bd2fd499b94325d8b",
+      "applyUrl": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+      "sourceId": "programme-926bd2fd499b94325d8b",
+      "sourceName": "American University of Beirut – Mediterraneo",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T11:19:30.588Z",
+      "seenAt": "2026-09-20T11:19:30.588Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "d2b1f59182187551db1fcab95c9c1b3d99b24a8fef916389f25a667e3a24d699",
+        "checkedUrl": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+        "method": "official-programme-page",
+        "researchUrl": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+        "references": [
+          {
+            "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T11:19:30.588Z",
+            "contentHash": "d2b1f59182187551db1fcab95c9c1b3d99b24a8fef916389f25a667e3a24d699"
+          },
+          {
+            "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+            "label": "Máster elegible con tesis de investigación",
+            "checkedAt": "2026-09-20T12:02:27.838Z",
+            "contentHash": "7251c389d5984ea95cd28319972373ce407bb6610674c574bd431993f32b42d6"
+          }
+        ],
+        "checks": [
+          "need-merit",
+          "conditions"
+        ]
+      }
+    },
+    {
+      "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+      "institution": "Eastern Mediterranean University",
+      "title": "EMU — becas de matrícula de máster y doctorado",
+      "country": "CY",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master",
+        "doctorado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Nueva matrícula mediante la solicitud del programa. Para doctorado: grado con media mínima 3,00/4, o 2,75–2,99 más máster con 3,50/4. Hay selección departamental y cupos. Se excluyen reingresos para obtener la beca y estudiantes visitantes.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Alumnado internacional: 50% de matrícula de máster o hasta 100% de doctorado. Nacionales de Turquía y del norte de Chipre pueden solicitar 100% también para máster, con requisitos propios."
+      },
+      "duration": "4 semestres en máster con tesis; 10 en doctorado",
+      "researchNote": "Solo cubre matrícula: quedan fuera registro, fondo de servicios y libros. Mantener media 3,00/4 y aprobar todas las asignaturas. El 100% implica al menos seis horas semanales de tareas como ayudante categoría E, sin salario adicional confirmado. Las personas con 50% no asumen esa categoría y deben elegir si también obtienen una ayudantía parcial.",
+      "id": "926f9742e769682db7c3",
+      "applyUrl": "https://grad.emu.edu.tr/en/fees/scholarships",
+      "sourceId": "programme-926f9742e769682db7c3",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T19:07:12.197Z",
+      "seenAt": "2026-09-20T19:07:12.197Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "58d405fb262ec9af25bf5c3154f245e7a6dea1ae2bc88a14749bac98caee7860",
+        "checkedUrl": "https://grad.emu.edu.tr/en/fees/scholarships",
+        "method": "official-programme-page",
+        "researchUrl": "https://grad.emu.edu.tr/en/fees/scholarships",
+        "references": [
+          {
+            "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T19:07:12.197Z",
+            "contentHash": "58d405fb262ec9af25bf5c3154f245e7a6dea1ae2bc88a14749bac98caee7860"
+          },
+          {
+            "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+            "label": "Máster con tesis elegible",
+            "checkedAt": "2026-09-21T00:53:34.972Z",
+            "contentHash": "a1a5a6a0adafbf4a9ef9d7a3db7ecd83c3eca1a72c119712c1060f6f8c24f66b"
+          },
+          {
+            "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+            "label": "Doctorado elegible",
+            "checkedAt": "2026-09-21T02:41:21.539Z",
+            "contentHash": "721caefaddead4d77e7eb073106665b1899f67762db2cf5a73db12c945dee5d7"
+          }
+        ],
+        "checks": [
+          "award",
+          "requirements",
+          "continuation"
+        ]
+      }
+    },
+    {
+      "url": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+      "institution": "Eastern Mediterranean University",
+      "title": "EMU — ayudantías remuneradas para estudiantes de posgrado",
+      "country": "CY",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master",
+        "doctorado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Estudiante de posgrado; solicitud al departamento o unidad con CV y carta de intención. La selección depende de los puestos disponibles y de requisitos adicionales del departamento.",
+      "funding": {
+        "kind": "salary",
+        "text": "Ayudantía completa: salario de importe no publicado y exención de matrícula. Parcial: la mitad del salario de una completa y exención del 50% de matrícula."
+      },
+      "duration": "Un semestre; continuidad según nueva concesión",
+      "researchNote": "Convocatoria institucional recurrente, sin vacante concreta garantizada. El fondo de servicios queda fuera. Es distinta de la beca categoría E; las incompatibilidades y tareas deben confirmarse antes de aceptar. La solicitud se entrega a la unidad académica, de investigación o administrativa correspondiente.",
+      "id": "abb0e4a07f3080aba6c8",
+      "applyUrl": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+      "sourceId": "programme-abb0e4a07f3080aba6c8",
+      "sourceName": "Eastern Mediterranean University",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T02:38:00.663Z",
+      "seenAt": "2026-09-21T02:38:00.663Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "4208da582e3d0e34c81de9dd516d44d3b3878db2429b587b36bce25b2c1717d1",
+        "checkedUrl": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+        "method": "official-programme-page",
+        "researchUrl": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+        "references": [
+          {
+            "url": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:38:00.663Z",
+            "contentHash": "4208da582e3d0e34c81de9dd516d44d3b3878db2429b587b36bce25b2c1717d1"
+          }
+        ],
+        "checks": [
+          "graduate-assistantship",
+          "application"
+        ]
+      }
+    },
+    {
+      "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+      "institution": "Cyprus International University",
+      "title": "CIU — becas académicas de posgrado",
+      "country": "CY",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master",
+        "doctorado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Solicitantes de máster o doctorado con título de grado válido y media acumulada mínima de 3,50. La universidad debe evaluar la solicitud.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Ayuda de matrícula de posgrado; porcentaje e importe no publicados en las condiciones específicas revisadas."
+      },
+      "researchNote": "La página distingue expresamente las ayudas de posgrado del descuento general del 50% para internacionales de grado. No se trasladan los porcentajes de grado al máster o doctorado. El MSc y el PhD Computer Engineering aportan las vías de investigación verificadas.",
+      "id": "108561afe0adb18ef33d",
+      "applyUrl": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+      "sourceId": "programme-108561afe0adb18ef33d",
+      "sourceName": "Cyprus International University",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T10:28:24.188Z",
+      "seenAt": "2026-09-20T10:28:24.188Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "98a570e84ba17b9d50dd84148a7d8e9d837cbd89ca4055f30594acdedb7562fb",
+        "checkedUrl": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+        "method": "official-programme-page",
+        "researchUrl": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+        "references": [
+          {
+            "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T10:28:24.188Z",
+            "contentHash": "98a570e84ba17b9d50dd84148a7d8e9d837cbd89ca4055f30594acdedb7562fb"
+          },
+          {
+            "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+            "label": "MSc con opción de tesis",
+            "checkedAt": "2026-09-21T02:41:26.812Z",
+            "contentHash": "6f34755683df21dfbe110b826094108a843bafed8df738dc9a9c64c0dc2787ce"
+          },
+          {
+            "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+            "label": "Doctorado elegible",
+            "checkedAt": "2026-09-21T02:41:27.771Z",
+            "contentHash": "075febee255c40c54f8902f2c398d5d2b3a37525513b2431ee5f9ea8b02af383"
+          }
+        ],
+        "checks": [
+          "postgraduate-scope",
+          "undergraduate-boundary"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+      "institution": "University of Central Lancashire Cyprus",
+      "title": "UCLan Cyprus — becas y reducciones de matrícula de posgrado",
+      "country": "CY",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Nuevo alumnado 2026/27. Para la beca general de hasta el 30% se exige entrevista satisfactoria con la dirección del curso o de la escuela; existen categorías específicas para titulados, familiares y personal.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Hasta el 30% sobre la tarifa original de 10.500 EUR; Data Analytics y Cybersecurity anuncian 7.350 EUR finales. Otras categorías: 40% para alumni y 50% para personal y familiares de primer grado."
+      },
+      "researchNote": "Las condiciones publicadas impiden acumular descuentos: se aplica solo el mayor. Las repeticiones de asignaturas se cobran con la tarifa anterior a la ayuda. Las becas basadas en notas de secundaria se limitan al grado y no se trasladan a posgrado. Comprobar la categoría y el importe en la oferta individual.",
+      "id": "bf6fc581f22b45920474",
+      "applyUrl": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+      "sourceId": "programme-bf6fc581f22b45920474",
+      "sourceName": "University of Central Lancashire Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:38:06.986Z",
+      "seenAt": "2026-09-21T02:19:52.489Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "a35de1fa128b56127a74bca9100c9d0b36d9d5cce2c960f295cba0ba7e0f586d",
+        "checkedUrl": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "references": [
+          {
+            "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:19:52.489Z",
+            "contentHash": "a35de1fa128b56127a74bca9100c9d0b36d9d5cce2c960f295cba0ba7e0f586d"
+          },
+          {
+            "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+            "label": "MSc Data Analytics elegible",
+            "checkedAt": "2026-09-19T23:38:06.986Z",
+            "contentHash": "7e4c264aa4cc10f9389b2e362ba1774d7a395c8e78de01515854859973238aec"
+          }
+        ],
+        "checks": [
+          "postgraduate-award",
+          "categories",
+          "retake"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+      "institution": "University of Limassol",
+      "title": "University of Limassol — becas y ayudas de matrícula de máster",
+      "country": "CY",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Solicitud y evaluación del mérito o situación económica. Las becas completas financiadas por patrocinadores son limitadas y requieren entrevista; mantener media superior al 85% para conservarlas.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Becas completas competitivas de patrocinadores y posible ayudantía equivalente a hasta el 25% de matrícula; importes y disponibilidad individuales."
+      },
+      "researchNote": "La ayudantía puede cubrir investigación, docencia u otras tareas y no es un puesto garantizado. El premio final del 25% exige nota de al menos 95/100, haber pagado la matrícula y no haber recibido otra beca: es reembolso al terminar, no financiación inicial. Las cuotas de registro y otros cargos quedan fuera. La web también publica descuentos para alumni y familiares.",
+      "id": "8aad081e78464537dc64",
+      "applyUrl": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+      "sourceId": "programme-8aad081e78464537dc64",
+      "sourceName": "University of Limassol",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T13:38:12.101Z",
+      "seenAt": "2026-09-21T02:19:42.019Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "ce0e34f35d312aebb140a8bbcd6b53eff211596e3e9b5eb82b6622db43112d2f",
+        "checkedUrl": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+        "references": [
+          {
+            "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:19:42.019Z",
+            "contentHash": "ce0e34f35d312aebb140a8bbcd6b53eff211596e3e9b5eb82b6622db43112d2f"
+          },
+          {
+            "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+            "label": "Máster: ayudas por mérito y situación económica",
+            "checkedAt": "2026-09-20T13:38:12.101Z",
+            "contentHash": "4b2f30597cd2e1b91725eee44f2865dcc012e3a76005ab5b2f62c7a42351f262"
+          }
+        ],
+        "checks": [
+          "merit",
+          "assistantship",
+          "final-award",
+          "masters-applicability"
+        ]
+      }
+    },
+    {
+      "url": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+      "institution": "European University Cyprus",
+      "title": "EUC — descuento de matrícula para alumni y familiares",
+      "country": "CY",
+      "kind": "funding-programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master",
+        "doctorado"
+      ],
+      "fields": [
+        "Informática",
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Haber completado estudios en European University Cyprus o Cyprus College (Nicosia/Limassol), o ser hijo, cónyuge o hermano de una persona graduada. Matricularse en el mismo nivel o uno superior.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Descuento del 10% durante todos los años de estudio; aplicación concreta y compatibilidad con otras tarifas a confirmar."
+      },
+      "researchNote": "Beneficio institucional para continuar estudios. No equivale a salario ni manutención. Las becas de excelencia del 40%, 20% y 10% descritas en otra sección son para alumnado de grado y no se presentan aquí como ayudas doctorales.",
+      "id": "39c5dae8bcfa752459e3",
+      "applyUrl": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+      "sourceId": "programme-39c5dae8bcfa752459e3",
+      "sourceName": "European University Cyprus",
+      "status": "programme",
+      "verifiedAt": "2026-09-19T23:39:20.454Z",
+      "seenAt": "2026-09-21T02:23:04.706Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "5d0685502609573369ee59908a6cb08eab5485bc326d3e9a18c9e8c5758345dc",
+        "checkedUrl": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+        "method": "official-programme-page",
+        "researchUrl": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+        "references": [
+          {
+            "url": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:23:04.706Z",
+            "contentHash": "5d0685502609573369ee59908a6cb08eab5485bc326d3e9a18c9e8c5758345dc"
+          },
+          {
+            "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+            "label": "Máster con investigación",
+            "checkedAt": "2026-09-19T23:39:20.454Z",
+            "contentHash": "1af1e54bc19dd0dfed308899746147669bfea7620dc07b64396191420202a461"
+          },
+          {
+            "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+            "label": "Programa doctoral",
+            "checkedAt": "2026-09-21T02:31:41.765Z",
+            "contentHash": "d69e41226fb06194e5cdfaa2b108e8167a003d337adf5093e27538663749cbb6"
+          }
+        ],
+        "checks": [
+          "alumni-scope",
+          "undergraduate-boundary"
+        ]
+      }
+    },
+    {
+      "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+      "institution": "KIOS Research and Innovation Center of Excellence",
+      "title": "KIOS — cinco plazas doctorales financiadas",
+      "country": "CY",
+      "kind": "position",
+      "stage": "doctorado",
+      "city": "Nicosia",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Matemáticas aplicadas"
+      ],
+      "hours": "Tiempo completo",
+      "languages": [
+        "Inglés"
+      ],
+      "programmeType": "Convocatoria doctoral financiada",
+      "entry": "Grado o máster en ingeniería, informática, matemáticas o área afín. Inglés acreditado, por ejemplo IELTS 6,5 o TOEFL iBT 80. La admisión al doctorado de UCY requiere otra solicitud y calendario.",
+      "funding": {
+        "kind": "salary",
+        "text": "Desde 1.700 EUR brutos al mes, con la paga 13 incorporada. Cubre matrícula excepto el anticipo de 500 EUR.",
+        "amount": 1700,
+        "currency": "EUR",
+        "period": "month",
+        "gross": true
+      },
+      "duration": "1 año inicial; renovación anual según rendimiento hasta 3–5 años",
+      "researchNote": "Una convocatoria para cinco plazas en control, aprendizaje automático, sistemas autónomos, optimización y seguridad de infraestructuras. Evaluación continua hasta el cierre del 25 de septiembre de 2026; la beca depende de conseguir admisión doctoral. Presentar CV, expediente, motivación, inglés y dos referencias.",
+      "id": "ceee0f527faa3f3c8d93",
+      "applyUrl": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+      "sourceId": "programme-ceee0f527faa3f3c8d93",
+      "sourceName": "KIOS Research and Innovation Center of Excellence",
+      "status": "open",
+      "verifiedAt": "2026-09-21T02:34:27.278Z",
+      "seenAt": "2026-09-21T02:34:27.278Z",
+      "deadline": "2026-09-25",
+      "deadlinePrecision": "date",
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "92e01006f890bfc87ee8822c284f29efbc68c087d255c63cdf357d0f0d5147f4",
+        "checkedUrl": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+        "method": "official-reviewed-call-page",
+        "researchUrl": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+        "references": [
+          {
+            "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:34:27.278Z",
+            "contentHash": "92e01006f890bfc87ee8822c284f29efbc68c087d255c63cdf357d0f0d5147f4"
+          }
+        ],
+        "checks": [
+          "places",
+          "pay",
+          "term"
+        ]
+      }
+    },
+    {
+      "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+      "institution": "KIOS Research and Innovation Center of Excellence",
+      "title": "SPRING DC12 — PhD en gemelos digitales e infraestructuras resilientes",
+      "country": "CY",
+      "kind": "position",
+      "stage": "doctorado",
+      "city": "Nicosia",
+      "fields": [
+        "Informática",
+        "Machine learning",
+        "Matemáticas aplicadas"
+      ],
+      "hours": "Tiempo completo",
+      "languages": [
+        "Inglés"
+      ],
+      "programmeType": "Plaza doctoral MSCA",
+      "entry": "Grado afín, base sólida en control o sistemas ciberfísicos y programación científica; inglés, por ejemplo IELTS 6,5. Cualquier nacionalidad, sin doctorado previo y con regla de movilidad MSCA: no más de 12 meses de actividad o residencia en Chipre en los 36 anteriores, con las excepciones oficiales.",
+      "funding": {
+        "kind": "salary",
+        "text": "2.845,92 EUR brutos/mes más 689,99 EUR brutos de movilidad; 481,05 EUR familiares si corresponde. Incluye matrícula y seguros según las condiciones de UCY.",
+        "amount": 2845.92,
+        "currency": "EUR",
+        "period": "month",
+        "gross": true
+      },
+      "duration": "Mínimo 3 años, sujeto a evaluación anual",
+      "researchNote": "Una plaza sobre gemelos digitales, métodos formales e IA explicable para infraestructuras críticas. La solicitud debe enviarse tanto al portal de UCY como al de SPRING; presentar solo una no basta. Evaluación continua hasta cubrir la plaza y cierre máximo el 16 de octubre de 2026.",
+      "id": "3aea93a4dff34719b449",
+      "applyUrl": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+      "sourceId": "programme-3aea93a4dff34719b449",
+      "sourceName": "KIOS Research and Innovation Center of Excellence",
+      "status": "open",
+      "verifiedAt": "2026-09-21T02:34:25.556Z",
+      "seenAt": "2026-09-21T02:34:25.556Z",
+      "deadline": "2026-10-16",
+      "deadlinePrecision": "date",
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "74253b21076037054cd08a77eae8592371a975e6cf08d32ba420ddd09e4a4799",
+        "checkedUrl": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+        "method": "official-reviewed-call-page",
+        "researchUrl": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+        "references": [
+          {
+            "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:34:25.556Z",
+            "contentHash": "74253b21076037054cd08a77eae8592371a975e6cf08d32ba420ddd09e4a4799"
+          }
+        ],
+        "checks": [
+          "pay",
+          "mobility",
+          "application"
+        ]
+      }
+    },
+    {
+      "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+      "institution": "KIOS Research and Innovation Center of Excellence",
+      "title": "KIOS — prácticas remuneradas de investigación y programación",
+      "country": "CY",
+      "kind": "position",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master"
+      ],
+      "city": "Nicosia",
+      "fields": [
+        "Informática"
+      ],
+      "languages": [
+        "Inglés"
+      ],
+      "programmeType": "Prácticas de investigación con admisión continua",
+      "entry": "Estudiante de grado o posgrado de una universidad acreditada, en Chipre o fuera. Buen inglés; para la vía de investigación, expediente sólido y al menos dos años de grado en ciencias o ingeniería. Las tareas de programación exigen conocimientos pertinentes.",
+      "funding": {
+        "kind": "salary",
+        "text": "7,77 EUR brutos por hora; contribuciones descontadas de ese importe.",
+        "amount": 7.77,
+        "currency": "EUR",
+        "period": "hour",
+        "gross": true
+      },
+      "duration": "3 meses iniciales de prueba; posible renovación",
+      "hours": "Presencial; hasta 20 h/semana durante el curso o 35 en vacaciones",
+      "researchNote": "Convocatoria continua para proyectos supervisados de investigación, programación, datos y sistemas. También ofrece tareas administrativas o de innovación: elegir un proyecto con aportación investigadora. La selección y renovación dependen del perfil, rendimiento y necesidades de los proyectos.",
+      "id": "45992fd95281c60a1535",
+      "applyUrl": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+      "sourceId": "programme-45992fd95281c60a1535",
+      "sourceName": "KIOS Research and Innovation Center of Excellence",
+      "status": "rolling",
+      "verifiedAt": "2026-09-21T02:34:29.088Z",
+      "seenAt": "2026-09-21T02:34:29.088Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "53eb98898ccc0f977a0464ad490636fb5ec47f7958d34e5248ef9628d6424ab0",
+        "checkedUrl": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+        "method": "official-reviewed-call-page",
+        "researchUrl": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+        "references": [
+          {
+            "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T02:34:29.088Z",
+            "contentHash": "53eb98898ccc0f977a0464ad490636fb5ec47f7958d34e5248ef9628d6424ab0"
+          }
+        ],
+        "checks": [
+          "research-entry",
+          "pay-hours"
+        ]
+      }
     }
   ],
   "sources": [
@@ -247552,90 +249842,755 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-588eead498d2b2e4b10f",
+      "name": "American University of Beirut – Mediterraneo · MSc Business Analytics — opción de tesis de investigación",
+      "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T11:19:30.588Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-5548b74c6126005d7a09",
+      "name": "European University Cyprus · MSc Artificial Intelligence — online",
+      "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:39:20.454Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-37db37a2b45cdf8bbafb",
+      "name": "European University Cyprus · MSc Computer Science",
+      "url": "https://euc.ac.cy/en/programs/master-computer-science/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:56:37.088Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-6c6876b1d9948d2e30f0",
+      "name": "European University Cyprus · MSc Financial Data Analytics and Sustainable Finance — título conjunto",
+      "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "EU",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:25:09.361Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-ed6f2ee2384667474a31",
+      "name": "Frederick University · MSc Web and Smart Systems",
+      "url": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:39:36.321Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-a24c026d87580c142fe8",
+      "name": "Neapolis University Pafos · MSc Information Systems and Digital Innovation",
+      "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T10:48:47.929Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7857bb8253757a05ee94",
+      "name": "University of Central Lancashire Cyprus · MSc Computing",
+      "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T10:34:42.528Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-443ba1a35ea2786805e6",
+      "name": "University of Central Lancashire Cyprus · MSc Data Analytics",
+      "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:30:34.974Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-3e12bd311ad127f12a34",
+      "name": "University of Central Lancashire Cyprus · MSc Cybersecurity",
+      "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:19:52.489Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-c7000e2b2a037c6b7bfd",
+      "name": "University of Limassol · MSc Business Intelligence and Data Analytics",
+      "url": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T14:19:14.946Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-2981cb040837eb300812",
+      "name": "University of Limassol · MSc Computer Science and Business Technologies",
+      "url": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T14:14:18.141Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-3abe2182ae2924239dfe",
+      "name": "University of Limassol · MSc Data Analytics for Business — distance learning",
+      "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T13:38:12.101Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-a4c7a337baa011420ead",
+      "name": "Eastern Mediterranean University · MSc Applied Mathematics and Computer Science — with thesis",
+      "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:53:34.972Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-401b6bbef61a839e12ea",
+      "name": "Eastern Mediterranean University · MSc Computer Engineering — with thesis",
+      "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:37:58.045Z",
+        "pages": 4,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-8666eada0ae56770c2f7",
+      "name": "Eastern Mediterranean University · MSc Information Technology — with thesis",
+      "url": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:37:58.045Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-aa659758c21154437597",
+      "name": "Eastern Mediterranean University · MSc Mathematics — with thesis",
+      "url": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:37:58.045Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-0b793404ae462f0f6333",
+      "name": "Cyprus International University · MSc Computer Engineering — thesis option",
+      "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T10:28:24.188Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-4537267357f3f6d4fcc9",
+      "name": "Cyprus Aydın University · MSc Computer Engineering — with thesis",
+      "url": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:34:16.495Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-870cf2a5a9621ac7235b",
+      "name": "Cyprus Aydın University · MSc Software Engineering — with thesis",
+      "url": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:34:16.495Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7952d7d8337fb868c483",
+      "name": "Kıbrıs Amerikan Üniversitesi · M.Tech. Information Technology — with thesis",
+      "url": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:47:46.159Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-44a866356895094ab41b",
+      "name": "European University Cyprus · PhD Computer Science",
+      "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:31:41.765Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-2cc386105b7deefacede",
+      "name": "Frederick University · PhD Electrical Engineering, Computer Engineering and Informatics",
+      "url": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T13:58:06.654Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-24d2f1b7993bb9726d51",
+      "name": "Eastern Mediterranean University · PhD Applied Mathematics and Computer Science",
+      "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:37:58.045Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-471998e499b152b924b6",
+      "name": "Eastern Mediterranean University · PhD Computer Engineering",
+      "url": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:37:58.045Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-a47909a5db250e832234",
+      "name": "Eastern Mediterranean University · PhD Mathematics",
+      "url": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:37:58.045Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-3bdc6b31494dec9fc56c",
+      "name": "Cyprus International University · PhD Computer Engineering",
+      "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:41:27.771Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-926bd2fd499b94325d8b",
+      "name": "American University of Beirut – Mediterraneo · AUB Mediterraneo — ayudas y becas de posgrado",
+      "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T11:19:30.588Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-926f9742e769682db7c3",
+      "name": "Eastern Mediterranean University · EMU — becas de matrícula de máster y doctorado",
+      "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "CY",
+      "stages": [
+        "master",
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T19:07:12.197Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-abb0e4a07f3080aba6c8",
+      "name": "Eastern Mediterranean University · EMU — ayudantías remuneradas para estudiantes de posgrado",
+      "url": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "CY",
+      "stages": [
+        "master",
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:38:00.663Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-108561afe0adb18ef33d",
+      "name": "Cyprus International University · CIU — becas académicas de posgrado",
+      "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "CY",
+      "stages": [
+        "master",
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T10:28:24.188Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-bf6fc581f22b45920474",
+      "name": "University of Central Lancashire Cyprus · UCLan Cyprus — becas y reducciones de matrícula de posgrado",
+      "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:38:06.986Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-8aad081e78464537dc64",
+      "name": "University of Limassol · University of Limassol — becas y ayudas de matrícula de máster",
+      "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "CY",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T13:38:12.101Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-39c5dae8bcfa752459e3",
+      "name": "European University Cyprus · EUC — descuento de matrícula para alumni y familiares",
+      "url": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "CY",
+      "stages": [
+        "master",
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-19T23:39:20.454Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-ceee0f527faa3f3c8d93",
+      "name": "KIOS Research and Innovation Center of Excellence · KIOS — cinco plazas doctorales financiadas",
+      "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:34:27.278Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-3aea93a4dff34719b449",
+      "name": "KIOS Research and Innovation Center of Excellence · SPRING DC12 — PhD en gemelos digitales e infraestructuras resilientes",
+      "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:34:25.556Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-45992fd95281c60a1535",
+      "name": "KIOS Research and Innovation Center of Excellence · KIOS — prácticas remuneradas de investigación y programación",
+      "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "CY",
+      "stages": [
+        "grado",
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T02:34:29.088Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "b14a1e8b-c189-4da1-aa4a-1cc9e989ce40",
+    "id": "27f89fb5-2e12-4d3b-af4d-cbd7eb8ba59b",
     "type": "programme-verification",
-    "parentRunId": "0d6bdca6-3e2c-4421-a1de-c3ffe964fb87",
-    "startedAt": "2026-09-21T02:11:59.907Z",
-    "finishedAt": "2026-09-21T02:12:02.936Z",
+    "parentRunId": "b14a1e8b-c189-4da1-aa4a-1cc9e989ce40",
+    "startedAt": "2026-09-21T03:08:30.815Z",
+    "finishedAt": "2026-09-21T03:08:33.073Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-763f605a5ab1c467bc34",
-        "name": "University of Malta · MSc Statistics — mainly by research",
-        "url": "https://www.um.edu.mt/courses/overview/pmscstaftr8-2026-7-o/",
+        "id": "programme-588eead498d2b2e4b10f",
+        "name": "American University of Beirut – Mediterraneo · MSc Business Analytics — opción de tesis de investigación",
+        "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
         "adapter": "programme",
         "type": "institution",
-        "scope": "MT",
+        "scope": "CY",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T01:21:00.431Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d4ce7a2f1aac7471c0d1",
-        "name": "University of Malta · MSc Operations Research — mainly by research",
-        "url": "https://www.um.edu.mt/courses/overview/pmscoprftr8-2026-7-o/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:21:02.566Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-60194414f76a50aeced0",
-        "name": "University of Malta · MSc Mathematics — mainly by research",
-        "url": "https://www.um.edu.mt/courses/overview/pmscmatftr0-2026-7-o/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:25:27.159Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4a91b171a98661fd25d9",
-        "name": "University of Malta · MSc Bioinformatics",
-        "url": "https://www.um.edu.mt/courses/overview/pmscbinftr9-2026-7-o/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:41:33.041Z",
+          "checkedAt": "2026-09-20T11:19:30.588Z",
           "pages": 4,
           "accepted": 1,
           "complete": true,
@@ -247643,99 +250598,19 @@
         }
       },
       {
-        "id": "programme-9a8b4db01ba60fada59d",
-        "name": "University of Malta · MSc by Research — Faculty of ICT",
-        "url": "https://www.um.edu.mt/courses/overview/pmscictftr0-2026-7-o/",
+        "id": "programme-5548b74c6126005d7a09",
+        "name": "European University Cyprus · MSc Artificial Intelligence — online",
+        "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "MT",
+        "scope": "CY",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T01:38:08.618Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8a9b9f40919230ce6585",
-        "name": "University of Malta · MSc Information Systems — rutas con tesis de 30 o 60 ECTS",
-        "url": "https://www.um.edu.mt/courses/overview/pmsciistper5-2026-7-o/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:42:03.709Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c945429e56d30a5857d8",
-        "name": "University of Malta · MSc ICT — Microelectronics and Microsystems",
-        "url": "https://www.um.edu.mt/courses/overview/pmscimmsftt0-2026-7-o/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:38:09.382Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9ed10f703fc27062d55e",
-        "name": "University of Malta · MSc Cybersecurity",
-        "url": "https://www.um.edu.mt/courses/overview/pmsciiicybptb4-2026-7-o/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:38:08.618Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1b23bf61c5728c945a4f",
-        "name": "IDEA College · MSc Artificial Intelligence",
-        "url": "https://mt.ideaeducation.com/courses/m-sc-in-artificial-intelligence",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:50:48.617Z",
+          "checkedAt": "2026-09-19T23:39:20.454Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -247743,19 +250618,19 @@
         }
       },
       {
-        "id": "programme-40efcc1d641c10fb2faa",
-        "name": "IDEA College · MSc FinTech",
-        "url": "https://mt.ideaeducation.com/courses/m-sc-in-fintech",
+        "id": "programme-37db37a2b45cdf8bbafb",
+        "name": "European University Cyprus · MSc Computer Science",
+        "url": "https://euc.ac.cy/en/programs/master-computer-science/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "MT",
+        "scope": "CY",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-19T22:15:03.506Z",
+          "checkedAt": "2026-09-19T23:56:37.088Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -247763,79 +250638,19 @@
         }
       },
       {
-        "id": "programme-0a5794299728a5063894",
-        "name": "OPIT — Open Institute of Technology · MSc Applied Data Science and Artificial Intelligence",
-        "url": "https://www.opit.com/courses/computer-science-master",
+        "id": "programme-6c6876b1d9948d2e30f0",
+        "name": "European University Cyprus · MSc Financial Data Analytics and Sustainable Finance — título conjunto",
+        "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "MT",
+        "scope": "EU",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-19T21:50:34.194Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e1ab48f2305dd56b5a61",
-        "name": "OPIT — Open Institute of Technology · MSc Enterprise Cybersecurity",
-        "url": "https://www.opit.com/courses/master-in-enterprise-cybersecurity",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:49:51.836Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-70f5ed9ecbe6dad98525",
-        "name": "OPIT — Open Institute of Technology · MSc Responsible Artificial Intelligence",
-        "url": "https://www.opit.com/courses/master-in-responsible-artificial-intelligence",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:51:04.363Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-66abd204416491c88f3f",
-        "name": "Malta College of Arts, Science and Technology · MSc Computing and Emerging Technologies",
-        "url": "https://mcast.edu.mt/full-catalogue/institute/ict/course/it7-o14-24",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:32:10.605Z",
+          "checkedAt": "2026-09-21T02:25:09.361Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -247843,99 +250658,39 @@
         }
       },
       {
-        "id": "programme-13961ee4f53d6ae643fe",
-        "name": "University of Malta · MSc Digital Games — rutas de 90 y 120 ECTS",
-        "url": "https://www.um.edu.mt/courses/overview/pmscdtgftt3-2026-7-o/",
+        "id": "programme-ed6f2ee2384667474a31",
+        "name": "Frederick University · MSc Web and Smart Systems",
+        "url": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
         "adapter": "programme",
         "type": "institution",
-        "scope": "MT",
+        "scope": "CY",
         "stages": [
           "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T01:42:03.709Z",
-          "pages": 6,
+          "checkedAt": "2026-09-19T23:39:36.321Z",
+          "pages": 1,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-7c0be268470c235f6d36",
-        "name": "University of Malta · PhD — Faculty of Science: matemáticas, estadística e investigación operativa",
-        "url": "https://www.um.edu.mt/science/study/doctoralresearchphd/",
+        "id": "programme-a24c026d87580c142fe8",
+        "name": "Neapolis University Pafos · MSc Information Systems and Digital Innovation",
+        "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "MT",
+        "scope": "CY",
         "stages": [
-          "doctorado"
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T01:45:42.582Z",
-          "pages": 8,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d3659403ed7cf707e9ec",
-        "name": "University of Malta · PhD Digital Games — investigación en tecnología e IA de videojuegos",
-        "url": "https://www.um.edu.mt/digitalgames/phd/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:45:42.582Z",
-          "pages": 6,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-96aa148a150b64955f91",
-        "name": "University of Malta · PhD — Information and Communication Technology",
-        "url": "https://www.um.edu.mt/ict/students/postgraduate/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T01:25:27.760Z",
-          "pages": 6,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3cc025404e2c615b6c6c",
-        "name": "OPIT — Open Institute of Technology · Professional Doctorate in Applied Artificial Intelligence",
-        "url": "https://www.opit.com/courses/professional-doctorate-in-applied-artificial-intelligence",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "MT",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:50:18.649Z",
+          "checkedAt": "2026-09-20T10:48:47.929Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -247943,20 +250698,440 @@
         }
       },
       {
-        "id": "programme-3590e0f21d6e93fbfe99",
-        "name": "OPIT — Open Institute of Technology · OPIT — ayudas de matrícula por necesidad económica y mérito",
-        "url": "https://www.opit.com/fee-admission/",
+        "id": "programme-7857bb8253757a05ee94",
+        "name": "University of Central Lancashire Cyprus · MSc Computing",
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T10:34:42.528Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-443ba1a35ea2786805e6",
+        "name": "University of Central Lancashire Cyprus · MSc Data Analytics",
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T23:30:34.974Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-3e12bd311ad127f12a34",
+        "name": "University of Central Lancashire Cyprus · MSc Cybersecurity",
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:19:52.489Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-c7000e2b2a037c6b7bfd",
+        "name": "University of Limassol · MSc Business Intelligence and Data Analytics",
+        "url": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T14:19:14.946Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-2981cb040837eb300812",
+        "name": "University of Limassol · MSc Computer Science and Business Technologies",
+        "url": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T14:14:18.141Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-3abe2182ae2924239dfe",
+        "name": "University of Limassol · MSc Data Analytics for Business — distance learning",
+        "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T13:38:12.101Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-a4c7a337baa011420ead",
+        "name": "Eastern Mediterranean University · MSc Applied Mathematics and Computer Science — with thesis",
+        "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T00:53:34.972Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-401b6bbef61a839e12ea",
+        "name": "Eastern Mediterranean University · MSc Computer Engineering — with thesis",
+        "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:37:58.045Z",
+          "pages": 4,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-8666eada0ae56770c2f7",
+        "name": "Eastern Mediterranean University · MSc Information Technology — with thesis",
+        "url": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:37:58.045Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-aa659758c21154437597",
+        "name": "Eastern Mediterranean University · MSc Mathematics — with thesis",
+        "url": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:37:58.045Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-0b793404ae462f0f6333",
+        "name": "Cyprus International University · MSc Computer Engineering — thesis option",
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T10:28:24.188Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-4537267357f3f6d4fcc9",
+        "name": "Cyprus Aydın University · MSc Computer Engineering — with thesis",
+        "url": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:34:16.495Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-870cf2a5a9621ac7235b",
+        "name": "Cyprus Aydın University · MSc Software Engineering — with thesis",
+        "url": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:34:16.495Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-7952d7d8337fb868c483",
+        "name": "Kıbrıs Amerikan Üniversitesi · M.Tech. Information Technology — with thesis",
+        "url": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:47:46.159Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-44a866356895094ab41b",
+        "name": "European University Cyprus · PhD Computer Science",
+        "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:31:41.765Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-2cc386105b7deefacede",
+        "name": "Frederick University · PhD Electrical Engineering, Computer Engineering and Informatics",
+        "url": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T13:58:06.654Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-24d2f1b7993bb9726d51",
+        "name": "Eastern Mediterranean University · PhD Applied Mathematics and Computer Science",
+        "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:37:58.045Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-471998e499b152b924b6",
+        "name": "Eastern Mediterranean University · PhD Computer Engineering",
+        "url": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:37:58.045Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-a47909a5db250e832234",
+        "name": "Eastern Mediterranean University · PhD Mathematics",
+        "url": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:37:58.045Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-3bdc6b31494dec9fc56c",
+        "name": "Cyprus International University · PhD Computer Engineering",
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:41:27.771Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-926bd2fd499b94325d8b",
+        "name": "American University of Beirut – Mediterraneo · AUB Mediterraneo — ayudas y becas de posgrado",
+        "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
         "adapter": "programme",
         "type": "funder",
-        "scope": "MT",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T11:19:30.588Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-926f9742e769682db7c3",
+        "name": "Eastern Mediterranean University · EMU — becas de matrícula de máster y doctorado",
+        "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "CY",
         "stages": [
           "master",
-          "grado"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-19T21:50:34.194Z",
+          "checkedAt": "2026-09-20T19:07:12.197Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -247964,21 +251139,61 @@
         }
       },
       {
-        "id": "programme-15df6f6ca65edae5102e",
-        "name": "University of Malta · UM — exención de matrícula para personal y dependientes",
-        "url": "https://www.um.edu.mt/hr/scholarships-bursaries/waiveroffees",
+        "id": "programme-abb0e4a07f3080aba6c8",
+        "name": "Eastern Mediterranean University · EMU — ayudantías remuneradas para estudiantes de posgrado",
+        "url": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
         "adapter": "programme",
         "type": "funder",
-        "scope": "MT",
+        "scope": "CY",
         "stages": [
           "master",
-          "doctorado",
-          "grado"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T12:06:27.532Z",
+          "checkedAt": "2026-09-21T02:38:00.663Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-108561afe0adb18ef33d",
+        "name": "Cyprus International University · CIU — becas académicas de posgrado",
+        "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "CY",
+        "stages": [
+          "master",
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T10:28:24.188Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-bf6fc581f22b45920474",
+        "name": "University of Central Lancashire Cyprus · UCLan Cyprus — becas y reducciones de matrícula de posgrado",
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T23:38:06.986Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -247986,19 +251201,101 @@
         }
       },
       {
-        "id": "programme-779a5bebb895087c937b",
-        "name": "University of Malta · RIDT — ayudas para congresos de doctorandos de UM",
-        "url": "https://www.um.edu.mt/doctoralschool/applyforyourdoctoralstudies/scholarshipsandgrants/ridttravelgrants/",
+        "id": "programme-8aad081e78464537dc64",
+        "name": "University of Limassol · University of Limassol — becas y ayudas de matrícula de máster",
+        "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
         "adapter": "programme",
         "type": "funder",
-        "scope": "MT",
+        "scope": "CY",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-20T13:38:12.101Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-39c5dae8bcfa752459e3",
+        "name": "European University Cyprus · EUC — descuento de matrícula para alumni y familiares",
+        "url": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "CY",
+        "stages": [
+          "master",
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-19T23:39:20.454Z",
+          "pages": 3,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-ceee0f527faa3f3c8d93",
+        "name": "KIOS Research and Innovation Center of Excellence · KIOS — cinco plazas doctorales financiadas",
+        "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T01:23:35.240Z",
+          "checkedAt": "2026-09-21T02:34:27.278Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-3aea93a4dff34719b449",
+        "name": "KIOS Research and Innovation Center of Excellence · SPRING DC12 — PhD en gemelos digitales e infraestructuras resilientes",
+        "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:34:25.556Z",
+          "pages": 1,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-45992fd95281c60a1535",
+        "name": "KIOS Research and Innovation Center of Excellence · KIOS — prácticas remuneradas de investigación y programación",
+        "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+        "adapter": "programme",
+        "type": "institution",
+        "scope": "CY",
+        "stages": [
+          "grado",
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T02:34:29.088Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -248007,11 +251304,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-21T02:11:59.907Z",
-      "finishedAt": "2026-09-21T02:12:02.936Z",
+      "startedAt": "2026-09-21T03:08:30.815Z",
+      "finishedAt": "2026-09-21T03:08:33.073Z",
       "scope": "selected-programmes",
-      "verified": 22,
-      "attempted": 22,
+      "verified": 36,
+      "attempted": 36,
       "partial": 0
     }
   },

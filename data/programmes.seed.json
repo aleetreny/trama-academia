@@ -164445,5 +164445,2100 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+    "institution": "American University of Beirut – Mediterraneo",
+    "title": "MSc Business Analytics — opción de tesis de investigación",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "duration": "90 ECTS · 1,5 años",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Titulación universitaria y expediente, declaración de propósito y CV. IELTS académico 7 o TOEFL iBT 97 —5 en la escala 2026 de 1 a 6—, salvo exención. GRE/GMAT no son obligatorios para admisión.",
+    "feeNote": "La tabla publicada es de 2025/26: 320 EUR por ECTS, 19.200 EUR por 60 ECTS anuales. No es una tarifa 2026/27 confirmada ni el precio total de los 90 ECTS. Las becas se aplican por separado.",
+    "researchNote": "Permite elegir una tesis de investigación de 18 ECTS en lugar del capstone de 9 ECTS con una optativa adicional. Incluye estadística, optimización y aprendizaje automático. El campus principal es Pafos, pero todos los estudiantes deben poder viajar al Líbano y completar una estancia en AUB Beirut. La admisión de primavera de 2027 cierra el 30 de noviembre de 2026; el plazo de otoño de 2027 es el 15 de marzo de 2027.",
+    "evidencePages": [
+      {
+        "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Admissions.aspx",
+        "label": "Admisión, fechas y estancia obligatoria en Beirut"
+      },
+      {
+        "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+        "label": "Tarifas publicadas y ayudas de posgrado"
+      },
+      {
+        "url": "https://aubmed.ac.cy/Documents/MS-in-Business-Analytics.pdf",
+        "label": "Plan: alternativas de tesis y capstone",
+        "format": "pdf",
+        "pages": [
+          1
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+        "field": "research-option",
+        "phrases": [
+          "Research Thesis",
+          "18 ECTS",
+          "Machine Learning"
+        ]
+      },
+      {
+        "url": "https://aubmed.ac.cy/Documents/MS-in-Business-Analytics.pdf",
+        "field": "thesis-option",
+        "phrases": [
+          "MSBA 609 Research Thesis 18",
+          "MSBA 608 Capstone Project 9"
+        ]
+      },
+      {
+        "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Admissions.aspx",
+        "field": "entry-calendar-mobility",
+        "phrases": [
+          "IELTS Academic",
+          "97 or 5",
+          "November 30, 2026",
+          "March 15, 2027",
+          "will be required to complete a period of residency at AUB in Beirut"
+        ]
+      },
+      {
+        "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+        "field": "dated-fee",
+        "phrases": [
+          "2025-2026",
+          "€ 320",
+          "€ 19,200",
+          "90 ECTS (1.5 years)"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+    "institution": "European University Cyprus",
+    "title": "MSc Artificial Intelligence — online",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Machine learning",
+      "Ciencia de datos",
+      "Informática"
+    ],
+    "duration": "18 meses · 90 ECTS",
+    "hours": "En línea",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado en informática, matemáticas, ingeniería o campo afín; otros perfiles pueden acceder tras cursos preparatorios. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+    "feeNote": "6.237 EUR por los 90 ECTS completos; la tarifa a distancia incluye las reducciones anunciadas. La solicitud tiene una tasa de 80 o 200 EUR según el caso.",
+    "researchNote": "Tesis AI690 de 30 ECTS, además de 40 ECTS obligatorios y 20 optativos. Incluye aprendizaje automático, representación del conocimiento y grandes datos, con opciones de redes neuronales, NLP y robótica. Anuncia entrada en octubre de 2026, sin plazo de solicitud confirmado.",
+    "evidenceChecks": [
+      {
+        "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+        "field": "curriculum",
+        "phrases": [
+          "AI690 Master Thesis 30",
+          "Compulsory Courses 40",
+          "Elective Courses 20"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+        "field": "entry",
+        "phrases": [
+          "Computer Science, Mathematics, Engineering",
+          "preparatory courses",
+          "level B2 or above"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+        "field": "fees-duration",
+        "phrases": [
+          "18 months",
+          "6,237/90 ECTS Full Program",
+          "total cost for completion of the degree",
+          "October 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://euc.ac.cy/en/programs/master-computer-science/",
+    "institution": "European University Cyprus",
+    "title": "MSc Computer Science",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "18 meses · 90 ECTS",
+    "hours": "Presencial · Nicosia",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado en informática, ingeniería de computadores o un campo relacionado. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+    "feeNote": "La web muestra 6.237 EUR con las etiquetas «por año» y «90 ECTS Full Program». El importe anual o total queda por confirmar por esa contradicción; no se multiplica ni se presenta como coste completo.",
+    "researchNote": "Tesis CSC694 de 20 ECTS, con 50 ECTS obligatorios y 20 optativos. Programa de informática con investigación y opciones de continuación doctoral. La ficha anuncia octubre de 2026 como siguiente entrada, no como fecha límite.",
+    "evidenceChecks": [
+      {
+        "url": "https://euc.ac.cy/en/programs/master-computer-science/",
+        "field": "thesis",
+        "phrases": [
+          "CSC694",
+          "Master Thesis 20",
+          "Compulsory Courses 50",
+          "Elective Courses 20"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/master-computer-science/",
+        "field": "entry",
+        "phrases": [
+          "Computer Science, Computer Engineering",
+          "level B2 or above"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/master-computer-science/",
+        "field": "fee-conflict",
+        "phrases": [
+          "6,237 per year/90 ECTS Full Program",
+          "18 months"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+    "institution": "European University Cyprus",
+    "title": "MSc Financial Data Analytics and Sustainable Finance — título conjunto",
+    "country": "EU",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática"
+    ],
+    "duration": "2 años · 120 ECTS",
+    "hours": "Presencial, con movilidad obligatoria",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado universitario reconocido. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+    "feeNote": "EUC publica 9.240 EUR por año/60 ECTS, con posibles reducciones. Confirmar el coste completo con el consorcio; no se extrapola esta tarifa a los cuatro centros.",
+    "researchNote": "Tesis de 30 ECTS y métodos cuantitativos: econometría, computación financiera, IA y grandes datos. Inicio obligatorio en Pardubice (Chequia); segundo semestre en EUC (Chipre); tercero en LUMSA (Italia) o Vilnius (Lituania); tesis en cualquiera de los cuatro. Se agrupan las especializaciones de finanzas corporativas y mercados financieros en una ficha.",
+    "evidenceChecks": [
+      {
+        "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+        "field": "research",
+        "phrases": [
+          "FDA690 Master Diploma Thesis 30",
+          "Principles of Artificial Intelligence and Machine Learning",
+          "Applied Financial Econometrics",
+          "Big Data Analytics in Finance"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+        "field": "geography",
+        "phrases": [
+          "begin their studies at the University of Pardubice",
+          "second semester is completed at European University Cyprus",
+          "LUMSA University (Italy) or Vilnius University (Lithuania)"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/master-financial-data-analytics-and-sustainable-finance/",
+        "field": "entry-fee",
+        "phrases": [
+          "bachelor’s degree or an equivalent qualification",
+          "level B2 or above",
+          "€9,240 per year/60 ECTS",
+          "24 months"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+    "institution": "Frederick University",
+    "title": "MSc Web and Smart Systems",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "duration": "18 meses completo · 90 ECTS; opción parcial",
+    "hours": "Nicosia o Limassol · completo o parcial",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado en informática, ingeniería de computadores, tecnologías de la información o un campo afín. IELTS 6 o TOEFL 70, u otra certificación aceptada; exención para titulados de universidades anglófonas. Se valora experiencia relevante.",
+    "feeNote": "9.000 EUR por el programa completo; financiación no automática.",
+    "researchNote": "Tesis de 20 ECTS más 10 ECTS de metodología y planificación. Las dos especializaciones, Web Systems y Smart Systems, comparten título y se agrupan. Trabaja sistemas distribuidos, datos, interacción persona-ordenador y dispositivos conectados; permite investigación independiente.",
+    "evidenceChecks": [
+      {
+        "url": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+        "field": "research",
+        "phrases": [
+          "MASTER THESIS",
+          "REASEARCH METHODOLOGY AND THESIS PLANNING",
+          "Conduct independent research",
+          "90 ECTS"
+        ]
+      },
+      {
+        "url": "https://frederick.ac.cy/en/msc-in-web-and-smart-systems",
+        "field": "entry-fees",
+        "phrases": [
+          "Computer Science, Computer Engineering, Information Technology",
+          "TOEFL (70+)",
+          "IELTS (6+)",
+          "€9,000 for whole program",
+          "18 months"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+    "institution": "Neapolis University Pafos",
+    "title": "MSc Information Systems and Digital Innovation",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "duration": "3 semestres · 90 ECTS",
+    "hours": "Presencial o a distancia",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Titulación universitaria, declaración de interés y dos referencias, al menos una académica. La página publica un mínimo de inglés B1; contempla prueba propia y cursos de apoyo.",
+    "feeNote": "Importe no confirmado en las páginas revisadas; solicitar presupuesto del itinerario elegido.",
+    "researchNote": "Tesis original de 30 ECTS, propuesta supervisada y defensa ante tres miembros. Incluye métodos de investigación, programación con aprendizaje automático y analítica de grandes datos. Las modalidades presencial y a distancia se agrupan. La presencial contempla finalizar en 12 meses con tesis durante el verano; confirmar disponibilidad de esa opción.",
+    "evidencePages": [
+      {
+        "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation-distance-learning",
+        "label": "Modalidad a distancia del mismo título"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+        "field": "research-entry",
+        "phrases": [
+          "Dissertation, which corresponds to 30 ECTS",
+          "should be original",
+          "three-member committee",
+          "B1 level",
+          "12 months"
+        ]
+      },
+      {
+        "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation/",
+        "field": "discipline",
+        "phrases": [
+          "Programming with Machine Learning Techniques",
+          "Big Data and Analytics"
+        ]
+      },
+      {
+        "url": "https://www.nup.ac.cy/msc-in-information-systems-and-digital-innovation-distance-learning",
+        "field": "distance-thesis",
+        "phrases": [
+          "Dissertation, which corresponds to 30 ECTS",
+          "90 Credits (ECTS)",
+          "B1 level"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+    "institution": "University of Central Lancashire Cyprus",
+    "title": "MSc Computing",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "90 ECTS · completo o parcial",
+    "hours": "Presencial; completo o parcial",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado con al menos Lower Second Class (2:2) o equivalente. Acreditación de inglés: la web indica IELTS 6,5 y el folleto enlazado especifica C1; confirmar el criterio vigente.",
+    "feeNote": "9.500 EUR por 90 ECTS, tras la reducción general de 1.000 EUR sobre 10.500 EUR; ayudas adicionales sujetas a condiciones.",
+    "researchNote": "Máster aplicado con proyecto de 30 ECTS y formación en análisis crítico e investigación. El folleto enlazado de septiembre de 2026 difiere de la web en asignaturas y requisito de inglés: confirmar el plan y el certificado exigido con admisiones.",
+    "evidencePages": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "label": "Tarifas y becas para 2026/27"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+        "field": "research",
+        "phrases": [
+          "CO4804",
+          "30 ECTS (60 UK CREDITS)",
+          "Critical Analysis"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+        "field": "entry",
+        "phrases": [
+          "Lower Second Class",
+          "IELTS 6.5"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "field": "published-fees",
+        "phrases": [
+          "€9,500 for the entire programme (90 ECTS)",
+          "€8,500 (original fee €10,500)",
+          "only the higher will apply"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-computing/",
+        "field": "linked-2026-factsheet",
+        "links": [
+          "https://www.uclancyprus.ac.cy/wp-content/uploads/2026/09/MSc-Computing.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+    "institution": "University of Central Lancashire Cyprus",
+    "title": "MSc Data Analytics",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "duration": "90 ECTS · completo o parcial",
+    "hours": "Presencial o a distancia; completo o parcial",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado con al menos Lower Second Class (2:2) o equivalente e IELTS 6,5 o equivalente.",
+    "feeNote": "Tarifa de referencia: 9.500 EUR presencial y 8.500 EUR a distancia por 90 ECTS. Para nuevo alumnado 2026/27 se anuncia beca del 30% sobre 10.500 EUR: 7.350 EUR finales, según condiciones y sin sumar otros descuentos.",
+    "researchNote": "Proyecto de máster de 30 ECTS y módulo de análisis crítico para desarrollar investigación y escritura académica. Combina almacenamiento, minería y análisis de datos. Modalidades presencial y a distancia agrupadas; el certificado SAS complementa el título y no equivale a otro máster.",
+    "evidencePages": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "label": "Tarifas y becas para 2026/27"
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics-distance-learning/",
+        "label": "Modalidad a distancia del mismo título"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+        "field": "research",
+        "phrases": [
+          "CO4804",
+          "30 ECTS (60 UK CREDITS)",
+          "Critical Analysis"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+        "field": "entry",
+        "phrases": [
+          "Lower Second Class",
+          "IELTS 6.5"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "field": "published-fees",
+        "phrases": [
+          "€9,500 for the entire programme (90 ECTS)",
+          "€8,500 (original fee €10,500)",
+          "only the higher will apply"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+    "institution": "University of Central Lancashire Cyprus",
+    "title": "MSc Cybersecurity",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "90 ECTS · completo o parcial",
+    "hours": "Presencial o a distancia; completo o parcial",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado con al menos Lower Second Class (2:2) o equivalente e IELTS 6,5 o equivalente.",
+    "feeNote": "Tarifa de referencia: 9.500 EUR presencial y 8.500 EUR a distancia por 90 ECTS. La beca anunciada para nuevo alumnado 2026/27 reduce el precio a 7.350 EUR, con condiciones; no se acumula con otros descuentos.",
+    "researchNote": "Proyecto de máster de 30 ECTS, acompañado de formación en investigación, defensa de redes, informática forense y gestión de seguridad. Se agrupan las modalidades presencial y a distancia; escoger un proyecto con pregunta y evaluación investigadoras según la supervisión disponible.",
+    "evidencePages": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "label": "Tarifas y becas para 2026/27"
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity-distance-learning/",
+        "label": "Modalidad a distancia del mismo título"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+        "field": "research",
+        "phrases": [
+          "CO4804",
+          "30 ECTS (60 UK CREDITS)",
+          "Critical Analysis"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-cybersecurity/",
+        "field": "entry",
+        "phrases": [
+          "Lower Second Class",
+          "IELTS 6.5"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "field": "published-fees",
+        "phrases": [
+          "€9,500 for the entire programme (90 ECTS)",
+          "€8,500 (original fee €10,500)",
+          "only the higher will apply"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+    "institution": "University of Limassol",
+    "title": "MSc Business Intelligence and Data Analytics",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "duration": "14 o 24 meses · 90 ECTS",
+    "hours": "Presencial",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado reconocido; referencia académica UK 2:2, US 3,0 o Chipre/Grecia 6,5, con valoración de experiencia para notas inferiores. Inglés mediante estudios previos, condición de hablante nativo, IELTS 5,5 u otra vía admitida. Se exige una base cuantitativa previa.",
+    "feeNote": "8.930 EUR por el programa completo.",
+    "researchNote": "BI500: proyecto de investigación en ciencia de datos de 12 ECTS. Incluye métodos estadísticos, Python, datos masivos e IA aplicada. Orientación empresarial con un componente investigador explícito.",
+    "evidencePages": [
+      {
+        "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+        "label": "Duración y tarifas publicadas"
+      },
+      {
+        "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-business-intelligence-and-data-analytics.pdf",
+        "label": "Plan y créditos del proyecto",
+        "format": "pdf",
+        "pages": [
+          1
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+        "field": "programme-entry",
+        "phrases": [
+          "90",
+          "2:2 and above",
+          "3.0 and above",
+          "6.5 and above",
+          "IELTS with a score of at least 5.5"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-bida-program/",
+        "field": "research-route",
+        "phrases": [
+          "Research Project"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-business-intelligence-and-data-analytics.pdf",
+        "field": "project-credit",
+        "phrases": [
+          "Data Science Research Project",
+          "12"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+        "field": "fees-duration",
+        "phrases": [
+          "€ 8,930",
+          "14 months"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+    "institution": "University of Limassol",
+    "title": "MSc Computer Science and Business Technologies",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística"
+    ],
+    "duration": "14 meses · 90 ECTS",
+    "hours": "Presencial",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado reconocido; referencia académica UK 2:2, US 3,0 o Chipre/Grecia 6,5, con valoración de experiencia para notas inferiores. Inglés mediante estudios previos, condición de hablante nativo, IELTS 5,5 u otra vía admitida. Base cuantitativa y entrevista personal; puede requerir GRE/GMAT cuando la institución previa no sea conocida por el comité.",
+    "feeNote": "8.930 EUR por el programa completo.",
+    "researchNote": "AT1000: proyecto de investigación obligatorio de 18 ECTS. Combina algoritmos, programación, computación en la nube, datos e IA con aplicaciones empresariales.",
+    "evidencePages": [
+      {
+        "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+        "label": "Duración y tarifas publicadas"
+      },
+      {
+        "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-computer-science-business-technology.pdf",
+        "label": "Plan y créditos del proyecto",
+        "format": "pdf",
+        "pages": [
+          2
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+        "field": "programme-entry",
+        "phrases": [
+          "90",
+          "2:2 and above",
+          "3.0 and above",
+          "6.5 and above",
+          "IELTS with a score of at least 5.5"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-csbt-program/",
+        "field": "research-route",
+        "phrases": [
+          "Research Project"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-computer-science-business-technology.pdf",
+        "field": "project-credit",
+        "phrases": [
+          "Mandatory Research Project",
+          "18"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+        "field": "fees-duration",
+        "phrases": [
+          "€ 8,930",
+          "14 months"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+    "institution": "University of Limassol",
+    "title": "MSc Data Analytics for Business — distance learning",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Ciencia de datos",
+      "Informática"
+    ],
+    "duration": "18 meses · 90 ECTS",
+    "hours": "A distancia",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado reconocido; referencia académica UK 2:2, US 3,0 o Chipre/Grecia 6,5, con valoración de experiencia para notas inferiores. Inglés mediante estudios previos, condición de hablante nativo, IELTS 5,5 u otra vía admitida.",
+    "feeNote": "8.750 EUR por el programa completo.",
+    "researchNote": "BAN700: proyecto final de 10 ECTS, con opción explícita de investigación o de aplicación profesional. Para la trayectoria académica interesa acordar la primera. Se distingue del MSc Business Intelligence and Data Analytics por título, estructura y modalidad.",
+    "evidencePages": [
+      {
+        "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+        "label": "Duración y tarifas publicadas"
+      },
+      {
+        "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-data-analytics-for-business-dl.pdf",
+        "label": "Plan y créditos del proyecto",
+        "format": "pdf",
+        "pages": [
+          1
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+        "field": "programme-entry",
+        "phrases": [
+          "90",
+          "2:2 and above",
+          "3.0 and above",
+          "6.5 and above",
+          "IELTS with a score of at least 5.5"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+        "field": "research-route",
+        "phrases": [
+          "research-oriented project"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/wp-content/uploads/2025/12/msc-in-data-analytics-for-business-dl.pdf",
+        "field": "project-credit",
+        "phrases": [
+          "Project in Business Analytics Applications",
+          "10"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/Tuition-Fees/",
+        "field": "fees-duration",
+        "phrases": [
+          "€ 8,750",
+          "18 months"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+    "institution": "Eastern Mediterranean University",
+    "title": "MSc Applied Mathematics and Computer Science — with thesis",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Matemáticas aplicadas",
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "4 semestres en el plan; cabecera de 1–2 años",
+    "entry": "Grado en matemáticas, informática, física, ingeniería, economía u otra disciplina afín; pueden exigirse complementos. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+    "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+    "researchNote": "Siete asignaturas, seminario y tesis con defensa oral. Líneas de métodos numéricos, optimización, modelización, bioinformática e IA. Programa en Famagusta, norte de Chipre; no se confunde con el MSc Mathematics del mismo departamento.",
+    "evidencePages": [
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "label": "Admisión al posgrado"
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "label": "Inglés y exenciones"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+        "field": "research-entry",
+        "phrases": [
+          "four semesters",
+          "seven courses",
+          "thesis which must be defended",
+          "Mathematics, Computer Science, Physics, Engineering, Economics",
+          "numerical methods"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "field": "graduate-admission",
+        "phrases": [
+          "Bachelor’s Degree",
+          "three letters of reference",
+          "Statement of Purpose"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "field": "english",
+        "phrases": [
+          "IELTS",
+          "6.5",
+          "TOEFL (IBT)79",
+          "IELTS test scores cannot be used for exemption by Turkish citizens"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+    "institution": "Eastern Mediterranean University",
+    "title": "MSc Computer Engineering — with thesis",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Matemáticas aplicadas"
+    ],
+    "duration": "120 ECTS en el plan publicado · cabecera de 1–2 años",
+    "entry": "Grado en ingeniería, matemáticas o ciencias naturales con media superior a 2,5/4. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+    "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+    "researchNote": "Tesis CMPE500 de 60 ECTS, siete asignaturas de 8 ECTS y seminario de 4 ECTS. Investigación en redes, IA, robótica, seguridad y optimización. La variante sin tesis no se incluye como otra vía investigadora.",
+    "evidencePages": [
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "label": "Admisión al posgrado"
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "label": "Inglés y exenciones"
+      },
+      {
+        "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091?tab=curriculum",
+        "label": "Plan oficial y créditos de tesis"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091",
+        "field": "entry-research",
+        "phrases": [
+          "CGPA greater than 2.5/4.0",
+          "Artificial intelligence",
+          "Multi-objective optimization"
+        ]
+      },
+      {
+        "url": "https://www.emu.edu.tr/en/programs/computer-engineering-masters-program-with-thesis/1091?tab=curriculum",
+        "field": "thesis-credits",
+        "phrases": [
+          "CMPE500 Master Thesis - - - 60",
+          "CMPE598 Seminar - - - 4"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "field": "graduate-admission",
+        "phrases": [
+          "Bachelor’s Degree",
+          "three letters of reference",
+          "Statement of Purpose"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "field": "english",
+        "phrases": [
+          "IELTS",
+          "6.5",
+          "TOEFL (IBT)79",
+          "IELTS test scores cannot be used for exemption by Turkish citizens"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+    "institution": "Eastern Mediterranean University",
+    "title": "MSc Information Technology — with thesis",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "duration": "Duración y créditos totales a confirmar con el departamento",
+    "entry": "Grado en tecnologías de la información, informática, ingeniería de computadores, sistemas de información o área afín. Otros perfiles pueden necesitar cursos puente e entrevista. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+    "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+    "researchNote": "Cuatro asignaturas centrales, tres optativas, seminario y tesis. Permite investigación cualitativa, cuantitativa o mixta; líneas de minería de texto y datos, aprendizaje automático, redes y sistemas. Se selecciona la modalidad con tesis, diferenciada de la profesional sin tesis.",
+    "evidencePages": [
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "label": "Admisión al posgrado"
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "label": "Inglés y exenciones"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+        "field": "research",
+        "phrases": [
+          "four core courses, three elective courses, seminar and a thesis",
+          "qualitative, quantitative and mixed methods",
+          "data mining",
+          "machine learning"
+        ]
+      },
+      {
+        "url": "https://www.emu.edu.tr/en/programs/information-technology-masters-program-with-thesis/1669",
+        "field": "entry",
+        "phrases": [
+          "deficiency/bridging courses",
+          "Information Technology Graduate Committee"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "field": "graduate-admission",
+        "phrases": [
+          "Bachelor’s Degree",
+          "three letters of reference",
+          "Statement of Purpose"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "field": "english",
+        "phrases": [
+          "IELTS",
+          "6.5",
+          "TOEFL (IBT)79",
+          "IELTS test scores cannot be used for exemption by Turkish citizens"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+    "institution": "Eastern Mediterranean University",
+    "title": "MSc Mathematics — with thesis",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Matemáticas aplicadas"
+    ],
+    "duration": "4 semestres en el plan · cabecera de 1–2 años",
+    "entry": "Grado en matemáticas o un campo pertinente; el comité puede exigir preparación adicional. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+    "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+    "researchNote": "Siete asignaturas, seminario y tesis con defensa oral. El programa combina matemática pura y aplicada; el encaje en TRAMA depende de temas como ecuaciones diferenciales, métodos numéricos, control óptimo o procesos estocásticos. La página de colaboración con Pau conduce al mismo título y no se cuenta de nuevo.",
+    "evidencePages": [
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "label": "Admisión al posgrado"
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "label": "Inglés y exenciones"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/mathematics-masters-program-with-thesis/1083",
+        "field": "research-entry",
+        "phrases": [
+          "four semesters",
+          "thesis which must be defended",
+          "B.S. degree in Mathematics",
+          "differential equations",
+          "optimal control",
+          "numerical methods"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "field": "graduate-admission",
+        "phrases": [
+          "Bachelor’s Degree",
+          "three letters of reference",
+          "Statement of Purpose"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "field": "english",
+        "phrases": [
+          "IELTS",
+          "6.5",
+          "TOEFL (IBT)79",
+          "IELTS test scores cannot be used for exemption by Turkish citizens"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+    "institution": "Cyprus International University",
+    "title": "MSc Computer Engineering — thesis option",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "duration": "2 años",
+    "entry": "Grado en informática, programación, ingeniería eléctrica u otra ciencia o ingeniería con base informática. Para solicitantes internacionales: IELTS 5,5 o TOEFL iBT 65; sin certificado se realiza la prueba de CIU al llegar.",
+    "feeNote": "Tarifa individual mediante la calculadora oficial; importe no confirmado. La ayuda general del 50% para alumnado internacional de grado no se aplica automáticamente al máster.",
+    "researchNote": "Se elige la vía de siete asignaturas, seminario y tesis, distinta de la vía sin tesis con diez asignaturas y proyecto de graduación. Incluye redes, IA, ingeniería del software, bases de datos, minería de datos y lenguaje natural.",
+    "evidencePages": [
+      {
+        "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+        "label": "Ayudas: separar grado y posgrado"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+        "field": "research",
+        "phrases": [
+          "Duration 2 Years",
+          "The thesis program consists of seven courses, seminar and thesis",
+          "ten courses and a graduation project"
+        ]
+      },
+      {
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+        "field": "entry",
+        "phrases": [
+          "another science or engineering major with prerequisite computer science courses",
+          "TOEFL (65 IBT) or IELTS (5.5)"
+        ]
+      },
+      {
+        "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+        "field": "funding-boundary",
+        "phrases": [
+          "All undergraduate international students",
+          "SCHOLARSHIP OPPORTUNITIES FOR CIU GRADUATE STUDENTS"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+    "institution": "Cyprus Aydın University",
+    "title": "MSc Computer Engineering — with thesis",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "2 años · 4 semestres · 120 ECTS",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "El instituto evalúa la preparación previa y puede exigir asignaturas adicionales. El umbral académico y la acreditación lingüística específica no están confirmados en la ficha; consultar admisiones de posgrado.",
+    "feeNote": "7.000 EUR por el máster, más una cuota única de 600 EUR por registro, IVA y actividades. Los cursos puente cuestan 300 EUR cada uno. Las reducciones de matrícula requieren confirmación individual.",
+    "researchNote": "Tesis de 60 ECTS y otros 60 ECTS de formación: siete asignaturas y seminario. El centro usa actualmente el nombre Cyprus Aydın University; su perfil institucional anterior figura como Kıbrıs İlim Üniversitesi. Se mantiene una ficha por título.",
+    "evidencePages": [
+      {
+        "url": "https://cau.edu.tr/tezli-programlar/",
+        "label": "Catálogo: modalidad con tesis e idioma inglés"
+      },
+      {
+        "url": "https://international.cau.edu.tr/tuition-fees/",
+        "label": "Tarifas y cargos de posgrado"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://international.cau.edu.tr/tuition-fees/",
+        "field": "graduate-fees",
+        "phrases": [
+          "Masters Degrees Programs7.000 EURTotal Fee",
+          "Fee of 600 EUR shall be paid once only",
+          "300 EURPer Course"
+        ]
+      },
+      {
+        "url": "https://cau.edu.tr/en/computer-engineering-masters-degree/",
+        "field": "thesis-structure",
+        "phrases": [
+          "120 ECTS",
+          "2 academic years",
+          "Both the course work and the thesis have 60 ECTS credits each",
+          "additional courses"
+        ]
+      },
+      {
+        "url": "https://cau.edu.tr/tezli-programlar/",
+        "field": "catalogue-language",
+        "phrases": [
+          "Bilgisayar Mühendisliği Eğitim Dili: İngilizce Tezli"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+    "institution": "Cyprus Aydın University",
+    "title": "MSc Software Engineering — with thesis",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "duration": "2 años · 4 semestres · 120 ECTS",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "El instituto evalúa la preparación previa y puede exigir asignaturas adicionales. El umbral académico y la acreditación lingüística específica no están confirmados en la ficha; consultar admisiones de posgrado.",
+    "feeNote": "7.000 EUR por el máster, más una cuota única de 600 EUR por registro, IVA y actividades. Los cursos puente cuestan 300 EUR cada uno. Las reducciones de matrícula requieren confirmación individual.",
+    "researchNote": "Tesis de 60 ECTS y otros 60 ECTS de formación: siete asignaturas y seminario. El centro usa actualmente el nombre Cyprus Aydın University; su perfil institucional anterior figura como Kıbrıs İlim Üniversitesi. Se mantiene una ficha por título.",
+    "evidencePages": [
+      {
+        "url": "https://cau.edu.tr/tezli-programlar/",
+        "label": "Catálogo: modalidad con tesis e idioma inglés"
+      },
+      {
+        "url": "https://international.cau.edu.tr/tuition-fees/",
+        "label": "Tarifas y cargos de posgrado"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://international.cau.edu.tr/tuition-fees/",
+        "field": "graduate-fees",
+        "phrases": [
+          "Masters Degrees Programs7.000 EURTotal Fee",
+          "Fee of 600 EUR shall be paid once only",
+          "300 EURPer Course"
+        ]
+      },
+      {
+        "url": "https://cau.edu.tr/en/software-engineering-mastess-degree/",
+        "field": "thesis-structure",
+        "phrases": [
+          "120 ECTS",
+          "2 academic years",
+          "Both the course work and the thesis have 60 ECTS credits each",
+          "additional courses"
+        ]
+      },
+      {
+        "url": "https://cau.edu.tr/tezli-programlar/",
+        "field": "catalogue-language",
+        "phrases": [
+          "Yazılım Mühendisliği Eğitim Dili: İngilizce Tezli"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+    "institution": "Kıbrıs Amerikan Üniversitesi",
+    "title": "M.Tech. Information Technology — with thesis",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado reconocido en tecnologías de la información, informática, ingeniería de computadores, sistemas de información o un área cercana. Para otros perfiles pueden exigirse cursos puente e entrevista.",
+    "feeNote": "Matrícula y posibles ayudas no confirmadas.",
+    "researchNote": "Siete optativas, seminario de posgrado y tesis. Permite investigación en sistemas y bases de datos, redes, minería de datos y aprendizaje automático. Corresponde al centro de dominio auc.edu.tr, distinto de American University of Cyprus de aucy.ac.cy. Duración y créditos de tesis pendientes de confirmar.",
+    "evidenceChecks": [
+      {
+        "url": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+        "field": "research-entry",
+        "phrases": [
+          "seven elective courses, a graduate seminar, and a thesis",
+          "bachelor’s degree",
+          "deficiency or bridging courses"
+        ]
+      },
+      {
+        "url": "https://auc.edu.tr/en/programs/information-technology-with-thesis/",
+        "field": "discipline-language",
+        "phrases": [
+          "Machine Learning",
+          "Program Language English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+    "institution": "European University Cyprus",
+    "title": "PhD Computer Science",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "Mínimo 3 años · 180 ECTS",
+    "hours": "Presencial · Nicosia",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Máster reconocido, propuesta de 3.000–5.000 palabras, expedientes, CV y dos referencias académicas; posible entrevista. Inglés B2 o superior, o estudios previos impartidos en inglés, según las exenciones publicadas. Se piden expediente, CV y dos referencias.",
+    "feeNote": "14.400 EUR por el programa completo de 180 ECTS. Reducciones y financiación requieren confirmación individual.",
+    "researchNote": "30 ECTS de cursos, 30 de propuesta, 90 de trabajo de campo y 30 de tesis. Líneas de aprendizaje automático, ciencia de redes, IoT, ciberseguridad, robótica y teoría de juegos. Plazas limitadas por año. El plazo general de otoño ya ha pasado; las fechas de primavera publicadas son 1 de diciembre para no UE y 15 de enero para UE, sujetas a convocatoria y plazas.",
+    "evidenceChecks": [
+      {
+        "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+        "field": "doctoral-research",
+        "phrases": [
+          "180",
+          "Ph.D. Fieldwork 90",
+          "Ph.D. Dissertation 30",
+          "Machine Learning",
+          "Network Science"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+        "field": "entry",
+        "phrases": [
+          "master’s degree",
+          "3000-5000 words",
+          "two academic referees",
+          "level B2 or above"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+        "field": "fee-calendar",
+        "phrases": [
+          "€14,400/180 ECTS",
+          "15 September per year",
+          "15 January per year",
+          "1 December per year"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+    "institution": "Frederick University",
+    "title": "PhD Electrical Engineering, Computer Engineering and Informatics",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Ciencia de datos"
+    ],
+    "duration": "3 años completo · 180 ECTS; opción parcial",
+    "hours": "Completo o parcial · Nicosia/Limassol",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Grado y máster pertinente; la convocatoria 2026/27 contempla excepciones al máster en circunstancias especiales. Propuesta de unas 1.500 palabras, declaración personal, dos referencias e inglés acreditado o estudios previos en inglés.",
+    "feeNote": "12.600 EUR por el programa completo. La convocatoria 2026/27 anunció ayudas de matrícula de hasta el 90%, condicionadas a aprobación; cerró el 14 de septiembre de 2026. No se confirma una nueva ayuda abierta.",
+    "researchNote": "28 ECTS doctorales, examen de cualificación, propuesta y defensa. Exige tres trabajos científicos presentados para publicación, al menos uno aceptado/publicado en revista y uno presentado y publicado en congreso. La convocatoria 2026/27 incluye IA, seguridad, computación cuántica, visión y grandes datos. Los temas se agrupan como un programa, con título final según la tesis.",
+    "evidencePages": [
+      {
+        "url": "https://frederick.ac.cy/images/PhD_positions_in_DECEI_2026-27.pdf",
+        "label": "Convocatoria 2026/27: temas, acceso, cierre y ayuda",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.frederick.ac.cy/en/phd-in-electrical-engineering,-computer-engineering-and-informatics",
+        "field": "programme-fee",
+        "phrases": [
+          "180 ECTS",
+          "28 ECTS",
+          "€12,600 for whole program",
+          "at least three scientific papers"
+        ]
+      },
+      {
+        "url": "https://frederick.ac.cy/images/PhD_positions_in_DECEI_2026-27.pdf",
+        "field": "scope",
+        "phrases": [
+          "Big Data Analytics",
+          "Computer Vision",
+          "Machine Learning"
+        ]
+      },
+      {
+        "url": "https://frederick.ac.cy/images/PhD_positions_in_DECEI_2026-27.pdf",
+        "field": "call-entry",
+        "phrases": [
+          "Master’s degree relevant",
+          "special circumstances",
+          "approximately 1500 words",
+          "Two (2) Letters of Recommendation"
+        ]
+      },
+      {
+        "url": "https://frederick.ac.cy/images/PhD_positions_in_DECEI_2026-27.pdf",
+        "field": "closed-scholarship",
+        "phrases": [
+          "14th September 2026",
+          "up to 90%",
+          "subject to conditions"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+    "institution": "Eastern Mediterranean University",
+    "title": "PhD Applied Mathematics and Computer Science",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Matemáticas aplicadas",
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "3,5–5 años publicados; plan de 8 semestres",
+    "entry": "Máster en matemáticas, informática o área relacionada; posibles cursos preparatorios. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+    "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+    "researchNote": "Plan de ocho semestres con siete asignaturas y tesis defendida oralmente. Investigación en métodos numéricos, modelización, optimización y computación.",
+    "evidencePages": [
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "label": "Admisión al posgrado"
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "label": "Inglés y exenciones"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+        "field": "doctoral-programme",
+        "phrases": [
+          "Doctor of Philosophy",
+          "3,5 - 5 Years"
+        ]
+      },
+      {
+        "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+        "field": "entry",
+        "phrases": [
+          "M.S. degree in Mathematics"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "field": "doctoral-entry",
+        "phrases": [
+          "must possess a master’s degree"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "field": "english",
+        "phrases": [
+          "IELTS",
+          "6.5",
+          "IELTS test scores cannot be used for exemption by Turkish citizens"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+    "institution": "Eastern Mediterranean University",
+    "title": "PhD Computer Engineering",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Matemáticas aplicadas"
+    ],
+    "duration": "3,5–5 años publicados",
+    "entry": "Grado en ingeniería, matemáticas o ciencias naturales con media superior a 2,75/4 y máster con tesis. Se requiere disponibilidad de supervisor; pueden asignarse hasta tres complementos. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+    "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+    "researchNote": "Líneas de IA, visión, redes, robótica, seguridad y optimización. La admisión depende de encontrar supervisión para el tema y no incorpora una financiación automática.",
+    "evidencePages": [
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "label": "Admisión al posgrado"
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "label": "Inglés y exenciones"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+        "field": "doctoral-programme",
+        "phrases": [
+          "Doctor of Philosophy",
+          "3,5 - 5 Years"
+        ]
+      },
+      {
+        "url": "https://www.emu.edu.tr/en/programs/computer-engineering-doctoral-program/1114",
+        "field": "entry",
+        "phrases": [
+          "M.S. degree with thesis"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "field": "doctoral-entry",
+        "phrases": [
+          "must possess a master’s degree"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "field": "english",
+        "phrases": [
+          "IELTS",
+          "6.5",
+          "IELTS test scores cannot be used for exemption by Turkish citizens"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+    "institution": "Eastern Mediterranean University",
+    "title": "PhD Mathematics",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Matemáticas aplicadas"
+    ],
+    "duration": "3,5–5 años publicados; plan de 8 semestres",
+    "entry": "Máster en matemáticas o área afín; posibles cursos preparatorios. Inglés según las normas del instituto: IELTS 6,5 o TOEFL iBT 79 son vías de exención del curso de apoyo; para nacionales de Turquía no se acepta IELTS como exención. Puede hacerse la prueba de EMU.",
+    "feeNote": "Matrícula no confirmada para el expediente individual. Las becas de matrícula y las ayudantías tienen condiciones y selección propias.",
+    "researchNote": "Ocho semestres en el plan, siete asignaturas y tesis con defensa oral. Incluye matemática pura y aplicada: el encaje depende de la investigación en ecuaciones diferenciales, control óptimo, métodos numéricos u otras líneas aplicadas.",
+    "evidencePages": [
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "label": "Admisión al posgrado"
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "label": "Inglés y exenciones"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+        "field": "doctoral-programme",
+        "phrases": [
+          "Doctor of Philosophy",
+          "3,5 - 5 Years"
+        ]
+      },
+      {
+        "url": "https://www.emu.edu.tr/en/programs/mathematics-doctoral-program/1107",
+        "field": "entry",
+        "phrases": [
+          "M.S. degree in Mathematics"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/admission-requirements",
+        "field": "doctoral-entry",
+        "phrases": [
+          "must possess a master’s degree"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/admission/english-language-requirement",
+        "field": "english",
+        "phrases": [
+          "IELTS",
+          "6.5",
+          "IELTS test scores cannot be used for exemption by Turkish citizens"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+    "institution": "Cyprus International University",
+    "title": "PhD Computer Engineering",
+    "country": "CY",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "5 años publicados",
+    "entry": "Grado y máster reconocidos, expedientes, CV y propuesta doctoral. Para solicitantes internacionales se publica IELTS 5,5 o TOEFL iBT 65; sin certificado se realiza la prueba de CIU.",
+    "feeNote": "Importe según la calculadora oficial; no confirmado para un expediente individual. Las becas de posgrado se solicitan y evalúan por separado.",
+    "researchNote": "Siete asignaturas doctorales, seminario, examen de cualificación, investigación y defensa. Para defender se exige al menos un artículo relacionado con la tesis publicado en SCI o SCI-Expanded. Agrupa las líneas Computing Systems & Software Engineering y Signal Processing & Communication.",
+    "evidenceChecks": [
+      {
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+        "field": "research",
+        "phrases": [
+          "Duration 5 Years",
+          "qualification exam, thesis research, and a dissertation defense",
+          "at least one journal article",
+          "SCI or SCI-Expanded"
+        ]
+      },
+      {
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+        "field": "entry",
+        "phrases": [
+          "A valid Master’s Degree",
+          "Ph.D. research proposal",
+          "TOEFL (65 IBT) or IELTS (5.5)"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+    "institution": "American University of Beirut – Mediterraneo",
+    "title": "AUB Mediterraneo — ayudas y becas de posgrado",
+    "country": "CY",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Admisión al máster y pago de la confirmación de matrícula. La ayuda por necesidad exige solicitud dentro de las dos semanas siguientes a solicitar admisión; la beca de mérito se considera sin solicitud separada.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Ayuda por necesidad de hasta el 50% o beca de mérito de hasta el 100% de matrícula; los importes dependen de la concesión."
+    },
+    "duration": "Duración normal del título, condicionada al rendimiento",
+    "researchNote": "Reducciones de matrícula, sin estipendio de manutención confirmado. La beca de cohortes iniciales es del 20% hasta 2027/28 inclusive y exige devolver lo recibido si se abandona el título. Se mantienen mientras haya buen rendimiento; no se suman porcentajes para prometer financiación total. El MSc Business Analytics admite tesis de investigación.",
+    "evidencePages": [
+      {
+        "url": "https://aubmed.ac.cy/Pages/Master-of-Science-in-Business-Analytics.aspx",
+        "label": "Máster elegible con tesis de investigación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+        "field": "need-merit",
+        "phrases": [
+          "UP TO 5​0% OF​ TUITION​",
+          "within two weeks",
+          "up to 100% of Tuition",
+          "no separate application"
+        ]
+      },
+      {
+        "url": "https://aubmed.ac.cy/Admissions/Pages/Graduate-Yearly-Tuition-and-Financial-Assistance.aspx",
+        "field": "conditions",
+        "phrases": [
+          "2027-28",
+          "must return the amount",
+          "good academic standing",
+          "deducted from tuition fees"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+    "institution": "Eastern Mediterranean University",
+    "title": "EMU — becas de matrícula de máster y doctorado",
+    "country": "CY",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Nueva matrícula mediante la solicitud del programa. Para doctorado: grado con media mínima 3,00/4, o 2,75–2,99 más máster con 3,50/4. Hay selección departamental y cupos. Se excluyen reingresos para obtener la beca y estudiantes visitantes.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Alumnado internacional: 50% de matrícula de máster o hasta 100% de doctorado. Nacionales de Turquía y del norte de Chipre pueden solicitar 100% también para máster, con requisitos propios."
+    },
+    "duration": "4 semestres en máster con tesis; 10 en doctorado",
+    "researchNote": "Solo cubre matrícula: quedan fuera registro, fondo de servicios y libros. Mantener media 3,00/4 y aprobar todas las asignaturas. El 100% implica al menos seis horas semanales de tareas como ayudante categoría E, sin salario adicional confirmado. Las personas con 50% no asumen esa categoría y deben elegir si también obtienen una ayudantía parcial.",
+    "evidencePages": [
+      {
+        "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-computer-science-masters-program-with-thesis/1089",
+        "label": "Máster con tesis elegible"
+      },
+      {
+        "url": "https://www.emu.edu.tr/en/programs/applied-mathematics-and-computer-science-doctoral-program/1106",
+        "label": "Doctorado elegible"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+        "field": "award",
+        "phrases": [
+          "50% tuition fee scholarship is available for international students",
+          "100% scholarships for PhD programs",
+          "Limited to available quota"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+        "field": "requirements",
+        "phrases": [
+          "3.00 (out of 4.00)",
+          "2.75 - 2.99",
+          "3.50 out of 4.00",
+          "special or visiting student status"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/fees/scholarships",
+        "field": "continuation",
+        "phrases": [
+          "at least 6 hours per week",
+          "four academic semesters for master’s programs with thesis",
+          "ten academic semesters for PhD",
+          "succeed in all courses",
+          "books are not covered"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+    "institution": "Eastern Mediterranean University",
+    "title": "EMU — ayudantías remuneradas para estudiantes de posgrado",
+    "country": "CY",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Estudiante de posgrado; solicitud al departamento o unidad con CV y carta de intención. La selección depende de los puestos disponibles y de requisitos adicionales del departamento.",
+    "funding": {
+      "kind": "salary",
+      "text": "Ayudantía completa: salario de importe no publicado y exención de matrícula. Parcial: la mitad del salario de una completa y exención del 50% de matrícula."
+    },
+    "duration": "Un semestre; continuidad según nueva concesión",
+    "researchNote": "Convocatoria institucional recurrente, sin vacante concreta garantizada. El fondo de servicios queda fuera. Es distinta de la beca categoría E; las incompatibilidades y tareas deben confirmarse antes de aceptar. La solicitud se entrega a la unidad académica, de investigación o administrativa correspondiente.",
+    "evidenceChecks": [
+      {
+        "url": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+        "field": "graduate-assistantship",
+        "phrases": [
+          "graduate students",
+          "full-time research assistant receives a salary",
+          "part-time assistant receives half of the salary",
+          "excluding the student fund",
+          "for a semester"
+        ]
+      },
+      {
+        "url": "https://grad.emu.edu.tr/en/fees/research-assistantships-opportunities",
+        "field": "application",
+        "phrases": [
+          "current CV and a letter of intention",
+          "additional departmental requirements"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+    "institution": "Cyprus International University",
+    "title": "CIU — becas académicas de posgrado",
+    "country": "CY",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Solicitantes de máster o doctorado con título de grado válido y media acumulada mínima de 3,50. La universidad debe evaluar la solicitud.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Ayuda de matrícula de posgrado; porcentaje e importe no publicados en las condiciones específicas revisadas."
+    },
+    "researchNote": "La página distingue expresamente las ayudas de posgrado del descuento general del 50% para internacionales de grado. No se trasladan los porcentajes de grado al máster o doctorado. El MSc y el PhD Computer Engineering aportan las vías de investigación verificadas.",
+    "evidencePages": [
+      {
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-msc",
+        "label": "MSc con opción de tesis"
+      },
+      {
+        "url": "https://ciu.edu.tr/en/programs/postgraduate/computer-engineering-phd",
+        "label": "Doctorado elegible"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+        "field": "postgraduate-scope",
+        "phrases": [
+          "SCHOLARSHIP OPPORTUNITIES FOR CIU GRADUATE STUDENTS",
+          "Master and PhD",
+          "3.50 and above"
+        ]
+      },
+      {
+        "url": "https://ciu.edu.tr/en/become-student/international/fees-and-scholarships",
+        "field": "undergraduate-boundary",
+        "phrases": [
+          "All undergraduate international students are granted a 50%"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+    "institution": "University of Central Lancashire Cyprus",
+    "title": "UCLan Cyprus — becas y reducciones de matrícula de posgrado",
+    "country": "CY",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Nuevo alumnado 2026/27. Para la beca general de hasta el 30% se exige entrevista satisfactoria con la dirección del curso o de la escuela; existen categorías específicas para titulados, familiares y personal.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Hasta el 30% sobre la tarifa original de 10.500 EUR; Data Analytics y Cybersecurity anuncian 7.350 EUR finales. Otras categorías: 40% para alumni y 50% para personal y familiares de primer grado."
+    },
+    "researchNote": "Las condiciones publicadas impiden acumular descuentos: se aplica solo el mayor. Las repeticiones de asignaturas se cobran con la tarifa anterior a la ayuda. Las becas basadas en notas de secundaria se limitan al grado y no se trasladan a posgrado. Comprobar la categoría y el importe en la oferta individual.",
+    "evidencePages": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/postgraduate-course/msc-data-analytics/",
+        "label": "MSc Data Analytics elegible"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "field": "postgraduate-award",
+        "phrases": [
+          "Postgraduate Programme Scholarships",
+          "MSc Data Analytics / MSc Data Analytics Distance Learning",
+          "€7,350 from €10,500",
+          "successful interview"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "field": "categories",
+        "phrases": [
+          "40% special scholarships on the original fees",
+          "50% special scholarships",
+          "only the higher will apply"
+        ]
+      },
+      {
+        "url": "https://www.uclancyprus.ac.cy/study/admissions/fees-scholarships/",
+        "field": "retake",
+        "phrases": [
+          "retake module fee",
+          "prior to the scholarship"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+    "institution": "University of Limassol",
+    "title": "University of Limassol — becas y ayudas de matrícula de máster",
+    "country": "CY",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Solicitud y evaluación del mérito o situación económica. Las becas completas financiadas por patrocinadores son limitadas y requieren entrevista; mantener media superior al 85% para conservarlas.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Becas completas competitivas de patrocinadores y posible ayudantía equivalente a hasta el 25% de matrícula; importes y disponibilidad individuales."
+    },
+    "researchNote": "La ayudantía puede cubrir investigación, docencia u otras tareas y no es un puesto garantizado. El premio final del 25% exige nota de al menos 95/100, haber pagado la matrícula y no haber recibido otra beca: es reembolso al terminar, no financiación inicial. Las cuotas de registro y otros cargos quedan fuera. La web también publica descuentos para alumni y familiares.",
+    "evidencePages": [
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+        "label": "Máster: ayudas por mérito y situación económica"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+        "field": "merit",
+        "phrases": [
+          "limited number of full scholarships",
+          "successful interview",
+          "GPA above 85%"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+        "field": "assistantship",
+        "phrases": [
+          "assistantship for up to 25%",
+          "research, teaching, library, administration, marketing"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/scholarships-financial-aid/",
+        "field": "final-award",
+        "phrases": [
+          "graduating GPA of 95/100",
+          "Students who receive any type of scholarship are not eligible",
+          "last instalment which will be reimbursed"
+        ]
+      },
+      {
+        "url": "https://www.uol.ac.cy/en/program/msc-in-data-analytics-for-business-dl/",
+        "field": "masters-applicability",
+        "phrases": [
+          "competitive scholarships based on academic criteria"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+    "institution": "European University Cyprus",
+    "title": "EUC — descuento de matrícula para alumni y familiares",
+    "country": "CY",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Haber completado estudios en European University Cyprus o Cyprus College (Nicosia/Limassol), o ser hijo, cónyuge o hermano de una persona graduada. Matricularse en el mismo nivel o uno superior.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Descuento del 10% durante todos los años de estudio; aplicación concreta y compatibilidad con otras tarifas a confirmar."
+    },
+    "researchNote": "Beneficio institucional para continuar estudios. No equivale a salario ni manutención. Las becas de excelencia del 40%, 20% y 10% descritas en otra sección son para alumnado de grado y no se presentan aquí como ayudas doctorales.",
+    "evidencePages": [
+      {
+        "url": "https://euc.ac.cy/en/programs/master-artificial-intelligence-online/",
+        "label": "Máster con investigación"
+      },
+      {
+        "url": "https://euc.ac.cy/en/programs/doctorate-computer-science/",
+        "label": "Programa doctoral"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+        "field": "alumni-scope",
+        "phrases": [
+          "10% discount for all years",
+          "upper or in the same level",
+          "children, spouse, brother/s or sister/s"
+        ]
+      },
+      {
+        "url": "https://euc.ac.cy/en/admissions/finance-aid/scholarship-aid/",
+        "field": "undergraduate-boundary",
+        "phrases": [
+          "top-ranked undergraduate students"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+    "institution": "KIOS Research and Innovation Center of Excellence",
+    "title": "KIOS — cinco plazas doctorales financiadas",
+    "country": "CY",
+    "kind": "position",
+    "stage": "doctorado",
+    "city": "Nicosia",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Matemáticas aplicadas"
+    ],
+    "hours": "Tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Convocatoria doctoral financiada",
+    "call": {
+      "sourceText": "Deadline: September 25, 2026",
+      "deadline": "2026-09-25"
+    },
+    "entry": "Grado o máster en ingeniería, informática, matemáticas o área afín. Inglés acreditado, por ejemplo IELTS 6,5 o TOEFL iBT 80. La admisión al doctorado de UCY requiere otra solicitud y calendario.",
+    "funding": {
+      "kind": "salary",
+      "text": "Desde 1.700 EUR brutos al mes, con la paga 13 incorporada. Cubre matrícula excepto el anticipo de 500 EUR.",
+      "amount": 1700,
+      "currency": "EUR",
+      "period": "month",
+      "gross": true
+    },
+    "duration": "1 año inicial; renovación anual según rendimiento hasta 3–5 años",
+    "researchNote": "Una convocatoria para cinco plazas en control, aprendizaje automático, sistemas autónomos, optimización y seguridad de infraestructuras. Evaluación continua hasta el cierre del 25 de septiembre de 2026; la beca depende de conseguir admisión doctoral. Presentar CV, expediente, motivación, inglés y dos referencias.",
+    "evidenceChecks": [
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+        "field": "places",
+        "phrases": [
+          "Five (5) Positions"
+        ]
+      },
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+        "field": "pay",
+        "phrases": [
+          "gross monthly salary starting at €1700",
+          "13th salary bonus",
+          "€500 prepayment"
+        ]
+      },
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+        "field": "term",
+        "phrases": [
+          "one year and may be renewed annually",
+          "3-5 years",
+          "application process and deadlines for program admission are separate"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+    "institution": "KIOS Research and Innovation Center of Excellence",
+    "title": "SPRING DC12 — PhD en gemelos digitales e infraestructuras resilientes",
+    "country": "CY",
+    "kind": "position",
+    "stage": "doctorado",
+    "city": "Nicosia",
+    "fields": [
+      "Informática",
+      "Machine learning",
+      "Matemáticas aplicadas"
+    ],
+    "hours": "Tiempo completo",
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Plaza doctoral MSCA",
+    "call": {
+      "sourceText": "Deadline: October 16, 2026",
+      "deadline": "2026-10-16"
+    },
+    "entry": "Grado afín, base sólida en control o sistemas ciberfísicos y programación científica; inglés, por ejemplo IELTS 6,5. Cualquier nacionalidad, sin doctorado previo y con regla de movilidad MSCA: no más de 12 meses de actividad o residencia en Chipre en los 36 anteriores, con las excepciones oficiales.",
+    "funding": {
+      "kind": "salary",
+      "text": "2.845,92 EUR brutos/mes más 689,99 EUR brutos de movilidad; 481,05 EUR familiares si corresponde. Incluye matrícula y seguros según las condiciones de UCY.",
+      "amount": 2845.92,
+      "currency": "EUR",
+      "period": "month",
+      "gross": true
+    },
+    "duration": "Mínimo 3 años, sujeto a evaluación anual",
+    "researchNote": "Una plaza sobre gemelos digitales, métodos formales e IA explicable para infraestructuras críticas. La solicitud debe enviarse tanto al portal de UCY como al de SPRING; presentar solo una no basta. Evaluación continua hasta cubrir la plaza y cierre máximo el 16 de octubre de 2026.",
+    "evidenceChecks": [
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+        "field": "pay",
+        "phrases": [
+          "€2,845.92 gross salary",
+          "€689.99 gross amount",
+          "€481.05 gross amount",
+          "minimum of three years"
+        ]
+      },
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+        "field": "mobility",
+        "phrases": [
+          "must not have been awarded a doctoral degree",
+          "more than 12 months in the 36 months"
+        ]
+      },
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+        "field": "application",
+        "phrases": [
+          "not submitted concurrently in both portals",
+          "will NOT be considered"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+    "institution": "KIOS Research and Innovation Center of Excellence",
+    "title": "KIOS — prácticas remuneradas de investigación y programación",
+    "country": "CY",
+    "kind": "position",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "city": "Nicosia",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "programmeType": "Prácticas de investigación con admisión continua",
+    "call": {
+      "rolling": true,
+      "sourceText": "Applications are evaluated on a rolling basis throughout the year."
+    },
+    "entry": "Estudiante de grado o posgrado de una universidad acreditada, en Chipre o fuera. Buen inglés; para la vía de investigación, expediente sólido y al menos dos años de grado en ciencias o ingeniería. Las tareas de programación exigen conocimientos pertinentes.",
+    "funding": {
+      "kind": "salary",
+      "text": "7,77 EUR brutos por hora; contribuciones descontadas de ese importe.",
+      "amount": 7.77,
+      "currency": "EUR",
+      "period": "hour",
+      "gross": true
+    },
+    "duration": "3 meses iniciales de prueba; posible renovación",
+    "hours": "Presencial; hasta 20 h/semana durante el curso o 35 en vacaciones",
+    "researchNote": "Convocatoria continua para proyectos supervisados de investigación, programación, datos y sistemas. También ofrece tareas administrativas o de innovación: elegir un proyecto con aportación investigadora. La selección y renovación dependen del perfil, rendimiento y necesidades de los proyectos.",
+    "evidenceChecks": [
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+        "field": "research-entry",
+        "phrases": [
+          "at least 2 years of BSc",
+          "guidance of an experienced team",
+          "universities in Cyprus or abroad"
+        ]
+      },
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
+        "field": "pay-hours",
+        "phrases": [
+          "gross salary 7,77 €/hour",
+          "20 hours per week",
+          "35 hours per week",
+          "initial period of 3 months",
+          "physical presence"
+        ]
+      }
+    ]
   }
 ]

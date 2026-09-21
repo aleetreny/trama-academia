@@ -6,6 +6,7 @@ import {extractPdfText} from './pdf.mjs';
 import {nuxtProgrammeText} from './nuxt-programme.mjs';
 import {inertiaScholarshipText} from './inertia-scholarship.mjs';
 import {assertProgrammeGeography,verifyProgrammeGeography} from './programme-geography.mjs';
+import {reviewedCallStatus} from './reviewed-call.mjs';
 
 const FIELDS=['Ciencia de datos','Machine learning','Estadística','Informática','Matemáticas aplicadas'];
 const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").replace(/[–—−]/g,'-').toLowerCase();
@@ -14,6 +15,7 @@ const normalized=text=>clean(text).normalize('NFKC').replace(/[’‘]/g,"'").re
 // A failed check is handled by the runner without overwriting the last good record.
 export async function verifyProgramme(seed,fetchPage=getPage){
  if(!['grado','master','doctorado','postdoc','faculty'].includes(seed.stage))throw new Error('invalid_programme_stage');
+ if(!['programme','funding-programme','position'].includes(seed.kind))throw new Error('invalid_programme_kind');
  assertProgrammeGeography(seed);
  const documents=new Map();
  const references=new Map();
@@ -73,12 +75,15 @@ export async function verifyProgramme(seed,fetchPage=getPage){
   }
  }
  const checkedAt=[...documents.values()].map(p=>p.checkedAt).sort()[0];
+ const callStatus=reviewedCallStatus(seed,documents);
  const geographyEvidence=verifyProgrammeGeography(seed,documents);
  const record={...seed,id:idFor(seed.url),applyUrl:seed.url,sourceId:'programme-'+idFor(seed.url),sourceName:seed.institution,status:'programme',verifiedAt:checkedAt,seenAt:primary.checkedAt,deadline:null,deadlinePrecision:null,fields,funding:seed.funding||{kind:seed.kind.includes('funding')?'scholarship':'unconfirmed',text:seed.kind.includes('funding')?'Ayuda competitiva; consultar importe':'Financiación no garantizada'},duration:seed.duration||null,languages:seed.languages||[],contract:seed.contract||null,programmeType:seed.programmeType||(seed.kind.includes('funding')?'Programa de financiación':seed.stage==='master'?'Máster con componente de investigación':seed.stage==='grado'?'Estancia de investigación':'Programa doctoral'),researchNote:seed.researchNote||(seed.stage==='master'?'La información académica enlazada documenta una tesis, proyecto o formación orientada a investigación. Revisa el plan y la supervisión antes de decidir.':undefined),lastError:null,evidence:{contentHash:primary.hash,checkedUrl:primary.finalUrl,method:'official-programme-page',researchUrl:research.finalUrl,references:[...documents.values()].map(p=>({url:p.finalUrl,label:p.label+(p.pages?' · págs. '+p.pages.join(', '):''),checkedAt:p.checkedAt,contentHash:p.hash,...(p.pages?{pages:p.pages}:{})})),checks:(seed.evidenceChecks||[]).map(c=>c.field)}};
  if(seed.primaryEvidenceUrl)record.evidence.method='official-programme-registry';
  else if(['nuxt-programme','inertia-scholarship'].includes(references.get(primaryUrl).format))record.evidence.method='official-programme-embedded-data';
  if(geographyEvidence){record.city=seed.geography.city;record.evidence.geography=geographyEvidence;}
- delete record.primaryEvidenceUrl;delete record.researchEvidenceUrl;delete record.evidencePages;delete record.evidenceChecks;
+ Object.assign(record,callStatus);
+ if(seed.kind==='position')record.evidence.method='official-reviewed-call-page';
+ delete record.primaryEvidenceUrl;delete record.researchEvidenceUrl;delete record.evidencePages;delete record.evidenceChecks;delete record.call;
  return record;
 }
 
