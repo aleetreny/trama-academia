@@ -1,5 +1,5 @@
 import type {ComponentProps} from 'react';
+import {sitePath} from '@/lib/site-path';
 
-// Native navigation also works before hydration. Vinext beta's production Link
-// prefetch/navigation imports currently fail in this Worker build.
-export default function SiteLink(props:ComponentProps<'a'>){return <a {...props}/>;}
+// Static pages work before hydration and avoid prefetching every catalogue link.
+export default function SiteLink({href,...props}:ComponentProps<'a'>){return <a {...props} href={href?sitePath(href):href}/>;}

@@ -7,13 +7,13 @@
   },
   "scripts": {
     "install:ci": "node scripts/install-ci.mjs",
-    "dev": "node scripts/run-framework.mjs dev",
-    "build": "node scripts/run-framework.mjs build",
-    "start": "node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js dev --config dist/server/wrangler.json --local --persist-to .wrangler/state --ip 127.0.0.1 --inspector-port 0",
+    "dev": "node scripts/web/build-data.mjs && next dev",
+    "build": "node scripts/web/build-data.mjs && next build --webpack && node scripts/web/verify-export.mjs",
+    "start": "node scripts/web/serve.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
-    "test": "node --test scripts/harvest/*.test.mjs",
-    "typecheck": "tsc --noEmit",
+    "test": "node --test scripts/harvest/*.test.mjs scripts/web/*.test.mjs",
+    "typecheck": "node scripts/web/build-data.mjs && tsc --noEmit",
     "harvest": "node --use-system-ca scripts/harvest/run.mjs",
     "harvest:programmes": "node --use-system-ca scripts/harvest/programmes.mjs",
     "harvest:verify": "node --use-system-ca scripts/harvest/verify-known.mjs",
@@ -22,7 +22,8 @@
     "db:migrate": "node scripts/db/migrate.mjs",
     "harvest:institutions": "node --use-system-ca scripts/harvest/discover-institutions.mjs",
     "db:sync:institutions": "node scripts/db/sync-institutions.mjs",
-    "harvest:candidates": "node scripts/harvest/review-candidates.mjs"
+    "harvest:candidates": "node scripts/harvest/review-candidates.mjs",
+    "web:data": "node scripts/web/build-data.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

@@ -2,7 +2,7 @@ import Link from "@/components/site-link";
 import { ArrowUpRight, ArrowRight, Search } from "lucide-react";
 import {getCatalogue} from '@/lib/catalogue';
 import {statusOf,dateLabel,COUNTRY_NAMES} from '@/lib/types';
-export const dynamic='force-dynamic';
+
 const stages=[
 {id:"grado",name:"Dar el primer paso",level:"Durante el grado",description:"Estancias de verano, ayudantías y primeros proyectos con un grupo de investigación.",tag:"Experiencia"},
 {id:"master",name:"Aprender a investigar",level:"Máster de investigación",description:"Programas con tesis, trabajo de laboratorio y una vía hacia el doctorado.",tag:"Formación"},

@@ -1,13 +1,13 @@
 # Presentar TRAMA
 
-[Web pública](https://trama-academia.aleetreny.chatgpt.site) · [Repositorio](https://github.com/aleetreny/trama-academia)
+[Web pública](https://aleetreny.github.io/trama-academia) · [Repositorio](https://github.com/aleetreny/trama-academia)
 
 TRAMA reúne oportunidades académicas europeas en ciencia de datos, aprendizaje automático, estadística, informática y matemáticas aplicadas. Permite recorrer las etapas de una carrera investigadora y comparar las condiciones publicadas por las instituciones.
 
 ## Recorrido de cinco minutos
 
 1. **Portada:** elegir una etapa del recorrido académico. Los contadores describen el catálogo y distinguen los programas de las vacantes.
-2. **Explorar:** buscar una institución o un tema, aplicar los filtros y seleccionar dos o tres fichas para comparar. En móvil, la tabla se desplaza lateralmente.
+2. **Explorar:** elegir una disciplina para ordenar por prestigio investigador, filtrar T1/T2, país y financiación, buscar una institución o un tema y seleccionar dos o tres fichas para comparar. En móvil, la tabla se desplaza lateralmente.
 3. **Una ficha:** revisar requisitos, investigación, costes y financiación; comprobar el estado y abrir la fuente institucional. Un programa existente puede tener cerrada su última admisión.
 4. **Financiación:** distinguir una beca convocada de un programa recurrente, una exención condicionada o un contrato. Los importes conservan su moneda y periodo.
 5. **El doctorado en Europa:** comparar los sistemas de varios países antes de entrar en convocatorias concretas.
@@ -27,7 +27,7 @@ Los tiers tienen muestras suficientes para 850 instituciones en informática, 54
 
 ## Qué afirmar y qué falta
 
-La aplicación permite consultar, filtrar, comparar y revisar la procedencia de las oportunidades incluidas. El recolector semanal está configurado en GitHub Actions; Neon sirve los datos y existe una instantánea de respaldo. El botón de actualización consulta el catálogo recolectado, sin rastrear internet de nuevo.
+La aplicación permite consultar, filtrar, comparar y revisar la procedencia de las oportunidades incluidas. El recolector semanal está configurado en GitHub Actions; la web se publica en GitHub Pages desde las instantáneas versionadas. El botón de actualización consulta la última edición publicada, sin rastrear internet de nuevo. Los filtros se pueden compartir mediante la dirección de la página.
 
 **La cobertura europea es parcial.** No debe presentarse como un censo exhaustivo ni como una verificación continua de todas las convocatorias. Hay fuentes con incidencias, candidatos pendientes y posibles duplicados entre portales. Las tres fichas heredadas de máster cuya investigación no está suficientemente acreditada conservan su estado sin verificar. Los tiers miden indicadores de investigación de una disciplina; no garantizan la calidad de un programa, supervisor ni oferta de financiación.
 

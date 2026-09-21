@@ -2,7 +2,7 @@
 
 **El recorrido hacia la investigación, con fuentes a la vista.**
 
-[Abrir TRAMA](https://trama-academia.aleetreny.chatgpt.site) · [Explorar oportunidades](https://trama-academia.aleetreny.chatgpt.site/explorar) · [Financiación](https://trama-academia.aleetreny.chatgpt.site/financiacion) · [Cobertura y fuentes](https://trama-academia.aleetreny.chatgpt.site/fuentes)
+[Abrir TRAMA](https://aleetreny.github.io/trama-academia) · [Explorar oportunidades](https://aleetreny.github.io/trama-academia/explorar) · [Financiación](https://aleetreny.github.io/trama-academia/financiacion) · [Cobertura y fuentes](https://aleetreny.github.io/trama-academia/fuentes)
 
 [![Verificar aplicación](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml/badge.svg)](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml)
 
@@ -18,7 +18,7 @@ TRAMA es un atlas de oportunidades académicas en Europa para **ciencia de datos
 | Después del doctorado | Posdoctorados y puestos de investigación o carrera académica. |
 | Financiación | Becas, ayudas y programas de apoyo, con requisitos y convocatorias diferenciados. |
 
-Puedes filtrar y comparar hasta tres oportunidades, consultar sus fuentes originales y leer las diferencias entre sistemas doctorales. El [registro institucional](https://trama-academia.aleetreny.chatgpt.site/instituciones) muestra las fuentes localizadas, el avance de revisión y los tiers de investigación por disciplina.
+Puedes combinar etapa, país, área, tier por disciplina, financiación, idioma, vigencia y plazo, ordenar por prestigio investigador, impacto, actividad o fecha, compartir los filtros mediante la URL y comparar hasta tres oportunidades, consultar sus fuentes originales y leer las diferencias entre sistemas doctorales. El [registro institucional](https://aleetreny.github.io/trama-academia/instituciones) muestra las fuentes localizadas, el avance de revisión y los tiers de investigación por disciplina.
 
 ## Edición de presentación · 21 de septiembre de 2026
 
@@ -28,13 +28,13 @@ Esta edición cierra la ampliación manual con nueve incorporaciones verificadas
 
 ## Alcance y confianza
 
-**La cobertura sigue en ampliación.** Los recuentos y las incidencias de cada barrido están en [Fuentes](https://trama-academia.aleetreny.chatgpt.site/fuentes). Una institución localizada o un enlace pendiente no cuentan como una oportunidad verificada. Un programa existente tampoco implica una convocatoria abierta.
+**La cobertura sigue en ampliación.** Los recuentos y las incidencias de cada barrido están en [Fuentes](https://aleetreny.github.io/trama-academia/fuentes). Una institución localizada o un enlace pendiente no cuentan como una oportunidad verificada. Un programa existente tampoco implica una convocatoria abierta.
 
 - **Fuentes identificables.** Cada ficha enlaza la institución o el anuncio y conserva la fecha de comprobación. Las nuevas incorporaciones contrastan las condiciones con páginas y PDF oficiales; los cambios que afectan a su evidencia se retienen para revisión.
 - **Condiciones explícitas.** Plazos, duración, idiomas, requisitos y financiación se publican cuando hay evidencia. Los campos desconocidos siguen como desconocidos. Una ayuda condicionada no se presenta como financiación garantizada.
 - **Tiers por disciplina.** Se basan en actividad e impacto de investigación, con indicadores, ventanas, umbrales y fuentes visibles. La edición del 21 de septiembre de 2026 incluye 850 instituciones con muestra suficiente en informática, 548 en IA, 142 en estadística y 89 en matemáticas aplicadas. Las cohortes se solapan; la ausencia de datos no recibe un tier bajo. [Consultar el método](docs/institution-discovery.md#indicadores-de-fortaleza-por-disciplina).
-- **Actualización semanal.** El recolector se ejecuta los lunes a las 04:23 UTC y admite ejecución manual. La web vuelve a consultar los datos cada cinco minutos. Ese refresco no supone una nueva comprobación de todo internet.
-- **Continuidad de los datos.** La web consulta PostgreSQL en Neon y dispone de una instantánea de respaldo versionada. Los errores de acceso conservan la última ficha válida y quedan registrados.
+- **Actualización semanal.** El recolector se ejecuta los lunes a las 04:23 UTC y admite ejecución manual. Al terminar correctamente, se construye y publica una nueva edición en GitHub Pages. El buscador consulta esa edición cada cinco minutos, sin volver a rastrear las fuentes.
+- **Continuidad de los datos.** La web se genera desde las instantáneas versionadas y funciona sin base de datos en tiempo de consulta. Neon conserva la adquisición y el historial de observaciones. Los errores de acceso conservan la última ficha válida y quedan registrados.
 
 El ámbito principal es Europa, incluidos países pequeños y territorios. Armenia, Azerbaiyán y Georgia figuran como ampliación académica explícita del [Espacio Europeo de Educación Superior](https://ehea.info/about-ehea/ehea-membership-and-criteria/). Los programas de países transcontinentales necesitan evidencia de su campus europeo; esa comprobación no concede automáticamente un tier a toda la institución.
 
@@ -51,7 +51,7 @@ npm ci
 npm run dev
 ```
 
-Abrir la dirección que imprime el servidor; por defecto, `http://localhost:5173`. Para consultar Neon, copiar `.env.example` a `.dev.vars` y configurar una credencial de solo lectura. No versionar credenciales.
+Abrir la dirección que imprime el servidor; por defecto, `http://localhost:3000/trama-academia/`. No hacen falta credenciales para construir o consultar la web. Tras compilar, `npm start` sirve `out/` en `http://localhost:4173/trama-academia/`.
 
 ```sh
 npm test
@@ -63,7 +63,7 @@ Los recolectores de PDF requieren además Python 3.10 o posterior y las dependen
 
 ## Cómo está organizado
 
-La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores de Node verifican fuentes públicas; Python extrae el texto de los PDF. Neon sirve los datos y Git conserva las instantáneas publicadas.
+La aplicación utiliza React y la exportación estática de Next.js, publicada en **GitHub Pages** mediante GitHub Actions. Las 3.373 fichas tienen HTML propio y admiten acceso directo. Los índices de búsqueda se descargan por separado, los detalles visibles se cargan en paralelo y la comparación solo se descarga cuando se abre. Las fuentes tipográficas se sirven localmente. Los recolectores de Node verifican fuentes públicas; Python extrae PDF y Neon conserva el historial de adquisición. No se necesitan servicios de ChatGPT para consultar o publicar esta versión.
 
 | Ruta | Función |
 | --- | --- |
@@ -73,7 +73,10 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 | `data/institutions.curated.json`, `data/institutions.json` | Fuentes institucionales revisadas y registro público con indicadores. |
 | `data/institution-crawl.json.gz` + `data/institution-crawl.parts/` | Cola reanudable de descubrimiento, dividida en partes con huellas SHA-256; conserva todo el historial y admite leer el formato anterior. Su resumen legible está en `data/institution-crawl.summary.json`. |
 | `scripts/harvest/` | Adquisición, extracción, controles de evidencia y auditoría. |
+| `scripts/web/` | Índices compactos, comprobación de integridad de la exportación y servidor estático local. |
 | `db/`, `scripts/db/` | Esquema, migraciones y sincronización con Neon. |
+
+El flujo de CI verifica las pruebas, los tipos, las fichas exportadas y los presupuestos de tamaño antes de desplegar. `build-info.json` en la web identifica el commit, la edición y la revisión de los índices. [Arquitectura y filtros de prestigio](docs/github-pages.md).
 
 ## Documentación
 

@@ -56,3 +56,5 @@ next-env.d.ts
 # Python PDF extractor cache
 __pycache__/
 *.pyc
+/.web-generated/
+/public/data/

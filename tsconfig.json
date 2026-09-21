@@ -30,7 +30,8 @@
     "types": [
       "node",
       "@cloudflare/workers-types"
-    ]
+    ],
+    "allowImportingTsExtensions": true
   },
   "include": [
     "next-env.d.ts",
@@ -43,6 +44,8 @@
   "exclude": [
     "node_modules",
     "examples",
-    "work"
+    "work",
+    "out",
+    ".web-generated"
   ]
 }
