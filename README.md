@@ -81,6 +81,7 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 - [Revisión de Letonia](docs/latvia-review-2026-09-21.md): ocho másteres, un doctorado y cuatro instrumentos de financiación, con rutas agrupadas y discrepancias de admisión y elegibilidad visibles.
 - [Revisión de Malta](docs/malta-review-2026-09-21.md): quince másteres, cuatro doctorados y tres instrumentos de financiación; modalidades agrupadas, admisión de 2026 y condiciones de las ayudas verificadas.
 - [Revisión de Chipre](docs/cyprus-review-2026-09-21.md): veinte másteres, seis doctorados, siete ayudas y tres convocatorias o prácticas; identidad institucional, movilidad, tesis y condiciones económicas contrastadas.
+- [Revisión de Grecia](docs/greece-review-2026-09-21.md): 23 másteres, un doctorado y cinco ayudas; recorrido del catálogo nacional, tesis, idioma, matrícula y plazos, con pendientes explícitos.
 
 Para ampliar la cobertura, una fuente debe declarar su alcance, conservar la procedencia y superar la revisión de identidad, disciplina, geografía y condiciones. Los candidatos se preparan con `npm run harvest:candidates`; su puntuación ordena el trabajo y no los incorpora al catálogo.
 

@@ -166418,8 +166418,16 @@
           "3-5 years",
           "application process and deadlines for program admission are separate"
         ]
+      },
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/phd-student-scholarships-15/",
+        "field": "tuition-coverage",
+        "phrases": [
+          "includes the University tuition fees (except the €500 prepayment for securing the position)"
+        ]
       }
-    ]
+    ],
+    "feeNote": "La convocatoria cubre la matrícula, excepto el anticipo de 500 EUR."
   },
   {
     "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
@@ -166480,8 +166488,16 @@
           "not submitted concurrently in both portals",
           "will NOT be considered"
         ]
+      },
+      {
+        "url": "https://www.kios.ucy.ac.cy/open_positions/european-msca-doctoral-network-phd-scholarship-dc12/",
+        "field": "tuition-coverage",
+        "phrases": [
+          "The position provides University tuition fees"
+        ]
       }
-    ]
+    ],
+    "feeNote": "La convocatoria incluye la matrícula doctoral; confirmar las condiciones individuales con UCY."
   },
   {
     "url": "https://www.kios.ucy.ac.cy/open_positions/11747/",
@@ -166537,6 +166553,2144 @@
           "35 hours per week",
           "initial period of 3 months",
           "physical presence"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.dept.aueb.gr/en/gradcs",
+    "institution": "Athens University of Economics and Business",
+    "title": "MSc Computer Science",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Athens",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "duration": "12 meses según la presentación del programa",
+    "hours": "Asistencia a clases y trabajo de investigación",
+    "languages": [],
+    "entry": "Grado universitario o título TEI; selección por expediente, referencias y entrevista. Dos cartas, CV y expediente. Inglés Advanced o TOEFL de al menos 79 o IELTS de al menos 6,5. Los títulos extranjeros están sujetos a validación académica según las reglas de admisión.",
+    "feeNote": "El programa se anuncia gratuito. No se confirma una beca de manutención.",
+    "researchNote": "Orientación explícita a preparar investigación doctoral. Diez asignaturas de 6 ECTS y tesis investigadora de 15 ECTS, con metodología obligatoria y posibles cursos individualizados Research in Computer Science I y II. La web anuncia finalización en doce meses y limita los retrasos al tercer semestre. No se publica aquí un total de 90 ECTS ni se deduce el idioma de docencia de la versión inglesa de la web; confirmar con el programa. Los periodos de selección publicados son generales, sin una nueva plaza financiada garantizada.",
+    "researchEvidenceUrl": "https://www.dept.aueb.gr/en/content/requirements-0",
+    "evidencePages": [
+      {
+        "url": "https://www.dept.aueb.gr/en/content/program-goals",
+        "label": "Orientación investigadora, duración y gratuidad"
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/content/courses",
+        "label": "Asignaturas y vías individualizadas de investigación"
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/content/admissions-application-process",
+        "label": "Acceso, selección y acreditación de inglés"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.dept.aueb.gr/en/content/program-goals",
+        "field": "purpose-fees-duration",
+        "phrases": [
+          "with a view towards Ph.D. research",
+          "Program completion in 12 months",
+          "Free program"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/content/requirements-0",
+        "field": "research-thesis",
+        "phrases": [
+          "ten (10) courses",
+          "6 ECTS units",
+          "thesis, equivalent to 15 ECTS",
+          "thesis is research oriented",
+          "end of the third semester"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/content/courses",
+        "field": "methods",
+        "phrases": [
+          "Research Methodology",
+          "Deep Learning",
+          "Research in Computer Science"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/content/admissions-application-process",
+        "field": "entry",
+        "phrases": [
+          "2 letters of Recommendation",
+          "TOEFL (at least 79)",
+          "IELTS (at least 6.5)"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://st.ihu.gr/studies/postgraduate/cybersecurity",
+    "institution": "International Hellenic University",
+    "title": "MSc Cybersecurity",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Thermi, Thessaloniki",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "18 meses completos o 30 parciales · 90 ECTS",
+    "hours": "Híbrido; clases principalmente por la tarde y exámenes normalmente presenciales",
+    "entry": "Grado reconocido, preferentemente de ciencias, tecnología o ingeniería; nota mínima equivalente a 6/10 en el reglamento. Inglés B2 o titulación previa en inglés en universidad extranjera según la exención publicada. Al menos dos referencias, expediente y CV; posible entrevista o examen. Se admiten excepcionalmente otras titulaciones con conocimientos adecuados de informática.",
+    "feeNote": "2.900 EUR de matrícula total. Anticipo de 500 EUR a cuenta; devolución condicionada y con retención administrativa antes de comenzar. Becas de matrícula competitivas, sin porcentaje ni concesión garantizados.",
+    "researchNote": "Tesis de 30 ECTS después de 60 de asignaturas. El reglamento exige una propuesta con metodología, aportación científica esperada y originalidad, supervisión y defensa pública ante tres miembros. Las modalidades completa y parcial se agrupan. La fecha publicada para octubre de 2026 terminó el 26 de agosto; confirmar una futura convocatoria. La modalidad a distancia mantiene normalmente presencia física para los exámenes finales.",
+    "researchEvidenceUrl": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-cyber-en.pdf?v=1003",
+    "evidencePages": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-cyber-en.pdf?v=1003",
+        "label": "Reglamento: tesis, créditos, selección y defensa",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          10,
+          11
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-cyber-en.pdf?v=1003",
+        "field": "credits-thesis",
+        "phrases": [
+          "Dissertation 30",
+          "Grand Total Semesters (A+B+C) 90",
+          "expected scientific contribution",
+          "originality",
+          "public presentation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-cyber-en.pdf?v=1003",
+        "field": "selection",
+        "phrases": [
+          "grade six (6)",
+          "Level B2",
+          "two (2) letters of recommendation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/cybersecurity",
+        "field": "fee-calendar",
+        "phrases": [
+          "2,900€ (total)",
+          "26 August 2026"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/cybersecurity",
+        "field": "mode",
+        "phrases": [
+          "18 months (full-time)",
+          "30 months (part-time)",
+          "physically present at the University for the final exams"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/cybersecurity",
+        "field": "scholarships-deposit",
+        "phrases": [
+          "deposit of 500 Euros",
+          "20% administrative fee",
+          "These scholarships are competitive"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://st.ihu.gr/studies/postgraduate/datascience",
+    "institution": "International Hellenic University",
+    "title": "MSc Data Science",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Thermi, Thessaloniki",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "18 meses completos o 30 parciales · 90 ECTS",
+    "hours": "Híbrido; clases principalmente por la tarde y exámenes normalmente presenciales",
+    "entry": "Grado reconocido, preferentemente de ciencias, tecnología o ingeniería; nota mínima equivalente a 6/10 en el reglamento. Inglés B2 o titulación previa en inglés en universidad extranjera según la exención publicada. Al menos dos referencias, expediente y CV; posible entrevista o examen. Otras titulaciones se valoran con base sólida en estadística o matemáticas y fundamentos de bases de datos y programación.",
+    "feeNote": "3.700 EUR de matrícula total. Anticipo de 500 EUR a cuenta; devolución condicionada y con retención administrativa antes de comenzar. Becas de matrícula competitivas, sin porcentaje ni concesión garantizados.",
+    "researchNote": "Tesis de 30 ECTS después de 60 de asignaturas. El reglamento exige una propuesta con metodología, aportación científica esperada y originalidad, supervisión y defensa pública ante tres miembros. Las modalidades completa y parcial se agrupan. La fecha publicada para octubre de 2026 terminó el 26 de agosto; confirmar una futura convocatoria. La modalidad a distancia mantiene normalmente presencia física para los exámenes finales.",
+    "researchEvidenceUrl": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ds-en.pdf?v=1003",
+    "evidencePages": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ds-en.pdf?v=1003",
+        "label": "Reglamento: tesis, créditos, selección y defensa",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          10,
+          11
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ds-en.pdf?v=1003",
+        "field": "credits-thesis",
+        "phrases": [
+          "Dissertation 30",
+          "Grand Total Semesters (A+B+C) 90",
+          "expected scientific contribution",
+          "originality",
+          "public presentation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ds-en.pdf?v=1003",
+        "field": "selection",
+        "phrases": [
+          "grade six (6)",
+          "Level B2",
+          "two (2) letters of recommendation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/datascience",
+        "field": "fee-calendar",
+        "phrases": [
+          "3,700€ (total)",
+          "26 August 2026"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/datascience",
+        "field": "mode",
+        "phrases": [
+          "18 months (full-time)",
+          "30 months (part-time)",
+          "physically present at the University for the final exams"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/datascience",
+        "field": "scholarships-deposit",
+        "phrases": [
+          "deposit of 500 Euros",
+          "20% administrative fee",
+          "These scholarships are competitive"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://st.ihu.gr/studies/postgraduate/mobile",
+    "institution": "International Hellenic University",
+    "title": "MSc Mobile and Web Computing: Internet of Things Applications",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Thermi, Thessaloniki",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "18 meses completos o 30 parciales · 90 ECTS",
+    "hours": "Híbrido; clases principalmente por la tarde y exámenes normalmente presenciales",
+    "entry": "Grado reconocido, preferentemente de ciencias, tecnología o ingeniería; nota mínima equivalente a 6/10 en el reglamento. Inglés B2 o titulación previa en inglés en universidad extranjera según la exención publicada. Al menos dos referencias, expediente y CV; posible entrevista o examen. Se admiten excepcionalmente otras titulaciones con conocimientos adecuados en la materia.",
+    "feeNote": "2.900 EUR de matrícula total. Anticipo de 500 EUR a cuenta; devolución condicionada y con retención administrativa antes de comenzar. Becas de matrícula competitivas, sin porcentaje ni concesión garantizados.",
+    "researchNote": "Tesis de 30 ECTS después de 60 de asignaturas. El reglamento exige una propuesta con metodología, aportación científica esperada y originalidad, supervisión y defensa pública ante tres miembros. Las modalidades completa y parcial se agrupan. La web anuncia ampliación del plazo de octubre de 2026 hasta el 25 de septiembre de 2026. La ficha describe el programa; consultar disponibilidad de admisión. La modalidad a distancia mantiene normalmente presencia física para los exámenes finales.",
+    "researchEvidenceUrl": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-mobile-en.pdf?v=1003",
+    "evidencePages": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-mobile-en.pdf?v=1003",
+        "label": "Reglamento: tesis, créditos, selección y defensa",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          10,
+          11
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-mobile-en.pdf?v=1003",
+        "field": "credits-thesis",
+        "phrases": [
+          "Dissertation 30",
+          "Grand Total Semesters (A+B+C) 90",
+          "expected scientific contribution",
+          "originality",
+          "public presentation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-mobile-en.pdf?v=1003",
+        "field": "selection",
+        "phrases": [
+          "grade six (6)",
+          "Level B2",
+          "two (2) letters of recommendation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/mobile",
+        "field": "fee-calendar",
+        "phrases": [
+          "€2,900 (total)",
+          "25 September 2026"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/mobile",
+        "field": "mode",
+        "phrases": [
+          "18 months (full-time)",
+          "30 months (part-time)",
+          "physically present at the University for the final exams"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/mobile",
+        "field": "scholarships-deposit",
+        "phrases": [
+          "deposit of 500 Euros",
+          "20% administrative fee",
+          "These scholarships are competitive"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://datascience.aueb.gr",
+    "institution": "Athens University of Economics and Business",
+    "title": "MSc Artificial Intelligence and Data Science — vía investigadora a tiempo parcial",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "2 años a tiempo parcial",
+    "hours": "Dos tardes semanales; asistencia obligatoria",
+    "entry": "Grado universitario reconocido, base cuantitativa y experiencia reciente de programación. La modalidad parcial exige al menos dos años de experiencia laboral a tiempo completo y acreditación de empleo. CV en inglés, expediente, dos referencias y certificado de inglés equivalente a Proficiency; GRE opcional.",
+    "feeNote": "7.500 EUR en la modalidad parcial, según la convocatoria 2026/28; matrícula no reembolsable. Las ayudantías de hasta 3.000 EUR se ofrecen a estudiantes de la modalidad completa, no se trasladan a esta vía parcial.",
+    "researchNote": "La modalidad parcial permite, excepcionalmente y con aprobación del director, sustituir 15 unidades lectivas por un proyecto de investigación supervisado por profesorado. Es indispensable obtener esa aprobación para seguir la vía investigadora. El proyecto industrial de la modalidad completa se describe por separado. La convocatoria revisada cerró el 15 de julio de 2026 para plazas restantes; consultar el siguiente proceso.",
+    "researchEvidenceUrl": "https://datascience.aueb.gr/backoffice/imgs/pcimgs/CALL%20FOR%20APPLICATIONS%20FOR%20ADMISSION_2026-2027%20NEW1.pdf",
+    "evidencePages": [
+      {
+        "url": "https://datascience.aueb.gr/backoffice/imgs/pcimgs/CALL%20FOR%20APPLICATIONS%20FOR%20ADMISSION_2026-2027%20NEW1.pdf",
+        "label": "Convocatoria 2026: vía investigadora, selección y matrícula",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "url": "https://datascience.aueb.gr/page.php?id=115",
+        "label": "Documentos de admisión y acreditación lingüística"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1175/master/msc-in-ai-and-data-science/",
+        "label": "Registro nacional: idioma del programa"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://datascience.aueb.gr/backoffice/imgs/pcimgs/CALL%20FOR%20APPLICATIONS%20FOR%20ADMISSION_2026-2027%20NEW1.pdf",
+        "field": "research-route",
+        "phrases": [
+          "Under special circumstances",
+          "students may substitute 15 units",
+          "supervised research project",
+          "approved by the director"
+        ]
+      },
+      {
+        "url": "https://datascience.aueb.gr/backoffice/imgs/pcimgs/CALL%20FOR%20APPLICATIONS%20FOR%20ADMISSION_2026-2027%20NEW1.pdf",
+        "field": "part-time-entry",
+        "phrases": [
+          "at least 2 years of full",
+          "required for part-time programs",
+          "July 15, 2026"
+        ]
+      },
+      {
+        "url": "https://datascience.aueb.gr/backoffice/imgs/pcimgs/CALL%20FOR%20APPLICATIONS%20FOR%20ADMISSION_2026-2027%20NEW1.pdf",
+        "field": "tuition",
+        "phrases": [
+          "Part-time program: €7500",
+          "Tuition fees are non-refundable"
+        ]
+      },
+      {
+        "url": "https://datascience.aueb.gr/page.php?id=115",
+        "field": "english",
+        "phrases": [
+          "C2"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1175/master/msc-in-ai-and-data-science/",
+        "field": "language",
+        "phrases": [
+          "Γλώσσα Διδασκαλίας Αγγλικά"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.dept.aueb.gr/en/stat/content/msc-applied-statistics-and-data-analytics",
+    "institution": "Athens University of Economics and Business",
+    "title": "MSc Applied Statistics and Data Analytics",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Estadística",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "5 semestres · 90 ECTS",
+    "hours": "Dos tardes por semana",
+    "entry": "Titulación de primer ciclo de universidad o TEI griega, o institución extranjera reconocida según las condiciones del programa. Confirmar la documentación y las condiciones lingüísticas de la próxima convocatoria.",
+    "feeNote": "5.500 EUR de matrícula parcial en el catálogo oficial nacional; confirmar la tarifa de la cohorte solicitada. Ayudas por mérito sujetas a selección.",
+    "researchNote": "Tesis obligatoria de 30 ECTS en el quinto semestre, tras cuatro semestres de asignaturas; supervisión y defensa ante tres examinadores. Puede redactarse en griego o inglés. Formación en probabilidad, bioestadística, aprendizaje estadístico y análisis de datos. La guía de tesis incluye una referencia al tercer semestre que no coincide con el plan de cinco: confirmar el calendario con secretaría. La vía EMOS tiene cupo específico.",
+    "researchEvidenceUrl": "https://www.dept.aueb.gr/sites/default/files/stat/postgraduate/applied/Regulation%20DT%20Applied.pdf",
+    "evidencePages": [
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/postgraduate/applied/Regulation%20DT%20Applied.pdf",
+        "label": "Tesis: supervisión, defensa e idiomas",
+        "format": "pdf",
+        "pages": [
+          1,
+          2
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1177/master/applied-statistics-and-data-analytics/",
+        "label": "Catálogo del Ministerio: acceso, idioma, créditos y matrícula"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/msc-applied-statistics-and-data-analytics",
+        "field": "curriculum",
+        "phrases": [
+          "five semesters",
+          "5th is dedicated to the thesis writing",
+          "Thesis writing (30 ECTS)",
+          "Statistical and Machine Learning"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/postgraduate/applied/Regulation%20DT%20Applied.pdf",
+        "field": "thesis",
+        "phrases": [
+          "DT is mandatory",
+          "4th semester",
+          "three-member Examination",
+          "DT is written in Greek or English"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1177/master/applied-statistics-and-data-analytics/",
+        "field": "national-register",
+        "phrases": [
+          "€5,500",
+          "ECTS 90",
+          "Διδασκαλίας Ελληνικά",
+          "κάτοχοι τίτλου του πρώτου κύκλου"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.dept.aueb.gr/en/stat/content/msc-statistics",
+    "institution": "Athens University of Economics and Business",
+    "title": "MSc Statistical Data Science",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Estadística",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "3 semestres · 90 ECTS",
+    "hours": "Cuatro mañanas por semana",
+    "entry": "Grado de una universidad acreditada y preparación estadística o matemática. La página del programa indica IELTS académico 6,5, TOEFL iBT 90, TOEIC 850 o certificado de competencia reconocido; confirmar requisitos de la nueva convocatoria.",
+    "feeNote": "4.000 EUR: tarifa expresamente rotulada para 2025/26 en la web, también presente en el catálogo nacional. Confirmar el importe de la próxima cohorte; existen ayudas por mérito.",
+    "researchNote": "Programa antes denominado MSc in Statistics. Dos semestres de asignaturas y un tercero de tesis de 30 ECTS, con seminarios de investigación obligatorios. La tesis se redacta en inglés, tiene supervisión y defensa ante un tribunal. Las vías de Data Analytics, Statistical Data Science y Finance and Stochastics se agrupan en la misma ficha.",
+    "researchEvidenceUrl": "https://www.dept.aueb.gr/sites/default/files/stat/postgraduate/full/Regulation%20DT%20Statistics.pdf",
+    "evidencePages": [
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/postgraduate/full/Regulation%20DT%20Statistics.pdf",
+        "label": "Reglamento de tesis: supervisión y defensa",
+        "format": "pdf",
+        "pages": [
+          1
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/statmsc",
+        "label": "Idioma, admisión y tarifa con año explícito"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1493/master/statistical-data-science/",
+        "label": "Registro nacional y continuidad del programa"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/msc-statistics",
+        "field": "thesis-credits",
+        "phrases": [
+          "former MSc in Statistics",
+          "Dissertation Thesis (30 ECTS)",
+          "Research Seminars (1 ECTS)"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/postgraduate/full/Regulation%20DT%20Statistics.pdf",
+        "field": "research-assessment",
+        "phrases": [
+          "DT is mandatory",
+          "three-member Examination",
+          "DT is written in English"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/statmsc",
+        "field": "entry-fees-language",
+        "phrases": [
+          "4,000€ for the 2025-26 academic year",
+          "program is fully in English",
+          "IELTS (academic 6.5 and above)",
+          "TOEFL (IBT, 90 and above)"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.dept.aueb.gr/en/stat/content/msc-sports-analytics",
+    "institution": "Athens University of Economics and Business",
+    "title": "MSc Sports Analytics — inicio pendiente de acreditación",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "90 ECTS · modalidades completa y parcial",
+    "hours": "Clases virtuales en directo y exámenes presenciales",
+    "entry": "Para Sport Data Science, titulados con formación cuantitativa y computacional sólida, por ejemplo estadística, matemáticas, informática o ingeniería. Applied Sports Analytics admite perfiles de ciencias del deporte y otras disciplinas aplicadas; consultar selección y acreditación lingüística.",
+    "feeNote": "8.000 EUR. La web anuncia becas de hasta el 50% para notas superiores a 8,5 de universidades griegas; disponibilidad y elegibilidad individuales.",
+    "researchNote": "Programa conjunto de AUEB y National and Kapodistrian University of Athens, con tesis de 30 ECTS y dos itinerarios agrupados. El anuncio del 31 de agosto de 2026 condiciona el comienzo previsto en octubre a completar la acreditación de ΕΘΑΕΕ y permite retrasarlo. Su última ronda cerró el 15 de septiembre de 2026. Confirmar la acreditación final y el calendario antes de matricularse.",
+    "researchEvidenceUrl": "https://www.dept.aueb.gr/en/stat/content/msc-sports-analytics",
+    "evidencePages": [
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/news/msc-sports-analytics-%E2%80%93-2nd-and-final-call-applications",
+        "label": "Última convocatoria: acreditación pendiente, selección y plazo"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/msc-sports-analytics",
+        "field": "research",
+        "phrases": [
+          "DISSERTATION THESIS (30 ECTS)",
+          "PENDING ACCREDITATION",
+          "Sports Data Science"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/msc-sports-analytics",
+        "field": "fees",
+        "phrases": [
+          "8,000€",
+          "Up to 50%",
+          "grade above 8,5"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/news/msc-sports-analytics-%E2%80%93-2nd-and-final-call-applications",
+        "field": "conditions",
+        "phrases": [
+          "subject to the completion of the accreditation process",
+          "15/09/2026",
+          "In-person examinations",
+          "strong quantitative and computational backgrounds"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/594-FEK_B_277_EpikeroKanonismosDidakorikonSpoudonTmimatosStatistikis_6thSing18.12.2025.pdf",
+    "institution": "Athens University of Economics and Business",
+    "title": "PhD Statistics",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Estadística"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "3–6 años desde la designación del comité; prórroga excepcional hasta 2 años",
+    "entry": "Máster relevante o titulación integrada de al menos cinco años y 300 ECTS conforme al reglamento de 2026. Inglés C1, propuesta de tesis con supervisor propuesto, CV, expediente, al menos dos referencias y trabajos previos. Selección departamental y posible entrevista.",
+    "feeNote": "Los estudios doctorales se ofrecen gratuitamente según el reglamento de enero de 2026. No se garantiza contrato ni beca de manutención.",
+    "researchNote": "Investigación original en estadística, con tesis escrita obligatoriamente en inglés. Formación inicial en probabilidad e inferencia, estadística computacional, modelos lineales generalizados y análisis de datos; media mínima de 7 y seis seminarios en el primer año, con exenciones regladas para estudios previos. La convocatoria de admisión 2026/27 cerró el 14 de septiembre de 2026. Consultar futuras rondas y financiación específica.",
+    "evidencePages": [
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/594-FEK_B_277_EpikeroKanonismosDidakorikonSpoudonTmimatosStatistikis_6thSing18.12.2025.pdf",
+        "label": "Reglamento doctoral vigente: acceso, duración y gratuidad",
+        "format": "pdf",
+        "pages": [
+          2,
+          3,
+          4,
+          6
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/PhD%20Proclamation%202026-27.pdf",
+        "label": "Convocatoria 2026/27: áreas, documentos y plazo vencido",
+        "format": "pdf",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/594-FEK_B_277_EpikeroKanonismosDidakorikonSpoudonTmimatosStatistikis_6thSing18.12.2025.pdf",
+        "field": "fees",
+        "phrases": [
+          "Οι Διδακτορικές Σπουδές προσφέρονται δωρεάν"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/594-FEK_B_277_EpikeroKanonismosDidakorikonSpoudonTmimatosStatistikis_6thSing18.12.2025.pdf",
+        "field": "duration",
+        "phrases": [
+          "τρία (3)",
+          "έξι (6)",
+          "δύο (2) ημερολογιακά έτη"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/594-FEK_B_277_EpikeroKanonismosDidakorikonSpoudonTmimatosStatistikis_6thSing18.12.2025.pdf",
+        "field": "entry-language",
+        "phrases": [
+          "τριακόσιες (300)",
+          "επίπεδο Γ1",
+          "υποχρεωτικά η αγγλική γλώσσα"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/sites/default/files/stat/phd/PhD%20Proclamation%202026-27.pdf",
+        "field": "selection",
+        "phrases": [
+          "research proposal",
+          "proposed supervisor",
+          "At least two (2) letters of recommendation",
+          "Monday, September 14 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://aidl.uniwa.gr/",
+    "institution": "University of West Attica",
+    "title": "MSc Artificial Intelligence and Deep Learning",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Machine learning",
+      "Ciencia de datos"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "3 semestres completos o 5 parciales · 90 ECTS",
+    "hours": "Enseñanza síncrona a distancia según la convocatoria 2026/27",
+    "entry": "Titulación universitaria en ciencias o ingeniería; otras disciplinas se valoran individualmente. Inglés C1, expediente, CV, dos referencias, carta de interés de hasta 500 palabras y entrevista; títulos extranjeros sujetos a las condiciones de reconocimiento del programa.",
+    "feeNote": "3.000 EUR en total según la convocatoria 2026/27. Exención de matrícula sujeta a los requisitos aplicables; no se garantiza manutención.",
+    "researchNote": "Tesis de 30 ECTS con defensa oral, tras 60 ECTS de formación. Especializaciones en Autonomous Systems y Cognitive Systems. La convocatoria vigente anuncia enseñanza y trabajos en inglés, a distancia, y comienzo aproximado en marzo de 2027; prevalece sobre la descripción general que aún menciona clases en griego con opción inglesa. Su plazo revisado terminó el 1 de septiembre de 2026; consultar la próxima admisión.",
+    "researchEvidenceUrl": "https://aidl.uniwa.gr/new-programme-outline/",
+    "evidencePages": [
+      {
+        "url": "https://aidl.uniwa.gr/new-programme-outline/",
+        "label": "Plan desde 2024: tesis de 30 ECTS"
+      },
+      {
+        "url": "https://aidl.uniwa.gr/wp-content/uploads/2026/07/%CE%A0%CE%A1%CE%9F%CE%9A%CE%97%CE%A1%CE%A5%CE%9E%CE%97_%CE%9E%CE%94%CE%A0%CE%9C%CE%A3_AIDL_2026-27_EN_1st-CALL_.pdf",
+        "label": "Convocatoria 2026/27: idioma, modalidad, requisitos y matrícula",
+        "format": "pdf",
+        "pages": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "url": "https://aidl.uniwa.gr/applications/",
+        "label": "Procedimiento de selección"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1494/master/msc-in-artificial-intelligence-and-deep-learning/",
+        "label": "Registro oficial y titulaciones de acceso"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://aidl.uniwa.gr/new-programme-outline/",
+        "field": "thesis",
+        "phrases": [
+          "MSc Thesis (30 ECTS)",
+          "Mathematics for Machine Learning"
+        ]
+      },
+      {
+        "url": "https://aidl.uniwa.gr/wp-content/uploads/2026/07/%CE%A0%CE%A1%CE%9F%CE%9A%CE%97%CE%A1%CE%A5%CE%9E%CE%97_%CE%9E%CE%94%CE%A0%CE%9C%CE%A3_AIDL_2026-27_EN_1st-CALL_.pdf",
+        "field": "delivery",
+        "phrases": [
+          "three (3) academic semesters",
+          "five (5) academic semesters",
+          "all learning content are offered in English",
+          "synchronous distance learning",
+          "March 2027"
+        ]
+      },
+      {
+        "url": "https://aidl.uniwa.gr/wp-content/uploads/2026/07/%CE%A0%CE%A1%CE%9F%CE%9A%CE%97%CE%A1%CE%A5%CE%9E%CE%97_%CE%9E%CE%94%CE%A0%CE%9C%CE%A3_AIDL_2026-27_EN_1st-CALL_.pdf",
+        "field": "fees-deadline",
+        "phrases": [
+          "3,000 euros",
+          "September 1st, 2026",
+          "C1 Level"
+        ]
+      },
+      {
+        "url": "https://aidl.uniwa.gr/applications/",
+        "field": "selection",
+        "phrases": [
+          "Two recommendation letters",
+          "500 words maximum",
+          "personal interview"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://datascience.aueb.gr/page.php?id=132",
+    "institution": "Athens University of Economics and Business",
+    "title": "AUEB AI and Data Science — becas y ayudantías",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "entry": "Admisión en el MSc AI and Data Science y selección por mérito. Las ayudantías están destinadas a estudiantes de la modalidad completa que expresen interés; la beca al mejor expediente final se concede al graduarse.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Becas competitivas por mérito y posibles ayudantías de investigación o docencia de hasta 3.000 EUR para reducir matrícula."
+    },
+    "researchNote": "La convocatoria 2026/27 dice que las ayudantías pueden ofrecerse, sin garantizarlas. Requieren 10 horas semanales de tareas académicas, salvo semanas de exámenes. La web contempla además un premio final equivalente a la matrícula para el mejor expediente: no es financiación de acceso ni salario doctoral.",
+    "evidencePages": [
+      {
+        "url": "https://datascience.aueb.gr/backoffice/imgs/pcimgs/CALL%20FOR%20APPLICATIONS%20FOR%20ADMISSION_2026-2027%20NEW1.pdf",
+        "label": "Condiciones actuales de becas y ayudantías",
+        "format": "pdf",
+        "pages": [
+          4
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://datascience.aueb.gr/backoffice/imgs/pcimgs/CALL%20FOR%20APPLICATIONS%20FOR%20ADMISSION_2026-2027%20NEW1.pdf",
+        "field": "current-assistantship",
+        "phrases": [
+          "limited number of merit-based scholarships",
+          "worth up to €3000 may be offered",
+          "10 hours of academic work",
+          "excluding exam weeks"
+        ]
+      },
+      {
+        "url": "https://datascience.aueb.gr/page.php?id=132",
+        "field": "merit-award",
+        "phrases": [
+          "highest cumulative academic average",
+          "equivalent to the full tuition amount"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.dept.aueb.gr/en/stat/content/rewards-and-scholarships-program",
+    "institution": "Athens University of Economics and Business",
+    "title": "AUEB Statistics — exenciones de matrícula por mérito",
+    "country": "GR",
+    "city": "Athens",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Estadística",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "entry": "Las exenciones completas del MSc Statistics se dirigen a graduados del departamento de Estadística de AUEB con nota superior a 8,5. La página también describe exenciones parciales para candidatos con nota superior a 8,0 y premios por rendimiento durante o al final del máster.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Exenciones completas o parciales de matrícula según programa, procedencia y expediente; confirmar cupo y aplicación al máster solicitado."
+    },
+    "researchNote": "La web mantiene el nombre anterior MSc Statistics; el programa actual se denomina Statistical Data Science. Distinguir la ayuda de acceso de la exención parcial por la mejor nota del primer semestre y del premio al mejor graduado de Applied Statistics and Data Analytics. Estas últimas no garantizan financiación inicial.",
+    "evidencePages": [
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/msc-statistics",
+        "label": "Continuidad de Statistics como Statistical Data Science"
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/msc-applied-statistics-and-data-analytics",
+        "label": "Máster de Applied Statistics and Data Analytics"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/rewards-and-scholarships-program",
+        "field": "eligibility",
+        "phrases": [
+          "Full exemption of postgraduate tuition fees to AUEB Statistics department graduates",
+          "grade > 8.5",
+          "grade >8.0"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/rewards-and-scholarships-program",
+        "field": "timing",
+        "phrases": [
+          "highest grade in the 1st semester",
+          "first excellent graduate"
+        ]
+      },
+      {
+        "url": "https://www.dept.aueb.gr/en/stat/content/msc-statistics",
+        "field": "renamed-programme",
+        "phrases": [
+          "former MSc in Statistics"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.ihu.gr/ucips/scholarships",
+    "institution": "International Hellenic University",
+    "title": "IHU Science and Technology — becas de excelencia y reducciones de matrícula",
+    "country": "GR",
+    "city": "Thermi, Thessaloniki",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática"
+    ],
+    "entry": "Estudiantes admitidos en los másteres de la School of Science and Technology del University Center of International Programmes of Studies. Las becas completas requieren demostrar excelencia académica; las reducciones consideran titulación, notas, inglés y perfil global. Solicitar tras recibir la carta de admisión.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Becas completas de excelencia y reducciones de matrícula competitivas; cupo e importe individual por confirmar."
+    },
+    "researchNote": "Cobertura aplicable a los másteres revisados de Data Science, Cybersecurity y Mobile and Web Computing. La concesión no es automática y no se anuncia aquí financiación de manutención. Las condiciones de otras escuelas y las convocatorias externas antiguas de la misma página no se aplican a esta ficha.",
+    "evidencePages": [
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/datascience",
+        "label": "Data Science: enlace a la financiación de la escuela"
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/cybersecurity",
+        "label": "Cybersecurity: financiación"
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/mobile",
+        "label": "Mobile and Web Computing: financiación"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.ihu.gr/ucips/scholarships",
+        "field": "science-school",
+        "phrases": [
+          "Scholarships School of Science and Technology",
+          "offers full-scholarships",
+          "first class bachelor degree",
+          "top graduates of your class"
+        ]
+      },
+      {
+        "url": "https://www.ihu.gr/ucips/scholarships",
+        "field": "competitive-reductions",
+        "phrases": [
+          "These scholarships are competitive",
+          "following the receipt of their acceptance letter"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/datascience",
+        "field": "programmes",
+        "phrases": [
+          "These scholarships are competitive"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems-security",
+    "institution": "University of the Aegean",
+    "title": "MSc Information and Communication Systems Security",
+    "country": "GR",
+    "city": "Karlovasi, Samos",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "3 semestres completos · 90 ECTS; hasta 6 semestres en modalidad parcial",
+    "hours": "Clases síncronas por internet; Exámenes presenciales al final de los dos primeros semestres.",
+    "entry": "Titulados en TIC, ingeniería, ciencias o áreas afines; se contemplan también las titulaciones militares y policiales detalladas en la web. Inglés al menos B2, CV, titulación, dos referencias y copia o resumen del trabajo de grado si existe. Solicitud en Nautilus. La modalidad parcial por empleo exige acreditar al menos 25 horas semanales; otras situaciones justificadas se valoran individualmente.",
+    "feeNote": "3.000 EUR en tres plazos; pagos realizados no reembolsables si no se formaliza la matrícula o se abandonan los estudios. Posibles becas por mérito para alumnado a tiempo completo, sujetas a decisión departamental.",
+    "researchNote": "Tesis obligatoria de 30 ECTS, con un semestre completo reservado a su elaboración. El catálogo nacional identifica el griego como idioma de docencia; la versión inglesa de la web y el requisito B2 no equivalen a enseñanza en inglés. La fecha de solicitud publicada para 2026 terminó el 7 de septiembre de 2026; consultar futuras rondas. Se agrupan las modalidades completa y parcial.",
+    "evidencePages": [
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/933/master/information-and-communication-systems-security/",
+        "label": "Catálogo oficial nacional: ubicación, idioma y créditos"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems-security",
+        "field": "research-thesis",
+        "phrases": [
+          "Master’s Thesis",
+          "Mandatory30"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems-security",
+        "field": "duration",
+        "phrases": [
+          "three academic semesters",
+          "six academic semesters"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems-security",
+        "field": "fees",
+        "phrases": [
+          "€3,000",
+          "paid in three installments"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems-security",
+        "field": "entry",
+        "phrases": [
+          "Two references",
+          "B2 level",
+          "25 hours per week"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems-security",
+        "field": "closed-admission",
+        "phrases": [
+          "September 7, 2026"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/933/master/information-and-communication-systems-security/",
+        "field": "teaching-language",
+        "phrases": [
+          "Γλώσσα Διδασκαλίας Ελληνικά",
+          "ECTS 90"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems",
+    "institution": "University of the Aegean",
+    "title": "MSc Information and Communication Systems",
+    "country": "GR",
+    "city": "Karlovasi, Samos",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "3 semestres completos · 90 ECTS; hasta 6 semestres en modalidad parcial",
+    "hours": "Clases síncronas por internet; Exámenes presenciales al final de los dos primeros semestres.",
+    "entry": "Titulación de primer ciclo reconocida; la admisión no queda restringida en la página a grados de informática. Inglés al menos B2, CV, titulación, dos referencias y copia o resumen del trabajo de grado si existe. Solicitud en Nautilus. La modalidad parcial por empleo exige acreditar al menos 20 horas semanales; otras situaciones justificadas se valoran individualmente.",
+    "feeNote": "3.000 EUR en cuatro plazos; pagos realizados no reembolsables si no se formaliza la matrícula o se abandonan los estudios. Posibles becas por mérito para alumnado a tiempo completo, sujetas a decisión departamental.",
+    "researchNote": "Tesis obligatoria de 30 ECTS, con un semestre completo reservado a su elaboración. El catálogo nacional identifica el griego como idioma de docencia; la versión inglesa de la web y el requisito B2 no equivalen a enseñanza en inglés. La fecha de solicitud publicada para 2026 terminó el 30 de agosto de 2026; consultar futuras rondas. Se agrupan las modalidades completa y parcial.",
+    "evidencePages": [
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/953/master/information-and-communications-systems/",
+        "label": "Catálogo oficial nacional: ubicación, idioma y créditos"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems",
+        "field": "research-thesis",
+        "phrases": [
+          "Master’s Thesis",
+          "Mandatory30"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems",
+        "field": "duration",
+        "phrases": [
+          "three academic semesters",
+          "six academic semesters"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems",
+        "field": "fees",
+        "phrases": [
+          "€3,000",
+          "four (4) installments"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems",
+        "field": "entry",
+        "phrases": [
+          "Two references",
+          "B2 level",
+          "20 hours per week"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/information-and-communication-systems",
+        "field": "closed-admission",
+        "phrases": [
+          "August 30, 2026"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/953/master/information-and-communications-systems/",
+        "field": "teaching-language",
+        "phrases": [
+          "Γλώσσα Διδασκαλίας Ελληνικά",
+          "ECTS 90"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://msc.icsd.aegean.gr/en/masters/internet-of-things",
+    "institution": "University of the Aegean",
+    "title": "MSc Internet of Things: Artificial Intelligence and Next Generation Networks",
+    "country": "GR",
+    "city": "Karlovasi, Samos",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Machine learning"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "3 semestres completos · 90 ECTS; hasta 6 semestres en modalidad parcial",
+    "hours": "Clases síncronas por internet; La evaluación puede ser presencial, remota o combinada según la asignatura.",
+    "entry": "Titulados en informática, comunicaciones, ingeniería, ciencias o áreas equivalentes de instituciones reconocidas. Inglés al menos B2, CV, titulación, dos referencias y copia o resumen del trabajo de grado si existe. Solicitud en Nautilus. La modalidad parcial por empleo exige acreditar al menos 20 horas semanales; otras situaciones justificadas se valoran individualmente.",
+    "feeNote": "3.000 EUR en tres plazos; pagos realizados no reembolsables si no se formaliza la matrícula o se abandonan los estudios. Posibles becas por mérito para alumnado a tiempo completo, sujetas a decisión departamental.",
+    "researchNote": "Tesis obligatoria de 30 ECTS, con un semestre completo reservado a su elaboración. El catálogo nacional identifica el griego como idioma de docencia; la versión inglesa de la web y el requisito B2 no equivalen a enseñanza en inglés. La fecha de solicitud publicada para 2026 terminó el 30 de agosto de 2026; consultar futuras rondas. Se agrupan las modalidades completa y parcial.",
+    "evidencePages": [
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/950/master/internet-of-things-artificial-intelligence-and-next-generation-networks/",
+        "label": "Catálogo oficial nacional: ubicación, idioma y créditos"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/internet-of-things",
+        "field": "research-thesis",
+        "phrases": [
+          "Master’s Thesis",
+          "Mandatory30"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/internet-of-things",
+        "field": "duration",
+        "phrases": [
+          "three academic semesters",
+          "six academic semesters"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/internet-of-things",
+        "field": "fees",
+        "phrases": [
+          "€3,000",
+          "€500 within 15 days"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/internet-of-things",
+        "field": "entry",
+        "phrases": [
+          "Two references",
+          "B2 level",
+          "20 hours per week"
+        ]
+      },
+      {
+        "url": "https://msc.icsd.aegean.gr/en/masters/internet-of-things",
+        "field": "closed-admission",
+        "phrases": [
+          "August 30, 2026"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/950/master/internet-of-things-artificial-intelligence-and-next-generation-networks/",
+        "field": "teaching-language",
+        "phrases": [
+          "Γλώσσα Διδασκαλίας Ελληνικά",
+          "ECTS 90"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.eap.gr/en/postgraduate-specialization-in-information-systems/",
+    "institution": "Hellenic Open University",
+    "title": "MSc Information Systems",
+    "country": "GR",
+    "city": "Patras",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "Mínimo 2 años · 120 ECTS",
+    "hours": "Programa a distancia; confirmar las condiciones de evaluación",
+    "entry": "Grado superior reconocido en una disciplina afín. Se requiere una buena base matemática o estadística y programación estructurada, por ejemplo Python. El programa atiende también a titulados de otras áreas y a quienes desean actualizar formación informática anterior.",
+    "feeNote": "3.750 EUR para nuevas matrículas desde 2024/25: cuatro módulos de 750 EUR y tesis de 750 EUR. La tarifa anterior de 3.250 EUR corresponde a cohortes previas.",
+    "researchNote": "Tesis de 20 ECTS y cuatro módulos obligatorios u optativos, con presentación final tras aprobarlos. Formación en software, arquitecturas, redes y sistemas de datos. El catálogo nacional confirma cuatro semestres; la traducción inglesa de la web utiliza la expresión «2 academic terms» para la duración mínima. Consultar la convocatoria de admisión vigente.",
+    "evidencePages": [
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1427/master/information-systems/",
+        "label": "Registro del Ministerio: duración, modalidad e idioma"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.eap.gr/en/postgraduate-specialization-in-information-systems/",
+        "field": "research-thesis",
+        "phrases": [
+          "PLSDE Post-graduate Thesis (C, 20 ECTS)"
+        ]
+      },
+      {
+        "url": "https://www.eap.gr/en/postgraduate-specialization-in-information-systems/",
+        "field": "new-cohort-fee",
+        "phrases": [
+          "academic year 2024-2025",
+          "€3.750"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1427/master/information-systems/",
+        "field": "duration-language",
+        "phrases": [
+          "Διάρκεια 4 εξάμηνα",
+          "ECTS 120",
+          "Γλώσσα Διδασκαλίας Ελληνικά"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.eap.gr/en/mobile-and-pervasive-computing-systems/",
+    "institution": "Hellenic Open University",
+    "title": "MSc Pervasive and Mobile Computing Systems",
+    "country": "GR",
+    "city": "Patras",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "Mínimo 2 años · 120 ECTS",
+    "hours": "Programa a distancia; confirmar las condiciones de evaluación",
+    "entry": "Grado superior reconocido. La universidad comprueba el reconocimiento de institución y título extranjeros. Se recomienda familiaridad con idiomas extranjeros, informática e internet.",
+    "feeNote": "3.750 EUR para nuevas matrículas desde 2024/25: cuatro módulos de 750 EUR y tesis de 750 EUR. La tarifa anterior de 3.250 EUR corresponde a cohortes previas.",
+    "researchNote": "Tesis obligatoria de 20 ECTS, junto con cuatro módulos. La elección de Mobile Computing Systems o Embedded Systems determina la especialización; ambas se agrupan en la ficha. El catálogo nacional confirma cuatro semestres; la traducción inglesa de la web utiliza la expresión «2 academic terms» para la duración mínima. Consultar la convocatoria de admisión vigente.",
+    "evidencePages": [
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1429/master/pervasive-and-mobile-computing-systems/",
+        "label": "Registro del Ministerio: duración, modalidad e idioma"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.eap.gr/en/mobile-and-pervasive-computing-systems/",
+        "field": "research-thesis",
+        "phrases": [
+          "SDYDE Postgraduate (Master’s) thesis (C, 20 ECTS)"
+        ]
+      },
+      {
+        "url": "https://www.eap.gr/en/mobile-and-pervasive-computing-systems/",
+        "field": "new-cohort-fee",
+        "phrases": [
+          "academic year 2024-2025",
+          "€3.750"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1429/master/pervasive-and-mobile-computing-systems/",
+        "field": "duration-language",
+        "phrases": [
+          "Διάρκεια 4 εξάμηνα",
+          "ECTS 120",
+          "Γλώσσα Διδασκαλίας Ελληνικά"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.eap.gr/en/postgraduate-studies-in-mathematics/",
+    "institution": "Hellenic Open University",
+    "title": "Master in Mathematics — especialización Applied Mathematics",
+    "country": "GR",
+    "city": "Patras",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Matemáticas aplicadas",
+      "Estadística"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "Mínimo 2 años · 120 ECTS",
+    "hours": "Programa a distancia; confirmar las condiciones de evaluación",
+    "entry": "Titulación reconocida en ciencias, tecnología, ingeniería, economía, informática o disciplina afín. Seleccionar los módulos que conducen a Applied Mathematics y confirmar la secuencia académica.",
+    "feeNote": "3.750 EUR para nuevas matrículas desde 2024/25: cuatro módulos de 750 EUR y tesis de 750 EUR. La tarifa anterior de 3.250 EUR corresponde a cohortes previas.",
+    "researchNote": "Tesis obligatoria de 20 ECTS en la especialidad elegida. La vía de Applied Mathematics incluye modelización, métodos analíticos y numéricos y matemáticas estocásticas. Los itinerarios de matemática pura y educación matemática pertenecen al mismo título; la ficha se centra en la vía aplicada. El catálogo nacional confirma cuatro semestres; la traducción inglesa de la web utiliza la expresión «2 academic terms» para la duración mínima. Consultar la convocatoria de admisión vigente.",
+    "evidencePages": [
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1430/master/mathematics/",
+        "label": "Registro del Ministerio: duración, modalidad e idioma"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.eap.gr/en/postgraduate-studies-in-mathematics/",
+        "field": "research-thesis",
+        "phrases": [
+          "MSM86 Postgraduate Thesis (C, 20 ECTS)"
+        ]
+      },
+      {
+        "url": "https://www.eap.gr/en/postgraduate-studies-in-mathematics/",
+        "field": "new-cohort-fee",
+        "phrases": [
+          "academic year 2024-2025",
+          "€3.750"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1430/master/mathematics/",
+        "field": "duration-language",
+        "phrases": [
+          "Διάρκεια 4 εξάμηνα",
+          "ECTS 120",
+          "Γλώσσα Διδασκαλίας Ελληνικά"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.eap.gr/en/bioinformatics-and-neuroinformatics/",
+    "institution": "Hellenic Open University",
+    "title": "MSc Bioinformatics and Neuroinformatics",
+    "country": "GR",
+    "city": "Patras / Corfu",
+    "kind": "programme",
+    "stage": "master",
+    "fields": [
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "Mínimo 18 meses · 90 ECTS; máximo 6 años",
+    "hours": "A distancia, con prácticas presenciales obligatorias de diez días en Corfú",
+    "entry": "Grado reconocido en ciencias, salud, biología, ingeniería, economía, informática u otra disciplina relacionada, con formación suficiente para el programa. Inglés muy bueno, porque parte de las clases y materiales lo requieren.",
+    "feeNote": "3.900 EUR: seis módulos de 550 EUR y tesis de 600 EUR. La web ofrece alojamiento y comidas durante las prácticas en instalaciones de Ionian University; confirmar condiciones de la estancia.",
+    "researchNote": "Tesis obligatoria de 30 ECTS, en griego o inglés, después de seis módulos. Formación en investigación primaria, algoritmos, modelos biomatemáticos, bioinformática y análisis de señales. Las prácticas obligatorias se realizan presencialmente en el Laboratory of Bioinformatics and Human Electrophysiology de Ionian University, Corfú, en marzo; deben completarse antes de defender la tesis.",
+    "evidenceChecks": [
+      {
+        "url": "https://www.eap.gr/en/bioinformatics-and-neuroinformatics/",
+        "field": "thesis",
+        "phrases": [
+          "BNPDE Master Thesis (C, 30 ECTS)",
+          "language of the postgraduate dissertation is Greek or English"
+        ]
+      },
+      {
+        "url": "https://www.eap.gr/en/bioinformatics-and-neuroinformatics/",
+        "field": "research-entry",
+        "phrases": [
+          "primary scientific research",
+          "A very good knowledge of English is required"
+        ]
+      },
+      {
+        "url": "https://www.eap.gr/en/bioinformatics-and-neuroinformatics/",
+        "field": "lab",
+        "phrases": [
+          "laboratory training is compulsory",
+          "physical presence",
+          "Ionian University of Corfu",
+          "accommodation and meals"
+        ]
+      },
+      {
+        "url": "https://www.eap.gr/en/bioinformatics-and-neuroinformatics/",
+        "field": "fee-duration",
+        "phrases": [
+          "Total: 3.900 euros",
+          "one and a half (1.5) year",
+          "six (6) years"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://st.ihu.gr/studies/postgraduate/ict",
+    "institution": "International Hellenic University",
+    "title": "MSc Information and Communication Technology Systems",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Thermi, Thessaloniki",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "18 meses completos o 30 parciales · 90 ECTS",
+    "hours": "Híbrido; clases principalmente por la tarde y exámenes normalmente presenciales",
+    "entry": "Grado reconocido, preferentemente en ingeniería, ciencias o informática, con nota mínima equivalente a 6/10. Inglés B2 o titulación previa en inglés en universidad extranjera según la exención publicada. Dos referencias, expediente y CV; posible entrevista o examen.",
+    "feeNote": "2.900 EUR de matrícula total. Anticipo de 500 EUR a cuenta; devolución condicionada, con retención administrativa antes de comenzar. Becas de matrícula competitivas, sin concesión garantizada.",
+    "researchNote": "Tesis de 30 ECTS después de 60 de asignaturas. El reglamento exige propuesta con metodología, aportación científica esperada y originalidad, supervisión y defensa pública ante tres miembros. Modalidades completa y parcial agrupadas. La web publica ampliación del plazo para octubre de 2026 hasta el 25 de septiembre de 2026; confirmar disponibilidad de admisión. Los exámenes finales requieren normalmente presencia física.",
+    "researchEvidenceUrl": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ict-en.pdf?v=1003",
+    "evidencePages": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ict-en.pdf?v=1003",
+        "label": "Reglamento: investigación, créditos y selección",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          10
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ict-en.pdf?v=1003",
+        "field": "research-thesis",
+        "phrases": [
+          "Dissertation 30",
+          "Grand Total Semesters (A+B+C) 90",
+          "expected scientific contribution",
+          "originality",
+          "public presentation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/wp-content/uploads/stcustom/programme-documents/prog-regulations/prog-regulation-ict-en.pdf?v=1003",
+        "field": "selection",
+        "phrases": [
+          "grade six (6)",
+          "Level B2",
+          "two (2) letters of recommendation"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/ict",
+        "field": "fee-calendar",
+        "phrases": [
+          "€2,900 (total)",
+          "25 September 2026"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/ict",
+        "field": "mode",
+        "phrases": [
+          "18 months (full-time)",
+          "30 months (part-time)",
+          "physically present at the University for the final exams"
+        ]
+      },
+      {
+        "url": "https://st.ihu.gr/studies/postgraduate/ict",
+        "field": "deposit",
+        "phrases": [
+          "deposit of 500 Euros"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://msc.iee.ihu.gr/en/",
+    "institution": "International Hellenic University",
+    "title": "MSc Web Intelligence",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Thessaloniki",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "duration": "3 semestres completos · 90 ECTS",
+    "hours": "Clases los viernes y sábados; modalidad presencial en el catálogo nacional",
+    "entry": "Titulación universitaria o TEI reconocida, expediente, CV y una carta de referencia según la convocatoria 2026/27. Inglés al menos B2 o título reconocido de un programa en inglés. La selección contempla expediente, experiencia, investigación y entrevista.",
+    "feeNote": "500 EUR por todo el programa, pagados al matricularse y no reembolsables.",
+    "researchNote": "Tesis obligatoria de 30 ECTS, con al menos un semestre de elaboración, supervisión y elementos de originalidad. Puede consistir en investigación original, revisión crítica o desarrollo innovador; debe sintetizar conocimientos y aportar conclusiones. La tesis puede escribirse en griego o inglés. La docencia figura en griego en el catálogo nacional. El plazo de la convocatoria 2026/27 terminó el 14 de septiembre de 2026.",
+    "researchEvidenceUrl": "https://msc.iee.ihu.gr/en/mscthesis/",
+    "evidencePages": [
+      {
+        "url": "https://msc.iee.ihu.gr/en/teli-foitisis/",
+        "label": "Matrícula total"
+      },
+      {
+        "url": "https://msc.iee.ihu.gr/en/admission-process/",
+        "label": "Criterios de admisión"
+      },
+      {
+        "url": "https://msc.iee.ihu.gr/wp-content/uploads/2026/07/%CE%A0%CF%81%CF%8C%CF%83%CE%BA%CE%BB%CE%B7%CF%83%CE%B7_MSC_WI_2026_27.pdf",
+        "label": "Convocatoria vigente: acceso, idioma y plazo",
+        "format": "pdf",
+        "pages": [
+          1,
+          2
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1471/master/web-intelligence/",
+        "label": "Registro nacional: duración, idioma y modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://msc.iee.ihu.gr/en/mscthesis/",
+        "field": "research-thesis",
+        "phrases": [
+          "M301 MSc Thesis 30",
+          "elements of originality",
+          "supervising professor",
+          "Greek or English"
+        ]
+      },
+      {
+        "url": "https://msc.iee.ihu.gr/en/teli-foitisis/",
+        "field": "fee",
+        "phrases": [
+          "five hundred (500) euros",
+          "paid once upon registration",
+          "non-refundable"
+        ]
+      },
+      {
+        "url": "https://msc.iee.ihu.gr/wp-content/uploads/2026/07/%CE%A0%CF%81%CF%8C%CF%83%CE%BA%CE%BB%CE%B7%CF%83%CE%B7_MSC_WI_2026_27.pdf",
+        "field": "entry-calendar",
+        "phrases": [
+          "08/7/2026 έως 14/9/2026",
+          "Β2 (Lower)",
+          "Μία συστατική επιστολή"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1471/master/web-intelligence/",
+        "field": "duration-language",
+        "phrases": [
+          "Διάρκεια 3 εξάμηνα",
+          "ECTS 90",
+          "Γλώσσα Διδασκαλίας Ελληνικά"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cybersecgov-res.ds.unipi.gr/en/home/",
+    "institution": "University of Piraeus",
+    "title": "MSc Advanced Cybersecurity Technologies and Governance by Research",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Piraeus",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "3 semestres · 90 ECTS",
+    "hours": "A distancia; confirmar las condiciones de evaluación",
+    "entry": "Titulación de primer ciclo de una universidad griega o extranjera equivalente. Se requiere conocimiento suficiente de inglés, idioma de docencia; la página no fija aquí una puntuación mínima de IELTS o TOEFL.",
+    "feeNote": "Matrícula gratuita para ciudadanos de la UE en las cohortes 2026/27 y 2027/28. Para ciudadanos de fuera de la UE: 5.000 EUR en tres plazos. Tasa de solicitud adicional de 200 EUR; en la vía by Research el reglamento indica expresamente que no se devuelve aunque no haya admisión.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "EU-iNSPIRE cubre la matrícula de ciudadanos de la UE en 2026/27 y 2027/28. No incluye una ayuda de manutención confirmada ni la tasa de solicitud de 200 EUR."
+    },
+    "researchNote": "Programa orientado explícitamente a investigación original y publicaciones. Incluye Research Methodology (15 ECTS), Study of the Research Area (15 ECTS) y tesis obligatoria de 30 ECTS. El trabajo se realiza con supervisión y defensa pública ante un comité de tres miembros. El periodo de solicitud publicado va del 13 de agosto al 21 de septiembre de 2026; comprobar la hora de cierre con el programa. Las becas adicionales por mérito o colaboración en laboratorios están sujetas a criterios y selección.",
+    "researchEvidenceUrl": "https://cybersecgov-res.ds.unipi.gr/en/studies/",
+    "evidencePages": [
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/the-msc/",
+        "label": "Presentación y objetivos"
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/who-is-it-addressed-to/",
+        "label": "Acceso e idioma"
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/application-submission/",
+        "label": "Solicitud, matrícula y financiación"
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/wp-content/uploads/2026/03/odigos_spoudon.pdf",
+        "label": "Reglamento: tasa y formación investigadora",
+        "format": "pdf",
+        "pages": [
+          21,
+          38,
+          39
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/2273/master/advanced-cybersecurity-technologies-and-governance-by-research/",
+        "label": "Registro nacional: modalidad a distancia"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/studies/",
+        "field": "research-thesis",
+        "phrases": [
+          "total of 90 credit units",
+          "Preparation of Diploma Thesis 30 ECTS",
+          "Supervisor",
+          "Three-member Examination Committee"
+        ]
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/who-is-it-addressed-to/",
+        "field": "entry-language",
+        "phrases": [
+          "first cycle degree",
+          "English (the language of instruction)"
+        ]
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/application-submission/",
+        "field": "fees-calendar",
+        "phrases": [
+          "13 August – 21 September 2026",
+          "Application Fee €200",
+          "EU Citizens FREE",
+          "2026–2027 and 2027–2028",
+          "Non EU Citizens €5.000"
+        ]
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/wp-content/uploads/2026/03/odigos_spoudon.pdf",
+        "field": "research-courses",
+        "phrases": [
+          "Research Methodology) Υποχρεωτικό 15",
+          "Study of the Research Area) Υποχρεωτικό 15",
+          "MSc Thesis) Υποχρεωτικό 30"
+        ]
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/wp-content/uploads/2026/03/odigos_spoudon.pdf",
+        "field": "non-refundable-application",
+        "phrases": [
+          "διακοσίων (200) ευρώ",
+          "δεν επιστρέφεται"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/2273/master/advanced-cybersecurity-technologies-and-governance-by-research/",
+        "field": "distance",
+        "phrases": [
+          "Εξ Αποστάσεως"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cybersecgov.ds.unipi.gr/en/home/",
+    "institution": "University of Piraeus",
+    "title": "MSc Advanced Cybersecurity Technologies and Governance",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Piraeus",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "3 semestres · 90 ECTS",
+    "hours": "A distancia; confirmar las condiciones de evaluación",
+    "entry": "Titulación de primer ciclo de una universidad griega o extranjera equivalente. Se requiere conocimiento suficiente de inglés, idioma de docencia; la página no fija aquí una puntuación mínima de IELTS o TOEFL.",
+    "feeNote": "Matrícula gratuita para ciudadanos de la UE en las cohortes 2026/27 y 2027/28. Para ciudadanos de fuera de la UE: 5.000 EUR en tres plazos. Tasa de solicitud adicional de 200 EUR; en la vía by Research el reglamento indica expresamente que no se devuelve aunque no haya admisión.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "EU-iNSPIRE cubre la matrícula de ciudadanos de la UE en 2026/27 y 2027/28. No incluye una ayuda de manutención confirmada ni la tasa de solicitud de 200 EUR."
+    },
+    "researchNote": "Tesis obligatoria de 30 ECTS en el tercer semestre, después de 60 ECTS de asignaturas. El trabajo se realiza con supervisión y defensa pública ante un comité de tres miembros. El periodo de solicitud publicado va del 13 de agosto al 21 de septiembre de 2026; comprobar la hora de cierre con el programa. Las becas adicionales por mérito o colaboración en laboratorios están sujetas a criterios y selección.",
+    "researchEvidenceUrl": "https://cybersecgov.ds.unipi.gr/en/studies/",
+    "evidencePages": [
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/the-msc/",
+        "label": "Presentación y objetivos"
+      },
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/who-is-it-addressed-to/",
+        "label": "Acceso e idioma"
+      },
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/application-submission/",
+        "label": "Solicitud, matrícula y financiación"
+      },
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/distance-learning/",
+        "label": "Modalidad de docencia"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/studies/",
+        "field": "research-thesis",
+        "phrases": [
+          "total of 90 credit units",
+          "Preparation of Diploma Thesis 30 ECTS",
+          "Supervisor",
+          "Three-member Examination Committee"
+        ]
+      },
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/who-is-it-addressed-to/",
+        "field": "entry-language",
+        "phrases": [
+          "first cycle degree",
+          "English (the language of instruction)"
+        ]
+      },
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/application-submission/",
+        "field": "fees-calendar",
+        "phrases": [
+          "13 August – 21 September 2026",
+          "Application Fee €200",
+          "EU Citizens FREE",
+          "2026–2027 and 2027–2028",
+          "Non EU Citizens €5.000"
+        ]
+      },
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/distance-learning/",
+        "field": "distance",
+        "phrases": [
+          "conducted entirely online"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cybersecgov-res.ds.unipi.gr/en/application-submission/",
+    "institution": "University of Piraeus",
+    "title": "EU-iNSPIRE — exención de matrícula en los másteres de ciberseguridad",
+    "country": "GR",
+    "city": "Piraeus",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Ciudadanía de un país de la UE y admisión en MSc Advanced Cybersecurity Technologies and Governance o su programa by Research. Aplicable a las cohortes académicas 2026/27 y 2027/28; verificar los requisitos de acceso del máster elegido.",
+    "feeNote": "Exención de matrícula. Se mantiene la tasa adicional de solicitud de 200 EUR; el reglamento de la vía by Research la declara no reembolsable. No se confirma una ayuda de manutención.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Matrícula de 0 EUR para ciudadanos de la UE en las dos primeras cohortes, 2026/27 y 2027/28. Tasa de solicitud de 200 EUR aparte."
+    },
+    "researchNote": "Una única familia de financiación para los dos másteres, ambos con tesis de 30 ECTS. La convocatoria de admisión consultada termina el 21 de septiembre de 2026. Para ciudadanos de fuera de la UE la matrícula anunciada es de 5.000 EUR; otras reducciones por mérito o colaboración están condicionadas, sin concesión garantizada.",
+    "evidencePages": [
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/application-submission/",
+        "label": "Misma exención en el máster general"
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/the-msc/",
+        "label": "Marco del proyecto EU-iNSPIRE"
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/studies/",
+        "label": "Tesis y estructura del programa"
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/wp-content/uploads/2026/03/odigos_spoudon.pdf",
+        "label": "Reglamento: tasa de solicitud",
+        "format": "pdf",
+        "pages": [
+          21
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/application-submission/",
+        "field": "eligibility-coverage",
+        "phrases": [
+          "EU Citizens FREE",
+          "2026–2027 and 2027–2028",
+          "Application Fee €200",
+          "Non EU Citizens €5.000"
+        ]
+      },
+      {
+        "url": "https://cybersecgov.ds.unipi.gr/en/application-submission/",
+        "field": "second-programme",
+        "phrases": [
+          "EU Citizens FREE",
+          "2026–2027 and 2027–2028"
+        ]
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/wp-content/uploads/2026/03/odigos_spoudon.pdf",
+        "field": "application-exclusion",
+        "phrases": [
+          "δεν επιστρέφεται"
+        ]
+      },
+      {
+        "url": "https://cybersecgov-res.ds.unipi.gr/en/the-msc/",
+        "field": "funder",
+        "phrases": [
+          "EU-iNSPIRE"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://hsda.med.auth.gr/",
+    "institution": "Aristotle University of Thessaloniki",
+    "title": "MSc Health Statistics and Data Analytics",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Thessaloniki",
+    "fields": [
+      "Estadística",
+      "Ciencia de datos"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "18 meses · 90 ECTS",
+    "hours": "Enseñanza combinada, aproximadamente dos fines de semana al mes; confirmar asistencia presencial",
+    "entry": "Aportar titulaciones universitarias, reconocimiento DOATAP cuando corresponda, expediente de grado, CV en inglés, declaración de propósito y dos referencias en inglés. Acreditar competencia en inglés; no se publica aquí un umbral IELTS o TOEFL.",
+    "feeNote": "4.000 EUR en total, suma de los tres pagos publicados: 2.000 EUR en septiembre, 1.000 en febrero y 1.000 en mayo.",
+    "researchNote": "Tesis de 30 ECTS en el último semestre, tras ocho módulos que suman 60 ECTS, entre ellos métodos de investigación médica, modelos lineales, meta-investigación y análisis de datos. La docencia 2026/27 comienza en octubre de 2026. La solicitud publicada cerró el 2 de septiembre de 2026 a las 23:59 EEST; confirmar próximas convocatorias.",
+    "researchEvidenceUrl": "https://hsda.med.auth.gr/courses/",
+    "evidencePages": [
+      {
+        "url": "https://hsda.med.auth.gr/admissions/",
+        "label": "Requisitos y fecha de admisión"
+      },
+      {
+        "url": "https://hsda.med.auth.gr/competitive-fees/",
+        "label": "Tres pagos de matrícula"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://hsda.med.auth.gr/courses/",
+        "field": "research-thesis",
+        "phrases": [
+          "last semester students will work on their MSc thesis",
+          "T1Thesis30",
+          "Basic Principles of Medical Research"
+        ]
+      },
+      {
+        "url": "https://hsda.med.auth.gr/",
+        "field": "english-credits",
+        "phrases": [
+          "90-ECTS program",
+          "all modules are held in English"
+        ]
+      },
+      {
+        "url": "https://hsda.med.auth.gr/courses/",
+        "field": "duration",
+        "phrases": [
+          "18 months",
+          "October 2026",
+          "2 weekends a month"
+        ]
+      },
+      {
+        "url": "https://hsda.med.auth.gr/admissions/",
+        "field": "entry-calendar",
+        "phrases": [
+          "Bachelor/MSc/PhD degrees",
+          "Two updated reference letters",
+          "Wednesday 2 September at 23:59 EEST"
+        ]
+      },
+      {
+        "url": "https://hsda.med.auth.gr/competitive-fees/",
+        "field": "tuition-instalments",
+        "phrases": [
+          "2.000 euros in September, 1.000 euros in February and 1.000 euros in May"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cscyb.uniwa.gr/en/",
+    "institution": "University of West Attica",
+    "title": "MSc Cybersecurity",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Athens",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "3 semestres completos · 90 ECTS",
+    "hours": "A distancia; confirmar calendario y condiciones de evaluación",
+    "entry": "Titulados de ciencias, ingeniería o áreas afines de instituciones reconocidas. El catálogo admite también otras especialidades con experiencia relevante y titulados de academias militares y cuerpos de seguridad. Consultar los requisitos de acreditación de inglés.",
+    "feeNote": "2.900 EUR de matrícula total. Anticipo de 200 EUR al aceptar la plaza, descontado del total, con el resto fraccionable. Pagos no reembolsables en caso de interrupción. La web excluye la exención de matrícula para estudiantes extranjeros.",
+    "researchNote": "Tesis de 30 ECTS en el tercer semestre; los dos primeros reúnen 60 ECTS de cursos. La presentación oficial recoge actividades docentes e investigadoras y continuidad hacia doctorado. El plazo publicado para 2026/27 terminó el 30 de mayo de 2026 y las clases comienzan el 28 de septiembre; consultar próximas convocatorias. No se garantiza aquí la obtención adicional de un segundo título.",
+    "researchEvidenceUrl": "https://cscyb.uniwa.gr/en/description-of-double-degree-msc-program/",
+    "evidencePages": [
+      {
+        "url": "https://cscyb.uniwa.gr/en/fees/",
+        "label": "Matrícula y anticipo"
+      },
+      {
+        "url": "https://cscyb.uniwa.gr/en/msc-in-cybersecurity-call-for-expressions-of-interest/",
+        "label": "Convocatoria 2026/27"
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1372/master/msc-in-cybersecurity/",
+        "label": "Registro nacional: acceso, idioma y modalidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://cscyb.uniwa.gr/en/description-of-double-degree-msc-program/",
+        "field": "research-thesis",
+        "phrases": [
+          "students complete their Master’s thesis",
+          "thirty (30) ECTS credits",
+          "ninety (90)"
+        ]
+      },
+      {
+        "url": "https://cscyb.uniwa.gr/en/fees/",
+        "field": "fees",
+        "phrases": [
+          "2.900€",
+          "registration fee of 200€",
+          "deducted",
+          "non-refundable"
+        ]
+      },
+      {
+        "url": "https://cscyb.uniwa.gr/en/msc-in-cybersecurity-call-for-expressions-of-interest/",
+        "field": "closed-call",
+        "phrases": [
+          "30 May 2026",
+          "September 28th, 2026"
+        ]
+      },
+      {
+        "url": "https://studies.minedu.gov.gr/el/program-el/1372/master/msc-in-cybersecurity/",
+        "field": "language-mode",
+        "phrases": [
+          "Εξ Αποστάσεως",
+          "Γλώσσα Διδασκαλίας Αγγλικά"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm",
+    "institution": "Mediterranean Agronomic Institute of Chania",
+    "title": "MSc Geoinformation in Environmental Management",
+    "country": "GR",
+    "kind": "programme",
+    "stage": "master",
+    "city": "Chania, Crete",
+    "fields": [
+      "Informática",
+      "Estadística"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "duration": "2 años",
+    "hours": "Formación académica y segundo año de tesis supervisada",
+    "entry": "Titulación relevante de al menos cuatro años (240 ECTS), que dé acceso a doctorado en el país de origen. Se da prioridad a candidatos de países miembros de CIHEAM. Inglés acreditado: entre las vías publicadas para el MSc figuran IELTS 6,5 o TOEFL iBT 79; otros certificados y exenciones dependen de las condiciones oficiales.",
+    "feeNote": "No se confirma aquí una tarifa autofinanciada. CIHEAM anuncia becas completas competitivas que cubren matrícula, alojamiento y manutención; elegibilidad y cupos dependen del país y la selección.",
+    "researchNote": "El segundo año se dedica a una tesis de investigación con profesores del instituto o visitantes. La formación 2025/26 publicada incluye GIS y estadística espacial, teledetección, análisis de imagen y sistemas de apoyo a decisiones. La web indica que las solicitudes para 2026/27 están cerradas por el momento; consultar una nueva convocatoria.",
+    "researchEvidenceUrl": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/master_of_science_programme",
+    "evidencePages": [
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/educational_sequence",
+        "label": "Plan 2025/26: análisis espacial y geoinformática"
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/admissions",
+        "label": "Admisión y requisitos de idioma"
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes",
+        "label": "Duración, idioma y becas"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/master_of_science_programme",
+        "field": "research-thesis",
+        "phrases": [
+          "second year",
+          "research thesis under the supervision"
+        ]
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/educational_sequence",
+        "field": "quantitative-curriculum",
+        "phrases": [
+          "GIS & Spatial Statistics",
+          "Digital Image Analysis",
+          "Decision support systems using GIS"
+        ]
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes",
+        "field": "entry-language-duration",
+        "phrases": [
+          "240 ECTS",
+          "exclusively in English",
+          "two-year"
+        ]
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/admissions",
+        "field": "language-eligibility",
+        "phrases": [
+          "6.5 in IELTS",
+          "score of 79",
+          "doctorate-level studies"
+        ]
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/master_of_science_programme",
+        "field": "closed-admission",
+        "phrases": [
+          "2026-2027 are closed for the moment"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes",
+    "institution": "Mediterranean Agronomic Institute of Chania",
+    "title": "CIHEAM Chania — becas de máster con matrícula, alojamiento y manutención",
+    "country": "GR",
+    "city": "Chania, Crete",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Informática",
+      "Estadística"
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Titulación relevante de al menos cuatro años (240 ECTS), que dé acceso a doctorado en el país de origen. Se da prioridad a candidatos de países miembros de CIHEAM. Inglés acreditado: entre las vías publicadas para el MSc figuran IELTS 6,5 o TOEFL iBT 79; otros certificados y exenciones dependen de las condiciones oficiales. La concesión de beca exige selección; confirmar elegibilidad y cupo para la nacionalidad concreta.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Becas completas: matrícula, alojamiento y comidas. Plazas limitadas y concesión competitiva, con condiciones por país."
+    },
+    "feeNote": "Las becas anunciadas incluyen tuition fees, board and accommodation. No se publica una cuantía en efectivo ni se confirma cobertura de viajes.",
+    "researchNote": "La ficha agrupa la familia de becas relevante para Geoinformation in Environmental Management, con tesis de investigación en el segundo año. La frase de la web sobre cuatro o cinco graduados de «tu país» no permite establecer un cupo idéntico para todos los países. Las solicitudes 2026/27 están cerradas por el momento.",
+    "evidencePages": [
+      {
+        "url": "https://www.iamc.ciheam.org/education/admissions",
+        "label": "Acceso y prioridad de países miembros"
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/master_of_science_programme",
+        "label": "Máster y tesis en geoinformación"
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/educational_sequence",
+        "label": "Contenido cuantitativo"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes",
+        "field": "coverage",
+        "phrases": [
+          "Full scholarships (including tuition fees, board and accommodation)",
+          "240 ECTS",
+          "exclusively in English"
+        ]
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/admissions",
+        "field": "country-priority",
+        "phrases": [
+          "priority",
+          "member countries"
+        ]
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes/enm/master_of_science_programme",
+        "field": "research-thesis",
+        "phrases": [
+          "research thesis under the supervision"
+        ]
+      },
+      {
+        "url": "https://www.iamc.ciheam.org/education/master_of_science_programmes",
+        "field": "closed-admission",
+        "phrases": [
+          "2026-2027 are closed for the moment"
         ]
       }
     ]
