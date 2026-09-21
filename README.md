@@ -1,12 +1,16 @@
 # trama.
 
-**El recorrido hacia la investigación, con fuentes a la vista.**
+**Tu camino al doctorado desde España, con fuentes a la vista.**
 
-[Abrir TRAMA](https://aleetreny.github.io/trama-academia) · [Explorar oportunidades](https://aleetreny.github.io/trama-academia/explorar) · [Financiación](https://aleetreny.github.io/trama-academia/financiacion) · [Programas recurrentes](https://aleetreny.github.io/trama-academia/programas) · [Guías de doctorado](https://aleetreny.github.io/trama-academia/guia) · [Cobertura y fuentes](https://aleetreny.github.io/trama-academia/fuentes)
+[Abrir TRAMA](https://aleetreny.github.io/trama-academia) · [Mi camino](https://aleetreny.github.io/trama-academia/mi-camino/) · [Guía desde España](https://aleetreny.github.io/trama-academia/doctorado-en-espana/) · [Explorar oportunidades](https://aleetreny.github.io/trama-academia/explorar) · [Financiación](https://aleetreny.github.io/trama-academia/financiacion) · [Programas recurrentes](https://aleetreny.github.io/trama-academia/programas) · [Guías de doctorado](https://aleetreny.github.io/trama-academia/guia) · [Cobertura y fuentes](https://aleetreny.github.io/trama-academia/fuentes)
 
 [![Verificar aplicación](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml/badge.svg)](https://github.com/aleetreny/trama-academia/actions/workflows/ci.yml)
 
-TRAMA es un atlas de oportunidades académicas en Europa para **ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas**. Reúne programas, plazas y financiación, organizados por la etapa del recorrido académico.
+TRAMA ayuda a una persona que vive en España a decidir y preparar su camino hacia el doctorado en **ciencia de datos, machine learning, estadística, informática y matemáticas aplicadas**. Conecta experiencia investigadora, acceso, grupos y financiación, conservando el catálogo europeo completo y sus etapas posteriores.
+
+**Mi camino** adapta un plan a tu situación, objetivo, movilidad y área. Sus casillas y preferencias se guardan localmente y pueden descargarse; no piden datos identificativos ni determinan elegibilidad. La **guía desde España** desarrolla 12 apartados con 15 fuentes oficiales: acceso, máster, títulos extranjeros, supervisión, experiencia, ayudas, candidatura, calendarios y condiciones. Las recomendaciones editoriales se distinguen de las normas y ejemplos institucionales.
+
+El [informe del enfoque español](docs/spain-refocus-2026-09-21.md) documenta esta revisión y su validación.
 
 ## Qué puedes encontrar
 
@@ -23,7 +27,11 @@ Puedes combinar etapa, destino, país de la entidad financiadora, área, tier po
 
 El buscador ofrece búsquedas de partida y filtros removibles; las condiciones de acceso aparecen antes que los indicadores especializados. Puedes **guardar hasta 50 opciones en [Mi selección](https://aleetreny.github.io/trama-academia/seleccion/)**, comparar dos o tres y exportar la lista con sus fuentes. Se guarda solo en ese navegador, sin cuenta. Al abrir una ficha desde el buscador o los programas recurrentes, el enlace de vuelta conserva tus filtros y página. La [mejora del recorrido](docs/usability-2026-09-21.md) documenta esta evolución y sus límites.
 
-## Revisión integral · 21 de septiembre de 2026
+## Revisión del recorrido desde España · 21 de septiembre de 2026
+
+La edición resultante reúne **3.707 registros**, **489 programas de financiación**, **3.270 fuentes**, **3.255 semillas** y **75 programas recurrentes**. Las 23 incorporaciones —diez rutas de experiencia, una vacante de apoyo investigador y doce ayudas predoctorales— conservan intactas las 3.684 fichas anteriores. El inventario mantiene 6.360 instituciones y 31 guías de países. La cobertura sigue siendo parcial; el [informe de revisión](docs/spain-refocus-2026-09-21.md) identifica fuentes, retenciones y validación.
+
+## Ediciones anteriores · 21 de septiembre de 2026
 
 La edición publicada el 21 de septiembre de 2026 reúne **3.684 registros**, **3.247 fuentes** y **3.232 semillas de programas**, junto con un inventario de **6.360 instituciones**. Los registros incluyen programas, anuncios y financiación; las semillas son entradas de adquisición revisadas, no un contador adicional de oportunidades. Inventariar una institución no acredita una revisión completa de su oferta.
 
@@ -78,6 +86,7 @@ La aplicación utiliza React y la exportación estática de Next.js, publicada e
 | `app/`, `components/`, `lib/` | Páginas, interacción, consulta y presentación del catálogo. |
 | `data/catalogue.json` | Instantánea pública de oportunidades y fuentes. |
 | `data/programmes.seed.json`, `data/sources.json` | Programas revisados, recurrencia, evidencia y configuración de adaptadores. |
+| `data/spain-doctoral-guide.ts`, `lib/doctoral-path.ts` | Guía española atribuida y modelo del plan personal local. |
 | `data/country-guides.json` | Comparación de 31 países, ocho criterios y referencias oficiales por criterio. |
 | `data/institutions.curated.json`, `data/institutions.json` | Fuentes institucionales revisadas y registro público con indicadores. |
 | `data/institution-crawl.json.gz` + `data/institution-crawl.parts/` | Cola reanudable de descubrimiento, dividida en partes con huellas SHA-256; conserva todo el historial y admite leer el formato anterior. Su resumen legible está en `data/institution-crawl.summary.json`. |

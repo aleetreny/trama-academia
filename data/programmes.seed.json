@@ -181062,5 +181062,1518 @@
       "editionState": "announced",
       "note": "Instrumento nuevo bajo la ley de agosto de 2026; no confundir con AFR, cuyo cierre está documentado."
     }
+  },
+  {
+    "url": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
+    "title": "BCAM — prácticas de investigación y TFM",
+    "institution": "Basque Center for Applied Mathematics (BCAM)",
+    "country": "ES",
+    "city": "Bilbao",
+    "kind": "programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master",
+      "doctorado"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Estudiantes de grado, máster o doctorado de matemáticas y áreas afines. Selección por el grupo o por una oferta específica; admite candidaturas internacionales. Recomienda solicitar con tres meses de antelación.",
+    "duration": "Verano, un semestre, TFM o proyecto; duración según acuerdo",
+    "funding": {
+      "kind": "unconfirmed",
+      "text": "La fuente no garantiza financiación para todas las estancias; confirmar condiciones con el grupo receptor."
+    },
+    "researchNote": "Trabajo supervisado en modelización, optimización, simulación y aplicaciones. La estancia genera entregables; puede servir de TFM. La convocatoria de visitantes sénior que comparte esta página tiene otras condiciones.",
+    "evidenceChecks": [
+      {
+        "field": "Acceso y formato",
+        "phrases": [
+          "Undergraduate, Master and PhD",
+          "Master thesis",
+          "expected deliverables",
+          "three months"
+        ]
+      },
+      {
+        "field": "Métodos",
+        "phrases": [
+          "optimization/control",
+          "computer simulation"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://software.imdea.org/careers/call-for-internships/",
+    "title": "IMDEA Software — research internships",
+    "institution": "IMDEA Software Institute",
+    "country": "ES",
+    "city": "Pozuelo de Alarcón (Madrid)",
+    "kind": "programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Grado o máster de informática o área relacionada obtenido o próximo a concluir. Inglés completo; también admite estudiantes locales para prácticas curriculares a tiempo parcial.",
+    "duration": "Normalmente de 3 a 12 meses",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Asignación mensual, sin importe publicado; la fuente también describe acceso a prestaciones. Confirmar modalidad y condiciones de cada oferta."
+    },
+    "researchNote": "Investigación supervisada en seguridad, verificación, lenguajes y compiladores. La experiencia puede preparar una candidatura doctoral; no concede admisión ni beca de doctorado automática.",
+    "evidenceChecks": [
+      {
+        "field": "Acceso, duración y financiación",
+        "phrases": [
+          "undergraduate or master degree",
+          "three and twelve months",
+          "monthly stipend",
+          "without cut-off dates"
+        ]
+      },
+      {
+        "field": "Ámbito",
+        "phrases": [
+          "Computer Science"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "rolling",
+      "calendar": "Solicitudes durante todo el año, sin fecha de corte.",
+      "editionState": "unknown",
+      "note": "Existe una ruta permanente de candidaturas; depende de selección y disponibilidad de supervisión."
+    }
+  },
+  {
+    "url": "https://networks.imdea.org/job-opportunities/career-information/",
+    "title": "IMDEA Networks — NextGen Research Internships (MSc)",
+    "institution": "IMDEA Networks Institute",
+    "country": "ES",
+    "kind": "programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Estudiantes de máster para TFM o prácticas académicas. Deben ser ciudadanos de la UE, o tener permiso de residencia español, o estudiar en una universidad española con visado de estudiante.",
+    "duration": "De 3 a 6 meses",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Ayuda de estudios competitiva para las personas seleccionadas; importe no publicado en la página general."
+    },
+    "researchNote": "Integración en un grupo de investigación en redes. El proyecto enlazado documenta sistemas distribuidos y blockchain como ejemplo de línea; su convocatoria 2025 no se declara abierta.",
+    "evidenceChecks": [
+      {
+        "field": "Programa, duración y ayuda",
+        "phrases": [
+          "NextGen Research Internships",
+          "3–6-month",
+          "study allowance"
+        ]
+      },
+      {
+        "field": "Condiciones administrativas",
+        "phrases": [
+          "EU citizens",
+          "Spanish residence permit",
+          "student visa"
+        ]
+      },
+      {
+        "field": "Ejemplo de ámbito",
+        "phrases": [
+          "Distributed Systems",
+          "NextGen Research Internships"
+        ],
+        "url": "https://networks.imdea.org/job/exploring-trends-vulnerabilities-in-blockchain-networks/"
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "annual",
+      "calendar": "Selección anual; consultar los proyectos y plazos de cada edición.",
+      "editionState": "unknown",
+      "note": "La página general confirma continuidad, sin fijar una convocatoria vigente."
+    },
+    "evidencePages": [
+      {
+        "url": "https://networks.imdea.org/job/exploring-trends-vulnerabilities-in-blockchain-networks/",
+        "label": "Ejemplo de proyecto NextGen: sistemas distribuidos y redes"
+      }
+    ]
+  },
+  {
+    "url": "https://pumps.bsc.es/",
+    "title": "PUMPS+AI — escuela de programación paralela e inteligencia artificial",
+    "institution": "Barcelona Supercomputing Center · UPC · University of Illinois",
+    "country": "ES",
+    "city": "Barcelona",
+    "kind": "programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "master",
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "programmeType": "Escuela de verano de formación investigadora",
+    "fields": [
+      "Machine learning",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "entry": "Dirigida a estudiantes de posgrado, investigadores y docentes. Requiere programación C/C++/Java o equivalente y conocimientos básicos de CUDA; puede exigir formación previa en línea.",
+    "duration": "Cinco días",
+    "funding": {
+      "kind": "unconfirmed",
+      "text": "Inscripción gratuita para academia e instituciones públicas; viaje, alojamiento y comidas a cargo del participante."
+    },
+    "researchNote": "Formación práctica en GPU, algoritmos y paralelización con laboratorios. No es un título académico ni una estancia con proyecto de investigación individual garantizado.",
+    "evidenceChecks": [
+      {
+        "field": "Temática, edición y acceso",
+        "phrases": [
+          "16th edition",
+          "graduate students",
+          "Basic CUDA knowledge",
+          "artificial intelligence"
+        ]
+      },
+      {
+        "field": "Costes",
+        "phrases": [
+          "free for attendees from academia",
+          "travel, lodging, and meals are not covered"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "summer-school",
+      "frequency": "editions",
+      "calendar": "Edición 2026: 13–17 de julio; solicitud hasta el 3 de mayo.",
+      "editionState": "past",
+      "note": "La página identifica la 16.ª edición. Consultar la próxima convocatoria; 2026 ya terminó.",
+      "edition": "2026"
+    },
+    "feeNote": "Gratuita para academia e instituciones públicas; gastos de estancia y desplazamiento no incluidos."
+  },
+  {
+    "url": "https://www.bsc.es/education/graduate/internships",
+    "title": "BSC — prácticas y TFM de investigación",
+    "institution": "Barcelona Supercomputing Center (BSC-CNS)",
+    "country": "ES",
+    "city": "Barcelona",
+    "kind": "programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Estudiantes de máster que quieren desarrollar su tesis en un departamento de investigación del BSC. El proyecto, convenio y aceptación deben acordarse con el centro.",
+    "duration": "Según proyecto",
+    "funding": {
+      "kind": "unconfirmed",
+      "text": "La fuente no garantiza financiación para todas las estancias; confirmar condiciones con el grupo receptor."
+    },
+    "researchNote": "Ruta de prácticas con tesis en los departamentos del BSC. La fuente complementaria confirma investigación en arquitectura GPU y programación; no se traslada a esta ruta la financiación de PRACE citada en otro párrafo.",
+    "evidenceChecks": [
+      {
+        "field": "Ruta de TFM",
+        "phrases": [
+          "internships to MSc students",
+          "undertake their thesis"
+        ]
+      },
+      {
+        "field": "Ámbito de investigación BSC",
+        "phrases": [
+          "GPU architecture and programming languages"
+        ],
+        "url": "https://pumps.bsc.es/"
+      }
+    ],
+    "evidencePages": [
+      {
+        "url": "https://pumps.bsc.es/",
+        "label": "BSC: ámbito de investigación en arquitectura GPU y programación"
+      }
+    ]
+  },
+  {
+    "url": "https://dipc.ehu.eus/en/career/internships",
+    "title": "DIPC — summer research internships",
+    "institution": "Donostia International Physics Center (DIPC)",
+    "country": "ES",
+    "city": "Donostia / San Sebastián",
+    "kind": "programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Estudiantes matriculados de grado o máster con convenio de prácticas de su universidad. La matrícula fuera de la UE o del mercado único europeo se considera solo excepcionalmente; no equivale a una exclusión por nacionalidad.",
+    "duration": "Dos meses; presencial, 7 horas diarias de lunes a viernes",
+    "funding": {
+      "kind": "scholarship",
+      "amount": 750,
+      "currency": "EUR",
+      "period": "month",
+      "gross": true,
+      "text": "750 € brutos al mes. No incluye alojamiento ni desplazamiento."
+    },
+    "researchNote": "Proyecto supervisado, con presentación final breve. Para TRAMA son pertinentes las líneas de ciencia computacional y supercomputación; el conjunto incluye otras ciencias.",
+    "evidenceChecks": [
+      {
+        "field": "Acceso, ámbito y continuidad",
+        "phrases": [
+          "bachelor and master",
+          "Every year",
+          "computational science",
+          "Summer Internships: CLOSED"
+        ]
+      },
+      {
+        "field": "Condiciones económicas y administrativas",
+        "phrases": [
+          "750 €/month before taxes",
+          "outside the European Union",
+          "exceptional circumstances"
+        ],
+        "url": "https://dipc.ehu.eus/en/career/internships/conditions"
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "annual",
+      "calendar": "Cada año, principalmente en verano; fechas de estancia acordadas con supervisión.",
+      "editionState": "unknown",
+      "note": "El portal dice que las solicitudes de verano están cerradas; no anuncia todavía la siguiente edición."
+    },
+    "evidencePages": [
+      {
+        "url": "https://dipc.ehu.eus/en/career/internships/conditions",
+        "label": "Condiciones de las estancias DIPC"
+      }
+    ]
+  },
+  {
+    "url": "https://summerfellowships.ifae.es/",
+    "title": "IFAE Summer Fellowships — proyectos con datos, ML y computación",
+    "institution": "Institut de Física d’Altes Energies (IFAE)",
+    "country": "ES",
+    "city": "Bellaterra (Barcelona)",
+    "kind": "programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Machine learning",
+      "Informática"
+    ],
+    "entry": "Estudiantes de segundo, tercero o cuarto de grado en física y materias relacionadas, de cualquier nacionalidad. La afinidad y preparación dependen del proyecto.",
+    "duration": "Un mes, jornada completa",
+    "funding": {
+      "kind": "scholarship",
+      "text": "La edición 2026 ofrece una asignación modesta sin importe publicado."
+    },
+    "researchNote": "Trabajo con un investigador sénior y presentación de resultados. Las líneas relevantes incluyen análisis de ondas gravitacionales con ML, software para telescopios y redes neuronales para ATLAS; otros proyectos son principalmente experimentales.",
+    "evidenceChecks": [
+      {
+        "field": "Acceso, edición y asignación",
+        "phrases": [
+          "11th Summer Fellowship",
+          "any nationality",
+          "second, third and fourth year",
+          "modest stipend"
+        ]
+      },
+      {
+        "field": "Ámbito",
+        "phrases": [
+          "machine learning approaches",
+          "software development",
+          "deep neural network"
+        ],
+        "url": "https://summerfellowships.ifae.es/projects/"
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "editions",
+      "calendar": "Edición 2026: 1–31 de julio; plazo de solicitud 10 de abril.",
+      "editionState": "past",
+      "note": "La fuente identifica la 11.ª edición y publica las personas seleccionadas. No es una convocatoria abierta.",
+      "edition": "2026"
+    },
+    "evidencePages": [
+      {
+        "url": "https://summerfellowships.ifae.es/projects/",
+        "label": "Proyectos de investigación de la edición 2026"
+      }
+    ]
+  },
+  {
+    "url": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
+    "title": "ICFO Summer Fellows — investigación en fotónica e información cuántica",
+    "institution": "ICFO — Institut de Ciències Fotòniques",
+    "country": "ES",
+    "city": "Castelldefels (Barcelona)",
+    "kind": "programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Habitualmente los dos últimos años de estudios equivalentes a máster o ingeniería; áreas admitidas incluyen matemáticas. Prioridad a estudiantes matriculados en universidades españolas; candidaturas internacionales excepcionales también se valoran.",
+    "duration": "Tres meses, dedicación completa",
+    "funding": {
+      "kind": "scholarship",
+      "amount": 600,
+      "currency": "EUR",
+      "period": "month",
+      "gross": true,
+      "text": "Edición 2026: 600 € brutos al mes y gastos de viaje elegibles; condiciones de próximas ediciones por confirmar."
+    },
+    "researchNote": "Proyecto supervisado por un grupo, formación y seminarios. La pertinencia para TRAMA se concentra en teoría de la información y computación cuántica; no todo el programa es de informática.",
+    "evidenceChecks": [
+      {
+        "field": "Continuidad y experiencia",
+        "phrases": [
+          "launched each January",
+          "twelve weeks",
+          "Quantum Information Theory"
+        ]
+      },
+      {
+        "field": "Ayuda y prioridad de acceso",
+        "phrases": [
+          "600 euros monthly gross",
+          "enrolled in Spanish Universities",
+          "March 1, 2026"
+        ],
+        "url": "https://jobs.icfo.eu/?detail=1069"
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "annual",
+      "calendar": "Se lanza cada enero; en 2026 solicitud hasta el 1 de marzo y estancia entre junio y septiembre.",
+      "editionState": "past",
+      "note": "El plazo 2026 terminó; septiembre sigue siendo parte del período de estancia. La fecha de una nueva convocatoria no está confirmada.",
+      "edition": "2026"
+    },
+    "evidencePages": [
+      {
+        "url": "https://jobs.icfo.eu/?detail=1069",
+        "label": "Convocatoria Summer Fellows 2026: condiciones y plazo"
+      }
+    ]
+  },
+  {
+    "url": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
+    "title": "ICFO Student Research Fellowships — TFG, TFM y proyectos",
+    "institution": "ICFO — Institut de Ciències Fotòniques",
+    "country": "ES",
+    "city": "Castelldefels (Barcelona)",
+    "kind": "programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Estudiantes destacados de grado o máster de universidades de todo el mundo. Selección competitiva; confirmar los requisitos concretos de cada convocatoria.",
+    "duration": "Según convocatoria y proyecto",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Número limitado de fellowships competitivas; la página permanente no precisa importe ni duración."
+    },
+    "researchNote": "Proyecto, TFG o TFM con un grupo ICFO. Las líneas de información cuántica y ciberseguridad son las de interés directo para TRAMA. Es un instrumento distinto del programa de verano.",
+    "evidenceChecks": [
+      {
+        "field": "Acceso y calendario",
+        "phrases": [
+          "undergraduate and masters students worldwide",
+          "Bachelor or masters thesis",
+          "October and February"
+        ]
+      },
+      {
+        "field": "Ámbito de investigación",
+        "phrases": [
+          "Quantum Information Theory",
+          "cybersecurity"
+        ],
+        "url": "https://www.icfo.eu/research/groups/"
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "editions",
+      "calendar": "Dos convocatorias al año: octubre y febrero.",
+      "editionState": "unknown",
+      "note": "La periodicidad está documentada, pero no se afirma que la próxima convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.icfo.eu/research/groups/",
+        "label": "Grupos elegibles: información cuántica y ciberseguridad"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crg.eu/en/node/22832",
+    "title": "CRG — prácticas de grado y máster con proyectos computacionales",
+    "institution": "Centre for Genomic Regulation (CRG)",
+    "country": "ES",
+    "city": "Barcelona",
+    "kind": "programme",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "programmeType": "Prácticas de investigación",
+    "fields": [
+      "Machine learning",
+      "Informática",
+      "Estadística"
+    ],
+    "entry": "Estudiantes matriculados en grado o máster oficial; todas las nacionalidades. Requiere convenio universitario y aceptación del grupo. Las ayudas 2026/27 se reservan a nuevas incorporaciones.",
+    "duration": "Ayudas 2026/27: hasta cuatro meses; otras estancias según acuerdo",
+    "funding": {
+      "kind": "scholarship",
+      "amount": 700,
+      "currency": "EUR",
+      "period": "month",
+      "gross": true,
+      "text": "Diez proyectos 2026/27 con 700 € brutos/mes hasta 4 meses y viaje de ida/vuelta limitado a 400 € en Europa o 1.000 € fuera. Otras prácticas no tienen financiación garantizada."
+    },
+    "researchNote": "Integración en grupos; proyectos documentados de modelos de proteínas, bioinformática y análisis estadístico. Solo una parte de las plazas es computacional; consultar preparación específica.",
+    "evidenceChecks": [
+      {
+        "field": "Acceso y ruta",
+        "phrases": [
+          "all nationalities",
+          "throughout the year",
+          "official undergraduate or MSc"
+        ]
+      },
+      {
+        "field": "Financiación específica",
+        "phrases": [
+          "700€/month/gross",
+          "up to 4 months",
+          "new recruits"
+        ]
+      },
+      {
+        "field": "Ámbito",
+        "phrases": [
+          "Protein language models",
+          "statistics"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "rolling",
+      "calendar": "Solicitudes de prácticas durante todo el año. Ayudas publicadas el 6 de agosto de 2026 para el curso 2026/27.",
+      "editionState": "announced",
+      "note": "La página mantiene proyectos hasta encontrar candidato. Confirmar disponibilidad de cada plaza con supervisión; no se atribuye vacante abierta a toda la ruta.",
+      "edition": "2026/27"
+    }
+  },
+  {
+    "url": "https://software.imdea.org/careers/2026-09-programmer-absint/",
+    "title": "Research Programmer in Abstract Interpretation Systems",
+    "institution": "IMDEA Software Institute",
+    "country": "ES",
+    "city": "Pozuelo de Alarcón (Madrid)",
+    "kind": "position",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master",
+      "doctorado"
+    ],
+    "programmeType": "Personal de apoyo a la investigación",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Título de grado, máster o doctorado en informática, ingeniería informática o matemáticas; interés y experiencia en análisis de programas, lógica, compiladores o verificación. Inglés oral y escrito excelente.",
+    "duration": "La fuente describe renovación durante tres años; confirmar duración contractual inicial",
+    "funding": {
+      "kind": "salary",
+      "text": "Salario competitivo sin importe publicado; prestaciones y apoyo a viajes de investigación según la oferta."
+    },
+    "researchNote": "Apoyo a la investigación y desarrollo de Ciao/CiaoPP y herramientas de interpretación abstracta. Puede aportar experiencia investigadora antes del doctorado, pero no incluye admisión doctoral.",
+    "evidenceChecks": [
+      {
+        "field": "Identidad y acceso",
+        "phrases": [
+          "Research Programmer in Abstract Interpretation Systems",
+          "Bachelor, Master’s, or PhD",
+          "Computer Science"
+        ]
+      },
+      {
+        "field": "Condiciones",
+        "phrases": [
+          "internationally competitive salaries",
+          "renewable for three years"
+        ]
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "call": {
+      "sourceText": "Deadline for applications is September 30th, 2026.",
+      "deadline": "2026-09-30",
+      "scope": {
+        "container": "div.grid_9.text",
+        "identitySelector": "h2#research-programmer-in-abstract-interpretation-systems",
+        "identityText": "Research Programmer in Abstract Interpretation Systems",
+        "deadlineSelector": "#dates + p + p"
+      }
+    }
+  },
+  {
+    "title": "FI Joan Oró — contratos predoctorales en Cataluña · 2026",
+    "institution": "AGAUR · Generalitat de Catalunya",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Admisión o matrícula doctoral en Cataluña según el momento y la procedencia de los estudios. Nota mínima de grado 6,50/10; estudios de acceso terminados desde el 1 de enero de 2023, con excepciones. Se necesita compromiso del director. Al solicitar debe cumplirse una de estas vías: grado cursado en el EEES; máster cursado o en curso en el EEES; o matrícula doctoral catalana.",
+    "funding": {
+      "kind": "salary",
+      "text": "Contrato predoctoral y costes de dirección, tutela y evaluación doctoral de hasta cuatro matrículas. Incluye un complemento total de 3.000 EUR durante los cuatro años para estancias y formación. El salario depende de las bases y del centro contratante; no se generaliza a todo el programa la tabla salarial específica de la UPC.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "No exige suponer nacionalidad española. No tener doctorado, ni ayudas previas FI, FI-SDUR o FI-STEP, ni más de 12 meses de otros contratos predoctorales. Una candidatura por persona y director. La solicitud de la persona candidata necesita confirmación institucional. Las fechas de incorporación fueron modificadas: consultar la actualización de AGAUR. Edición y calendario: Solicitud de candidatos del 14 al 30 de enero de 2026, a las 14:00; plazo cerrado. La confirmación institucional constituye otra fase.",
+    "duration": "4 años",
+    "primaryEvidenceUrl": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+    "evidencePages": [
+      {
+        "url": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+        "label": "Información institucional de la convocatoria"
+      },
+      {
+        "url": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026/convocatoria.pdf",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Doctorado catalán, nota y acceso",
+        "url": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+        "phrases": [
+          "pursue a doctoral degree in Catalonia",
+          "minimum grade point average of 6.50",
+          "January 1, 2023"
+        ]
+      },
+      {
+        "field": "Duración y formación",
+        "url": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+        "phrases": [
+          "The grants last for 4 years",
+          "€3,000.00, for the entire 4 years"
+        ]
+      },
+      {
+        "field": "Límites y calendario",
+        "url": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+        "phrases": [
+          "more than 12 months",
+          "From 14/01/2026 to 30/01/2026 at 2:00 p.m."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Axudas de apoio á etapa predoutoral — Galicia · 2026",
+    "institution": "Xunta de Galicia · Secretaría Xeral de Universidades y GAIN",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.edu.xunta.gal/portal/node/48703",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Matrícula en un programa oficial de doctorado de una universidad gallega en 2025/26 y candidatura presentada por una entidad gallega elegible. Comprobar nota, fecha de finalización de estudios y dedicación en las bases. La admisión sin matrícula no basta para esta edición.",
+    "funding": {
+      "kind": "salary",
+      "text": "Ayuda a la entidad para contratar personal predoctoral hasta cuatro años, con complementos de estancia y gastos asociados según las bases. Los importes anuales publicados incluyen costes sociales del contrato: no equivalen al salario bruto ni neto de la persona.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "Una sola ficha agrupa ED481A (universidades públicas gallegas) e IN606A (otras entidades). Se admiten candidaturas extracomunitarias dentro de cupos específicos y con los permisos de permanencia exigidos por el artículo 3 de las bases al formalizar el contrato; residir en España no sustituye matrícula y requisitos. La entidad selecciona y presenta la candidatura, no es una concesión directa a toda persona matriculada. Edición y calendario: Solicitudes del 28 de enero al 27 de febrero de 2026; plazo cerrado.",
+    "duration": "Hasta 4 años",
+    "evidencePages": [
+      {
+        "url": "https://www.edu.xunta.gal/portal/sites/web/files/anunciog0761-191225-0005_gl.pdf",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "url": "https://www.edu.xunta.gal/portal/sites/web/files/preguntas_frecuentes_in606a_2026.pdf",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Calendario y duración",
+        "url": "https://www.edu.xunta.gal/portal/node/48703",
+        "phrases": [
+          "do 28.01.2026 ao 27.02.2026",
+          "un máximo de 4 anos"
+        ]
+      },
+      {
+        "field": "Contrato, entidades y coste",
+        "url": "https://www.edu.xunta.gal/portal/node/48703",
+        "phrases": [
+          "universidades públicas do SUG",
+          "incluíndo os seus custos sociais"
+        ]
+      },
+      {
+        "field": "Matrícula doctoral",
+        "url": "https://www.edu.xunta.gal/portal/sites/web/files/preguntas_frecuentes_in606a_2026.pdf",
+        "phrases": [
+          "estar matriculada nun programa oficial de doutoramento",
+          "2025/26"
+        ]
+      },
+      {
+        "field": "Permisos al contratar",
+        "url": "https://www.edu.xunta.gal/portal/sites/web/files/anunciog0761-191225-0005_gl.pdf",
+        "phrases": [
+          "permisos necesarios de permanencia no país"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Programa Predoctoral del Gobierno Vasco — modalidades A y B en España · 2026/27",
+    "institution": "Gobierno Vasco · Departamento de Ciencia, Universidades e Innovación",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.euskadi.eus/agrupacion_servicios/2026/predoc/web01-tramite/es/",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Empadronamiento en la CAPV al solicitar y al menos desde el 1 de enero de 2026 para la modalidad A (centro en Euskadi), o desde el 1 de enero de 2024 para la B (resto de España), con excepciones por estudios. Matrícula o admisión doctoral; puede aceptarse provisionalmente si se obtiene a más tardar el 13 de noviembre de 2026. Nota mínima según el área.",
+    "funding": {
+      "kind": "salary",
+      "text": "Financia contratos predoctorales y contempla suplementos de matrícula y movilidad sujetos a las bases. No se presenta la dotación concedida al centro como salario neto de la persona.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "Las personas extracomunitarias deben contar con permiso de residencia. Esta ficha se limita a las modalidades A y B, con centro y doctorado en la misma comunidad autónoma; la modalidad I en el extranjero requiere una revisión de destino aparte. Las áreas incluyen matemáticas, estadística, informática y computación. La residencia actual en España por sí sola no cumple la antigüedad de padrón vasco. Edición y calendario: Edición 2026/27: solicitudes en junio–julio de 2026; plazo cerrado. Las renovaciones son un trámite distinto de las nuevas ayudas.",
+    "duration": "Hasta 4 años, conforme a las bases",
+    "primaryEvidenceUrl": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+    "evidencePages": [
+      {
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      {
+        "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/predoc-ejgv-2026",
+        "label": "Información institucional de la convocatoria"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Edición y modalidades",
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+        "phrases": [
+          "2026–2027",
+          "Resto del Estado Modalidad B",
+          "CAPV Modalidad A"
+        ]
+      },
+      {
+        "field": "Padrón, residencia y acceso",
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+        "phrases": [
+          "desde el 1 de enero de 2026",
+          "desde el 1 de enero de 2024",
+          "permiso de residencia",
+          "13 de noviembre de 2026"
+        ]
+      },
+      {
+        "field": "Áreas y duración",
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+        "phrases": [
+          "Estadística e Investigación Operativa",
+          "Computación y Tecnología Informática",
+          "máximo de cuatro años"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Línea 1 — contratación predoctoral en Andalucía · convocatoria 2025",
+    "institution": "Junta de Andalucía · Consejería de Universidad, Investigación e Innovación",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25908.html",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Para concurrir a esta ayuda se exige titulación de al menos 240 ECTS o alcanzar esa carga entre estudios según las bases; es un requisito distinto del acceso al doctorado. Además se exige admisión o matrícula doctoral andaluza o máster oficial finalizado o en curso que permita acceder en 2026/27. Los estudios deben haberse terminado en los cinco años anteriores a la convocatoria, con excepciones. Nota mínima 7 para Ciencias e Ingeniería y 7,5 en las demás ramas.",
+    "funding": {
+      "kind": "salary",
+      "text": "Financia la contratación predoctoral por entidades del Sistema Andaluz del Conocimiento y una estancia formativa en el extranjero de hasta tres meses. No se asigna una cuantía salarial no documentada en la página de resumen.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "Admite personas españolas, de la UE o extranjeras con autorización de residencia o estancia por estudios en España. La tesis debe obtener mención internacional. La solicitud requiere intervención del centro; cada universidad puede cerrar su plazo interno antes del plazo general. La información de Granada documenta requisitos regionales y distingue expresamente su plazo interno. Edición y calendario: Convocatoria de diciembre de 2025 tramitada en 2026; plazo de nuevas solicitudes cerrado. La UGR fijó el 22 de enero como plazo interno, no como cierre autonómico.",
+    "primaryEvidenceUrl": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+    "evidencePages": [
+      {
+        "url": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+        "label": "Información institucional de la convocatoria"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Contrato doctoral y movilidad",
+        "url": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+        "phrases": [
+          "97 subvenciones",
+          "mención internacional",
+          "periodo máximo de tres meses"
+        ]
+      },
+      {
+        "field": "Residencia y acceso",
+        "url": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+        "phrases": [
+          "residencia o de estancia por estudios en España",
+          "240 créditos",
+          "cinco años"
+        ]
+      },
+      {
+        "field": "Fase interna cerrada",
+        "url": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+        "phrases": [
+          "plazo interno de presentación",
+          "22 de enero de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Doctorados industriales — Comunidad de Madrid · convocatoria 2025",
+    "institution": "Comunidad de Madrid · Consejería de Educación, Ciencia y Universidades",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Proyecto doctoral conjunto de una empresa y una entidad académica elegibles en la Comunidad de Madrid. Ambas presentan su solicitud. La candidatura individual requiere acordar proyecto, dirección, acceso doctoral y contratación con la empresa; no basta con residir en Madrid.",
+    "funding": {
+      "kind": "salary",
+      "text": "Ayuda competitiva para financiar la contratación del doctorando por la empresa y costes del proyecto en la entidad académica. La cuantía concreta y los gastos elegibles deben comprobarse en las bases y la resolución.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "La convocatoria se dirige a entidades y exige colaboración empresa–centro. La página no permite afirmar que cualquier residente pueda recibirla: comprobar requisitos personales, permiso de contratación y proceso de selección del proyecto. Los plazos de aceptación, alegaciones y recursos publicados en verano de 2026 no son nuevos plazos de solicitud. Edición y calendario: Convocatoria 2025 tramitada en 2026; la sede indica que el plazo de solicitud ha finalizado. La propuesta definitiva se publicó el 24 de agosto de 2026.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "Procedimiento cerrado",
+        "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+        "phrases": [
+          "El plazo para presentar esta solicitud ha finalizado",
+          "24/08/2026"
+        ]
+      },
+      {
+        "field": "Edición",
+        "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+        "phrases": [
+          "6167/2025"
+        ]
+      },
+      {
+        "field": "Colaboración institucional",
+        "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+        "phrases": [
+          "entidad empresarial",
+          "entidad académica"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CIACIF — contratos predoctorales de la Generalitat Valenciana · 2026",
+    "institution": "Generalitat Valenciana · Dirección General de Ciencia e Investigación",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Grado finalizado con posterioridad al 1 de enero de 2021, con ampliaciones previstas. Admisión doctoral en una universidad valenciana o la vía de máster indicada en las bases, con admisión efectiva antes del contrato. Nota mínima ponderada por rama: 8,10 en Ingeniería y Arquitectura y 8,43 en Ciencias; comprobar la rama que corresponda al título.",
+    "funding": {
+      "kind": "salary",
+      "text": "Financiación de contratos predoctorales a centros de investigación valencianos. Las dotaciones presupuestarias incluyen salario y cotización empresarial; no se muestran como remuneración personal.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "Nacionalidad española o de la UE, o autorización de residencia o estancia por estudios en España para personas extranjeras. No tener doctorado ni haber disfrutado más de 12 meses de contrato predoctoral, tanto al solicitar como al contratar. El centro beneficiario formaliza el contrato. Las fases de subsanación y recurso posteriores no reabren la convocatoria. Edición y calendario: La edición 2026 recibió solicitudes del 3 al 21 de noviembre de 2025; plazo cerrado.",
+    "duration": "Cuatro anualidades predoctorales; posible periodo posdoctoral según las bases",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "Edición y calendario",
+        "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+        "phrases": [
+          "CIACIF 2026",
+          "03-11-2025",
+          "21-11-2025"
+        ]
+      },
+      {
+        "field": "Requisitos personales y académicos",
+        "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+        "phrases": [
+          "estancia por estudios",
+          "1 de enero de 2021",
+          "8,43",
+          "8,10",
+          "12 meses"
+        ]
+      },
+      {
+        "field": "Duración y costes",
+        "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+        "phrases": [
+          "cuarto año",
+          "cuota empresarial"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Contratos predoctorales del Gobierno de Aragón · 2026–2030",
+    "institution": "Gobierno de Aragón · Departamento de Empleo, Ciencia y Universidades",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Matrícula, admisión o preadmisión doctoral en Aragón para 2026/27 y nota ponderada mínima 6/10. Las bases distinguen títulos antiguos de licenciatura, ingeniería, arquitectura o diplomatura, grado de al menos 300 ECTS y grado más máster de al menos 300 ECTS. Para títulos no EEES exigen credencial de homologación o certificación de equivalencia conforme al RD 889/2022; es una condición específica de esta ayuda, distinta del acceso doctoral general. Finalización de estudios desde el 1 de enero de 2022, con excepciones. La entidad presenta primero la solicitud y la persona candidata aporta después sus documentos mediante PIP.",
+    "funding": {
+      "kind": "salary",
+      "text": "Subvención a centros y universidades de Aragón para formalizar contratos predoctorales. La ayuda para el coste del contrato no equivale a salario neto. El periodo de orientación posdoctoral, si procede, queda sujeto a las bases y al máximo financiable.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "Admite nacionalidad española o de la UE, o autorización de residencia en España en plazo. En general, no puede haberse disfrutado antes de un contrato predoctoral; existe una excepción acotada para contratos formalizados entre el cierre PIP y la resolución. No confundir este requisito con el límite de 12 meses de otras ayudas.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026–2030",
+      "calendar": "Entidades: del 19 de junio al 14 de julio de 2026. Documentación de candidatos en PIP: del 15 al 31 de julio de 2026. Ambos plazos cerrados.",
+      "editionState": "past",
+      "note": "Cada edición tiene sus propias bases. Una ficha permanente no equivale a una convocatoria abierta ni reserva una plaza."
+    },
+    "duration": "Hasta 4 años; hasta 6 en los supuestos de discapacidad previstos",
+    "evidencePages": [
+      {
+        "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1452456151111&type=pdf",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Acceso y nota",
+        "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1452456151111&type=pdf",
+        "phrases": [
+          "igual o superior a 6",
+          "300 créditos",
+          "1 enero de 2022"
+        ]
+      },
+      {
+        "field": "Títulos antiguos y título no EEES",
+        "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1452456151111&type=pdf",
+        "phrases": [
+          "licenciado, ingeniero, arquitecto, diplomado",
+          "certificación de equivalencia del título extranjero",
+          "889/2022"
+        ]
+      },
+      {
+        "field": "Residencia y fase de candidato",
+        "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1452456151111&type=pdf",
+        "phrases": [
+          "autorización de residencia en España",
+          "desde el 15 hasta el 31 de julio de 2026"
+        ]
+      },
+      {
+        "field": "Calendario institucional",
+        "url": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+        "phrases": [
+          "19/06/2026",
+          "14/07/2026"
+        ]
+      },
+      {
+        "field": "Convocatoria anterior identificada",
+        "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1452456151111&type=pdf",
+        "phrases": [
+          "correspondiente al período 2021-2025"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PR2025 — contratación predoctoral en Castilla y León",
+    "institution": "Junta de Castilla y León · Consejería de Educación",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Admisión o matrícula doctoral en una universidad de Castilla y León en 2024/25, nota media mínima 6,5 y estudios finalizados desde el 1 de enero de 2019, con excepciones. La candidatura necesita compromiso de una entidad de investigación elegible.",
+    "funding": {
+      "kind": "salary",
+      "text": "Hasta cuatro años de contratación predoctoral. Los módulos de ayuda financian salario y costes de Seguridad Social de la entidad; no se equiparan a sueldo neto.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "Es la convocatoria PR2025, resuelta en enero de 2026, y sirve como referencia para preparar futuras ediciones. Las titulaciones extranjeras necesitan la documentación y equivalencia previstas. El resumen no permite dar por elegible a cualquier residente español ni suponer nacionalidad obligatoria. Edición y calendario: Solicitudes del 19 de marzo al 16 de abril de 2025; convocatoria resuelta el 27 de enero de 2026.",
+    "duration": "Hasta 4 años",
+    "evidencePages": [
+      {
+        "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i.ficheros/1767152-Orden%20convocatoria%20ayudas%20contrataci%C3%B3n%20predoctoral.pdf",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Estado y duración",
+        "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+        "phrases": [
+          "CONVOCATORIA RESUELTA 27 DE ENERO DE 2026",
+          "4 años"
+        ]
+      },
+      {
+        "field": "Requisitos",
+        "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i.ficheros/1767152-Orden%20convocatoria%20ayudas%20contrataci%C3%B3n%20predoctoral.pdf",
+        "phrases": [
+          "2024-2025",
+          "6,5",
+          "1 de enero de 2019"
+        ]
+      },
+      {
+        "field": "Solicitud cerrada",
+        "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+        "phrases": [
+          "16 de abril de 2025"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UCM–Santander — contratos de personal investigador en formación · 2026",
+    "institution": "Universidad Complutense de Madrid · Banco Santander",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://ucm.es/ct12-26",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Matrícula doctoral UCM en 2025/26 o acceso a doctorado en 2026/27 conforme a las bases; nota mínima 7,25 para el cupo general y 6,5 para discapacidad. Revisar los límites de fecha de titulación y obtener aval del equipo y director.",
+    "funding": {
+      "kind": "salary",
+      "text": "Contrato predoctoral con retribución conforme al EPIF y exención de precios académicos de tutela doctoral y complementos formativos en los términos de las bases. Es financiación contractual, distinta de la ayuda complementaria Santander Investigación de 2.000 EUR.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "Pueden participar personas de cualquier nacionalidad; las extranjeras necesitan autorización de trabajo o exención al incorporarse. Esta ficha comprende las vías general y de discapacidad en la UCM; excluye la modalidad de cotutela Harvard y sus plazas. No duplicar esta convocatoria con el programa general de pequeñas ayudas Santander Investigación. Edición y calendario: Solicitudes del 3 al 23 de marzo de 2026; plazo cerrado.",
+    "duration": "Hasta 4 años; el posible periodo de orientación posdoctoral se incluye en ese máximo",
+    "evidencePages": [
+      {
+        "url": "https://www.ucm.es/file/bouc-convocatoria?ver=",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Nacionalidad y nota",
+        "url": "https://www.ucm.es/file/bouc-convocatoria?ver=",
+        "phrases": [
+          "extranjeros no comunitarios no residentes en España",
+          "7,25",
+          "6,5"
+        ]
+      },
+      {
+        "field": "Doctorado y contrato",
+        "url": "https://www.ucm.es/file/bouc-convocatoria?ver=",
+        "phrases": [
+          "2026/2027",
+          "contrato predoctoral",
+          "Harvard"
+        ]
+      },
+      {
+        "field": "Calendario de solicitudes",
+        "url": "https://ucm.es/ct12-26",
+        "phrases": [
+          "3 de marzo",
+          "23 de marzo"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "FPI-UAM — contratos predoctorales propios · 2026",
+    "institution": "Universidad Autónoma de Madrid",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Admisión o preadmisión doctoral UAM para 2026/27, o estar finalizando los estudios que dan acceso, en los términos de las bases. Nota mínima 7,5 o 7 en ingeniería, con alternativa de pertenencia al primer decil; mínimo 6,5 para la reserva de discapacidad. Comprobar fecha de terminación de los estudios y aval del director.",
+    "funding": {
+      "kind": "salary",
+      "text": "Contrato predoctoral conforme al EPIF. Las bases incluyen una previsión de retribuciones para 2027; no se presenta esa previsión como salario garantizado en 2026. La concesión exige selección competitiva y disponibilidad de la financiación.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "No tener doctorado y cumplir los límites de ayudas predoctorales previas de las bases. Las personas extracomunitarias deben confirmar con la UAM la autorización de trabajo o exención aplicable al contratar. La residencia en España no reemplaza los requisitos académicos. El periodo posdoctoral, cuando proceda, se computa dentro de la duración máxima.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026",
+      "calendar": "Solicitudes entre las 00:00 del 7 de septiembre y las 23:59 del 27 de septiembre de 2026. La página oficial muestra ese plazo vigente en la revisión del 21 de septiembre; confirmar antes de solicitar.",
+      "editionState": "announced",
+      "note": "Cada edición tiene sus propias bases. Una ficha permanente no equivale a una convocatoria abierta ni reserva una plaza."
+    },
+    "duration": "Hasta 4 años, o 6 en los supuestos previstos de discapacidad, descontando contratos previos",
+    "evidencePages": [
+      {
+        "url": "https://www.uam.es/uam/media/doc/1607042045627/contratos-fpi-uam-2026-signed.pdf",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Calendario y alcance",
+        "url": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+        "phrases": [
+          "7 de septiembre de 2026",
+          "27 de septiembre de 2026",
+          "cualquier área del conocimiento"
+        ]
+      },
+      {
+        "field": "Criterios académicos",
+        "url": "https://www.uam.es/uam/media/doc/1607042045627/contratos-fpi-uam-2026-signed.pdf",
+        "phrases": [
+          "7,5",
+          "6,5",
+          "decil"
+        ]
+      },
+      {
+        "field": "Previsión económica y contrato",
+        "url": "https://www.uam.es/uam/media/doc/1607042045627/contratos-fpi-uam-2026-signed.pdf",
+        "phrases": [
+          "2027",
+          "contrato predoctoral"
+        ]
+      },
+      {
+        "field": "Edición anterior identificada",
+        "url": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+        "links": [
+          "https://www.uam.es/uam/investigacion/oferta-empleo/fpi-uam2025"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "FPI-UPC — contratos predoctorales propios · 2026",
+    "institution": "Universitat Politècnica de Catalunya",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Admisión o matrícula doctoral UPC, incluida la admisión condicionada en los términos de las bases. Nota mínima de grado 6,5/10 y aval de director elegible. Se requiere admisión definitiva antes de formalizar el contrato.",
+    "funding": {
+      "kind": "salary",
+      "text": "Contrato predoctoral: 20.364,88 EUR brutos/año en los dos primeros años y 25.456,20 EUR en tercero y cuarto según la convocatoria 2026. Incluye tutela doctoral de hasta cuatro matrículas; las tasas administrativas no quedan incluidas. La docencia, si se realiza, tiene su regulación y remuneración separadas.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "No tener doctorado, no haber recibido una ayuda FPI-UPC anterior ni haber disfrutado más de 12 meses de otro contrato predoctoral. Los títulos extranjeros requieren equivalencia de nota. La admisión y el permiso de contratación aplicable deben estar resueltos al incorporarse; residir en España no garantiza selección. Edición y calendario: Solicitudes del 1 al 22 de julio de 2026 a las 14:00, hora local; plazo cerrado. El calendario de resolución posterior no admite nuevas solicitudes.",
+    "duration": "Desde 1 año, con renovaciones anuales hasta un máximo de 4",
+    "evidencePages": [
+      {
+        "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026_es.pdf",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Calendario, acceso y nota",
+        "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+        "phrases": [
+          "Jul 22, 2026 02:00 PM",
+          "GPA of 6.5/10",
+          "more than 12 months"
+        ]
+      },
+      {
+        "field": "Salario bruto",
+        "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+        "phrases": [
+          "€20,364.88 gross/year",
+          "€25,456.20 gross/year"
+        ]
+      },
+      {
+        "field": "Contrato y duración",
+        "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026_es.pdf",
+        "phrases": [
+          "cuatro años",
+          "matrícula"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PIF EHU — contratos predoctorales propios, modalidades I y II · 2026",
+    "institution": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Financiación competitiva de contratos predoctorales",
+    "entry": "Preinscripción en el programa doctoral EHU propuesto, título de acceso obtenido desde el 1 de enero de 2023 o finalización de los estudios en la vía prevista por las bases, con excepciones. Nota mínima 6,5, o 6 en titulaciones cuyo promedio sea inferior a 6,5 según el anexo. Aval de hasta tres directores elegibles; la modalidad II añade requisito de euskera.",
+    "funding": {
+      "kind": "salary",
+      "text": "Contrato predoctoral a tiempo completo, con renovaciones anuales condicionadas a matrícula, evaluación y obligaciones de formación. El salario y complementos se rigen por las bases y la normativa de contratación de la EHU.",
+      "currency": "EUR"
+    },
+    "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+    "eligibilityNote": "No tener doctorado ni más de dos años de contratación predoctoral previa, salvo las excepciones de discapacidad previstas; el tiempo previo se descuenta de la duración máxima. Las personas no ciudadanas de la UE deben contar con autorización administrativa previa para trabajar en España al firmar el contrato. Se exige una estancia continuada en el extranjero de al menos tres meses antes de la última renovación; puede planificarse en Europa. Esta ficha cubre I y II, no las cotutelas III y IV.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026",
+      "calendar": "Solicitudes del 15 de junio al 6 de julio de 2026; plazo cerrado. Las alegaciones publicadas en septiembre corresponden a candidaturas ya presentadas.",
+      "editionState": "past",
+      "note": "Cada edición tiene sus propias bases. Una ficha permanente no equivale a una convocatoria abierta ni reserva una plaza."
+    },
+    "duration": "De 1 a 4 años; hasta 6 en los supuestos de discapacidad, descontando contratos anteriores",
+    "evidencePages": [
+      {
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria_pif-2026_es_",
+        "label": "Bases oficiales de la convocatoria",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Calendario original",
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria_pif-2026_es_",
+        "phrases": [
+          "15 de junio de 2026",
+          "6 de julio de 2026"
+        ]
+      },
+      {
+        "field": "Estancia y duración",
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria_pif-2026_es_",
+        "phrases": [
+          "mínimo de tres meses de duración",
+          "no podrá exceder de cuatro años",
+          "superior a 2 años"
+        ]
+      },
+      {
+        "field": "Acceso y nota",
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria_pif-2026_es_",
+        "phrases": [
+          "1 de enero de 2023",
+          "6,5",
+          "preinscripción"
+        ]
+      },
+      {
+        "field": "Excepción de discapacidad y permiso",
+        "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria_pif-2026_es_",
+        "phrases": [
+          "salvo las excepciones recogidas para el personal con discapacidad",
+          "autorización administrativa previa para trabajar en España"
+        ]
+      },
+      {
+        "field": "Edición anterior identificada",
+        "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+        "links": [
+          "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-upv/ehu-2025"
+        ]
+      }
+    ]
   }
 ]

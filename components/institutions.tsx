@@ -1,4 +1,5 @@
 'use client';
+import {PathContext} from './doctoral-path';
 import {useCallback,useEffect,useRef,useState} from 'react';
 import Link from '@/components/site-link';
 import {ArrowUpRight,Search} from 'lucide-react';
@@ -26,6 +27,7 @@ export default function Institutions({registry,counts}:{registry:InstitutionMeta
  return <main id="contenido" className="institutions-page wrap">
   <div className="page-heading"><div><p className="eyebrow">EL MAPA SE RECORRE INSTITUCIÓN POR INSTITUCIÓN</p><h1>Dónde se investiga.<br/>Qué queda por encontrar.</h1><p>Universidades, centros y financiadores de toda Europa. Sigue sus fuentes oficiales y compara los indicadores de investigación en la disciplina que te interesa.</p></div></div>
   <div className="coverage-stats"><div><strong>{n(registry.summary.total)}</strong><span>entidades en el inventario de búsqueda</span></div><div><strong>{n(registry.summary.withSources)}</strong><span>con fuentes académicas localizadas</span></div><div><strong>{n(registry.summary.withCheckedSources)}</strong><span>con alguna fuente leída</span></div><div><strong>{n(registry.summary.countriesWithSources)}</strong><span>países y territorios con fuentes</span></div></div>
+  <PathContext/><p className="small muted">Usa los indicadores para localizar actividad en tu disciplina. Para elegir una dirección, contrasta sus proyectos y la experiencia de sus doctorandos. <Link className="text-link" href="/doctorado-en-espana#grupo">Cómo evaluar un grupo ↗</Link></p>
   <p className="notice">El inventario incluye entidades pendientes de revisar y de confirmar en estas materias. Cada institución puede ofrecer muchos programas. Una fuente leída todavía puede tener programas por descubrir. <Link href="/explorar">Ver oportunidades comprobadas ↗</Link></p>
   {registry.crawl&&<p className="small muted">Rastreo automático: {n(registry.crawl.statuses.read||0)} páginas leídas de {n(registry.crawl.jobs)} en la cola de búsqueda. {n(registry.crawl.statuses.pending||0)} pendientes de lectura; {n(registry.crawl.statuses['access-pending']||0)} con acceso pendiente. Los enlaces descubiertos todavía necesitan revisión antes de convertirse en oportunidades.</p>}
   {<p className="small muted">Mostrando la copia guardada del inventario, de {dateLabel(registry.generatedAt)}.</p>}

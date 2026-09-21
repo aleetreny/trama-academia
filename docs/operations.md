@@ -116,6 +116,8 @@ Para comprobar el índice de observaciones en una base configurada, ejecutar `no
 | `/data/explorer.<hash>.json`, `/data/funding.<hash>.json` | Campos de búsqueda, condiciones clasificadas e indicadores institucionales. |
 | `/data/records/<id>.<hash>.json` | Ficha completa sin pérdida de evidencia; se descarga para los resultados visibles. |
 | `/oportunidad/<id>/` | HTML completo, accesible mediante enlace directo y sin ejecutar búsquedas. |
+| `/mi-camino/` | Plan local por situación, objetivo, movilidad y área; casillas, reinicio y descarga. No decide elegibilidad ni modifica los filtros de otras páginas. |
+| `/doctorado-en-espana/` | Guía de acceso, preparación, grupos, financiación y candidatura, con fuentes por bloque. |
 | `/programas/` | Directorio recurrente con edición y calendario separados de vigencia. |
 | `/seleccion/` | Lista del visitante guardada en su navegador; resuelve fichas actuales desde un mismo manifiesto y permite comparar y exportar CSV. |
 | `/guia/`, `/guia/<código>/` | Comparación de dos países y 31 guías con fuentes por criterio. |
@@ -143,3 +145,11 @@ Las ejecuciones semanales conservan diagnósticos como artefactos de GitHub Acti
 La propiedad opcional `recurrence` de las semillas describe categoría, periodicidad, calendario, edición de referencia, estado de esa edición y cautelas. Solo se añade con evidencia de continuidad; no anticipar fechas o financiación de una edición futura. El verificador conserva esta información en la ficha y el directorio la recibe como un resumen compacto. Las escuelas de verano se identifican como formación investigadora, no como titulaciones.
 
 Las guías se editan en `data/country-guides.json`. Sus ocho criterios necesitan referencias mediante `factSources`; el título, URL, ámbito, consulta y actualización de cada fuente son datos separados. Una regla de una universidad no debe generalizarse al país. Tras cambiar datos o guías, ejecutar pruebas, tipos y build; comprobar también la selección por URL y la lectura en móvil. No editar los índices generados.
+
+## Mantener el recorrido desde España
+
+La guía reside en `data/spain-doctoral-guide.ts`: cada bloque factual atribuye sus fuentes y las pautas propias se marcan como editoriales. Conservar alcance institucional, edición y fecha de cada fuente; no universalizar requisitos de una beca como acceso doctoral. `scripts/web/spain-guide.test.mjs` comprueba referencias, estructura de tablas y enlaces del plan.
+
+`lib/doctoral-path.ts` define las preferencias y pasos de `/mi-camino/`. La clave `trama:doctoral-path:v1` es independiente de `trama:selection:v1`. Lee el almacenamiento antes de cada cambio y fusiona solo los campos o casillas modificados; un valor ilegible no se sobrescribe. Los fallos de almacenamiento mantienen un plan temporal y aviso visible. Las preferencias no alteran silenciosamente búsquedas abiertas: generan enlaces cuyos filtros son visibles. Nacionalidad, residencia y elegibilidad nunca se deducen del plan.
+
+Las entradas de portada pueden fijar `situacion` y `objetivo` mediante valores enumerados; se consumen al entrar en el plan. No se aceptan enlaces arbitrarios ni datos personales en esos parámetros. Al revisar, probar una entrada de cada situación, cambios de objetivo, recarga, casillas, descarga, reinicio, retorno a selección y los enlaces de la guía en escritorio y móvil.

@@ -64,3 +64,9 @@ Guardar y comparar son acciones independientes. La selección pagina de 12 en 12
 Los enlaces a fichas incluyen un parámetro `desde` cuando proceden del buscador, financiación, recurrentes o selección. Su lector solo admite esas cuatro rutas internas, conserva consultas acotadas y rechaza destinos externos. Sin JavaScript o sin contexto válido, cada ficha conserva un enlace de vuelta seguro según su tipo. La selección depende de JavaScript y de los datos del navegador; borrarlos también borra la lista personal.
 
 En financiación, los cuatro controles principales son destino, país de la entidad, etapa y vigencia. `pais` conserva destino y `financiador` añade origen explícitamente documentado; `unknown` selecciona entidad sin país registrado. El origen nunca se deduce del destino. Las cuatro modalidades INPhINIT/Junior Leader declaran ES y PT en `destinationCountries`, también en recurrentes. Comparación y CSV conservan ambos datos y el calendario narrativo de la edición, sin transformarlo en apertura. Ver la [revisión de becas](funding-review-2026-09-21.md).
+
+## Camino doctoral desde España
+
+La portada y `/mi-camino/` organizan el recorrido por situación, objetivo, movilidad y área. El plan local se almacena con una clave independiente de la selección y no envía perfiles a un servidor. La situación y el objetivo enviados desde una tarjeta de portada son valores enumerados; no aceptan rutas o texto libre. El contexto visible en otras secciones no cambia sus filtros.
+
+`/doctorado-en-espana/` exporta una guía legible sin JavaScript con índice, fuentes por bloque, tablas y ejemplos editoriales. Sus anclas se validan junto a las rutas y las 31 guías internacionales. Ambos recorridos se incluyen en el sitemap y en el límite de HTML inicial. No serializar el catálogo entero en el plan: genera consultas sobre los índices existentes.

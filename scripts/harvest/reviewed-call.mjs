@@ -3,6 +3,33 @@ import {clean,canonicalUrl} from './domain.mjs';
 const normalized=text=>clean(text).normalize('NFKC').toLowerCase();
 const months=['january','february','march','april','may','june','july','august','september','october','november','december'];
 
+function scopedDeadline(call,document){
+ const scope=call.scope;
+ if(!scope?.container||!scope.identitySelector||!scope.identityText?.trim()||!scope.deadlineSelector)throw new Error('call_deadline_scope_missing');
+ const $=load(document.body),unavailable='nav,header,footer,aside,[hidden],[aria-hidden="true"],[style*="display:none"],[style*="display: none"]';
+ const containers=$(scope.container);
+ if(containers.length!==1||containers.closest(unavailable).length)throw new Error('call_deadline_scope_mismatch');
+ const identity=containers.find(scope.identitySelector),deadline=containers.find(scope.deadlineSelector);
+ if(identity.length!==1||deadline.length!==1||identity.closest(unavailable).length||deadline.closest(unavailable).length)throw new Error('call_deadline_scope_mismatch');
+ // Read visible descendants only. An adjacent offer, a hidden deadline or an
+ // institute-wide year cannot validate the selected offer's closing sentence.
+ const visibleText=node=>{const copy=node.clone();copy.find(unavailable).remove();return normalized(copy.text());};
+ if(visibleText(identity)!==normalized(scope.identityText)||!visibleText(deadline).includes(normalized(call.sourceText)))throw new Error('call_deadline_scope_mismatch');
+}
+
+function datedCall(call,document){
+ const text=normalized(call.sourceText),legacy=text.match(/^deadline:\s*(january|february|march|april|may|june|july|august|september|october|november|december) (\d{1,2}), (\d{4})$/);
+ if(legacy)return {month:legacy[1],day:legacy[2],year:legacy[3]};
+ // Observed BCAM and IMDEA Software formats. New variants require an explicit
+ // local DOM binding between the exact offer identity and its deadline text.
+ const match=text.match(/^deadline(?::| for applications is)\s*(january|february|march|april|may|june|july|august|september|october|november|december) (\d{1,2})(st|nd|rd|th)(?:,)? (\d{4})(?:, (\d{2}):(\d{2}) (cet|cest))?\.?$/);
+ if(!match)throw new Error('call_deadline_label_missing');
+ const day=Number(match[2]),suffix=day%100>=11&&day%100<=13?'th':({1:'st',2:'nd',3:'rd'}[day%10]||'th');
+ if(match[3]!==suffix||match[5]&&(Number(match[5])>23||Number(match[6])>59))throw new Error('call_deadline_mismatch');
+ scopedDeadline(call,document);
+ return {month:match[1],day:match[2],year:match[4],...(match[5]?{clock:true}:{})};
+}
+
 function recentListing(seed,call,document,documents){
  const listing=call.listing,index=documents.get(listing?.sourceUrl);
  if(call.deadline||call.rolling||!index||!listing.title?.trim()||!/^\d{4}-\d{2}-\d{2}$/.test(listing.date||''))throw new Error('invalid_undated_call');
@@ -47,10 +74,9 @@ export function reviewedCallStatus(seed,documents){
   return {status:'rolling',deadline:null,deadlinePrecision:null};
  }
  if(!/^\d{4}-\d{2}-\d{2}$/.test(call.deadline||''))throw new Error('invalid_call_deadline');
- const date=normalized(call.sourceText).match(/^deadline:\s*(january|february|march|april|may|june|july|august|september|october|november|december) (\d{1,2}), (\d{4})$/);
- if(!date)throw new Error('call_deadline_label_missing');
- const iso=date[3]+'-'+String(months.indexOf(date[1])+1).padStart(2,'0')+'-'+date[2].padStart(2,'0');
+ const date=datedCall(call,document);
+ const iso=date.year+'-'+String(months.indexOf(date.month)+1).padStart(2,'0')+'-'+date.day.padStart(2,'0');
  const timestamp=Date.parse(iso+'T00:00:00Z');
  if(iso!==call.deadline||!Number.isFinite(timestamp)||new Date(timestamp).toISOString().slice(0,10)!==iso)throw new Error('call_deadline_mismatch');
- return {status:'open',deadline:iso,deadlinePrecision:'date'};
+ return {status:'open',deadline:iso,deadlinePrecision:'date',...(date.clock?{deadlineNote:'La fuente indica «'+clean(call.sourceText)+'». Se conserva el día; confirma la hora y zona horaria en la convocatoria.'}:{})};
 }

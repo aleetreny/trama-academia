@@ -11,6 +11,7 @@ import {destinationLabel, funderCountryLabel,STAGES,STATUS_NAMES,statusOf,dateLa
 import type {SearchData} from '@/lib/search';
 import {sitePath} from '@/lib/site-path';
 import './selection.css';
+import {PathContext} from './doctoral-path';
 
 const Comparison = lazy(() => import('./comparison-dialog'));
 const emptyData:SearchData = {generatedAt:null,researchGeneratedAt:null,records:[],institutions:{}};
@@ -108,7 +109,7 @@ export default function Selection() {
     } finally {setExporting(false);}
   }
   return <main id="contenido" className={'wrap selection-page'+(selectedIds.length?' selection-comparing':'')}>
-    <header className="selection-heading"><div><h1>Mi selección</h1><p>Reúne las opciones que te interesan, compara sus condiciones y lleva tu lista a una hoja de cálculo.</p></div><Link href="/explorar">Seguir explorando <ArrowRight size={17}/></Link></header>
+    <header className="selection-heading"><div><h1>Mi selección</h1><p>Reúne las opciones que te interesan, compara sus condiciones y prepara tu lista corta de candidaturas.</p></div><Link href="/explorar">Seguir explorando <ArrowRight size={17}/></Link></header><PathContext/>
     <p className="selection-note" style={{marginTop:18}}>Se guarda en este navegador, sin cuenta. No se sincroniza entre dispositivos y se pierde si borras los datos del sitio. Puedes conservar una copia con «Exportar lista».</p>
     {warning && <p className="notice" role="alert">{warning}</p>}
     {!ready ? <p role="status">Cargando tu selección…</p> : !hasEntries ? <section className="selection-empty"><h2>Empieza por una opción que te interese.</h2><p>Pulsa «Guardar» en cualquier ficha. Podrás volver aquí para comparar hasta tres opciones y consultar los plazos, incluso después de cerrar la pestaña.</p><div className="selection-empty-links"><Link className="primary-button" href="/explorar"><Search size={17}/> Explorar oportunidades</Link><Link className="text-link" href="/programas">Ver programas recurrentes <ArrowRight size={16}/></Link></div></section> : <>

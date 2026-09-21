@@ -80,3 +80,6 @@ select:focus-visible,summary:focus-visible{outline:3px solid var(--blue);outline
 
 .comparison-country{display:block;font-size:12px;color:var(--blue);margin-bottom:6px}.recurring-results-heading:focus-visible{outline:2px solid var(--blue);outline-offset:5px}#programas-filtros,#preparar-programa{scroll-margin-top:24px}
 @media(min-width:761px) and (max-width:1050px){.site-header{height:auto;flex-wrap:wrap;gap:16px;padding-block:18px}.site-header nav{width:100%;justify-content:space-between;gap:12px;flex-wrap:wrap}}
+
+/* Resources stay reachable while primary navigation follows the doctoral journey. */
+.resource-footer{align-items:flex-start;padding-block:30px}.resource-footer>div{min-width:210px}.resource-footer p{max-width:290px}.resource-footer nav{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px 25px;max-width:670px}.resource-footer nav a{font-size:12px;min-height:44px;display:inline-flex;align-items:center}.resource-footer nav a:hover{color:var(--blue)}.guide-start-spain{margin:0 0 22px}.recurring-guide-link{font-size:13px;margin:20px 0 28px}@media(max-width:760px){.resource-footer{gap:18px}.resource-footer p{width:auto}.resource-footer nav{justify-content:flex-start;gap:0 22px}.site-header nav a{min-height:38px;display:inline-flex;align-items:center}}

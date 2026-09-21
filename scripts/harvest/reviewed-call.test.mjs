@@ -67,3 +67,48 @@ test('undated publication dates reject stale, future, impossible or changed date
  const changed=async url=>{const d=await announcementFetcher()(url);if(url===seed.url)d.body=d.body.replace(recruitment,'All places have been filled.');return d;};
  await assert.rejects(verifyProgramme(undated,changed),/call_evidence_missing/);
 });
+
+const exactIdentity='IC2026_07_04_BCAM Internship_Design and Implementation of a Real-Time Visualization System for Pedestrian Dynamics in Urban Environments';
+const scopedCall=(sourceText='Deadline: September 28th 2026, 14:00 CEST',deadline='2026-09-28')=>({...seed,stage:'grado',call:{sourceText,deadline,scope:{container:'.offer',identitySelector:'.call-name',identityText:exactIdentity,deadlineSelector:'.closing'}}});
+const offerBody=(text='Deadline: September 28th 2026, 14:00 CEST')=>`<section class="offer"><span class="call-name">${exactIdentity}</span><h3 class="closing">${text}</h3>${'Computer Science research and software development. '.repeat(8)}</section>`;
+const scopedFetcher=body=>async url=>({body:'<main>'+body+'<p>'+('Computer Science research centre. '.repeat(8))+'</p></main>',finalUrl:url,hash:'scoped-proof',checkedAt:'2026-09-21T10:00:00Z'});
+
+test('BCAM ordinal deadline retains date precision and its witnessed clock warning',async()=>{
+ const record=await verifyProgramme(scopedCall(),scopedFetcher(offerBody()));
+ assert.equal(record.deadline,'2026-09-28');assert.equal(record.deadlinePrecision,'date');
+ assert.match(record.deadlineNote,/14:00 CEST.*confirma la hora/);
+ assert.equal(effectiveStatus(record,Date.parse('2026-09-29')),'closed');
+});
+test('IMDEA application sentence supports a scoped ordinal date without borrowing the next sentence',async()=>{
+ const text='Deadline for applications is September 30th, 2026.';
+ const candidate=scopedCall(text,'2026-09-30');
+ const record=await verifyProgramme(candidate,scopedFetcher(offerBody(text+' Review starts immediately.')));
+ assert.equal(record.deadline,'2026-09-30');assert.equal(record.deadlineNote,undefined);
+ await assert.rejects(verifyProgramme({...candidate,call:{...candidate.call,sourceText:text+' Review starts immediately.'}},scopedFetcher(offerBody(text+' Review starts immediately.'))),/call_deadline_label_missing/);
+});
+test('new deadline variants need one visible local identity and cannot borrow an adjacent offer date',async()=>{
+ const candidate=scopedCall();
+ await assert.rejects(verifyProgramme({...candidate,call:{...candidate.call,scope:undefined}},scopedFetcher(offerBody())),/call_deadline_scope_missing/);
+ const elsewhere='<section class="other"><span>Another call</span><h3 class="closing">'+candidate.call.sourceText+'</h3></section>';
+ const variants=[
+  offerBody('Applications closed')+elsewhere,
+  offerBody().replace(exactIdentity,'IC2026_07_03 Other internship'),
+  offerBody()+offerBody(),
+  offerBody().replace('class="offer"','class="offer" hidden'),
+  offerBody().replace('class="call-name"','class="call-name" aria-hidden="true"'),
+  offerBody().replace('class="closing"','class="closing" style="display:none"'),
+  offerBody('<span hidden>'+candidate.call.sourceText+'</span>Applications closed')+elsewhere,
+ ];
+ for(const body of variants)await assert.rejects(verifyProgramme(candidate,scopedFetcher(body)),/call_(?:deadline_scope_mismatch|evidence_missing)/);
+});
+test('ordinal dates reject impossible days, wrong suffixes, invalid clocks and unrelated year text',async()=>{
+ for(const [text,iso,error] of [
+  ['Deadline: February 31st 2026','2026-02-31','call_deadline_mismatch'],
+  ['Deadline: September 28st 2026','2026-09-28','call_deadline_mismatch'],
+  ['Deadline: September 28th 2026, 25:00 CEST','2026-09-28','call_deadline_mismatch'],
+  ['Deadline: September 28th 2026, 14:60 CEST','2026-09-28','call_deadline_mismatch'],
+  ['Deadline: September 28th 2026, 14:00 PST','2026-09-28','call_deadline_label_missing'],
+  ['Deadline: September 28th','2026-09-28','call_deadline_label_missing'],
+  ['Intake: September 28th 2026','2026-09-28','call_deadline_label_missing'],
+ ])await assert.rejects(verifyProgramme(scopedCall(text,iso),scopedFetcher(offerBody(text)+'<p>Published 2026</p>')),new RegExp(error));
+});

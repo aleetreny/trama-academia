@@ -15,6 +15,7 @@ import {
 } from '@/lib/search';
 import {loadIndex, loadDetails} from '@/lib/web-data';
 import './explorer.css';
+import {PathContext} from './doctoral-path';
 
 const Comparison = lazy(() => import('./comparison-dialog'));
 type Options = readonly (readonly [string, string])[];
@@ -56,15 +57,16 @@ const SORT_OPTIONS: Options = [
   ['recent', 'Última comprobación'], ['institution', 'Institución A–Z'], ['title', 'Título A–Z'],
 ];
 const STARTING_SEARCHES: StartingSearch[] = [
-  {label: 'Máster con investigación', filters: {stage: 'master', kind: 'master-programme'}},
+  {label: 'Experiencias en España', filters: {stage: 'grado',country:'ES'}},
+  {label: 'Máster en España', filters: {stage: 'master', kind: 'master-programme',country:'ES'}},
   {label: 'Plazas doctorales', filters: {stage: 'doctorado', kind: 'position'}},
   {label: 'Primeras experiencias', filters: {stage: 'grado'}},
-  {label: 'Postdoc', filters: {stage: 'postdoc'}},
+  {label: 'Doctorados en España', filters: {stage: 'doctorado',kind:'position',country:'ES'}},
 ];
 const FUNDING_SEARCHES: StartingSearch[] = [
   {label: 'Financiar un máster', filters: {stage: 'master'}},
   {label: 'Financiar un doctorado', filters: {stage: 'doctorado'}},
-  {label: 'Ayudas postdoctorales', filters: {stage: 'postdoc'}},
+  {label: 'Doctorado en España', filters: {stage: 'doctorado',country:'ES'}},
   {label: 'Entidades españolas', filters: {funderCountry: 'ES'}},
 ];
 const emptyData: SearchData = {
@@ -265,8 +267,8 @@ export default function Explorer({funding = false}: {funding?: boolean}) {
         <div>
           <h1>{funding ? 'Financiación académica' : 'Oportunidades académicas'}</h1>
           <p>{funding
-            ? 'Encuentra ayudas y compara sus condiciones de acceso.'
-            : 'Busca programas y vacantes. Compara condiciones e investigación por disciplina.'}</p>
+            ? 'Becas, contratos y ayudas para dar el siguiente paso. Distingue quién financia, dónde se realiza y quién puede solicitar.'
+            : 'Encuentra experiencia investigadora, másteres y doctorados desde España. El catálogo conserva también las etapas posteriores.'}</p>
         </div>
         <div className="explorer-edition">
           <span>Edición del catálogo: {data.generatedAt ? dateLabel(data.generatedAt) : error ? 'no disponible' : 'cargando…'}</span>
@@ -274,6 +276,7 @@ export default function Explorer({funding = false}: {funding?: boolean}) {
         </div>
       </header>
 
+      <PathContext/>
       <div className="explorer-search">
         <Search size={21} aria-hidden="true"/>
         <input

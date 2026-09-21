@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:56:47.066Z",
+  "generatedAt": "2026-09-21T16:05:59.074Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -212608,6 +212608,1604 @@
           "Cambio de reglas"
         ]
       }
+    },
+    {
+      "url": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
+      "title": "BCAM — prácticas de investigación y TFM",
+      "institution": "Basque Center for Applied Mathematics (BCAM)",
+      "country": "ES",
+      "city": "Bilbao",
+      "kind": "programme",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master",
+        "doctorado"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Estudiantes de grado, máster o doctorado de matemáticas y áreas afines. Selección por el grupo o por una oferta específica; admite candidaturas internacionales. Recomienda solicitar con tres meses de antelación.",
+      "duration": "Verano, un semestre, TFM o proyecto; duración según acuerdo",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "La fuente no garantiza financiación para todas las estancias; confirmar condiciones con el grupo receptor."
+      },
+      "researchNote": "Trabajo supervisado en modelización, optimización, simulación y aplicaciones. La estancia genera entregables; puede servir de TFM. La convocatoria de visitantes sénior que comparte esta página tiene otras condiciones.",
+      "id": "0ba04b34f4b20351f8f1",
+      "applyUrl": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
+      "sourceId": "programme-0ba04b34f4b20351f8f1",
+      "sourceName": "Basque Center for Applied Mathematics (BCAM)",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:40.087Z",
+      "seenAt": "2026-09-21T15:43:40.087Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "8ce548ca2023bbd67a22f63be26c2f5d2ed2e3c5cd34b69c2dbe059b7363a615",
+        "checkedUrl": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
+        "references": [
+          {
+            "url": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:43:40.087Z",
+            "contentHash": "8ce548ca2023bbd67a22f63be26c2f5d2ed2e3c5cd34b69c2dbe059b7363a615"
+          }
+        ],
+        "checks": [
+          "Acceso y formato",
+          "Métodos"
+        ]
+      }
+    },
+    {
+      "url": "https://software.imdea.org/careers/call-for-internships/",
+      "title": "IMDEA Software — research internships",
+      "institution": "IMDEA Software Institute",
+      "country": "ES",
+      "city": "Pozuelo de Alarcón (Madrid)",
+      "kind": "programme",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Grado o máster de informática o área relacionada obtenido o próximo a concluir. Inglés completo; también admite estudiantes locales para prácticas curriculares a tiempo parcial.",
+      "duration": "Normalmente de 3 a 12 meses",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Asignación mensual, sin importe publicado; la fuente también describe acceso a prestaciones. Confirmar modalidad y condiciones de cada oferta."
+      },
+      "researchNote": "Investigación supervisada en seguridad, verificación, lenguajes y compiladores. La experiencia puede preparar una candidatura doctoral; no concede admisión ni beca de doctorado automática.",
+      "recurrence": {
+        "category": "research-stay",
+        "frequency": "rolling",
+        "calendar": "Solicitudes durante todo el año, sin fecha de corte.",
+        "editionState": "unknown",
+        "note": "Existe una ruta permanente de candidaturas; depende de selección y disponibilidad de supervisión."
+      },
+      "id": "d09ddd4c53f03b362650",
+      "applyUrl": "https://software.imdea.org/careers/call-for-internships/",
+      "sourceId": "programme-d09ddd4c53f03b362650",
+      "sourceName": "IMDEA Software Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:49:14.739Z",
+      "seenAt": "2026-09-21T15:49:14.739Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "db4b81aa457d2e21c8e41a3a53b8ecd578762ff578e5de6124de6b1bf1ce9419",
+        "checkedUrl": "https://software.imdea.org/careers/call-for-internships/",
+        "method": "official-programme-page",
+        "researchUrl": "https://software.imdea.org/careers/call-for-internships/",
+        "references": [
+          {
+            "url": "https://software.imdea.org/careers/call-for-internships/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:49:14.739Z",
+            "contentHash": "db4b81aa457d2e21c8e41a3a53b8ecd578762ff578e5de6124de6b1bf1ce9419"
+          }
+        ],
+        "checks": [
+          "Acceso, duración y financiación",
+          "Ámbito"
+        ]
+      }
+    },
+    {
+      "url": "https://networks.imdea.org/job-opportunities/career-information/",
+      "title": "IMDEA Networks — NextGen Research Internships (MSc)",
+      "institution": "IMDEA Networks Institute",
+      "country": "ES",
+      "kind": "programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Estudiantes de máster para TFM o prácticas académicas. Deben ser ciudadanos de la UE, o tener permiso de residencia español, o estudiar en una universidad española con visado de estudiante.",
+      "duration": "De 3 a 6 meses",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Ayuda de estudios competitiva para las personas seleccionadas; importe no publicado en la página general."
+      },
+      "researchNote": "Integración en un grupo de investigación en redes. El proyecto enlazado documenta sistemas distribuidos y blockchain como ejemplo de línea; su convocatoria 2025 no se declara abierta.",
+      "recurrence": {
+        "category": "research-stay",
+        "frequency": "annual",
+        "calendar": "Selección anual; consultar los proyectos y plazos de cada edición.",
+        "editionState": "unknown",
+        "note": "La página general confirma continuidad, sin fijar una convocatoria vigente."
+      },
+      "id": "d92373d204326109fafc",
+      "applyUrl": "https://networks.imdea.org/job-opportunities/career-information/",
+      "sourceId": "programme-d92373d204326109fafc",
+      "sourceName": "IMDEA Networks Institute",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:40.619Z",
+      "seenAt": "2026-09-21T15:43:40.619Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "01736766917de956b2630b9d15292b05df8d7f7032daba6453fb6acbcc96dc0c",
+        "checkedUrl": "https://networks.imdea.org/job-opportunities/career-information/",
+        "method": "official-programme-page",
+        "researchUrl": "https://networks.imdea.org/job-opportunities/career-information/",
+        "references": [
+          {
+            "url": "https://networks.imdea.org/job-opportunities/career-information/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:43:40.619Z",
+            "contentHash": "01736766917de956b2630b9d15292b05df8d7f7032daba6453fb6acbcc96dc0c"
+          },
+          {
+            "url": "https://networks.imdea.org/job/exploring-trends-vulnerabilities-in-blockchain-networks/",
+            "label": "Ejemplo de proyecto NextGen: sistemas distribuidos y redes",
+            "checkedAt": "2026-09-21T15:50:18.467Z",
+            "contentHash": "ba51a2ce92ad3766a60f7610446604587f31238335c095bbb015b0f4550ccf09"
+          }
+        ],
+        "checks": [
+          "Programa, duración y ayuda",
+          "Condiciones administrativas",
+          "Ejemplo de ámbito"
+        ]
+      }
+    },
+    {
+      "url": "https://pumps.bsc.es/",
+      "title": "PUMPS+AI — escuela de programación paralela e inteligencia artificial",
+      "institution": "Barcelona Supercomputing Center · UPC · University of Illinois",
+      "country": "ES",
+      "city": "Barcelona",
+      "kind": "programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "master",
+        "doctorado",
+        "postdoc",
+        "faculty"
+      ],
+      "programmeType": "Escuela de verano de formación investigadora",
+      "fields": [
+        "Machine learning",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "entry": "Dirigida a estudiantes de posgrado, investigadores y docentes. Requiere programación C/C++/Java o equivalente y conocimientos básicos de CUDA; puede exigir formación previa en línea.",
+      "duration": "Cinco días",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "Inscripción gratuita para academia e instituciones públicas; viaje, alojamiento y comidas a cargo del participante."
+      },
+      "researchNote": "Formación práctica en GPU, algoritmos y paralelización con laboratorios. No es un título académico ni una estancia con proyecto de investigación individual garantizado.",
+      "recurrence": {
+        "category": "summer-school",
+        "frequency": "editions",
+        "calendar": "Edición 2026: 13–17 de julio; solicitud hasta el 3 de mayo.",
+        "editionState": "past",
+        "note": "La página identifica la 16.ª edición. Consultar la próxima convocatoria; 2026 ya terminó.",
+        "edition": "2026"
+      },
+      "feeNote": "Gratuita para academia e instituciones públicas; gastos de estancia y desplazamiento no incluidos.",
+      "id": "75b51a93e1bed5a65ed3",
+      "applyUrl": "https://pumps.bsc.es/",
+      "sourceId": "programme-75b51a93e1bed5a65ed3",
+      "sourceName": "Barcelona Supercomputing Center · UPC · University of Illinois",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:41.532Z",
+      "seenAt": "2026-09-21T15:43:41.532Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "8aa856e753c2bdd7d3b3ffb4be446990ba73cf06dc414458efc11a2e31a2df80",
+        "checkedUrl": "https://pumps.bsc.es/",
+        "method": "official-programme-page",
+        "researchUrl": "https://pumps.bsc.es/",
+        "references": [
+          {
+            "url": "https://pumps.bsc.es/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:43:41.532Z",
+            "contentHash": "8aa856e753c2bdd7d3b3ffb4be446990ba73cf06dc414458efc11a2e31a2df80"
+          }
+        ],
+        "checks": [
+          "Temática, edición y acceso",
+          "Costes"
+        ]
+      }
+    },
+    {
+      "url": "https://www.bsc.es/education/graduate/internships",
+      "title": "BSC — prácticas y TFM de investigación",
+      "institution": "Barcelona Supercomputing Center (BSC-CNS)",
+      "country": "ES",
+      "city": "Barcelona",
+      "kind": "programme",
+      "stage": "master",
+      "eligibleStages": [
+        "master"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Estudiantes de máster que quieren desarrollar su tesis en un departamento de investigación del BSC. El proyecto, convenio y aceptación deben acordarse con el centro.",
+      "duration": "Según proyecto",
+      "funding": {
+        "kind": "unconfirmed",
+        "text": "La fuente no garantiza financiación para todas las estancias; confirmar condiciones con el grupo receptor."
+      },
+      "researchNote": "Ruta de prácticas con tesis en los departamentos del BSC. La fuente complementaria confirma investigación en arquitectura GPU y programación; no se traslada a esta ruta la financiación de PRACE citada en otro párrafo.",
+      "id": "2fae181f32741b472710",
+      "applyUrl": "https://www.bsc.es/education/graduate/internships",
+      "sourceId": "programme-2fae181f32741b472710",
+      "sourceName": "Barcelona Supercomputing Center (BSC-CNS)",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:41.532Z",
+      "seenAt": "2026-09-21T15:49:15.707Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "7c62cc39ef70fdf4742ca77367d70908d64a0380bb6074dd7b18475ece92b801",
+        "checkedUrl": "https://www.bsc.es/education/graduate/internships",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.bsc.es/education/graduate/internships",
+        "references": [
+          {
+            "url": "https://www.bsc.es/education/graduate/internships",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:49:15.707Z",
+            "contentHash": "7c62cc39ef70fdf4742ca77367d70908d64a0380bb6074dd7b18475ece92b801"
+          },
+          {
+            "url": "https://pumps.bsc.es/",
+            "label": "BSC: ámbito de investigación en arquitectura GPU y programación",
+            "checkedAt": "2026-09-21T15:43:41.532Z",
+            "contentHash": "8aa856e753c2bdd7d3b3ffb4be446990ba73cf06dc414458efc11a2e31a2df80"
+          }
+        ],
+        "checks": [
+          "Ruta de TFM",
+          "Ámbito de investigación BSC"
+        ]
+      }
+    },
+    {
+      "url": "https://dipc.ehu.eus/en/career/internships",
+      "title": "DIPC — summer research internships",
+      "institution": "Donostia International Physics Center (DIPC)",
+      "country": "ES",
+      "city": "Donostia / San Sebastián",
+      "kind": "programme",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Estudiantes matriculados de grado o máster con convenio de prácticas de su universidad. La matrícula fuera de la UE o del mercado único europeo se considera solo excepcionalmente; no equivale a una exclusión por nacionalidad.",
+      "duration": "Dos meses; presencial, 7 horas diarias de lunes a viernes",
+      "funding": {
+        "kind": "scholarship",
+        "amount": 750,
+        "currency": "EUR",
+        "period": "month",
+        "gross": true,
+        "text": "750 € brutos al mes. No incluye alojamiento ni desplazamiento."
+      },
+      "researchNote": "Proyecto supervisado, con presentación final breve. Para TRAMA son pertinentes las líneas de ciencia computacional y supercomputación; el conjunto incluye otras ciencias.",
+      "recurrence": {
+        "category": "research-stay",
+        "frequency": "annual",
+        "calendar": "Cada año, principalmente en verano; fechas de estancia acordadas con supervisión.",
+        "editionState": "unknown",
+        "note": "El portal dice que las solicitudes de verano están cerradas; no anuncia todavía la siguiente edición."
+      },
+      "id": "7e10dcad01de29651508",
+      "applyUrl": "https://dipc.ehu.eus/en/career/internships",
+      "sourceId": "programme-7e10dcad01de29651508",
+      "sourceName": "Donostia International Physics Center (DIPC)",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:44:16.890Z",
+      "seenAt": "2026-09-21T15:44:17.853Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "c6dae41014ed72f0cc53c3f3585b86aa9ebac42196a76abf1392d6c457a3f658",
+        "checkedUrl": "https://dipc.ehu.eus/en/career/internships",
+        "method": "official-programme-page",
+        "researchUrl": "https://dipc.ehu.eus/en/career/internships",
+        "references": [
+          {
+            "url": "https://dipc.ehu.eus/en/career/internships",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:44:17.853Z",
+            "contentHash": "c6dae41014ed72f0cc53c3f3585b86aa9ebac42196a76abf1392d6c457a3f658"
+          },
+          {
+            "url": "https://dipc.ehu.eus/en/career/internships/conditions",
+            "label": "Condiciones de las estancias DIPC",
+            "checkedAt": "2026-09-21T15:44:16.890Z",
+            "contentHash": "e2275f3dee9348576028c2b7598834520a25f26e2830d21722ed5cef6ae81f35"
+          }
+        ],
+        "checks": [
+          "Acceso, ámbito y continuidad",
+          "Condiciones económicas y administrativas"
+        ]
+      }
+    },
+    {
+      "url": "https://summerfellowships.ifae.es/",
+      "title": "IFAE Summer Fellowships — proyectos con datos, ML y computación",
+      "institution": "Institut de Física d’Altes Energies (IFAE)",
+      "country": "ES",
+      "city": "Bellaterra (Barcelona)",
+      "kind": "programme",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Machine learning",
+        "Informática"
+      ],
+      "entry": "Estudiantes de segundo, tercero o cuarto de grado en física y materias relacionadas, de cualquier nacionalidad. La afinidad y preparación dependen del proyecto.",
+      "duration": "Un mes, jornada completa",
+      "funding": {
+        "kind": "scholarship",
+        "text": "La edición 2026 ofrece una asignación modesta sin importe publicado."
+      },
+      "researchNote": "Trabajo con un investigador sénior y presentación de resultados. Las líneas relevantes incluyen análisis de ondas gravitacionales con ML, software para telescopios y redes neuronales para ATLAS; otros proyectos son principalmente experimentales.",
+      "recurrence": {
+        "category": "research-stay",
+        "frequency": "editions",
+        "calendar": "Edición 2026: 1–31 de julio; plazo de solicitud 10 de abril.",
+        "editionState": "past",
+        "note": "La fuente identifica la 11.ª edición y publica las personas seleccionadas. No es una convocatoria abierta.",
+        "edition": "2026"
+      },
+      "id": "1589945273319e027725",
+      "applyUrl": "https://summerfellowships.ifae.es/",
+      "sourceId": "programme-1589945273319e027725",
+      "sourceName": "Institut de Física d’Altes Energies (IFAE)",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:42.489Z",
+      "seenAt": "2026-09-21T15:43:42.489Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "1389a39ecb4f03cfbf7de9211173ac8c1c0060c923274fb85fdf30a40349cff6",
+        "checkedUrl": "https://summerfellowships.ifae.es/",
+        "method": "official-programme-page",
+        "researchUrl": "https://summerfellowships.ifae.es/",
+        "references": [
+          {
+            "url": "https://summerfellowships.ifae.es/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:43:42.489Z",
+            "contentHash": "1389a39ecb4f03cfbf7de9211173ac8c1c0060c923274fb85fdf30a40349cff6"
+          },
+          {
+            "url": "https://summerfellowships.ifae.es/projects/",
+            "label": "Proyectos de investigación de la edición 2026",
+            "checkedAt": "2026-09-21T15:50:18.275Z",
+            "contentHash": "42ac3d70baf3c012c08281cefe9e2af695155c98f65849a836f982f8b7f4427f"
+          }
+        ],
+        "checks": [
+          "Acceso, edición y asignación",
+          "Ámbito"
+        ]
+      }
+    },
+    {
+      "url": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
+      "title": "ICFO Summer Fellows — investigación en fotónica e información cuántica",
+      "institution": "ICFO — Institut de Ciències Fotòniques",
+      "country": "ES",
+      "city": "Castelldefels (Barcelona)",
+      "kind": "programme",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Habitualmente los dos últimos años de estudios equivalentes a máster o ingeniería; áreas admitidas incluyen matemáticas. Prioridad a estudiantes matriculados en universidades españolas; candidaturas internacionales excepcionales también se valoran.",
+      "duration": "Tres meses, dedicación completa",
+      "funding": {
+        "kind": "scholarship",
+        "amount": 600,
+        "currency": "EUR",
+        "period": "month",
+        "gross": true,
+        "text": "Edición 2026: 600 € brutos al mes y gastos de viaje elegibles; condiciones de próximas ediciones por confirmar."
+      },
+      "researchNote": "Proyecto supervisado por un grupo, formación y seminarios. La pertinencia para TRAMA se concentra en teoría de la información y computación cuántica; no todo el programa es de informática.",
+      "recurrence": {
+        "category": "research-stay",
+        "frequency": "annual",
+        "calendar": "Se lanza cada enero; en 2026 solicitud hasta el 1 de marzo y estancia entre junio y septiembre.",
+        "editionState": "past",
+        "note": "El plazo 2026 terminó; septiembre sigue siendo parte del período de estancia. La fecha de una nueva convocatoria no está confirmada.",
+        "edition": "2026"
+      },
+      "id": "de1cff5fd57b7134c0ff",
+      "applyUrl": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
+      "sourceId": "programme-de1cff5fd57b7134c0ff",
+      "sourceName": "ICFO — Institut de Ciències Fotòniques",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:42.026Z",
+      "seenAt": "2026-09-21T15:44:19.028Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "2cabc950a56d1e28aed4e2732f6fc82d33be0926d2bc441f6dae5a28dc22c4a2",
+        "checkedUrl": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
+        "references": [
+          {
+            "url": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:44:19.028Z",
+            "contentHash": "2cabc950a56d1e28aed4e2732f6fc82d33be0926d2bc441f6dae5a28dc22c4a2"
+          },
+          {
+            "url": "https://jobs.icfo.eu/?detail=1069",
+            "label": "Convocatoria Summer Fellows 2026: condiciones y plazo",
+            "checkedAt": "2026-09-21T15:43:42.026Z",
+            "contentHash": "7ffbe26bc166ba6f8781d916e121f6812fb49e9e0583eabe12fb95bf371f3ed8"
+          }
+        ],
+        "checks": [
+          "Continuidad y experiencia",
+          "Ayuda y prioridad de acceso"
+        ]
+      }
+    },
+    {
+      "url": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
+      "title": "ICFO Student Research Fellowships — TFG, TFM y proyectos",
+      "institution": "ICFO — Institut de Ciències Fotòniques",
+      "country": "ES",
+      "city": "Castelldefels (Barcelona)",
+      "kind": "programme",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Estudiantes destacados de grado o máster de universidades de todo el mundo. Selección competitiva; confirmar los requisitos concretos de cada convocatoria.",
+      "duration": "Según convocatoria y proyecto",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Número limitado de fellowships competitivas; la página permanente no precisa importe ni duración."
+      },
+      "researchNote": "Proyecto, TFG o TFM con un grupo ICFO. Las líneas de información cuántica y ciberseguridad son las de interés directo para TRAMA. Es un instrumento distinto del programa de verano.",
+      "recurrence": {
+        "category": "research-stay",
+        "frequency": "editions",
+        "calendar": "Dos convocatorias al año: octubre y febrero.",
+        "editionState": "unknown",
+        "note": "La periodicidad está documentada, pero no se afirma que la próxima convocatoria esté abierta."
+      },
+      "id": "05f88a62ef3f8d2de6ca",
+      "applyUrl": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
+      "sourceId": "programme-05f88a62ef3f8d2de6ca",
+      "sourceName": "ICFO — Institut de Ciències Fotòniques",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:48:55.136Z",
+      "seenAt": "2026-09-21T15:48:55.136Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6e052dbc4b3adb3e2102ed3bb431459b6d8b2bc6cbd197ea4c5a982caf40c69c",
+        "checkedUrl": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
+        "references": [
+          {
+            "url": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:48:55.136Z",
+            "contentHash": "6e052dbc4b3adb3e2102ed3bb431459b6d8b2bc6cbd197ea4c5a982caf40c69c"
+          },
+          {
+            "url": "https://www.icfo.eu/research/groups/",
+            "label": "Grupos elegibles: información cuántica y ciberseguridad",
+            "checkedAt": "2026-09-21T15:50:17.808Z",
+            "contentHash": "64c607743f7e693c45c6ecd38a6a94416e880792db5602c000671f9e6ec5c534"
+          }
+        ],
+        "checks": [
+          "Acceso y calendario",
+          "Ámbito de investigación"
+        ]
+      }
+    },
+    {
+      "url": "https://www.crg.eu/en/node/22832",
+      "title": "CRG — prácticas de grado y máster con proyectos computacionales",
+      "institution": "Centre for Genomic Regulation (CRG)",
+      "country": "ES",
+      "city": "Barcelona",
+      "kind": "programme",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master"
+      ],
+      "programmeType": "Prácticas de investigación",
+      "fields": [
+        "Machine learning",
+        "Informática",
+        "Estadística"
+      ],
+      "entry": "Estudiantes matriculados en grado o máster oficial; todas las nacionalidades. Requiere convenio universitario y aceptación del grupo. Las ayudas 2026/27 se reservan a nuevas incorporaciones.",
+      "duration": "Ayudas 2026/27: hasta cuatro meses; otras estancias según acuerdo",
+      "funding": {
+        "kind": "scholarship",
+        "amount": 700,
+        "currency": "EUR",
+        "period": "month",
+        "gross": true,
+        "text": "Diez proyectos 2026/27 con 700 € brutos/mes hasta 4 meses y viaje de ida/vuelta limitado a 400 € en Europa o 1.000 € fuera. Otras prácticas no tienen financiación garantizada."
+      },
+      "researchNote": "Integración en grupos; proyectos documentados de modelos de proteínas, bioinformática y análisis estadístico. Solo una parte de las plazas es computacional; consultar preparación específica.",
+      "recurrence": {
+        "category": "research-stay",
+        "frequency": "rolling",
+        "calendar": "Solicitudes de prácticas durante todo el año. Ayudas publicadas el 6 de agosto de 2026 para el curso 2026/27.",
+        "editionState": "announced",
+        "note": "La página mantiene proyectos hasta encontrar candidato. Confirmar disponibilidad de cada plaza con supervisión; no se atribuye vacante abierta a toda la ruta.",
+        "edition": "2026/27"
+      },
+      "id": "ade7456aadfd6be5eec2",
+      "applyUrl": "https://www.crg.eu/en/node/22832",
+      "sourceId": "programme-ade7456aadfd6be5eec2",
+      "sourceName": "Centre for Genomic Regulation (CRG)",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:48:02.761Z",
+      "seenAt": "2026-09-21T15:48:02.761Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "eec59b3beab7c259789dfe6e15180240953e553b744fe7902737c99ffe883ed0",
+        "checkedUrl": "https://www.crg.eu/en/node/22832",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.crg.eu/en/node/22832",
+        "references": [
+          {
+            "url": "https://www.crg.eu/en/node/22832",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:48:02.761Z",
+            "contentHash": "eec59b3beab7c259789dfe6e15180240953e553b744fe7902737c99ffe883ed0"
+          }
+        ],
+        "checks": [
+          "Acceso y ruta",
+          "Financiación específica",
+          "Ámbito"
+        ]
+      }
+    },
+    {
+      "url": "https://software.imdea.org/careers/2026-09-programmer-absint/",
+      "title": "Research Programmer in Abstract Interpretation Systems",
+      "institution": "IMDEA Software Institute",
+      "country": "ES",
+      "city": "Pozuelo de Alarcón (Madrid)",
+      "kind": "position",
+      "stage": "grado",
+      "eligibleStages": [
+        "grado",
+        "master",
+        "doctorado"
+      ],
+      "programmeType": "Personal de apoyo a la investigación",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Título de grado, máster o doctorado en informática, ingeniería informática o matemáticas; interés y experiencia en análisis de programas, lógica, compiladores o verificación. Inglés oral y escrito excelente.",
+      "duration": "La fuente describe renovación durante tres años; confirmar duración contractual inicial",
+      "funding": {
+        "kind": "salary",
+        "text": "Salario competitivo sin importe publicado; prestaciones y apoyo a viajes de investigación según la oferta."
+      },
+      "researchNote": "Apoyo a la investigación y desarrollo de Ciao/CiaoPP y herramientas de interpretación abstracta. Puede aportar experiencia investigadora antes del doctorado, pero no incluye admisión doctoral.",
+      "languages": [
+        "Inglés"
+      ],
+      "id": "a234a7ce4a33ca1ac644",
+      "applyUrl": "https://software.imdea.org/careers/2026-09-programmer-absint/",
+      "sourceId": "programme-a234a7ce4a33ca1ac644",
+      "sourceName": "IMDEA Software Institute",
+      "status": "open",
+      "verifiedAt": "2026-09-21T15:48:06.247Z",
+      "seenAt": "2026-09-21T15:48:06.247Z",
+      "deadline": "2026-09-30",
+      "deadlinePrecision": "date",
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "b0ca2cafd1618ef2fbf588322c9d63d3bc99818eb27fd4c19e36e2a7786793ee",
+        "checkedUrl": "https://software.imdea.org/careers/2026-09-programmer-absint/",
+        "method": "official-reviewed-call-page",
+        "researchUrl": "https://software.imdea.org/careers/2026-09-programmer-absint/",
+        "references": [
+          {
+            "url": "https://software.imdea.org/careers/2026-09-programmer-absint/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:48:06.247Z",
+            "contentHash": "b0ca2cafd1618ef2fbf588322c9d63d3bc99818eb27fd4c19e36e2a7786793ee"
+          }
+        ],
+        "checks": [
+          "Identidad y acceso",
+          "Condiciones"
+        ]
+      }
+    },
+    {
+      "title": "FI Joan Oró — contratos predoctorales en Cataluña · 2026",
+      "institution": "AGAUR · Generalitat de Catalunya",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Admisión o matrícula doctoral en Cataluña según el momento y la procedencia de los estudios. Nota mínima de grado 6,50/10; estudios de acceso terminados desde el 1 de enero de 2023, con excepciones. Se necesita compromiso del director. Al solicitar debe cumplirse una de estas vías: grado cursado en el EEES; máster cursado o en curso en el EEES; o matrícula doctoral catalana.",
+      "funding": {
+        "kind": "salary",
+        "text": "Contrato predoctoral y costes de dirección, tutela y evaluación doctoral de hasta cuatro matrículas. Incluye un complemento total de 3.000 EUR durante los cuatro años para estancias y formación. El salario depende de las bases y del centro contratante; no se generaliza a todo el programa la tabla salarial específica de la UPC.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "No exige suponer nacionalidad española. No tener doctorado, ni ayudas previas FI, FI-SDUR o FI-STEP, ni más de 12 meses de otros contratos predoctorales. Una candidatura por persona y director. La solicitud de la persona candidata necesita confirmación institucional. Las fechas de incorporación fueron modificadas: consultar la actualización de AGAUR. Edición y calendario: Solicitud de candidatos del 14 al 30 de enero de 2026, a las 14:00; plazo cerrado. La confirmación institucional constituye otra fase.",
+      "duration": "4 años",
+      "id": "d86e520dfb1bdce857de",
+      "applyUrl": "https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022",
+      "sourceId": "programme-d86e520dfb1bdce857de",
+      "sourceName": "AGAUR · Generalitat de Catalunya",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:45:02.183Z",
+      "seenAt": "2026-09-21T15:45:02.183Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "d5f4a19dd84eef00732cdb417d147a6ed73f756a545539a1b5b5a23817cd051c",
+        "checkedUrl": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+        "method": "official-programme-registry",
+        "researchUrl": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+        "references": [
+          {
+            "url": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026",
+            "label": "Información institucional de la convocatoria",
+            "checkedAt": "2026-09-21T15:45:02.183Z",
+            "contentHash": "d5f4a19dd84eef00732cdb417d147a6ed73f756a545539a1b5b5a23817cd051c"
+          },
+          {
+            "url": "https://talenthub.upc.edu/en/jobs/r1/joan-oro-fi-2026/convocatoria.pdf",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:45:03.816Z",
+            "contentHash": "cf0bddf3168f2e655164abccc1e3ec7f27b79aab7ac580cd78035a596ff70e1f"
+          }
+        ],
+        "checks": [
+          "Doctorado catalán, nota y acceso",
+          "Duración y formación",
+          "Límites y calendario"
+        ]
+      }
+    },
+    {
+      "title": "Axudas de apoio á etapa predoutoral — Galicia · 2026",
+      "institution": "Xunta de Galicia · Secretaría Xeral de Universidades y GAIN",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://www.edu.xunta.gal/portal/node/48703",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Matrícula en un programa oficial de doctorado de una universidad gallega en 2025/26 y candidatura presentada por una entidad gallega elegible. Comprobar nota, fecha de finalización de estudios y dedicación en las bases. La admisión sin matrícula no basta para esta edición.",
+      "funding": {
+        "kind": "salary",
+        "text": "Ayuda a la entidad para contratar personal predoctoral hasta cuatro años, con complementos de estancia y gastos asociados según las bases. Los importes anuales publicados incluyen costes sociales del contrato: no equivalen al salario bruto ni neto de la persona.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "Una sola ficha agrupa ED481A (universidades públicas gallegas) e IN606A (otras entidades). Se admiten candidaturas extracomunitarias dentro de cupos específicos y con los permisos de permanencia exigidos por el artículo 3 de las bases al formalizar el contrato; residir en España no sustituye matrícula y requisitos. La entidad selecciona y presenta la candidatura, no es una concesión directa a toda persona matriculada. Edición y calendario: Solicitudes del 28 de enero al 27 de febrero de 2026; plazo cerrado.",
+      "duration": "Hasta 4 años",
+      "id": "09913a4203e0ef182c41",
+      "applyUrl": "https://www.edu.xunta.gal/portal/node/48703",
+      "sourceId": "programme-09913a4203e0ef182c41",
+      "sourceName": "Xunta de Galicia · Secretaría Xeral de Universidades y GAIN",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:45:05.013Z",
+      "seenAt": "2026-09-21T15:48:21.336Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "944f7ab0c47db743f0d01933209daf0cd02e58927053c7ab289570c0fe9c9c68",
+        "checkedUrl": "https://www.edu.xunta.gal/portal/node/48703",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.edu.xunta.gal/portal/node/48703",
+        "references": [
+          {
+            "url": "https://www.edu.xunta.gal/portal/node/48703",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:48:21.336Z",
+            "contentHash": "944f7ab0c47db743f0d01933209daf0cd02e58927053c7ab289570c0fe9c9c68"
+          },
+          {
+            "url": "https://www.edu.xunta.gal/portal/sites/web/files/anunciog0761-191225-0005_gl.pdf",
+            "label": "Bases oficiales de la convocatoria · págs. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35",
+            "checkedAt": "2026-09-21T15:53:04.630Z",
+            "contentHash": "da2df3686e7450ad143c48fa791380f9f022af88d033bf68df80b1a662090ef7",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "url": "https://www.edu.xunta.gal/portal/sites/web/files/preguntas_frecuentes_in606a_2026.pdf",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:45:05.013Z",
+            "contentHash": "9a5f257cc7cb8e6dd1703cbcc6aa681ebbadf339bbe79905035a8e779e08d6ea"
+          }
+        ],
+        "checks": [
+          "Calendario y duración",
+          "Contrato, entidades y coste",
+          "Matrícula doctoral",
+          "Permisos al contratar"
+        ]
+      }
+    },
+    {
+      "title": "Programa Predoctoral del Gobierno Vasco — modalidades A y B en España · 2026/27",
+      "institution": "Gobierno Vasco · Departamento de Ciencia, Universidades e Innovación",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://www.euskadi.eus/agrupacion_servicios/2026/predoc/web01-tramite/es/",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Empadronamiento en la CAPV al solicitar y al menos desde el 1 de enero de 2026 para la modalidad A (centro en Euskadi), o desde el 1 de enero de 2024 para la B (resto de España), con excepciones por estudios. Matrícula o admisión doctoral; puede aceptarse provisionalmente si se obtiene a más tardar el 13 de noviembre de 2026. Nota mínima según el área.",
+      "funding": {
+        "kind": "salary",
+        "text": "Financia contratos predoctorales y contempla suplementos de matrícula y movilidad sujetos a las bases. No se presenta la dotación concedida al centro como salario neto de la persona.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "Las personas extracomunitarias deben contar con permiso de residencia. Esta ficha se limita a las modalidades A y B, con centro y doctorado en la misma comunidad autónoma; la modalidad I en el extranjero requiere una revisión de destino aparte. Las áreas incluyen matemáticas, estadística, informática y computación. La residencia actual en España por sí sola no cumple la antigüedad de padrón vasco. Edición y calendario: Edición 2026/27: solicitudes en junio–julio de 2026; plazo cerrado. Las renovaciones son un trámite distinto de las nuevas ayudas.",
+      "duration": "Hasta 4 años, conforme a las bases",
+      "id": "014503a686e27cf61930",
+      "applyUrl": "https://www.euskadi.eus/agrupacion_servicios/2026/predoc/web01-tramite/es/",
+      "sourceId": "programme-014503a686e27cf61930",
+      "sourceName": "Gobierno Vasco · Departamento de Ciencia, Universidades e Innovación",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:47:20.191Z",
+      "seenAt": "2026-09-21T15:48:21.835Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "fbc245d46eedd2210d17b790b74a5a37106474fc6fcadb3a146a5f045057f83f",
+        "checkedUrl": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+        "method": "official-programme-registry",
+        "researchUrl": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+        "references": [
+          {
+            "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria-2026-predoc-gv",
+            "label": "Bases oficiales de la convocatoria · págs. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37",
+            "checkedAt": "2026-09-21T15:48:21.835Z",
+            "contentHash": "fbc245d46eedd2210d17b790b74a5a37106474fc6fcadb3a146a5f045057f83f",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37
+            ]
+          },
+          {
+            "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/predoc-ejgv-2026",
+            "label": "Información institucional de la convocatoria",
+            "checkedAt": "2026-09-21T15:47:20.191Z",
+            "contentHash": "07fe5263bd090d7afb5a8ea8fde03e3167d77836fe7625b48e35fd20e7b351af"
+          }
+        ],
+        "checks": [
+          "Edición y modalidades",
+          "Padrón, residencia y acceso",
+          "Áreas y duración"
+        ]
+      }
+    },
+    {
+      "title": "Línea 1 — contratación predoctoral en Andalucía · convocatoria 2025",
+      "institution": "Junta de Andalucía · Consejería de Universidad, Investigación e Innovación",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25908.html",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Para concurrir a esta ayuda se exige titulación de al menos 240 ECTS o alcanzar esa carga entre estudios según las bases; es un requisito distinto del acceso al doctorado. Además se exige admisión o matrícula doctoral andaluza o máster oficial finalizado o en curso que permita acceder en 2026/27. Los estudios deben haberse terminado en los cinco años anteriores a la convocatoria, con excepciones. Nota mínima 7 para Ciencias e Ingeniería y 7,5 en las demás ramas.",
+      "funding": {
+        "kind": "salary",
+        "text": "Financia la contratación predoctoral por entidades del Sistema Andaluz del Conocimiento y una estancia formativa en el extranjero de hasta tres meses. No se asigna una cuantía salarial no documentada en la página de resumen.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "Admite personas españolas, de la UE o extranjeras con autorización de residencia o estancia por estudios en España. La tesis debe obtener mención internacional. La solicitud requiere intervención del centro; cada universidad puede cerrar su plazo interno antes del plazo general. La información de Granada documenta requisitos regionales y distingue expresamente su plazo interno. Edición y calendario: Convocatoria de diciembre de 2025 tramitada en 2026; plazo de nuevas solicitudes cerrado. La UGR fijó el 22 de enero como plazo interno, no como cierre autonómico.",
+      "id": "03e10b618a64115c1eec",
+      "applyUrl": "https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25908.html",
+      "sourceId": "programme-03e10b618a64115c1eec",
+      "sourceName": "Junta de Andalucía · Consejería de Universidad, Investigación e Innovación",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:46:35.191Z",
+      "seenAt": "2026-09-21T15:46:35.191Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "f5875cd0f0a694aa79504b82bf9e1c2a55a59a5168ce28d96aa4491da6d107e1",
+        "checkedUrl": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+        "method": "official-programme-registry",
+        "researchUrl": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+        "references": [
+          {
+            "url": "https://investigacion.ugr.es/informacion/noticias/predoctoral-ja-2025",
+            "label": "Información institucional de la convocatoria",
+            "checkedAt": "2026-09-21T15:46:35.191Z",
+            "contentHash": "f5875cd0f0a694aa79504b82bf9e1c2a55a59a5168ce28d96aa4491da6d107e1"
+          }
+        ],
+        "checks": [
+          "Contrato doctoral y movilidad",
+          "Residencia y acceso",
+          "Fase interna cerrada"
+        ]
+      }
+    },
+    {
+      "title": "Doctorados industriales — Comunidad de Madrid · convocatoria 2025",
+      "institution": "Comunidad de Madrid · Consejería de Educación, Ciencia y Universidades",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Proyecto doctoral conjunto de una empresa y una entidad académica elegibles en la Comunidad de Madrid. Ambas presentan su solicitud. La candidatura individual requiere acordar proyecto, dirección, acceso doctoral y contratación con la empresa; no basta con residir en Madrid.",
+      "funding": {
+        "kind": "salary",
+        "text": "Ayuda competitiva para financiar la contratación del doctorando por la empresa y costes del proyecto en la entidad académica. La cuantía concreta y los gastos elegibles deben comprobarse en las bases y la resolución.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "La convocatoria se dirige a entidades y exige colaboración empresa–centro. La página no permite afirmar que cualquier residente pueda recibirla: comprobar requisitos personales, permiso de contratación y proceso de selección del proyecto. Los plazos de aceptación, alegaciones y recursos publicados en verano de 2026 no son nuevos plazos de solicitud. Edición y calendario: Convocatoria 2025 tramitada en 2026; la sede indica que el plazo de solicitud ha finalizado. La propuesta definitiva se publicó el 24 de agosto de 2026.",
+      "id": "6c6e22e8b76221d082fb",
+      "applyUrl": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+      "sourceId": "programme-6c6e22e8b76221d082fb",
+      "sourceName": "Comunidad de Madrid · Consejería de Educación, Ciencia y Universidades",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:56.382Z",
+      "seenAt": "2026-09-21T15:43:56.382Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "e8490b5539d5d152485024b59b34a42a214fcba658e34195dac0ea5586be6dca",
+        "checkedUrl": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+        "method": "official-programme-page",
+        "researchUrl": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+        "references": [
+          {
+            "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:43:56.382Z",
+            "contentHash": "e8490b5539d5d152485024b59b34a42a214fcba658e34195dac0ea5586be6dca"
+          }
+        ],
+        "checks": [
+          "Procedimiento cerrado",
+          "Edición",
+          "Colaboración institucional"
+        ]
+      }
+    },
+    {
+      "title": "CIACIF — contratos predoctorales de la Generalitat Valenciana · 2026",
+      "institution": "Generalitat Valenciana · Dirección General de Ciencia e Investigación",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Grado finalizado con posterioridad al 1 de enero de 2021, con ampliaciones previstas. Admisión doctoral en una universidad valenciana o la vía de máster indicada en las bases, con admisión efectiva antes del contrato. Nota mínima ponderada por rama: 8,10 en Ingeniería y Arquitectura y 8,43 en Ciencias; comprobar la rama que corresponda al título.",
+      "funding": {
+        "kind": "salary",
+        "text": "Financiación de contratos predoctorales a centros de investigación valencianos. Las dotaciones presupuestarias incluyen salario y cotización empresarial; no se muestran como remuneración personal.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "Nacionalidad española o de la UE, o autorización de residencia o estancia por estudios en España para personas extranjeras. No tener doctorado ni haber disfrutado más de 12 meses de contrato predoctoral, tanto al solicitar como al contratar. El centro beneficiario formaliza el contrato. Las fases de subsanación y recurso posteriores no reabren la convocatoria. Edición y calendario: La edición 2026 recibió solicitudes del 3 al 21 de noviembre de 2025; plazo cerrado.",
+      "duration": "Cuatro anualidades predoctorales; posible periodo posdoctoral según las bases",
+      "id": "01160beff48971d98dea",
+      "applyUrl": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+      "sourceId": "programme-01160beff48971d98dea",
+      "sourceName": "Generalitat Valenciana · Dirección General de Ciencia e Investigación",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:56.814Z",
+      "seenAt": "2026-09-21T15:43:56.814Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6b3df98d8830bf417570a42bb3060b78a880dbf9187e412b87d0cd7f51d38d6d",
+        "checkedUrl": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+        "method": "official-programme-page",
+        "researchUrl": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+        "references": [
+          {
+            "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:43:56.814Z",
+            "contentHash": "6b3df98d8830bf417570a42bb3060b78a880dbf9187e412b87d0cd7f51d38d6d"
+          }
+        ],
+        "checks": [
+          "Edición y calendario",
+          "Requisitos personales y académicos",
+          "Duración y costes"
+        ]
+      }
+    },
+    {
+      "title": "Contratos predoctorales del Gobierno de Aragón · 2026–2030",
+      "institution": "Gobierno de Aragón · Departamento de Empleo, Ciencia y Universidades",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Matrícula, admisión o preadmisión doctoral en Aragón para 2026/27 y nota ponderada mínima 6/10. Las bases distinguen títulos antiguos de licenciatura, ingeniería, arquitectura o diplomatura, grado de al menos 300 ECTS y grado más máster de al menos 300 ECTS. Para títulos no EEES exigen credencial de homologación o certificación de equivalencia conforme al RD 889/2022; es una condición específica de esta ayuda, distinta del acceso doctoral general. Finalización de estudios desde el 1 de enero de 2022, con excepciones. La entidad presenta primero la solicitud y la persona candidata aporta después sus documentos mediante PIP.",
+      "funding": {
+        "kind": "salary",
+        "text": "Subvención a centros y universidades de Aragón para formalizar contratos predoctorales. La ayuda para el coste del contrato no equivale a salario neto. El periodo de orientación posdoctoral, si procede, queda sujeto a las bases y al máximo financiable.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "Admite nacionalidad española o de la UE, o autorización de residencia en España en plazo. En general, no puede haberse disfrutado antes de un contrato predoctoral; existe una excepción acotada para contratos formalizados entre el cierre PIP y la resolución. No confundir este requisito con el límite de 12 meses de otras ayudas.",
+      "recurrence": {
+        "category": "funding",
+        "frequency": "editions",
+        "edition": "2026–2030",
+        "calendar": "Entidades: del 19 de junio al 14 de julio de 2026. Documentación de candidatos en PIP: del 15 al 31 de julio de 2026. Ambos plazos cerrados.",
+        "editionState": "past",
+        "note": "Cada edición tiene sus propias bases. Una ficha permanente no equivale a una convocatoria abierta ni reserva una plaza."
+      },
+      "duration": "Hasta 4 años; hasta 6 en los supuestos de discapacidad previstos",
+      "id": "d74fbc7c91cc2886a369",
+      "applyUrl": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+      "sourceId": "programme-d74fbc7c91cc2886a369",
+      "sourceName": "Gobierno de Aragón · Departamento de Empleo, Ciencia y Universidades",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:43:57.758Z",
+      "seenAt": "2026-09-21T15:43:57.758Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "c35e833ad29f37559e8e505ddc34767ec07748f9a67bb60c631ee0e0443eae58",
+        "checkedUrl": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+        "references": [
+          {
+            "url": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:43:57.758Z",
+            "contentHash": "c35e833ad29f37559e8e505ddc34767ec07748f9a67bb60c631ee0e0443eae58"
+          },
+          {
+            "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1452456151111&type=pdf",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:47:19.714Z",
+            "contentHash": "50b8efc8a64aef433c2cc574ecf88bbd39c245d286e8882816071c767138171b"
+          }
+        ],
+        "checks": [
+          "Acceso y nota",
+          "Títulos antiguos y título no EEES",
+          "Residencia y fase de candidato",
+          "Calendario institucional",
+          "Convocatoria anterior identificada"
+        ]
+      }
+    },
+    {
+      "title": "PR2025 — contratación predoctoral en Castilla y León",
+      "institution": "Junta de Castilla y León · Consejería de Educación",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Admisión o matrícula doctoral en una universidad de Castilla y León en 2024/25, nota media mínima 6,5 y estudios finalizados desde el 1 de enero de 2019, con excepciones. La candidatura necesita compromiso de una entidad de investigación elegible.",
+      "funding": {
+        "kind": "salary",
+        "text": "Hasta cuatro años de contratación predoctoral. Los módulos de ayuda financian salario y costes de Seguridad Social de la entidad; no se equiparan a sueldo neto.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "Es la convocatoria PR2025, resuelta en enero de 2026, y sirve como referencia para preparar futuras ediciones. Las titulaciones extranjeras necesitan la documentación y equivalencia previstas. El resumen no permite dar por elegible a cualquier residente español ni suponer nacionalidad obligatoria. Edición y calendario: Solicitudes del 19 de marzo al 16 de abril de 2025; convocatoria resuelta el 27 de enero de 2026.",
+      "duration": "Hasta 4 años",
+      "id": "f7ee449e3b82a56c3832",
+      "applyUrl": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+      "sourceId": "programme-f7ee449e3b82a56c3832",
+      "sourceName": "Junta de Castilla y León · Consejería de Educación",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:45:04.325Z",
+      "seenAt": "2026-09-21T15:45:04.325Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "216813e0a5cada0149fb098c53a534fc169a128d15d0ccef0777af14053ece9e",
+        "checkedUrl": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+        "references": [
+          {
+            "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:45:04.325Z",
+            "contentHash": "216813e0a5cada0149fb098c53a534fc169a128d15d0ccef0777af14053ece9e"
+          },
+          {
+            "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i.ficheros/1767152-Orden%20convocatoria%20ayudas%20contrataci%C3%B3n%20predoctoral.pdf",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:47:20.223Z",
+            "contentHash": "8620756853d435678e24ae8bbf5417b08855c9f33a8e12d937bdfdc48a7de29d"
+          }
+        ],
+        "checks": [
+          "Estado y duración",
+          "Requisitos",
+          "Solicitud cerrada"
+        ]
+      }
+    },
+    {
+      "title": "UCM–Santander — contratos de personal investigador en formación · 2026",
+      "institution": "Universidad Complutense de Madrid · Banco Santander",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://ucm.es/ct12-26",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Matrícula doctoral UCM en 2025/26 o acceso a doctorado en 2026/27 conforme a las bases; nota mínima 7,25 para el cupo general y 6,5 para discapacidad. Revisar los límites de fecha de titulación y obtener aval del equipo y director.",
+      "funding": {
+        "kind": "salary",
+        "text": "Contrato predoctoral con retribución conforme al EPIF y exención de precios académicos de tutela doctoral y complementos formativos en los términos de las bases. Es financiación contractual, distinta de la ayuda complementaria Santander Investigación de 2.000 EUR.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "Pueden participar personas de cualquier nacionalidad; las extranjeras necesitan autorización de trabajo o exención al incorporarse. Esta ficha comprende las vías general y de discapacidad en la UCM; excluye la modalidad de cotutela Harvard y sus plazas. No duplicar esta convocatoria con el programa general de pequeñas ayudas Santander Investigación. Edición y calendario: Solicitudes del 3 al 23 de marzo de 2026; plazo cerrado.",
+      "duration": "Hasta 4 años; el posible periodo de orientación posdoctoral se incluye en ese máximo",
+      "id": "5e5705c9399a00f7a118",
+      "applyUrl": "https://ucm.es/ct12-26",
+      "sourceId": "programme-5e5705c9399a00f7a118",
+      "sourceName": "Universidad Complutense de Madrid · Banco Santander",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:45:02.183Z",
+      "seenAt": "2026-09-21T15:45:02.183Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "0fed2a4fc9b9996d2e556a7ea2bef729c3a798f90d8f332992230cccada45313",
+        "checkedUrl": "https://ucm.es/ct12-26",
+        "method": "official-programme-page",
+        "researchUrl": "https://ucm.es/ct12-26",
+        "references": [
+          {
+            "url": "https://ucm.es/ct12-26",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:45:02.183Z",
+            "contentHash": "0fed2a4fc9b9996d2e556a7ea2bef729c3a798f90d8f332992230cccada45313"
+          },
+          {
+            "url": "https://www.ucm.es/file/bouc-convocatoria?ver=",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:45:02.183Z",
+            "contentHash": "0f908c2592886bb212762ca33dd543eadd4ad9fce6e867fa463b8f8fb012ca27"
+          }
+        ],
+        "checks": [
+          "Nacionalidad y nota",
+          "Doctorado y contrato",
+          "Calendario de solicitudes"
+        ]
+      }
+    },
+    {
+      "title": "FPI-UAM — contratos predoctorales propios · 2026",
+      "institution": "Universidad Autónoma de Madrid",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Admisión o preadmisión doctoral UAM para 2026/27, o estar finalizando los estudios que dan acceso, en los términos de las bases. Nota mínima 7,5 o 7 en ingeniería, con alternativa de pertenencia al primer decil; mínimo 6,5 para la reserva de discapacidad. Comprobar fecha de terminación de los estudios y aval del director.",
+      "funding": {
+        "kind": "salary",
+        "text": "Contrato predoctoral conforme al EPIF. Las bases incluyen una previsión de retribuciones para 2027; no se presenta esa previsión como salario garantizado en 2026. La concesión exige selección competitiva y disponibilidad de la financiación.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "No tener doctorado y cumplir los límites de ayudas predoctorales previas de las bases. Las personas extracomunitarias deben confirmar con la UAM la autorización de trabajo o exención aplicable al contratar. La residencia en España no reemplaza los requisitos académicos. El periodo posdoctoral, cuando proceda, se computa dentro de la duración máxima.",
+      "recurrence": {
+        "category": "funding",
+        "frequency": "editions",
+        "edition": "2026",
+        "calendar": "Solicitudes entre las 00:00 del 7 de septiembre y las 23:59 del 27 de septiembre de 2026. La página oficial muestra ese plazo vigente en la revisión del 21 de septiembre; confirmar antes de solicitar.",
+        "editionState": "announced",
+        "note": "Cada edición tiene sus propias bases. Una ficha permanente no equivale a una convocatoria abierta ni reserva una plaza."
+      },
+      "duration": "Hasta 4 años, o 6 en los supuestos previstos de discapacidad, descontando contratos previos",
+      "id": "6f0c9c94d4aa2dadf4ed",
+      "applyUrl": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+      "sourceId": "programme-6f0c9c94d4aa2dadf4ed",
+      "sourceName": "Universidad Autónoma de Madrid",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:46:32.798Z",
+      "seenAt": "2026-09-21T15:46:32.798Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "9c1a16c4422d648a66264e02952a321465b3931aac2aae5f90de9d8f8f2ff52a",
+        "checkedUrl": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+        "references": [
+          {
+            "url": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:46:32.798Z",
+            "contentHash": "9c1a16c4422d648a66264e02952a321465b3931aac2aae5f90de9d8f8f2ff52a"
+          },
+          {
+            "url": "https://www.uam.es/uam/media/doc/1607042045627/contratos-fpi-uam-2026-signed.pdf",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:46:33.246Z",
+            "contentHash": "e7e579dfcbefa2b169341bcdade4a9cd8c996af1cc0a116a583086396220c492"
+          }
+        ],
+        "checks": [
+          "Calendario y alcance",
+          "Criterios académicos",
+          "Previsión económica y contrato",
+          "Edición anterior identificada"
+        ]
+      }
+    },
+    {
+      "title": "FPI-UPC — contratos predoctorales propios · 2026",
+      "institution": "Universitat Politècnica de Catalunya",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Admisión o matrícula doctoral UPC, incluida la admisión condicionada en los términos de las bases. Nota mínima de grado 6,5/10 y aval de director elegible. Se requiere admisión definitiva antes de formalizar el contrato.",
+      "funding": {
+        "kind": "salary",
+        "text": "Contrato predoctoral: 20.364,88 EUR brutos/año en los dos primeros años y 25.456,20 EUR en tercero y cuarto según la convocatoria 2026. Incluye tutela doctoral de hasta cuatro matrículas; las tasas administrativas no quedan incluidas. La docencia, si se realiza, tiene su regulación y remuneración separadas.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "No tener doctorado, no haber recibido una ayuda FPI-UPC anterior ni haber disfrutado más de 12 meses de otro contrato predoctoral. Los títulos extranjeros requieren equivalencia de nota. La admisión y el permiso de contratación aplicable deben estar resueltos al incorporarse; residir en España no garantiza selección. Edición y calendario: Solicitudes del 1 al 22 de julio de 2026 a las 14:00, hora local; plazo cerrado. El calendario de resolución posterior no admite nuevas solicitudes.",
+      "duration": "Desde 1 año, con renovaciones anuales hasta un máximo de 4",
+      "id": "d52c31441a71557fd2dc",
+      "applyUrl": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+      "sourceId": "programme-d52c31441a71557fd2dc",
+      "sourceName": "Universitat Politècnica de Catalunya",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:46:32.799Z",
+      "seenAt": "2026-09-21T15:46:32.799Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "dd6421f028b1ad4df6aa3ddb5ccc51e768b3ece296dcf2b855a385cee921cfc8",
+        "checkedUrl": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+        "method": "official-programme-page",
+        "researchUrl": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+        "references": [
+          {
+            "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:46:32.799Z",
+            "contentHash": "dd6421f028b1ad4df6aa3ddb5ccc51e768b3ece296dcf2b855a385cee921cfc8"
+          },
+          {
+            "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026_es.pdf",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:47:20.922Z",
+            "contentHash": "09351662d858929942ddcd6586a56b8d7c1ac71d4cc935b97ffa263ef2d0155e"
+          }
+        ],
+        "checks": [
+          "Calendario, acceso y nota",
+          "Salario bruto",
+          "Contrato y duración"
+        ]
+      }
+    },
+    {
+      "title": "PIF EHU — contratos predoctorales propios, modalidades I y II · 2026",
+      "institution": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+      "country": "ES",
+      "funderCountry": "ES",
+      "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Ciencia de datos",
+        "Machine learning",
+        "Estadística",
+        "Informática",
+        "Matemáticas aplicadas"
+      ],
+      "programmeType": "Financiación competitiva de contratos predoctorales",
+      "entry": "Preinscripción en el programa doctoral EHU propuesto, título de acceso obtenido desde el 1 de enero de 2023 o finalización de los estudios en la vía prevista por las bases, con excepciones. Nota mínima 6,5, o 6 en titulaciones cuyo promedio sea inferior a 6,5 según el anexo. Aval de hasta tres directores elegibles; la modalidad II añade requisito de euskera.",
+      "funding": {
+        "kind": "salary",
+        "text": "Contrato predoctoral a tiempo completo, con renovaciones anuales condicionadas a matrícula, evaluación y obligaciones de formación. El salario y complementos se rigen por las bases y la normativa de contratación de la EHU.",
+        "currency": "EUR"
+      },
+      "researchNote": "Financiación para desarrollar una tesis doctoral. Puede ser pertinente para las disciplinas TRAMA cuando el proyecto, el equipo y el programa doctoral encajan; no supone una plaza específica de datos o IA ni concesión garantizada.",
+      "eligibilityNote": "No tener doctorado ni más de dos años de contratación predoctoral previa, salvo las excepciones de discapacidad previstas; el tiempo previo se descuenta de la duración máxima. Las personas no ciudadanas de la UE deben contar con autorización administrativa previa para trabajar en España al firmar el contrato. Se exige una estancia continuada en el extranjero de al menos tres meses antes de la última renovación; puede planificarse en Europa. Esta ficha cubre I y II, no las cotutelas III y IV.",
+      "recurrence": {
+        "category": "funding",
+        "frequency": "editions",
+        "edition": "2026",
+        "calendar": "Solicitudes del 15 de junio al 6 de julio de 2026; plazo cerrado. Las alegaciones publicadas en septiembre corresponden a candidaturas ya presentadas.",
+        "editionState": "past",
+        "note": "Cada edición tiene sus propias bases. Una ficha permanente no equivale a una convocatoria abierta ni reserva una plaza."
+      },
+      "duration": "De 1 a 4 años; hasta 6 en los supuestos de discapacidad, descontando contratos anteriores",
+      "id": "ee5fae1bc486cb8d16b9",
+      "applyUrl": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+      "sourceId": "programme-ee5fae1bc486cb8d16b9",
+      "sourceName": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T15:47:19.714Z",
+      "seenAt": "2026-09-21T15:47:19.714Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6770be3b1a085a4fd8963e319fadf09eddc1d5b88d76ebceb78b356fee3c79fe",
+        "checkedUrl": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+        "references": [
+          {
+            "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-21T15:47:19.714Z",
+            "contentHash": "6770be3b1a085a4fd8963e319fadf09eddc1d5b88d76ebceb78b356fee3c79fe"
+          },
+          {
+            "url": "https://www.ehu.eus/documents/d/ikerketaren-kudeaketa/convocatoria_pif-2026_es_",
+            "label": "Bases oficiales de la convocatoria",
+            "checkedAt": "2026-09-21T15:48:21.336Z",
+            "contentHash": "41fa25eb0075c60253de64aa88051be988f5561571594dee038d8d0f7ab6afb9"
+          }
+        ],
+        "checks": [
+          "Calendario original",
+          "Estancia y duración",
+          "Acceso y nota",
+          "Excepción de discapacidad y permiso",
+          "Edición anterior identificada"
+        ]
+      }
     }
   ],
   "sources": [
@@ -278205,30 +279803,504 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-0ba04b34f4b20351f8f1",
+      "name": "Basque Center for Applied Mathematics (BCAM) · BCAM — prácticas de investigación y TFM",
+      "url": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado",
+        "master",
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:40.087Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d09ddd4c53f03b362650",
+      "name": "IMDEA Software Institute · IMDEA Software — research internships",
+      "url": "https://software.imdea.org/careers/call-for-internships/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado",
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:49:14.739Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d92373d204326109fafc",
+      "name": "IMDEA Networks Institute · IMDEA Networks — NextGen Research Internships (MSc)",
+      "url": "https://networks.imdea.org/job-opportunities/career-information/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:40.619Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-75b51a93e1bed5a65ed3",
+      "name": "Barcelona Supercomputing Center · UPC · University of Illinois · PUMPS+AI — escuela de programación paralela e inteligencia artificial",
+      "url": "https://pumps.bsc.es/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "master",
+        "doctorado",
+        "postdoc",
+        "faculty"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:41.532Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-2fae181f32741b472710",
+      "name": "Barcelona Supercomputing Center (BSC-CNS) · BSC — prácticas y TFM de investigación",
+      "url": "https://www.bsc.es/education/graduate/internships",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:41.532Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-7e10dcad01de29651508",
+      "name": "Donostia International Physics Center (DIPC) · DIPC — summer research internships",
+      "url": "https://dipc.ehu.eus/en/career/internships",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado",
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:44:16.890Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-1589945273319e027725",
+      "name": "Institut de Física d’Altes Energies (IFAE) · IFAE Summer Fellowships — proyectos con datos, ML y computación",
+      "url": "https://summerfellowships.ifae.es/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:42.489Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-de1cff5fd57b7134c0ff",
+      "name": "ICFO — Institut de Ciències Fotòniques · ICFO Summer Fellows — investigación en fotónica e información cuántica",
+      "url": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado",
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:42.026Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-05f88a62ef3f8d2de6ca",
+      "name": "ICFO — Institut de Ciències Fotòniques · ICFO Student Research Fellowships — TFG, TFM y proyectos",
+      "url": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado",
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:48:55.136Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-ade7456aadfd6be5eec2",
+      "name": "Centre for Genomic Regulation (CRG) · CRG — prácticas de grado y máster con proyectos computacionales",
+      "url": "https://www.crg.eu/en/node/22832",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado",
+        "master"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:48:02.761Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-a234a7ce4a33ca1ac644",
+      "name": "IMDEA Software Institute · Research Programmer in Abstract Interpretation Systems",
+      "url": "https://software.imdea.org/careers/2026-09-programmer-absint/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "ES",
+      "stages": [
+        "grado",
+        "master",
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:48:06.247Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d86e520dfb1bdce857de",
+      "name": "AGAUR · Generalitat de Catalunya · FI Joan Oró — contratos predoctorales en Cataluña · 2026",
+      "url": "https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:45:02.183Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-09913a4203e0ef182c41",
+      "name": "Xunta de Galicia · Secretaría Xeral de Universidades y GAIN · Axudas de apoio á etapa predoutoral — Galicia · 2026",
+      "url": "https://www.edu.xunta.gal/portal/node/48703",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:45:05.013Z",
+        "pages": 3,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-014503a686e27cf61930",
+      "name": "Gobierno Vasco · Departamento de Ciencia, Universidades e Innovación · Programa Predoctoral del Gobierno Vasco — modalidades A y B en España · 2026/27",
+      "url": "https://www.euskadi.eus/agrupacion_servicios/2026/predoc/web01-tramite/es/",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:47:20.191Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-03e10b618a64115c1eec",
+      "name": "Junta de Andalucía · Consejería de Universidad, Investigación e Innovación · Línea 1 — contratación predoctoral en Andalucía · convocatoria 2025",
+      "url": "https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25908.html",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:46:35.191Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-6c6e22e8b76221d082fb",
+      "name": "Comunidad de Madrid · Consejería de Educación, Ciencia y Universidades · Doctorados industriales — Comunidad de Madrid · convocatoria 2025",
+      "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:56.382Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-01160beff48971d98dea",
+      "name": "Generalitat Valenciana · Dirección General de Ciencia e Investigación · CIACIF — contratos predoctorales de la Generalitat Valenciana · 2026",
+      "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:56.814Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d74fbc7c91cc2886a369",
+      "name": "Gobierno de Aragón · Departamento de Empleo, Ciencia y Universidades · Contratos predoctorales del Gobierno de Aragón · 2026–2030",
+      "url": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:43:57.758Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-f7ee449e3b82a56c3832",
+      "name": "Junta de Castilla y León · Consejería de Educación · PR2025 — contratación predoctoral en Castilla y León",
+      "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:45:04.325Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-5e5705c9399a00f7a118",
+      "name": "Universidad Complutense de Madrid · Banco Santander · UCM–Santander — contratos de personal investigador en formación · 2026",
+      "url": "https://ucm.es/ct12-26",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:45:02.183Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-6f0c9c94d4aa2dadf4ed",
+      "name": "Universidad Autónoma de Madrid · FPI-UAM — contratos predoctorales propios · 2026",
+      "url": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:46:32.798Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-d52c31441a71557fd2dc",
+      "name": "Universitat Politècnica de Catalunya · FPI-UPC — contratos predoctorales propios · 2026",
+      "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:46:32.799Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-ee5fae1bc486cb8d16b9",
+      "name": "Universidad del País Vasco / Euskal Herriko Unibertsitatea · PIF EHU — contratos predoctorales propios, modalidades I y II · 2026",
+      "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "ES",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T15:47:19.714Z",
+        "pages": 2,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "22876515-c3fd-4a0b-8933-1f9fbf0d844a",
+    "id": "ba54d0b1-1647-4668-9233-219007a05326",
     "type": "programme-verification",
-    "parentRunId": "97992e8e-87c6-4dd2-aa0e-f12816a87103",
-    "startedAt": "2026-09-21T14:56:44.552Z",
-    "finishedAt": "2026-09-21T14:56:47.066Z",
+    "parentRunId": "22876515-c3fd-4a0b-8933-1f9fbf0d844a",
+    "startedAt": "2026-09-21T16:05:59.073Z",
+    "finishedAt": "2026-09-21T16:05:59.074Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-83bc37a374a9066a73aa",
-        "name": "Fundación la Caixa · Becas de doctorado INPhINIT Incoming · 2026",
-        "url": "https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-incoming",
+        "id": "programme-0ba04b34f4b20351f8f1",
+        "name": "Basque Center for Applied Mathematics (BCAM) · BCAM — prácticas de investigación y TFM",
+        "url": "https://www.bcamath.org/en/join-us/bcam-visiting-programmes",
         "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
+        "type": "institution",
+        "scope": "ES",
         "stages": [
+          "grado",
+          "master",
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:38:23.785Z",
+          "checkedAt": "2026-09-21T15:43:40.087Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -278236,11 +280308,11 @@
         }
       },
       {
-        "id": "programme-77303c7cbde404788a4d",
-        "name": "Ministerio de Educación, Formación Profesional y Deportes · Beca general para grado y máster oficial · 2026/27",
-        "url": "https://www.becaseducacion.gob.es/becas-y-ayudas/universidad-grado-master/que-necesitas",
+        "id": "programme-d09ddd4c53f03b362650",
+        "name": "IMDEA Software Institute · IMDEA Software — research internships",
+        "url": "https://software.imdea.org/careers/call-for-internships/",
         "adapter": "programme",
-        "type": "funder",
+        "type": "institution",
         "scope": "ES",
         "stages": [
           "grado",
@@ -278249,19 +280321,19 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:45:04.271Z",
-          "pages": 4,
+          "checkedAt": "2026-09-21T15:49:14.739Z",
+          "pages": 1,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-6650ab4cd5f9c8b97553",
-        "name": "Barcelona School of Economics · BSE — financiación por mérito para másteres de datos · 2026/27",
-        "url": "https://bse.eu/masters-degrees/admissions",
+        "id": "programme-d92373d204326109fafc",
+        "name": "IMDEA Networks Institute · IMDEA Networks — NextGen Research Internships (MSc)",
+        "url": "https://networks.imdea.org/job-opportunities/career-information/",
         "adapter": "programme",
-        "type": "funder",
+        "type": "institution",
         "scope": "ES",
         "stages": [
           "master"
@@ -278269,7 +280341,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:45:04.271Z",
+          "checkedAt": "2026-09-21T15:43:40.619Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -278277,13 +280349,14 @@
         }
       },
       {
-        "id": "programme-1cdebedb704a01e0ff28",
-        "name": "Fundación BBVA · Becas Leonardo 2026 — proyectos individuales de investigación",
-        "url": "https://www.redleonardo.es/informacion-bases-becas-red-leonardo/",
+        "id": "programme-75b51a93e1bed5a65ed3",
+        "name": "Barcelona Supercomputing Center · UPC · University of Illinois · PUMPS+AI — escuela de programación paralela e inteligencia artificial",
+        "url": "https://pumps.bsc.es/",
         "adapter": "programme",
-        "type": "funder",
+        "type": "institution",
         "scope": "ES",
         "stages": [
+          "master",
           "doctorado",
           "postdoc",
           "faculty"
@@ -278291,69 +280364,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:38:24.658Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-dd2f4f85798e8ef2ac88",
-        "name": "Fundación Carolina · Fundación Carolina — posgrado en informática y datos · 2026/27",
-        "url": "https://www.fundacioncarolina.es/formacion/postgrado/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:36:08.188Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-89732ac8abbd560f372c",
-        "name": "Fundación Rafael del Pino · Becas de Excelencia Rafael del Pino · 2026–2027",
-        "url": "https://frdelpino.es/beca/convocatoria-becas-de-excelencia-rafael-del-pino/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "master",
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:36:08.212Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f8e19a9e715e9c403155",
-        "name": "Banco de España · Banco de España — ayudas de posgrado en economía, finanzas e innovación tecnológica · 2026–2027",
-        "url": "https://www.bde.es/f/webbde/PER/convoca/ficheros/descargar/Bases26_27.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "master",
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:26.504Z",
+          "checkedAt": "2026-09-21T15:43:41.532Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -278361,11 +280372,31 @@
         }
       },
       {
-        "id": "programme-0394ddbce61e7d9b94d9",
-        "name": "Consejo Superior de Investigaciones Científicas (CSIC) · CSIC JAE Intro 2026 — iniciación a la investigación",
-        "url": "https://sede.csic.gob.es/tramites/programa-jae/jae-intro-2026",
+        "id": "programme-2fae181f32741b472710",
+        "name": "Barcelona Supercomputing Center (BSC-CNS) · BSC — prácticas y TFM de investigación",
+        "url": "https://www.bsc.es/education/graduate/internships",
         "adapter": "programme",
-        "type": "funder",
+        "type": "institution",
+        "scope": "ES",
+        "stages": [
+          "master"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T15:43:41.532Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-7e10dcad01de29651508",
+        "name": "Donostia International Physics Center (DIPC) · DIPC — summer research internships",
+        "url": "https://dipc.ehu.eus/en/career/internships",
+        "adapter": "programme",
+        "type": "institution",
         "scope": "ES",
         "stages": [
           "grado",
@@ -278374,7 +280405,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:45:04.271Z",
+          "checkedAt": "2026-09-21T15:44:16.890Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -278382,39 +280413,19 @@
         }
       },
       {
-        "id": "programme-81ff7b34fa2087bc0f61",
-        "name": "Consejo Superior de Investigaciones Científicas (CSIC) · CSIC JAE Intro ICU 2026 — investigación en IA en el IIIA",
-        "url": "https://sede.csic.gob.es/tramites/programa-jae/convocatoria-jae-intro-icu-2026",
+        "id": "programme-1589945273319e027725",
+        "name": "Institut de Física d’Altes Energies (IFAE) · IFAE Summer Fellowships — proyectos con datos, ML y computación",
+        "url": "https://summerfellowships.ifae.es/",
         "adapter": "programme",
-        "type": "funder",
+        "type": "institution",
         "scope": "ES",
         "stages": [
-          "master"
+          "grado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:45:05.749Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-2e76600a4450077875cc",
-        "name": "Agencia Estatal de Investigación (AEI) · Doctorados Industriales — convocatoria 2025 tramitada en 2026",
-        "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-formacion-doctores-doctoras-empresas-otras-11",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:45:06.052Z",
+          "checkedAt": "2026-09-21T15:43:42.489Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -278422,51 +280433,11 @@
         }
       },
       {
-        "id": "programme-e40bb4b8d24fb07c5da2",
-        "name": "Agencia Estatal de Investigación (AEI) · Juan de la Cierva 2025 — contratación posdoctoral",
-        "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2025",
+        "id": "programme-de1cff5fd57b7134c0ff",
+        "name": "ICFO — Institut de Ciències Fotòniques · ICFO Summer Fellows — investigación en fotónica e información cuántica",
+        "url": "https://www.icfo.eu/studies/internship/fellowships/summer-fellows-program/",
         "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:45:07.115Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5aa9a4ab6fb81e4ae2ca",
-        "name": "Agencia Estatal de Investigación (AEI) · FPU 2026 — financiación predoctoral anunciada por la AEI",
-        "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-formacion-profesorado-universitario-fpu-2026",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:45:11.847Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-397142ed2e6c545d585a",
-        "name": "Ministerio de Educación, Formación Profesional y Deportes · Becas de colaboración en departamentos universitarios · 2026/27",
-        "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/general/99/998142/ficha/998142-2026.html",
-        "adapter": "programme",
-        "type": "funder",
+        "type": "institution",
         "scope": "ES",
         "stages": [
           "grado",
@@ -278475,49 +280446,49 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:39:07.112Z",
-          "pages": 1,
+          "checkedAt": "2026-09-21T15:43:42.026Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-5761665c6844f8120577",
-        "name": "Agencia Estatal de Investigación · Ramón y Cajal — incorporación posdoctoral · novedades 2026",
-        "url": "https://www.aei.gob.es/inicio-ryc",
+        "id": "programme-05f88a62ef3f8d2de6ca",
+        "name": "ICFO — Institut de Ciències Fotòniques · ICFO Student Research Fellowships — TFG, TFM y proyectos",
+        "url": "https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/",
         "adapter": "programme",
-        "type": "funder",
+        "type": "institution",
         "scope": "ES",
         "stages": [
-          "postdoc"
+          "grado",
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:41:03.637Z",
-          "pages": 1,
+          "checkedAt": "2026-09-21T15:48:55.136Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-b818ee26c3c1c76cd006",
-        "name": "COST Association · COST — Short-Term Scientific Missions, estancias de investigación en Europa",
-        "url": "https://www.cost.eu/cost-actions-event/action-networking-tools/",
+        "id": "programme-ade7456aadfd6be5eec2",
+        "name": "Centre for Genomic Regulation (CRG) · CRG — prácticas de grado y máster con proyectos computacionales",
+        "url": "https://www.crg.eu/en/node/22832",
         "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
+        "type": "institution",
+        "scope": "ES",
         "stages": [
-          "doctorado",
-          "postdoc",
-          "faculty"
+          "grado",
+          "master"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:39:07.113Z",
+          "checkedAt": "2026-09-21T15:48:02.761Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -278525,12 +280496,12 @@
         }
       },
       {
-        "id": "programme-91b15d20b1da11cc5d2b",
-        "name": "Comisión Europea · Erasmus+ · Erasmus+ — ayudas de movilidad para estudios y prácticas de investigación",
-        "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/studying-abroad",
+        "id": "programme-a234a7ce4a33ca1ac644",
+        "name": "IMDEA Software Institute · Research Programmer in Abstract Interpretation Systems",
+        "url": "https://software.imdea.org/careers/2026-09-programmer-absint/",
         "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
+        "type": "institution",
+        "scope": "ES",
         "stages": [
           "grado",
           "master",
@@ -278539,27 +280510,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:41:03.638Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d69d614c86b8c7def7da",
-        "name": "EIT Digital · EIT Digital Master School — becas de matrícula y excelencia",
-        "url": "https://masterschool.eitdigital.eu/admissions/fees",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:41:03.638Z",
+          "checkedAt": "2026-09-21T15:48:06.247Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -278567,19 +280518,39 @@
         }
       },
       {
-        "id": "programme-695bc9b3833a9afbc501",
-        "name": "Fundación Telefónica · Becas Fundación Telefónica — másteres tecnológicos · 2026",
-        "url": "https://www.fundaciontelefonica.com/becas/",
+        "id": "programme-d86e520dfb1bdce857de",
+        "name": "AGAUR · Generalitat de Catalunya · FI Joan Oró — contratos predoctorales en Cataluña · 2026",
+        "url": "https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022",
         "adapter": "programme",
         "type": "funder",
-        "scope": "EU",
+        "scope": "ES",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:36:00.420Z",
+          "checkedAt": "2026-09-21T15:45:02.183Z",
+          "pages": 2,
+          "accepted": 1,
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "id": "programme-09913a4203e0ef182c41",
+        "name": "Xunta de Galicia · Secretaría Xeral de Universidades y GAIN · Axudas de apoio á etapa predoutoral — Galicia · 2026",
+        "url": "https://www.edu.xunta.gal/portal/node/48703",
+        "adapter": "programme",
+        "type": "funder",
+        "scope": "ES",
+        "stages": [
+          "doctorado"
+        ],
+        "enabled": true,
+        "status": "healthy",
+        "report": {
+          "checkedAt": "2026-09-21T15:45:05.013Z",
           "pages": 3,
           "accepted": 1,
           "complete": true,
@@ -278587,110 +280558,9 @@
         }
       },
       {
-        "id": "programme-6f6e93f60c5dae998b3d",
-        "name": "Fundación la Caixa · Becas la Caixa de posgrado en el extranjero · 2026",
-        "url": "https://fundacionlacaixa.org/es/becas-posgrado-extranjero-convocatoria",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "master",
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:23.785Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5efd3f3ad2d8df574913",
-        "name": "Fundación la Caixa · Becas de doctorado INPhINIT Retaining · 2026",
-        "url": "https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-retaining",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:23.785Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3385638c19bf9793bf9d",
-        "name": "Fundación la Caixa · Becas posdoctorales Junior Leader Incoming · 2027",
-        "url": "https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-convocatoria-incoming",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:24.652Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-122c8843465d4719d76d",
-        "name": "Fundación la Caixa · Becas posdoctorales Junior Leader Retaining · 2027",
-        "url": "https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-convocatoria-retaining",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:24.652Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-474e0d859e6cf97525d3",
-        "name": "Agencia Estatal de Investigación (AEI) · Torres Quevedo 2025 — contratación de doctores en I+D empresarial",
-        "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-torres-quevedo-ptq-2025",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:45:07.889Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d36e176fadedbe05a4c5",
-        "name": "Fundación Ramón Areces · Ramón Areces — contratos para tesis doctorales en ciencias · 2026",
-        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/ayudas-fundacion-ramon-areces-para-la-realizacion-de-tesis-doctorales-en-ciencias-de-la-vida-y-de-la-materia-2026.html",
+        "id": "programme-014503a686e27cf61930",
+        "name": "Gobierno Vasco · Departamento de Ciencia, Universidades e Innovación · Programa Predoctoral del Gobierno Vasco — modalidades A y B en España · 2026/27",
+        "url": "https://www.euskadi.eus/agrupacion_servicios/2026/predoc/web01-tramite/es/",
         "adapter": "programme",
         "type": "funder",
         "scope": "ES",
@@ -278700,48 +280570,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:38:18.647Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-157f1b4a9b5958535291",
-        "name": "Fundación Ramón Areces · Ramón Areces — posdoctorado en el extranjero en ciencias · 2026/27",
-        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/becas-fundacion-ramon-areces-para-estudios-postdoctorales-xxxviii-convocatoria-para-ampliacion-de-estudios-en-el-extranjero-en-ciencias-de-la-vid.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:39:32.013Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-663b974cfe50d516a048",
-        "name": "Agencia Estatal de Investigación (AEI) · ATRAE 2026 — incorporación de investigadores consolidados a España",
-        "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-incentivar-incorporacion-talento-consolidado-16",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:45:08.678Z",
+          "checkedAt": "2026-09-21T15:47:20.191Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -278749,51 +280578,9 @@
         }
       },
       {
-        "id": "programme-7f6e61ed2ebb21d179e2",
-        "name": "Fundación Ramón Areces · Ramón Areces — retorno del talento, modalidades Junior y Senior · 2026",
-        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/programa-de-retorno-del-talento/edicion-2026/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:20.854Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9571e005c268d1fde048",
-        "name": "Banco Santander · universidades españolas y Fundación CSIC · Santander Investigación — ayudas predoctorales y posdoctorales · 2026",
-        "url": "https://www.santanderopenacademy.com/es/sites/scholarships/becas-santander-investigacion.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "ES",
-        "stages": [
-          "doctorado",
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:20.874Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5de313ae5f275ffdde30",
-        "name": "Agencia Estatal de Investigación (AEI) · Contratos predoctorales asociados a Proyectos de Generación de Conocimiento — PID2025",
-        "url": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-actuaciones-formacion-0",
+        "id": "programme-03e10b618a64115c1eec",
+        "name": "Junta de Andalucía · Consejería de Universidad, Investigación e Innovación · Línea 1 — contratación predoctoral en Andalucía · convocatoria 2025",
+        "url": "https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25908.html",
         "adapter": "programme",
         "type": "funder",
         "scope": "ES",
@@ -278803,49 +280590,7 @@
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:45:12.662Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-49970aaf350a85363b68",
-        "name": "Fundación Barrié · Becas Barrié de posgrado en el extranjero · 2026",
-        "url": "https://becas.fundacionbarrie.org/posgrado/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:36:04.231Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-94fce27ec2b76ad05c3a",
-        "name": "Fundación Universia · Fundación Universia — apoyo a estudiantes con discapacidad · 2026/27",
-        "url": "https://www.fundacionuniversia.net/es/becas-cursos/universidad-fp-discapacidad.html",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EU",
-        "stages": [
-          "grado",
-          "master",
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:39:32.014Z",
+          "checkedAt": "2026-09-21T15:46:35.191Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -278853,261 +280598,19 @@
         }
       },
       {
-        "id": "programme-c13aad68a1dbb75c427e",
-        "name": "Tampere University · Tampere University — becas de matrícula de máster",
-        "url": "https://www.tuni.fi/en/tau/financial-matters/tuition-fees-and-scholarships",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:37:19.052Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-18db3059b9ecde525473",
-        "name": "University of Eastern Finland · University of Eastern Finland — descuentos y exenciones parciales de máster",
-        "url": "https://www.uef.fi/en/tuition-fees-waivers-and-scholarships",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:37:21.305Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6d3deafb7972fec066de",
-        "name": "LUT University · LUT University — descuento inicial y beca de segundo año de máster",
-        "url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/early-bird-discount-and-scholarships-masters-studies",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:32.646Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5aee6c631e625e507b07",
-        "name": "Umeå University · Umeå University Scholarship for International Students",
-        "url": "https://www.umu.se/en/education/application-and-admission/scholarships/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:37:23.095Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d8700e8b4494b8eda861",
-        "name": "Örebro University · Örebro University Scholarship",
-        "url": "https://www.oru.se/english/study/master-students/scholarships/ORUscholarship/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:37:24.640Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f911c64037f11b3c94f9",
-        "name": "Åbo Akademi University · Åbo Akademi — reducciones de matrícula de máster",
-        "url": "https://www.abo.fi/en/study/apply/international-master-programmes/scholarship-programme-for-master-students/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:38.326Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-19b9e6f980f76f6de3e3",
-        "name": "University of Jyväskylä · JYU Scholarship — segundo año del máster",
-        "url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/scholarships-tuition-fees",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:39:43.818Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9297e8c119000eb1f93e",
-        "name": "Åbo Akademi University · Åbo Akademi — ayudas generales de investigación doctoral",
-        "url": "https://www.abo.fi/en/research-at-aau/research-grants/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FI",
-        "stages": [
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:39.154Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-87202d2e721656c46d62",
-        "name": "University of Tartu / Cybernetica · Cybernetica Fellowship — máster en informática y datos",
-        "url": "https://cs.ut.ee/en/content/cybernetica-fellowship",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:39:45.460Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d5bebccf9d27aadf4371",
-        "name": "Malmö University · Malmö University Excellence Scholarship — estudiantes de máster en curso",
-        "url": "https://student.mau.se/en/my-studies/scholarships/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "SE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:38:39.935Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9a1e2963c31c4f179aa0",
-        "name": "University of Tartu / MindTitan · MindTitan Scholarship — investigación en datos e inteligencia artificial",
-        "url": "https://cs.ut.ee/en/mindtitan-scholarship",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "EE",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:40:56.220Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7a2fcf61f4413bcbbc20",
-        "name": "Fundación ONCE · Fundación ONCE Investiga — doctorado y posdoctorado · 2026/27",
-        "url": "https://becas.fundaciononce.es/Paginas/BecasProgramaInvestiga.aspx",
+        "id": "programme-6c6e22e8b76221d082fb",
+        "name": "Comunidad de Madrid · Consejería de Educación, Ciencia y Universidades · Doctorados industriales — Comunidad de Madrid · convocatoria 2025",
+        "url": "https://sede.comunidad.madrid/ayudas-becas-subvenciones/ayudas-doctorados-industriales-5",
         "adapter": "programme",
         "type": "funder",
         "scope": "ES",
         "stages": [
-          "doctorado",
-          "postdoc"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:38:22.913Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-dc508c7c8576111036a5",
-        "name": "Hungarian Academy of Sciences (MTA) · Bolyai János Research Scholarship",
-        "url": "https://mta.hu/aktualis-palyazati-kiirasok/palyazat-a-magyar-tudomanyos-akademia-bolyai-janos-kutatasi-osztondijanak-elnyeresere-2026-ban-115075",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "HU",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:37:30.482Z",
+          "checkedAt": "2026-09-21T15:43:56.382Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -279115,20 +280618,19 @@
         }
       },
       {
-        "id": "programme-2417c5c09d33709aa45c",
-        "name": "Polish National Agency for Academic Exchange (NAWA) · Polish Returns — retorno de investigadores y creación de equipos",
-        "url": "https://nawa.gov.pl/en/scientists/polish-returns",
+        "id": "programme-01160beff48971d98dea",
+        "name": "Generalitat Valenciana · Dirección General de Ciencia e Investigación · CIACIF — contratos predoctorales de la Generalitat Valenciana · 2026",
+        "url": "https://sede.gva.es/es/detall-tramit?id_proc=104724",
         "adapter": "programme",
         "type": "funder",
-        "scope": "PL",
+        "scope": "ES",
         "stages": [
-          "postdoc",
-          "faculty"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:40:55.101Z",
+          "checkedAt": "2026-09-21T15:43:56.814Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -279136,101 +280638,19 @@
         }
       },
       {
-        "id": "programme-c3a7d24e0056e31fed09",
-        "name": "Polish National Agency for Academic Exchange (NAWA) · Ulam NAWA — incorporación de investigadores a Polonia",
-        "url": "https://nawa.gov.pl/en/programy-nawa/programy-nawa-alias/programy/ulam-nawa-2026-1",
+        "id": "programme-d74fbc7c91cc2886a369",
+        "name": "Gobierno de Aragón · Departamento de Empleo, Ciencia y Universidades · Contratos predoctorales del Gobierno de Aragón · 2026–2030",
+        "url": "https://www.aragon.es/tramitador/-/tramite/subvenciones-contratacion-personal-investigador-pre-doctoral-formacion/convocatoria-2026-2030",
         "adapter": "programme",
         "type": "funder",
-        "scope": "PL",
-        "stages": [
-          "postdoc",
-          "faculty"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:37:29.154Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-8802d4f9318be8cb1fb5",
-        "name": "Direção-Geral do Ensino Superior (DGES) · DGES — becas de acción social para estudios de máster",
-        "url": "https://www.dges.gov.pt/pt/pagina/bolsas-de-estudo?canal=Sou-Estudante",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "PT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:40:53.549Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a1bf0d20925968b28654",
-        "name": "University of Oxford · Clarendon — becas de máster y doctorado",
-        "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/clarendon",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "master",
-          "doctorado"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:56:04.162Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d7f62dd13ce088deff54",
-        "name": "Danish Advanced Research Academy (DARA) · DARA Open PhD Fellowships",
-        "url": "https://www.daracademy.dk/fellowship/dara-open-fellowship-call---winter-2025-26",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "DK",
+        "scope": "ES",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:37:26.831Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-caf3976f605ba94aa207",
-        "name": "The Royal Society · Newton International Fellowships — investigación posdoctoral en Reino Unido",
-        "url": "https://royalsociety.org/grants/newton-international/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:56:04.197Z",
+          "checkedAt": "2026-09-21T15:43:57.758Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -279238,39 +280658,19 @@
         }
       },
       {
-        "id": "programme-28d63c41bba4097ff234",
-        "name": "EPFL / armasuisse — Cyber-Defence Campus · CYD Master Thesis Fellowship — tesis en ciberseguridad y datos",
-        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-master/",
+        "id": "programme-f7ee449e3b82a56c3832",
+        "name": "Junta de Castilla y León · Consejería de Educación · PR2025 — contratación predoctoral en Castilla y León",
+        "url": "https://www.educa.jcyl.es/universidad/es/destacados/pr2025-ayudas-financiar-contratacion-predoctoral-personal-i",
         "adapter": "programme",
         "type": "funder",
-        "scope": "CH",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:51:28.189Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6926055ddc7db219eb51",
-        "name": "EPFL / armasuisse — Cyber-Defence Campus · CYD Doctoral Fellowships — ciberdefensa y ciencia de datos",
-        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-phd/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "CH",
+        "scope": "ES",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:51:29.606Z",
+          "checkedAt": "2026-09-21T15:45:04.325Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -279278,79 +280678,19 @@
         }
       },
       {
-        "id": "programme-5a54be3083e59302c8ce",
-        "name": "EPFL / armasuisse — Cyber-Defence Campus · CYD Distinguished Postdoctoral Fellowships",
-        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/",
+        "id": "programme-5e5705c9399a00f7a118",
+        "name": "Universidad Complutense de Madrid · Banco Santander · UCM–Santander — contratos de personal investigador en formación · 2026",
+        "url": "https://ucm.es/ct12-26",
         "adapter": "programme",
         "type": "funder",
-        "scope": "CH",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:51:30.247Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-172ef0d16b8adf95a41a",
-        "name": "EPFL AI Center / Swiss AI Initiative · EPFL AI Center and Swiss AI Initiative — Postdoctoral Fellowships",
-        "url": "https://www.epfl.ch/research/funding/epfl-programmes/ai-center/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "CH",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:51:32.030Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b43b2549764ecba4e289",
-        "name": "LabEx MILYON — Université de Lyon · MILYON — becas de máster en matemáticas e informática",
-        "url": "https://milyon.universite-lyon.fr/bourses--47496.kjsp",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FR",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:51:30.962Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9a804f56263a608e9e74",
-        "name": "Embassy of France in the United States · Chateaubriand STEM — estancia doctoral en Francia",
-        "url": "https://chateaubriand-fellowship.org/stem-application/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "FR",
+        "scope": "ES",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:51:32.663Z",
+          "checkedAt": "2026-09-21T15:45:02.183Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -279358,19 +280698,19 @@
         }
       },
       {
-        "id": "programme-68bce391e21a70793944",
-        "name": "Rosa-Luxemburg-Stiftung · Rosa-Luxemburg-Stiftung — becas doctorales y estancias en Alemania",
-        "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/doctoral-scholarship",
+        "id": "programme-6f0c9c94d4aa2dadf4ed",
+        "name": "Universidad Autónoma de Madrid · FPI-UAM — contratos predoctorales propios · 2026",
+        "url": "https://www.uam.es/uam/investigacion/oferta-empleo/FPI-UAM2026",
         "adapter": "programme",
         "type": "funder",
-        "scope": "DE",
+        "scope": "ES",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:51:32.677Z",
+          "checkedAt": "2026-09-21T15:46:32.798Z",
           "pages": 2,
           "accepted": 1,
           "complete": true,
@@ -279378,80 +280718,40 @@
         }
       },
       {
-        "id": "programme-744cd9fa30257be3cc30",
-        "name": "ASML · ASML Technology Scholarship — máster técnico en Países Bajos",
-        "url": "https://www.asml.com/en/careers/students-new-graduates/netherlands/scholarship",
+        "id": "programme-d52c31441a71557fd2dc",
+        "name": "Universitat Politècnica de Catalunya · FPI-UPC — contratos predoctorales propios · 2026",
+        "url": "https://talenthub.upc.edu/en/jobs/r1/fpi-upc-2026/fpi-upc-2026",
         "adapter": "programme",
         "type": "funder",
-        "scope": "NL",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:51:34.562Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a28d28915443aee65b8e",
-        "name": "Luxembourg National Research Fund (FNR) · FNR AFdoc — doctorado con empresa acreditada en Luxemburgo",
-        "url": "https://www.fnr.lu/funding-instruments/afdoc/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "LU",
+        "scope": "ES",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:51:35.201Z",
-          "pages": 1,
+          "checkedAt": "2026-09-21T15:46:32.799Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-e1d5017b8283ab9ac289",
-        "name": "Royal Commission for the Exhibition of 1851 · 1851 Research Fellowships — ciencias, matemáticas e ingeniería",
-        "url": "https://royalcommission1851.org/fellowships/research-fellowships",
+        "id": "programme-ee5fae1bc486cb8d16b9",
+        "name": "Universidad del País Vasco / Euskal Herriko Unibertsitatea · PIF EHU — contratos predoctorales propios, modalidades I y II · 2026",
+        "url": "https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-ehu-2026",
         "adapter": "programme",
         "type": "funder",
-        "scope": "GB",
-        "stages": [
-          "postdoc"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-21T14:51:27.834Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-6062484615f4813c9a69",
-        "name": "Fonds de la Recherche Scientifique — FNRS · FNRS Aspirant (ASP) — financiación doctoral",
-        "url": "https://www.fnrs.be/en/financements/chercheur-doctorant",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "BE",
+        "scope": "ES",
         "stages": [
           "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-21T14:51:33.084Z",
-          "pages": 4,
+          "checkedAt": "2026-09-21T15:47:19.714Z",
+          "pages": 2,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -279459,18 +280759,18 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-21T14:56:44.552Z",
-      "finishedAt": "2026-09-21T14:56:47.066Z",
-      "checkpointedAt": "2026-09-21T14:56:47.066Z",
+      "startedAt": "2026-09-21T16:05:59.073Z",
+      "finishedAt": "2026-09-21T16:05:59.074Z",
+      "checkpointedAt": "2026-09-21T16:05:59.074Z",
       "scope": "selected-programmes",
       "status": "complete",
       "complete": true,
-      "total": 61,
-      "attempted": 61,
-      "completed": 61,
+      "total": 23,
+      "attempted": 23,
+      "completed": 23,
       "inFlight": 0,
       "remaining": 0,
-      "verified": 61,
+      "verified": 23,
       "partial": 0
     }
   },

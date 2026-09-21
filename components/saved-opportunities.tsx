@@ -25,7 +25,7 @@ export function useSavedOpportunities() {
 }
 export function SavedSelectionCount() {
   const {entries} = useSavedOpportunities();
-  return entries.length ? <span className="selection-count" aria-label={`${entries.length} guardadas`}>{entries.length}</span> : null;
+  return entries.length ? <span className="selection-count" aria-label={`${entries.length} ${entries.length === 1 ? 'guardada' : 'guardadas'}`}>{entries.length}</span> : null;
 }
 export function SaveOpportunityButton({record,compact=false}:{record:SavedOpportunity;compact?:boolean}) {
   const {entries,ready,warning} = useSavedOpportunities();
