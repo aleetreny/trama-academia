@@ -39,7 +39,7 @@ for(let offset=0;offset<catalogue.records.length;offset+=64){await Promise.all(c
  await checkLinks(html,`oportunidad/${r.id}/`);
 }));}
 const guides=JSON.parse(await fs.readFile('data/country-guides.json','utf8'));
-const routes=['','explorar','financiacion','instituciones','fuentes','guia','programas',...guides.map(c=>'guia/'+c.code.toLowerCase())];
+const routes=['','explorar','financiacion','instituciones','fuentes','guia','programas','seleccion',...guides.map(c=>'guia/'+c.code.toLowerCase())];
 const pages={};
 for(const route of routes){
  const html=await fs.readFile(path.join('out',route,'index.html'),'utf8');

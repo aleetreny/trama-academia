@@ -117,6 +117,7 @@ Para comprobar el índice de observaciones en una base configurada, ejecutar `no
 | `/data/records/<id>.<hash>.json` | Ficha completa sin pérdida de evidencia; se descarga para los resultados visibles. |
 | `/oportunidad/<id>/` | HTML completo, accesible mediante enlace directo y sin ejecutar búsquedas. |
 | `/programas/` | Directorio recurrente con edición y calendario separados de vigencia. |
+| `/seleccion/` | Lista del visitante guardada en su navegador; resuelve fichas actuales desde un mismo manifiesto y permite comparar y exportar CSV. |
 | `/guia/`, `/guia/<código>/` | Comparación de dos países y 31 guías con fuentes por criterio. |
 | `/instituciones/`, `/fuentes/` | Índices independientes con filtros y paginación. |
 | `/api/catalogue`, `/api/explorer` | Copias estáticas de compatibilidad; no aceptan consultas al servidor. |

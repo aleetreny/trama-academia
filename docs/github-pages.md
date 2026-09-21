@@ -16,6 +16,8 @@ Etapa, país, área del programa, disciplina de los indicadores, tier —incluid
 
 ## Carga y actualización
 
+El buscador presenta país, área, financiación y vigencia como condiciones principales; los indicadores y los filtros especializados se despliegan aparte. Los chips permiten quitar un criterio sin restablecer toda la búsqueda. En móvil el panel se pliega y «Ver resultados» devuelve el foco a la lista. IA/AI e inteligencia artificial son equivalencias léxicas limitadas al título y los campos; ML y aprendizaje automático forman otro grupo. Las palabras cortas requieren límites de palabra para evitar coincidencias como IA dentro de Italia.
+
 - El HTML inicial no contiene el catálogo completo. Los índices de oportunidades y financiación se descargan por separado y tienen nombres con huella de contenido.
 - Solo se descargan las condiciones completas de los 12 resultados visibles, en paralelo; se conservan para comparar hasta tres fichas. Si falla una descarga, las demás permanecen disponibles y se puede reintentar la ficha afectada. La interfaz de comparación se carga al abrirla.
 - El directorio institucional y el registro de fuentes tienen sus propios índices. Las fuentes de cada institución se descargan al desplegar su sección.
@@ -52,3 +54,11 @@ El anuncio `11291c30724438736a8d`, alojado en el portal de ETH, corresponde a la
 `/guia/` compara dos países mediante ocho criterios y conserva la selección en `pais1` y `pais2`. Las 31 guías `/guia/<código>/` cubren UE27, Reino Unido, Suiza, Noruega e Islandia; cada criterio enlaza sus fuentes y distingue alcance nacional, regional o institucional. La fecha de consulta no sustituye a la fecha de actualización de la fuente. Las guías y fichas individuales tienen HTML completo.
 
 La revisión integral de septiembre añade navegación activa, adaptación a tableta, foco de resultados al paginar, recuperación de errores y verificación de enlaces y anclas de todas las fichas. Los detalles y límites están en el [informe de revisión](review-2026-09-21.md).
+
+## Selección del visitante y retorno a la búsqueda
+
+`/seleccion/` guarda hasta 50 IDs, títulos e instituciones mediante `localStorage` (`trama:selection:v1`). No envía la lista a un servidor ni sincroniza dispositivos. Los cambios se reflejan entre pestañas del mismo origen; si falla el almacenamiento, se informa de que la lista solo persistirá durante esa visita. Un valor ilegible no se sobrescribe. No se guardan salarios, requisitos ni estados como copias permanentes: se resuelven desde los índices actuales de oportunidades y financiación, leídos desde un único manifiesto. Las fichas ausentes permanecen identificadas como no disponibles.
+
+Guardar y comparar son acciones independientes. La selección pagina de 12 en 12 y permite comparar dos o tres fichas entre páginas. El CSV descarga las condiciones de la edición consultada, sus fechas y URLs; los textos que una hoja de cálculo podría interpretar como fórmulas se neutralizan. Si no se pueden leer las condiciones necesarias, la exportación muestra un error y permite volver a intentarlo.
+
+Los enlaces a fichas incluyen un parámetro `desde` cuando proceden del buscador, financiación, recurrentes o selección. Su lector solo admite esas cuatro rutas internas, conserva consultas acotadas y rechaza destinos externos. Sin JavaScript o sin contexto válido, cada ficha conserva un enlace de vuelta seguro según su tipo. La selección depende de JavaScript y de los datos del navegador; borrarlos también borra la lista personal.

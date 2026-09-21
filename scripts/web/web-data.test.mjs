@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {readJson,loadDetails,loadIndex} from '../../lib/web-data.ts';
+import {readJson,loadDetails,loadIndex,loadIndexes} from '../../lib/web-data.ts';
 const response=value=>({ok:true,json:async()=>value});
 const detail=id=>({id,entry:'Máster',funding:{kind:'salary',text:'Consultar convocatoria'}});
 
@@ -46,4 +46,41 @@ test('malformed detail and manifest data are reported as unavailable',async t=>{
  t.mock.method(globalThis,'fetch',async ()=>response({}));
  assert.deepEqual((await loadDetails(['data/invalid-detail.json'])).failedPaths,['data/invalid-detail.json']);
  await assert.rejects(loadIndex('sources',true),/Índice no disponible/);
+});
+
+test('parallel indexes share one manifest even when a new edition appears during their requests',{timeout:1000},async t=>{
+ let revision=1,manifestReads=0,releaseExplorer;
+ const calls=[];
+ t.mock.method(globalThis,'fetch',async (url,options)=>{
+  calls.push(url);
+  assert.equal(options.cache,'no-cache','explicit refresh applies to the manifest and indexes');
+  if(url.endsWith('/manifest.json')){
+   manifestReads++;
+   return response({paths:{explorer:`data/shared-edition-${revision}-explorer.json`,funding:`data/shared-edition-${revision}-funding.json`}});
+  }
+  if(url.endsWith('shared-edition-1-explorer.json')){
+   revision=2;
+   return new Promise(resolve=>{releaseExplorer=()=>resolve(response({revision:1,index:'explorer'}));});
+  }
+  assert.ok(url.endsWith('shared-edition-1-funding.json'),'funding must use the same captured edition');
+  assert.ok(releaseExplorer,'the explorer request was already started');
+  releaseExplorer();
+  return response({revision:1,index:'funding'});
+ });
+ const indexes=await loadIndexes(['explorer','funding'],true);
+ assert.deepEqual(indexes,[{revision:1,index:'explorer'},{revision:1,index:'funding'}]);
+ assert.equal(revision,2,'the simulated publication changed while downloading the indexes');
+ assert.equal(manifestReads,1);
+ assert.equal(calls.length,3);
+});
+
+test('all requested index paths are validated before any index request starts',async t=>{
+ const calls=[];
+ t.mock.method(globalThis,'fetch',async url=>{
+  calls.push(url);
+  return response({paths:{explorer:'data/valid-explorer.json',funding:' '}});
+ });
+ await assert.rejects(loadIndexes(['explorer','funding'],true),/Índice no disponible/);
+ assert.equal(calls.length,1);
+ assert.ok(calls[0].endsWith('/manifest.json'));
 });

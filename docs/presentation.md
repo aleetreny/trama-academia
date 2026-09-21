@@ -7,12 +7,13 @@ TRAMA reúne oportunidades académicas europeas en ciencia de datos, aprendizaje
 ## Recorrido de cinco minutos
 
 1. **Portada:** elegir una etapa del recorrido académico. Los contadores describen el catálogo y distinguen los programas de las vacantes.
-2. **Explorar:** elegir una disciplina para ordenar por fortaleza investigadora, combinar país, tier y financiación, buscar una institución o un tema y seleccionar hasta tres fichas para comparar. En móvil, la tabla se desplaza lateralmente.
+2. **Explorar:** empezar por másteres, plazas doctorales, primeras experiencias o postdoc; combinar país, área, financiación y vigencia. Los indicadores y el tier están en su apartado; cada filtro activo puede quitarse por separado. En móvil, «Ver resultados» cierra los filtros y lleva a la lista.
 3. **Una ficha:** revisar acceso, componente investigador, costes y financiación; comprobar el estado y abrir la fuente institucional. La existencia del programa no significa que admita solicitudes ahora. Un trabajo final puede tener modalidades distintas y no siempre es una tesis original obligatoria.
 4. **Programas recurrentes:** filtrar escuelas, estancias y ayudas por tipo, nivel de acceso y país de la edición documentada. Mostrar la diferencia entre calendario de referencia, frecuencia y apertura efectiva. Las escuelas de verano no otorgan por sí mismas un título de máster o doctorado.
 5. **Financiación:** distinguir una beca convocada de una familia de ayudas, una exención condicionada o un contrato. Los importes conservan su moneda y periodo.
 6. **El doctorado en Europa:** comparar dos países en ocho criterios y abrir sus guías individuales. Mostrar las fuentes de cada criterio y su ámbito nacional, regional o institucional.
 7. **Instituciones y fuentes:** consultar indicadores y tiers por disciplina, desplegar fuentes y revisar cobertura e incidencias. Una muestra insuficiente aparece sin tier; localizar una institución no equivale a revisar toda su oferta.
+8. **Mi selección:** guardar opciones desde el catálogo, los recurrentes o una ficha; volver a ellas, comparar dos o tres y exportar sus condiciones actuales con las fuentes. La lista permanece en el mismo navegador, sin cuenta ni sincronización entre dispositivos. El retorno desde una ficha conserva los filtros y la página del buscador o del directorio recurrente.
 
 ## Cifras de la revisión del 21 de septiembre de 2026
 

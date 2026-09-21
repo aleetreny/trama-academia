@@ -14,6 +14,8 @@ La edición publicada tras la revisión contiene **3.637 registros, 3.201 fuente
 
 ## Qué debe leer el siguiente agente
 
+Después de la revisión del catálogo, el usuario autorizó una mejora estructural del recorrido. El buscador agrupa filtros por condiciones e indicadores, ofrece búsquedas de partida y chips removibles; `/seleccion/` conserva hasta 50 identidades y etiquetas en el navegador, compara condiciones actuales y exporta CSV. Las fichas restauran el contexto mediante `desde`, validado contra rutas internas. Las siglas IA/AI y ML se buscan como conceptos en título y campos, evitando coincidencias por subcadenas de países. Esta evolución no modifica el catálogo, la cola ni Neon. Ver [recorrido y selección](usability-2026-09-21.md), `PRODUCT.md` y `DESIGN.md`.
+
 1. `AGENTS.md` y este documento: alcance vigente, prioridades y precauciones de continuidad.
 2. [README](../README.md), [operación](operations.md) y [GitHub Pages](github-pages.md): estructura, ejecución, refresco, filtros, rendimiento y despliegue.
 3. [Descubrimiento institucional](institution-discovery.md), [adaptadores](source-adapters.md) y los informes de revisión por país en `docs/`: metodología, evidencia y límites.

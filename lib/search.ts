@@ -11,6 +11,25 @@ const choices:Partial<Record<keyof Filters,readonly string[]>>={stage:['all',...
 export function readFilters(params:URLSearchParams):Filters{const f={...defaults};for(const [key,param] of Object.entries(keys)){const value=params.get(param);if(value===null)continue;if(key==='q')f.q=value.slice(0,200);else if(key==='page'){const p=Number(value);f.page=Number.isSafeInteger(p)&&p>0?p:1;}else if(choices[key as keyof Filters]?.includes(value))(f as unknown as Record<string,unknown>)[key]=value;}return f;}
 export function filterQuery(f:Filters){const q=new URLSearchParams();for(const [k,param] of Object.entries(keys)){const key=k as keyof Filters;if(f[key]!==defaults[key])q.set(param,String(f[key]));}return q;}
 export const normaliseSearch=(s:string)=>s.normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase();
+// These are lexical equivalents, not inferred disciplines: IA and ML remain
+// separate, and neither implies that a generic data-science course teaches it.
+const thematicAliases=[['ia','ai','inteligencia artificial','artificial intelligence'],['ml','machine learning','aprendizaje automatico']];
+type SearchTerm={text:string;pattern?:RegExp;thematic?:boolean};
+function wholeWords(terms:string[]){
+ const alternatives=terms.map(term=>term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replaceAll(' ','\\s+'));
+ return new RegExp('(?:^|[^\\p{L}\\p{N}_])(?:'+alternatives.join('|')+')(?=$|[^\\p{L}\\p{N}_])','u');
+}
+function searchTerms(query:string):SearchTerm[]{
+ const words=normaliseSearch(query.trim()).split(/\s+/).filter(Boolean),terms:SearchTerm[]=[];
+ for(let index=0;index<words.length;index++){
+  const pair=words[index]+' '+(words[index+1]||'');
+  const phraseAliases=thematicAliases.find(aliases=>aliases.includes(pair));
+  const aliases=phraseAliases||thematicAliases.find(group=>group.includes(words[index]));
+  if(aliases){terms.push({text:words[index],pattern:wholeWords(aliases),thematic:true});if(phraseAliases)index++;}
+  else terms.push({text:words[index],...(/^[a-z]{2,3}$/.test(words[index])?{pattern:wholeWords([words[index]])}:{})});
+ }
+ return terms;
+}
 export const recordStatus=(r:SearchRecord,now=Date.now())=>statusOf(r,now);
 export function researchMetric(r:SearchRecord,data:SearchData,subject:string){return r.researchInstitutionId?data.institutions[r.researchInstitutionId]?.metrics[subject]:undefined;}
 export const isRanked=(m:ResearchMetric|undefined)=>Boolean(m?.tier&&Number.isFinite(m.score));
@@ -18,12 +37,12 @@ export function descendingMetric(a:number|null|undefined,b:number|null|undefined
 const fundingGroups:Record<string,string[]>={salary:['salary','employment'],scholarship:['scholarship','partial-scholarship','allowance'],waiver:['tuition-waiver','tuition','fee-waiver'],grant:['grant','mobility-grant','research-grant','project-grant'],mixed:['mixed'],unconfirmed:['unconfirmed']};
 const languagePatterns:Record<string,RegExp>={english:/\b(ingles|english)\b/,spanish:/\b(espanol|castellano|spanish)\b/,french:/\b(frances|french)\b/,german:/\b(aleman|german|deutsch)\b/};
 export function selectRecords(data:SearchData,f:Filters,now=Date.now()){
- const words=normaliseSearch(f.q.trim()).split(/\s+/).filter(Boolean);
+ const terms=searchTerms(f.q);
  const rows=data.records.filter(r=>{
   const status=recordStatus(r,now),m=researchMetric(r,data,f.subject),ranked=isRanked(m);
   if(f.stage!=='all'&&r.stage!==f.stage&&!r.eligibleStages?.includes(f.stage as Opportunity['stage']))return false;
   if(f.country!=='all'&&r.country!==f.country||f.field!=='all'&&!r.fields.includes(f.field))return false;
-  if(words.length){const text=normaliseSearch([r.title,r.institution,r.city,COUNTRY_NAMES[r.country],...r.fields].join(' '));if(!words.every(w=>text.includes(w)))return false;}
+  if(terms.length){const text=normaliseSearch([r.title,r.institution,r.city,COUNTRY_NAMES[r.country],...r.fields].join(' ')),theme=normaliseSearch([r.title,...r.fields].join(' '));if(!terms.every(term=>term.pattern?term.pattern.test(term.thematic?theme:text):text.includes(term.text)))return false;}
   if(f.kind!=='all'&&(f.kind==='master-programme'?r.kind!=='programme'||r.stage!=='master'||r.recurrence?.category==='summer-school':f.kind==='programme'?!r.kind.includes('programme'):r.kind!=='position'))return false;
   if(f.status!=='all'&&(f.status==='current'?['closed','unverified'].includes(status):status!==f.status))return false;
   if(f.tier==='ranked'&&!ranked||f.tier==='unranked'&&ranked||f.tier==='T1T2'&&!['T1','T2'].includes(m?.tier||'')||/^T[1-4]$/.test(f.tier)&&m?.tier!==f.tier)return false;

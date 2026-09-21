@@ -62,3 +62,56 @@ test('a summer school accessible to masters students is not a masters degree',()
  assert.deepEqual(selectRecords(input,{...defaults,kind:'master-programme'},now).map(r=>r.id),['degree']);
  assert.equal(selectRecords(input,{...defaults,stage:'master',kind:'programme'},now).length,2);
 });
+
+test('AI equivalents match titles and fields, not Italy, institutions or generic data science',()=>{
+ const input={records:[
+  record('english',{title:'MSc Artificial Intelligence',institution:'ETH Zürich'}),
+  record('spanish',{title:'Máster en Inteligencia Artificial'}),
+  record('short',{title:'Responsible AI'}),
+  record('field',{title:'Advanced methods',fields:['Inteligencia artificial']}),
+  record('italy',{title:'Mathematical Engineering',institution:'University of Padua',country:'IT',fields:['Matemáticas aplicadas']}),
+  record('institution-only',{title:'Mathematics',institution:'Artificial Intelligence Institute'}),
+  record('data-science',{title:'Data Science',fields:['Ciencia de datos']}),
+  record('machine-learning',{title:'Machine Learning',fields:['Machine learning']}),
+ ],institutions:{}};
+ for(const q of ['IA','ai','inteligencia artificial','artificial intelligence']){
+  assert.deepEqual(selectRecords(input,{...defaults,q},now).map(r=>r.id).sort(),['english','field','short','spanish']);
+ }
+ assert.deepEqual(selectRecords(input,{...defaults,q:'inteligencia artificial ETH zurich'},now).map(r=>r.id),['english']);
+});
+
+test('ML equivalents stay within titles and fields and never match HTML substrings',()=>{
+ const input={records:[
+  record('english',{title:'MSc Machine Learning'}),
+  record('spanish',{title:'Aprendizaje automático avanzado'}),
+  record('short',{title:'ML for health'}),
+  record('field',{title:'Statistical methods',fields:['Machine learning']}),
+  record('html',{title:'HTML systems'}),
+  record('institution-only',{title:'Mathematics',institution:'Machine Learning Institute'}),
+  record('data-science',{title:'Data Science',fields:['Ciencia de datos']}),
+  record('ai-only',{title:'Artificial Intelligence',fields:['Informática']}),
+ ],institutions:{}};
+ for(const q of ['ML','machine learning','aprendizaje automático']){
+  assert.deepEqual(selectRecords(input,{...defaults,q},now).map(r=>r.id).sort(),['english','field','short','spanish']);
+ }
+});
+
+test('short terms use word boundaries while ETH names, accents and longer partial terms still work',()=>{
+ const input={records:[
+  record('eth',{title:'Statistics',institution:'ETH Zürich'}),
+  record('methods',{title:'Methods in Zürich'}),
+  record('ra',{title:'RA in statistics'}),
+  record('transformation',{title:'Transformation of matter'}),
+  record('phd',{title:'PhD in statistics'}),
+  record('embedded-phd',{title:'GraphDB systems',institution:'Example University'}),
+  record('ds',{title:'DS methods'}),
+  record('data-science',{title:'Data Science',fields:['Ciencia de datos']}),
+ ],institutions:{}};
+ const ids=q=>selectRecords(input,{...defaults,q},now).map(r=>r.id).sort();
+ assert.deepEqual(ids('eth zurich'),['eth']);
+ assert.deepEqual(ids('RA'),['ra']);
+ assert.deepEqual(ids('PhD'),['phd']);
+ assert.deepEqual(ids('DS'),['ds']);
+ assert.deepEqual(ids('statist'),['eth','phd','ra']);
+ assert.equal(ids('   ').length,input.records.length);
+});
