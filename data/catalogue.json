@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T23:40:28.472Z",
+  "generatedAt": "2026-09-21T00:16:12.853Z",
   "records": [
     {
       "id": "abf5d818a9fb6350431b",
@@ -186788,6 +186788,700 @@
           "eligibleListMar"
         ]
       }
+    },
+    {
+      "url": "https://szd.pwr.edu.pl/en/about-us",
+      "institution": "Wrocław University of Science and Technology",
+      "country": "PL",
+      "title": "Doctoral School — Information and Communication Technology",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "4 años",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Máster o equivalente; existe una vía excepcional por logros científicos sobresalientes desde grado o tercer curso de un máster integrado. Inglés B2 acreditado. Antes de registrarse se requiere supervisor, acuerdo sobre el proyecto y compromiso del departamento sobre los recursos. Sin matrícula para cualquier nacionalidad; la solicitud tiene una tasa de 230 PLN o 55 EUR.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Beca financiada por Wrocław Tech: 4.700 PLN brutos/mes hasta el mes de la evaluación intermedia; 5.700 PLN brutos/mes después de superarla. Importes vigentes desde enero de 2026. Los proyectos externos tienen condiciones propias."
+      },
+      "researchNote": "Ruta doctoral de informática técnica y telecomunicaciones dentro de una escuela común de 13 disciplinas. Tesis original supervisada y evaluación intermedia al finalizar el segundo año. La solicitud ordinaria de 2026/27 cerró el 2 de junio y la adicional de ICT el 4 de septiembre. El calendario permite admisión ligada a financiación externa hasta el 15 de febrero de 2027; requiere un proyecto financiador y no acredita una vacante concreta. La posible ronda de febrero depende de plazas remanentes y autorización.",
+      "id": "5867f97f1b7f2bb28a94",
+      "applyUrl": "https://szd.pwr.edu.pl/en/about-us",
+      "sourceId": "programme-5867f97f1b7f2bb28a94",
+      "sourceName": "Wrocław University of Science and Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T23:55:49.065Z",
+      "seenAt": "2026-09-20T23:55:49.065Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "47810e4c53e86fec6060001cfa19f3ff27db3624faaee135dd07b58f1c32759e",
+        "checkedUrl": "https://szd.pwr.edu.pl/en/about-us",
+        "method": "official-programme-page",
+        "researchUrl": "https://szd.pwr.edu.pl/en/about-us",
+        "references": [
+          {
+            "url": "https://szd.pwr.edu.pl/en/about-us",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T23:55:49.065Z",
+            "contentHash": "47810e4c53e86fec6060001cfa19f3ff27db3624faaee135dd07b58f1c32759e"
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/o-szkole",
+            "label": "Disciplinas oficiales",
+            "checkedAt": "2026-09-21T00:07:12.493Z",
+            "contentHash": "5876812614df4477b3ca3b3177b1b453c5a5c9b022f76c493daa939af58bbcec"
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/d/YGBUKOTtQKxVvAUdqREFBPF0WUXJ9X1hOSylDC0QSFG9PFQk5Eht1FRMSWHoFPFgHFkhCcH5bXFRfOA/03itt_eng.pdf",
+            "label": "Normas de admisión ICT 2026/27 · págs. 1, 2, 3",
+            "checkedAt": "2026-09-21T00:03:56.775Z",
+            "contentHash": "f56cf1b72876876c8944e21610894a843fafd1aea42b4de9e575c27b437288fe",
+            "pages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/en/for-candidates/admission-procedure",
+            "label": "Procedimiento y tasa",
+            "checkedAt": "2026-09-20T23:55:49.663Z",
+            "contentHash": "d56e37accc1a8fb7c5709a8156ec49a0ae8bb1e32c63b953e5fd18b15645049f"
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/en/for-candidates/tuition-fees",
+            "label": "Matrícula",
+            "checkedAt": "2026-09-20T23:55:52.884Z",
+            "contentHash": "65e2ed56cb8d8700f99a527496cc9160f84a44a0206e99b3b3f32f56df1b9003"
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/en/for-candidates/scholarships",
+            "label": "Beca y evaluación intermedia",
+            "checkedAt": "2026-09-20T23:55:52.086Z",
+            "contentHash": "261800e966f0068be6709bbdfeef53804ff5d9749230e7e4fe7abad0e3385aae"
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/en/about-us/news/increase-in-doctoral-scholarship-amounts-52.html",
+            "label": "Importes mensuales desde enero de 2026",
+            "checkedAt": "2026-09-20T23:55:55.317Z",
+            "contentHash": "c2a632448d627f61136dac76a1bce64c89fd9fc56ceac0c03fb7e49827ab3fb3"
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/en/for-candidates/deadlines",
+            "label": "Calendario de admisión",
+            "checkedAt": "2026-09-20T23:55:51.267Z",
+            "contentHash": "d65f959272c6f2dcb06d5f0b9d5a7f8ec7df6247db913677d51a0ecdf179d4b4"
+          },
+          {
+            "url": "https://szd.pwr.edu.pl/en/about-us/news/additional-recruitment-in-september-2026-in-three-scientific-disciplines-54.html",
+            "label": "Ronda adicional de ICT de septiembre",
+            "checkedAt": "2026-09-20T23:55:54.472Z",
+            "contentHash": "9120359c75aaa9fafaa7b75808ccf32bfc061b1e58dee0a142a6d1ad727e922a"
+          }
+        ],
+        "checks": [
+          "duration-language",
+          "discipline",
+          "entry",
+          "tuition",
+          "application-fee",
+          "funding",
+          "funding-period",
+          "admissions",
+          "closed-additional-round"
+        ]
+      }
+    },
+    {
+      "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+      "institution": "Poznań University of Technology",
+      "country": "PL",
+      "title": "Doctoral School — Information and Communication Technology",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "8 semestres",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Máster o equivalente, con vía excepcional para candidatos de grado o tercer curso de máster integrado con logros científicos sobresalientes. Inglés B2 acreditado. Hay que elegir un único tema, aportar declaración del futuro supervisor y propuesta de plan de investigación. Selección por expediente y entrevista; el documento del título debe entregarse dentro del calendario.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "La escuela contempla beca doctoral y complementos sujetos a elegibilidad. No se ha verificado aquí la cuantía base vigente; los complementos por méritos y el fondo propio tienen reglas independientes."
+      },
+      "researchNote": "Una ruta de ICT dentro de la escuela doctoral. El plan 2026/27 incluye investigación individual, publicaciones y tesis; exige al menos 43 ECTS, estancia continua de dos meses y prácticas docentes de hasta 60 horas por curso. La entrega de solicitudes cerró el 30 de junio de 2026. Los trámites de septiembre corresponden a candidatos ya seleccionados o en lista de espera.",
+      "id": "e499ae5b4c0911f1deb4",
+      "applyUrl": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+      "sourceId": "programme-e499ae5b4c0911f1deb4",
+      "sourceName": "Poznań University of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T21:46:55.258Z",
+      "seenAt": "2026-09-20T21:46:55.258Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "cc482e535467e251127021ab5ab39b2e15135b5490a011a021f8c51419a4b1d7",
+        "checkedUrl": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+        "method": "official-programme-page",
+        "researchUrl": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+        "references": [
+          {
+            "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T21:46:55.258Z",
+            "contentHash": "cc482e535467e251127021ab5ab39b2e15135b5490a011a021f8c51419a4b1d7"
+          },
+          {
+            "url": "https://phdschool.put.poznan.pl/index.php/dziedziny-i-dyscypliny",
+            "label": "Denominación oficial de la disciplina",
+            "checkedAt": "2026-09-21T00:07:13.640Z",
+            "contentHash": "1ff99359011d5d8b87653011c6502713bcbd795467a0f67b632a9092783efd9c"
+          },
+          {
+            "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/Resolution_Admission%20rules%20to%20Doctoral%20School.pdf",
+            "label": "Requisitos y concurso de admisión · págs. 1, 2, 3",
+            "checkedAt": "2026-09-21T00:03:58.114Z",
+            "contentHash": "966b23a6ff209e6f0ed86183b27f7e16fcc14ab37393cad7fdfc2e91ab3adec2",
+            "pages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "url": "https://phdschool.put.poznan.pl/en/doctoral%20training%20program%20PhDSchool/2026-2027",
+            "label": "Plan doctoral 2026/27",
+            "checkedAt": "2026-09-21T00:05:42.113Z",
+            "contentHash": "8787f7d6ded08f142db1fc1b6fa8c906004379833cfa18f789fbe8487ecea150"
+          },
+          {
+            "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/!_Harmonogram%20_JMR_ENG.pdf",
+            "label": "Calendario 2026/27",
+            "checkedAt": "2026-09-21T00:04:07.303Z",
+            "contentHash": "871dc79b6ae102a5b4355b5a15cef2505b8f76043b6a940926c83868437b5b47"
+          },
+          {
+            "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+            "label": "Condiciones de los complementos de beca",
+            "checkedAt": "2026-09-21T00:07:10.481Z",
+            "contentHash": "f7cba620c1be8606e2b469e7ca73c78c741991d158c144cf43949323c7af231d"
+          }
+        ],
+        "checks": [
+          "discipline",
+          "entry",
+          "research-training",
+          "closed-round",
+          "funding-conditions"
+        ]
+      }
+    },
+    {
+      "url": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+      "institution": "Lodz University of Technology",
+      "country": "PL",
+      "title": "Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "duration": "Plan de 8 semestres",
+      "languages": [
+        "Inglés"
+      ],
+      "entry": "Título de segundo ciclo o equivalente; el reglamento contempla admisión excepcional con recomendación de la disciplina. Inglés mínimo B2 y entrevista en inglés. Se exige una propuesta de investigación acordada con el supervisor y declaraciones de supervisión y recursos. Tasa de solicitud: 200 PLN.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Para doctorandos sin título doctoral: estipendio mensual mínimo del 37% del salario de referencia de profesor hasta el mes de la evaluación intermedia y del 57% después. Máximo general de cuatro años, sujeto a las condiciones de continuidad. La norma excluye ciertos casos de contratación obligatoria por la propia institución con remuneración superior a ese salario de referencia."
+      },
+      "researchNote": "Ruta de informática técnica y telecomunicaciones del plan oficial 2026/27. Incluye investigación individual, seminario durante los semestres 1–8 y tesis supervisada. La solicitud ordinaria cerró el 8 de septiembre de 2026 a las 12:00 UTC+2; las entrevistas son del 18 al 24 de septiembre. Las vías de proyectos y doctorado industrial tienen requisitos y selección adicionales.",
+      "id": "07d1f7fe8595ec2e70d5",
+      "applyUrl": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+      "sourceId": "programme-07d1f7fe8595ec2e70d5",
+      "sourceName": "Lodz University of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T23:55:44.741Z",
+      "seenAt": "2026-09-20T23:55:47.984Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "09cb78122074d283bf928255c8dddc7b53e9b1b98b226f4821166039962fe80c",
+        "checkedUrl": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+        "method": "official-programme-page",
+        "researchUrl": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+        "references": [
+          {
+            "url": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T23:55:47.984Z",
+            "contentHash": "09cb78122074d283bf928255c8dddc7b53e9b1b98b226f4821166039962fe80c"
+          },
+          {
+            "url": "https://ids.p.lodz.pl/sites/ids/files/2026-04/Uchwa%C5%82a%2041_2026_program%20kszta%C5%82cenia%20ISD%20P%C5%81_0.pdf",
+            "label": "Plan doctoral aprobado en marzo de 2026 · págs. 1, 2, 3",
+            "checkedAt": "2026-09-21T00:05:44.346Z",
+            "contentHash": "3912e1448d7f2d487b943c6756e3449f26419314ee4516af747b67d7bc099b59",
+            "pages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "url": "https://ids.p.lodz.pl/sites/ids/files/2026-03/Uchwa%C5%82a_36_2026%20ws.%20zasad%20rekrutacji%202026_2027.pdf",
+            "label": "Normas de admisión 2026/27 · págs. 2, 3, 4, 5",
+            "checkedAt": "2026-09-21T00:04:08.135Z",
+            "contentHash": "af6175c7614e68e3f68e622c07d371542ab44d438a03f2b1bfde4d4186ea3846",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "url": "https://ids.p.lodz.pl/rekrutacja/dlaczego-warto-ksztalcic-sie-w-isd-pl",
+            "label": "Idioma de la formación",
+            "checkedAt": "2026-09-20T23:55:44.741Z",
+            "contentHash": "f369a51d6cc1f702177deca260866232764e84db6b56397d61b957f92ee0237e"
+          },
+          {
+            "url": "https://ids.p.lodz.pl/harmonogram-postepowania-kwalifikacyjnego-20262027-w-trybie-regularnym",
+            "label": "Calendario y tasa de solicitud",
+            "checkedAt": "2026-09-21T00:04:10.109Z",
+            "contentHash": "372f87e0ac3c70d8277b3ac48cf258203ac4a2537febebe86f2e65b0346c09cc"
+          },
+          {
+            "url": "https://ids.p.lodz.pl/doktoranci/stypendium-doktoranckie-w-isd-pl/komunikat-rektora-pl-w-sprawie-trybu-wyplacania",
+            "label": "Condiciones del estipendio — julio de 2026",
+            "checkedAt": "2026-09-21T00:04:11.820Z",
+            "contentHash": "d247ab6cc7bc1795fa3e4bc6ad8ce91b66d32e5b6d2e1b2f89d635a8d1f4bed8"
+          }
+        ],
+        "checks": [
+          "discipline-research",
+          "entry",
+          "language",
+          "admission-calendar",
+          "funding"
+        ]
+      }
+    },
+    {
+      "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+      "institution": "Nicolaus Copernicus University",
+      "country": "PL",
+      "title": "Academia Scientiarum Thoruniensis — PhD in Mathematics",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Matemáticas aplicadas",
+        "Estadística"
+      ],
+      "duration": "4 años",
+      "languages": [],
+      "entry": "Máster o equivalente y aptitud para investigación; las bases recogen excepciones de acceso. Inglés B2 acreditado o estudios anteriores cursados en inglés. CV y carta de motivación en inglés con elección de los proyectos publicados. La reforma de enero de 2026 permite preseleccionar un máximo de tres entrevistados por proyecto cuando haya más de tres aspirantes.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Estipendio doctoral publicado: 3.570,50 PLN brutos/mes antes de la evaluación intermedia y 5.500,50 después de superarla. Dirigido a personas sin doctorado; máximo general de 48 meses acumulados en escuelas doctorales, con las excepciones y condiciones de las bases."
+      },
+      "researchNote": "Se recoge la ruta de matemáticas de AST, limitada aquí a las líneas aplicadas verificadas: ecuaciones diferenciales estocásticas y optimización, y modelos geométricos de mecánica de fluidos. Son temas dentro del programa, no vacantes adicionales. El marco formativo dura cuatro años, con 34 ECTS; parte de las clases puede impartirse en inglés. La inscripción ordinaria de 2026/27 cerró el 3 de julio; la escuela publica por separado admisiones ligadas a proyectos.",
+      "id": "176f8e91babaea97b296",
+      "applyUrl": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+      "sourceId": "programme-176f8e91babaea97b296",
+      "sourceName": "Nicolaus Copernicus University",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T23:55:41.188Z",
+      "seenAt": "2026-09-20T23:55:41.188Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "6d057cede37a52509e0aa775ddef1a9a6dd4779c460c95321cc246a17b96fee5",
+        "checkedUrl": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+        "method": "official-programme-page",
+        "researchUrl": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+        "references": [
+          {
+            "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T23:55:41.188Z",
+            "contentHash": "6d057cede37a52509e0aa775ddef1a9a6dd4779c460c95321cc246a17b96fee5"
+          },
+          {
+            "url": "https://ast.umk.pl/rekrutacja/rekrutacja-2026-2027/",
+            "label": "Admisión 2026/27",
+            "checkedAt": "2026-09-20T23:55:42.342Z",
+            "contentHash": "1a1f7533e7f9c581d7aefccf053e2e6920328ac6d013c29a31a36416cb76b327"
+          },
+          {
+            "url": "https://ast.umk.pl/panel/wp-content/uploads/US.13.2021-1.pdf",
+            "label": "Bases de admisión · págs. 2, 3",
+            "checkedAt": "2026-09-21T00:04:14.835Z",
+            "contentHash": "2d5e17ff3fb8b2512e94713e3dcacc096db2e3a1185c51c7f9709d40f45add18",
+            "pages": [
+              2,
+              3
+            ]
+          },
+          {
+            "url": "https://ast.umk.pl/panel/wp-content/uploads/US.7.2026.pdf",
+            "label": "Reforma de las bases — enero de 2026",
+            "checkedAt": "2026-09-21T00:04:15.701Z",
+            "contentHash": "8606827748de3f32133f5c10447c68cae8eab339573bd466dc2f73a907395386"
+          },
+          {
+            "url": "https://ast.umk.pl/panel/wp-content/uploads/Framework_programme_of_education_2023.pdf",
+            "label": "Marco de formación doctoral · págs. 1, 2",
+            "checkedAt": "2026-09-21T00:08:17.265Z",
+            "contentHash": "a58ff916670a4f8e3548ff43c8234fac60975b3e161ed23e1e38999cf35dcd9f",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://ast.umk.pl/phd-proposals-2026-2027/",
+            "label": "Temas doctorales 2026/27",
+            "checkedAt": "2026-09-21T00:04:13.766Z",
+            "contentHash": "290a74205a3b5156bc7a6b4c0da8f0710bb05339280b1a941be8f6ee77592c4c"
+          },
+          {
+            "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_02_2026_Backward-stochastic-differential-equations-and-their-applications-to-optimization-problems.pdf",
+            "label": "Línea de ecuaciones estocásticas y optimización",
+            "checkedAt": "2026-09-21T00:05:46.104Z",
+            "contentHash": "b06073d6cfa905978cc341ecd5ddc3d9c643968993feff7ed5b09a8b5b0374f2"
+          },
+          {
+            "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_03_2026_Geometric-analysis-of-flow-in-selected-fluid-mechanics-models.pdf",
+            "label": "Línea de mecánica de fluidos",
+            "checkedAt": "2026-09-21T00:05:46.724Z",
+            "contentHash": "ee5038e5341d6b0c7b644e78123f9086ed3b4407a2825116ef04475ec69dc1d6"
+          },
+          {
+            "url": "https://ast.umk.pl/doktorant/stypendia-doktoranckie/",
+            "label": "Estipendio doctoral",
+            "checkedAt": "2026-09-20T23:55:41.486Z",
+            "contentHash": "1d2ed72eeab79305dea1e15c122bb2b2aec8e937f3654620da3e7fea80adc917"
+          }
+        ],
+        "checks": [
+          "programme",
+          "entry",
+          "selection-2026",
+          "duration",
+          "applied-research",
+          "applied-research",
+          "closed-round",
+          "funding"
+        ]
+      }
+    },
+    {
+      "url": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+      "institution": "University of Łódź",
+      "country": "PL",
+      "title": "Doctoral School of Exact and Natural Sciences — Informatyka",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "languages": [
+        "Polaco",
+        "Inglés"
+      ],
+      "entry": "Máster o equivalente; existe acceso excepcional por logros científicos de la clase definida en las bases. Propuesta doctoral original y documentación de inglés. El consentimiento previo de un supervisor no es obligatorio: quien no lo tiene solicita que se designe uno de la lista publicada. Selección por documentación y entrevista.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Mínimo institucional publicado desde enero de 2026: 3.570,50 PLN brutos/mes hasta el mes de la evaluación intermedia y 5.500,50 después. La página establece exclusión cuando la formación obliga a un contrato con la institución y salario superior a 9.650 PLN brutos mensuales. Se aplican las restantes condiciones del estipendio doctoral."
+      },
+      "researchNote": "La ruta de informática figura expresamente en el plan vigente desde 2024/25 y en los cupos de 2026/27, aunque la página internacional general todavía la omite. Incluye plan individual de investigación, tesis, seminarios y comunicación de resultados. Se puede completar la formación sin saber polaco. La ronda ordinaria recibió solicitudes del 12 al 19 de junio de 2026 y ya está cerrada. El cupo anunciado de cuatro plazas de informática corresponde a esa ronda, no a cuatro vacantes actuales.",
+      "id": "c126cc22306336842e6b",
+      "applyUrl": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+      "sourceId": "programme-c126cc22306336842e6b",
+      "sourceName": "University of Łódź",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T23:56:00.978Z",
+      "seenAt": "2026-09-20T23:56:00.978Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "8f5ea332cfecd6677f7d73638ddc0ed5006d3e1eb199bef7947c10e66af31b12",
+        "checkedUrl": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+        "references": [
+          {
+            "url": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T23:56:00.978Z",
+            "contentHash": "8f5ea332cfecd6677f7d73638ddc0ed5006d3e1eb199bef7947c10e66af31b12"
+          },
+          {
+            "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Dokumenty_i_regulaminy/KSZTA%C5%81CENIE/2024_Program_kszta%C5%82cenia/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_614.pdf",
+            "label": "Plan doctoral vigente · págs. 2, 5",
+            "checkedAt": "2026-09-21T00:04:16.268Z",
+            "contentHash": "9a65a4a09626e0c8a3f1e8343ebf4ef6b7e58ba2528ec00d381b038065b79f42",
+            "pages": [
+              2,
+              5
+            ]
+          },
+          {
+            "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_185_Senatu_U%C5%81_z_16.12.2025_r.pdf",
+            "label": "Bases de admisión 2026/27 · págs. 4, 5, 11, 12, 13",
+            "checkedAt": "2026-09-21T00:05:48.861Z",
+            "contentHash": "8fa1cdcc367ebb08dbec3c0e128638ded508d19cd2c7469073312d7fabed243c",
+            "pages": [
+              4,
+              5,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/zarz._nr_55_z_12.01.2026_r.pdf",
+            "label": "Calendario y cupos por disciplina · págs. 1, 2",
+            "checkedAt": "2026-09-21T00:05:49.538Z",
+            "contentHash": "3201ef2d04b36c07bdecdef4617f7c57eafc3806f0b87ba340babab9f673ee53",
+            "pages": [
+              1,
+              2
+            ]
+          },
+          {
+            "url": "https://www.uni.lodz.pl/sdnsip/ksztalcenie/stypendia-nagrody-i-dofinansowanie-dzialalnosci-doktorantow",
+            "label": "Importes y condiciones del estipendio",
+            "checkedAt": "2026-09-20T23:56:02.590Z",
+            "contentHash": "88665cc013979221dd3b2fa4b6fdd50e4f578963466df66c1cd90712c7f75672"
+          }
+        ],
+        "checks": [
+          "discipline",
+          "research-language",
+          "entry",
+          "closed-admission",
+          "funding"
+        ]
+      }
+    },
+    {
+      "url": "https://www.sd.pw.edu.pl/sd_en",
+      "institution": "Warsaw University of Technology",
+      "country": "PL",
+      "title": "Doctoral School — Informatyka techniczna i telekomunikacja",
+      "kind": "programme",
+      "stage": "doctorado",
+      "fields": [
+        "Informática"
+      ],
+      "entry": "Máster o título que habilite para el doctorado, expediente y méritos científicos. Antes de solicitar se debe acordar el tema con un supervisor y obtener su aceptación; se exige declaración de inglés y entrevista. Los títulos de fuera de la UE tienen requisitos de reconocimiento y documentación descritos en la admisión oficial.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "La escuela publica 3.571 PLN brutos/mes y 5.501 tras superar la evaluación intermedia, desde el mes siguiente al resultado. Son las cifras redondeadas que muestra esta institución. Para doctorandos sin doctorado; máximo general de cuatro años de pago. Los proyectos externos se rigen además por sus propias condiciones."
+      },
+      "researchNote": "Desde 2022/23 hay una escuela doctoral común, resultado de la unión de cinco escuelas anteriores. Aquí se recoge su ruta de informática técnica y telecomunicaciones. La inscripción para el semestre de invierno de 2026/27 cerró el 31 de julio. El plazo del 16 al 21 de septiembre es para completar documentos de candidatos ya clasificados. La admisión financiada por proyectos exige concurso y financiación previos; no equivale a una plaza abierta general.",
+      "id": "85dbe4af485bfca6c301",
+      "applyUrl": "https://www.sd.pw.edu.pl/sd_en",
+      "sourceId": "programme-85dbe4af485bfca6c301",
+      "sourceName": "Warsaw University of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-20T23:56:03.225Z",
+      "seenAt": "2026-09-20T23:56:03.225Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "duration": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa doctoral",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "39f69c3a9b51579bbd1682a1e044cdbeb526abd11a163ea96ee3feecd1e05285",
+        "checkedUrl": "https://www.sd.pw.edu.pl/sd_en",
+        "method": "official-programme-page",
+        "researchUrl": "https://www.sd.pw.edu.pl/sd_en",
+        "references": [
+          {
+            "url": "https://www.sd.pw.edu.pl/sd_en",
+            "label": "Información del programa",
+            "checkedAt": "2026-09-20T23:56:03.225Z",
+            "contentHash": "39f69c3a9b51579bbd1682a1e044cdbeb526abd11a163ea96ee3feecd1e05285"
+          },
+          {
+            "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2954/22266/file/Guide%20for%20Candidates_ANG.pdf",
+            "label": "Guía de admisión 2026 · págs. 3, 4, 6, 7",
+            "checkedAt": "2026-09-21T00:08:16.018Z",
+            "contentHash": "842062928d6d8be9dc003340a1a558b82ad712db8ddfdd72004ea8cab7d14173",
+            "pages": [
+              3,
+              4,
+              6,
+              7
+            ]
+          },
+          {
+            "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2983/22656/file/Decyzja%20nr%203_SD_2026%20w%20sprawie%20ustalenia%20limit%C3%B3w%20przyj%C4%99%C4%87%20do%20poszczeg%C3%B3lnych%20dyscyplin%20w%20SD%20na%20rok%20akademicki%202026_2027.pdf",
+            "label": "Disciplinas y cupos oficiales 2026/27",
+            "checkedAt": "2026-09-21T00:08:16.673Z",
+            "contentHash": "f743a61e4f18ff76d817c468e6c35c16605d4a772d8664ad113ecbd0fa5b45e0"
+          },
+          {
+            "url": "https://www.sd.pw.edu.pl/sd_en/Candidates/Admissions-2026Z",
+            "label": "Calendario y condiciones 2026/27",
+            "checkedAt": "2026-09-21T00:04:20.493Z",
+            "contentHash": "e746b71333eb55ceb079eb063a33038b10e910e6093e5e181312617c3c40c431"
+          },
+          {
+            "url": "https://www.sd.pw.edu.pl/sd_en/PhD-Students/Social-Matters/Scholarships",
+            "label": "Estipendio doctoral y duración máxima del pago",
+            "checkedAt": "2026-09-21T00:05:50.033Z",
+            "contentHash": "15bf6951994259ddebc49fd9d60559f5a6e20e8a695e2368216dd943ef6db3c2"
+          }
+        ],
+        "checks": [
+          "entry",
+          "single-school",
+          "discipline",
+          "closed-admission",
+          "funding"
+        ]
+      }
+    },
+    {
+      "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/zwiekszenie-stypendium",
+      "institution": "Poznań University of Technology",
+      "country": "PL",
+      "title": "PUT — complemento de beca doctoral por méritos 2026/27",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Informática"
+      ],
+      "duration": "Curso 2026/27",
+      "entry": "Doctorandos de PUT con beca financiada mediante subvención, al día en su formación y sin empleo en la universidad. Primer curso: al menos 28 puntos de admisión o uno de los méritos específicos; la escuela tramita la propuesta. Cursos 2–4: solicitud y méritos registrados en SIN PUT, hasta el 10 de octubre de 2026.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Complemento de 600 PLN brutos para primer y segundo curso si se cumplen los criterios; en tercero y cuarto, 300 o 600 PLN brutos según el mérito. Es un incremento de la beca doctoral, no su importe total. Concesión sujeta a evaluación y decisión del rector."
+      },
+      "researchNote": "Instrumento interno de apoyo por publicaciones, patentes o proyectos, con requisitos distintos por año. El reglamento de mayo de 2026 regula la edición 2026/27. Para cursos 2–4 se valoran los dos semestres anteriores; no debe confundirse con la beca del fondo propio, que tiene otro procedimiento.",
+      "id": "728e41c010c4aa24572d",
+      "applyUrl": "https://phdschool.put.poznan.pl/index%2Ephp/en/zwiekszenie-stypendium",
+      "sourceId": "programme-728e41c010c4aa24572d",
+      "sourceName": "Poznań University of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:07:10.481Z",
+      "seenAt": "2026-09-21T00:07:10.481Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "f7cba620c1be8606e2b469e7ca73c78c741991d158c144cf43949323c7af231d",
+        "checkedUrl": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "method": "official-programme-registry",
+        "researchUrl": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "references": [
+          {
+            "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+            "label": "Reglamento del complemento 2026/27",
+            "checkedAt": "2026-09-21T00:07:10.481Z",
+            "contentHash": "f7cba620c1be8606e2b469e7ca73c78c741991d158c144cf43949323c7af231d"
+          }
+        ],
+        "checks": [
+          "eligibility",
+          "amount",
+          "deadline"
+        ]
+      }
+    },
+    {
+      "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/stypendium-naukowe",
+      "institution": "Poznań University of Technology",
+      "country": "PL",
+      "title": "PUT Own Scholarship Fund — research scholarship for PhD students",
+      "kind": "funding-programme",
+      "stage": "doctorado",
+      "eligibleStages": [
+        "doctorado"
+      ],
+      "fields": [
+        "Informática"
+      ],
+      "duration": "Pago único por curso académico",
+      "entry": "Doctorandos de la escuela de PUT con derecho a beca doctoral a 10 de octubre, plan de investigación y formación al día y logros científicos de los dos semestres anteriores. Se exige al menos una de las clases de publicación, patente o dirección de proyecto establecidas en el reglamento. Solicitud antes del 10 de octubre según la norma general; comprobar la convocatoria del curso.",
+      "funding": {
+        "kind": "scholarship",
+        "text": "Pago único por curso; importe fijado por el rector, sin cuantía actual verificada. Como máximo, el 10% de los doctorandos de la escuela puede recibirlo. Selección competitiva por méritos."
+      },
+      "researchNote": "Financiación interna adicional para actividad científica vinculada a la tesis. Reglamento del fondo propio vigente desde octubre de 2024 y enlazado por la escuela. No garantiza una ayuda a todos los admitidos ni constituye una plaza doctoral.",
+      "id": "76dc5d3b9f9923cd9d48",
+      "applyUrl": "https://phdschool.put.poznan.pl/index%2Ephp/en/stypendium-naukowe",
+      "sourceId": "programme-76dc5d3b9f9923cd9d48",
+      "sourceName": "Poznań University of Technology",
+      "status": "programme",
+      "verifiedAt": "2026-09-21T00:07:09.473Z",
+      "seenAt": "2026-09-21T00:07:09.473Z",
+      "deadline": null,
+      "deadlinePrecision": null,
+      "languages": [],
+      "contract": null,
+      "programmeType": "Programa de financiación",
+      "lastError": null,
+      "evidence": {
+        "contentHash": "04bb04979aad5290e59b5c64e41f8e82eb3eca55a637c8249be32c2a5ed186db",
+        "checkedUrl": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+        "method": "official-programme-registry",
+        "researchUrl": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+        "references": [
+          {
+            "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+            "label": "Reglamento del fondo propio — beca doctoral · págs. 1, 2, 3",
+            "checkedAt": "2026-09-21T00:07:09.473Z",
+            "contentHash": "04bb04979aad5290e59b5c64e41f8e82eb3eca55a637c8249be32c2a5ed186db",
+            "pages": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "checks": [
+          "eligibility",
+          "amount-period",
+          "application"
+        ]
+      }
     }
   ],
   "sources": [
@@ -243396,230 +244090,270 @@
         "complete": true,
         "errors": []
       }
+    },
+    {
+      "id": "programme-5867f97f1b7f2bb28a94",
+      "name": "Wrocław University of Science and Technology · Doctoral School — Information and Communication Technology",
+      "url": "https://szd.pwr.edu.pl/en/about-us",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T23:55:49.065Z",
+        "pages": 9,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-e499ae5b4c0911f1deb4",
+      "name": "Poznań University of Technology · Doctoral School — Information and Communication Technology",
+      "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T21:46:55.258Z",
+        "pages": 6,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-07d1f7fe8595ec2e70d5",
+      "name": "Lodz University of Technology · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+      "url": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T23:55:44.741Z",
+        "pages": 6,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-176f8e91babaea97b296",
+      "name": "Nicolaus Copernicus University · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+      "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T23:55:41.188Z",
+        "pages": 9,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-c126cc22306336842e6b",
+      "name": "University of Łódź · Doctoral School of Exact and Natural Sciences — Informatyka",
+      "url": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T23:56:00.978Z",
+        "pages": 5,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-85dbe4af485bfca6c301",
+      "name": "Warsaw University of Technology · Doctoral School — Informatyka techniczna i telekomunikacja",
+      "url": "https://www.sd.pw.edu.pl/sd_en",
+      "adapter": "programme",
+      "type": "institution",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-20T23:56:03.225Z",
+        "pages": 5,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-728e41c010c4aa24572d",
+      "name": "Poznań University of Technology · PUT — complemento de beca doctoral por méritos 2026/27",
+      "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/zwiekszenie-stypendium",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:07:10.481Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
+    },
+    {
+      "id": "programme-76dc5d3b9f9923cd9d48",
+      "name": "Poznań University of Technology · PUT Own Scholarship Fund — research scholarship for PhD students",
+      "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/stypendium-naukowe",
+      "adapter": "programme",
+      "type": "funder",
+      "scope": "PL",
+      "stages": [
+        "doctorado"
+      ],
+      "enabled": true,
+      "status": "healthy",
+      "report": {
+        "checkedAt": "2026-09-21T00:07:09.473Z",
+        "pages": 1,
+        "accepted": 1,
+        "complete": true,
+        "errors": []
+      }
     }
   ],
   "run": {
-    "id": "6990b576-b767-4cc0-b708-e44ca53f5d1b",
+    "id": "f1c6fd2f-6b63-44bc-9a96-5759228f429b",
     "type": "programme-verification",
-    "parentRunId": "178e0e83-ac73-435e-af8f-5345b978616c",
-    "startedAt": "2026-09-20T23:40:24.971Z",
-    "finishedAt": "2026-09-20T23:40:28.472Z",
+    "parentRunId": "6990b576-b767-4cc0-b708-e44ca53f5d1b",
+    "startedAt": "2026-09-21T00:16:10.266Z",
+    "finishedAt": "2026-09-21T00:16:12.853Z",
     "status": "partial",
     "sources": [
       {
-        "id": "programme-de3e7f4679ad79988d7d",
-        "name": "Fachhochschule Wiener Neustadt · MSc Informatik",
-        "url": "https://www.fhwn.ac.at/studiengang/master-informatik",
+        "id": "programme-5867f97f1b7f2bb28a94",
+        "name": "Wrocław University of Science and Technology · Doctoral School — Information and Communication Technology",
+        "url": "https://szd.pwr.edu.pl/en/about-us",
         "adapter": "programme",
         "type": "institution",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T10:54:10.917Z",
-          "pages": 1,
+          "checkedAt": "2026-09-20T23:55:49.065Z",
+          "pages": 9,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-4b3c238ada180adc5d34",
-        "name": "Fachhochschule Wiener Neustadt · MSc Bio Data Science",
-        "url": "https://www.fhwn.ac.at/studiengang/bio-data-science",
+        "id": "programme-e499ae5b4c0911f1deb4",
+        "name": "Poznań University of Technology · Doctoral School — Information and Communication Technology",
+        "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
         "adapter": "programme",
         "type": "institution",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T12:51:19.962Z",
-          "pages": 1,
+          "checkedAt": "2026-09-20T21:46:55.258Z",
+          "pages": 6,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-48956ab279f051e67b38",
-        "name": "Fachhochschule Wiener Neustadt · MSc Health Care Informatics",
-        "url": "https://www.fhwn.ac.at/studiengang/health-care-informatics",
+        "id": "programme-07d1f7fe8595ec2e70d5",
+        "name": "Lodz University of Technology · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+        "url": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
         "adapter": "programme",
         "type": "institution",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T12:38:44.244Z",
-          "pages": 1,
+          "checkedAt": "2026-09-20T23:55:44.741Z",
+          "pages": 6,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-241c11a18e127b6b66f8",
-        "name": "Fachhochschule Wiener Neustadt · MA Consumer Research & Data Driven Marketing",
-        "url": "https://www.fhwn.ac.at/studiengang/master-consumer-research-data-driven-marketing",
+        "id": "programme-176f8e91babaea97b296",
+        "name": "Nicolaus Copernicus University · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
         "adapter": "programme",
         "type": "institution",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T10:40:12.366Z",
-          "pages": 1,
+          "checkedAt": "2026-09-20T23:55:41.188Z",
+          "pages": 9,
           "accepted": 1,
           "complete": true,
           "errors": []
         }
       },
       {
-        "id": "programme-274702fb820a2ce14696",
-        "name": "Fachhochschule Wiener Neustadt · MA Controlling & Business Intelligence",
-        "url": "https://www.fhwn.ac.at/studiengang/master-controlling-business-intelligence",
+        "id": "programme-c126cc22306336842e6b",
+        "name": "University of Łódź · Doctoral School of Exact and Natural Sciences — Informatyka",
+        "url": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
         "adapter": "programme",
         "type": "institution",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T19:07:58.792Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7d0fb0f5fc1ccea0f000",
-        "name": "Fachhochschule Wiener Neustadt · MSc Mechatronik",
-        "url": "https://www.fhwn.ac.at/studiengang/master-mechatronik",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T14:44:59.087Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-882ac79de78417cd35bb",
-        "name": "Fachhochschule Wiener Neustadt · MSc MedTech – Functional Imaging, Conventional & Ion Radiotherapy",
-        "url": "https://www.fhwn.ac.at/studiengang/med-tech",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:36.377Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-66a147d2c27f5a8f5da5",
-        "name": "Vorarlberg University of Applied Sciences · MSc Informatik",
-        "url": "https://www.fhv.at/studium/technik/informatik-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T22:58:50.280Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-dac053b846e9f6815c76",
-        "name": "Vorarlberg University of Applied Sciences · MSc Wirtschaftsinformatik – Digital Transformation",
-        "url": "https://www.fhv.at/studium/technik/wirtschaftsinformatik-digital-transformation-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T23:06:30.948Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c08958f9d6308bb77e4b",
-        "name": "Vorarlberg University of Applied Sciences · MSc Mechatronics",
-        "url": "https://www.fhv.at/studium/technik/mechatronics-msc",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T20:25:20.873Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5ca79dc557dd1870f25b",
-        "name": "FH JOANNEUM University of Applied Sciences · MSc Data Science and Artificial Intelligence",
-        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-data-science-and-artificial-intelligence/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T21:54:58.091Z",
+          "checkedAt": "2026-09-20T23:56:00.978Z",
           "pages": 5,
           "accepted": 1,
           "complete": true,
@@ -243627,39 +244361,19 @@
         }
       },
       {
-        "id": "programme-f04559149317871d25c8",
-        "name": "FH JOANNEUM University of Applied Sciences · MSc Cybersecurity and Ethical Hacking",
-        "url": "https://www.fh-joanneum.at/it-und-mobile-security/master/en",
+        "id": "programme-85dbe4af485bfca6c301",
+        "name": "Warsaw University of Technology · Doctoral School — Informatyka techniczna i telekomunikacja",
+        "url": "https://www.sd.pw.edu.pl/sd_en",
         "adapter": "programme",
         "type": "institution",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T14:06:10.391Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-5a0cd795287585d9364d",
-        "name": "FH JOANNEUM University of Applied Sciences · DI Business Informatics",
-        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-information-management/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T22:15:16.639Z",
+          "checkedAt": "2026-09-20T23:56:03.225Z",
           "pages": 5,
           "accepted": 1,
           "complete": true,
@@ -243667,520 +244381,19 @@
         }
       },
       {
-        "id": "programme-db826c7df7b4a08b20a7",
-        "name": "FH JOANNEUM University of Applied Sciences · MSc eHealth",
-        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-ehealth/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:55:11.468Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-001a9bcbb69ea461338f",
-        "name": "FH JOANNEUM University of Applied Sciences · MSc Electronic Engineering",
-        "url": "https://www.fh-joanneum.at/en/studies/masters-degree-programme-in-electronic-engineering/",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:55:16.374Z",
-          "pages": 5,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-55f23bc961d005f9f0b1",
-        "name": "Salzburg University of Applied Sciences · MSc AI for Sustainable Technologies",
-        "url": "https://www.fh-salzburg.ac.at/studium/it/ai-for-sustainable-technologies-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:37.398Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-60f344a417e4f571ec14",
-        "name": "Salzburg University of Applied Sciences · MSc Code and Interactive Systems",
-        "url": "https://www.fh-salzburg.ac.at/studium/ct/code-and-interactive-systems-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:39.622Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bcb47ca9884b80f316a6",
-        "name": "Salzburg University of Applied Sciences · DI Cyber Security",
-        "url": "https://www.fh-salzburg.ac.at/studium/it/cyber-security-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:00:33.440Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-3510a40a623c82145d9a",
-        "name": "Salzburg University of Applied Sciences · DI Industrial Informatics & Robotics",
-        "url": "https://www.fh-salzburg.ac.at/studium/it/industrial-informatics-robotics-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T23:44:10.427Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d0424a26a9b02b389816",
-        "name": "Salzburg University of Applied Sciences · DI IT-Management & Consulting",
-        "url": "https://www.fh-salzburg.ac.at/studium/it/it-management-consulting-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:40.453Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-236a6b026416ba63665e",
-        "name": "Salzburg University of Applied Sciences · Paracelsus Medical Private University · MSc (CE) Applied AI in Healthcare",
-        "url": "https://www.fh-salzburg.ac.at/studium/it/applied-ai-in-healthcare-joint-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:38.076Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-bc0c2a7802823cc8c950",
-        "name": "University of Applied Sciences Upper Austria · DI Automatisierungstechnik",
-        "url": "https://fh-ooe.at/studienangebot/automatisierungstechnik-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:41.638Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e7b0b38c7178bdf9ea53",
-        "name": "University of Applied Sciences Upper Austria · MSc Data Science und Engineering",
-        "url": "https://fh-ooe.at/studienangebot/data-science-und-engineering-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T11:17:32.662Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-c65290450471edc76eab",
-        "name": "University of Applied Sciences Upper Austria · MSc Embedded Systems Design",
-        "url": "https://fh-ooe.at/studienangebot/embedded-systems-design-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:43.983Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-10ea375854fd65a6a82b",
-        "name": "University of Applied Sciences Upper Austria · MSc Human-Centered Computing",
-        "url": "https://fh-ooe.at/studienangebot/human-centered-computing-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T23:47:58.462Z",
-          "pages": 4,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-da671b2bec02d79276a2",
-        "name": "University of Applied Sciences Upper Austria · MSc Information Engineering und -Management",
-        "url": "https://fh-ooe.at/studienangebot/information-engineering-und-management-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:44.840Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-370b67a44eee58f4d992",
-        "name": "University of Applied Sciences Upper Austria · MA Information Security Management",
-        "url": "https://fh-ooe.at/studienangebot/information-security-management-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:45.569Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-65a4272f6e3ee50feea4",
-        "name": "University of Applied Sciences Upper Austria · MSc Interactive Media",
-        "url": "https://fh-ooe.at/studienangebot/interactive-media-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:46.386Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-1897f9ad58c0298859d9",
-        "name": "University of Applied Sciences Upper Austria · MSc Mobile Computing",
-        "url": "https://fh-ooe.at/studienangebot/mobile-computing-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:34:40.633Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e64f9d2463170f50007a",
-        "name": "University of Applied Sciences Upper Austria · DI Robotic Systems Engineering",
-        "url": "https://fh-ooe.at/studienangebot/robotic-systems-engineering-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:48.846Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e1440bd220cbbe8f54b8",
-        "name": "University of Applied Sciences Upper Austria · MSc Sichere Informationssysteme",
-        "url": "https://fh-ooe.at/studienangebot/sichere-informationssysteme-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:49.595Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-55a1d48d250a0a5a7832",
-        "name": "University of Applied Sciences Upper Austria · MSc Software Engineering",
-        "url": "https://fh-ooe.at/studienangebot/software-engineering-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:49:18.744Z",
-          "pages": 3,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-f66e5fd92f168292f1dc",
-        "name": "Hochschule Campus Wien · MSc Bioinformatik",
-        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/bioinformatik",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-19T23:43:48.626Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-19a6b41d0fcbbc99a38b",
-        "name": "Hochschule Campus Wien · MSc IT-Security",
-        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/it-security-master",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T22:48:51.403Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-e66d5ab5a356d251041c",
-        "name": "Hochschule Campus Wien · Universität Wien · MSc Multilingual Technologies",
-        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/multilingual-technologies",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T21:02:19.215Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-d46202f05a8a1c1775c6",
-        "name": "Hochschule Campus Wien · MSc Software Design and Engineering",
-        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/software-design-and-engineering",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:29:27.085Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-9e6033b1370bc411d30e",
-        "name": "Hochschule Campus Wien · MSc Technische Informatik",
-        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/technische-informatik",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T10:46:23.848Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-799cdf72187ef3ba95df",
-        "name": "Hochschule Campus Wien · MSc Health Tech and Clinical Engineering",
-        "url": "https://www.hcw.ac.at/studium-weiterbildung/studienangebot/health-tech-and-clinical-engineering",
-        "adapter": "programme",
-        "type": "institution",
-        "scope": "AT",
-        "stages": [
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T13:25:23.593Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-4cdc30d29e0f55355280",
-        "name": "Vorarlberg University of Applied Sciences · Leistungsstipendium — rendimiento académico en FHV",
-        "url": "https://www.fhv.at/infopoint/praktische-informationen-zum-leben-in-vorarlberg/stipendien-und-foerderungen/stipendien-fuer-studierende-der-fhv",
+        "id": "programme-728e41c010c4aa24572d",
+        "name": "Poznań University of Technology · PUT — complemento de beca doctoral por méritos 2026/27",
+        "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/zwiekszenie-stypendium",
         "adapter": "programme",
         "type": "funder",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "grado",
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T23:21:52.354Z",
+          "checkedAt": "2026-09-21T00:07:10.481Z",
           "pages": 1,
           "accepted": 1,
           "complete": true,
@@ -244188,105 +244401,20 @@
         }
       },
       {
-        "id": "programme-78070f9bf1b441962c1b",
-        "name": "Vorarlberg University of Applied Sciences · Soroptimist International Club Dornbirn · Soroptimist Club Dornbirn — apoyo a costes de cuidado infantil en FHV",
-        "url": "https://www.fhv.at/infopoint/individuelle-unterstuetzung/familienfreundliche-studienkultur/ausschreibung-foerdermittel-kinderbetreuungskosten",
+        "id": "programme-76dc5d3b9f9923cd9d48",
+        "name": "Poznań University of Technology · PUT Own Scholarship Fund — research scholarship for PhD students",
+        "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/stypendium-naukowe",
         "adapter": "programme",
         "type": "funder",
-        "scope": "AT",
+        "scope": "PL",
         "stages": [
-          "grado",
-          "master"
+          "doctorado"
         ],
         "enabled": true,
         "status": "healthy",
         "report": {
-          "checkedAt": "2026-09-20T23:30:23.724Z",
+          "checkedAt": "2026-09-21T00:07:09.473Z",
           "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-b1d9101b123dbab78018",
-        "name": "Salzburg University of Applied Sciences · Leistungs- und Förderstipendien — rendimiento y trabajos científicos en FH Salzburg",
-        "url": "https://www.fh-salzburg.ac.at/info/studieren-beginnen/gebuehren-und-stipendien",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "AT",
-        "stages": [
-          "grado",
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T23:21:53.109Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-a641a7a54bba8e936aca",
-        "name": "Salzburg University of Applied Sciences · Arbeiterkammer Salzburg · Arbeiterkammer Salzburg — fondo de apoyo para continuar estudios en FH Salzburg",
-        "url": "https://www.fh-salzburg.ac.at/fileadmin/fhs_daten/careercenter/ak-fonds/Unterst%C3%BCtzungsfonds_der_Arbeiterkammer_Salzburg_de.pdf",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "AT",
-        "stages": [
-          "grado",
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T23:21:53.109Z",
-          "pages": 2,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-7d5986fe4a85d21319b9",
-        "name": "Hochschule Campus Wien · Leistungsstipendium — rendimiento académico en Hochschule Campus Wien",
-        "url": "https://www.hcw.ac.at/studium-weiterbildung/bewerbung-und-aufnahme/foerderungen-und-stipendien",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "AT",
-        "stages": [
-          "grado",
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T23:21:53.632Z",
-          "pages": 1,
-          "accepted": 1,
-          "complete": true,
-          "errors": []
-        }
-      },
-      {
-        "id": "programme-fe68c9fc3244182e439a",
-        "name": "waff — Wiener Arbeitnehmer*innen Förderungsfonds · waff-Stipendium für Frauen — estudios compatibles con empleo en Viena",
-        "url": "https://www.waff.at/beruf-weiterbildung/frauen-studieren-berufsbegleitend/",
-        "adapter": "programme",
-        "type": "funder",
-        "scope": "AT",
-        "stages": [
-          "grado",
-          "master"
-        ],
-        "enabled": true,
-        "status": "healthy",
-        "report": {
-          "checkedAt": "2026-09-20T23:24:21.164Z",
-          "pages": 3,
           "accepted": 1,
           "complete": true,
           "errors": []
@@ -244294,11 +244422,11 @@
       }
     ],
     "programmes": {
-      "startedAt": "2026-09-20T23:40:24.971Z",
-      "finishedAt": "2026-09-20T23:40:28.472Z",
+      "startedAt": "2026-09-21T00:16:10.266Z",
+      "finishedAt": "2026-09-21T00:16:12.853Z",
       "scope": "selected-programmes",
-      "verified": 44,
-      "attempted": 44,
+      "verified": 8,
+      "attempted": 8,
       "partial": 0
     }
   },

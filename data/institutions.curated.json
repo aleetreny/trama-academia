@@ -18812,7 +18812,7 @@
     "name": "Warsaw University of Technology",
     "country": "PL",
     "city": "Warsaw",
-    "officialUrl": "https://new.students.pw.edu.pl/index.php/Studies-Offer/M.Sc.-offer/Data-Science",
+    "officialUrl": "https://pw.edu.pl",
     "domain": "pw.edu.pl",
     "sources": [
       {
@@ -18872,6 +18872,51 @@
         "checkedAt": "2026-09-20T10:29:53.199Z",
         "contentHash": "5509d34d8b6f3e8da972bf1bb22dbc8f5ea8cc04b041afb4148653e2c148915e",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en",
+        "type": "phd",
+        "label": "Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-20T23:56:03.225Z",
+        "checkedAt": "2026-09-20T23:56:03.225Z",
+        "contentHash": "39f69c3a9b51579bbd1682a1e044cdbeb526abd11a163ea96ee3feecd1e05285",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2954/22266/file/Guide%20for%20Candidates_ANG.pdf",
+        "type": "phd",
+        "label": "Guía de admisión 2026 · págs. 3, 4, 6, 7 · Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:08:16.018Z",
+        "checkedAt": "2026-09-21T00:08:16.018Z",
+        "contentHash": "842062928d6d8be9dc003340a1a558b82ad712db8ddfdd72004ea8cab7d14173",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2983/22656/file/Decyzja%20nr%203_SD_2026%20w%20sprawie%20ustalenia%20limit%C3%B3w%20przyj%C4%99%C4%87%20do%20poszczeg%C3%B3lnych%20dyscyplin%20w%20SD%20na%20rok%20akademicki%202026_2027.pdf",
+        "type": "phd",
+        "label": "Disciplinas y cupos oficiales 2026/27 · Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:08:16.673Z",
+        "checkedAt": "2026-09-21T00:08:16.673Z",
+        "contentHash": "f743a61e4f18ff76d817c468e6c35c16605d4a772d8664ad113ecbd0fa5b45e0",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/Candidates/Admissions-2026Z",
+        "type": "phd",
+        "label": "Calendario y condiciones 2026/27 · Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:04:20.493Z",
+        "checkedAt": "2026-09-21T00:04:20.493Z",
+        "contentHash": "e746b71333eb55ceb079eb063a33038b10e910e6093e5e181312617c3c40c431",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/PhD-Students/Social-Matters/Scholarships",
+        "type": "phd",
+        "label": "Estipendio doctoral y duración máxima del pago · Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:05:50.033Z",
+        "checkedAt": "2026-09-21T00:05:50.033Z",
+        "contentHash": "15bf6951994259ddebc49fd9d60559f5a6e20e8a695e2368216dd943ef6db3c2",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -18884,7 +18929,11 @@
       "tiers": "not_assessed",
       "nextAction": "Read robots and fetch official catalogues; enumerate individual programmes and current funding/job calls. A discovered source is not an imported opportunity.",
       "reviewedAt": "2026-09-19T21:26:41Z"
-    }
+    },
+    "ror": "https://ror.org/00y0xnp53",
+    "domains": [
+      "pw.edu.pl"
+    ]
   },
   {
     "id": "pl-jagiellonian",
@@ -22643,7 +22692,7 @@
     "name": "Wrocław University of Science and Technology",
     "country": "PL",
     "city": "Wrocław",
-    "officialUrl": "https://studiuj.wmat.pwr.edu.pl/app/home",
+    "officialUrl": "http://www.portal.pwr.wroc.pl",
     "domain": "pwr.edu.pl",
     "sources": [
       {
@@ -22740,6 +22789,87 @@
         "checkedAt": "2026-09-20T10:29:57.239Z",
         "contentHash": "b0928edb2c97c0ba92ceae6a526ee908f495baacdf6d370279b7a572ced48889",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us",
+        "type": "phd",
+        "label": "Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T23:55:49.065Z",
+        "checkedAt": "2026-09-20T23:55:49.065Z",
+        "contentHash": "47810e4c53e86fec6060001cfa19f3ff27db3624faaee135dd07b58f1c32759e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/o-szkole",
+        "type": "phd",
+        "label": "Disciplinas oficiales · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-21T00:07:12.493Z",
+        "checkedAt": "2026-09-21T00:07:12.493Z",
+        "contentHash": "5876812614df4477b3ca3b3177b1b453c5a5c9b022f76c493daa939af58bbcec",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/d/YGBUKOTtQKxVvAUdqREFBPF0WUXJ9X1hOSylDC0QSFG9PFQk5Eht1FRMSWHoFPFgHFkhCcH5bXFRfOA/03itt_eng.pdf",
+        "type": "phd",
+        "label": "Normas de admisión ICT 2026/27 · págs. 1, 2, 3 · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-21T00:03:56.775Z",
+        "checkedAt": "2026-09-21T00:03:56.775Z",
+        "contentHash": "f56cf1b72876876c8944e21610894a843fafd1aea42b4de9e575c27b437288fe",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/admission-procedure",
+        "type": "phd",
+        "label": "Procedimiento y tasa · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T23:55:49.663Z",
+        "checkedAt": "2026-09-20T23:55:49.663Z",
+        "contentHash": "d56e37accc1a8fb7c5709a8156ec49a0ae8bb1e32c63b953e5fd18b15645049f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/tuition-fees",
+        "type": "phd",
+        "label": "Matrícula · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T23:55:52.884Z",
+        "checkedAt": "2026-09-20T23:55:52.884Z",
+        "contentHash": "65e2ed56cb8d8700f99a527496cc9160f84a44a0206e99b3b3f32f56df1b9003",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/scholarships",
+        "type": "phd",
+        "label": "Beca y evaluación intermedia · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T23:55:52.086Z",
+        "checkedAt": "2026-09-20T23:55:52.086Z",
+        "contentHash": "261800e966f0068be6709bbdfeef53804ff5d9749230e7e4fe7abad0e3385aae",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us/news/increase-in-doctoral-scholarship-amounts-52.html",
+        "type": "phd",
+        "label": "Importes mensuales desde enero de 2026 · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T23:55:55.317Z",
+        "checkedAt": "2026-09-20T23:55:55.317Z",
+        "contentHash": "c2a632448d627f61136dac76a1bce64c89fd9fc56ceac0c03fb7e49827ab3fb3",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/deadlines",
+        "type": "phd",
+        "label": "Calendario de admisión · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T23:55:51.267Z",
+        "checkedAt": "2026-09-20T23:55:51.267Z",
+        "contentHash": "d65f959272c6f2dcb06d5f0b9d5a7f8ec7df6247db913677d51a0ecdf179d4b4",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us/news/additional-recruitment-in-september-2026-in-three-scientific-disciplines-54.html",
+        "type": "phd",
+        "label": "Ronda adicional de ICT de septiembre · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T23:55:54.472Z",
+        "checkedAt": "2026-09-20T23:55:54.472Z",
+        "contentHash": "9120359c75aaa9fafaa7b75808ccf32bfc061b1e58dee0a142a6d1ad727e922a",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -22752,7 +22882,11 @@
       "tiers": "not_assessed",
       "nextAction": "Read robots and fetch official catalogues; enumerate individual programmes and current funding/job calls. A discovered source is not an imported opportunity.",
       "reviewedAt": "2026-09-19T21:26:41Z"
-    }
+    },
+    "ror": "https://ror.org/008fyn775",
+    "domains": [
+      "portal.pwr.wroc.pl"
+    ]
   },
   {
     "id": "pl-gdansk-tech",
@@ -22946,7 +23080,7 @@
     "name": "Poznan University of Technology",
     "country": "PL",
     "city": "Poznań",
-    "officialUrl": "https://put.poznan.pl/en/programmes",
+    "officialUrl": "https://put.poznan.pl",
     "domain": "put.poznan.pl",
     "sources": [
       {
@@ -23008,12 +23142,12 @@
         "accessOutcome": "ok"
       },
       {
-        "type": "phd",
         "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
-        "label": "Catálogo oficial · undefined",
-        "observedAt": "2026-09-19T23:25:07.181Z",
-        "checkedAt": "2026-09-19T23:25:07.181Z",
-        "contentHash": "fd2b7e31b62a17a9aaa820cfcb18b53671d3632a0bbb59c8e0adf2c4d99be790",
+        "type": "phd",
+        "label": "Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-20T21:46:55.258Z",
+        "checkedAt": "2026-09-20T21:46:55.258Z",
+        "contentHash": "cc482e535467e251127021ab5ab39b2e15135b5490a011a021f8c51419a4b1d7",
         "accessOutcome": "ok"
       },
       {
@@ -23069,6 +23203,60 @@
         "checkedAt": "2026-09-20T10:29:44.114Z",
         "contentHash": "c97703b2d90f07f424fffa604ccdc4611f8a66373ab1395c8cbed59365fc628c",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/index.php/dziedziny-i-dyscypliny",
+        "type": "phd",
+        "label": "Denominación oficial de la disciplina · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-21T00:07:13.640Z",
+        "checkedAt": "2026-09-21T00:07:13.640Z",
+        "contentHash": "1ff99359011d5d8b87653011c6502713bcbd795467a0f67b632a9092783efd9c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/Resolution_Admission%20rules%20to%20Doctoral%20School.pdf",
+        "type": "phd",
+        "label": "Requisitos y concurso de admisión · págs. 1, 2, 3 · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-21T00:03:58.114Z",
+        "checkedAt": "2026-09-21T00:03:58.114Z",
+        "contentHash": "966b23a6ff209e6f0ed86183b27f7e16fcc14ab37393cad7fdfc2e91ab3adec2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/en/doctoral%20training%20program%20PhDSchool/2026-2027",
+        "type": "phd",
+        "label": "Plan doctoral 2026/27 · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-21T00:05:42.113Z",
+        "checkedAt": "2026-09-21T00:05:42.113Z",
+        "contentHash": "8787f7d6ded08f142db1fc1b6fa8c906004379833cfa18f789fbe8487ecea150",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/!_Harmonogram%20_JMR_ENG.pdf",
+        "type": "phd",
+        "label": "Calendario 2026/27 · Doctoral School — Information and Communication Technology",
+        "observedAt": "2026-09-21T00:04:07.303Z",
+        "checkedAt": "2026-09-21T00:04:07.303Z",
+        "contentHash": "871dc79b6ae102a5b4355b5a15cef2505b8f76043b6a940926c83868437b5b47",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "type": "funding",
+        "label": "PUT — complemento de beca doctoral por méritos 2026/27",
+        "observedAt": "2026-09-21T00:07:10.481Z",
+        "checkedAt": "2026-09-21T00:07:10.481Z",
+        "contentHash": "f7cba620c1be8606e2b469e7ca73c78c741991d158c144cf43949323c7af231d",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+        "type": "funding",
+        "label": "PUT Own Scholarship Fund — research scholarship for PhD students",
+        "observedAt": "2026-09-21T00:07:09.473Z",
+        "checkedAt": "2026-09-21T00:07:09.473Z",
+        "contentHash": "04bb04979aad5290e59b5c64e41f8e82eb3eca55a637c8249be32c2a5ed186db",
+        "accessOutcome": "ok"
       }
     ],
     "_review": {
@@ -23081,7 +23269,11 @@
       "tiers": "not_assessed",
       "nextAction": "Read robots and fetch official catalogues; enumerate individual programmes and current funding/job calls. A discovered source is not an imported opportunity.",
       "reviewedAt": "2026-09-19T21:26:41Z"
-    }
+    },
+    "ror": "https://ror.org/00p7p3302",
+    "domains": [
+      "put.poznan.pl"
+    ]
   },
   {
     "id": "pl-adam-mickiewicz",
@@ -34961,6 +35153,60 @@
         "checkedAt": "2026-09-20T14:09:37.775Z",
         "contentHash": "f04d7d63de89912522c1b280c448bbc7cc0adf8b8b29d09c72d817410202125a",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+        "type": "phd",
+        "label": "Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-20T23:55:47.984Z",
+        "checkedAt": "2026-09-20T23:55:47.984Z",
+        "contentHash": "09cb78122074d283bf928255c8dddc7b53e9b1b98b226f4821166039962fe80c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/sites/ids/files/2026-04/Uchwa%C5%82a%2041_2026_program%20kszta%C5%82cenia%20ISD%20P%C5%81_0.pdf",
+        "type": "phd",
+        "label": "Plan doctoral aprobado en marzo de 2026 · págs. 1, 2, 3 · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:05:44.346Z",
+        "checkedAt": "2026-09-21T00:05:44.346Z",
+        "contentHash": "3912e1448d7f2d487b943c6756e3449f26419314ee4516af747b67d7bc099b59",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/sites/ids/files/2026-03/Uchwa%C5%82a_36_2026%20ws.%20zasad%20rekrutacji%202026_2027.pdf",
+        "type": "phd",
+        "label": "Normas de admisión 2026/27 · págs. 2, 3, 4, 5 · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:04:08.135Z",
+        "checkedAt": "2026-09-21T00:04:08.135Z",
+        "contentHash": "af6175c7614e68e3f68e622c07d371542ab44d438a03f2b1bfde4d4186ea3846",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/rekrutacja/dlaczego-warto-ksztalcic-sie-w-isd-pl",
+        "type": "phd",
+        "label": "Idioma de la formación · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-20T23:55:44.741Z",
+        "checkedAt": "2026-09-20T23:55:44.741Z",
+        "contentHash": "f369a51d6cc1f702177deca260866232764e84db6b56397d61b957f92ee0237e",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/harmonogram-postepowania-kwalifikacyjnego-20262027-w-trybie-regularnym",
+        "type": "phd",
+        "label": "Calendario y tasa de solicitud · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:04:10.109Z",
+        "checkedAt": "2026-09-21T00:04:10.109Z",
+        "contentHash": "372f87e0ac3c70d8277b3ac48cf258203ac4a2537febebe86f2e65b0346c09cc",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/doktoranci/stypendium-doktoranckie-w-isd-pl/komunikat-rektora-pl-w-sprawie-trybu-wyplacania",
+        "type": "phd",
+        "label": "Condiciones del estipendio — julio de 2026 · Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+        "observedAt": "2026-09-21T00:04:11.820Z",
+        "checkedAt": "2026-09-21T00:04:11.820Z",
+        "contentHash": "d247ab6cc7bc1795fa3e4bc6ad8ce91b66d32e5b6d2e1b2f89d635a8d1f4bed8",
+        "accessOutcome": "ok"
       }
     ],
     "ror": "https://ror.org/00s8fpf52"
@@ -35190,6 +35436,51 @@
         "checkedAt": "2026-09-20T14:25:56.135Z",
         "contentHash": "0de872de3183acb57b4578ed17459f0b622e65bde93f6aefda8f5deb920d0e90",
         "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+        "type": "phd",
+        "label": "Doctoral School of Exact and Natural Sciences — Informatyka",
+        "observedAt": "2026-09-20T23:56:00.978Z",
+        "checkedAt": "2026-09-20T23:56:00.978Z",
+        "contentHash": "8f5ea332cfecd6677f7d73638ddc0ed5006d3e1eb199bef7947c10e66af31b12",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Dokumenty_i_regulaminy/KSZTA%C5%81CENIE/2024_Program_kszta%C5%82cenia/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_614.pdf",
+        "type": "phd",
+        "label": "Plan doctoral vigente · págs. 2, 5 · Doctoral School of Exact and Natural Sciences — Informatyka",
+        "observedAt": "2026-09-21T00:04:16.268Z",
+        "checkedAt": "2026-09-21T00:04:16.268Z",
+        "contentHash": "9a65a4a09626e0c8a3f1e8343ebf4ef6b7e58ba2528ec00d381b038065b79f42",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_185_Senatu_U%C5%81_z_16.12.2025_r.pdf",
+        "type": "phd",
+        "label": "Bases de admisión 2026/27 · págs. 4, 5, 11, 12, 13 · Doctoral School of Exact and Natural Sciences — Informatyka",
+        "observedAt": "2026-09-21T00:05:48.861Z",
+        "checkedAt": "2026-09-21T00:05:48.861Z",
+        "contentHash": "8fa1cdcc367ebb08dbec3c0e128638ded508d19cd2c7469073312d7fabed243c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/zarz._nr_55_z_12.01.2026_r.pdf",
+        "type": "phd",
+        "label": "Calendario y cupos por disciplina · págs. 1, 2 · Doctoral School of Exact and Natural Sciences — Informatyka",
+        "observedAt": "2026-09-21T00:05:49.538Z",
+        "checkedAt": "2026-09-21T00:05:49.538Z",
+        "contentHash": "3201ef2d04b36c07bdecdef4617f7c57eafc3806f0b87ba340babab9f673ee53",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://www.uni.lodz.pl/sdnsip/ksztalcenie/stypendia-nagrody-i-dofinansowanie-dzialalnosci-doktorantow",
+        "type": "phd",
+        "label": "Importes y condiciones del estipendio · Doctoral School of Exact and Natural Sciences — Informatyka",
+        "observedAt": "2026-09-20T23:56:02.590Z",
+        "checkedAt": "2026-09-20T23:56:02.590Z",
+        "contentHash": "88665cc013979221dd3b2fa4b6fdd50e4f578963466df66c1cd90712c7f75672",
+        "accessOutcome": "ok"
       }
     ],
     "ror": "https://ror.org/05cq64r17"
@@ -35283,6 +35574,87 @@
         "observedAt": "2026-09-20T14:09:38.984Z",
         "checkedAt": "2026-09-20T14:09:38.984Z",
         "contentHash": "bcdd67f9ace66ca7597a783876417165a78aa9f3a40e91b8d280ef4472ef7e69",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+        "type": "phd",
+        "label": "Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-20T23:55:41.188Z",
+        "checkedAt": "2026-09-20T23:55:41.188Z",
+        "contentHash": "6d057cede37a52509e0aa775ddef1a9a6dd4779c460c95321cc246a17b96fee5",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/rekrutacja/rekrutacja-2026-2027/",
+        "type": "phd",
+        "label": "Admisión 2026/27 · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-20T23:55:42.342Z",
+        "checkedAt": "2026-09-20T23:55:42.342Z",
+        "contentHash": "1a1f7533e7f9c581d7aefccf053e2e6920328ac6d013c29a31a36416cb76b327",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/US.13.2021-1.pdf",
+        "type": "phd",
+        "label": "Bases de admisión · págs. 2, 3 · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-21T00:04:14.835Z",
+        "checkedAt": "2026-09-21T00:04:14.835Z",
+        "contentHash": "2d5e17ff3fb8b2512e94713e3dcacc096db2e3a1185c51c7f9709d40f45add18",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/US.7.2026.pdf",
+        "type": "phd",
+        "label": "Reforma de las bases — enero de 2026 · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-21T00:04:15.701Z",
+        "checkedAt": "2026-09-21T00:04:15.701Z",
+        "contentHash": "8606827748de3f32133f5c10447c68cae8eab339573bd466dc2f73a907395386",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/Framework_programme_of_education_2023.pdf",
+        "type": "phd",
+        "label": "Marco de formación doctoral · págs. 1, 2 · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-21T00:08:17.265Z",
+        "checkedAt": "2026-09-21T00:08:17.265Z",
+        "contentHash": "a58ff916670a4f8e3548ff43c8234fac60975b3e161ed23e1e38999cf35dcd9f",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/phd-proposals-2026-2027/",
+        "type": "phd",
+        "label": "Temas doctorales 2026/27 · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-21T00:04:13.766Z",
+        "checkedAt": "2026-09-21T00:04:13.766Z",
+        "contentHash": "290a74205a3b5156bc7a6b4c0da8f0710bb05339280b1a941be8f6ee77592c4c",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_02_2026_Backward-stochastic-differential-equations-and-their-applications-to-optimization-problems.pdf",
+        "type": "phd",
+        "label": "Línea de ecuaciones estocásticas y optimización · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-21T00:05:46.104Z",
+        "checkedAt": "2026-09-21T00:05:46.104Z",
+        "contentHash": "b06073d6cfa905978cc341ecd5ddc3d9c643968993feff7ed5b09a8b5b0374f2",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_03_2026_Geometric-analysis-of-flow-in-selected-fluid-mechanics-models.pdf",
+        "type": "phd",
+        "label": "Línea de mecánica de fluidos · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-21T00:05:46.724Z",
+        "checkedAt": "2026-09-21T00:05:46.724Z",
+        "contentHash": "ee5038e5341d6b0c7b644e78123f9086ed3b4407a2825116ef04475ec69dc1d6",
+        "accessOutcome": "ok"
+      },
+      {
+        "url": "https://ast.umk.pl/doktorant/stypendia-doktoranckie/",
+        "type": "phd",
+        "label": "Estipendio doctoral · Academia Scientiarum Thoruniensis — PhD in Mathematics",
+        "observedAt": "2026-09-20T23:55:41.486Z",
+        "checkedAt": "2026-09-20T23:55:41.486Z",
+        "contentHash": "1d2ed72eeab79305dea1e15c122bb2b2aec8e937f3654620da3e7fea80adc917",
         "accessOutcome": "ok"
       }
     ],

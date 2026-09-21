@@ -26,7 +26,7 @@ Puedes filtrar y comparar hasta tres oportunidades, consultar sus fuentes origin
 
 - **Fuentes identificables.** Cada ficha enlaza la institución o el anuncio y conserva la fecha de comprobación. Las nuevas incorporaciones contrastan las condiciones con páginas y PDF oficiales; los cambios que afectan a su evidencia se retienen para revisión.
 - **Condiciones explícitas.** Plazos, duración, idiomas, requisitos y financiación se publican cuando hay evidencia. Los campos desconocidos siguen como desconocidos. Una ayuda condicionada no se presenta como financiación garantizada.
-- **Tiers por disciplina.** Se basan en actividad e impacto de investigación, con indicadores, ventanas, umbrales y fuentes visibles. Informática tiene la primera cohorte completa; IA, estadística y matemáticas aplicadas siguen pendientes. La ausencia de datos no recibe un tier bajo. [Consultar el método](docs/institution-discovery.md#indicadores-de-fortaleza-por-disciplina).
+- **Tiers por disciplina.** Se basan en actividad e impacto de investigación, con indicadores, ventanas, umbrales y fuentes visibles. La edición del 21 de septiembre de 2026 incluye 850 instituciones con muestra suficiente en informática, 548 en IA, 142 en estadística y 89 en matemáticas aplicadas. Las cohortes se solapan; la ausencia de datos no recibe un tier bajo. [Consultar el método](docs/institution-discovery.md#indicadores-de-fortaleza-por-disciplina).
 - **Actualización semanal.** El recolector se ejecuta los lunes a las 04:23 UTC y admite ejecución manual. La web vuelve a consultar los datos cada cinco minutos. Ese refresco no supone una nueva comprobación de todo internet.
 - **Continuidad de los datos.** La web consulta PostgreSQL en Neon y dispone de una instantánea de respaldo versionada. Los errores de acceso conservan la última ficha válida y quedan registrados.
 
@@ -77,6 +77,7 @@ La aplicación utiliza React y Vinext sobre un Worker de Sites. Los recolectores
 - [Revisión de financiación nórdica](docs/nordic-funding-review-2026-09-20.md): 52 programas incorporados el 20 de septiembre de 2026, ediciones agrupadas y discrepancias documentadas.
 - [Revisión de programas de Padua](docs/padua-review-2026-09-21.md): 17 incorporaciones, dos títulos ya presentes y un candidato pendiente, con límites de evidencia explícitos.
 - [Revisión de Austria](docs/austria-review-2026-09-21.md): 38 másteres y 6 programas de financiación, rutas agrupadas, créditos de tesis contrastados y cobertura pendiente por institución.
+- [Revisión de doctorados de Polonia](docs/poland-doctoral-review-2026-09-21.md): seis rutas doctorales y dos ayudas, con requisitos, estipendios y rondas cerradas diferenciados.
 
 Para ampliar la cobertura, una fuente debe declarar su alcance, conservar la procedencia y superar la revisión de identidad, disciplina, geografía y condiciones. Los candidatos se preparan con `npm run harvest:candidates`; su puntuación ordena el trabajo y no los incorpora al catálogo.
 

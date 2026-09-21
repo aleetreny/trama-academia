@@ -160846,5 +160846,776 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://szd.pwr.edu.pl/en/about-us",
+    "institution": "Wrocław University of Science and Technology",
+    "country": "PL",
+    "title": "Doctoral School — Information and Communication Technology",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "4 años",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Máster o equivalente; existe una vía excepcional por logros científicos sobresalientes desde grado o tercer curso de un máster integrado. Inglés B2 acreditado. Antes de registrarse se requiere supervisor, acuerdo sobre el proyecto y compromiso del departamento sobre los recursos. Sin matrícula para cualquier nacionalidad; la solicitud tiene una tasa de 230 PLN o 55 EUR.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca financiada por Wrocław Tech: 4.700 PLN brutos/mes hasta el mes de la evaluación intermedia; 5.700 PLN brutos/mes después de superarla. Importes vigentes desde enero de 2026. Los proyectos externos tienen condiciones propias."
+    },
+    "researchNote": "Ruta doctoral de informática técnica y telecomunicaciones dentro de una escuela común de 13 disciplinas. Tesis original supervisada y evaluación intermedia al finalizar el segundo año. La solicitud ordinaria de 2026/27 cerró el 2 de junio y la adicional de ICT el 4 de septiembre. El calendario permite admisión ligada a financiación externa hasta el 15 de febrero de 2027; requiere un proyecto financiador y no acredita una vacante concreta. La posible ronda de febrero depende de plazas remanentes y autorización.",
+    "evidencePages": [
+      {
+        "url": "https://szd.pwr.edu.pl/o-szkole",
+        "label": "Disciplinas oficiales"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/d/YGBUKOTtQKxVvAUdqREFBPF0WUXJ9X1hOSylDC0QSFG9PFQk5Eht1FRMSWHoFPFgHFkhCcH5bXFRfOA/03itt_eng.pdf",
+        "label": "Normas de admisión ICT 2026/27",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/admission-procedure",
+        "label": "Procedimiento y tasa"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/tuition-fees",
+        "label": "Matrícula"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/scholarships",
+        "label": "Beca y evaluación intermedia"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us/news/increase-in-doctoral-scholarship-amounts-52.html",
+        "label": "Importes mensuales desde enero de 2026"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/deadlines",
+        "label": "Calendario de admisión"
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us/news/additional-recruitment-in-september-2026-in-three-scientific-disciplines-54.html",
+        "label": "Ronda adicional de ICT de septiembre"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us",
+        "field": "duration-language",
+        "phrases": [
+          "conducted in English and lasts 4 years"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/o-szkole",
+        "field": "discipline",
+        "phrases": [
+          "informatyka techniczna i telekomunikacja"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/d/YGBUKOTtQKxVvAUdqREFBPF0WUXJ9X1hOSylDC0QSFG9PFQk5Eht1FRMSWHoFPFgHFkhCcH5bXFRfOA/03itt_eng.pdf",
+        "field": "entry",
+        "phrases": [
+          "holding MSc. degree or an equivalent degree",
+          "minimum B2 level",
+          "get the consent of the potential supervisor"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/tuition-fees",
+        "field": "tuition",
+        "phrases": [
+          "tuition free for all doctoral students"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/admission-procedure",
+        "field": "application-fee",
+        "phrases": [
+          "PLN 230.00",
+          "EUR 55.00"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/scholarships",
+        "field": "funding",
+        "phrases": [
+          "PLN 4 700 gross",
+          "PLN 5 700 gross",
+          "positive result of the mid-term evaluation"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us/news/increase-in-doctoral-scholarship-amounts-52.html",
+        "field": "funding-period",
+        "phrases": [
+          "monthly doctoral scholarships"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/for-candidates/deadlines",
+        "field": "admissions",
+        "phrases": [
+          "June 2, 2026",
+          "February 15, 2027",
+          "may consent"
+        ]
+      },
+      {
+        "url": "https://szd.pwr.edu.pl/en/about-us/news/additional-recruitment-in-september-2026-in-three-scientific-disciplines-54.html",
+        "field": "closed-additional-round",
+        "phrases": [
+          "September 4, 2026",
+          "Information and communication technology"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://phdschool.put.poznan.pl/index.php/en/dziedziny-i-dyscypliny",
+    "institution": "Poznań University of Technology",
+    "country": "PL",
+    "title": "Doctoral School — Information and Communication Technology",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "8 semestres",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Máster o equivalente, con vía excepcional para candidatos de grado o tercer curso de máster integrado con logros científicos sobresalientes. Inglés B2 acreditado. Hay que elegir un único tema, aportar declaración del futuro supervisor y propuesta de plan de investigación. Selección por expediente y entrevista; el documento del título debe entregarse dentro del calendario.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "La escuela contempla beca doctoral y complementos sujetos a elegibilidad. No se ha verificado aquí la cuantía base vigente; los complementos por méritos y el fondo propio tienen reglas independientes."
+    },
+    "researchNote": "Una ruta de ICT dentro de la escuela doctoral. El plan 2026/27 incluye investigación individual, publicaciones y tesis; exige al menos 43 ECTS, estancia continua de dos meses y prácticas docentes de hasta 60 horas por curso. La entrega de solicitudes cerró el 30 de junio de 2026. Los trámites de septiembre corresponden a candidatos ya seleccionados o en lista de espera.",
+    "evidencePages": [
+      {
+        "url": "https://phdschool.put.poznan.pl/index.php/dziedziny-i-dyscypliny",
+        "label": "Denominación oficial de la disciplina"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/Resolution_Admission%20rules%20to%20Doctoral%20School.pdf",
+        "label": "Requisitos y concurso de admisión",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/en/doctoral%20training%20program%20PhDSchool/2026-2027",
+        "label": "Plan doctoral 2026/27"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/!_Harmonogram%20_JMR_ENG.pdf",
+        "label": "Calendario 2026/27",
+        "format": "pdf"
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "label": "Condiciones de los complementos de beca",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://phdschool.put.poznan.pl/index.php/dziedziny-i-dyscypliny",
+        "field": "discipline",
+        "phrases": [
+          "informatyka techniczna i telekomunikacja"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/Resolution_Admission%20rules%20to%20Doctoral%20School.pdf",
+        "field": "entry",
+        "phrases": [
+          "hold master’s degree",
+          "at least at B2 level",
+          "declaration from a potential doctoral thesis supervisor"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/en/doctoral%20training%20program%20PhDSchool/2026-2027",
+        "field": "research-training",
+        "phrases": [
+          "at least 43 ECTS credits",
+          "2 months continuously",
+          "doctoral dissertation",
+          "Education at the Doctoral School is carried out in English",
+          "SEMESTER 8"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/rekrutacja/26-27/!_Harmonogram%20_JMR_ENG.pdf",
+        "field": "closed-round",
+        "phrases": [
+          "from May 6, 2026 to June 30, 2026",
+          "waiting list"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "field": "funding-conditions",
+        "phrases": [
+          "who receive a doctoral scholarship financed by a subsidy"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://ids.p.lodz.pl/rekrutacja/rekrutacja-20262027",
+    "institution": "Lodz University of Technology",
+    "country": "PL",
+    "title": "Interdisciplinary Doctoral School — Informatyka techniczna i telekomunikacja",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática"
+    ],
+    "duration": "Plan de 8 semestres",
+    "languages": [
+      "Inglés"
+    ],
+    "entry": "Título de segundo ciclo o equivalente; el reglamento contempla admisión excepcional con recomendación de la disciplina. Inglés mínimo B2 y entrevista en inglés. Se exige una propuesta de investigación acordada con el supervisor y declaraciones de supervisión y recursos. Tasa de solicitud: 200 PLN.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Para doctorandos sin título doctoral: estipendio mensual mínimo del 37% del salario de referencia de profesor hasta el mes de la evaluación intermedia y del 57% después. Máximo general de cuatro años, sujeto a las condiciones de continuidad. La norma excluye ciertos casos de contratación obligatoria por la propia institución con remuneración superior a ese salario de referencia."
+    },
+    "researchNote": "Ruta de informática técnica y telecomunicaciones del plan oficial 2026/27. Incluye investigación individual, seminario durante los semestres 1–8 y tesis supervisada. La solicitud ordinaria cerró el 8 de septiembre de 2026 a las 12:00 UTC+2; las entrevistas son del 18 al 24 de septiembre. Las vías de proyectos y doctorado industrial tienen requisitos y selección adicionales.",
+    "evidencePages": [
+      {
+        "url": "https://ids.p.lodz.pl/sites/ids/files/2026-04/Uchwa%C5%82a%2041_2026_program%20kszta%C5%82cenia%20ISD%20P%C5%81_0.pdf",
+        "label": "Plan doctoral aprobado en marzo de 2026",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "url": "https://ids.p.lodz.pl/sites/ids/files/2026-03/Uchwa%C5%82a_36_2026%20ws.%20zasad%20rekrutacji%202026_2027.pdf",
+        "label": "Normas de admisión 2026/27",
+        "format": "pdf",
+        "pages": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "url": "https://ids.p.lodz.pl/rekrutacja/dlaczego-warto-ksztalcic-sie-w-isd-pl",
+        "label": "Idioma de la formación"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/harmonogram-postepowania-kwalifikacyjnego-20262027-w-trybie-regularnym",
+        "label": "Calendario y tasa de solicitud"
+      },
+      {
+        "url": "https://ids.p.lodz.pl/doktoranci/stypendium-doktoranckie-w-isd-pl/komunikat-rektora-pl-w-sprawie-trybu-wyplacania",
+        "label": "Condiciones del estipendio — julio de 2026"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://ids.p.lodz.pl/sites/ids/files/2026-04/Uchwa%C5%82a%2041_2026_program%20kszta%C5%82cenia%20ISD%20P%C5%81_0.pdf",
+        "field": "discipline-research",
+        "phrases": [
+          "Informatyka techniczna i telekomunikacja",
+          "semestr 1-8",
+          "złożeniem rozprawy"
+        ]
+      },
+      {
+        "url": "https://ids.p.lodz.pl/sites/ids/files/2026-03/Uchwa%C5%82a_36_2026%20ws.%20zasad%20rekrutacji%202026_2027.pdf",
+        "field": "entry",
+        "phrases": [
+          "poziomie co najmniej B2",
+          "opiekuna naukowego",
+          "studiów drugiego stopnia"
+        ]
+      },
+      {
+        "url": "https://ids.p.lodz.pl/rekrutacja/dlaczego-warto-ksztalcic-sie-w-isd-pl",
+        "field": "language",
+        "phrases": [
+          "angielskim"
+        ]
+      },
+      {
+        "url": "https://ids.p.lodz.pl/harmonogram-postepowania-kwalifikacyjnego-20262027-w-trybie-regularnym",
+        "field": "admission-calendar",
+        "phrases": [
+          "08.09.2026 r.",
+          "12.00 UTC +2:00",
+          "200 PLN"
+        ]
+      },
+      {
+        "url": "https://ids.p.lodz.pl/doktoranci/stypendium-doktoranckie-w-isd-pl/komunikat-rektora-pl-w-sprawie-trybu-wyplacania",
+        "field": "funding",
+        "phrases": [
+          "37% wynagrodzenia profesora",
+          "57% wynagrodzenia profesora",
+          "nieposiadający stopnia doktora",
+          "nie może przekroczyć 4 lat",
+          "zatrudnienia w podmiocie prowadzącym szkołę doktorską"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+    "institution": "Nicolaus Copernicus University",
+    "country": "PL",
+    "title": "Academia Scientiarum Thoruniensis — PhD in Mathematics",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Matemáticas aplicadas",
+      "Estadística"
+    ],
+    "duration": "4 años",
+    "languages": [],
+    "entry": "Máster o equivalente y aptitud para investigación; las bases recogen excepciones de acceso. Inglés B2 acreditado o estudios anteriores cursados en inglés. CV y carta de motivación en inglés con elección de los proyectos publicados. La reforma de enero de 2026 permite preseleccionar un máximo de tres entrevistados por proyecto cuando haya más de tres aspirantes.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Estipendio doctoral publicado: 3.570,50 PLN brutos/mes antes de la evaluación intermedia y 5.500,50 después de superarla. Dirigido a personas sin doctorado; máximo general de 48 meses acumulados en escuelas doctorales, con las excepciones y condiciones de las bases."
+    },
+    "researchNote": "Se recoge la ruta de matemáticas de AST, limitada aquí a las líneas aplicadas verificadas: ecuaciones diferenciales estocásticas y optimización, y modelos geométricos de mecánica de fluidos. Son temas dentro del programa, no vacantes adicionales. El marco formativo dura cuatro años, con 34 ECTS; parte de las clases puede impartirse en inglés. La inscripción ordinaria de 2026/27 cerró el 3 de julio; la escuela publica por separado admisiones ligadas a proyectos.",
+    "evidencePages": [
+      {
+        "url": "https://ast.umk.pl/rekrutacja/rekrutacja-2026-2027/",
+        "label": "Admisión 2026/27"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/US.13.2021-1.pdf",
+        "label": "Bases de admisión",
+        "format": "pdf",
+        "pages": [
+          2,
+          3
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/US.7.2026.pdf",
+        "label": "Reforma de las bases — enero de 2026",
+        "format": "pdf"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/Framework_programme_of_education_2023.pdf",
+        "label": "Marco de formación doctoral",
+        "format": "pdf",
+        "pages": [
+          1,
+          2
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/phd-proposals-2026-2027/",
+        "label": "Temas doctorales 2026/27"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_02_2026_Backward-stochastic-differential-equations-and-their-applications-to-optimization-problems.pdf",
+        "label": "Línea de ecuaciones estocásticas y optimización",
+        "format": "pdf"
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_03_2026_Geometric-analysis-of-flow-in-selected-fluid-mechanics-models.pdf",
+        "label": "Línea de mecánica de fluidos",
+        "format": "pdf"
+      },
+      {
+        "url": "https://ast.umk.pl/doktorant/stypendia-doktoranckie/",
+        "label": "Estipendio doctoral"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://ast.umk.pl/szkola-doktorska/informacje-ogolne/",
+        "field": "programme",
+        "phrases": [
+          "matematyka"
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/US.13.2021-1.pdf",
+        "field": "entry",
+        "phrases": [
+          "magistra, magistra inżyniera lub równorzędny",
+          "B2",
+          "życiorysu naukowego przygotowanego w języku angielskim"
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/US.7.2026.pdf",
+        "field": "selection-2026",
+        "phrases": [
+          "nie więcej niż trzy osoby"
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/Framework_programme_of_education_2023.pdf",
+        "field": "duration",
+        "phrases": [
+          "Duration of education: 4 years",
+          "Number of ECTS credits: 34",
+          "partially conducted in English"
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_02_2026_Backward-stochastic-differential-equations-and-their-applications-to-optimization-problems.pdf",
+        "field": "applied-research",
+        "phrases": [
+          "stochastic differential equations",
+          "optimization problems"
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/panel/wp-content/uploads/MAT_03_2026_Geometric-analysis-of-flow-in-selected-fluid-mechanics-models.pdf",
+        "field": "applied-research",
+        "phrases": [
+          "fluid mechanics",
+          "partial differential equations"
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/rekrutacja/rekrutacja-2026-2027/",
+        "field": "closed-round",
+        "phrases": [
+          "29.06.-3.07.2026",
+          "23:59",
+          "15:00"
+        ]
+      },
+      {
+        "url": "https://ast.umk.pl/doktorant/stypendia-doktoranckie/",
+        "field": "funding",
+        "phrases": [
+          "3 570,50",
+          "5 500,50",
+          "48 miesięcy"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.uni.lodz.pl/sdnsip/rekrutacja/dla-kandydata-na-doktoranta",
+    "institution": "University of Łódź",
+    "country": "PL",
+    "title": "Doctoral School of Exact and Natural Sciences — Informatyka",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática"
+    ],
+    "languages": [
+      "Polaco",
+      "Inglés"
+    ],
+    "entry": "Máster o equivalente; existe acceso excepcional por logros científicos de la clase definida en las bases. Propuesta doctoral original y documentación de inglés. El consentimiento previo de un supervisor no es obligatorio: quien no lo tiene solicita que se designe uno de la lista publicada. Selección por documentación y entrevista.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Mínimo institucional publicado desde enero de 2026: 3.570,50 PLN brutos/mes hasta el mes de la evaluación intermedia y 5.500,50 después. La página establece exclusión cuando la formación obliga a un contrato con la institución y salario superior a 9.650 PLN brutos mensuales. Se aplican las restantes condiciones del estipendio doctoral."
+    },
+    "researchNote": "La ruta de informática figura expresamente en el plan vigente desde 2024/25 y en los cupos de 2026/27, aunque la página internacional general todavía la omite. Incluye plan individual de investigación, tesis, seminarios y comunicación de resultados. Se puede completar la formación sin saber polaco. La ronda ordinaria recibió solicitudes del 12 al 19 de junio de 2026 y ya está cerrada. El cupo anunciado de cuatro plazas de informática corresponde a esa ronda, no a cuatro vacantes actuales.",
+    "evidencePages": [
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Dokumenty_i_regulaminy/KSZTA%C5%81CENIE/2024_Program_kszta%C5%82cenia/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_614.pdf",
+        "label": "Plan doctoral vigente",
+        "format": "pdf",
+        "pages": [
+          2,
+          5
+        ]
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_185_Senatu_U%C5%81_z_16.12.2025_r.pdf",
+        "label": "Bases de admisión 2026/27",
+        "format": "pdf",
+        "pages": [
+          4,
+          5,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/zarz._nr_55_z_12.01.2026_r.pdf",
+        "label": "Calendario y cupos por disciplina",
+        "format": "pdf",
+        "pages": [
+          1,
+          2
+        ]
+      },
+      {
+        "url": "https://www.uni.lodz.pl/sdnsip/ksztalcenie/stypendia-nagrody-i-dofinansowanie-dzialalnosci-doktorantow",
+        "label": "Importes y condiciones del estipendio"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Dokumenty_i_regulaminy/KSZTA%C5%81CENIE/2024_Program_kszta%C5%82cenia/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_614.pdf",
+        "field": "discipline",
+        "phrases": [
+          "w dyscyplinie informatyka"
+        ]
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Dokumenty_i_regulaminy/KSZTA%C5%81CENIE/2024_Program_kszta%C5%82cenia/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_614.pdf",
+        "field": "research-language",
+        "phrases": [
+          "przygotować rozprawę doktorską",
+          "języku polskim lub angielskim",
+          "nieznającemu języka polskiego"
+        ]
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/Za%C5%82%C4%85cznik_do_uchwa%C5%82y_nr_185_Senatu_U%C5%81_z_16.12.2025_r.pdf",
+        "field": "entry",
+        "phrases": [
+          "tytuł zawodowy magistra",
+          "W przypadku braku powyższego oświadczenia kandydat składa wniosek"
+        ]
+      },
+      {
+        "url": "https://www.uni.lodz.pl/fileadmin/Jednostki/Szko%C5%82y_doktorskie/SDNSiP/Rekrutacja/2026_2027/zarz._nr_55_z_12.01.2026_r.pdf",
+        "field": "closed-admission",
+        "phrases": [
+          "12-19.06.2026",
+          "informatyka"
+        ]
+      },
+      {
+        "url": "https://www.uni.lodz.pl/sdnsip/ksztalcenie/stypendia-nagrody-i-dofinansowanie-dzialalnosci-doktorantow",
+        "field": "funding",
+        "phrases": [
+          "3 570,50 zł brutto",
+          "5 500,50 zł brutto",
+          "9 650,00 zł brutto",
+          "obowiązkiem zatrudnienia"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.sd.pw.edu.pl/sd_en",
+    "institution": "Warsaw University of Technology",
+    "country": "PL",
+    "title": "Doctoral School — Informatyka techniczna i telekomunikacja",
+    "kind": "programme",
+    "stage": "doctorado",
+    "fields": [
+      "Informática"
+    ],
+    "entry": "Máster o título que habilite para el doctorado, expediente y méritos científicos. Antes de solicitar se debe acordar el tema con un supervisor y obtener su aceptación; se exige declaración de inglés y entrevista. Los títulos de fuera de la UE tienen requisitos de reconocimiento y documentación descritos en la admisión oficial.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "La escuela publica 3.571 PLN brutos/mes y 5.501 tras superar la evaluación intermedia, desde el mes siguiente al resultado. Son las cifras redondeadas que muestra esta institución. Para doctorandos sin doctorado; máximo general de cuatro años de pago. Los proyectos externos se rigen además por sus propias condiciones."
+    },
+    "researchNote": "Desde 2022/23 hay una escuela doctoral común, resultado de la unión de cinco escuelas anteriores. Aquí se recoge su ruta de informática técnica y telecomunicaciones. La inscripción para el semestre de invierno de 2026/27 cerró el 31 de julio. El plazo del 16 al 21 de septiembre es para completar documentos de candidatos ya clasificados. La admisión financiada por proyectos exige concurso y financiación previos; no equivale a una plaza abierta general.",
+    "evidencePages": [
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2954/22266/file/Guide%20for%20Candidates_ANG.pdf",
+        "label": "Guía de admisión 2026",
+        "format": "pdf",
+        "pages": [
+          3,
+          4,
+          6,
+          7
+        ]
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2983/22656/file/Decyzja%20nr%203_SD_2026%20w%20sprawie%20ustalenia%20limit%C3%B3w%20przyj%C4%99%C4%87%20do%20poszczeg%C3%B3lnych%20dyscyplin%20w%20SD%20na%20rok%20akademicki%202026_2027.pdf",
+        "label": "Disciplinas y cupos oficiales 2026/27",
+        "format": "pdf"
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/Candidates/Admissions-2026Z",
+        "label": "Calendario y condiciones 2026/27"
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/PhD-Students/Social-Matters/Scholarships",
+        "label": "Estipendio doctoral y duración máxima del pago"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2954/22266/file/Guide%20for%20Candidates_ANG.pdf",
+        "field": "entry",
+        "phrases": [
+          "Master’s degree",
+          "English language declaration",
+          "acceptance of the supervisor"
+        ]
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2954/22266/file/Guide%20for%20Candidates_ANG.pdf",
+        "field": "single-school",
+        "phrases": [
+          "merging of five Doctoral Schools"
+        ]
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/content/download/2983/22656/file/Decyzja%20nr%203_SD_2026%20w%20sprawie%20ustalenia%20limit%C3%B3w%20przyj%C4%99%C4%87%20do%20poszczeg%C3%B3lnych%20dyscyplin%20w%20SD%20na%20rok%20akademicki%202026_2027.pdf",
+        "field": "discipline",
+        "phrases": [
+          "Informatyka techniczna i",
+          "telekomunikacja"
+        ]
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/Candidates/Admissions-2026Z",
+        "field": "closed-admission",
+        "phrases": [
+          "10.06-31.07.2026",
+          "16.09-21.09.2026"
+        ]
+      },
+      {
+        "url": "https://www.sd.pw.edu.pl/sd_en/PhD-Students/Social-Matters/Scholarships",
+        "field": "funding",
+        "phrases": [
+          "PLN 3 571 gross",
+          "PLN 5 501 gross",
+          "no longer than for 4 years",
+          "not having a doctoral degree"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/zwiekszenie-stypendium",
+    "primaryEvidenceUrl": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+    "institution": "Poznań University of Technology",
+    "country": "PL",
+    "title": "PUT — complemento de beca doctoral por méritos 2026/27",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Informática"
+    ],
+    "duration": "Curso 2026/27",
+    "entry": "Doctorandos de PUT con beca financiada mediante subvención, al día en su formación y sin empleo en la universidad. Primer curso: al menos 28 puntos de admisión o uno de los méritos específicos; la escuela tramita la propuesta. Cursos 2–4: solicitud y méritos registrados en SIN PUT, hasta el 10 de octubre de 2026.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Complemento de 600 PLN brutos para primer y segundo curso si se cumplen los criterios; en tercero y cuarto, 300 o 600 PLN brutos según el mérito. Es un incremento de la beca doctoral, no su importe total. Concesión sujeta a evaluación y decisión del rector."
+    },
+    "researchNote": "Instrumento interno de apoyo por publicaciones, patentes o proyectos, con requisitos distintos por año. El reglamento de mayo de 2026 regula la edición 2026/27. Para cursos 2–4 se valoran los dos semestres anteriores; no debe confundirse con la beca del fondo propio, que tiene otro procedimiento.",
+    "evidencePages": [
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "label": "Reglamento del complemento 2026/27",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "field": "eligibility",
+        "phrases": [
+          "who receive a doctoral scholarship financed by a subsidy and are not employed at the University",
+          "at least 28 points"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "field": "amount",
+        "phrases": [
+          "PLN 600",
+          "PLN 300"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/Regulamin%20zwi%C4%99kszenia%20stypendium%202026_2027_en.pdf",
+        "field": "deadline",
+        "phrases": [
+          "by 10 October 2026",
+          "1st year doctoral students do not submit an application"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://phdschool.put.poznan.pl/index%2Ephp/en/stypendium-naukowe",
+    "primaryEvidenceUrl": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+    "institution": "Poznań University of Technology",
+    "country": "PL",
+    "title": "PUT Own Scholarship Fund — research scholarship for PhD students",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Informática"
+    ],
+    "duration": "Pago único por curso académico",
+    "entry": "Doctorandos de la escuela de PUT con derecho a beca doctoral a 10 de octubre, plan de investigación y formación al día y logros científicos de los dos semestres anteriores. Se exige al menos una de las clases de publicación, patente o dirección de proyecto establecidas en el reglamento. Solicitud antes del 10 de octubre según la norma general; comprobar la convocatoria del curso.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Pago único por curso; importe fijado por el rector, sin cuantía actual verificada. Como máximo, el 10% de los doctorandos de la escuela puede recibirlo. Selección competitiva por méritos."
+    },
+    "researchNote": "Financiación interna adicional para actividad científica vinculada a la tesis. Reglamento del fondo propio vigente desde octubre de 2024 y enlazado por la escuela. No garantiza una ayuda a todos los admitidos ni constituye una plaza doctoral.",
+    "evidencePages": [
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+        "label": "Reglamento del fondo propio — beca doctoral",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+        "field": "eligibility",
+        "phrases": [
+          "entitled to a doctoral scholarship as of October 10",
+          "last two semesters"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+        "field": "amount-period",
+        "phrases": [
+          "one-time basis per academic year",
+          "amount of a scholarship is specified by the Rector",
+          "maximum of 10%"
+        ]
+      },
+      {
+        "url": "https://phdschool.put.poznan.pl/sites/default/files/SzD/stypendia/!EN%20Zarz%C4%85dzenie%20Nr%2029%20-%202024_Za%C5%82%C4%85cznik_Regulamin.pdf",
+        "field": "application",
+        "phrases": [
+          "Applications are submitted by 10 October",
+          "comes into force from 1 October 2024"
+        ]
+      }
+    ]
   }
 ]
