@@ -25,6 +25,33 @@ test('funding eligible stages and accent-insensitive multiword search',()=>{
  const input={...data,records:[record('beca',{title:'Beca estadística',kind:'funding-programme',stage:'master',eligibleStages:['doctorado'],funding:{kind:'scholarship'}})]};
  assert.equal(selectRecords(input,{...defaults,stage:'doctorado',q:'estadistica beca',funding:'scholarship'},now).length,1);
 });
+
+test('funder country is independent of study destination and never inferred from it',()=>{
+ const input={records:[
+  record('spanish-abroad',{kind:'funding-programme',country:'EU',funderCountry:'ES'}),
+  record('spanish-local',{kind:'funding-programme',country:'ES',funderCountry:'ES'}),
+  record('foreign-local',{kind:'funding-programme',country:'ES',funderCountry:'DE'}),
+  record('unknown',{kind:'funding-programme',country:'ES'}),
+ ],institutions:{}};
+ const ids=f=>selectRecords(input,{...defaults,...f},now).map(r=>r.id).sort();
+ assert.deepEqual(ids({funderCountry:'ES'}),['spanish-abroad','spanish-local']);
+ assert.deepEqual(ids({country:'ES',funderCountry:'ES'}),['spanish-local']);
+ assert.deepEqual(ids({funderCountry:'unknown'}),['unknown']);
+ const f={...defaults,funderCountry:'ES',country:'EU',stage:'master'};
+ assert.deepEqual(readFilters(filterQuery(f)),f);
+ assert.equal(filterQuery(f).get('financiador'),'ES');
+ assert.equal(readFilters(new URLSearchParams('financiador=invented')).funderCountry,'all');
+});
+
+test('named multi-country funding destinations match individually without treating EU as every country',()=>{
+ const input={records:[
+  record('ibera',{kind:'funding-programme',country:'EU',destinationCountries:['ES','PT'],funderCountry:'ES'}),
+  record('broad',{kind:'funding-programme',country:'EU',funderCountry:'ES'}),
+ ],institutions:{}};
+ for(const country of ['ES','PT']) assert.deepEqual(selectRecords(input,{...defaults,country},now).map(r=>r.id),['ibera']);
+ assert.equal(selectRecords(input,{...defaults,country:'FR'},now).length,0);
+ assert.equal(selectRecords(input,{...defaults,country:'EU'},now).length,2);
+});
 const institution=(id,name,country='ES',domain='university.es')=>({id,name,country,aliases:[],domains:[domain],officialUrl:'https://'+domain});
 test('identity matching respects country, aliases and unique official domains',()=>{
  const match=createInstitutionMatcher([{...institution('a','Universidad Única'),aliases:['Unique University']}]);

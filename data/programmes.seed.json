@@ -548,17 +548,68 @@
     "eligibilityNote": "Investigación con una institución anfitriona en Alemania. La ruta de postdoc y la de personal investigador con experiencia tienen requisitos distintos."
   },
   {
-    "title": "Becas de doctorado INPhINIT Incoming",
+    "title": "Becas de doctorado INPhINIT Incoming · 2026",
     "institution": "Fundación la Caixa",
-    "country": "ES",
+    "country": "EU",
+    "funderCountry": "ES",
     "url": "https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-incoming",
     "kind": "funding-programme",
     "stage": "doctorado",
     "eligibleStages": [
       "doctorado"
     ],
-    "entry": "Según programa y convocatoria",
-    "eligibilityNote": "Comprueba el centro elegible en España o Portugal y las condiciones de movilidad, residencia y experiencia investigadora de la convocatoria."
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "destinationCountries": [
+      "ES",
+      "PT"
+    ],
+    "primaryEvidenceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+    "entry": "Investigadores de cualquier nacionalidad que cumplan los requisitos de acceso al doctorado y las condiciones de movilidad de esta modalidad.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca competitiva para doctorado. Confirmar costes de contratación, matrícula e investigación en las bases; no se atribuye un importe a partir del anuncio."
+    },
+    "eligibilityNote": "Destinos: centros de investigación de excelencia en España o Portugal. Incoming y Retaining tienen reglas de movilidad distintas; comprobar residencia, experiencia y estudios previos antes de solicitar. Fuente primaria independiente: anuncio de la fundación en el BOE; acceso directo automatizado bloqueado.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026",
+      "calendar": "Cierre de esta modalidad: 28 de enero de 2026. La convocatoria 2026 está cerrada.",
+      "editionState": "past",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "label": "Anuncio oficial de las dos modalidades INPhINIT"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Modalidad y cierre",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "phrases": [
+          "INPhINIT - Incoming",
+          "28 de enero de 2026"
+        ]
+      },
+      {
+        "field": "Destino y elegibilidad",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "phrases": [
+          "España y Portugal",
+          "cualquier nacionalidad"
+        ]
+      }
+    ]
   },
   {
     "title": "DAAD — Graduate School Scholarship Programme",
@@ -12711,7 +12762,8 @@
       "master",
       "doctorado"
     ],
-    "city": null
+    "city": null,
+    "funderCountry": "ES"
   },
   {
     "title": "Banco de España — ayudas de posgrado en economía, finanzas e innovación tecnológica · 2026–2027",
@@ -12804,7 +12856,8 @@
       "master",
       "doctorado"
     ],
-    "city": null
+    "city": null,
+    "funderCountry": "ES"
   },
   {
     "title": "MAECI — becas del Gobierno italiano · 2026–2027",
@@ -74776,7 +74829,8 @@
           "devolver toda la cantidad"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "title": "BSE — financiación por mérito para másteres de datos · 2026/27",
@@ -74833,7 +74887,8 @@
           "Data Science Methodology"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "title": "Fundación Carolina — posgrado en informática y datos · 2026/27",
@@ -74904,7 +74959,8 @@
           "reclamación de todos los fondos"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "title": "Ca’ Foscari Honours — becas internacionales de mérito · 2026/27",
@@ -100271,7 +100327,8 @@
           "residencia de larga duración"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "country": "ES",
@@ -100360,7 +100417,8 @@
           "un mes natural"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "country": "ES",
@@ -100445,7 +100503,8 @@
           "cualquier otra beca del Programa JAE"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "country": "ES",
@@ -100526,7 +100585,8 @@
           "17/02/2026"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "country": "ES",
@@ -100617,7 +100677,8 @@
           "17/12/2025"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "country": "ES",
@@ -100697,7 +100758,8 @@
           "18/12/2025"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "country": "ES",
@@ -100784,7 +100846,8 @@
           "23/04/2026 - 04/06/2026"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "country": "ES",
@@ -100876,7 +100939,8 @@
           "dedicación a tiempo completo"
         ]
       }
-    ]
+    ],
+    "funderCountry": "ES"
   },
   {
     "url": "https://www.atu.ie/courses/master-of-science-business-analytics",
@@ -120457,7 +120521,8 @@
         ]
       }
     ],
-    "contract": "Contrato predoctoral formalizado por la entidad beneficiaria"
+    "contract": "Contrato predoctoral formalizado por la entidad beneficiaria",
+    "funderCountry": "ES"
   },
   {
     "url": "https://www.uni-ulm.de/studium/studieren-an-der-uni-ulm/studiengaenge/studiengangsinfo/course/artificial-intelligence-fuer-connected-industries/",
@@ -178281,6 +178346,2721 @@
     "funding": {
       "kind": "unconfirmed",
       "text": "La existencia del programa no garantiza financiación. Consultar ayudas y tasas aplicables."
+    }
+  },
+  {
+    "kind": "funding-programme",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda aplicable a la vía académica de TRAMA cuando el proyecto o los estudios pertenecen a sus disciplinas. La ayuda no sustituye la admisión ni garantiza una plaza.",
+    "title": "Becas de colaboración en departamentos universitarios · 2026/27",
+    "institution": "Ministerio de Educación, Formación Profesional y Deportes",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/general/99/998142/ficha/998142-2026.html",
+    "stage": "grado",
+    "eligibleStages": [
+      "grado",
+      "master"
+    ],
+    "entry": "Último curso de grado con al menos el 75 % de créditos superados, o primer curso completo de un máster oficial. Nota mínima por rama: 7,25 en ingeniería y 7,70 en ciencias. Proyecto avalado y puntuado por el departamento.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Ayuda de 2.000 € para colaborar en investigación universitaria; 2.111 becas en la convocatoria revisada.",
+      "amount": 2000,
+      "currency": "EUR",
+      "period": "award"
+    },
+    "duration": "Curso 2026/27; dedicación según las bases y el proyecto departamental.",
+    "eligibilityNote": "El acceso depende de los estudios y títulos previos: consultar las exclusiones de la convocatoria, especialmente si ya se posee un máster o doctorado. El departamento debe evaluar el proyecto antes de enviar la solicitud.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "calendar": "Convocatoria 2026/27: del 21 de julio a las 08:00 al 22 de septiembre de 2026 a las 15:00. Confirmar la hora y la documentación en la sede.",
+      "edition": "2026/27",
+      "editionState": "announced",
+      "note": "Las futuras ediciones requieren nueva convocatoria; no se anticipan fechas."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Acceso y cobertura",
+        "phrases": [
+          "primer curso de Máster",
+          "75 por ciento",
+          "2.000 euros",
+          "2.111"
+        ]
+      },
+      {
+        "field": "Calendario",
+        "phrases": [
+          "22 de septiembre de 2026 a las 15:00"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "funding-programme",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda aplicable a la vía académica de TRAMA cuando el proyecto o los estudios pertenecen a sus disciplinas. La ayuda no sustituye la admisión ni garantiza una plaza.",
+    "title": "Ramón y Cajal — incorporación posdoctoral · novedades 2026",
+    "institution": "Agencia Estatal de Investigación",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.aei.gob.es/inicio-ryc",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "entry": "Personal investigador posdoctoral de cualquier nacionalidad con una trayectoria destacada; incorporación en organismos del sistema español de investigación.",
+    "funding": {
+      "kind": "salary",
+      "text": "Programa de contratación de cinco años. Para 2026 se anuncia financiación de un proyecto propio y apoyo para una contratación predoctoral; la cuantía y los requisitos definitivos dependen de la convocatoria."
+    },
+    "duration": "Cinco años.",
+    "eligibilityNote": "En la fuente consultada, 2026 figura pendiente de publicación y 2025 en tramitación. No es una beca de entrada al doctorado ni una oferta individual abierta.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "calendar": "La AEI anuncia cambios para 2026, todavía pendiente de publicación en la página consultada.",
+      "edition": "2026",
+      "editionState": "announced",
+      "note": "Comprobar bases definitivas, trayectoria exigida y procedimiento con la entidad de acogida."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Alcance",
+        "phrases": [
+          "todas las nacionalidades y áreas de conocimiento",
+          "proyecto de investigación de 5 años"
+        ]
+      },
+      {
+        "field": "Edición",
+        "phrases": [
+          "Próxima publicación",
+          "2026"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "funding-programme",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda aplicable a la vía académica de TRAMA cuando el proyecto o los estudios pertenecen a sus disciplinas. La ayuda no sustituye la admisión ni garantiza una plaza.",
+    "title": "COST — Short-Term Scientific Missions, estancias de investigación en Europa",
+    "institution": "COST Association",
+    "country": "EU",
+    "funderCountry": "BE",
+    "url": "https://www.cost.eu/cost-actions-event/action-networking-tools/",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado",
+      "postdoc",
+      "faculty"
+    ],
+    "entry": "Participación en una Acción COST pertinente y aceptación de una estancia de colaboración por las instituciones implicadas. Cada Acción decide su convocatoria y selección.",
+    "funding": {
+      "kind": "mobility-grant",
+      "text": "Apoyo a una estancia científica corta, con importe y conceptos financiables establecidos por la Acción. No equivale a financiar un máster o doctorado completo."
+    },
+    "duration": "Variable por Acción y convocatoria.",
+    "eligibilityNote": "El instrumento admite destinos mundiales; esta ficha contempla únicamente destinos europeos y proyectos de las disciplinas TRAMA. Comprobar pertenencia a la red, países elegibles y convocatoria concreta.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Las Acciones publican sus propios plazos dentro de su periodo de financiación. No hay un plazo único para toda Europa.",
+      "edition": "Instrumento vigente; consulta por Acción",
+      "editionState": "unknown",
+      "note": "La existencia del instrumento no implica que todas las Acciones dispongan de fondos o una convocatoria abierta."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Instrumento y continuidad",
+        "phrases": [
+          "Short-Term Scientific Missions",
+          "Over 2000 are funded every year",
+          "researchers involved in a COST Action"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "funding-programme",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda aplicable a la vía académica de TRAMA cuando el proyecto o los estudios pertenecen a sus disciplinas. La ayuda no sustituye la admisión ni garantiza una plaza.",
+    "title": "Erasmus+ — ayudas de movilidad para estudios y prácticas de investigación",
+    "institution": "Comisión Europea · Erasmus+",
+    "country": "EU",
+    "funderCountry": "EU",
+    "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/studying-abroad",
+    "stage": "master",
+    "eligibleStages": [
+      "grado",
+      "master",
+      "doctorado"
+    ],
+    "entry": "Matrícula en una institución participante y movilidad reconocida en los estudios. Se solicita a través de la oficina Erasmus de origen; algunas prácticas también admiten recién titulados.",
+    "funding": {
+      "kind": "mobility-grant",
+      "text": "Contribución a viaje y manutención, variable según institución, origen y destino. La movilidad de estudios evita tasas académicas en la institución receptora; pueden subsistir gastos menores. No garantiza cubrir todos los costes."
+    },
+    "duration": "Movilidad larga de 2 a 12 meses; variantes cortas de 5 a 30 días según modalidad. Límite general de 12 meses por ciclo.",
+    "eligibilityNote": "La ficha agrupa estudios y prácticas de investigación del ámbito TRAMA, únicamente con destino europeo. Las prácticas exigen relevancia académica; no se incluye automáticamente cualquier práctica empresarial. Confirmar acuerdo, selección, cuantía y reconocimiento en origen.",
+    "evidencePages": [
+      {
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/traineeships-abroad-for-students",
+        "label": "Prácticas y condiciones de movilidad Erasmus+"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Acceso y financiación",
+        "phrases": [
+          "Doctoral candidates",
+          "contribution to your travel and daily living costs",
+          "12 months within one study cycle"
+        ]
+      },
+      {
+        "field": "Prácticas",
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/traineeships-abroad-for-students",
+        "phrases": [
+          "recent graduates",
+          "2 to 12 months",
+          "relevant for the degree-related learning"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "funding-programme",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda aplicable a la vía académica de TRAMA cuando el proyecto o los estudios pertenecen a sus disciplinas. La ayuda no sustituye la admisión ni garantiza una plaza.",
+    "title": "EIT Digital Master School — becas de matrícula y excelencia",
+    "institution": "EIT Digital",
+    "country": "EU",
+    "url": "https://masterschool.eitdigital.eu/admissions/fees",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Candidatura y admisión a un máster de EIT Digital. La beca general por mérito admite alumnado de cualquier nacionalidad; las ayudas adicionales de excelencia citadas se reservan a ciudadanía UE/EEE en programas concretos.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Exenciones competitivas del 50 % o 100 % de matrícula para los dos años. Algunas rutas tecnológicas cofinanciadas ofrecen además manutención a ciudadanos UE/EEE; no es una prestación universal."
+    },
+    "duration": "Dos años para las becas generales de matrícula.",
+    "eligibilityNote": "Solicitar la beca en el portal de admisión. Hay depósito de 500 € para determinadas concesiones y tasa de registro de 250 €; consultar devolución y plazos. El pago aplazado de matrícula es financiación reembolsable, no una beca. Las ayudas de universidades asociadas pueden ser incompatibles entre sí.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "La página anuncia apertura de la admisión 2027/28 en otoño de 2026. Confirmar plazos y becas de la cohorte elegida.",
+      "edition": "2026; admisión 2027/28 anunciada",
+      "editionState": "announced",
+      "note": "Seleccionar un itinerario europeo del ámbito TRAMA y comprobar las condiciones de cada universidad."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Cobertura y restricciones",
+        "phrases": [
+          "Full tuition fee waivers",
+          "Half tuition fee waivers",
+          "Citizens of EU/EEA countries",
+          "500 EUR deposit",
+          "250 EUR registration fee"
+        ]
+      },
+      {
+        "field": "Edición",
+        "phrases": [
+          "2027/28 intake"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Becas Fundación Telefónica — másteres tecnológicos · 2026",
+    "institution": "Fundación Telefónica",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://www.fundaciontelefonica.com/becas/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Nacionalidad española; nacimiento desde el 1 de enero de 1991; grado oficial o equivalente obtenido antes del 1 de septiembre de 2026, expediente y admisión al máster conforme a las bases.",
+    "duration": "Hasta 24 meses",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Hasta 80.000 EUR para todo el periodo, principalmente matrícula y, de forma complementaria, gastos asociados. La cuantía depende del coste del programa; no son 80.000 EUR anuales."
+    },
+    "eligibilityNote": "Primera edición limitada a másteres tecnológicos; la nota de presentación general que menciona doctorado no amplía estas bases. Excluye MBA, másteres habilitantes y programas predominantemente de gestión sin especialización tecnológica. Se admiten modalidades online o mixtas y tiempo parcial condicionado. Para estudios fuera de España existe compromiso de retorno o actividad vinculada a su ecosistema tecnológico en los doce meses posteriores, con excepciones previstas. Esta ficha limita los destinos a Europa.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "edition": "2026",
+      "calendar": "Solicitudes del 1 al 30 de junio de 2026; cerrada. La página anuncia 50 becas anuales y una segunda edición.",
+      "editionState": "past",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://legal.fundaciontelefonica.com/bases-de-la-convocatoria-becas/",
+        "label": "Bases legales de la primera edición"
+      },
+      {
+        "url": "https://www.fundaciontelefonica.com/becas/faqs-becas-fundacion-telefonica/",
+        "label": "Preguntas frecuentes"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Máster, dotación y duración",
+        "url": "https://legal.fundaciontelefonica.com/bases-de-la-convocatoria-becas/",
+        "phrases": [
+          "máster",
+          "80.000 EUR",
+          "veinticuatro (24) meses"
+        ]
+      },
+      {
+        "field": "Nacionalidad, edad, retorno y plazo",
+        "url": "https://legal.fundaciontelefonica.com/bases-de-la-convocatoria-becas/",
+        "phrases": [
+          "nacionalidad española",
+          "1 de enero de 1991",
+          "Compromiso de retorno",
+          "30 de junio de 2026"
+        ]
+      },
+      {
+        "field": "Periodicidad",
+        "url": "https://www.fundaciontelefonica.com/becas/",
+        "phrases": [
+          "50 becas anuales"
+        ]
+      },
+      {
+        "field": "Modalidades",
+        "url": "https://www.fundaciontelefonica.com/becas/faqs-becas-fundacion-telefonica/",
+        "phrases": [
+          "online o blended"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Becas la Caixa de posgrado en el extranjero · 2026",
+    "institution": "Fundación la Caixa",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://fundacionlacaixa.org/es/becas-posgrado-extranjero-convocatoria",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "primaryEvidenceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+    "entry": "Candidatos de nacionalidad española o portuguesa. Revisar en las bases la titulación de origen, el periodo de graduación, los idiomas y la admisión.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca competitiva de posgrado. Consultar en las bases vigentes matrícula, manutención y demás conceptos; no se atribuye una cuantía con el anuncio del BOE."
+    },
+    "eligibilityNote": "Se consideran solo destinos europeos del esquema internacional. La página oficial incluye máster, doctorado e investigación predoctoral; el anuncio del BOE acredita el programa y su nacionalidad y plazo, pero no desarrolla todas las condiciones. La lectura automatizada de las bases de la fundación está bloqueada; no se certifican importes ni elegibilidad detallada.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026",
+      "calendar": "El anuncio oficial fijó el cierre en el 19 de enero de 2026. Edición cerrada; revisar el calendario de una convocatoria posterior.",
+      "editionState": "past",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "label": "Convocatoria oficial publicada por la fundación en el BOE"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Posgrado, ciudadanía y convocatoria 2026",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "phrases": [
+          "posgrado en el extranjero",
+          "nacionalidad española o portuguesa",
+          "19 de enero de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Becas de doctorado INPhINIT Retaining · 2026",
+    "institution": "Fundación la Caixa",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-retaining",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "destinationCountries": [
+      "ES",
+      "PT"
+    ],
+    "primaryEvidenceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+    "entry": "Investigadores de cualquier nacionalidad que cumplan los requisitos de acceso al doctorado y las condiciones de movilidad de esta modalidad.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca competitiva para doctorado. Confirmar costes de contratación, matrícula e investigación en las bases; no se atribuye un importe a partir del anuncio."
+    },
+    "eligibilityNote": "Destinos: universidades y centros de investigación de España o Portugal. Incoming y Retaining tienen reglas de movilidad distintas; comprobar residencia, experiencia y estudios previos antes de solicitar. Fuente primaria independiente: anuncio de la fundación en el BOE; acceso directo automatizado bloqueado.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026",
+      "calendar": "Cierre de esta modalidad: 18 de febrero de 2026. La convocatoria 2026 está cerrada.",
+      "editionState": "past",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "label": "Anuncio oficial de las dos modalidades INPhINIT"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Modalidad y cierre",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "phrases": [
+          "INPhINIT - Retaining",
+          "18 de febrero de 2026"
+        ]
+      },
+      {
+        "field": "Destino y elegibilidad",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-45632",
+        "phrases": [
+          "España y Portugal",
+          "cualquier nacionalidad"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Becas posdoctorales Junior Leader Incoming · 2027",
+    "institution": "Fundación la Caixa",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-convocatoria-incoming",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "destinationCountries": [
+      "ES",
+      "PT"
+    ],
+    "primaryEvidenceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25830",
+    "entry": "Investigadores de cualquier nacionalidad con doctorado y los requisitos de experiencia y movilidad de la modalidad elegida.",
+    "duration": "Contrato de 3 años",
+    "funding": {
+      "kind": "salary",
+      "text": "Contrato laboral de tres años para desarrollar un proyecto de investigación. La asignación total del programa no debe presentarse como sueldo personal; consultar desglose salarial y recursos en las bases."
+    },
+    "eligibilityNote": "Incoming exige movilidad hacia el país de acogida y un centro acreditado de excelencia. El BOE distingue residencia inferior/superior a doce meses en los tres años anteriores. Las bases detallan el cómputo por país, excepciones y experiencia posdoctoral; deben revisarse antes de presentar candidatura.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2027",
+      "calendar": "El BOE fija el cierre en el 23 de septiembre de 2026. Es la convocatoria para becas de 2027; comprobar también la hora límite en las bases.",
+      "editionState": "announced",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25830",
+        "label": "Convocatoria Junior Leader 2027 publicada por la fundación en el BOE"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Modalidad, destino, contrato y plazo",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25830",
+        "phrases": [
+          "Incoming: 20 becas",
+          "contrato laboral de 3 años",
+          "23 de septiembre de 2026",
+          "español y portugués"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Becas posdoctorales Junior Leader Retaining · 2027",
+    "institution": "Fundación la Caixa",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-convocatoria-retaining",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "destinationCountries": [
+      "ES",
+      "PT"
+    ],
+    "primaryEvidenceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25830",
+    "entry": "Investigadores de cualquier nacionalidad con doctorado y los requisitos de experiencia y movilidad de la modalidad elegida.",
+    "duration": "Contrato de 3 años",
+    "funding": {
+      "kind": "salary",
+      "text": "Contrato laboral de tres años para desarrollar un proyecto de investigación. La asignación total del programa no debe presentarse como sueldo personal; consultar desglose salarial y recursos en las bases."
+    },
+    "eligibilityNote": "Retaining se dirige a investigadores con residencia o actividad previa en el país de acogida y admite universidades y centros de investigación de España o Portugal. El BOE distingue residencia inferior/superior a doce meses en los tres años anteriores. Las bases detallan el cómputo por país, excepciones y experiencia posdoctoral; deben revisarse antes de presentar candidatura.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2027",
+      "calendar": "El BOE fija el cierre en el 23 de septiembre de 2026. Es la convocatoria para becas de 2027; comprobar también la hora límite en las bases.",
+      "editionState": "announced",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25830",
+        "label": "Convocatoria Junior Leader 2027 publicada por la fundación en el BOE"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Modalidad, destino, contrato y plazo",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25830",
+        "phrases": [
+          "Retaining: 20 becas",
+          "contrato laboral de 3 años",
+          "23 de septiembre de 2026",
+          "español y portugués"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Becas Barrié de posgrado en el extranjero · 2026",
+    "institution": "Fundación Barrié",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://becas.fundacionbarrie.org/posgrado/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Nacionalidad española y vínculo con Galicia por nacimiento, ascendencia o residencia previa según las bases. Grado oficial terminado o finalización condicionada en 2026; trámites de admisión iniciados e idioma acreditado.",
+    "duration": "Un curso; posible prórroga hasta un máximo de 24 meses",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Máximo de 50.000 EUR por curso. Incluye matrícula docente, 1.000 EUR iniciales de viaje y 1.600 EUR mensuales de manutención dentro del límite. Las tasas administrativas no se incluyen."
+    },
+    "eligibilityNote": "Diez becas para máster oficial presencial a tiempo completo y realizado íntegramente fuera de España. Se contemplan aquí únicamente destinos europeos. Esta edición de posgrado no debe mezclarse con doctorados, posdoctorados o estancias biomédicas de otros programas Barrié.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "37.ª edición · 2026",
+      "calendar": "Solicitudes del 15 de diciembre de 2025 al 27 de febrero de 2026. Convocatoria cerrada.",
+      "editionState": "past",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://becas.fundacionbarrie.org/posgrado/wp-content/uploads/sites/2/2025/11/BPE-2026_Bases-convocatoria.pdf",
+        "label": "Bases de posgrado 2026",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Máster y ámbito",
+        "url": "https://becas.fundacionbarrie.org/posgrado/wp-content/uploads/sites/2/2025/11/BPE-2026_Bases-convocatoria.pdf",
+        "phrases": [
+          "título oficial de máster",
+          "todas las áreas de conocimiento",
+          "Galicia"
+        ]
+      },
+      {
+        "field": "Cobertura",
+        "url": "https://becas.fundacionbarrie.org/posgrado/wp-content/uploads/sites/2/2025/11/BPE-2026_Bases-convocatoria.pdf",
+        "phrases": [
+          "50.000 euros",
+          "1.600 euros mensuales",
+          "1.000 euros"
+        ]
+      },
+      {
+        "field": "Edición y cierre",
+        "url": "https://becas.fundacionbarrie.org/posgrado/wp-content/uploads/sites/2/2025/11/BPE-2026_Bases-convocatoria.pdf",
+        "phrases": [
+          "37ª edición",
+          "27 de febrero de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ramón Areces — contratos para tesis doctorales en ciencias · 2026",
+    "institution": "Fundación Ramón Areces",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/ayudas-fundacion-ramon-areces-para-la-realizacion-de-tesis-doctorales-en-ciencias-de-la-vida-y-de-la-materia-2026.html",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Titulación de al menos 240 ECTS; nota media superior a 7,5/10; admisión presente o posible a doctorado presencial en España. Sin doctorado previo ni contrato predoctoral anterior superior a seis meses.",
+    "duration": "Un año, renovable hasta cuatro años con evaluación favorable",
+    "funding": {
+      "kind": "salary",
+      "text": "35.000 EUR brutos anuales destinados al coste total del contrato, incluidas cargas sociales y gastos obligatorios; no equivalen al salario bruto personal. Añade 2.000 EUR por anualidad para gastos de investigación y hasta dos estancias de 4.000 EUR cada una bajo condiciones."
+    },
+    "eligibilityNote": "La línea de Física y Matemáticas permite proyectos de matemáticas dentro del ámbito TRAMA. Solicita la persona candidata con aval de dirección de tesis y centro español. El contrato se formaliza con el centro, no con la fundación.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026",
+      "calendar": "Solicitudes del 2 de septiembre al 2 de octubre de 2026; comienzo del programa desde enero de 2027.",
+      "editionState": "announced",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Área, requisitos, duración y financiación",
+        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/ayudas-fundacion-ramon-areces-para-la-realizacion-de-tesis-doctorales-en-ciencias-de-la-vida-y-de-la-materia-2026.html",
+        "phrases": [
+          "Física y Matemáticas",
+          "240 créditos",
+          "superior a 7,5",
+          "6 meses",
+          "35.000 euros brutos anuales",
+          "máxima de cuatro años"
+        ]
+      },
+      {
+        "field": "Calendario",
+        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/ayudas-fundacion-ramon-areces-para-la-realizacion-de-tesis-doctorales-en-ciencias-de-la-vida-y-de-la-materia-2026.html",
+        "phrases": [
+          "2 de octubre de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ramón Areces — posdoctorado en el extranjero en ciencias · 2026/27",
+    "institution": "Fundación Ramón Areces",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/becas-fundacion-ramon-areces-para-estudios-postdoctorales-xxxviii-convocatoria-para-ampliacion-de-estudios-en-el-extranjero-en-ciencias-de-la-vid.html",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Nacionalidad española, doctorado obtenido antes de solicitar, aceptación del centro extranjero e idioma de trabajo acreditado. Preferencia a doctorados de 2022–2026.",
+    "duration": "Un año, con posible prórroga de un segundo año",
+    "funding": {
+      "kind": "scholarship",
+      "text": "2.800 EUR mensuales netos. Incluye viaje anual de ida y vuelta organizado por la agencia concertada y seguros en las condiciones de las bases."
+    },
+    "eligibilityNote": "Ámbito financiado mundial; esta ficha se limita a centros europeos y a proyectos de matemáticas. Incompatible con otras becas o ayudas similares. El centro debe aceptar la estancia sin bench fees. La página oficial marca la convocatoria cerrada.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "XXXVIII convocatoria · 2026/27",
+      "calendar": "La página oficial fija solicitudes del 21 de enero al 23 de febrero de 2026. Disfrute del 1 de octubre de 2026 al 30 de septiembre de 2027.",
+      "editionState": "past",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Área y elegibilidad",
+        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/becas-fundacion-ramon-areces-para-estudios-postdoctorales-xxxviii-convocatoria-para-ampliacion-de-estudios-en-el-extranjero-en-ciencias-de-la-vid.html",
+        "phrases": [
+          "Física y Matemáticas",
+          "nacionalidad española",
+          "título de doctor"
+        ]
+      },
+      {
+        "field": "Cobertura y duración",
+        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/becas-fundacion-ramon-areces-para-estudios-postdoctorales-xxxviii-convocatoria-para-ampliacion-de-estudios-en-el-extranjero-en-ciencias-de-la-vid.html",
+        "phrases": [
+          "2.800 euros mensuales NETOS",
+          "prorrogable por un segundo año"
+        ]
+      },
+      {
+        "field": "Cierre oficial",
+        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/becas-fundacion-ramon-areces-para-estudios-postdoctorales-xxxviii-convocatoria-para-ampliacion-de-estudios-en-el-extranjero-en-ciencias-de-la-vid.html",
+        "phrases": [
+          "23 de febrero de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ramón Areces — retorno del talento, modalidades Junior y Senior · 2026",
+    "institution": "Fundación Ramón Areces",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/programa-de-retorno-del-talento/edicion-2026/",
+    "kind": "funding-programme",
+    "stage": "faculty",
+    "eligibleStages": [
+      "postdoc",
+      "faculty"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Nacionalidad española; trayectoria investigadora remunerada en el extranjero de al menos cinco años (Junior) o diez (Senior), sin plaza comprometida ni excedencia en España. Propuesta de acogida de una institución pública española.",
+    "duration": "Junior: dos años; Senior: cinco años, con evaluaciones",
+    "funding": {
+      "kind": "grant",
+      "text": "Presupuesto de proyecto: 200.000 EUR en la modalidad Junior y 1.250.000 EUR en Senior, con pagos y evaluación anual. No se interpreta como salario individual ni contratación automática."
+    },
+    "eligibilityNote": "Presentación con la institución pública de acogida de un proyecto científico y plan de continuidad en España. La modalidad Senior exige liderazgo como investigador principal. Aplicable a las disciplinas TRAMA dentro de su alcance científico general.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "IV edición · 2026",
+      "calendar": "Solicitudes del 10 de febrero al 30 de junio de 2026; cerrada.",
+      "editionState": "past",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Elegibilidad y alcance",
+        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/programa-de-retorno-del-talento/edicion-2026/",
+        "phrases": [
+          "nacionalidad española",
+          "cinco (5) años",
+          "diez (10) años",
+          "cualquier materia científica"
+        ]
+      },
+      {
+        "field": "Financiación y plazo",
+        "url": "https://www.fundacionareces.es/fundacionareces/es/convocatorias/programa-de-retorno-del-talento/edicion-2026/",
+        "phrases": [
+          "200.000 euros",
+          "1.250.000 euros",
+          "30 de junio de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Santander Investigación — ayudas predoctorales y posdoctorales · 2026",
+    "institution": "Banco Santander · universidades españolas y Fundación CSIC",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://www.santanderopenacademy.com/es/sites/scholarships/becas-santander-investigacion.html",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado",
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Personal investigador en formación o posdoctoral vinculado a una institución participante. Cada universidad determina sus criterios y documentación; comprobar la convocatoria local.",
+    "funding": {
+      "kind": "grant",
+      "text": "Ayuda complementaria de 2.000 EUR para personal predoctoral o 4.000 EUR para posdoctoral. No constituye financiación completa de un doctorado ni salario."
+    },
+    "eligibilityNote": "Programa agrupado: no se cuentan de nuevo las convocatorias universitarias como esquemas distintos. Puede requerirse solicitud tanto en la plataforma como en la universidad. No exige ser cliente para solicitar; los beneficiarios deben abrir una cuenta Santander para cobrar según las FAQs.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026",
+      "calendar": "Calendario específico de cada institución participante; revisar su convocatoria y resolución.",
+      "editionState": "unknown",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Etapas y cuantías",
+        "url": "https://www.santanderopenacademy.com/es/sites/scholarships/becas-santander-investigacion.html",
+        "phrases": [
+          "Personal Investigador Predoctoral 2026",
+          "Personal Investigador Postdoctoral 2026",
+          "2.000 euros",
+          "4.000 euros"
+        ]
+      },
+      {
+        "field": "Adjudicación institucional",
+        "url": "https://www.santanderopenacademy.com/es/sites/scholarships/becas-santander-investigacion.html",
+        "phrases": [
+          "Será tu universidad la encargada"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fundación ONCE Investiga — doctorado y posdoctorado · 2026/27",
+    "institution": "Fundación ONCE",
+    "country": "ES",
+    "funderCountry": "ES",
+    "url": "https://becas.fundaciononce.es/Paginas/BecasProgramaInvestiga.aspx",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado",
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Persona con discapacidad reconocida de al menos el 33%, nacionalidad española o residencia legal en España, y dedicación exclusiva. La solicitud corresponde a una universidad, instituto universitario o centro público de investigación español.",
+    "duration": "Un año; hasta dos con nueva solicitud, justificación y presupuesto",
+    "funding": {
+      "kind": "grant",
+      "text": "18.000 EUR brutos anuales para doctorado o 30.000 EUR para posdoctorado, destinados por el centro a remuneración del investigador. El centro asume la Seguridad Social y formaliza la relación correspondiente. Cofinanciación FSE+."
+    },
+    "eligibilityNote": "Doctorado: matrícula a tiempo completo de antigüedad no superior a dos años y máster de acceso terminado en los últimos cinco, calculados conforme a las bases. Posdoctorado: título de doctor y requisitos específicos. Incompatible con otras ayudas de finalidad análoga. Se siguen las bases, que aceptan residencia legal, frente al resumen web que solo cita nacionalidad.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "II convocatoria · 2026/27",
+      "calendar": "Publicada en julio de 2026; cierre del 30 de octubre de 2026.",
+      "editionState": "announced",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidencePages": [
+      {
+        "url": "https://becas.fundaciononce.es/doc/II%20CONVOCATORIA%20FUNDACION%20ONCE-INVESTIGA.pdf",
+        "label": "Bases de la II convocatoria ONCE-Investiga",
+        "format": "pdf"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Elegibilidad",
+        "url": "https://becas.fundaciononce.es/doc/II%20CONVOCATORIA%20FUNDACION%20ONCE-INVESTIGA.pdf",
+        "phrases": [
+          "nacionalidad española o residencia legal en España",
+          "igual o superior al 33%"
+        ]
+      },
+      {
+        "field": "Dotación y plazo",
+        "url": "https://becas.fundaciononce.es/doc/II%20CONVOCATORIA%20FUNDACION%20ONCE-INVESTIGA.pdf",
+        "phrases": [
+          "18.000 euros anuales",
+          "30.000 euros anuales",
+          "30 de octubre de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fundación Universia — apoyo a estudiantes con discapacidad · 2026/27",
+    "institution": "Fundación Universia",
+    "country": "EU",
+    "funderCountry": "ES",
+    "url": "https://www.fundacionuniversia.net/es/becas-cursos/universidad-fp-discapacidad.html",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "grado",
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación",
+    "researchNote": "Ayuda competitiva aplicable a las disciplinas TRAMA en los destinos europeos indicados; no garantiza admisión ni concesión.",
+    "entry": "Estudiantes españoles o extranjeros residentes en España, mayores de 16 años y con discapacidad reconocida de al menos el 33%, matriculados en 2026/27 en una titulación admitida.",
+    "funding": {
+      "kind": "grant",
+      "text": "Ayuda de 1.000 EUR por persona; 300 ayudas anunciadas. Complemento para continuar los estudios, no una beca de matrícula completa."
+    },
+    "eligibilityNote": "La convocatoria admite instituciones nacionales e internacionales; TRAMA considera sus destinos europeos y titulaciones universitarias del ámbito. También incluye FP y otros estudios fuera del ámbito de esta ficha. La página contiene una fecha de resolución 2025 en una tarjeta: sus FAQs fijan el 14 de diciembre de 2026; se debe confirmar en las bases antes de solicitar.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "2026/27",
+      "calendar": "Inscripción del 6 de julio al 28 de septiembre de 2026, 23:59, zona horaria Madrid.",
+      "editionState": "announced",
+      "note": "Cada edición requiere comprobar sus propias bases. La presencia en el directorio no implica plazo abierto."
+    },
+    "evidenceChecks": [
+      {
+        "field": "Estudios, ayuda y elegibilidad",
+        "url": "https://www.fundacionuniversia.net/es/becas-cursos/universidad-fp-discapacidad.html",
+        "phrases": [
+          "1.000 euros",
+          "españoles o extranjeros residentes en España",
+          "33 %",
+          "máster",
+          "doctorado"
+        ]
+      },
+      {
+        "field": "Destino y cierre",
+        "url": "https://www.fundacionuniversia.net/es/becas-cursos/universidad-fp-discapacidad.html",
+        "phrases": [
+          "nacional o internacional",
+          "28 de septiembre de 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tampere University — becas de matrícula de máster",
+    "institution": "Tampere University",
+    "country": "FI",
+    "funderCountry": "FI",
+    "url": "https://www.tuni.fi/en/tau/financial-matters/tuition-fees-and-scholarships",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Solicitantes de máster sujetos a matrícula, normalmente de fuera de la UE/EEE y Suiza, salvo las exenciones aplicables. Selección académica competitiva junto con la admisión; no todos los programas conceden becas.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "La beca de admisión 2026 cubre el 50 % de la matrícula durante la duración prevista del programa. No financia la manutención."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "duration": "Duración prevista del máster",
+    "eligibilityNote": "Solicitud junto con la admisión. La universidad ofrece además un descuento inicial por pago temprano, sujeto a sus propios plazos; no equivale a una beca completa.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Admisión 2026",
+      "editionState": "past",
+      "calendar": "La página distingue las reglas de 2026 de las de cohortes anteriores; confirmar las condiciones de la próxima admisión.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.tuni.fi/en/tau/financial-matters/tuition-fees-and-scholarships",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Edición y cobertura",
+        "phrases": [
+          "Scholarships available at admission in 2026",
+          "cover 50%"
+        ]
+      },
+      {
+        "field": "Límite de programas",
+        "phrases": [
+          "Scholarships are not awarded in all programmes"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "University of Eastern Finland — descuentos y exenciones parciales de máster",
+    "institution": "University of Eastern Finland",
+    "country": "FI",
+    "funderCountry": "FI",
+    "url": "https://www.uef.fi/en/tuition-fees-waivers-and-scholarships",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Estudiantes sujetos a matrícula de un máster internacional. Para el descuento inicial hay que aceptar y pagar la primera cuota dentro de los 21 días posteriores a la oferta. Para la exención del segundo año se exige progreso académico y que el programa ofrezca esa modalidad.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Cohorte 2027: descuento Early Bird del 30 % el primer año; posible exención del 30 % el segundo año tras completar al menos 55 ECTS durante el primero. No cubre manutención."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "eligibilityNote": "La exención del segundo año requiere solicitud en su periodo propio. Confirmar disponibilidad en el máster elegido; la página anuncia reglas de 2027, no una beca completa universal.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Admisión 2027",
+      "editionState": "announced",
+      "calendar": "Consultar la siguiente admisión y los plazos específicos del máster; la exención por progreso se solicita durante los estudios.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.uef.fi/en/tuition-fees-waivers-and-scholarships",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Edición y descuento",
+        "phrases": [
+          "Tuition waivers for 2027 intake",
+          "30% Early Bird discount"
+        ]
+      },
+      {
+        "field": "Progreso",
+        "phrases": [
+          "at least 55 ECTS credits"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LUT University — descuento inicial y beca de segundo año de máster",
+    "institution": "LUT University",
+    "country": "FI",
+    "funderCountry": "FI",
+    "url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/early-bird-discount-and-scholarships-masters-studies",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Estudiantes que pagan matrícula en másteres de dos años de LUT. La beca del segundo año exige completar al menos 60 ECTS del plan personal durante el primero y cumplir los plazos de pago.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Descuento Early Bird de 5.000 EUR en el primer año, con pago dentro de 21 días; beca de 5.000 EUR en el segundo año si se cumple el progreso exigido."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "duration": "Dos años, con condiciones diferentes en cada curso",
+    "feeNote": "Son reducciones parciales de matrícula. Los programas conjuntos tienen políticas propias; no se garantiza manutención.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Reglas de la página de admisión",
+      "editionState": "unknown",
+      "calendar": "La elegibilidad depende de la oferta, el pago y el progreso académico; comprobar el calendario de la cohorte.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/early-bird-discount-and-scholarships-masters-studies",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Cuantía y progreso",
+        "phrases": [
+          "LUT scholarship of EUR 5,000",
+          "at least 60 ECTS credits"
+        ]
+      },
+      {
+        "field": "Excepciones y plazo",
+        "phrases": [
+          "within 21 days",
+          "Partner (joint) programmes have separate scholarship policies"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Umeå University Scholarship for International Students",
+    "institution": "Umeå University",
+    "country": "SE",
+    "funderCountry": "SE",
+    "url": "https://www.umu.se/en/education/application-and-admission/scholarships/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Estudiantes de fuera de UE/EEE/Suiza sujetos a matrícula, con un programa elegible de Umeå como primera opción. La solicitud académica y el pago de la tasa deben estar completos en plazo; selección por mérito.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Exención total o parcial de matrícula; selección competitiva. No se promete ayuda de manutención."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "eligibilityNote": "También admite estudiantes actuales elegibles para segundo año, matriculados y con la matrícula de primavera pagada; no durante una pausa de estudios. Esta ficha corresponde a la ayuda general, no a la modalidad de diseño ni a las becas del Swedish Institute.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "edition": "Ronda 2026",
+      "editionState": "past",
+      "calendar": "En 2026: primera opción antes del 15 de enero y registro de interés hasta el 4 de marzo; resultados el 17 de abril. Confirmar el calendario siguiente.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.umu.se/en/education/application-and-admission/scholarships/",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Periodicidad y cobertura",
+        "phrases": [
+          "Each year",
+          "full or partial waiver"
+        ]
+      },
+      {
+        "field": "Prioridad y calendario",
+        "phrases": [
+          "priority 1",
+          "4 March",
+          "17 April"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Örebro University Scholarship",
+    "institution": "Örebro University",
+    "country": "SE",
+    "funderCountry": "SE",
+    "url": "https://www.oru.se/english/study/master-students/scholarships/ORUscholarship/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Admisión incondicional a un máster de Örebro como primera opción; ciudadanía de fuera de UE/EEE/Suiza y obligación de pagar matrícula. Se excluyen la lista de espera, la admisión condicional y quienes reciben una beca del Swedish Institute.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Exención completa de matrícula para una selección de expedientes; los gastos de vida quedan a cargo del estudiante."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "eligibilityNote": "La página mezcla una fecha de tasa de solicitud de febrero de 2027 con el calendario 2026/27. Confirmar la próxima ronda directamente; no se deduce una apertura actual.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "edition": "2026/27",
+      "editionState": "past",
+      "calendar": "Ronda cerrada el 9 de abril de 2026. La universidad prevé publicar el calendario 2027/28 como máximo en diciembre de 2026.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.oru.se/english/study/master-students/scholarships/ORUscholarship/",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Cobertura",
+        "phrases": [
+          "covers full tuition fees",
+          "does not cover living expenses"
+        ]
+      },
+      {
+        "field": "Edición y acceso",
+        "phrases": [
+          "Conditionally admitted students",
+          "April 09, 2026",
+          "varies every year"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Åbo Akademi — reducciones de matrícula de máster",
+    "institution": "Åbo Akademi University",
+    "country": "FI",
+    "funderCountry": "FI",
+    "url": "https://www.abo.fi/en/study/apply/international-master-programmes/scholarship-programme-for-master-students/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Admitidos desde 2026 en un máster internacional sujetos a matrícula. La reducción del primer año requiere aceptar la plaza y pagar dentro del plazo indicado en la oferta.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Reducción de 4.000 EUR sobre los 12.000 EUR de matrícula del primer año mediante compromiso temprano; otra reducción de 4.000 EUR el segundo año sin solicitud separada."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "duration": "Máximo de los dos primeros años",
+    "feeNote": "Las antiguas exenciones del 80 % o 100 % no se ofrecen a nuevos admitidos desde 2026. La ayuda no cubre manutención.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Admisión 2026 y posteriores",
+      "editionState": "unknown",
+      "calendar": "El plazo individual para el descuento del primer año figura en la carta de admisión; verificar que las reglas se mantienen para la cohorte elegida.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.abo.fi/en/study/apply/international-master-programmes/scholarship-programme-for-master-students/",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Cohortes y cuantía",
+        "phrases": [
+          "students admitted in 2026 or later",
+          "reduction of 4000 €",
+          "first two years"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Åbo Akademi — ayudas generales de investigación doctoral",
+    "institution": "Åbo Akademi University",
+    "country": "FI",
+    "funderCountry": "FI",
+    "url": "https://www.abo.fi/en/research-at-aau/research-grants/",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "entry": "Doctorandos de Åbo Akademi inscritos como presentes al cierre, con supervisor identificado y dedicación a tiempo completo. No admite financiación equivalente simultánea; no puede superar 48 meses totales de financiación doctoral.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Para 2027: ayuda personal de 2.500 EUR al mes durante 4–12 meses.",
+      "amount": 2500,
+      "currency": "EUR",
+      "period": "month"
+    },
+    "duration": "4–12 meses",
+    "eligibilityNote": "Esta ficha corresponde únicamente a las ayudas doctorales generales. Los otros fondos descritos en la misma página tienen disciplinas y reglas propias.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Financiación 2027",
+      "editionState": "past",
+      "calendar": "Solicitud del 1 al 20 de septiembre de 2026. El periodo financiado corresponde a 2027; consultar las condiciones de inicio anticipado.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.abo.fi/en/research-at-aau/research-grants/",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Modalidad y cuantía",
+        "phrases": [
+          "ÅAU general doctoral research grants",
+          "4-12 grant months",
+          "2500 €/month"
+        ]
+      },
+      {
+        "field": "Calendario y límite",
+        "phrases": [
+          "September 20, 2026",
+          "48 months"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "JYU Scholarship — segundo año del máster",
+    "institution": "University of Jyväskylä",
+    "country": "FI",
+    "funderCountry": "FI",
+    "url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/scholarships-tuition-fees",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Estudiantes sujetos a matrícula que completen al menos 55 ECTS durante el primer año del máster y soliciten la ayuda durante el semestre de primavera. Se concede a quienes cumplan los criterios.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Para la cohorte 2027, exención parcial en el segundo año según la matrícula del programa; no hay beca universitaria general para el primer año ni financiación completa."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "duration": "Solo el segundo año del máster",
+    "feeNote": "Si el máster se prolonga más allá de dos años se paga la matrícula completa de los semestres adicionales. El descuento Early Bird inicial sigue un procedimiento distinto.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Admisión 2027",
+      "editionState": "announced",
+      "calendar": "Las reglas publicadas corresponden a quienes empiezan en 2027; la ayuda se solicita durante los estudios. No aplicar las antiguas condiciones de cohortes hasta 2025.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.jyu.fi/en/study-with-us/masters-degree-programmes/scholarships-tuition-fees",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Cohorte y progreso",
+        "phrases": [
+          "Scholarships offered by JYU, 2027 intake",
+          "at least 55 ECTS credits"
+        ]
+      },
+      {
+        "field": "Duración",
+        "phrases": [
+          "only offered for the second year"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Malmö University Excellence Scholarship — estudiantes de máster en curso",
+    "institution": "Malmö University",
+    "country": "SE",
+    "funderCountry": "SE",
+    "url": "https://student.mau.se/en/my-studies/scholarships/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Estudiantes actuales sujetos a matrícula que continúan al segundo año del máster. Deben haber completado las asignaturas previstas para el curso; selección según rendimiento académico y fondos disponibles.",
+    "funding": {
+      "kind": "tuition-waiver",
+      "text": "Exención parcial o de hasta toda la matrícula; no incluye manutención. El número de ayudas depende de los fondos anuales."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "eligibilityNote": "Modalidad MUES para estudiantes en curso. La beca de nuevo ingreso y las ayudas de movilidad que también aparecen en la página son programas diferentes.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "edition": "Calendario para estudiantes en curso",
+      "editionState": "unknown",
+      "calendar": "Consultar la convocatoria del año académico correspondiente antes de solicitar; no se infiere que esté abierta.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://student.mau.se/en/my-studies/scholarships/",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Modalidad",
+        "phrases": [
+          "Malmö University Excellence Scholarship",
+          "second or third year"
+        ]
+      },
+      {
+        "field": "Requisitos y cobertura",
+        "phrases": [
+          "all their courses",
+          "partial or up to the full tuition fee"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cybernetica Fellowship — máster en informática y datos",
+    "institution": "University of Tartu / Cybernetica",
+    "country": "EE",
+    "funderCountry": "EE",
+    "url": "https://cs.ut.ee/en/content/cybernetica-fellowship",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Alumnado de Software Engineering, Computer Science o Data Science and Artificial Intelligence de Tartu. Nuevos admitidos: puntuación de acceso de 85–100; segundo año: media mínima de 3,6.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "5.000 EUR anuales abonados en diez meses; la fuente incluye también dos meses de prácticas de verano remuneradas. Selección de una fellowship al año.",
+      "amount": 5000,
+      "currency": "EUR",
+      "period": "year"
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "fields": [
+      "Informática",
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "duration": "Hasta dos años, sujeto a las condiciones",
+    "eligibilityNote": "No es compatible con empleo en Cybernetica ni con determinadas becas nominativas; revisar excepciones para ayudas públicas y de viaje. Incluye trabajo de investigación en colaboración con la empresa.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "edition": "Convocatoria 2026",
+      "editionState": "past",
+      "calendar": "Plazo hasta el 13 de septiembre de 2026; selección prevista para el 1 de octubre. Confirmar la siguiente edición.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://cs.ut.ee/en/content/cybernetica-fellowship",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Cuantía",
+        "phrases": [
+          "5000 euros annually",
+          "10 months"
+        ]
+      },
+      {
+        "field": "Acceso y calendario",
+        "phrases": [
+          "85-100 points",
+          "at least 3.6",
+          "13 September 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MindTitan Scholarship — investigación en datos e inteligencia artificial",
+    "institution": "University of Tartu / MindTitan",
+    "country": "EE",
+    "funderCountry": "EE",
+    "url": "https://cs.ut.ee/en/mindtitan-scholarship",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Estudiantes de grado o máster del Institute of Computer Science de Tartu que destaquen en estudios e investigación sobre datos e IA, dentro del periodo normal y sin excedencia. Esta ficha recoge su aplicación al máster.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Dos ayudas de 2.500 EUR cada año, mediante selección competitiva.",
+      "amount": 2500,
+      "currency": "EUR",
+      "period": "one-off"
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido.",
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning"
+    ],
+    "eligibilityNote": "Una persona puede recibirla como máximo dos veces. Es incompatible con las becas Cybernetica, Villig y Kaasik; comprobar las excepciones para otras ayudas.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "edition": "Convocatoria 2026",
+      "editionState": "past",
+      "calendar": "Solicitudes hasta el 15 de mayo de 2026; resultados anunciados el 3 de junio. Confirmar el siguiente plazo.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://cs.ut.ee/en/mindtitan-scholarship",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Cuantía y continuidad",
+        "phrases": [
+          "2500 euros",
+          "Two scholarships are awarded each year"
+        ]
+      },
+      {
+        "field": "Ámbito y calendario",
+        "phrases": [
+          "data science and artificial intelligence",
+          "15 May 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ulam NAWA — incorporación de investigadores a Polonia",
+    "institution": "Polish National Agency for Academic Exchange (NAWA)",
+    "country": "PL",
+    "funderCountry": "PL",
+    "url": "https://nawa.gov.pl/en/programy-nawa/programy-nawa-alias/programy/ulam-nawa-2026-1",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc",
+      "faculty"
+    ],
+    "entry": "Doctorado y vinculación investigadora en el extranjero, actual o terminada después del 31 de agosto de 2025; al menos tres logros relevantes en cinco años. En los tres años previos no haber trabajado o estudiado en Polonia ni permanecido allí más de tres meses consecutivos.",
+    "funding": {
+      "kind": "grant",
+      "text": "Financiación al centro para contratar al investigador durante 6–24 meses: hasta 17.000 PLN mensuales, incluyendo costes del empleador. No es un salario neto individual."
+    },
+    "duration": "6–24 meses",
+    "eligibilityNote": "Solicita la institución polaca receptora. Admite cualquier origen, aunque los investigadores con ciudadanía polaca están limitados al 10 % de los responsables del conjunto de la convocatoria.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Ulam NAWA 2026",
+      "editionState": "past",
+      "calendar": "Convocatoria cerrada el 15 de mayo de 2026; proyectos con inicio entre febrero y diciembre de 2027.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://nawa.gov.pl/en/programy-nawa/programy-nawa-alias/programy/ulam-nawa-2026-1",
+        "label": "Condiciones oficiales de la ayuda"
+      },
+      {
+        "url": "https://nawa.gov.pl/nawa/aktualnosci/otwarty-nabor-w-programie-ulam-nawa-2026",
+        "label": "Requisitos de movilidad, trayectoria y límites de la convocatoria 2026"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Doctorado, duración y financiación",
+        "phrases": [
+          "at least a doctoral degree",
+          "6 to 24 months",
+          "including employer costs",
+          "submitted by institutions"
+        ]
+      },
+      {
+        "field": "Movilidad y trayectoria",
+        "url": "https://nawa.gov.pl/nawa/aktualnosci/otwarty-nabor-w-programie-ulam-nawa-2026",
+        "phrases": [
+          "3 lat",
+          "3 miesiące",
+          "3 znaczące osiągnięcia",
+          "10%"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bolyai János Research Scholarship",
+    "institution": "Hungarian Academy of Sciences (MTA)",
+    "country": "HU",
+    "funderCountry": "HU",
+    "url": "https://mta.hu/aktualis-palyazati-kiirasok/palyazat-a-magyar-tudomanyos-akademia-bolyai-janos-kutatasi-osztondijanak-elnyeresere-2026-ban-115075",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc",
+      "faculty"
+    ],
+    "entry": "Ciudadanos húngaros o investigadores húngaros del exterior con doctorado, sin el título MTA doktora y menores de 45 años; ampliación de dos años por cada hijo menor. Requiere acogida en un centro científico de Hungría y solicitud en húngaro.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "250.000 HUF mensuales según la convocatoria 2026, durante uno, dos o tres años.",
+      "amount": 250000,
+      "currency": "HUF",
+      "period": "month"
+    },
+    "duration": "1–3 años",
+    "eligibilityNote": "Se exige empleo mínimo de 20 horas semanales en un centro húngaro, con excepción para investigadores húngaros del exterior; estos también necesitan acogida. Incompatible con otra beca de investigación que cubra remuneración personal.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Convocatoria 2026",
+      "editionState": "past",
+      "calendar": "Solicitud electrónica hasta el 9 de marzo de 2026; financiación desde el 1 de septiembre de 2026.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://mta.hu/aktualis-palyazati-kiirasok/palyazat-a-magyar-tudomanyos-akademia-bolyai-janos-kutatasi-osztondijanak-elnyeresere-2026-ban-115075",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Nacionalidad, edad y empleo",
+        "phrases": [
+          "magyar állampolgár",
+          "45. életévét",
+          "heti 20 órás",
+          "magyar nyelven"
+        ]
+      },
+      {
+        "field": "Cuantía y calendario",
+        "phrases": [
+          "250.000 Ft",
+          "2026. március 9."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Polish Returns — retorno de investigadores y creación de equipos",
+    "institution": "Polish National Agency for Academic Exchange (NAWA)",
+    "country": "PL",
+    "funderCountry": "PL",
+    "url": "https://nawa.gov.pl/en/scientists/polish-returns",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc",
+      "faculty"
+    ],
+    "entry": "Investigadores con ciudadanía polaca y experiencia reciente en el extranjero. Junior Fellow: hasta siete años desde el doctorado; Senior Fellow: investigadores con experiencia dirigiendo equipos o proyectos. La institución receptora presenta la solicitud.",
+    "funding": {
+      "kind": "grant",
+      "text": "Financiación de la remuneración del investigador principal, equipo y persona anfitriona durante tres o cuatro años. Los máximos publicados son presupuestos del proyecto, no una beca mensual personal."
+    },
+    "duration": "3–4 años",
+    "eligibilityNote": "Revisar en las bases el periodo exigido de experiencia en el extranjero y las condiciones de cada modalidad. Los componentes adicionales de NCN, NCBR o ABM siguen sus reglas propias.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Polish Returns 2025",
+      "editionState": "past",
+      "calendar": "La convocatoria de referencia cerró el 15 de enero de 2026. La página general no acredita una nueva convocatoria abierta.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://nawa.gov.pl/en/scientists/polish-returns",
+        "label": "Condiciones oficiales de la ayuda"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Ciudadanía y etapa",
+        "phrases": [
+          "Polish citizenship",
+          "up to seven years"
+        ]
+      },
+      {
+        "field": "Duración y cierre",
+        "phrases": [
+          "three or four years",
+          "15 January 2026"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DGES — becas de acción social para estudios de máster",
+    "institution": "Direção-Geral do Ensino Superior (DGES)",
+    "country": "PT",
+    "funderCountry": "PT",
+    "url": "https://www.dges.gov.pt/pt/pagina/bolsas-de-estudo?canal=Sou-Estudante",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "entry": "Estudiantes de máster en instituciones portuguesas que cumplan las condiciones económicas, académicas y de nacionalidad o residencia del régimen de acción social. Incluye portugueses y categorías de residentes, refugiados y convenios expresamente previstas.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Ayuda de cuantía individual según situación económica y reglas de acción social, abonada mediante pagos mensuales; pueden existir complementos de alojamiento."
+    },
+    "researchNote": "Esta ayuda financia estudios; el componente de investigación debe comprobarse en el máster elegido. Debe comprobarse la modalidad de máster y el procedimiento de la institución.",
+    "eligibilityNote": "La mera admisión como estudiante internacional no otorga acceso a estas becas; consultar la exclusión y las excepciones humanitarias del régimen. La beca no se extiende al doctorado, que dispone de otras vías como FCT.",
+    "evidencePages": [
+      {
+        "url": "https://www.dges.gov.pt/pt/pagina/bolsas-de-estudo?canal=Sou-Estudante",
+        "label": "Condiciones oficiales de la ayuda"
+      },
+      {
+        "url": "https://www.dges.gov.pt/pt/faq/atribuicao-de-bolsas-de-estudo?canal=sou-instituicao",
+        "label": "Condiciones y límites del régimen de acción social"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Etapa y pago",
+        "phrases": [
+          "Em cursos de mestrado.",
+          "mensalmente, diretamente ao estudante"
+        ]
+      },
+      {
+        "field": "Residencia",
+        "phrases": [
+          "direito de residência permanente",
+          "refugiado"
+        ]
+      },
+      {
+        "field": "Estudiantes internacionales y excepción",
+        "url": "https://www.dges.gov.pt/pt/faq/atribuicao-de-bolsas-de-estudo?canal=sou-instituicao",
+        "phrases": [
+          "beneficiam exclusivamente da ação social indireta",
+          "emergência por razões humanitárias"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DARA Open PhD Fellowships",
+    "institution": "Danish Advanced Research Academy (DARA)",
+    "country": "DK",
+    "funderCountry": "DK",
+    "url": "https://www.daracademy.dk/fellowship/dara-open-fellowship-call---winter-2025-26",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "entry": "Candidatos de cualquier nacionalidad elegibles para admisión doctoral danesa 5+3 o 4+4, con supervisor y compromiso del centro. No haber iniciado el doctorado al solicitar. Investigación dentro del ámbito científico de DARA.",
+    "funding": {
+      "kind": "grant",
+      "text": "La edición Winter 2025/26 financia el 80 % de salario y matrícula doctoral; el centro o supervisor debe garantizar el 20 % restante. Incluye costes indirectos según el tipo de institución."
+    },
+    "duration": "Según el modelo doctoral 5+3 o 4+4 admitido",
+    "eligibilityNote": "Se excluyen, entre otras aplicaciones, finanzas, publicidad, defensa, vigilancia, ciberseguridad y videojuegos. Esta ficha cubre destinos europeos: la fuente admite también Groenlandia, fuera del ámbito de TRAMA.",
+    "researchNote": "La transferencia anunciada de fellowships de ciencia de datos de DDSA a DARA en 2027–2029 no confirma las reglas ni la apertura de esas futuras convocatorias.",
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "edition": "Winter 2025/26",
+      "editionState": "past",
+      "calendar": "Edición cerrada el 20 de febrero de 2026. El índice conserva también Summer 2025; confirmar la siguiente convocatoria.",
+      "note": "La continuidad del programa no acredita que la siguiente convocatoria esté abierta."
+    },
+    "evidencePages": [
+      {
+        "url": "https://www.daracademy.dk/fellowship/dara-open-fellowship-call---winter-2025-26",
+        "label": "Condiciones oficiales de la ayuda"
+      },
+      {
+        "url": "https://www.daracademy.dk/fellowships",
+        "label": "Ediciones y modalidades del programa"
+      },
+      {
+        "url": "https://ddsa.dk/news/the-past-the-present-and-the-future-of-danish-data-science-academy/",
+        "label": "Transición anunciada de las fellowships de ciencia de datos 2027–2029"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Acceso y financiación",
+        "phrases": [
+          "5+3 model",
+          "4+4 model",
+          "80%",
+          "remaining 20%",
+          "20th of February 2026"
+        ]
+      },
+      {
+        "field": "Exclusiones",
+        "phrases": [
+          "cyber security",
+          "Greenland"
+        ]
+      },
+      {
+        "field": "Ediciones",
+        "url": "https://www.daracademy.dk/fellowships",
+        "phrases": [
+          "Summer 2025",
+          "Winter 2025/26"
+        ]
+      },
+      {
+        "field": "Transición, no apertura",
+        "url": "https://ddsa.dk/news/the-past-the-present-and-the-future-of-danish-data-science-academy/",
+        "phrases": [
+          "2027, 2028 and 2029"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Clarendon — becas de máster y doctorado",
+    "institution": "University of Oxford",
+    "country": "GB",
+    "funderCountry": "GB",
+    "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/clarendon",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master",
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Solicitar un máster o DPhil de Oxford antes del plazo de diciembre o enero del curso; consideración automática, sin solicitud separada.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Cubre matrícula y una ayuda de manutención durante el periodo de responsabilidad de tasas del curso. Concesión competitiva por expediente y potencial académico; importe de manutención según edición."
+    },
+    "duration": "Durante el periodo financiable del curso, según su régimen de tasas.",
+    "eligibilityNote": "Admite cualquier nacionalidad, residencia y disciplina; incluye estudios a tiempo completo y parcial. Deben cumplirse los requisitos del curso y su plazo concreto.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://theology.web.ox.ac.uk/funding",
+        "label": "Oxford: condiciones generales de Clarendon publicadas por la Facultad de Teología"
+      },
+      {
+        "url": "https://www.wolfson.ox.ac.uk/scholarships/",
+        "label": "Wolfson College: calendario general y consideración automática de Clarendon"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Acceso internacional",
+        "phrases": [
+          "no restrictions on nationality"
+        ]
+      },
+      {
+        "field": "Cobertura",
+        "phrases": [
+          "course fees",
+          "living expenses"
+        ]
+      },
+      {
+        "field": "Calendario",
+        "phrases": [
+          "December or January"
+        ],
+        "url": "https://www.wolfson.ox.ac.uk/scholarships/"
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "calendar": "La solicitud del curso debe llegar antes de su plazo de diciembre o enero; no hay fecha universal.",
+      "edition": "Calendario general; confirmar edición del curso",
+      "editionState": "unknown",
+      "note": "Directorio del programa recurrente; no acredita que la solicitud del curso esté abierta."
+    },
+    "primaryEvidenceUrl": "https://theology.web.ox.ac.uk/funding"
+  },
+  {
+    "title": "Newton International Fellowships — investigación posdoctoral en Reino Unido",
+    "institution": "The Royal Society",
+    "country": "GB",
+    "funderCountry": "GB",
+    "url": "https://royalsociety.org/grants/newton-international/",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Doctorado defendido antes del cierre, como máximo cinco años de experiencia posdoctoral activa y un supervisor patrocinador en Reino Unido.",
+    "funding": {
+      "kind": "salary",
+      "text": "Hasta 280.000 GBP para el conjunto del proyecto de dos años: salario, investigación y traslado/visado. El límite no es un salario personal; las partidas y condiciones concretas deben acordarse con el anfitrión."
+    },
+    "duration": "Dos años; ajustes por circunstancias personales según condiciones.",
+    "eligibilityNote": "Debe residir fuera de Reino Unido. La regla general excluye ciudadanía británica; Oxford describe una excepción condicionada para doble ciudadanía que debe confirmarse con el financiador. Admite ciencias naturales, matemáticas e ingeniería. Cada patrocinador solo respalda una candidatura por ronda.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://www.physics.ox.ac.uk/research/research-funding-support/fellowship-applications/postdoctoral-level-fellowships/royal-1",
+        "label": "Oxford Physics: programa Newton, requisitos y calendario 2026"
+      },
+      {
+        "url": "https://marc.kcl.ac.uk/positions/",
+        "label": "King’s College London: financiación Newton y fecha final 2026"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Presupuesto y duración",
+        "phrases": [
+          "£280,000",
+          "two years of funding"
+        ]
+      },
+      {
+        "field": "Movilidad y ciudadanía",
+        "phrases": [
+          "outside the UK",
+          "not hold UK citizenship"
+        ]
+      },
+      {
+        "field": "Edición",
+        "phrases": [
+          "11 March 2026"
+        ]
+      },
+      {
+        "field": "Corroboración por anfitrión",
+        "url": "https://marc.kcl.ac.uk/positions/",
+        "phrases": [
+          "£280,000 over two years",
+          "Defended PhD by deadline"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Ronda 2026 cerrada el 11 de marzo; Oxford anticipa la próxima ronda para principios de 2027 sin calendario firme.",
+      "edition": "2026",
+      "editionState": "past",
+      "note": "Las fechas internas de Oxford no son los plazos del financiador. Confirmar bases nuevas y restricciones de residencia, doble ciudadanía y regreso al laboratorio previo."
+    },
+    "primaryEvidenceUrl": "https://www.physics.ox.ac.uk/research/research-funding-support/fellowship-applications/postdoctoral-level-fellowships/royal-1"
+  },
+  {
+    "title": "1851 Research Fellowships — ciencias, matemáticas e ingeniería",
+    "institution": "Royal Commission for the Exhibition of 1851",
+    "country": "GB",
+    "funderCountry": "GB",
+    "url": "https://royalcommission1851.org/fellowships/research-fellowships",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Doctorado reciente o en finalización y proyecto propio en ciencias, matemáticas o ingeniería. Debe acordarse un anfitrión; la vía descrita se limita a instituciones británicas.",
+    "funding": {
+      "kind": "grant",
+      "text": "Puede formalizarse como empleo con costes de nómina cubiertos o como investigador autónomo con estipendio equivalente. Añade 10.000 GBP anuales para gastos de investigación; no es íntegramente dinero personal disponible."
+    },
+    "duration": "Normalmente hasta tres años, sujetos a revisión anual.",
+    "eligibilityNote": "Las condiciones de 2026 pedían generalmente cambiar de institución y no superar tres años posdoctorales al inicio. La web general usa 2,5 años a 31 de enero: comprobar el criterio de la nueva edición. No se infiere ciudadanía admisible.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://royalcommission1851.org/research-fellowships-eligibility-and-benefits",
+        "label": "Elegibilidad y cobertura"
+      },
+      {
+        "url": "https://royalcommission1851.org/uploads/Research-Fellowships-TCs-2026.pdf",
+        "label": "Condiciones históricas de la ronda 2026",
+        "format": "pdf",
+        "pages": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Próxima edición",
+        "phrases": [
+          "Applications for 2027 will open in October"
+        ]
+      },
+      {
+        "field": "Financiación",
+        "phrases": [
+          "Full payroll cost",
+          "£10,000 pa"
+        ],
+        "url": "https://royalcommission1851.org/research-fellowships-eligibility-and-benefits"
+      },
+      {
+        "field": "Ruta británica",
+        "phrases": [
+          "UK Institution"
+        ],
+        "url": "https://royalcommission1851.org/uploads/Research-Fellowships-TCs-2026.pdf"
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "calendar": "La solicitud 2027 abrirá en octubre de 2026; plazo final aún no indicado en la página.",
+      "edition": "2027",
+      "editionState": "announced",
+      "note": "Los términos 2026 sustentan la estructura del programa, no garantizan condiciones idénticas en 2027."
+    }
+  },
+  {
+    "title": "CYD Master Thesis Fellowship — tesis en ciberseguridad y datos",
+    "institution": "EPFL / armasuisse — Cyber-Defence Campus",
+    "country": "CH",
+    "funderCountry": "CH",
+    "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-master/",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Estar matriculado en un máster de una institución suiza y contar con el apoyo de un profesor o supervisor de esa institución para la tesis.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Hasta seis meses de 2.500 CHF mensuales y hasta 1.500 CHF totales de material específico. Para estudiantes de EPFL, la ayuda se paga como salario bruto sujeto a cotizaciones; no se presenta como importe neto universal."
+    },
+    "duration": "Hasta seis meses.",
+    "eligibilityNote": "Cualquier nacionalidad, sin límite de edad. La ayuda permite realizar la tesis en el CYD Campus; no financia un máster completo ni sustituye su admisión.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/",
+        "label": "Programa conjunto EPFL–armasuisse"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Matrícula previa",
+        "phrases": [
+          "enrolled in a Master program"
+        ]
+      },
+      {
+        "field": "Manutención",
+        "phrases": [
+          "CHF 2’500.- per month"
+        ]
+      },
+      {
+        "field": "Solicitud continua",
+        "phrases": [
+          "Rolling call for Proposals"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "rolling",
+      "calendar": "La página declara recepción continua de solicitudes; comprobar temas, supervisión y condiciones.",
+      "edition": "Solicitud continua",
+      "editionState": "unknown",
+      "note": "Estancia para una tesis de máster ya matriculado, no plaza de acceso al máster."
+    }
+  },
+  {
+    "title": "CYD Doctoral Fellowships — ciberdefensa y ciencia de datos",
+    "institution": "EPFL / armasuisse — Cyber-Defence Campus",
+    "country": "CH",
+    "funderCountry": "CH",
+    "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-phd/",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "En la segunda fase se exige matrícula doctoral en Suiza y apoyo de un profesor. Si dirige desde una escuela aplicada, debe acreditarse simultáneamente la matrícula en una universidad suiza.",
+    "funding": {
+      "kind": "salary",
+      "text": "Contribución salarial según la escala del anfitrión, con prestaciones sociales; hasta 3.000 CHF anuales para material específico y 5.000 CHF anuales para congresos."
+    },
+    "duration": "Cuatro años, con posible extensión de un año; puede solicitarse menos para completar la tesis.",
+    "eligibilityNote": "Cualquier nacionalidad, sin límite de edad. Investigación en CYD Campus con una institución suiza. La edición 15 aún no estaba abierta el 21 de septiembre de 2026.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/",
+        "label": "Programa conjunto y continuidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Matrícula",
+        "phrases": [
+          "Swiss higher education institution"
+        ]
+      },
+      {
+        "field": "Salario",
+        "phrases": [
+          "Salary contribution"
+        ]
+      },
+      {
+        "field": "Calendario futuro",
+        "phrases": [
+          "3 December 2026",
+          "25 February 2027"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Edición 15: apertura 3 de diciembre de 2026; fase 1 hasta 25 de febrero de 2027, 17:00 CET.",
+      "edition": "15.ª convocatoria · 2027",
+      "editionState": "announced",
+      "note": "Los documentos enlazados aún corresponden a la edición 14; revisar los nuevos cuando se publique la convocatoria."
+    }
+  },
+  {
+    "title": "CYD Distinguished Postdoctoral Fellowships",
+    "institution": "EPFL / armasuisse — Cyber-Defence Campus",
+    "country": "CH",
+    "funderCountry": "CH",
+    "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Proyecto posdoctoral en ciberdefensa con apoyo de un profesor de una institución suiza en la segunda fase de selección.",
+    "funding": {
+      "kind": "salary",
+      "text": "Contribución salarial según la escala del anfitrión, incluidas prestaciones sociales; hasta 3.000 CHF anuales de investigación y 5.000 CHF anuales para congresos."
+    },
+    "duration": "Hasta dos años.",
+    "eligibilityNote": "Cualquier nacionalidad. Debe cambiar de laboratorio respecto al doctorado y al postdoc actual, si lo tiene. La edición 15 se anuncia para diciembre de 2026, sin estar abierta aún.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/",
+        "label": "Programa conjunto y continuidad"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Cambio de laboratorio",
+        "phrases": [
+          "different laboratory"
+        ]
+      },
+      {
+        "field": "Duración",
+        "phrases": [
+          "up to two years"
+        ]
+      },
+      {
+        "field": "Calendario futuro",
+        "phrases": [
+          "3 December 2026",
+          "25 February 2027"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Edición 15: apertura 3 de diciembre de 2026; fase 1 hasta 25 de febrero de 2027, 17:00 CET.",
+      "edition": "15.ª convocatoria · 2027",
+      "editionState": "announced",
+      "note": "Los documentos de la edición 14 no sustituyen las bases de la nueva ronda."
+    }
+  },
+  {
+    "title": "EPFL AI Center and Swiss AI Initiative — Postdoctoral Fellowships",
+    "institution": "EPFL AI Center / Swiss AI Initiative",
+    "country": "CH",
+    "funderCountry": "CH",
+    "url": "https://www.epfl.ch/research/funding/epfl-programmes/ai-center/",
+    "kind": "funding-programme",
+    "stage": "postdoc",
+    "eligibleStages": [
+      "postdoc"
+    ],
+    "fields": [
+      "Machine learning",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Doctorado en informática, matemáticas aplicadas u otro campo pertinente para IA, obtenido como máximo dos años antes del cierre; también último año doctoral si se completa antes de incorporarse.",
+    "funding": {
+      "kind": "salary",
+      "text": "El programa aporta aproximadamente la mitad del salario según escala EPFL y los laboratorios anfitriones cubren el resto. Añade hasta 5.000 CHF por año para investigación, datos abiertos, publicaciones y viajes justificados."
+    },
+    "eligibilityNote": "Cualquier nacionalidad y sin límite de edad. Requiere el compromiso de dos profesores anfitriones afiliados al AI Center antes de solicitar. Duración concreta: comprobar las bases de la ronda.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "Dos anfitriones",
+        "phrases": [
+          "support of two EPFL host professors"
+        ]
+      },
+      {
+        "field": "Experiencia",
+        "phrases": [
+          "no more than two years"
+        ]
+      },
+      {
+        "field": "Calendario",
+        "phrases": [
+          "9 November 2026"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Tercera convocatoria: cierre 9 de noviembre de 2026 a las 17:00 CET.",
+      "edition": "3.ª convocatoria · 2026",
+      "editionState": "announced",
+      "note": "La página declara la convocatoria abierta en la lectura del 21 de septiembre; confirmar su estado al solicitar."
+    }
+  },
+  {
+    "title": "MILYON — becas de máster en matemáticas e informática",
+    "institution": "LabEx MILYON — Université de Lyon",
+    "country": "FR",
+    "funderCountry": "FR",
+    "url": "https://milyon.universite-lyon.fr/bourses--47496.kjsp",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Matemáticas aplicadas",
+      "Informática"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Expediente excelente y solicitud a uno de los másteres elegibles de Lyon–Saint-Étienne; idioma francés o inglés según el itinerario.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "La descripción general ofrece 1.000 EUR netos mensuales durante diez meses, con renovación mediante nueva evaluación. Puede complementar otras ayudas parciales hasta ese límite; confirmar cuantía en la nueva edición."
+    },
+    "duration": "Diez meses; renovación sujeta a revisión.",
+    "eligibilityNote": "Prioridad a estudiantes internacionales; también pueden solicitar los mejores estudiantes franceses. Se puede solicitar en paralelo a Ampère/Inria, con reglas de compatibilidad y sin duplicar cobertura.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://milyon.universite-lyon.fr/etudiants-bourses-d-excellence-99038.kjsp?RH=1537189046985",
+        "label": "Última convocatoria fechada recuperada: 2024"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Continuidad declarada",
+        "phrases": [
+          "Depuis 2012",
+          "chaque année"
+        ]
+      },
+      {
+        "field": "Cobertura",
+        "phrases": [
+          "1 000 euros net/mois",
+          "10 mois"
+        ]
+      },
+      {
+        "field": "Última edición fechada",
+        "phrases": [
+          "Calendrier 2024"
+        ],
+        "url": "https://milyon.universite-lyon.fr/etudiants-bourses-d-excellence-99038.kjsp?RH=1537189046985"
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "calendar": "La descripción general sitúa la apertura en octubre, cierre en enero y resultados en febrero; solo se recuperó una convocatoria fechada 2024.",
+      "edition": "Última convocatoria fechada leída: 2024",
+      "editionState": "unknown",
+      "note": "La fuente declara continuidad anual desde 2012, pero no se corroboró una convocatoria 2026/27. No se ofrece como abierta."
+    }
+  },
+  {
+    "title": "Chateaubriand STEM — estancia doctoral en Francia",
+    "institution": "Embassy of France in the United States",
+    "country": "FR",
+    "funderCountry": "FR",
+    "url": "https://chateaubriand-fellowship.org/stem-application/",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Estar matriculado en un doctorado de una universidad estadounidense, con proyecto STEM en un laboratorio francés y apoyo de supervisores en ambos países.",
+    "funding": {
+      "kind": "mobility-grant",
+      "text": "Hasta 1.850 EUR mensuales, según otras ayudas concurrentes, además de apoyo para viaje y seguro. La financiación es para la estancia de investigación en Francia."
+    },
+    "duration": "Entre cuatro y nueve meses.",
+    "eligibilityNote": "No exige ciudadanía estadounidense; excluye ciudadanía francesa, incluida doble nacionalidad. La ronda 2026/27 cerró el 25 de enero de 2026; inicio de estancia entre septiembre de 2026 y abril de 2027.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://chateaubriand-fellowship.org/",
+        "label": "Programa de la Embajada de Francia y duración"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Matrícula estadounidense",
+        "phrases": [
+          "registered in an American university"
+        ]
+      },
+      {
+        "field": "Financiación",
+        "phrases": [
+          "1850 euros/month"
+        ]
+      },
+      {
+        "field": "Ronda cerrada",
+        "phrases": [
+          "2026-2027 call for applications is closed"
+        ]
+      },
+      {
+        "field": "Duración",
+        "phrases": [
+          "4 to 9 months"
+        ],
+        "url": "https://chateaubriand-fellowship.org/"
+      }
+    ],
+    "recurrence": {
+      "category": "research-stay",
+      "frequency": "editions",
+      "calendar": "Convocatoria 2026/27 cerrada; confirmar una edición posterior en la fuente oficial.",
+      "edition": "2026/27",
+      "editionState": "past",
+      "note": "La elegibilidad depende de la matrícula estadounidense, pero el destino de la estancia es Francia."
+    }
+  },
+  {
+    "title": "Rosa-Luxemburg-Stiftung — becas doctorales y estancias en Alemania",
+    "institution": "Rosa-Luxemburg-Stiftung",
+    "country": "DE",
+    "funderCountry": "DE",
+    "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/doctoral-scholarship",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Expediente excelente, proyecto doctoral y compromiso social y político acorde con la fundación. Alemán de nivel B2 incluso cuando la tesis se redacta en inglés.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca doctoral competitiva; importe y complementos según la vía nacional o internacional. No se atribuye una cuantía única porque la página principal no la especifica."
+    },
+    "duration": "Hasta tres años; se descuentan periodos anteriores financiados para el mismo doctorado.",
+    "eligibilityNote": "Esta ficha cubre doctorado en Alemania o estancia doctoral allí con supervisión alemana. Las condiciones de residencia y admisión varían por vía; no se incluyen destinos extraeuropeos. No admite medicina ni becas de mera finalización.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://www.rosalux.de/stipendienbewerbung",
+        "label": "Ronda de solicitudes de otoño de 2026"
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Ámbito",
+        "phrases": [
+          "all disciplines (except medical disciplines)"
+        ]
+      },
+      {
+        "field": "Idioma",
+        "phrases": [
+          "level B2"
+        ]
+      },
+      {
+        "field": "Plazo vigente",
+        "phrases": [
+          "1. Oktober 2026 23:59 Uhr"
+        ],
+        "url": "https://www.rosalux.de/stipendienbewerbung"
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Solicitudes del 20 de agosto al 1 de octubre de 2026, 23:59 hora local.",
+      "edition": "Otoño de 2026",
+      "editionState": "announced",
+      "note": "La fuente alemana actualiza el plazo de 2026; el índice en inglés todavía muestra información de 2025."
+    }
+  },
+  {
+    "title": "FNRS Aspirant (ASP) — financiación doctoral",
+    "institution": "Fonds de la Recherche Scientifique — FNRS",
+    "country": "BE",
+    "funderCountry": "BE",
+    "url": "https://www.fnrs.be/en/financements/chercheur-doctorant",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Máster reconocido o acceso al doctorado acreditado por la universidad anfitriona, proyecto y supervisor en una universidad de la Comunidad francesa de Bélgica.",
+    "funding": {
+      "kind": "scholarship",
+      "text": "Beca doctoral de dos años, renovable por otros dos tras evaluación. Las disposiciones financieras y sociales del FNRS determinan los importes; no se presupone una cuantía neta uniforme."
+    },
+    "duration": "Dos años más una posible renovación de dos; existen adaptaciones específicas por discapacidad.",
+    "eligibilityNote": "La ronda 2026 cerró el 17 de febrero. Desde 2027 se amplía a cuatro años la antigüedad ordinaria del título y se limita a dos intentos; son reglas distintas de la convocatoria 2026. Requiere validación del candidato, supervisor y rectorado.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [
+      {
+        "url": "https://www.fnrs.be/en/fundings/grants-fellowships-2026",
+        "label": "Calendario y periodicidad 2026"
+      },
+      {
+        "url": "https://www.frs-fnrs.be/docs/Reglement-et-documents/FRS-FNRS_REGL_ASP_FR.pdf",
+        "label": "Reglamento ASP actualizado en julio de 2026",
+        "format": "pdf",
+        "pages": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "url": "https://www.fnrs.be/docs/Reglement-et-documents/FRS-FNRS_Mini-guide_2026_EN.pdf",
+        "label": "Transición de reglas 2026–2027",
+        "format": "pdf",
+        "pages": [
+          1,
+          3
+        ]
+      }
+    ],
+    "evidenceChecks": [
+      {
+        "field": "Instrumento",
+        "phrases": [
+          "Research Fellow - ASP",
+          "2-year fellowship"
+        ]
+      },
+      {
+        "field": "Convocatoria",
+        "phrases": [
+          "17 February 2026",
+          "Annual"
+        ],
+        "url": "https://www.fnrs.be/en/fundings/grants-fellowships-2026"
+      },
+      {
+        "field": "Ruta belga",
+        "phrases": [
+          "Communauté française de Belgique"
+        ],
+        "url": "https://www.frs-fnrs.be/docs/Reglement-et-documents/FRS-FNRS_REGL_ASP_FR.pdf"
+      },
+      {
+        "field": "Cambio de reglas",
+        "phrases": [
+          "take effect as of the 2027 call"
+        ],
+        "url": "https://www.fnrs.be/docs/Reglement-et-documents/FRS-FNRS_Mini-guide_2026_EN.pdf"
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "annual",
+      "calendar": "Ronda doctoral 2026: cierre de candidatos 17 de febrero, 14:00 de Bruselas; calendario 2027 aún no confirmado.",
+      "edition": "2026",
+      "editionState": "past",
+      "note": "No confundir el cierre doctoral con el plazo anterior de Chargé de recherches, que ya tiene otra ficha."
+    }
+  },
+  {
+    "title": "ASML Technology Scholarship — máster técnico en Países Bajos",
+    "institution": "ASML",
+    "country": "NL",
+    "funderCountry": "NL",
+    "url": "https://www.asml.com/en/careers/students-new-graduates/netherlands/scholarship",
+    "kind": "funding-programme",
+    "stage": "master",
+    "eligibleStages": [
+      "master"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Máster técnico de dos años en una universidad neerlandesa, grado terminado o próximo a completarse, media mínima equivalente a 7,00 y actividades extracurriculares.",
+    "funding": {
+      "kind": "partial-scholarship",
+      "text": "5.000 EUR por año durante los dos años del máster, con mentoría y desarrollo profesional. Es una ayuda parcial y no una exención de matrícula ni una oferta de empleo.",
+      "amount": 5000,
+      "currency": "EUR",
+      "period": "year"
+    },
+    "duration": "Dos años.",
+    "eligibilityNote": "Admite todas las nacionalidades. Entre los ámbitos elegibles figuran informática, IA, datos y matemáticas aplicadas. La edición para iniciar el máster en 2026 está cerrada; exige participar en las actividades del programa.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "Cuantía",
+        "phrases": [
+          "€5,000 per year"
+        ]
+      },
+      {
+        "field": "Acceso",
+        "phrases": [
+          "all nationalities",
+          "7.00 average grade score"
+        ]
+      },
+      {
+        "field": "Estado de la edición",
+        "phrases": [
+          "Applications are closed"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Ronda para inicio de máster en 2026 cerrada; no se confirma plazo de 2027.",
+      "edition": "2026",
+      "editionState": "past",
+      "note": "La beca y la admisión universitaria son procesos distintos."
+    }
+  },
+  {
+    "title": "FNR AFdoc — doctorado con empresa acreditada en Luxemburgo",
+    "institution": "Luxembourg National Research Fund (FNR)",
+    "country": "LU",
+    "funderCountry": "LU",
+    "url": "https://www.fnr.lu/funding-instruments/afdoc/",
+    "kind": "funding-programme",
+    "stage": "doctorado",
+    "eligibleStages": [
+      "doctorado"
+    ],
+    "fields": [
+      "Ciencia de datos",
+      "Machine learning",
+      "Estadística",
+      "Informática",
+      "Matemáticas aplicadas"
+    ],
+    "programmeType": "Programa de financiación individual",
+    "entry": "Vínculo con Luxemburgo conforme a las bases y matrícula doctoral como máximo al inicio. Esta ficha se limita a contratación en una empresa privada de I+D acreditada en Luxemburgo.",
+    "funding": {
+      "kind": "employment",
+      "text": "Contribución al anfitrión empleador de hasta 54.574 EUR anuales durante un máximo de cuatro años; incluye cargas patronales y cotizaciones, por lo que no equivale a salario neto. No cubre matrícula ni costes de investigación."
+    },
+    "duration": "Hasta cuatro años.",
+    "eligibilityNote": "La empresa debe colaborar con una universidad pública habilitada para otorgar el doctorado. Para TRAMA se retiene la ruta con universidad colaboradora europea; las otras modalidades mundiales del instrumento quedan fuera. No admite poseer ya un doctorado ni percibir pensión de vejez.",
+    "researchNote": "Aplicable a proyectos de las disciplinas TRAMA dentro de la ruta europea descrita. La beca exige selección; no sustituye la admisión ni garantiza una plaza.",
+    "evidencePages": [],
+    "evidenceChecks": [
+      {
+        "field": "Ruta luxemburguesa",
+        "phrases": [
+          "Luxembourg-based private companies"
+        ]
+      },
+      {
+        "field": "Relación laboral",
+        "phrases": [
+          "employment contract"
+        ]
+      },
+      {
+        "field": "Ámbito",
+        "phrases": [
+          "all fields of research"
+        ]
+      },
+      {
+        "field": "Primer plazo",
+        "phrases": [
+          "25 November 2026"
+        ]
+      }
+    ],
+    "recurrence": {
+      "category": "funding",
+      "frequency": "editions",
+      "calendar": "Primera convocatoria: 25 de noviembre de 2026, 14:00 CET. Próxima fecha anunciada: 28 de abril de 2027; dos rondas al año desde 2027.",
+      "edition": "Primera convocatoria · 2026",
+      "editionState": "announced",
+      "note": "Instrumento nuevo bajo la ley de agosto de 2026; no confundir con AFR, cuyo cierre está documentado."
     }
   }
 ]

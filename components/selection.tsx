@@ -7,7 +7,7 @@ import {OpportunityCard} from './opportunity-card';
 import {useSavedOpportunities} from './saved-opportunities';
 import {loadIndexes,loadDetails} from '@/lib/web-data';
 import {selectionCsv} from '@/lib/saved-selection';
-import {COUNTRY_NAMES,STAGES,STATUS_NAMES,statusOf,dateLabel,type Opportunity} from '@/lib/types';
+import {destinationLabel, funderCountryLabel,STAGES,STATUS_NAMES,statusOf,dateLabel,type Opportunity} from '@/lib/types';
 import type {SearchData} from '@/lib/search';
 import {sitePath} from '@/lib/site-path';
 import './selection.css';
@@ -87,15 +87,15 @@ export default function Selection() {
       const current = entries.map(entry => byId.get(entry.id));
       const response = await loadDetails(current.flatMap(record => record?[record.detailPath]:[]));
       if (response.failedPaths.length) throw new Error('Missing conditions');
-      const rows = [['Programa o plaza','Institución','País','Etapa','Estado','Financiación','Cierre','Comprobación','Fuente oficial','Ficha TRAMA']];
+      const rows = [['Programa o plaza','Institución','Destino', 'País de la entidad financiadora','Etapa','Estado','Financiación','Cierre','Calendario de la edición','Comprobación','Fuente oficial','Ficha TRAMA']];
       for (const entry of entries) {
         const index = byId.get(entry.id);
         const record = index && response.records[index.detailPath];
-        rows.push(record ? [record.title,record.institution,COUNTRY_NAMES[record.country]||record.country,
+        rows.push(record ? [record.title,record.institution,destinationLabel(record), record.funderCountry ? funderCountryLabel(record.funderCountry) : '',
           STAGES.find(stage => stage.id===record.stage)?.short||record.stage,STATUS_NAMES[statusOf(record)],
-          record.funding.text,record.deadline||'',record.verifiedAt||'',record.url,
+          record.funding.text,record.deadline||'',record.recurrence?.calendar||'',record.verifiedAt||'',record.url,
           new URL(sitePath('/oportunidad/'+record.id),location.origin).href] :
-          [entry.title,entry.institution,'','','No disponible en esta edición','','','','','']);
+          [entry.title,entry.institution,'','','','No disponible en esta edición','','','','','','']);
       }
       const blob = new Blob([selectionCsv(rows)],{type:'text/csv;charset=utf-8'});
       const url = URL.createObjectURL(blob);

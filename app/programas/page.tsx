@@ -7,7 +7,7 @@ export const metadata={title:'Programas recurrentes: escuelas de verano, estanci
 
 export default async function Page(){
  const catalogue=await getCatalogue();
- const programmes:RecurringRecord[]=catalogue.records.flatMap(record=>record.recurrence?[{id:record.id,title:record.title,institution:record.institution,country:record.country,url:record.url,stage:record.stage,eligibleStages:record.eligibleStages,entry:record.entry,verifiedAt:record.verifiedAt,lastError:record.lastError,recurrence:record.recurrence}]:[]);
+ const programmes:RecurringRecord[]=catalogue.records.flatMap(record=>record.recurrence?[{id:record.id,title:record.title,institution:record.institution,country:record.country,destinationCountries:record.destinationCountries,url:record.url,stage:record.stage,eligibleStages:record.eligibleStages,entry:record.entry,verifiedAt:record.verifiedAt,lastError:record.lastError,recurrence:record.recurrence}]:[]);
  return <main id="contenido" className="recurring-page wrap">
   <header className="page-intro"><p className="eyebrow">PREPARA LA SIGUIENTE CONVOCATORIA</p><h1>Programas a los que volver.</h1><p>Escuelas de verano, estancias de investigación y becas con continuidad documentada. Un lugar para planificar incluso cuando las solicitudes están cerradas.</p></header>
   <nav className="guide-jump" aria-label="En esta página"><a href="#programas-filtros">Buscar programas</a><a href="#preparar-programa">Preparar la solicitud</a></nav>

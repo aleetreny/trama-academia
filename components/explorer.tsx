@@ -8,7 +8,7 @@ import {
 } from 'lucide-react';
 import Link from './site-link';
 import {OpportunityCard} from './opportunity-card';
-import {STAGES, FIELDS, COUNTRY_NAMES, dateLabel, type Opportunity} from '@/lib/types';
+import {STAGES, FIELDS, COUNTRY_NAMES, funderCountryLabel, dateLabel, type Opportunity} from '@/lib/types';
 import {
   defaults, readFilters, filterQuery, selectRecords, researchMetric, isRanked, SUBJECTS,
   type Filters, type SearchData,
@@ -65,7 +65,7 @@ const FUNDING_SEARCHES: StartingSearch[] = [
   {label: 'Financiar un máster', filters: {stage: 'master'}},
   {label: 'Financiar un doctorado', filters: {stage: 'doctorado'}},
   {label: 'Ayudas postdoctorales', filters: {stage: 'postdoc'}},
-  {label: 'Becas y estipendios', filters: {funding: 'scholarship'}},
+  {label: 'Entidades españolas', filters: {funderCountry: 'ES'}},
 ];
 const emptyData: SearchData = {
   generatedAt: null, researchGeneratedAt: null, records: [], institutions: {},
@@ -216,7 +216,9 @@ export default function Explorer({funding = false}: {funding?: boolean}) {
     pageFocus.current = true;
     setF(previous => ({...previous, page: next}));
   };
-  const countries = useMemo(() => [...new Set(data.records.map(record => record.country))]
+  const countries = useMemo(() => [...new Set(data.records.flatMap(record => [record.country, ...(record.destinationCountries || [])]))]
+    .sort((a, b) => (COUNTRY_NAMES[a] || a).localeCompare(COUNTRY_NAMES[b] || b, 'es')), [data]);
+  const funderCountries = useMemo(() => [...new Set(data.records.map(record => record.funderCountry).filter((country): country is string => Boolean(country)))]
     .sort((a, b) => (COUNTRY_NAMES[a] || a).localeCompare(COUNTRY_NAMES[b] || b, 'es')), [data]);
   const eligible = useMemo(() => data.records.filter(record =>
     f.stage === 'all' || record.stage === f.stage || record.eligibleStages?.includes(f.stage as Opportunity['stage']),
@@ -237,7 +239,8 @@ export default function Explorer({funding = false}: {funding?: boolean}) {
   const filterLabels: Record<FilterKey, string> = {
     q: `Búsqueda: ${f.q}`,
     stage: `Etapa: ${optionLabel(stageOptions, f.stage)}`,
-    country: `País: ${COUNTRY_NAMES[f.country] || f.country}`,
+    country: `${funding ? 'Destino' : 'País'}: ${COUNTRY_NAMES[f.country] || f.country}`,
+    funderCountry: `Entidad: ${f.funderCountry === 'unknown' ? 'país no documentado' : funderCountryLabel(f.funderCountry)}`,
     field: `Área: ${f.field}`,
     kind: `Tipo: ${optionLabel(KIND_OPTIONS, f.kind)}`,
     status: `Vigencia: ${optionLabel(STATUS_OPTIONS, f.status)}`,
@@ -248,7 +251,7 @@ export default function Explorer({funding = false}: {funding?: boolean}) {
     closing: `Cierre: ${optionLabel(CLOSING_OPTIONS, f.closing)}`,
   };
   const activeFilters = (Object.keys(filterLabels) as FilterKey[]).filter(key => f[key] !== defaults[key]);
-  const secondaryCount = (['stage', 'kind', 'language', 'closing'] as const)
+  const secondaryCount = (funding ? ['field', 'funding', 'language', 'closing'] as const : ['stage', 'kind', 'language', 'closing'] as const)
     .filter(key => f[key] !== defaults[key]).length;
   const indicatorCount = Number(f.subject !== defaults.subject) + Number(f.tier !== defaults.tier);
   const startingSearches = funding ? FUNDING_SEARCHES : STARTING_SEARCHES;
@@ -314,18 +317,30 @@ export default function Explorer({funding = false}: {funding?: boolean}) {
         </button>
         <div id="explorer-filter-panel" className="explorer-filter-panel" data-open={filtersOpen}>
           <div className="explorer-primary-filters">
-            <Choice label="País" value={f.country} onChange={value => change('country', value)} options={countryOptions}/>
-            <Choice label="Área del programa" value={f.field} onChange={value => change('field', value)} options={[
+            <Choice label={funding ? "Destino de los estudios" : "País"} value={f.country} onChange={value => change('country', value)} options={countryOptions}/>
+            {!funding && <Choice label="Área del programa" value={f.field} onChange={value => change('field', value)} options={[
               ['all', 'Todas las áreas'], ...FIELDS.map(field => [field, field] as const),
-            ]}/>
-            <Choice label="Financiación" value={f.funding} onChange={value => change('funding', value)} options={FUNDING_OPTIONS}/>
+            ]}/>}
+            {funding ? <>
+              <Choice label="País de la entidad" value={f.funderCountry} onChange={value => change('funderCountry', value)} options={[
+                ['all', 'Cualquier entidad'], ...funderCountries.map(country => [country, funderCountryLabel(country)] as const),
+                ...(f.funderCountry !== 'all' && f.funderCountry !== 'unknown' && !funderCountries.includes(f.funderCountry) ? [[f.funderCountry, funderCountryLabel(f.funderCountry)] as const] : []),
+                ['unknown', 'País no documentado'],
+              ]}/>
+              <Choice label="Etapa académica" value={f.stage} onChange={value => change('stage', value)} options={stageOptions}/>
+            </> : <Choice label="Financiación" value={f.funding} onChange={value => change('funding', value)} options={FUNDING_OPTIONS}/>}
             <Choice label="Vigencia" value={f.status} onChange={value => change('status', value)} options={STATUS_OPTIONS}/>
           </div>
           <div className="explorer-filter-groups">
             <details className="explorer-filter-group">
               <summary>Más filtros{secondaryCount > 0 && <span> · {secondaryCount} activos</span>}</summary>
               <div className="explorer-secondary-filters">
-                <Choice label="Etapa académica" value={f.stage} onChange={value => change('stage', value)} options={stageOptions}/>
+                {funding ? <>
+                  <Choice label="Área del programa" value={f.field} onChange={value => change('field', value)} options={[
+                    ['all', 'Todas las áreas'], ...FIELDS.map(field => [field, field] as const),
+                  ]}/>
+                  <Choice label="Financiación" value={f.funding} onChange={value => change('funding', value)} options={FUNDING_OPTIONS}/>
+                </> : <Choice label="Etapa académica" value={f.stage} onChange={value => change('stage', value)} options={stageOptions}/>}
                 {!funding && <Choice label="Tipo" value={f.kind} onChange={value => change('kind', value)} options={KIND_OPTIONS}/>}
                 <Choice label="Idioma mencionado" value={f.language} onChange={value => change('language', value)} options={LANGUAGE_OPTIONS}/>
                 <Choice label="Cierre en" value={f.closing} onChange={value => change('closing', value)} options={CLOSING_OPTIONS}/>
@@ -374,6 +389,7 @@ export default function Explorer({funding = false}: {funding?: boolean}) {
           <button type="button" className="explorer-reset" onClick={reset}>Limpiar filtros</button>
         </div>
       )}
+      {funding && <p className="explorer-status-note">El destino y el país de la entidad son distintos: una fundación española puede financiar estudios fuera de España. La nacionalidad y la residencia admitidas se explican en cada ficha. El país de la entidad solo está disponible en las fichas revisadas para ese dato. «Varios países europeos» agrupa ayudas con varios destinos; confirma cuáles admite la convocatoria.</p>}
       <p className="explorer-status-note">Un programa puede tener convocatorias anuales: aparecer aquí no implica que admita solicitudes hoy. Una ayuda condicionada no garantiza financiación.</p>
       {incompatibleFundingType && (
         <p className="notice">

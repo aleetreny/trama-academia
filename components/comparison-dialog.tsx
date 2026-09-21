@@ -4,17 +4,19 @@ import Link from './site-link';
 import {X} from 'lucide-react';
 import {Dialog,DialogContent,DialogTitle,DialogDescription,DialogClose} from './ui/dialog';
 import {TableHeader,TableBody,TableRow,TableHead,TableCell} from './ui/table';
-import {COUNTRY_NAMES,dateLabel,statusOf,STATUS_NAMES,type Opportunity} from '@/lib/types';
+import {destinationLabel,funderCountryLabel,dateLabel,statusOf,STATUS_NAMES,type Opportunity} from '@/lib/types';
 import {opportunityHref} from '@/lib/return-path';
 const rows:[string,(record:Opportunity)=>ReactNode][]=[
- ['País',r=>COUNTRY_NAMES[r.country]||r.country],
+ ['Destino',r=>destinationLabel(r)],
+ ['País de la entidad financiadora',r=>r.funderCountry?funderCountryLabel(r.funderCountry):'No documentado'],
  ['Vigencia',r=>STATUS_NAMES[statusOf(r)]],
  ['Nivel de entrada',r=>r.entry],
  ['Financiación',r=>r.funding.text],
  ['Duración',r=>r.duration||'Por confirmar'],
  ['Contrato',r=>r.contract||'No confirmado'],
  ['Matrícula',r=>r.feeNote||'Consultar la fuente'],
- ['Cierre',r=>r.deadline?dateLabel(r.deadline):'Sin fecha publicada'],
+ ['Cierre',r=>r.deadline?dateLabel(r.deadline):r.recurrence?'Consultar calendario de la edición':'Consultar convocatoria'],
+ ['Calendario de la edición',r=>r.recurrence?.calendar||'Consultar convocatoria'],
  ['Comprobado',r=>dateLabel(r.verifiedAt)],
  ['Fuente oficial',r=><a href={r.url} target="_blank" rel="noreferrer">Consultar condiciones ↗</a>],
 ];

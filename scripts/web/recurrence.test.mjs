@@ -23,3 +23,9 @@ test('unknown recurring URL filters and unsafe page numbers fall back safely',()
  assert.equal(readRecurringFilters(new URLSearchParams('pagina=-2'),['CH']).page,1);
  assert.equal(readRecurringFilters(new URLSearchParams('q='+'x'.repeat(500)),['CH']).q.length,200);
 });
+test('recurring funding includes explicit destinations without inferring every European country',()=>{
+ const several={...records[2],id:'several',country:'EU',destinationCountries:['ES','PT']};
+ const generic={...records[2],id:'generic',country:'EU'};
+ assert.deepEqual(selectRecurringRecords([several,generic],{...recurringDefaults,country:'PT'}).map(r=>r.id),['several']);
+ assert.equal(selectRecurringRecords([several,generic],{...recurringDefaults,country:'FR'}).length,0);
+});

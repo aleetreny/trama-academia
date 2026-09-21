@@ -1,6 +1,7 @@
 import {load} from 'cheerio';
 import {clean} from './domain.mjs';
 import {restorePadovaCoursePanel} from './padova-programme.mjs';
+import {restoreDaraFellowshipPanel} from './dara-fellowship.mjs';
 const hiddenOrNavigation='nav,aside,footer,[role="navigation"],[role="banner"],[hidden],[aria-hidden="true"],[style*="display:none"],[style*="display: none"]';
 function degreeAdmissionPanels($){
  // Radboud's visible previous-degree selector opens two labelled regions. The
@@ -81,7 +82,7 @@ function restoreStreamedBoundaries($){
  }
 }
 export function programmeText(html){
- const $=load(html);restoreStreamedBoundaries($);restorePadovaCoursePanel($);
+ const $=load(html);restoreStreamedBoundaries($);restorePadovaCoursePanel($);restoreDaraFellowshipPanel($);
  const degreePanels=degreeAdmissionPanels($);restoreSelectedCourseHeaders($);
  // Reading places a real mobile tab trigger inside a header and gives it the
  // unusual role=tabpanel. Capture only its reciprocal, same-section panel before
